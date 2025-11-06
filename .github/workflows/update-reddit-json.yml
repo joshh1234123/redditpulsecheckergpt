@@ -48,6 +48,17 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python "${{ env.SCRIPT_PATH }}"
 
+          - name: Verify JSON exists and show a preview
+    run: |
+      if [ ! -f r_programmatic.json ]; then
+        echo "JSON not found. The script likely didn’t write the file."
+        exit 1
+      fi
+      echo "File size:"
+      wc -c r_programmatic.json || true
+      echo "First 60 lines:"
+      head -n 60 r_programmatic.json || true
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
