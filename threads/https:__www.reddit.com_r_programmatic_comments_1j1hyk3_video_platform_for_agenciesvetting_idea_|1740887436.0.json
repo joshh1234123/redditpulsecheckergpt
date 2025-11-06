@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "Video platform for agencies...vetting idea",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j1hyk3/video_platform_for_agenciesvetting_idea/",
+  "created_utc": 1740887436.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "BidTheory",
+      "body": "I’d focus on building something with a differentiator, something unique. Breaking into the plain vanilla general DSP market today is difficult and requires masssive CAPEX. But if you offer something the existing players don’t then you could have an opportunity even if your platform lacks some of their features and scale.",
+      "score": 3,
+      "created_utc": 1740900480.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "It’s hard to understand what you’ve built here: what do you mean by a “video platform”? Later in your post, you refer to your software as a “video player”. What features and functionality does this software offer?",
+      "score": 2,
+      "created_utc": 1740887925.0
+    },
+    {
+      "author": "DisastrousAd7809",
+      "body": "100% agree with @bidtheory. Agencies don’t need to own or shop around for price on this type of tech. Why bother comparing and competing with Google and Amazon?",
+      "score": 1,
+      "created_utc": 1741212117.0
+    },
+    {
+      "author": "soloinmiami",
+      "body": "Yeah sorry about the confusion. It's a player with anayltics tracking all kinds of different metrics related to how many plays, view through rates, domains where it was served, how long the ads are viewed and more granular stats as well. There's a CDN but if an agency has a preferred CDN (I'm sure many don't but just in case) we can plug that in as well. Basically a way to serve your video ads on any device. Some agencies might use AI tools as well for video ad creation. If incorporating some of that is helpful that's also an option. Finally, ad fraud filtering tools...we've got that too. Hopefully this adds some clarity.",
+      "score": 1,
+      "created_utc": 1740888600.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "I am following now. Agencies buy video advertising inventory and serve their video ads using Demand Side Platforms (DSP). Your software maybe more appealing to publishers (owners of the ad inventory on websites and apps)? All the best!",
+      "score": 2,
+      "created_utc": 1740892161.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Is that what VAST is for??",
+      "score": 1,
+      "created_utc": 1740917816.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "> Finally, ad fraud filtering tools...we've got that too. Hopefully this adds some clarity.\n\nJust make sure the ad fraud detection is on the publisher side, otherwise it'll mostly be worthless.",
+      "score": 1,
+      "created_utc": 1741011781.0
+    }
+  ]
+}

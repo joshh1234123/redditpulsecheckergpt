@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Programmatic on LinkedIn?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ghiujw/programmatic_on_linkedin/",
+  "created_utc": 1730503266.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "I can't remember if LinkedIn still offers standard display ads on its desktop site (I feel like they got rid of that), but if you're asking about running LinkedIn in-feed ads and whatnot programmatically, then no. Those types of ads are only available through LinkedIn's self-serve tools now.",
+      "score": 4,
+      "created_utc": 1730504487.0
+    },
+    {
+      "author": "childroid",
+      "body": "No, it's a social ads platform now. At least, as far as I know.",
+      "score": 1,
+      "created_utc": 1730526402.0
+    },
+    {
+      "author": "Ok-Astronomer-3141",
+      "body": "hi may I know the source for the packages? Are these from Xandr Curate?",
+      "score": 1,
+      "created_utc": 1732265776.0
+    },
+    {
+      "author": "lancequ01",
+      "body": "you are right, they went the facebook route and make all the slots to only be able to access through their own platform. cant buy them programmatically anymore",
+      "score": 2,
+      "created_utc": 1730517853.0
+    }
+  ]
+}

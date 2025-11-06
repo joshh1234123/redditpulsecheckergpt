@@ -1,0 +1,81 @@
+{
+  "id": null,
+  "title": "TTD vs CM Conversion Reporting",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gf329a/ttd_vs_cm_conversion_reporting/",
+  "created_utc": 1730229842.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "workredditaccount555",
+      "body": "It could literally be a bunch of different things so we will never figure it out. The first thing I would check - do you have identity alliance turned on in TTD for the reporting columns? If so, it's likely recording a lot of cross device conversions that CM360 can't pick up. I would turn that off.",
+      "score": 8,
+      "created_utc": 1730231236.0
+    },
+    {
+      "author": "lancequ01",
+      "body": "Attribution. Cm looks at the whole picture and that includes media not in ttd. But since you look in to path to conversions, then uou might want to look in to operating system. IOS conversions had drop significantly in cm the past couple of years but not that much in ttd.",
+      "score": 8,
+      "created_utc": 1730231045.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "It's probably being attributed to search",
+      "score": 4,
+      "created_utc": 1730241776.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "As as first step, I would check whether your TTD & CM attribution events and lookback windows identical? If not, you'll need to check all of the other points listed below by others. Is CM tracking more media, or just your programmatic? Are you measuring on the cross-device level in TTD using identity alliance? What's the make-up of spend and conversions attributed to environments and browsers which have more restrictions around cookie-based tracking like Firefox, Safari and IOS devices?\n\nPinpointing the exact 1-1 reason might not be possible, but there's absolutely a lot of different ways you can dissect and analyze the different data-sources to better understand what could cause this and from there look into ways to get these figures more closely lined up",
+      "score": 4,
+      "created_utc": 1730274146.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "CM has gotten so much worse at cross campaign reporting I would disregard it. It can’t measure certain channels like CTV at all and even what it used to be able to measure is falling apart.",
+      "score": 6,
+      "created_utc": 1730234894.0
+    },
+    {
+      "author": "LikeAfterSummer",
+      "body": "Using identity alliance attribution with TTD allows you to measure conversions across devices (you showed me an ad on my TV and later i went to your site on my phone).\n\nGoogle’s identity graph is not picking that up. \n\nAdditionally, TTD only will see their own campaigns. CM might be attributing credit to campaigns lower in the funnel like search unless they account for multi touch attribution.",
+      "score": 1,
+      "created_utc": 1730331140.0
+    },
+    {
+      "author": "vlad_chubakov",
+      "body": "Don't use CM as a source of truth for TTD conversions. This is a Google-owned system, that heavily relies on cookies/google IDs. At the same time, TTD uses its own identifier - UID2. These are just two different worlds and there is no point in running TTD if you measure it in CM - TTD gives the opportunity to measure CTV, Safari, cookielees environments etc. Also, it will be worse and worse in the future.",
+      "score": 1,
+      "created_utc": 1730369882.0
+    },
+    {
+      "author": "ThenTranslator6817",
+      "body": "CM is de-duping conversions against other channels like social (ie meta) while TTD only sees what they see. You could cut down on the attribution windows in TTD and that might help the numbers get closer together. That being said, don’t run TTD if doing a performance campaign - it doesn’t perform.",
+      "score": 0,
+      "created_utc": 1730256674.0
+    },
+    {
+      "author": "LikeAfterSummer",
+      "body": "dont turn it off- there’s no added fee for having multiple mappings. there’s a story to be told in seeing conversions that happen across multiple devices and quantifying that impact.\n\ninstead, i’d add an additional mapping that doesn’t use XD- see if those numbers align.",
+      "score": 3,
+      "created_utc": 1730331235.0
+    },
+    {
+      "author": "Fit-Distance2790",
+      "body": "This is just completely wrong.",
+      "score": 0,
+      "created_utc": 1730250731.0
+    },
+    {
+      "author": "workredditaccount555",
+      "body": "This is actually a great point",
+      "score": 1,
+      "created_utc": 1730383099.0
+    },
+    {
+      "author": "capitalifelendinginc",
+      "body": "While I get his point about CTV attribution (I don't see any CTV CM tracking in my DV for example), whats exactly wrong u/Fit-Distance2790?",
+      "score": 1,
+      "created_utc": 1730287542.0
+    }
+  ]
+}

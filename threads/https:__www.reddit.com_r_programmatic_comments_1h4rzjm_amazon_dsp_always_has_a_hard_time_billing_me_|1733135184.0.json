@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "Amazon DSP always has a hard time billing me",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h4rzjm/amazon_dsp_always_has_a_hard_time_billing_me/",
+  "created_utc": 1733135184.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "[deleted]",
+      "body": "I’ve been experiencing issues with Amazon portals in general while using Chrome but have noticed it once I added DSP. As we use 5-6 solutions for various reasons (Sponsored Ads, Amazon DSP, S3, Developer, FireBase, engineer might have others), I believe there is a bug while they allocate access for each dashboard on the backend.\n\nRegardless, try using a different browser. Otherwise, you might get some assistance by submitting a support ticket. They understand on the DSP side that time is money and users’ unable to access their own account is a big problem internally.",
+      "score": 2,
+      "created_utc": 1733157206.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Is by far the most incompetent billing system I've seen. Thankfully there are a few options with the API and invoice consolidation these days.",
+      "score": 2,
+      "created_utc": 1733158343.0
+    },
+    {
+      "author": "alledvantage",
+      "body": "Thanks! I've submitted a ticket now, as our initial contact about outstanding invoices didn't seem to lead anywhere. At least so far, support seems to recognize the issue.",
+      "score": 2,
+      "created_utc": 1733173336.0
+    },
+    {
+      "author": "alledvantage",
+      "body": "I've encountered issues with smaller SaaS companies, also in previous roles, but not with companies at this scale.  \n  \nI might go and try the API as part of our financial reconciliation process, thanks.",
+      "score": 1,
+      "created_utc": 1733173218.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Definitely worth it, I did something earlier in the year which has saved a huge amount of time.",
+      "score": 2,
+      "created_utc": 1733173448.0
+    }
+  ]
+}

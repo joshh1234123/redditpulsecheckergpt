@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "3rd Party Adserver Recommendation (w/ Real-Time Analytics)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1glb096/3rd_party_adserver_recommendation_w_realtime/",
+  "created_utc": 1730931954.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "sheezus69",
+      "body": "There are not many options out there that can supply real-time data. GAM has 90%+ of the market since it's free in most cases.\n\nWe use Adform's server, which is pretty robust. They only do hourly reporting.\n\nI know a lot of people who use Adbutler but can't use GAM because Google is blocking everything. I'm unsure if they have real-time data.",
+      "score": 3,
+      "created_utc": 1730936478.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Google: Iab openrtb vast\n\nDownload the pdf .. it’s all in there. Quartile data available with vast… then do with it as you wish.",
+      "score": 2,
+      "created_utc": 1730980248.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Honestly find out if you can supply your own vast end points… May be easier to create your own metrics.",
+      "score": 1,
+      "created_utc": 1730933003.0
+    },
+    {
+      "author": "Asleep_Loquat6794",
+      "body": "So you’re asking about a creative ad server to centralize your buyer reporting?",
+      "score": 1,
+      "created_utc": 1730973839.0
+    },
+    {
+      "author": "Snoo-43895",
+      "body": "We are working with Adtransfer. Statistics are updated every 10 minutes. They have aslo a lot of features about optimization.",
+      "score": 1,
+      "created_utc": 1736425138.0
+    },
+    {
+      "author": "georgiek50",
+      "body": "Can you please clarify? Thanks.",
+      "score": 1,
+      "created_utc": 1730977650.0
+    },
+    {
+      "author": "georgiek50",
+      "body": "Kind of. My goal is real time analytics while also capturing some of the bid stream data (e.g. domain, seller id, etc.). For context, if my DSP gave me this reporting in real time I wouldn’t be looking for an ad server. But there’s a 3-4 hour delay. Adbutler can do this to some degree but I’m looking for alternatives if there are any.",
+      "score": 2,
+      "created_utc": 1730977844.0
+    }
+  ]
+}

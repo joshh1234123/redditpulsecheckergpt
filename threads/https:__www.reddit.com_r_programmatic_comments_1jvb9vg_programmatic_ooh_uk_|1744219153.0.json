@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "Programmatic OOH - UK",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jvb9vg/programmatic_ooh_uk/",
+  "created_utc": 1744219153.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Perion / Hivestack is pretty solid for a DOOH specific platform.",
+      "score": 6,
+      "created_utc": 1744222323.0
+    },
+    {
+      "author": "Curious_Storage_9577",
+      "body": "Vistar Media is the largest SSP and taps into JCDecaux inventory via VIOOH",
+      "score": 2,
+      "created_utc": 1744250182.0
+    },
+    {
+      "author": "The_Captain101",
+      "body": "VIOOH have a great network. Hivestack, place exchange (SSP only) and vistar are probably the biggest. \n\nIn terms of media owners there are a number and happy to help.",
+      "score": 2,
+      "created_utc": 1744226500.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "Check out lemma",
+      "score": 1,
+      "created_utc": 1744470294.0
+    },
+    {
+      "author": "soapandwhory",
+      "body": "Splicky is also good with vast inventory across the UK. I'm not sure you can plug the campaign into DV360 though. They have their own DSP and you have the option of self-service or managed service.",
+      "score": 0,
+      "created_utc": 1744224266.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "Haven’t used it myself but I know MIQ has been marketing their prowess on UK DOOH",
+      "score": 0,
+      "created_utc": 1744247480.0
+    },
+    {
+      "author": "TheGrumpiestMan",
+      "body": "I agree with one of the other posters regarding DV360. It really is the worst way to by DOOH in any market. For the UK, Displayce has been recommended to me many times. I believe they're owned by JCDecaux but also seem to have the most SSP connections compared to everyone else. And their AI tool looks quite fun to play with.",
+      "score": 0,
+      "created_utc": 1744269542.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "Do they plug into DV360? Ideally all run from our side on DV.",
+      "score": 0,
+      "created_utc": 1744222402.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "They have their own DSP. There is a small integration with DV on the SSP side but if I'm honest DV360 DOOH is a poor product, especially outside of the US.",
+      "score": 1,
+      "created_utc": 1744222936.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "Yeah, thought that would be the case. Thanks for the info!",
+      "score": 0,
+      "created_utc": 1744222979.0
+    },
+    {
+      "author": "Coffe_Cusp",
+      "body": "TTD now have an integration to Hivestack SSP and their planning tool Sidekick",
+      "score": 1,
+      "created_utc": 1744299713.0
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "Best Connected TV Platforms?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1k0pink/best_connected_tv_platforms/",
+  "created_utc": 1744822993.0,
+  "num_comments": 20,
+  "comments": [
+    {
+      "author": "misfitsx138",
+      "body": "Are you more hands on keyboard or do you want more of a managed service experience? Like access to ssps and direct publishers etc. What’s the target audience. Most dsps have access to most inventory but it’s all about winning those bids and your strategy you know. Plus it sounds like attribution is high on your list.",
+      "score": 5,
+      "created_utc": 1744824219.0
+    },
+    {
+      "author": "hendoselfserve",
+      "body": "Program specific buys  usually requires private / guaranteed deal setup with the individual publishers.  Aggregators, 3rd party  and DSPs won't be much help here . To reach any kind of national scale or meaningful national GRPS / reach by program on CTV, you'd  want to work with a number of publishers directly.  For Sports, you can review  league and game rights holders and contact the holders/publishers directly to set up specific buys based on teams or leagues.  If you want a list of sports right holders, contact me . You can also purchase time period specific  local news  on FAST/CTV channels through the local and network stations groups' national sales team or their rep firm, but you will have to aggregate buys across  several groups  to achieve a national footprint and you'll be limited to local news (and perhaps local sports in some markets) .  You could also work with locality's (formerly gamut) new video team.  they  may make  a video spot buy  easier for you as they rep many tv stations (including their streaming inventory) and major publishers (Max, Disc) across local DMAs...but I don't think you'll get a program specific purchase.  \n\n\n\nYou can also reach out to me as I sell for a network TV / cable company with our own streaming platform.  The only CTV platform we don't place on is Netflix.  However, outside of own owned inventory, I cannot schedule program specific purchases (only time period).  \n\nAlso,  \n\nGood luck .",
+      "score": 5,
+      "created_utc": 1744826398.0
+    },
+    {
+      "author": "cuteman",
+      "body": "TTD or DV360 thru a reseller agency with much smaller minimums is superior to MNTN in practically every way if you can't hit the budgets or contract length to go direct to TTD of DV360.\n\nThing is you'll have trouble attributing success on smaller CTV budgets more than any other ad type. It's hard to make an impact on 4-5 figure budgets without seriously narrowing geo. \n\nCPMs are higher than almost every other media so impressions are lower. You're also almost always better off also including Pre-Roll/Display for retargeting CTV viewers as running CTV alone is less effective.",
+      "score": 7,
+      "created_utc": 1744829010.0
+    },
+    {
+      "author": "Admirable_Froyo8115",
+      "body": "Viant",
+      "score": 5,
+      "created_utc": 1744916576.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "I’d look at StackAdapt. They take credit cards and have no mins",
+      "score": 9,
+      "created_utc": 1744832657.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Magnite, Clearline worth a look.",
+      "score": 8,
+      "created_utc": 1744833781.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "There are a few good CTV options depending on what you’re solving for. Tatari is strong if you’re looking for a more managed-service model with linear + CTV and advanced incrementality tools. Vibe is pretty turnkey and works well for brands that want fast setup and don’t need deep customization. TVScientific is interesting too—leaning more into a performance-driven, self-serve approach with integrations into platforms like Google Analytics and some ecom tools.\n\nI’m the founder of [AdLib](https://getadlib.com), which we built to give brands more control without the usual constraints—no spend minimums, credit card billing, and direct access to premium inventory with support for contextual and program-level targeting. We integrate natively with Triple Whale, Northbeam, AppsFlyer, and Kochava, so measurement stays centralized and clean.\n\nIf you’re building a stack around flexibility, and performance, happy to share more. DM me.",
+      "score": 2,
+      "created_utc": 1744846939.0
+    },
+    {
+      "author": "Quiet_Acanthisitta19",
+      "body": "Tatari's a pretty reliable linear self serve buying platform. You can easily automate as much as you can, while  making sure you reach your expectations. I know they take credit cards, but you may wanna check their rates, if it's compatible with your budget.",
+      "score": 2,
+      "created_utc": 1747056400.0
+    },
+    {
+      "author": "Aman_SharmaJii",
+      "body": "Trade desk is best for CTV",
+      "score": 7,
+      "created_utc": 1744834569.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Show-level signals are no more than ~15% of bid requests in CTV, so not a viable option (excluding direct I/O with big platforms like Disney+ etc) \nGenre is less granular but far more bid requests carry this signal, so that's your better bet.\nOf course - you can theoretically access all kinds of targeting in CTV via many SSPs and data vendors... the issue is that it's HIGHLY black-box-ish. \nEven rudimentary socio-demo data is highly inaccurate in 3rd party signals.\n\nTransparency disclosure: I work for a DSP. \nNot here to advertise though. Still - take what I say with a grain of salt.",
+      "score": 1,
+      "created_utc": 1744998730.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Paramount+ has a self serve ad solution. I’ve been scaling the Amazon solution as well. \n\nFrom a publisher standpoint scaling install conversions, you can’t go wrong. Skip the middlemen At All Costs.",
+      "score": 1,
+      "created_utc": 1745080182.0
+    },
+    {
+      "author": "WorldFun8776",
+      "body": "If you want program level booking you are gonna have no luck if you are using a credit card - it takes a lot of $ to get that. \n\nI suggest talking to Tatari it’s remnant cable that can be booked by program.",
+      "score": 1,
+      "created_utc": 1745422964.0
+    },
+    {
+      "author": "jaydalmau",
+      "body": "check out JamLoop-Manged service. i can connect you with them if needed.",
+      "score": 0,
+      "created_utc": 1744901453.0
+    },
+    {
+      "author": "WanderEver",
+      "body": "Hands on keys, not really a managed service. Target audience is broad, looking for a solution that could span a few clients who are everything from B2B to startup D2C",
+      "score": 2,
+      "created_utc": 1744826293.0
+    },
+    {
+      "author": "PsychoticTurtle",
+      "body": "They also updated their CTV platform recently. You will have a hard time doing program specific buys anywhere but I’d second StackAdapt for no minimums + credit cards + CTV.",
+      "score": 8,
+      "created_utc": 1744852768.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "Seconded for StackAdapt, basically TTD lite at this point.\n\nYou could also try Brandzooka for something that runs off of TTD but is way way way simpler in abilities.",
+      "score": 5,
+      "created_utc": 1744834458.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Why are you being downvoted? The MNTN propaganda must run deep in this subw",
+      "score": 5,
+      "created_utc": 1744890859.0
+    }
+  ]
+}

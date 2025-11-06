@@ -1,0 +1,99 @@
+{
+  "id": null,
+  "title": "Can post click attribution ever come back into fashion?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jehuee/can_post_click_attribution_ever_come_back_into/",
+  "created_utc": 1742336857.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "MashMeister",
+      "body": "no because barely anyone clicks on a Display ad. You would be ignoring 99% of activity",
+      "score": 13,
+      "created_utc": 1742337910.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "What questions about reliability of MMM? All the \"big guys\" do MMMs. In practicality - it's the only sensible source of truth about marketing spend effectiveness.",
+      "score": 10,
+      "created_utc": 1742345066.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "If you're still reliant on click based attribution compared to conducting statistical incrementality experiments in this day and age, you're doing it wrong.",
+      "score": 6,
+      "created_utc": 1742350408.0
+    },
+    {
+      "author": "jambawamba010",
+      "body": "Really the only issues of reliability of MMMs is people running them that aren’t properly trained & educated on modeling best practices and proper input data formatting. Otherwise it’s sound methodology, especially Bayesian modeling using priors (experimentation).",
+      "score": 3,
+      "created_utc": 1742348008.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Question on reliability of MMM? maybe you should learn some coding and math to understand how it works, start with learning Bayesian statistics and markov chain monte carlo.\n\nLearn new skills than cursing it... I get it it's little hard to master but you can do it with practice..",
+      "score": 4,
+      "created_utc": 1742376634.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "If it does it’ll be right about the time asbestos is used in building materials, lead is used in paint, and we get rid of those pesky seatbelts that are so restricting.",
+      "score": 3,
+      "created_utc": 1742347193.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "I wanna tap on that billboard dinner while driving on the 405",
+      "score": 3,
+      "created_utc": 1742358159.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "I think for programmatic to come back to favour the walled gardens need to hit the same 'maturity' and come into more 'big picture' scrutiny.\n\nThey get favourable results on post click, low CPMs due to their volumes, but what value do they actually drive?\n\nI'd expect there needs to be some 'rebalance' between the channels. Although I haven't worked across MMM since very early days and when I was in house so I'm not sure where that lies but from personal experience I am skeptical of the value mix to how many currently invest.\n\nAlso further to moving away from post click is the value of Programmatic moving away from 'RTB' and being a pure acquisition channel. The movement to Curation and tight site lists I'd expect a shift of Branding activity to move away from direct IOs and move into Programmatic pipes.\n\nThere is a lot of potential in the future of programmatic but it's not going to be going 'backwards' to vanity metrics.",
+      "score": 1,
+      "created_utc": 1742374293.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "It will never truly die unfortunately as long as 1st party cookies exist on web or the continual development of API attribution solutions (like SKAN & Attribution Reporting API), which are heavy post click only solutions.\n\nBut it has been proven time & time again that the last click attribution model is incredibly inefficient to look at against either using other attribution models or even nothing at all.\n\nUltimately measurement remains the most important but complicated thing in digital advertising today, there will never be a 1 size fits all answer (no not even MMM). But there are steps / processes that can be taken to prove the value of any media.",
+      "score": 1,
+      "created_utc": 1742377989.0
+    },
+    {
+      "author": "EssayerX",
+      "body": "No one clicks",
+      "score": 1,
+      "created_utc": 1742457729.0
+    },
+    {
+      "author": "scotthefunky",
+      "body": "For 95% of businesses, I'd say no but there's likely still going to be a handful of niche offerings out there where it makes sense. Someone like lead gen resellers will still use post click due to the nature of their business.\n\nFor me the big challenge of MMMs is often the lift and scale needed for results, for some of my clients they require $500k / channel / year to get added which isn't always feasible for new testing",
+      "score": 1,
+      "created_utc": 1743007008.0
+    },
+    {
+      "author": "ArchitectofExperienc",
+      "body": "Have there been any recent studies done on click rate? The last I saw the rate of intentional clicks was something like 1 in 10k",
+      "score": 2,
+      "created_utc": 1742403100.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "This. Now, questions about data quality and accuracy feeding the models are another discussion entirely.",
+      "score": 2,
+      "created_utc": 1742350336.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Literally all of those things sound like something the Trump admin would start allowing, so you're telling me there's a chance!",
+      "score": 1,
+      "created_utc": 1742380885.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Of course. Garbage in - garbage out. \nAlso - like in any industry - there can be charlatans and just poor work. \nStill - a good MMM is a FANTASTIC source of insight.",
+      "score": 2,
+      "created_utc": 1742432587.0
+    }
+  ]
+}

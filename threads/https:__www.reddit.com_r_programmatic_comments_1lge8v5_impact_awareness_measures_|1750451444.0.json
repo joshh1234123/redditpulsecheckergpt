@@ -1,0 +1,123 @@
+{
+  "id": null,
+  "title": "Impact Awareness Measures",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lge8v5/impact_awareness_measures/",
+  "created_utc": 1750451444.0,
+  "num_comments": 19,
+  "comments": [
+    {
+      "author": "read_it-red-it",
+      "body": "Even with a large budget, brand lift/ad recall is garbage. What do you prove with it? My clients are transitioning away from it",
+      "score": 2,
+      "created_utc": 1750468618.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "**Before deciding which KPI to select as the primary one, I’d ask myself: 'What is the company’s business objective?' Is it to increase sales? If so, prioritize the metrics directly linked to that goal—like ROI, CPA, and the number of conversions. I know you’re working on the upper part of the purchase funnel, but consider this: even if your CTR, VCR, or brand awareness lift are high, will that necessarily translate into increased sales?**\n\n\n\n**As secondary metrics, I’d look at those available in Google Analytics 4. I’d pay attention to: number of engaged sessions, bounce rate, number of users in the last 30 days who visited product pages, and average time spent on those pages. These secondary indicators can tell you whether you’re attracting high-quality traffic and reaching the right audience.**",
+      "score": 2,
+      "created_utc": 1750540374.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "MMMs take too long to see results and be useful. I can’t optimize a campaign when I see MMMs results 6-12 months later",
+      "score": 1,
+      "created_utc": 1750518248.0
+    },
+    {
+      "author": "Scharky69",
+      "body": "Adelaide has a product they’re working on to measure attention, but GA usually can tell you about duration on site and quality of traffic",
+      "score": 1,
+      "created_utc": 1750603626.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Why garbage?\nAway to... what? MMM?",
+      "score": 4,
+      "created_utc": 1750487023.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "EVERY company’s primary objective is sales.\nThis does not mean that each advertising activity needs to be based on CPL’s or CPA’s and optimised for ROI. This is exactly why different models for marketing were born - sales funnel, customer journey, infinity loop etc. \n\nYou don’t start with a question of what the objective is. \nYou start with a question of the growth BARRIER is! \nWhy are people NOT buying right now? \n\nThe answer to this may be as simple as: „they don’t know we exist”, so your marketing goal becomes Awareness (measured by brand lift, or tracking) and your media goal may be things like Reach, Attention etc. In terms of tactics - short form content is probably enough - display, ooh, short unskippable video.\n\nThe answer may be different. Perhaps your potential buyers know you, but so no reason you’re any better vs alternatives. You need to build superiority. You need to do some explaining, need longer contact time. Maybe you need to get the to your website (and optimise for CpNBV), but maybe you just them to see full 30” of your story (completed video views). Or maybe you do some partnerships, PR or whatever - depends on category.\n\nIf your ever come across a company, which tells your their primary objective is NOT sales, you’re talking to a charity, state or some NGO with a cause.",
+      "score": 3,
+      "created_utc": 1750584826.0
+    },
+    {
+      "author": "Don-Pe",
+      "body": "Appreciate your answer and thoughts. However, I agree with others here, that awareness flights do not necessarily have to write ANY traffic numbers. I mean, you can take that as some sort of awareness indication and it probably wouldn't be wrong in many cases. But here, the goal is pure awareness, meaning to get a certain message into people's heads. In this case, I don't care about any traffic as long as my message is anchoring correctly.",
+      "score": 1,
+      "created_utc": 1750708612.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "They look at engagement and sales over longer time horizons. First touch and multi touch. Is it perfect? No. Is it more indicative than brand lift? Yes",
+      "score": 3,
+      "created_utc": 1750509434.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "I agree with you when you say that sales is the business objective for almost all enterprises. Our opinions diverge on which metrics we need to consider at the different stages of the purchase funnel and the related bidding strategies.\n\nI find myself in strong agreement with the content of this [**article**](https://getrecast.com/vanity-metrics/), and I really suggest you take a look at it. In the article, there are two examples of campaigns; titled “CTR vs CAC” and “Traffic vs Conversions” ; where, even though the efforts were focused on the upper part of the purchase funnel, the metrics that accurately reflected performance were Cost per Acquired Client and Cost per Conversion.\n\nOf course, different purchase funnel stages mean different target audiences, different creatives, and perhaps different custom bidding strategies; however, as usual, the actionable metrics; those that show whether we are targeting users likely to purchase our services or products; are the ones that truly matter, not vanity metrics.\n\nTo quote the article: **'Any metric that doesn’t have a strong link with sales outcomes is a vanity metric**' and again: **'An actionable metric isn’t just correlated with meaningful business results, it drives them**' Remember, as Peter Drucker says, **'What you measure grows!**’.",
+      "score": 2,
+      "created_utc": 1750687663.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Well, if you and your clients are happy with this!... The agencies I worked with gave me feedback that they and their clients are not particularly interested in maximizing reach. An advertising message can be recalled by users because it's appealing, but that doesn't mean it convinces them to buy the product. So, in my opinion, engagement—especially during times of economic crisis—is important. Nowadays, clients want to know the impact of their investments, so they are highly interested in measurements.",
+      "score": 1,
+      "created_utc": 1750713538.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "Incrementality experiments paired with MMM.",
+      "score": 4,
+      "created_utc": 1750517348.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Appreciate ther answer.  \nThis is misleading though IMHO. Let me explain my POV.  \nFirst of all - first touch is garbage (just as practically \"any touch\" TBH). Multi-touch is only marginally better - still severely limited to digital-only ecosystems - where ALL your messaging and ALL your client interactions and ALL your sales happen online (practically never true).  \nEngagement? Not sure what you mean here, so let's leave it aside. This can potentially be a good directional indicator in some cases.  \nSales over longer time horizons... I mean... yeah, but the problem we are trying to solve with measurement is a RELATIONSHIP (preferably causation, not mere correlation) between advertising activity and \\[some\\] effect. MMM is the most robust method for building that relationship, but is infrequent, quite complicated and (often) cost prohibitive.\n\nMany discussions here (or other places) seem to ignore that most of advertising budgets come from brands with SIGNIFICANT portion of activity AND sales happening offline. These brands look for upper-funnel measurement for a reason. Brand lift may be flawed for many reasons but is an absolutely valid way to assess if you achieved something more with your advertising vs \"good VCR\".",
+      "score": 4,
+      "created_utc": 1750524602.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "What if we're  running movie awareness campaigns and want to measure ad recall, would this be helpful? How can we run MMM for DV 360 youtube campaigns and how long does it take to typically get results?",
+      "score": 1,
+      "created_utc": 1750520935.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "The issue I have with this article (and many alike) is how much biased it is for business models like SaaS (or other subscription based) or at least high engagement categories like finance or telco.\nAll this is practically irrelevant for so many brands and categories, which DO advertise online, like entire CPG / FMCG for example.\nCAC or LTV for a pepsi can or a dishwasher tablet? What the hell are we talking about?\nBut young brand managers from these companies read these articles and then try to apply this “wisdom” for their brands, avoiding “vanity metrics” and trying to boost conversions for a freaking ketchup.",
+      "score": 2,
+      "created_utc": 1750699030.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Probably best advice you can give to any brand.   \nThese are probably the only sensible ways to build a relationship between advertising and business uplift.  \nI would not scratch off brand lift though as a tool to measure upper funnel effectiveness.",
+      "score": 5,
+      "created_utc": 1750524782.0
+    },
+    {
+      "author": "Don-Pe",
+      "body": "Appreciate your answer. Any good advice besides brand lift studies? As mentioned, budgets are not regularily allowing for bls, unfortunately. Any experience with attention-based metrics?",
+      "score": 1,
+      "created_utc": 1750708381.0
+    },
+    {
+      "author": "Don-Pe",
+      "body": "Or B2B businesses with long journeys... Doesn't count there neither, at least not in all cases and marketing measures",
+      "score": 2,
+      "created_utc": 1750709473.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Don-Pe hadn’t specified what kind of business his company or client was. Later, he revealed that it’s a B2B model, so what I said still applies. That said, even in CPG, there are brands that track metrics like branded search volume, website traffic from new visitors, sales velocity, and incremental sales during and after the marketing campaign.\n\nOf course, you can’t directly optimize a digital marketing campaign based on those offline metrics (except for branded search and website traffic from new visitors). However, they are still used to measure the overall effectiveness of the campaign.",
+      "score": 2,
+      "created_utc": 1750891708.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Attention (more experience with Adelaide's) does seem to have positive correlation with brand lift, so seems to be a good optimisation KPI / proxy.",
+      "score": 2,
+      "created_utc": 1750714041.0
+    }
+  ]
+}

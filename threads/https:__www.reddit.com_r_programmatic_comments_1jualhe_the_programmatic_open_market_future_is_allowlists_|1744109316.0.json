@@ -1,0 +1,147 @@
+{
+  "id": null,
+  "title": "The Programmatic (Open Market) Future is Allowlists First",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jualhe/the_programmatic_open_market_future_is_allowlists/",
+  "created_utc": 1744109316.0,
+  "num_comments": 23,
+  "comments": [
+    {
+      "author": "sarries123",
+      "body": "The Future? Buyers should have already been doing this for several years at least.",
+      "score": 31,
+      "created_utc": 1744112255.0
+    },
+    {
+      "author": "WarMinute4152",
+      "body": "Won’t PMPs be a better option? Since these help with Win Rates and streamlining inventory from Publisher to Advertiser (Programmatic Waterfall), as compared to applying allowlists on the DSP? I know curation has been a big help in this aspect.\n\nAlso, hot take on point 3 (Carbon Emissions), do companies really care about this? It seems like more of a PR thing rather than having genuine care for the environment. Just my experience.",
+      "score": 3,
+      "created_utc": 1744162231.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "How so u account for overexposure, data match and other things? \nAre you also suggesting manual QAs on the list? Cause \n that’s a lot of man sunk into it. \n\nHonestly, i have worked with allowlists and they didn’t do much on the buys.",
+      "score": 4,
+      "created_utc": 1744111477.0
+    },
+    {
+      "author": "UnlimitedSW",
+      "body": "Blacklisting is working fine for us. It's already 120k sites long and growing. We regularly pull site reports and the amount of bad quality/fraud/etc. is very low.\n\nWe also have some allowlists but they will never scale good enough compared to blacklists.",
+      "score": 4,
+      "created_utc": 1744121510.0
+    },
+    {
+      "author": "Goldenface007",
+      "body": "How many domains/apps should be included in an allowlist to guarantee scalability in your opinion?",
+      "score": 2,
+      "created_utc": 1744109606.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Allow is much more way easier",
+      "score": 1,
+      "created_utc": 1744407214.0
+    },
+    {
+      "author": "slowly_by_slowly",
+      "body": "Agree, this is why \"programmatic\" still gets flack and Adalytics can crank out their reports. Everyone should know where their dollars are going and be selective.",
+      "score": 7,
+      "created_utc": 1744115655.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "I'm a supporter too, but the truth is most of them don't.",
+      "score": 2,
+      "created_utc": 1744112324.0
+    },
+    {
+      "author": "VFL2015",
+      "body": "I’ve been running on only allow lists since 2015. I would be shocked if any F100 advertiser isn’t using allow lists and only relying on blacklists",
+      "score": 1,
+      "created_utc": 1744232066.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "PMPs are a great option, but if the publisher is offering the same inventory via Open Market for way less I don't see why I should use a PMP. If the inventory is exclusive or it doesn't scale in the Open Market, it's a different story. But that's normally only a problem for Video/Audio/DOOH, and only very rarely for Display. Also curation is fucked up with additional fees and intransparency, isn't it?\n\nRegarding the carbon emissions - you're right, in most cases performance is more important than a green campaign, but since the logic behind these tools is blocking out domains with attributes I don't like in my campaigns anyway, it's a nice gadget to analyze your domain-list from that perspective + doing something good (and then you can turn off these costs again, when you have a good set of domains + you're might able to build a PR case in addition).",
+      "score": 2,
+      "created_utc": 1744171066.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "I mean you still have your frequency cap and all your other regular targeting mechanisms in place. If that's too limiting you just test more websites and expand. \n\nYes we still do manual QAs, depends on client size/hours we have available. Those manual QAs are actually potential gold mines for accounts that haven't been optimized in that way, it's hard to imagine or tough to accept but there is a lot of budget running on bullshit inventory that's delivering 0 value. We're also working with Python scripts that do the (boring) analyis lifting for us. ;-)\n\nWhat do you mean they didn't do much on the buys? Cutting off the 0 value longtail alone could possibly allow you to invest 10-30% elsewhere much more efficiently. Which is, depending on advertiser budget, a freaking lot.",
+      "score": 4,
+      "created_utc": 1744112083.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Worked fine for us as well, we have blocklists with similar sizes - but we see better performance + all other advantages as superior to the blocklist approach. We're still using the blocklist approach for retargeting or small audiences at some points, but are testing with allowlists here too.",
+      "score": 2,
+      "created_utc": 1744122597.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Good question, really depends on several factors tbh. Few dozens or a handful of high volume domains can already be scaled efficiently if there is not too much specific targeting required or if you have a limited budget anyway. If you're more dependent on niche/themed sites you will probably need more to scale. Also depends on the output imo - good returns allow you to bid more aggressively. It's very much a test and learn cycle that goes on and on. :-)\n\nOpen Market is never a guarantee though.",
+      "score": 1,
+      "created_utc": 1744110069.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Coming from agency, nobody is gonna sink hours looking for sites, it’ll eat everyone’s time without much benefits. \n20%-30% reinvestments? Wow! Now show it as a return or something tangible. \n\nYou have a good idea/concept, but there are more practical ways to accomplish the same",
+      "score": 5,
+      "created_utc": 1744112339.0
+    },
+    {
+      "author": "UnlimitedSW",
+      "body": "What size are your allowlists?",
+      "score": 1,
+      "created_utc": 1744123633.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "For the big holdcos I see your point, been there, done that. For independent challenger agencies it's something that seperates you, that creates value for clients. They like that extra mile, and it definitely pays off for them too.\n\nI mean saving several tens of thousands isn't substantial? Reinvesting those savings from bad placements into the high performers pays off quite instantly.\n\nYou can manage my idea with Python scripts for the initial analysis and AI for the exploration part quite efficiently. :-)\n\nWhat are more practical ways in your opinion?",
+      "score": 3,
+      "created_utc": 1744113457.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Depends on strategy, budget, goals, channel, etc. - ranging from a few dozen to several hundred.",
+      "score": 3,
+      "created_utc": 1744124502.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Reinvesting into something doesn’t yield results, doesn’t mean much - show tangible outcomes or your client may not see how it really helps. \n\nAlso, stop saying python as it’s something the industry knows. 60% barely can use excel, do you think they can work/understand/manipulate code?\n\nSsp, ads.txt, pmps, etc. use the tools available in console before you go into labour intensive tasks.",
+      "score": 3,
+      "created_utc": 1744113678.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "But reinvesting into something that clearly works versus investing it into something that clearly doesn't work should yield at least better results. :-)\n\nYou don't need to modify code when it's an easy to use Jupyter Notebook or Web App. Just an accessibility topic, I'm not demanding anyone to understand what's happening under the hood.\n\nAds.txt is a no brainer that's on by default in our setups, PMPs most of the times are way to expensive compared to their Open Market equivalent. (Considering there is a OM supply for that Publisher, if it's exclusive inventory within the PMP it's a different story of course.) SSP evaluation/exclusion is also pretty basic and a default go to in our optimization.",
+      "score": 2,
+      "created_utc": 1744114410.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "I have left this chat after your last comment. Either you’re too green or you’re too stuck in your ways to realize the shortcomings of your idea.\n\nI’m about around a decade and people can’t use/understand pixels properly, yet you want traders to sink time into something that we cannot easily prove the value (at no point in this conversation you have explained how it will show value to client in a tangible way - you couldn’t say or prove that spending 30% against X will return same or more amount. Spending more against safe site is good but where’s my return? You sunk time in there so it should be taken into account when evaluating benefits to client).\n\nNot all PMPs are expensive, just work with your dsp reps. They may some curated stuff already.",
+      "score": 4,
+      "created_utc": 1744114710.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Investing it into the top URLs that deliver constant above average ROAS at scale returns quite a bit more than pumping it into MFAs or other crap that doesn't generate anything but server costs, but if you don't see that value here, I can't help. :-D",
+      "score": 1,
+      "created_utc": 1744114933.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Jesus Christ. I am glad we not in the same team. You probably would give useless tasks to all the jrs with meaningless tasks. \n\nGood luck in your endeavours. Good luck preaching to the choir your grandiose ideas - i will file it alongside the “this is the year of mobile” speeches ;)",
+      "score": 1,
+      "created_utc": 1744115143.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "As already mentioned it's not much effort but truly impactful when automated, but you do you. Have a good day! ;-)",
+      "score": 2,
+      "created_utc": 1744115412.0
+    }
+  ]
+}

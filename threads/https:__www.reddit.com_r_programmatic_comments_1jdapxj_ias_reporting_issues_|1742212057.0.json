@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "IAS reporting issues",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jdapxj/ias_reporting_issues/",
+  "created_utc": 1742212057.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "Have you verified that the IAS tags are firing correctly across all of your placements?",
+      "score": 2,
+      "created_utc": 1742288742.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "I'm not familiar with IAS reports but from my experience with various systems are you perhaps hitting a row limit for the export so it's cutting off some data? \n\nIf there are loads of long tail domains maybe it's cutting off the report so you're not getting the same volume at a more aggregated level. \n\nOtherwise does adding domain trigger any other filters to the report data or adjust anything in the report settings, as it's more granular are there any other limits (shorter look back window for more granular data? Although I've only had that issue with Internal systems not with external reports)",
+      "score": 2,
+      "created_utc": 1742334517.0
+    },
+    {
+      "author": "rqp5013",
+      "body": "It could be that it was tracked but no domain associated with it too",
+      "score": 1,
+      "created_utc": 1742383402.0
+    },
+    {
+      "author": "Fleurka23",
+      "body": "Thanks for the response! I don’t have that level of access to check, but I’m thinking I wouldn’t get any results pulling placement level without domain if something was wrong with tags. When I compare DSP impression numbers to IAS numbers, the discrepancy is small. It’s only when I add ‘domain’ in the mix where stuff goes downhill. Especially for TTD.",
+      "score": 2,
+      "created_utc": 1742289434.0
+    },
+    {
+      "author": "Fleurka23",
+      "body": "I’ll give it a shot by filtering by placement, to see if the cut off might be the thing. I’ve been using IAS for years so far, and this hasn’t happened to me yet, but I can try and see if- thanks!\nI don’t think it’s long tail, the report isn’t that big and for my specific campaign I only see like 20 tracked ads in total, with most of them being tag testing.\nAdding domain doesn’t trigger anything else, like a shorter look-back, and usually when that is the case, you get a warning about it, you can either not pull the report or it comes out blank.\nThank you for the detailed input, though, I’ll give it another shot with filtering out some data to see if that will work.",
+      "score": 1,
+      "created_utc": 1742373997.0
+    }
+  ]
+}

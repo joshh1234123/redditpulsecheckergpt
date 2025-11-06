@@ -1,0 +1,33 @@
+{
+  "id": "1oaxf6m",
+  "title": "Best Whitelabel DSP?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oaxf6m/best_whitelabel_dsp/",
+  "created_utc": 1760899210.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "notmyrealaccout69",
+      "body": "Why do you need a DSP if you're looking to connect your own supply.. just use an adserver and be done with it?",
+      "score": 5,
+      "created_utc": 1760926443.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "What’s your expected monthly budgets?",
+      "score": 1,
+      "created_utc": 1760927803.0
+    },
+    {
+      "author": "Shakthikanth_01_08",
+      "body": "Hi yeah i can help you with that.\nAs i work as a CSM in quantcast and it was one of the leading dsp in world and yeah you can host your ad in qc server itself and you can run campaign with our own deals and you can do even white labbling also and i can help you with all that. If you are from india please DM your contact number or if you are from other country means please DM your mail id and we can talk further on this.\n\nLooking forward for your response",
+      "score": 0,
+      "created_utc": 1760967285.0
+    },
+    {
+      "author": "AdtechDev",
+      "body": "Hi, I'm building white label dsp, for now it' supports banner, native, video creatives , built-in image/video uploading and hosting, has real time analytics, geo fence, user management, creative moderation. For now it's working in sandbox with test real website, website is connected to my prebid server (it is version from github, just added dsp adapter), and dsp is connected to this private prebid server and you can set up campaigns for this test site in dsp and see statistics. I can show you everything for free, you can connect your supply and play with that for a few months , I just need a feedback.",
+      "score": -2,
+      "created_utc": 1760902911.0
+    }
+  ]
+}

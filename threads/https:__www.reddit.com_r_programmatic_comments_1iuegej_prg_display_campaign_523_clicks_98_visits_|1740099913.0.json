@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "PRG display campaign: 523 clicks, 98 visits",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iuegej/prg_display_campaign_523_clicks_98_visits/",
+  "created_utc": 1740099913.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Mitchell-n",
+      "body": "To be totally honest with you optimizing display campaigns to clicks is very 2008 and not at all a winning strategy",
+      "score": 15,
+      "created_utc": 1740100530.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "It is quite normal. Clicks are not the best indicators of any kind of performance. People generally end up clicking on display ads by mistake, there are data center clicks, bot clicks and a lot of things.",
+      "score": 4,
+      "created_utc": 1740104147.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Setup a simple delayed trigger in gtm and use it to optimize. If your client is comfortable GA tags, they should be able to implement GTM if not already implemented.",
+      "score": 3,
+      "created_utc": 1740161648.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "How are you tracking landing page visits? Is this data from GA4? Are you equating Sessions on GA4 with a landing page view?",
+      "score": 2,
+      "created_utc": 1740104316.0
+    },
+    {
+      "author": "employerGR",
+      "body": "If you are running any of the display outside the US- tracking for site visits is much more difficult.   \n\nWhat are you using to track visits? Your measurement tool may be off.  \n\nAre you track impression based visits? Are you running very App heavy? Have you run a domain report and looked at where the clicks are happening? Same supply source? Same 2-3 websites or apps?   \n\nI would not love to show a client 98 visits for 523 clicks. That would be tough to sell. Is your CTR above .20%? If so- you might just be hitting an unusual amount of Bots, App heavy (therefore lots of false clicks or clearing clicks to keep playing), bad inventory, or tracking is not accurate.  \n\nI would bet its a combo of all 4. Or heavy MFA sites which get a lot of accidental clicks.  \n\nTrack impression based visits, check inventory, reduce App spend, increase CPMs to increase quality of inventory, focus on above the fold inventory, and curate the domain report. See what happens.",
+      "score": 2,
+      "created_utc": 1740142835.0
+    },
+    {
+      "author": "Consistent_Map_4855",
+      "body": "How would you optimize?",
+      "score": 1,
+      "created_utc": 1740106026.0
+    },
+    {
+      "author": "Euphoric-Priority755",
+      "body": "What would you prefer",
+      "score": 1,
+      "created_utc": 1740152181.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "CPA- conversions or CPSV",
+      "score": 4,
+      "created_utc": 1740106117.0
+    },
+    {
+      "author": "mithr4el",
+      "body": "That requires a digitaly mature client. I thought that with time there would be more, but not. And eductation is not always simple",
+      "score": 3,
+      "created_utc": 1740141652.0
+    }
+  ]
+}

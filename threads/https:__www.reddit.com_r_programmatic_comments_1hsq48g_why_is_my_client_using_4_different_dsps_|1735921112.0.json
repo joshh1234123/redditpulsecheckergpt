@@ -1,0 +1,171 @@
+{
+  "id": null,
+  "title": "Why is my client using 4 different DSPs?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hsq48g/why_is_my_client_using_4_different_dsps/",
+  "created_utc": 1735921112.0,
+  "num_comments": 32,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "Different DSPs offer all sorts of unique inventory, creative, audience and measurement opportunities these days. So, while they may be able to get 95% of the same work accomplished with just one DSP, there could be exclusive options only available in one DSP and not the others.\n\nTTD, for example, allows for better cross-device CTV tracking and targeting compared to DV360, but DV360 offers YouTube buying capabilities not available anywhere else. Yahoo DSP might have first-party audiences that aren't available outside Yahoo's walled garden, and Criteo might be useful for contextual targeting or retail media.\n\nAll this to say that it's not uncommon for programmatic buyers to use more than one DSP.",
+      "score": 52,
+      "created_utc": 1735922238.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Maybe they are doing a bake-off to compare results from multiple platforms and vendors. Something most advertisers could benefit from but that requires more work. It’s of course easier to just use one platform but then you have no idea what you could have achieved in other platforms.\n\nKeeping an open mind is hard. Not least when large platforms are very good at making people feel loyal with certifications and other loyalty teasers.",
+      "score": 8,
+      "created_utc": 1735933762.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "It also depends on the size of the buy. Every DSP has strengths and weaknesses. They are likely trying to play to those strengths and mitigating the weaknesses the best they can.",
+      "score": 5,
+      "created_utc": 1735923983.0
+    },
+    {
+      "author": "Amazing-Ad8053",
+      "body": "Working for a DSP, I can earnestly say that most DSP's have access to exactly the same inventory, ssp's and publishers. They all \"claim\" that they have slightly better products, but realistically, it breaks out to cost and tech. I honestly do think it's a complete waste to be working with 4. There is no learnings being fed from each dsp. For example, if you're running ctv through TTD but display through Yahoo, if you were using TTD only you could map out conversions via cross device and see if someone had seen a ctv ad before a display and measure the uplift. \n\nAlso; Google is one of the only companies to have exact match tech when it comes to cross device so the comment about Google being mediocre when it comes to ctv isn't entirely accurate.\n\nThe way that everyone is mapping out CTV now is through phones and I guarantee you're logged into a Google product through your phone and your tv (via YouTube)",
+      "score": 11,
+      "created_utc": 1735936349.0
+    },
+    {
+      "author": "vibepods",
+      "body": "Frequency management is a nightmare with this approach but I do see it all the time. Typically I see advertisers running display/OLV/DOOH/retail in TTD (especially for the place exchange partnership) and then use GMP/DV360 for Search, Analytics, Trafficking and YouTube now that Demand Gen and instant reserve for YTTV/select is off the shelf.",
+      "score": 4,
+      "created_utc": 1735949120.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "I can pretty much assure you that working with multiple DSP and having integrations to same SSP/pubs will get you bidding against yourself.  The Adtech ecosystem isn’t as big as everyone thinks… yes there is dedicated inventory that some dsps only have exclusive access to, but in the grand scheme of things, working on open exchange you will see same inventory between different dsps. My 0.02",
+      "score": 4,
+      "created_utc": 1735959347.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "I've seen clients do this, or use multiple third party providers, they are indeed likely bidding against themselves or driving other inefficiency but this does depend on if they're running basically the same strategy and KPIs on each platform/partner.\n\nThis can make sense as different DSPs do have different benefits so it can make sense if different strategies are applied.\n\nEg if theyre running something like\nYahoo, brand awareness (off the top of my head not sure what unquie offering yahoo has these days) \nCriteo, Lower funnel and remarketing, CPA focus \nTTD, CTV campaigns\nDV360, mid funnel awareness leveraging Google audiences\n\nFour still seems like a lot but makes sense if they are leveraging something unique and have seperate goals per platform.\n\nIf they're running the same CPA goals and remarketing list through 4 platforms they're wasting time and money.",
+      "score": 3,
+      "created_utc": 1735922005.0
+    },
+    {
+      "author": "Jamesatwork16",
+      "body": "Not knowing the size of this client and the budgets associated with each, who knows. If this is a client that is dropping 10m plus on programmatic each year…this isn’t that crazy. Truly the only one that is could be eliminated easily is Yahoo.",
+      "score": 3,
+      "created_utc": 1735940089.0
+    },
+    {
+      "author": "YNWA311",
+      "body": "Yes they might be bidding against themselves and generally speaking DSP consolidation is a best practice….do you have a seat with each DSP account so you can see if they are buying on the same sites/platforms across multiple DSPs? They might be using DSPs for specific media types. Yahoo for Native, DV360 for YouTube, TTD for CTV, etc. YouTube/Google and Amazon still don’t play nice with other DSPs, so if those are part of the media mix then consolidating down to 1 DSP can be challenging.",
+      "score": 2,
+      "created_utc": 1735921684.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "They’re outsmarting themselves. Doing 4x the work to make your buy less effective is sheer stupidity.",
+      "score": 1,
+      "created_utc": 1735943077.0
+    },
+    {
+      "author": "alokush90",
+      "body": "If each is being used for its unique feature, then makes sense, I have done similar setups and worked very nicely for my clients, given I used each DSP for its main powerful feature/unique inventory access.",
+      "score": 1,
+      "created_utc": 1735948352.0
+    },
+    {
+      "author": "sultan823",
+      "body": "Not unheard of as each platform has its benefits. But you probably have high overlap in your audiences and low reach",
+      "score": 0,
+      "created_utc": 1735925392.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "I feel like I keep seeing TTD cross device comments, but I don’t really understand. How is TTD cross device tacking better than DV360? Doesn’t everyone use chrome / maps on mobile + some level of YT usage on CTV device? How is UID 2.0 actually able to compete with scale of those apps across TV & Mobile devices?",
+      "score": 4,
+      "created_utc": 1735933823.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Great comment. \n\nA consistent and robust testing mandate is KEY to ensure you're always getting the best results and best service. \n\nUnfortunately, adtech can be quite heavily driven by relationships, brand value, and like @BidTheory says, \"loyalty teasers.\" aka brown envelopes.\n\nSometimes even fear or lack of skill/knowledge. Had someone tell me they use DV360 even though it's shit and their service stinks, but it's safe for them as trying new things might land them in hot water if it doesn't go well. \n\n\"Can't get in trouble for using Google\" was the exact quote.",
+      "score": 3,
+      "created_utc": 1735982812.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Good points made here! \n\nUsing them consistently/always probably isn't effective. Unless they have a very advanced operation and specific use cases or incremental value... and I promise you 90% are nowhere near this level. Many are still judging awareness campaigns by conversion KPIs, lol\n\nBut running specific tests to assess/compare performance, I think that makes sense and should be done regularly. Once per year or so. \n\nWorked at a few DSP and saw many clients waste crazy budget because they wouldn't test/move elsewhere. (Deffo benefited me sometimes)",
+      "score": 1,
+      "created_utc": 1735983145.0
+    },
+    {
+      "author": "Jamesatwork16",
+      "body": "Everything is first price auction now. There’s upwards of 40+ bidders on each request I’ve read - you really don’t compete with yourself.",
+      "score": 6,
+      "created_utc": 1735939991.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Google's CTV identity/device graph is actually pretty mediocre compared to some of the other DSPs out there, particularly TTD. Google doesn't derive CTV identity through IP addresses, and Google Floodlight Tags, which are used for cross-channel remarketing, doesn't collect IP-level data for the purposes of retargeting. As far as I'm aware, TTD does leverage IP address targeting across channels, but I imagine UID 2.0 adoption rates across the big publishers also helps them better identify users.\n\nThis may come as a surprise to most people, but Google is actually one of the leaders in terms of user privacy, at least in terms of what type of targeting is readily available to advertisers.",
+      "score": 15,
+      "created_utc": 1735935582.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Agree with the above fully about first price auctions. You can make a chart and compare your CPM for the same inventory across multiple DSPs as well to see sometimes big differences. They don’t all have the same fee structure and the bid the publisher see is different even if you place the same CPM bid in all the DSPs.\n\nAlso add that a lot of buyers place fixed bids at fairly even CPMs. For example 1, 2, 5, 10 etc levels. In the win reports this will be clear as big fat horizontal lines in the chart at integer and popular levels where a lot of the wins take place near those numbers. \n\nSo as an example maybe a lot of people bid at 5 USD CPM max in their DSP but not as many at 5.05 USD CPM, then at 6 comes a new bunch. Etc. Of course if they use an algo and dynamic CPM the case would be different but when a campaign manager enters their max CPM during setup many of them enter some integer and some of them more common than others. For sure a max CPM of say 2 USD is much, much more common among buyers and their configs than a 2.2 USD one.",
+      "score": 1,
+      "created_utc": 1735990599.0
+    },
+    {
+      "author": "Fishcork",
+      "body": "Can you elaborate on why first price auction means you don’t compete with yourself?",
+      "score": 1,
+      "created_utc": 1735950126.0
+    },
+    {
+      "author": "prose4jose",
+      "body": "Google just announced they are going to start using IP to compete better in CTV.",
+      "score": 4,
+      "created_utc": 1735970635.0
+    },
+    {
+      "author": "Jamesatwork16",
+      "body": "It’s no longer second price auction where the winner is second place plus a penny. The winner is the one who bids the highest.  Multiple DSPs sending out bids for your campaign is a benefit there because they’ll each value users differently.  If you see value in serving ads, and you like who your campaigns are targeting, you should want to win bids because it means you are serving ads.",
+      "score": 6,
+      "created_utc": 1735953006.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Oh, interesting. Do you have a link for that update? That's actually pretty big news.",
+      "score": 2,
+      "created_utc": 1735997789.0
+    },
+    {
+      "author": "prose4jose",
+      "body": "https://support.google.com/marketingplatform/answer/15732590?hl=en",
+      "score": 2,
+      "created_utc": 1736001987.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "This is super interesting, and I totally missed it during the midst of Q4, apparently. Thanks for the heads up!",
+      "score": 2,
+      "created_utc": 1736002924.0
+    },
+    {
+      "author": "prose4jose",
+      "body": "Yeah huge shift in policy. They must have finally realized using IP is imperative for success in CTV.",
+      "score": 2,
+      "created_utc": 1736003399.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Yeah, I was always surprised they fell so far behind the competition. No other DSP seemed to care about the privacy implications of using IP addresses for targeting and identity resolution, and it was always impossible to explain that to clients when we had to tell them we couldn't do cross-channel retargeting with Floodlight Tags.",
+      "score": 2,
+      "created_utc": 1736004640.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "Thank you both! I guess where I get stuck is with logins across devices. For example, wouldn’t Google be able to see that a user was logged into chrome on a mobile and YouTube on a TV, and be able to tie these from the same user logging in?",
+      "score": 1,
+      "created_utc": 1736026503.0
+    }
+  ]
+}

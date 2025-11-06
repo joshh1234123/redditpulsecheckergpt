@@ -1,0 +1,69 @@
+{
+  "id": "1od9841",
+  "title": "DOOH in programmatic DSPs",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1od9841/dooh_in_programmatic_dsps/",
+  "created_utc": 1761141946.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "kapt_so_krunchy",
+      "body": "All fair questions. I think it’s going to be more about use cases. \n\nI work with some clients that want to make a splash around conferences and run campaigns that start in the airports, then run in the Uber/Lyft, around the conference center at night and then same thing on the way back to the airport.\n\nAlso have retail clients that want to be on digital bill boards within a certain radius of their brick and mortar. \n\nI had a college that wanted to be on bus routes to and from specific high schools. \n\nAnd then the fun part with attribution comes in also. Which can be fun! \n\nIf you have some specific use cases feel free to DM me and I can give you an idea.",
+      "score": 7,
+      "created_utc": 1761144717.0
+    },
+    {
+      "author": "The_Captain101",
+      "body": "Yeah I do whilst I worked at one the of DSP’s for competitive points. That was 2 years ago and I’m sure it’s different now so I’d reach out to the SSP’s to get a better grasp DM me if you want contacts",
+      "score": 2,
+      "created_utc": 1761143891.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Vistar has everything D-OOH but if you’re trying to connect it to other parts of the campaign, I’d go with someone like Yahoo",
+      "score": 0,
+      "created_utc": 1761166370.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "Hm. Attribution would be tricky, unless you used a QR code with a UTM tracker in it. You can also spin up bespoke landing pages I guess, to capture users who type in the dominant phrase on the DOOH billboard, and then click through from search? \n\nOther than that, it’s kinda like putting sponsor logos on a NASCAR racer.  They are there, they are persistent, and the lift mostly gets inferred.",
+      "score": 1,
+      "created_utc": 1761154113.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "Are you my co worker? Or at a competitor media buying agency?",
+      "score": 1,
+      "created_utc": 1761181442.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "I used to think this way. Im told that folks like reveal mobile and accretive can connect the dots between ooh / pdooh and sales lift, roas, etc. havent had a campaign where i can use accretive yet, but im looking forward to testing them",
+      "score": 2,
+      "created_utc": 1761181537.0
+    },
+    {
+      "author": "kapt_so_krunchy",
+      "body": "Ohhh you could do basically a Dun and Bradstreet audience geofence the airport, retarget and even do device capture.\n\nThen same audience to Lyft/Uber. \n\nBoom. Nailed it. \n\nIt would be expensive as hell. But you can do it.",
+      "score": 1,
+      "created_utc": 1761182464.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "Other than dunn and bradstreet, this sounds a lot like my team",
+      "score": 2,
+      "created_utc": 1761184140.0
+    },
+    {
+      "author": "kapt_so_krunchy",
+      "body": "What does your team use? Just curious?",
+      "score": 1,
+      "created_utc": 1761184289.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "For geofencing? Precisely, locala, adsquare. Though if its a real time fence and not maid collection i dont even get a 3rd party involved. Just use radius targeting of a lat long in trade desk. Just did it that way at the copenhagen airport",
+      "score": 2,
+      "created_utc": 1761184478.0
+    }
+  ]
+}

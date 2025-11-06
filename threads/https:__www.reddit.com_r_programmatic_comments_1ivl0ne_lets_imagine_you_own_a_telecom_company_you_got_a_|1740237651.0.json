@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "Let's imagine you own a telecom company. You got a decent share of users in the country. How would you create your own unified ID for cookieless?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ivl0ne/lets_imagine_you_own_a_telecom_company_you_got_a/",
+  "created_utc": 1740237651.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "prose4jose",
+      "body": "Nice try, Verizon.",
+      "score": 23,
+      "created_utc": 1740237738.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "Hmm, aren’t the customers using your network fully identified? How do they connect to your towers and make calls/pass data without identity?",
+      "score": 5,
+      "created_utc": 1740237830.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Utiq is basically this in EU, but multiple telcos.",
+      "score": 3,
+      "created_utc": 1740238864.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "Nice try, Vistar!",
+      "score": 2,
+      "created_utc": 1740328584.0
+    },
+    {
+      "author": "dnchw2",
+      "body": "did you use to work for me? LOL\n\n  \nyou can just linkedin dm me you know lol",
+      "score": 1,
+      "created_utc": 1740237927.0
+    },
+    {
+      "author": "fleet-operator",
+      "body": "Lots of regulatory issues with using ISP data for targeting. VZ tried and could not marry yahoo and telco data.",
+      "score": 1,
+      "created_utc": 1740242685.0
+    },
+    {
+      "author": "mgru",
+      "body": "Check what Utiq orr Novatiq are doing. Basically they use their network signal to deterministically identify users and provide a signal to marketers.",
+      "score": 1,
+      "created_utc": 1740245903.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "You have the IP’s and you know the rotation.",
+      "score": 1,
+      "created_utc": 1740254864.0
+    },
+    {
+      "author": "brazys",
+      "body": "I think they still own a chunk of the Yahoo hashed email solution. But that's the answer, hash email addresses and pass them to everyone else doing it.",
+      "score": 1,
+      "created_utc": 1740239155.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Well, tbh you don't have to worry. I'm in the space where the US population is not reachable.",
+      "score": -3,
+      "created_utc": 1740237917.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "They are, and they are already segmented and used in the audience targeting process on the RTB traffic where cookies are available. However,  we have very limited use of customer data on a) part of the traffic where  the cookies are not present at all b) where cookie  TTLs are short lived.",
+      "score": 1,
+      "created_utc": 1740238202.0
+    },
+    {
+      "author": "leonevilo",
+      "body": "Exactly, can also be matched with other ids",
+      "score": 1,
+      "created_utc": 1740239150.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Unfortunately, I have never worked with Canadians 🙃  But you can lay out your thoughts here",
+      "score": 1,
+      "created_utc": 1740238422.0
+    },
+    {
+      "author": "klustura",
+      "body": "Yup. It the only ones that I know and have had the chance to interact with.\nHuge potential for both as long as regulators understand the added value of each along with the privacy protection they provide.",
+      "score": 1,
+      "created_utc": 1740260497.0
+    },
+    {
+      "author": "mgru",
+      "body": "But even Utiq, being a comglomerate of different Telcos with lots of market power, struggles to get marketers' interest at this stage. It's just tricky to sell any ID solution right now while 3rd party cookies are still out there.",
+      "score": 1,
+      "created_utc": 1740482219.0
+    },
+    {
+      "author": "klustura",
+      "body": "Utiq are moving slowly on purpose. They know that their legal interpretation of what they are doing can be easily challenged, and they have been focusing on that more than anything else.\nThat's why I said they have huge potential because they are not driven by greed but by getting the privacy right.\n\nSolutions like Utiq should scare the shit out of us, but how they are approaching this matter deserves credit and recognition.\n\nDisclaimer: I don't work for Utiq and I don't own any shares. I've done my research for the benefit of my clients and the users. Novatiq are also good to work with.",
+      "score": 1,
+      "created_utc": 1740503030.0
+    },
+    {
+      "author": "klustura",
+      "body": "Forgot to reply to the other part of your comment, which keep working with Cookies.\n\nThis is the best time to have ID solutions used, because precisely cookies are still there. It allows comparison, i.e. how cookies are shit for tracking and are a risk because of fraud.",
+      "score": 1,
+      "created_utc": 1740503153.0
+    }
+  ]
+}

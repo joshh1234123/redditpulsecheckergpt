@@ -1,0 +1,21 @@
+{
+  "id": "1ok0m5u",
+  "title": "High discrepancy (>20–30%) between DV360 and IAS viewability on YouTube deals",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ok0m5u/high_discrepancy_2030_between_dv360_and_ias/",
+  "created_utc": 1761833059.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Hit_and_miss_344",
+      "body": "Never experienced it but I'd not shy away from saying that Google might be inflating viewability of its Google Video partner inventory and I'd rather trust IAS. \n\nIf you're seeing discrepancies even in the tracked impressions, then that might be the issue you want to address first and then focus on Viewability.\n\nLook into device and environment breakdown to see if any specific device or environment has the discrepancy\n\nAlso (not very sure), the cookie consent on your website can be reason for some impressions not being tracked and that \"might\" affect viewability percentages",
+      "score": 4,
+      "created_utc": 1761848763.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "First problem - IAS tags are about as reliable as tier 1 DSP sales rep. I’ve never seen a campaign with under 10% discrepancy with IAS.",
+      "score": -1,
+      "created_utc": 1761855908.0
+    }
+  ]
+}

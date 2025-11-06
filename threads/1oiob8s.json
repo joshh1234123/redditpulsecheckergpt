@@ -1,0 +1,51 @@
+{
+  "id": "1oiob8s",
+  "title": "Conversion Attribution and inaccurate Data signals",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oiob8s/conversion_attribution_and_inaccurate_data_signals/",
+  "created_utc": 1761692381.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "this is a simple case of mis-attribution. Hockey was driving awareness that led to the conversions; the digital ads did not. So when hockey was over the conversions dropped and the CPA went up 10X. You did nothing wrong, it's just a figment of the way attribution works. And it's NOT fraud, but the following examples of attribution fraud may be informative, for context  [https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/](https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/)",
+      "score": 3,
+      "created_utc": 1761736132.0
+    },
+    {
+      "author": "drkingsize",
+      "body": "Hmm. There isn’t anything on the page you can grab as a custom variable to segment the sport selected during checkout, even just different copy? Or is it a shared subscription that gets access to both MLB/NHL streams? \n\nIf it’s a different sub altogether, there should be a unique product ID that tells your client which sub was purchased. \n\nConsidering its view through - did MLB get in market first and thus suck up all the conversions which should have been attributed to NHL campaigns? \n\nOne other thing that comes to mind - what’s the user value of subbing only for the Stanley cup finals when it’s going to be broadcast on TNT nationally? I think the sub would be more attractive to baseball viewers gearing up for a full season of games which not all will have a national or regional broadcast for them to tune into. \n\nI’m sure you’ve already thought of most of this - just spitballing!",
+      "score": 2,
+      "created_utc": 1761703110.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Few thoughts:\n\n* If the Floodlights are via CM360, worth playing around with some of the attribution reporting in there, specifically the conversion paths stuff which still exists and is useful to see any patterns between placements / creatives\n* You may want to look at Enhanced Conversions to take the final Floodlight fire, understand who it is and passback some additional info back to Google to flag the customer type. You can then use this in the next point\n* DV360 Custom Bidding may be useful in this situation vs optimising purely to the Floodlight on its own\n* Assuming there are other pages on the website specific to MLB / NHL, you can do something smart with 1st party cookies to tie this to the final purchase as a custom variable, to somewhat infer what the user may use the subscription for. I've done this before for a motorsports brand which had different races but 1 funnel.",
+      "score": 2,
+      "created_utc": 1761744042.0
+    },
+    {
+      "author": "Akajdrod",
+      "body": "thanks Augustine, I am well aware how attribution or any sort of \"performance\" can be manipulated in digital/programmatic. The problem is that I will not be out there telling the client that everything the agency has sold to them in the past can be categorized as smoke and mirrors...",
+      "score": 0,
+      "created_utc": 1761791640.0
+    },
+    {
+      "author": "Akajdrod",
+      "body": "hey, thanks for weighting in! let me get back to you with some more context. \n\n \\- Or is it a shared subscription that gets access to both MLB/NHL streams? - yes, it's one subscription with access to both sports (and more).  \n  \n\\- did MLB get in market first and thus suck up all the conversions which should have been attributed to NHL campaigns?  - I'm not sure what ran first but I know that Stanley cup finals was a much bigger event and had attracted way more subscribers. \n\nI say that because when comparing volume of subscriptions on both campaigns, there were 100 conversions/day on NHL campaign and about 40 on MLB campaign. I assume that a big chunk of converted users \"attributed\" to MLB campaign were also actually hockey fans, who got served an ad from the MLB campaign as they were browsing a relevant website. \n\nI have a theory that all these conversions, which most likely were hockey fans, really messed up DV360's bidder as for 2.5 months. Incorrect data signal was being fed to the bidder and it couldn't re-configure itself as the hockey demand has dried up. \n\n  \nThinking about it now, I wonder if creating new line items from scratch in DV360 would sort of \"reset\" the bidder and let it learn anew.\n\n  \nWhat are your thoughts on that? I wish I could discuss this internally with other agency folks, but it feels like noone is running performance campaigns, so noone is concerned about cross-contamination, floodlight setup, and data signal integrity.",
+      "score": 2,
+      "created_utc": 1761791376.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "all good",
+      "score": 1,
+      "created_utc": 1761820101.0
+    },
+    {
+      "author": "drkingsize",
+      "body": "Your last sentence nails it. I appreciate the position you’re in because I’ve been there before. You’re in the weeds enough to see the house of cards holding up your monthly client reporting - but no one else is going to want to open the kimono. \n\nI think spinning up a small additional line item a tiny budget could be a good step. What signals do you think got criss-crossed? Maybe you can iterate on future campaigns setting up audience exclusions with your MLB audience on the NHL campaign and vice-versa. ",
+      "score": 1,
+      "created_utc": 1761854561.0
+    }
+  ]
+}

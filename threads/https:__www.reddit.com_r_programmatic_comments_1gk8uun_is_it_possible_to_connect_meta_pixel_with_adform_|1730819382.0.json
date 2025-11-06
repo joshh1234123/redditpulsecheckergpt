@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "title": "Is it possible to Connect Meta Pixel with AdForm DSP banner? How? \n",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gk8uun/is_it_possible_to_connect_meta_pixel_with_adform/",
+  "created_utc": 1730819382.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Can you do it? Absolutely. \nDoes it break Meta's T&Cs as well as being a regulatory risk in certain markets whilst also prohibited as a 4th party call on pretty much all SSPs. Absolutely.",
+      "score": 5,
+      "created_utc": 1730930497.0
+    },
+    {
+      "author": "Amazing-Ad8053",
+      "body": "Yes if  they willa meta retargeting pixel that you implement into the banners. I know stackadapt do this, so I'm sure that adform will do it too",
+      "score": 1,
+      "created_utc": 1730843036.0
+    }
+  ]
+}

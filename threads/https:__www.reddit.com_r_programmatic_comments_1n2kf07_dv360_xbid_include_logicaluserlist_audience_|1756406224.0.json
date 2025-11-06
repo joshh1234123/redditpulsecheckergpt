@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "DV360 - “Xbid Include LogicalUserList Audience",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1n2kf07/dv360_xbid_include_logicaluserlist_audience/",
+  "created_utc": 1756406224.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "tobias10",
+      "body": "I saw the same thing in my campaigns, wild how many global bugs DV360 has had this year.",
+      "score": 5,
+      "created_utc": 1756415418.0
+    },
+    {
+      "author": "BrotherSweaty1585",
+      "body": "Yes. Our Google rep is investigating.\nI think it's a bug at global level",
+      "score": 4,
+      "created_utc": 1756411844.0
+    },
+    {
+      "author": "DebtInside5825",
+      "body": "I received this from gTech:\n\nThank you for your patience while we investigated the issue. I truly appreciate the time you have taken to wait for a resolution.\n\nI am pleased to inform you that the ongoing issue you reported has now been successfully resolved. We are currently in the process of finalizing everything on our end.\n\nPlease note that it might take up to 24 to 48 hours for these changes to fully propagate across our system and for your account data to be updated. We kindly ask for your patience during this period.\n\nAfter this timeframe, please check your account to verify that the issue is no longer present. If you continue to experience problems after this period, please feel free to reach out, and we will be happy to assist you further.",
+      "score": 1,
+      "created_utc": 1756475986.0
+    },
+    {
+      "author": "danie-l",
+      "body": "They are building faster this year, but on the backend I think",
+      "score": 2,
+      "created_utc": 1756458555.0
+    }
+  ]
+}

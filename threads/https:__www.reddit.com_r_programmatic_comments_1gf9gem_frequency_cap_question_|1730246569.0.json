@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "Frequency Cap Question",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gf9gem/frequency_cap_question/",
+  "created_utc": 1730246569.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "savant125",
+      "body": "Adding any constraint to a campaign will result in biasing the algorithm.  If you have a general prospecting campaign with a high max bid, you’re going to make your campaign eligible for all bid requests that come through.  That’s not the goal, so applying constraints is your way to balance media efficiency.\n\nMost DSPs do not optimize for frequency.  By not setting a limit, you’re feeding the algorithm more data about the requests you’re willing to bid on, that will hopefully lead to a winning bid.  Bidders care more about learning which opportunities will lead to a winning bid than delivering thoughtful advertising.\n\nThe DSP won’t learn from the conversion pixel, i.e. it won’t analyze how many times the user was exposed before they triggered a pixel fire.  Instead, it will learn the profile of the user that triggers the pixel fire, and will try to bid more on those types of users.  It does potentially shorten the number of exposures for a conversion, but may still result to overexposure.\n\nIf I was running a campaign purely for learnings, I’d not add a cap.  If I’m trying to manage my media dollars effectively, I’d take your approach.",
+      "score": 9,
+      "created_utc": 1730253079.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "What would the reason be to just let the algorithm run wild? Presumably, your client doesn't have unlimited budget, nor are they wanting to serve 20x ads a day to the same user. As others have mentioned below, you should absolutely set a frequency cap based on historical data and how many touch-points on average lead to your desired outcome and then put that next to your different KPIs, target audience size, budget and max price.\n\nFor example, the prospecting audience is likely a lot larger but your client or your historical data will probably also have some insights as to how many people you want to/need to reach depending on the objective and how many prospects you need/want to move down the funnel. From there you can calculate using your available budget, avg. CPM how much budget you might want to spend here",
+      "score": 3,
+      "created_utc": 1730273703.0
+    },
+    {
+      "author": "thinkerthought",
+      "body": "DV360 algos are not sophisticated enough to optimise towards the right frequency - it is only considering the attributes the last touch had prior to the conversion, without any regard to the impressions beforehand, regardless of how impactful they were. Without a cap in place, you will definitely be over-serving to the same users over and over again, especially for prospecting where there is a weaker signal of whether a user is likely to convert.\n\nI'd look at your data to find your optimal frequency based on your objectives first, and use this to guide your frequency cap - this will help you to find more net new users within your targeting pool that could convert, increasing the average effectiveness of each impression. While there are definitely cases where it makes sense to maximise frequency (eg. if you have high value, reliable signals that a user is likely to convert), but it sounds like your net is very broad here.",
+      "score": 2,
+      "created_utc": 1730272178.0
+    },
+    {
+      "author": "LopsidedAd947",
+      "body": "Hey Savant125, I do heavily agree with your statement “applying constraints is your way to balance media efficiency.” And also regarding in the machine learning learning about the profile of the audience. Also, thank you for your tip on setting no cap for learnings and setting caps for media dollar effectiveness.\n\nThanks a lot for your inputs :)",
+      "score": 2,
+      "created_utc": 1730293556.0
+    },
+    {
+      "author": "LopsidedAd947",
+      "body": "Thanks for the straightforward and detailed guide to my question, I fully appreciate each and every one who has taken time to write the inputs! :)",
+      "score": 1,
+      "created_utc": 1730293891.0
+    },
+    {
+      "author": "LopsidedAd947",
+      "body": "Right, understood on your input! Thank you for taking the time to write down your answer.",
+      "score": 1,
+      "created_utc": 1730293689.0
+    }
+  ]
+}

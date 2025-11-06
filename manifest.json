@@ -1,89 +1,75 @@
 {
   "source": "Reddit r/programmatic",
-  "shards": [
+  "months": [
     {
-      "file": "2024-10.json",
+      "month": "2024-10",
       "count": 48,
-      "start_created_utc": 1729343761.0,
-      "end_created_utc": 1730388904.0
+      "meta_file": "2024-10.json"
     },
     {
-      "file": "2024-11.json",
+      "month": "2024-11",
       "count": 91,
-      "start_created_utc": 1730446357.0,
-      "end_created_utc": 1732911966.0
+      "meta_file": "2024-11.json"
     },
     {
-      "file": "2024-12.json",
+      "month": "2024-12",
       "count": 71,
-      "start_created_utc": 1733118559.0,
-      "end_created_utc": 1735576564.0
+      "meta_file": "2024-12.json"
     },
     {
-      "file": "2025-01.json",
+      "month": "2025-01",
       "count": 77,
-      "start_created_utc": 1735749829.0,
-      "end_created_utc": 1738354368.0
+      "meta_file": "2025-01.json"
     },
     {
-      "file": "2025-02.json",
+      "month": "2025-02",
       "count": 103,
-      "start_created_utc": 1738372720.0,
-      "end_created_utc": 1740768728.0
+      "meta_file": "2025-02.json"
     },
     {
-      "file": "2025-03.json",
+      "month": "2025-03",
       "count": 73,
-      "start_created_utc": 1740841934.0,
-      "end_created_utc": 1743454043.0
+      "meta_file": "2025-03.json"
     },
     {
-      "file": "2025-04.json",
+      "month": "2025-04",
       "count": 81,
-      "start_created_utc": 1743520743.0,
-      "end_created_utc": 1746037672.0
+      "meta_file": "2025-04.json"
     },
     {
-      "file": "2025-05.json",
+      "month": "2025-05",
       "count": 95,
-      "start_created_utc": 1746098863.0,
-      "end_created_utc": 1748636029.0
+      "meta_file": "2025-05.json"
     },
     {
-      "file": "2025-06.json",
+      "month": "2025-06",
       "count": 58,
-      "start_created_utc": 1748790646.0,
-      "end_created_utc": 1751294940.0
+      "meta_file": "2025-06.json"
     },
     {
-      "file": "2025-07.json",
+      "month": "2025-07",
       "count": 88,
-      "start_created_utc": 1751338163.0,
-      "end_created_utc": 1753993798.0
+      "meta_file": "2025-07.json"
     },
     {
-      "file": "2025-08.json",
+      "month": "2025-08",
       "count": 65,
-      "start_created_utc": 1754062647.0,
-      "end_created_utc": 1756657392.0
+      "meta_file": "2025-08.json"
     },
     {
-      "file": "2025-09.json",
+      "month": "2025-09",
       "count": 92,
-      "start_created_utc": 1756695585.0,
-      "end_created_utc": 1759176591.0
+      "meta_file": "2025-09.json"
     },
     {
-      "file": "2025-10.json",
+      "month": "2025-10",
       "count": 115,
-      "start_created_utc": 1759325624.0,
-      "end_created_utc": 1761916694.0
+      "meta_file": "2025-10.json"
     },
     {
-      "file": "2025-11.json",
+      "month": "2025-11",
       "count": 18,
-      "start_created_utc": 1762092413.0,
-      "end_created_utc": 1762460651.0
+      "meta_file": "2025-11.json"
     }
   ]
 }

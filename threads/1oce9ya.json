@@ -1,0 +1,51 @@
+{
+  "id": "1oce9ya",
+  "title": "YouTube Curated Channel List",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oce9ya/youtube_curated_channel_list/",
+  "created_utc": 1761056443.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "MalcolmButlersTruck",
+      "body": "Sure, PM me",
+      "score": 2,
+      "created_utc": 1761058313.0
+    },
+    {
+      "author": "1toremember",
+      "body": "There's a lot of Christmas themed channels. Mostly skewing to Christmas songs.\n\nI created a custom targeting list based on the prompt: \"Christmas Michael Buble Christmas, Port, pudding, sherry, mince pies\"\n\n19.4k Channels  \n1541B Totals Views\n\nSome examples: \n\n[https://www.youtube.com/@christmassongsandcarols/videos](https://www.youtube.com/@christmassongsandcarols/videos)  \n[https://www.youtube.com/@TheCozyChristmasCottage/videos](https://www.youtube.com/@TheCozyChristmasCottage/videos)  \n[https://www.youtube.com/@JeannaLovesChristmas/videos](https://www.youtube.com/@JeannaLovesChristmas/videos)  \n**The Cozy Christmas Cottage:** [https://www.youtube.com/channel/UC47NMAv1dbu\\_Ugdtqag6Hxg](https://www.youtube.com/channel/UC47NMAv1dbu_Ugdtqag6Hxg)  \n**Michael Bublé:** [https://www.youtube.com/channel/UCHqQruhGENdmWy\\_oeH1f8QA](https://www.youtube.com/channel/UCHqQruhGENdmWy_oeH1f8QA)\n\nDrop me a message and I can send you the .csv file of channel IDs.",
+      "score": 2,
+      "created_utc": 1761070654.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Use GPT to generate a list for you whether that be Channels or KWs\n\nCall up Channel Factory, Zefr, Mobian, Nomology",
+      "score": 2,
+      "created_utc": 1761075907.0
+    },
+    {
+      "author": "Ballytrea",
+      "body": "Er uhm. Why you doing lazy OPs work for them? Anyways, yes can use Chatgpt, but not very accurate on precision and brand safe targeting.",
+      "score": 0,
+      "created_utc": 1761095169.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "ChatGPT was not helpful; just 20 or so with no IDs. Willing to buy a list. Like, respect someone’s time by paying them. Not seeking anything free.",
+      "score": 1,
+      "created_utc": 1761106132.0
+    },
+    {
+      "author": "1toremember",
+      "body": "Yep ChatGPT is just going to run a basic search and throw out the first titles.\n\nThe next level would be to run a YouTube API v3 request for keyword 'Christmas' but that still has limitations and requires python or similar.\n\nI've built a database of 250M+ YouTube channels (similar to the Channel Factory, Zefr suggestions) - with a model to rank engagement and relevance to a specific prompt input. I've sent you a message with details!",
+      "score": 2,
+      "created_utc": 1761136077.0
+    },
+    {
+      "author": "SuccessfulVariety994",
+      "body": "Yep.",
+      "score": 1,
+      "created_utc": 1762420972.0
+    }
+  ]
+}

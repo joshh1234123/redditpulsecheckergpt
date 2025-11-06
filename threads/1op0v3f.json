@@ -1,0 +1,57 @@
+{
+  "id": "1op0v3f",
+  "title": "Frequency control across media type",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1op0v3f/frequency_control_across_media_type/",
+  "created_utc": 1762343809.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Most do but either probabilistically or via some form of alt ID. Clearly it rarely works though.",
+      "score": 2,
+      "created_utc": 1762348987.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "I really like Yahoo’s tool. It seems like they’ve really focused in on frequency management across video and CTV. Just watch how much Yahoo O&O supply you allow to slip in.",
+      "score": 1,
+      "created_utc": 1762348942.0
+    },
+    {
+      "author": "Mundane-Gear4503",
+      "body": "Fq settings don't work on ctv since publisher do pod stuffing and show /play ad later .",
+      "score": 1,
+      "created_utc": 1762364911.0
+    },
+    {
+      "author": "Impressive-Teach7336",
+      "body": "Trade Desk has a pretty easy to set up Frequency group tool that you can add multiple campaigns to. It would cover all the channels you are looking for.",
+      "score": 1,
+      "created_utc": 1762369718.0
+    },
+    {
+      "author": "PlasticLeading",
+      "body": "TTD is probably the best at frequency management and uses the most signals vs other DSPs to be able to graph identifiers cross device. It’s probably the biggest feature they tout to the their customers.",
+      "score": 1,
+      "created_utc": 1762381230.0
+    },
+    {
+      "author": "mp1952",
+      "body": "Most of them can. DV360 can also cap across CTV and YouTube, if that’s part of your video buy.",
+      "score": 1,
+      "created_utc": 1762398330.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "StackAdapt allows you set f caps at the individual campaign level and then at the “campaign group” (ad set) level. So you could say no more than 3 on CTV a day, and no more than 10 total across display, CTV, and OLV.",
+      "score": 1,
+      "created_utc": 1762364020.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Yeah and for ctv one must use household cross device",
+      "score": 1,
+      "created_utc": 1762382432.0
+    }
+  ]
+}

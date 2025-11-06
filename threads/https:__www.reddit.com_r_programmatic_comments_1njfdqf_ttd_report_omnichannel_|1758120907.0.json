@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "TTD Report Omnichannel",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1njfdqf/ttd_report_omnichannel/",
+  "created_utc": 1758120907.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "childroid",
+      "body": "What do you mean by \"activated multiple channels\"? You can pull, in the Basic Performance report template, Ad Format to see performance by Display, OLV, Native, etc.\n\nBut in terms of best practices, your campaign names should all have the channel name in them...and I don't recommend building one campaign that has ad groups with different creative types.",
+      "score": 8,
+      "created_utc": 1758122799.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Yes, this is possible. Ask your trader or AM to give you access or show you how to enable Omnichannel Optimization. This is a cross-campaign optimization tool so if you’re running Display, Audio, OTT, and CTV, the system will optimize delivery to show users ads across channels and increase overlap/cross-channel exposure. You’ll need to add those campaigns into a channel group to unlock cross-campaign insights. \n\nA further option is to pull Path to Conversion reporting to see which channels contributed to conversions. You can also layer in Conversion Details reporting to identify the specific channel users converted on.",
+      "score": 3,
+      "created_utc": 1758128139.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thanks. We’re handling a large dataset and wanted an easy way to quickly see which campaigns had multiple channels activated. I do have media type by campaign, but there’s a lot of data to sift through. I guess I’ll try to pivot it or something then",
+      "score": 0,
+      "created_utc": 1758124008.0
+    },
+    {
+      "author": "Key-Boat-7519",
+      "body": "You can show multichannel activation in TTD by grouping campaigns and pulling Inventory Type + deduped reach and conversion views, then layering Path to Conversion.\n\nWhat I do: 1) Put all related Display/Audio/OTT/CTV campaigns into a Channel Group and (if eligible) turn on Omnichannel Optimization. 2) Report Builder: run a Channel Group or Campaign report with dimensions Inventory Type, Environment, and Device Type; add metrics Impressions, Deduped Unique Users, Reach, Conversions, CPA/ROAS. That confirms which channels delivered and at what scale. 3) Path to Conversion: include Touchpoint Position and Inventory Type to see sequences; add Conversion Details to see final-touch channel. 4) Optional sanity checks: Reach & Frequency by Inventory Type to verify dedupe; label lines by channel for cleaner slicing. Also align attribution windows and confirm your universal pixel + events are on advertiser level.\n\nFor cross-checking, I’ve used GA4 and Adobe Analytics for intake, but HeatMap helped tie on-site click patterns to revenue when validating TTD’s channel mix.\n\nNet: use Inventory Type + deduped reach and PTC to prove multichannel in TTD.",
+      "score": 2,
+      "created_utc": 1758153338.0
+    },
+    {
+      "author": "childroid",
+      "body": ">see which campaigns had multiple channels activated\n\nI don't know what you mean by this. If you include campaign name and media type in your pivot table, you'll be able to see which campaigns are associated with which media types/ad formats (if that's what you mean by \"channel\").",
+      "score": 5,
+      "created_utc": 1758124385.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Excel and pivot table",
+      "score": 1,
+      "created_utc": 1758309963.0
+    }
+  ]
+}

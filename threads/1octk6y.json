@@ -1,0 +1,45 @@
+{
+  "id": "1octk6y",
+  "title": "Floor Prices for Inventory",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1octk6y/floor_prices_for_inventory/",
+  "created_utc": 1761092117.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "The Troubleshooter tool will give you an idea of how many impressions you're losing at different phases of the bidding workflow, and you should be able to see impressions falling off due to losing \"external\" auctions. It's not going to show you the floor price directly, but it gets you closer to understanding if your bid is too low.",
+      "score": 5,
+      "created_utc": 1761095172.0
+    },
+    {
+      "author": "dfeld91",
+      "body": "Don't have a direct answer, but you'll continue seeing that same trend across the board as almost all platforms front-load their weekly impressions to ensure they capture optimal delivery. Week restarts every Monday.",
+      "score": 3,
+      "created_utc": 1761092505.0
+    },
+    {
+      "author": "MashMeister",
+      "body": "I think they have a troubleshooter tool that shows why bids are lost",
+      "score": 2,
+      "created_utc": 1761094178.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "So on our side, we yield optimize to get where we need to be for price / performance (bid wise). Not using dv360, but our own stack. We see this every Monday as everything gets loaded and by mid week it starts to down-price. Now that we’re approaching holidays, the bid usually gets higher towards weekends as well (at least for the pubs we’re working with) as we get closer to BFCM and Xmas in general.",
+      "score": 2,
+      "created_utc": 1761097439.0
+    },
+    {
+      "author": "Alpha-D-Truelove",
+      "body": "Which CTV bundles are you targeting via DV360 out of interest?",
+      "score": 1,
+      "created_utc": 1761259315.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Thanks. I was scratching my head thinking what setting did i change but i refuse to up my budget. Not gonna pay $40+ CPM. Sure I do want visibility but i rather source deals longterm",
+      "score": 1,
+      "created_utc": 1761092613.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1obvp2o",
+  "title": "Publisher CDP & PG setup",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1obvp2o/publisher_cdp_pg_setup/",
+  "created_utc": 1760998827.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "dortenzio1991",
+      "body": "Yes",
+      "score": 1,
+      "created_utc": 1761017760.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Not all SSPs support it for PG, but the big ones do. This is also what PAIR as a solution attempts to do to some degree also, which DV360 supports.",
+      "score": 1,
+      "created_utc": 1761032427.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Pair should solve the data vollaborationnissue… but withouth it I would be sure of the publisher capability to proper target in PG and how affordable is this way of planning. In terms of tech cost it’s a great way to save some money and still use data targeting but do they really apply data? I loss control but in terms of efficency the only real miss is linked to cross cap…",
+      "score": 1,
+      "created_utc": 1761032645.0
+    }
+  ]
+}

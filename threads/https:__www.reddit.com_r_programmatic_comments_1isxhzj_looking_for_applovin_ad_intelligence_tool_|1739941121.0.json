@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "Looking for applovin ad intelligence tool",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1isxhzj/looking_for_applovin_ad_intelligence_tool/",
+  "created_utc": 1739941121.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "you can ask AppLovin to tag the ads with FouAnalytics so you can see where the ads are going and also whether any ads ran at all.  Further, for app install campaigns, the best practice is to drive the user and the click to an interim page which lists a button for the iOS app and another button for the Android app. This way we can see if users clicked those buttons to go to the respective app stores to download the app.  DM me if I can help further.",
+      "score": 1,
+      "created_utc": 1739966801.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "AppLovin will actually agree to do this? I thought they’re an impenetrable black box.",
+      "score": 2,
+      "created_utc": 1740003098.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "Talk more about this because I also find it highly unlikely that AL would agree to tags without a spend commit of like $100k per day. The second layer friction point is interesting, though.",
+      "score": 1,
+      "created_utc": 1740014183.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "simple, if they don't allow us to measure the ads with FouAnalytics, we pull spend.",
+      "score": 1,
+      "created_utc": 1740052047.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "exactly.  and I dont know how to reconcile those 2 extremes.",
+      "score": 1,
+      "created_utc": 1742042710.0
+    }
+  ]
+}

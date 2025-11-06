@@ -1,0 +1,27 @@
+{
+  "id": "1oia662",
+  "title": "How Are You Using AI Agents To Make Life Easier",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oia662/how_are_you_using_ai_agents_to_make_life_easier/",
+  "created_utc": 1761660052.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "I don't think Anomaly detection is an Agentic AI use case. Also, I use AI to shorten product headlines, but that's it.",
+      "score": 3,
+      "created_utc": 1761669022.0
+    },
+    {
+      "author": "MudNovel6548",
+      "body": "Totally get it, programmatic can be a time suck with all those performance swings. Zapier's a solid start for alerts.\n\nTips:\n\n* Use AI for auto-bid adjustments based on real-time data.\n* Automate reporting pulls from multiple DSPs.\n* Set up agents for anomaly detection in ad spend.\n\nI've seen Sensay help with knowledge automation in ops",
+      "score": 2,
+      "created_utc": 1761748706.0
+    },
+    {
+      "author": "Impressive-Teach7336",
+      "body": "That's a fair point. I'd like to make it more of an agentic use case, but am not there yet. I'm hoping once I fully set up the automation, then I can introduce an agentic layer like self-diagnosis or dynamic prompts based on the data. Thanks for the input!",
+      "score": 1,
+      "created_utc": 1761744636.0
+    }
+  ]
+}

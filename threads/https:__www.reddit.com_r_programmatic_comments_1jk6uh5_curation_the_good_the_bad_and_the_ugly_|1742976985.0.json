@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "Curation - the good, the bad, and the ugly",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jk6uh5/curation_the_good_the_bad_and_the_ugly/",
+  "created_utc": 1742976985.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "LowAir688",
+      "body": "Seems like a lot of the comments here aren't acknowledging the fact that a lot of campaigns use data from 3rd parties today that is applied within the DSP.\n\nYes, there's less transparency, but if a media buyer was already bought and sold on using audiences from Data Company X, it's not necessarily a net cost to move a data fee to the sell side since you would be able to drop the equivalent data fees in the DSP.\n\n\n\nOP's first two points are good, but here's a different angle on why they're good for publishers and advertisers:\n\n1) Data Company X has more \\*control\\* over how their data is materialized. Expiry settings in DSPs can decimate the precision of segments with high rates of change (think recent movers, recent visitors, in-market propensity). By bringing the data in on the supply side, there are more opportunities for good data to succeed and with minimal work by the buyer. The Deal ID doesn't change so the campaign doesn't have to modified; the segment IDs can be dropped and replaced on the back end to cut down staleness (and theoretically improve performance).\n\n2) Throttling rates sure, but also the presence of a deal helps with traffic shaping to fit more opportunities on your audience within any QPS limits. This can help a buyer better reach their target audiences (by optimizing opportunities to bid on them), and this in turn can help data companies provide a more performant segment (because they might not need to model up as much in order to provide the needed campaign reach). This also helps publishers who attract a valuable audience get more bids.\n\n\n\n  \nIn most cases I think it's six or half a dozen, but I think it represents an opportunity to get more value from higher quality data solutions.",
+      "score": 3,
+      "created_utc": 1743017170.0
+    },
+    {
+      "author": "adtech2019",
+      "body": "Let’s be honest, curators love curation since they can get away with charging 40% margins without anyone noticing.",
+      "score": 3,
+      "created_utc": 1743027246.0
+    },
+    {
+      "author": "savant125",
+      "body": "Curation, on its own, doesn’t deliver a whole lot of value beyond the unique capabilities that an SSP might have (publisher audiences, content targeting, etc).  \n\nCuration through a third-party curator - they are there for either the convenience or for their knowledge of the SSP.  If you have the time or know how, it never makes sense to go through them.\n\nCuration, along with an SPO deal and strategy, yields many benefits.  The average take rate between pub and SSP is anywhere between 15-25%.  SSPs are offering deals to buyers to lower publisher take rates to single digits for participating publishers.  If you’re a) consolidating your pub spend within a few SSPs, and b) using curation as a means of getting specific inventory for your campaigns, you’ll be able to maximize your media spend going to publishers.  SSPs also have other auction based discounts, further maximizing the bid value per request.",
+      "score": 2,
+      "created_utc": 1742995553.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "Broadly speaking, curation is not good for advertisers (less transparency) not publishers (one more middleman reducing their take rate). The only players who benefit from curation are 1)the curators themselves 2) SSPs chasing new/exclusive curators to make their pipes more differentiated. \nWhat’s worse for publishers is that now the SSPs are incentivized even less to help publishers selling their own deals, but rather sell these curated deals from 3Ps in direct competition with the publishers.",
+      "score": 2,
+      "created_utc": 1743004097.0
+    },
+    {
+      "author": "Ok-Disaster-6387",
+      "body": "As long as communication between the teams prior to the campaign are good, the campaign shouldn’t have any issues with activation. Troubleshooting usually is one of two things, there’s no bid requests (curator error) there aren’t bid responses (dsp error) - that’s the framework we currently use and it works well.\n\nWhilst it isn’t completely transparent, the benefit of a curator is the access to multiple SSPs all with the same goal (client performance). Supply path optimisation done for the buyer at ease (saving time & money).",
+      "score": 1,
+      "created_utc": 1742988164.0
+    },
+    {
+      "author": "Intelligent_Pie1937",
+      "body": "Seems like a lot to pay vs just selecting your own white list????",
+      "score": 1,
+      "created_utc": 1743193645.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "The transparency point is a big one. Advertisers have long complained about lack of transparency in the supply chain. \nSupply chain object solved for that by exposing resellers. \n\nCuration is nothing more than the next iteration of resellers. \n\nThe money flow changed and now the SSP pays both the curator and the publisher directly, but the economics stay the same. Type still have intermediaries taking fees from a transaction in a way that is not transparent to neither advertisers nor publishers. \n\nSo really it’s just as bad from a transparency POV",
+      "score": 1,
+      "created_utc": 1743194499.0
+    },
+    {
+      "author": "Upset_Collar9364",
+      "body": "So let’s say you bid at $10 on a deal as an advertiser. If the take rate of the SSP is 20% and the DSPs is 15% then effectively $8.50 is going toward your bid and  $6.80 is going to the publisher.\n\nIf now, my curator is adding a 30% margin, then, of that $8.50 now $5.95 is going to media, and that’s assuming the only fee is the 30% curator fee, no SSP fee. If we factor in a lower take rate of 10% then the publisher is getting even less? \n\n\nIs my analysis incorrect? I still don’t see the math adding up?",
+      "score": 2,
+      "created_utc": 1742995850.0
+    },
+    {
+      "author": "Upset_Collar9364",
+      "body": "If your budget for the year is 1,000,000 USD for example and now an additional 30% of it (after DSP fees) is going to a curator, so let’s say 850,000 * 0.3 = $255,000 (which doesn’t account for fees paid by the curator), wouldn’t it make sense to have your own internal curator doing this instead? Particularly as an agency or brand where that budget isn’t massive by any means? I’m not sure how much money you end up saving in this case unless you’ve got a commercial agreement in place with the curation organization which would only work if you’re an agency? \n\nThe brand/advertiser doesn’t seem to benefit in this case?",
+      "score": 1,
+      "created_utc": 1742993161.0
+    },
+    {
+      "author": "savant125",
+      "body": "Your analysis is correct. I want to reiterate two points:\n\n- curation through a 3rd party is about paying someone to do something you don’t have time for.  If you find value in paying 30% vs. hiring for a FTE to do curation, then it’s worth paying the fee.  If you have the means and the know how to operate the curation platform on your own, the math will never add up.\n\n- if you can implement your own SPO strategy, and strike these deals with SSPs, then there is a lot of savings to gain.  A clarification here is that, for maximum savings, you are HoK end to end.  You can rely on a curator with an SPO deal to cut some of the overall costs, but it dilutes the overall savings.\n\nEdit: one thing about pubs - they care only for volume.  They don’t look at it as “we only get $x.xx, when they could more”; they look at it as “we can get $x.xx when we were not going to get anything at all”.  Curation is repackaged open market inventory, to buyers who are interested in the request.  There’s a high chance the request won’t get monetized in an open market auction.",
+      "score": 2,
+      "created_utc": 1742998292.0
+    },
+    {
+      "author": "Upset_Collar9364",
+      "body": "Appreciate the reiteration. I think the 1st point is interesting and my perspective may be biased because I do know the ins & outs of these platforms so I see having a FTE to do the work as the most efficient option but I’m not considering the majority of people who likely do not and may not be able to train these people.\n\nSPO via SSP and Publisher volume agreements (or however your deal is structured) is definitely beneficial but not really what I was referring to in this post as you can work with SSPs to achieve this without 3rd party curators. \n\nThe publishers bit is the most foreign to me as I have always represented the buy side but from a business POV more money is better than less so that tracks! Truly a savant 👏",
+      "score": 2,
+      "created_utc": 1743001580.0
+    }
+  ]
+}

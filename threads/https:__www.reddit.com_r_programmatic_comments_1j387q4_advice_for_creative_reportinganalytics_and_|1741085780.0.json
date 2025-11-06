@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "Advice for creative reporting/analytics and optimization",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j387q4/advice_for_creative_reportinganalytics_and/",
+  "created_utc": 1741085780.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Mitchell-n",
+      "body": "Start with buying better inventory",
+      "score": 5,
+      "created_utc": 1741099514.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "There are existing solutions exactly for this, free apis and the sorts.",
+      "score": 2,
+      "created_utc": 1741148112.0
+    },
+    {
+      "author": "Local_Landscape_4228",
+      "body": "YES! Exactly the same - we were manually pulling data from ad platforms and then grouping creatives using the ad namings. It was a lot of Excel work, so we only did it quarterly. Iterations or follow-up questions were nearly impossible.  We're now using Clarisights - this article inspired us to use it [https://clarisights.com/Blog/Articles/mastering-creative-analytics](https://clarisights.com/Blog/Articles/mastering-creative-analytics)",
+      "score": 1,
+      "created_utc": 1741092387.0
+    },
+    {
+      "author": "AdventurousRepair370",
+      "body": "Need some view on data and design of reports.\nSplit into some parts on combinatorics based parts and then analyze. \nHire outstaff BI team that help scaling with processes.",
+      "score": 1,
+      "created_utc": 1741099665.0
+    },
+    {
+      "author": "glacierfresh2death",
+      "body": "If you’re down with changing your entire stack, and buying from a single DSP, the illumin journey builder is pretty nifty.",
+      "score": 1,
+      "created_utc": 1741158585.0
+    },
+    {
+      "author": "cgerckert",
+      "body": "Do you have flexibility to build google looker studio dashboards and or select a platform like superads?",
+      "score": 1,
+      "created_utc": 1743543005.0
+    },
+    {
+      "author": "andeil",
+      "body": "Superads.ai is built for this. But doesn't support Taboola/Outbrain currently. ",
+      "score": 1,
+      "created_utc": 1743548445.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Winner Winner chicken dinner",
+      "score": 1,
+      "created_utc": 1741117404.0
+    }
+  ]
+}

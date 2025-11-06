@@ -1,0 +1,75 @@
+{
+  "id": "1oq2hl9",
+  "title": "Alternative to Basis",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
+  "created_utc": 1762444223.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "mikehauptman",
+      "body": "If you like Basis for the workflow and PMP access but are running into API and support issues, you've got a few solid directions to go.\n\nSome agencies transition to DV360 or The Trade Desk, but these platforms can feel heavier operationally, and you'll still encounter some integration quirks. Others look at reseller-connected platforms that offer similar flexibility without the tech overhead.\n\nIf that's the route you're considering, you should check out [getadlib.com](http://getadlib.com). Our platform connects to every major DSP, including DV360 and Amazon, and is built to simplify cross-platform buying and integrations.\n\nFWIW, we've heard from numerous teams that are leaving Basis for similar reasons, primarily due to concerns about API stability and account support.\n\n*Disclaimer: I'm the founder of AdLib.*",
+      "score": 6,
+      "created_utc": 1762447403.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "Basis has historically had a decent footprint in political. Lot of folks leaving for similar reasons. Most are going to StackAdapt, some also going to Viant",
+      "score": 2,
+      "created_utc": 1762447767.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "I’m going to PM you. I got an option that works well with what you are looking for",
+      "score": 1,
+      "created_utc": 1762448835.0
+    },
+    {
+      "author": "Available_Plant3712",
+      "body": "Try BW",
+      "score": 1,
+      "created_utc": 1762452046.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "DV if you like Google products, TTD if you meet minimums...if not, talk w/ Goodway to get a TTD seat",
+      "score": 1,
+      "created_utc": 1762457732.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "I own and operate my own agency and I buy into Simplifi. I used to work at Basis so I know allll about the challenges. DM me if you want to get insights on the Simplifi backend.",
+      "score": 1,
+      "created_utc": 1762447014.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "Upvoting for being an honest broker on this sub.",
+      "score": 4,
+      "created_utc": 1762454613.0
+    },
+    {
+      "author": "Glass-Independent-51",
+      "body": "Thanks!  Do you provide a dashboard and automated reporting?",
+      "score": 2,
+      "created_utc": 1762447844.0
+    },
+    {
+      "author": "Glass-Independent-51",
+      "body": "We had a lot of issues with [Simpli.fi](http://Simpli.fi) in the past, primarily location accuracy and reporting data, so we had to move on.",
+      "score": 2,
+      "created_utc": 1762447739.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "Appreciate that sentiment!",
+      "score": 2,
+      "created_utc": 1762454988.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "You're welcome! and yes to dashboard and automated reporting. plus the entire platform is API first. Shoot me a dm or email mike@",
+      "score": 2,
+      "created_utc": 1762448433.0
+    }
+  ]
+}

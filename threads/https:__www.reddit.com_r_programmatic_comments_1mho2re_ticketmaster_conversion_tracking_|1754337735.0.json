@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "Ticketmaster Conversion Tracking",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mho2re/ticketmaster_conversion_tracking/",
+  "created_utc": 1754337735.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "zeroThreeSix",
+      "body": "Are you only installing the image tag within order confirmation pages? Some clients install it at higher level pages so it fires but doesn't have information to passback! \n\nI found the following from [MNTN's install guide](https://help.mountain.com/en/articles/6789573-install-pixels-in-ticketmaster)-- maybe you could try replicating this with whatever passback macros are on your DSP's end?",
+      "score": 2,
+      "created_utc": 1754391563.0
+    },
+    {
+      "author": "UT561",
+      "body": "Curious for my own knowledge… Could a TTD image tag work on Ticketmaster?",
+      "score": 1,
+      "created_utc": 1754358858.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Switch to JS",
+      "score": 0,
+      "created_utc": 1754341513.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "Yes but it will only (partially) work for android. No server-side or postback solution for TM1.",
+      "score": 0,
+      "created_utc": 1754356179.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Yep should do. \nThe backend to TM1 (their tag manager) is just GTM API from what I've seen.",
+      "score": 1,
+      "created_utc": 1754374574.0
+    },
+    {
+      "author": "HurricaneKim",
+      "body": "Ticketmaster only takes Image tags. At least according to their documentation.",
+      "score": 1,
+      "created_utc": 1754344316.0
+    },
+    {
+      "author": "UT561",
+      "body": "Oh good to know, thanks!!",
+      "score": 1,
+      "created_utc": 1754448549.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "Autobids vs controlled bid",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gpywps/autobids_vs_controlled_bid/",
+  "created_utc": 1731454469.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "Are you targeting multiple pub deals from the same line item? If yes, I'd highly recommend splitting this into separate lines to control the bid and test with different auto-bid settings. I've seen autobid work with some pubs, but not all and there seems to be no real rhyme or reason to it. As a first step, I'd recommend you check that the max bid is above all deal floor prices, if that's the case you must separate the deals in different lines. That should enable you to trigger spend through all lines, might need to leverage fixed bidding first, but gives the algo's learning to start with before using optimized bids.  It could be the case that the algo is only spending against the 1 pub, as that's the only pub it's collected learnings on so far",
+      "score": 2,
+      "created_utc": 1731485052.0
+    },
+    {
+      "author": "BasisOk4268",
+      "body": "support might be able to offer more insight, but is the deal sending the correct creative size inventory through for the creatives you’re running?",
+      "score": 1,
+      "created_utc": 1731455117.0
+    },
+    {
+      "author": "Traditional-Fig4932",
+      "body": "thank youu! I will try to split out the deals. I should also point that I figured out the deals that are winning inventory are all fixed price but the one I am trying to get to work is floor price",
+      "score": 1,
+      "created_utc": 1731526691.0
+    },
+    {
+      "author": "Traditional-Fig4932",
+      "body": "support doesn't want to do anything as the seat is via a reseller. Reseller doesn;t want to help because the contract is ending shortly. I am stuck!",
+      "score": 1,
+      "created_utc": 1731459370.0
+    },
+    {
+      "author": "Traditional-Fig4932",
+      "body": "And yes, the creative size they are sending is matching what we are running",
+      "score": 1,
+      "created_utc": 1731459403.0
+    }
+  ]
+}

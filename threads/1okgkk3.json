@@ -1,0 +1,45 @@
+{
+  "id": "1okgkk3",
+  "title": "Any DOOH tools similar to CAASie?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1okgkk3/any_dooh_tools_similar_to_caasie/",
+  "created_utc": 1761870793.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "Professional-Net-317",
+      "body": "I think there’s a lot of DSPs and planning tools like that now. Try starting with Goldfish Ads or Place Exchange or Beeyond",
+      "score": 5,
+      "created_utc": 1761872570.0
+    },
+    {
+      "author": "tobias10",
+      "body": "Place exchange has a good tool for this",
+      "score": 3,
+      "created_utc": 1761874823.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Hivestack",
+      "score": 3,
+      "created_utc": 1761877450.0
+    },
+    {
+      "author": "red_macaron",
+      "body": "Displayce is quite solid as a DOOH specialised DSP",
+      "score": 2,
+      "created_utc": 1761939453.0
+    },
+    {
+      "author": "EmitLux",
+      "body": "Yes - [youdooh.com](http://youdooh.com) \\- just for the ANZ region.",
+      "score": 1,
+      "created_utc": 1761871781.0
+    },
+    {
+      "author": "Morr1Bo",
+      "body": "I the USA also the self service tool Allmediadesk is helpful also has a full list and direct booking option without registration.",
+      "score": 1,
+      "created_utc": 1761906439.0
+    }
+  ]
+}

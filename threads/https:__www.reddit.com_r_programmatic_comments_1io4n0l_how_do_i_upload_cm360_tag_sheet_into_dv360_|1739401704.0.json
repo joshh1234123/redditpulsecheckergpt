@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "How do I upload CM360 tag sheet into DV360?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1io4n0l/how_do_i_upload_cm360_tag_sheet_into_dv360/",
+  "created_utc": 1739401704.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "There is normally a delay when you set up the link on a brand new DV360 advertiser, need to give it 24 hours at least for the CM360 site to sync with the DV360 advertiser, providing you've trafficked placements under that / is the same ID linked to DV360.",
+      "score": 4,
+      "created_utc": 1739433359.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "It should automatically show up when you type in the placement ID if the account is linked.",
+      "score": 3,
+      "created_utc": 1739402442.0
+    },
+    {
+      "author": "10mils",
+      "body": "Seeing the floodlights isn't the guarantee that the linking is complete unfortunately. Like Mitchell suggested, best way to ensure the linking is clear is by typing the placement ID, if nothing returned something is incomplete.\n\nSo let's review a few key steps & let us know if you proceeded as followed:  \n\\-Floodlight configuration from CM should have been shared with DV  \n\\-A new  advertiser to receive those floodlights should be created in DV  \n\\-The new advertiser should be set-up with the parameter \"ad-server\" targeted to CM\n\nThose might sound like basics, but always worth checking the baseline is clean.\n\nThen, let's keep in mind that the actual syncing can take a few hours, from my experience its between a couple hours and 6 hours (though some connections take longer)\n\nThen, are you adding the tracking at a line item or creative level? Are you seeing anything in the drop down menu? And like you said, pasting the right placement ID isn't working right? /!\\\\ Let's make sure we are talking about the PLACEMENT ID from CM and not something else\n\nAnd regarding this placement ID, do you confirm that in your CM campaign, you have created placements & checked the Placement Properties / Placement type part that is set for DV360 & programmatic campaigns?\n\nThat should give us enough clues before moving forward",
+      "score": 2,
+      "created_utc": 1739444269.0
+    },
+    {
+      "author": "jakz__",
+      "body": "The account is linked as far as I can tell. The various places to check all show the two accounts linked, and floodlights have pulled through too. Surely if CM360 floodlights are appearing on DV360, it rules out the accounts not being linked? Does this mean it’s a setup issue?",
+      "score": 0,
+      "created_utc": 1739402569.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "No- you arent listening to me. The CM360 tags will show up automatically when you paste in the placement ID in the tracking section of your ads. No need to upload",
+      "score": 2,
+      "created_utc": 1739404167.0
+    },
+    {
+      "author": "jakz__",
+      "body": "So, ive tried this and have got an error. I can’t upload images here but this is the error I get when I try to use the placement IDs associated with the tags. “Campaign manager 360 tracking placement ID must exist in the linked Campaign Manager 360 advertiser”",
+      "score": 0,
+      "created_utc": 1739404268.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Then your issue is either you’re pasting the IDs and wrong or stuff is set up wrong on the campaign manager 360 end- there is no process to upload and if there is, I’ve never used it just because it automatically links.",
+      "score": 2,
+      "created_utc": 1739404364.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Are you 100% sure that you’re pasting in the tracking placement ID and not some other placement ID such as Prisma that might be on the tracking sheet",
+      "score": 1,
+      "created_utc": 1739404391.0
+    },
+    {
+      "author": "jakz__",
+      "body": "Yeah 100% it’s the placement ID directly from the tag sheet from DCM. I’ve just gone through the placement on DCM and it seems the adserving platform wasn’t set to DV360, so I’ve changed that now and just waiting for it to sync up. Hoping this was the missing piece",
+      "score": 1,
+      "created_utc": 1739404821.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Yeah, this just sounds like an incredibly misconfigured and rushed setup- my best advice would be to never allow yourself to have to rush and be caught holding the bag",
+      "score": 3,
+      "created_utc": 1739404896.0
+    }
+  ]
+}

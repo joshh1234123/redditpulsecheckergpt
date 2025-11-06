@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "Netflix and disney invetory",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1noogbs/netflix_and_disney_invetory/",
+  "created_utc": 1758650250.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "blondecomms",
+      "body": "I always apply a device type to my ad groups so I ensure I’m only spending on CTV",
+      "score": 5,
+      "created_utc": 1758654707.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But the classification NLTV would still apply as we’re talking about online broadcaster or the ctv filtreing is mandatory to you in this definition?",
+      "score": 1,
+      "created_utc": 1758752905.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "You can control this on your end as the buyer but if I’m buying this inventory, I make sure it’s CTV/set top box. \n\nSome of these premium apps I’d consider still valuable on a desktop/mobile device. Really though, I would not pay the same. The CPM would have to be less and I’d consider things like time of day as a big factor for targeting. 9-5 Monday to Friday would be a lower bid for me. Maybe it’s something on in the background at work for example. Maybe someone traveling for work, etc. I’d test it a portion of the budget to see if it’s working if the client wants to. \n\nBut as a consumer in either instance I would be less likely to do anything from a mobile/desktop while streaming that content because I’d be on the go or occupied and have it on in the background. \n\nThat being said, I still target devices on this line item, pull reporting to make sure and use a measurement partner to confirm the devices reached are CTV/Set top box.",
+      "score": 1,
+      "created_utc": 1758773030.0
+    },
+    {
+      "author": "linuz14",
+      "body": "And in pg?",
+      "score": 1,
+      "created_utc": 1758656655.0
+    },
+    {
+      "author": "linuz14",
+      "body": "For pmp, but in pg is up to them device, sex , content etc, no? Also capping (even if google now states that it’s possible to cross control in the last integration update…) … and what about cpm: domthey appli different rates bu device?",
+      "score": 1,
+      "created_utc": 1758958997.0
+    },
+    {
+      "author": "ItsMeRayKellar",
+      "body": "Would PG matter? Deal parameters are usually set on the publisher end.",
+      "score": 5,
+      "created_utc": 1758665506.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Unless you negotiate a CTV only deal for the PG they bundle both in normally.",
+      "score": 1,
+      "created_utc": 1758675594.0
+    }
+  ]
+}

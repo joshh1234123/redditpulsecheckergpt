@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "UTM codes dont show thru DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ggc0xs/utm_codes_dont_show_thru_dv360/",
+  "created_utc": 1730373422.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "vlad_chubakov",
+      "body": "You can try to check \"CM360 source/medium\" or \"DV360 source/medium\" as a dimension in the custom report (Explore -> New report). Based on what I know, it should show correct data (taking into account that auto-tagging is on)",
+      "score": 1,
+      "created_utc": 1730538154.0
+    }
+  ]
+}

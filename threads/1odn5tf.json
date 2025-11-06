@@ -1,0 +1,75 @@
+{
+  "id": "1odn5tf",
+  "title": "Anyone working deals with FreeWheel?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1odn5tf/anyone_working_deals_with_freewheel/",
+  "created_utc": 1761173686.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Mankzy",
+      "body": "We had a bad experience with Beeswax/ Freewheel. They sold us on how they had all kinds of exclusive NBC inventory for super affordable rates. \n\nWhen we got in there and started running campaigns we found out that the NBC inventory was no different than what we could get from Xandr and was just as expensive. No rate relief and the whole platform is cumbersome to utilize. \n\nOn top of it they were charging us a $12k per month \"platform fee\" just to use their system.\n\nThis was about two years ago so maybe things changed but we wouldn't go this route again.",
+      "score": 6,
+      "created_utc": 1761178476.0
+    },
+    {
+      "author": "powpow212",
+      "body": "There seems to be some confusion in the comments. FreeWheel’s core business is ad serving for CTV and streaming platforms only, though its SSP offering is also strong and growing. Their primary clients are major traditional TV programmers like NBCU, WBD, Paramount, etc. In contrast, Magnite/SpringServe tend to work more with OEMs such as Samsung, FAST channels, etc and Disney's tech stack is built on top of Magnite's.\n\nWhat many may not realize is that the ad server ultimately controls the ad decisioning process. So regardless of which publisher you’re sourcing premium CTV inventory from, if they’re using FreeWheel as the primary ad server, then FreeWheel is the final link in the decisioning chain. If you're aiming to access premium CTV inventory, working with FreeWheel is essentially a requirement.",
+      "score": 2,
+      "created_utc": 1761247284.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Finally expanding beyond NBC! They’re good and higher quality than most (for CTV). They have a publisher ad server which gets them very close to the direct seller and are probably getting decent deals with other networks. They’re pricey but usually worth it if you can spend enough.",
+      "score": 3,
+      "created_utc": 1761174317.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "I use them for NBCU Peacock. \nMagnite for anything Disney. \nIndex Exchange for pretty much everything else. \n\nWherever else you’ll buy any of the above really just depends on volume discounts in my experience.",
+      "score": 1,
+      "created_utc": 1761185663.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "How does freewheel compare to Magnite?",
+      "score": 3,
+      "created_utc": 1761176444.0
+    },
+    {
+      "author": "prose4jose",
+      "body": "Are the rates lower for Peacock via FW or is it exclusive inventory?",
+      "score": 1,
+      "created_utc": 1761224950.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Very comparable. But Magnite has more reach at the moment. Freewheel used to be exclusively NBC so they likely need another year or two before they can catch up to Magnite.",
+      "score": 1,
+      "created_utc": 1761176681.0
+    },
+    {
+      "author": "SlightFrostings",
+      "body": "It’s neither. The preferential NBC line they use is a massive lie. Go with Magnite or Index - they have Disney.",
+      "score": 0,
+      "created_utc": 1761323908.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "Wait what are you saying? I use all 3 SSPs, Peacock does prefer Freewheel for deals, that’s not a lie. Yes you can get it elsewhere, but what are you saying besides your distaste for Beeswax/Freewheel?",
+      "score": 1,
+      "created_utc": 1761358835.0
+    },
+    {
+      "author": "SlightFrostings",
+      "body": "I’m saying sure they point you to Freewheel because it’s also owned by Comcast but there is no pricing or inventory advantage to using the Freewheel SSP to buy digital media.",
+      "score": 1,
+      "created_utc": 1761596130.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "Ah okay I get it now, I misunderstood your response and thought you were saying I was lying lol",
+      "score": 1,
+      "created_utc": 1761599111.0
+    }
+  ]
+}

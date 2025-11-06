@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "Flashtalking - Default ad serving",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kb9fji/flashtalking_default_ad_serving/",
+  "created_utc": 1745992887.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "note that \"audiences\" and \"lookalikes\" can also be filled with bots. For example, bots deliberately visit an advertiser's site first to collect cookies. THEN they go to fake cash-out sites to cause ads to load and earn higher CPMs from retargeting   [https://www.linkedin.com/posts/augustinefou\\_pernicious-retargeting-and-remarketing-fraud-activity-7060043558925258752-JoKo/](https://www.linkedin.com/posts/augustinefou_pernicious-retargeting-and-remarketing-fraud-activity-7060043558925258752-JoKo/)",
+      "score": 3,
+      "created_utc": 1746014798.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "Verification and suppressing 1P… that sounds intense for FT to match … so high % of defaults?",
+      "score": 1,
+      "created_utc": 1745994945.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yep, it's verification suppressing because they somehow incorrectly detected IVT (invalid traffic)",
+      "score": 1,
+      "created_utc": 1746014707.0
+    },
+    {
+      "author": "Zkid93",
+      "body": "Thanks everyone! After a full overhaul, we finally got to the bottom of this. Appreciate all the input – each of you contributed to unpacking the issue from different angles. We ran the same test on another trading platform, this time without any first-party data segments, and the results were significantly better with far fewer defaults.",
+      "score": 1,
+      "created_utc": 1750290725.0
+    },
+    {
+      "author": "AtomicAds",
+      "body": "Thanks for sharing this — it's a great observation and definitely worth digging into. One thing we’d recommend checking is your geo-targeting settings across platforms. Specifically, compare geo delivery data between DV360 and your Flashtalking reports.\n\nIn many cases, Flashtalking will serve a default ad when no other creative is eligible to serve due to targeting constraints. This can happen if, for example, the targeting set in DV360 doesn’t fully align with what's configured in Flashtalking\n\nEnsuring tight alignment between your setup and targeting configurations should help reduce default ad serving.",
+      "score": 0,
+      "created_utc": 1745996735.0
+    }
+  ]
+}

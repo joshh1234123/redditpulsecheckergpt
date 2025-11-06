@@ -1,0 +1,63 @@
+{
+  "id": "1oo4wb6",
+  "title": "Discrepancies in viewabilty stats in DSP side and Magnite",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oo4wb6/discrepancies_in_viewabilty_stats_in_dsp_side_and/",
+  "created_utc": 1762255458.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "SevereAddition8147",
+      "body": "So youre not the ssp (magnite) and youre not the client, who is hands on keys in the dsp. So who are you?",
+      "score": 1,
+      "created_utc": 1762264502.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "What is the discrepancy? Who is showing stronger viewability? It’s typically as simple as giving a deal ID and that gets plugged into the DSP",
+      "score": 1,
+      "created_utc": 1762281375.0
+    },
+    {
+      "author": "dortenzio1991",
+      "body": "File a ticket with your tech ops team. That’s what they’re there for",
+      "score": 1,
+      "created_utc": 1762320554.0
+    },
+    {
+      "author": "Mundane-Gear4503",
+      "body": "Most likely dsp might be discarding view pixels causing discrepancy , is there a ad host in between you and dsp ?",
+      "score": 1,
+      "created_utc": 1762364791.0
+    },
+    {
+      "author": "Motor_Worldliness559",
+      "body": "Magnite side",
+      "score": 1,
+      "created_utc": 1762274472.0
+    },
+    {
+      "author": "Motor_Worldliness559",
+      "body": "DSP shows lesser",
+      "score": 1,
+      "created_utc": 1762283370.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "Doesn’t surprise me. SSP has an incentive to claim better viewability. If I were the client, I’d trust my DSP on it",
+      "score": 3,
+      "created_utc": 1762284388.0
+    },
+    {
+      "author": "Motor_Worldliness559",
+      "body": "What can I inform the client? Any idea?",
+      "score": 1,
+      "created_utc": 1762291675.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "What are their viewability standards? What are yours? What partners do you use? Make sure they are comparing apples to apples.\n\nThere’s usually some level of discrepancy. SSP viewability is usually measured pre bid. DSPs typically measure post render. Ad blockers are often the biggest reason why. \n\nIf I were communicating with a client about it, I’d try to avoid being defensive (you come across like you know your numbers are overinflated) and instead position yourself as curious.",
+      "score": 1,
+      "created_utc": 1762293003.0
+    }
+  ]
+}

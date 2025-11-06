@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "Do Vanity Metrics Foster Ad Waste in Digital Marketing?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l7d8di/do_vanity_metrics_foster_ad_waste_in_digital/",
+  "created_utc": 1749495602.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Why to push this LLM crap here? Is it to betatest some linkedin post? Xander and AppNexus are not releasing shit, they are closing down. No real campaign is run on only vanity metrics. CTR and CPM are not always vanity metrics. CPM lets you assume your audience size and how scaling the campaign may look like. CTR gives you straight info on funnel building - every conversion has to start somewhere and CTR is one part of the equation.",
+      "score": 17,
+      "created_utc": 1749496787.0
+    },
+    {
+      "author": "solidgoldrocketpants",
+      "body": "You should get in touch with [this guy](https://www.reddit.com/r/programmatic/s/37dM47hrAO). He’s also really into vanity metrics.",
+      "score": 3,
+      "created_utc": 1749502900.0
+    },
+    {
+      "author": "BurnerAcountInnit",
+      "body": "Ah yes, vanity metrics – the digital equivalent of eating frosting for dinner because it *looks* like a well-balanced meal on Instagram. Truly, nothing screams “effective strategy” like optimizing for a metric that basically says, “People saw it. Maybe. Possibly. Briefly. While trying to close a pop-up.”\n\nBut let’s not forget the true heroes of our story: MFA websites, or as I like to call them, *Monetization For All!* Who needs quality content when you can just generate 50 bid requests per second with a homepage consisting entirely of stock photos of salad and a blinking autoplay video of a cat in a business suit?\n\nAnd sure, 15% of global ad spend is vaporized in the flaming dumpster of programmatic chaos, but consider this: that money *could* have gone to something wasteful like clean water initiatives or education. Instead, it nobly serves to load 12 overlapping banner ads on a website called “Top 17 Life Hacks for Slicing Bread (Number 7 Will Infuriate You).”\n\nIn conclusion, vanity metrics are the breadcrumbs that lead us all into the forest of digital delusion. But it’s okay. Because if the CPM is low, the CTR is high, and your ad was technically viewable for 0.6 seconds—*you’re winning.*\n\nPlease clap. 🤖📈🍕\n\nLet me know if you want an even more absurd or poetic version.",
+      "score": 2,
+      "created_utc": 1749750518.0
+    },
+    {
+      "author": "oaklandperson",
+      "body": "The real elephant in the room is that everyone is still buying IAB sizes, a standard established back in 1999. A 728x90 leaderboard filled the 800x600 screen (standard at that time).\n\nOver the years, screen resolutions have increased (we see an ever-increasing percentage of 4k monitors in our reports), and performance has declined. There is a direct correlation between increasing screen resolution and performance decline. We have gone from 3% CTRs to .02.\n\nYet the industry is obsessed with data as if polishing a turd will make it tastier. Numerous studies show that better creative contributes 4x more in sales than targeting and recency. Most marketers think just the opposite is true. Perception is not reality. Buying Ad units that people can see are more expensive, sure, but are they? Better ads and ad slots result in better viewability, higher CTRs, brand lift, and reduced frequency. Combine all that together and you get marginally more expensive CPMs.\n\nSomeday, someone will figure out that data and hyper-targeting over better creative is a big lie.",
+      "score": 2,
+      "created_utc": 1749783387.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Most of the industry is incentivised to deliver volume as cheap as possible. A serious marketing campaign wouldn’t include display to begin with",
+      "score": 1,
+      "created_utc": 1749766636.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Firstly, I never suggested ignoring CTR, CPM, or viewability. My point is that you cannot measure the success of your campaign by relying solely on these metrics; they offer only a small part of the picture. In fact, I have seen many campaigns that use CTR as the primary KPI. While CTR can indicate whether your audience finds your ads appealing, it doesn't provide substantial insight into your campaign’s overall impact on user behavior. Moreover, CTR alone doesn’t offer guidance on what adjustments to make if your campaign needs realignment.\n\nFor KPIs to be actionable, they must be contextualized within your business objectives, even at the top of the purchase funnel. Similarly, CPM can be misleading if you're buying inventory from MFA websites, as these low-cost inventories are often of poor quality and can ultimately harm your brand.\n\nP.S. I wrote this article myself; it was not generated by any AI.",
+      "score": 1,
+      "created_utc": 1749500839.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "I also wrote that post! But thanks for reading it :-)",
+      "score": 2,
+      "created_utc": 1749503092.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Thanks for your post! It perfectly captures the essence of the speech. 😊 I'm also glad to see that many others are focusing on metrics that truly drive effectiveness.",
+      "score": 1,
+      "created_utc": 1749813526.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "I don't see these two aspects as being in contrast. Your point about creative sizes, considering the larger screens of the latest smartphones, may be valid—if you have an authoritative source, please share it with us, as it would be valuable for everyone! However, I wouldn't define creative quality solely by size. Instead, I would consider overall quality, incorporating elements such as data-driven insights, animation, and the effectiveness of advertising message communication.",
+      "score": 1,
+      "created_utc": 1749851680.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Why do you say that you wouldn’t include display creative formats? I don’t agree with that; it’s more about selecting actionable metrics to drive delivery toward quality inventories. There’s so much you can do with display creatives: they can be dynamic, include animations, or even contain videos. However, I’d love to hear your opinion on this!",
+      "score": 1,
+      "created_utc": 1749813812.0
+    }
+  ]
+}

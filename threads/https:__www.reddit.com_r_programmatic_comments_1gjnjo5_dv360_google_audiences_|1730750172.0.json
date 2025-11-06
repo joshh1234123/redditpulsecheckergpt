@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "DV360 Google Audiences",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gjnjo5/dv360_google_audiences/",
+  "created_utc": 1730750172.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "lancequ01",
+      "body": "its free, so its worth its value. if you dont think so, a/b test it with other audiences and really understand its value",
+      "score": 4,
+      "created_utc": 1730750684.0
+    },
+    {
+      "author": "workredditaccount555",
+      "body": "The disadvantage is that you have to trust Google's taxonomy. In Market for X can mean a lot of different things.",
+      "score": 2,
+      "created_utc": 1730755755.0
+    },
+    {
+      "author": "DodgersBum",
+      "body": "To me the disadvantage when I build a custom affinity audience is that Google always says there are a bajillion users in the audience - which makes me question the accuracy.  That said it usually outperforms other audiences.",
+      "score": 2,
+      "created_utc": 1730757338.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Because of Google's wide range of platforms, apps, and user profiles, these audiences offer some value. However, I've always advised people to be cautious, mainly relying on Google audiences and DV360. In my opinion, you really only learn the complexities and intricacies of programmatic media buying when you can't rely on these very self-explanatory audience profiles made up of their browsing behaviour but not really clarifying number of interactions with something bucketed them in \"in-market segment X\".",
+      "score": 1,
+      "created_utc": 1730797040.0
+    },
+    {
+      "author": "Ricah036",
+      "body": "Mostly works on ADX inventory, huge disadvantage when looking for quality/premium inventory.",
+      "score": 1,
+      "created_utc": 1730839878.0
+    },
+    {
+      "author": "Dull-Formal-7976",
+      "body": "I’m openly no fan of DV360 but if you pick the right audiences these can easily outperform 95% of other prospecting strategies.",
+      "score": 0,
+      "created_utc": 1730768123.0
+    },
+    {
+      "author": "TechnocratMagellan",
+      "body": "Lots of premium publishers use ADX as their SSP",
+      "score": 2,
+      "created_utc": 1730891742.0
+    }
+  ]
+}

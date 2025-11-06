@@ -1,0 +1,117 @@
+{
+  "id": null,
+  "title": "Unified APIs for dOOH? Other ad ops tools?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j7i4op/unified_apis_for_dooh_other_ad_ops_tools/",
+  "created_utc": 1741555563.0,
+  "num_comments": 18,
+  "comments": [
+    {
+      "author": "DingleBerry___x",
+      "body": "Knowing your situation quite well- particularly working with Vistar… it’s difficult. Especially if you’re a home-grown infrastructure like it sounds like you are… \n\nWhat are your goals? Maybe I can point you in the right direction…",
+      "score": 3,
+      "created_utc": 1741555980.0
+    },
+    {
+      "author": "Street_Discussion_61",
+      "body": "You need someone to run a build vs buy analysis. There are integration partner as a service (IPaaS) companies. But your use case seems quite niche in terms of who you want to integrate with. Some names that come to mind workato, prismatic and fivetran but there are many many more. \n\nThere are also open source companies that offer something like this. Can’t remember any of the names right now. We did a similar analysis at my last company and chose the open source company (as it was free and we could\nHost it in our env plus it passed privacy and security reviews etc…). Even if they don’t have pre-built connectors they have a standardised model you can use for new but you obviously have to invest dev time in implementing such a solution so this needs to be weighed up against just building everything yourself as part of the analysis",
+      "score": 3,
+      "created_utc": 1741593471.0
+    },
+    {
+      "author": "casual_fifix",
+      "body": "I’ve been working for 5 years on the demand side automating reports and LLD ingestion from DSPs. \nI’m not deeply familiar with dooh. If you could walk me through how things work in your space—especially the specific pain points with APIs and inventory management—I’d love to see if there’s a way I can help streamline things for you. Feel free to DM me if you’d like to discuss this further!",
+      "score": 2,
+      "created_utc": 1741594972.0
+    },
+    {
+      "author": "Appropriate-Cost1227",
+      "body": "This is a common challenge across Ad-tech especially as channels like pDOOH mature and more players enter the space. Part of what you are describing can solved by something called a header-bidder. 1 api that manages all your other integrations and API’s. My personal favourite was AdStash’s, but Hivestack and Broadsign now offer header bidders as well. However, I can’t imagine companies who own their own DSPs will be a true unified auction compared to other header-bidders owned by independent companies. Hope this helps and good luck.",
+      "score": 1,
+      "created_utc": 1741558642.0
+    },
+    {
+      "author": "xriddle",
+      "body": "I'm the CTO for a media company that runs about the same amount of screens as you do and we have built these services internally to synchronize across all the platforms we integrate with from a central internal repository. All platforms have APIs that make this possible.",
+      "score": 1,
+      "created_utc": 1741560712.0
+    },
+    {
+      "author": "MttxW2",
+      "body": "Hi OP - I work in the same industry, you mind if we could connect?",
+      "score": 1,
+      "created_utc": 1741637637.0
+    },
+    {
+      "author": "FantasticAirport4900",
+      "body": "I know [Switchboard](https://switchboard-software.com) helps other DOOH companies, like Outfront, automate these types of data.",
+      "score": 1,
+      "created_utc": 1741649805.0
+    },
+    {
+      "author": "ravie-bdm",
+      "body": "This may be a silly question but why not just use an ad server? Not sure what venue management is and likely an ad server can’t do that part, but it can manage all your monetization partners and audience metrics.",
+      "score": 1,
+      "created_utc": 1742359855.0
+    },
+    {
+      "author": "resetskillpoints",
+      "body": "So the goals would be to find a tool that helps automate venue/impression information to 5+ programmatic platform SSPs. We don't have the time to build each SSP's custom venue/audience/reporting API. Right now we're managing it all via manual uploads and spread sheets.\n\nReally the goal is efficiency",
+      "score": 3,
+      "created_utc": 1741556890.0
+    },
+    {
+      "author": "resetskillpoints",
+      "body": "Good point! Thanks for the advice! I'll look into those types of company",
+      "score": 1,
+      "created_utc": 1741617004.0
+    },
+    {
+      "author": "resetskillpoints",
+      "body": "Thanks! Are you a developer?",
+      "score": 1,
+      "created_utc": 1741616948.0
+    },
+    {
+      "author": "xriddle",
+      "body": "You still need to maintain inventory on other platforms when using header bidding. I've done it for place exchange via broadsign and need to maintain both for inventory.",
+      "score": 1,
+      "created_utc": 1741560254.0
+    },
+    {
+      "author": "resetskillpoints",
+      "body": "Yeah we're considering that, but dev time is always tight and there are so many APIs to manage and maintain.",
+      "score": 1,
+      "created_utc": 1741573691.0
+    },
+    {
+      "author": "casual_fifix",
+      "body": "No problem. I’m a project manager running a small team",
+      "score": 1,
+      "created_utc": 1741632284.0
+    },
+    {
+      "author": "Appropriate-Cost1227",
+      "body": "I see. AdStash does it all for us. I refresh my inventory on AdStash and it refreshes everywhere else in 48 hours.",
+      "score": 1,
+      "created_utc": 1741561203.0
+    },
+    {
+      "author": "xriddle",
+      "body": "There is a cost to that and if I recall it's not negligible. And for the longest time Adstash wouldn't work with Vistar. That may have changed since they were acquired.",
+      "score": 1,
+      "created_utc": 1741561276.0
+    },
+    {
+      "author": "Appropriate-Cost1227",
+      "body": "All part of the commission they take on ads, it’s a rev share model.",
+      "score": 1,
+      "created_utc": 1741573239.0
+    },
+    {
+      "author": "resetskillpoints",
+      "body": "Yeah definitely looking for more than just the header bidder. AdStash sounds interesting but not sure we'd go for a rev share with them. Maybe though! Is it much?",
+      "score": 1,
+      "created_utc": 1741574790.0
+    }
+  ]
+}

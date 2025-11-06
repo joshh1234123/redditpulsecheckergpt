@@ -1,0 +1,129 @@
+{
+  "id": null,
+  "title": "Contextual vs ID/ Audience Data",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j9y00l/contextual_vs_id_audience_data/",
+  "created_utc": 1741821891.0,
+  "num_comments": 21,
+  "comments": [
+    {
+      "author": "Ill_Investigator1565",
+      "body": "I don’t quite follow the “lacking of ad units” for behavioral. Isn’t the format quality based on the inventory source, not the audience?\n\nIn terms of contextual vs behavioral, in my 10 years of programmatic, contextual has always been the worst performing targeting tactic because you are targeting a place and not a person. One hopes the person you want is on that contextual placement because it aligns with what your target audience is interested in. Targeting people over places has always provided better ROAS.",
+      "score": 11,
+      "created_utc": 1741823237.0
+    },
+    {
+      "author": "Guidosama",
+      "body": "Is this product something where there is repeat purchase? At that low a price point you have to bank on converting a customer and having them repeat several times to be profitable.\n\nCheap CPMs mean cheap inventory. You have to balance good targeting in acceptable inventory and make sure there are real people viewing your ads.",
+      "score": 2,
+      "created_utc": 1741823174.0
+    },
+    {
+      "author": "Fit_Pool_8622",
+      "body": "Proximic contextual audiences",
+      "score": 2,
+      "created_utc": 1741828873.0
+    },
+    {
+      "author": "Scharky69",
+      "body": "I would not look to put too much into contextual or behavioral, but rather focus on custom segments based on purchase data if ROS is your primary kpi. You can create audience segments from shoppers of certain brands or products (lapsed of current within various timeframes). You can also measure the effectiveness of each creative, segment, tactic etc based on incremental purchases (in-store and online) and store visitation.",
+      "score": 2,
+      "created_utc": 1741850801.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Sounds like you've been buying contextual in the most inefficient way. Focused on buying contexts in conjunction with high impact units, within a limited publisher network. (SeedTag, or GumGum presumably).\n\nHave you explored more open contextual solutions, which allow you to target whatever supply you want? Either via the DSP directly, or curated on the SSP side? Plenty of quality partners out there that can help drive cost-efficient highly relevant contextual buys without paying these crazy premiums. Feel free to shoot me a DM for any further questions",
+      "score": 2,
+      "created_utc": 1741857397.0
+    },
+    {
+      "author": "gooserider",
+      "body": "We (https://exactcontext.com/) may be able to bring down the CPMs on the contextual campaigns. But as I'm sure you know with a £6 product you really don't have a lot of spread to play with.\n\nWe've found our contextual offering effective when it's used as piece of a media strategy for eComm when its difficult to pick audiences to target. \n\nFor example, what audience would be interested in \"mouth taping\" or sleep aids in general? But contextually, if you're reading about the best mouth tapes or alternative sleep aids is chances are you're in market.",
+      "score": 1,
+      "created_utc": 1741827053.0
+    },
+    {
+      "author": "themedialad",
+      "body": "Which market are you buying in? This could have an impact.",
+      "score": 1,
+      "created_utc": 1741982914.0
+    },
+    {
+      "author": "programmaticpigeon",
+      "body": "Many contextual providers offer their data pre-bid in DSPs - you don't need to always couple contextual targeting with high impact units, or limit yourself to a specific SSP. There are many providers available to choose from and you can target any inventory you'd like. This approach would be more cost-efficient and would likely be more effective at driving lower funnel conversion activity and ROAS, in combination with your other tactics.",
+      "score": 1,
+      "created_utc": 1742061566.0
+    },
+    {
+      "author": "chefben",
+      "body": "Sent you a DM",
+      "score": 1,
+      "created_utc": 1742359483.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "That is correct, format quality would be based on the publisher. So would partners like Lotame help curate publishers that offer high impact format +  behavioral purchase data? \n\nI do agree that contextual is not a one stop solution so keen to get your thoughts on how you would go about it?",
+      "score": 0,
+      "created_utc": 1741823933.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "Would you recco the contextual route in which case?",
+      "score": 1,
+      "created_utc": 1741823679.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "I’m not super familiar with this. Will look into it.",
+      "score": 1,
+      "created_utc": 1741909817.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "Hey left you a message!",
+      "score": 1,
+      "created_utc": 1741909767.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "Yes but scale would be questionable, right? How much time is your target audience reading about mouth taping is where I start questioning",
+      "score": 1,
+      "created_utc": 1741900376.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "UK market. Leaning towards  curation specialist at the moment",
+      "score": 1,
+      "created_utc": 1741983040.0
+    },
+    {
+      "author": "dortenzio1991",
+      "body": "No, an SSP that’s integrated with lotame would curate the high impact ad units and create a pmp with the lotame data applied",
+      "score": 2,
+      "created_utc": 1741836752.0
+    },
+    {
+      "author": "Ill_Investigator1565",
+      "body": "Can you clarify what high impact units or formats are? For our business, we run through a DSP that allows all kinds of creative types. We then diversify targeting based on the audience or inventory type and then see who wins against our KPI. Future campaign would have concentrated spend on what worked, with spend used for new tests.",
+      "score": 1,
+      "created_utc": 1741891793.0
+    },
+    {
+      "author": "Tempestree",
+      "body": "Would going with the likes of Teads who specialize for Video + Lotame Segments sound like a more cost effective/ smarter way of buying? \n\nI know this is a very open ended question, but let me know what you think.",
+      "score": 1,
+      "created_utc": 1741907815.0
+    },
+    {
+      "author": "_haveaday",
+      "body": "Did you ever dig into these?   \n  \nMy company just launched a series of audiences with them. Depending on your industry and target audience, this is a new way to target known behavioral at scale   \n  \nOur partnership in particular covers B2B, healthcare, gaming, political if that's an area of interest!",
+      "score": 1,
+      "created_utc": 1751298341.0
+    },
+    {
+      "author": "gooserider",
+      "body": "Yup it's a low scale strategy. But you'd want to layer in retargeting for the users that were targeted contextually.\n\nBut it's also worth considering how many people are actively in-market for something like mouth tape anyway?",
+      "score": 1,
+      "created_utc": 1741909632.0
+    }
+  ]
+}

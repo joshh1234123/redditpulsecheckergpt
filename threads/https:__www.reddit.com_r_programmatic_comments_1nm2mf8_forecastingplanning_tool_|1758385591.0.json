@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "Forecasting/Planning Tool",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nm2mf8/forecastingplanning_tool/",
+  "created_utc": 1758385591.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "slippycrook",
+      "body": "What would you suggest a forecast tool will use to predict reach other than historical data?",
+      "score": 5,
+      "created_utc": 1758387250.0
+    },
+    {
+      "author": "Party_Dog9299",
+      "body": "This is a tough one. Which DSPs are you using? What problems have you seen with their forecasting tools? I would also think differently about live sports vs ads on regular programming just because sports etc will be unpredictable.",
+      "score": 2,
+      "created_utc": 1758442419.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Basis has a great forecasting tool.",
+      "score": 1,
+      "created_utc": 1758408682.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "Honestly not sure but I do know looking at past request volume isn’t an accurate indicator of future impressions (ex. SSPs significantly duplicating requests for a single impressions opportunity). I feel like something could be done to incorporate programming (sports schedules, new show/season releases, etc.).",
+      "score": 1,
+      "created_utc": 1758387863.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "We have seats across all the majors and one of our favorite exercises is comparing forecasts across them",
+      "score": 1,
+      "created_utc": 1758594391.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "Define great 😂",
+      "score": 0,
+      "created_utc": 1758413544.0
+    },
+    {
+      "author": "nabruv13",
+      "body": "TIDs (before the prebid change) would be a super interesting path to better forecasting, solving for exchange dupe issue. Unfortunate",
+      "score": 2,
+      "created_utc": 1758504023.0
+    },
+    {
+      "author": "Party_Dog9299",
+      "body": "Google and TTD both have CTV/ TV specific forecasting tools that should be “good”. Google may be slightly better at estimating the overall market size while TTD better with campaign specific spend estimates. They both may have live events specific forecasts which you should ask your reps about.",
+      "score": 2,
+      "created_utc": 1758608921.0
+    },
+    {
+      "author": "_oflife",
+      "body": "What’s been useful in my world are planners that let you build scenarios. Basically, “what if I move X% of spend to CTV” or “what if inventory tightens over the holidays” without being locked into past data.\n\nMadhive’s Planner does some of this already (scenario comparisons, supply/audience modeling, etc.), and they’ve been expanding features pretty quickly. Might be worth a look if you want something beyond “last quarter = next quarter.”",
+      "score": 2,
+      "created_utc": 1759006634.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "#RIPTID",
+      "score": 1,
+      "created_utc": 1758594305.0
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": null,
+  "title": "How to counter PMAX campaigns. ",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h89100/how_to_counter_pmax_campaigns/",
+  "created_utc": 1733512026.0,
+  "num_comments": 27,
+  "comments": [
+    {
+      "author": "Actual__Wizard",
+      "body": "If you look at the campaign and you see stuff in there that you bought and didn't want, that's called a scam.\n\nI really feel like it's just a trick to get novice media buyers to increase spend. They're just slowly turning their company into Stratton Oakmont.\n\nThe relevant quote is \"obvious disregard for all rules of fair practice.\"\n\nThey're just making it easier and easier to waste money on ads you don't want, while the inventory you do want, somehow costs more and more.",
+      "score": 21,
+      "created_utc": 1733513643.0
+    },
+    {
+      "author": "mattyfatty1",
+      "body": "https://www.adweek.com/programmatic/exclusive-40-mfa-dead-domains/",
+      "score": 9,
+      "created_utc": 1733512487.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "Performance Max:\n\n(1) Guarantees you'll get bot traffic as your ads will appear on search partners and display.\n\n(2) Guarantees you'll get fake leads, as click fraud bots are programmed to submit leads.\n\n(3) Guarantees you'll break data privacy laws, as the fake leads use real people's data, and you don't have permission to store or contact those leads. It's a $40k fine *per lead*.\n\n(4) Last but not least, Google's goal is to make as much money as possible for Google. That's not what your goal is, so why the hell would you give Google control of your ad budget?",
+      "score": 9,
+      "created_utc": 1733593975.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "I don’t have enough time to do this throughly but here’s the top reasons:\n\n1. It’s mostly just random text ads or static ads in Googles O&O, includes GSP and GVP, and gives 0 transparency for what it is buying inside of Googles walls.\n2. If you set up conversions broadly, it really only optimizes to the larger scale conversion event. \n3. Outside of Google O&O, it’s largely just programmatic in app inventory inside of Googles AdMob tech. Lots of kids apps can appear in your delivery (soo many clicks!)\n4. The Creative is largely a white banner with big text that probably isn’t even your brand name: I.e. ORDER PIZZA HERE vs DOMINOES with a tiny logo slapped on. Lots of 320x50 units too.",
+      "score": 9,
+      "created_utc": 1733516611.0
+    },
+    {
+      "author": "akunni",
+      "body": "PMax offers lesser options for custom creatives and is limited in terms of creative optimization.",
+      "score": 3,
+      "created_utc": 1733516326.0
+    },
+    {
+      "author": "BurnerAcountInnit",
+      "body": "PMAX is like an automatic car. It's easy to use, requires less work and settings, and works fine for most people. So the vast majority of amateur drivers use that, but the vast majority of performance drivers don't.   \nIf all your competitors put their money in PMAX who does a better job and how can they differentiate besides increasing their budgets?",
+      "score": 2,
+      "created_utc": 1733526244.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "If you can't readily explain what you're buying, you can't make an informed decision about whether it's a good investment.",
+      "score": 2,
+      "created_utc": 1733534361.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "40% of a brand's Pmax impressions ran on MFA sites or non-existent domains\n\n[https://www.adweek.com/programmatic/exclusive-40-mfa-dead-domains/](https://www.adweek.com/programmatic/exclusive-40-mfa-dead-domains/)",
+      "score": 2,
+      "created_utc": 1733574707.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "Think of PMAX as running a campaign on default settings. It’s made for amateurs to get campaigns off the ground quickly and easily.",
+      "score": 2,
+      "created_utc": 1733620750.0
+    },
+    {
+      "author": "klustura",
+      "body": "Who are you? Are you an advertiser? Agency? Trading Desk? DSP? Consulting? Freelancer?\n\nThis is that time of the year where PMax comes handy given that not a single human being has time to deal with the end of Q4 workload.",
+      "score": 1,
+      "created_utc": 1733528135.0
+    },
+    {
+      "author": "Publish_Lice",
+      "body": "Advertisers paying agencies to ask random people for slide decks off Reddit 😂 then they wonder why the model is dying",
+      "score": 0,
+      "created_utc": 1733577518.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "Just curious if you have direct experience using them, is performance good or is it significantly worse?",
+      "score": 1,
+      "created_utc": 1733522784.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Why do you say that? Isn't performance max just a mix of display and search",
+      "score": 1,
+      "created_utc": 1733514602.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "& \nhttps://adalytics.io/blog/are-youtube-ads-coppa-compliant\n&\nhttps://adalytics.io/blog/search-partners-transparency",
+      "score": 1,
+      "created_utc": 1733536023.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "I saw this too. This may be a personal thing but for most people this is an abstract concept though. \n\nWhat they are hearing is you can upload some images and keywords to Google and your campaigns are made for you and work awesome. \n\nHow do you combat a mega Corp who is telling everyone from news, blogs, \"reviews\" and conferences that their product is better than everyone else's?",
+      "score": 1,
+      "created_utc": 1733585474.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "Agency, we use TheTradeDesk, StackAdapt and all of the normal Social + Google Ads for search.",
+      "score": 1,
+      "created_utc": 1733530866.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "It's more that clients go to conferences hear from people at Google that their new PMAX is the sh*t and then come back and ask us to justify why we are not using PMAX (you know cuz they were told it's the sh*t). Really it's because google holds such a strangle on the casual marketing world that this is even a question I need to answer and in turn ask this community. \n\nWe don't use PMAX because I think it's a waste of time and money. Which means I don't have any first hand data to compare. So instead of wasting cash I thought I would ask a community of people who work in the same industry their opinion first.",
+      "score": 2,
+      "created_utc": 1733585196.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": "It depends on the campaign as always. If it makes money, I'm not going to ever tell somebody to turn that off. But, that's kind of the problem. Google keeps dialing the costs up and those campaigns are getting more and more scarce. It's mega over saturated and the bids are sky high... \n\nSo, there's nowhere to really go. It either works or it doesn't and I'm just saying: There's a reason I don't actually have a client right now. It's not working anymore. I don't even work with Google anymore as it's just too difficult to work with. It is legitimately the worst place to go for anything besides their search traffic. If your campaign is so large that you have to be there, then you have to be there, but yikes dude. I am 100% confident that renting a fur suit and waving a sign around is more cost effective in almost all cases... I mean if you want attention, then you gotta work for it. This low effort stuff is really old and ultra tired at this point. We're like 15  years past the hayday and people are still just piling into the same products, that just cost more and more due to the bidding nature of the products...",
+      "score": 1,
+      "created_utc": 1733526015.0
+    },
+    {
+      "author": "lancequ01",
+      "body": "Where they are crediting and the sites they are appearing on are not always brand safe. You dont want your brand on a site that is supporting nazis",
+      "score": 10,
+      "created_utc": 1733516154.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": "Search traffic is extremely good quality compared to display traffic. I have no idea why anybody who is buying search traffic would want display traffic. Display traffic is an animal in itself and what's effective in the display format is completely different. I would never take a search campaign and turn it into a display campaign. The stratagies are just totally different. It doesn't make sense. It just seems like a solution that was created to solve the problems of the ad tech providers and not the advertising customers. PMax doesn't solve a problem that actually exists. There's no demand... You're just going to end up wasting ad spend testing stuff that doesn't make any sense to test.",
+      "score": 10,
+      "created_utc": 1733519893.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "> How do you combat a mega Corp who is telling everyone from news, blogs, \"reviews\" and conferences that their product is better than everyone else's?\n\nWe're working on it. They've earned hundreds of billions from click fraud over the past 20 years. It's going to take some time, but they'll eventually have to face the music.",
+      "score": 2,
+      "created_utc": 1733678606.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "You can use performance max as long as you're doing bot detection and bot disabling to ensure the spam leads are blocked and Google's traffic algorithm is continuously trained to send high quality humans.\n\nPerhaps that can be your angle to either talk your clients out of it, or ensure performance max is used safely.",
+      "score": 1,
+      "created_utc": 1733677537.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "Would you say that PMAX usually beats out a DSP like TTD, or Stack Adapt or one of the other competitors? Why would you go with PMAX over one of the DSPs. From my understanding what you said is pretty much what every experienced person is saying, but the PMAX still gets used more attention than any other campaign launcher. // On a side note I feel like PMAX is also heavily optimized towards targeting Android users rather than all ecosystems.",
+      "score": 1,
+      "created_utc": 1733531037.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">Would you say that PMAX usually beats out a DSP like TTD, or Stack Adapt or one of the other competitors?\n\nOn the display side? It's basically the same market, what do you mean? You just compare the placements and fees to figure that out. It's likely going to depend on the campaigns themselves. You should be able to run ads on all the major display placements from any of those options.\n\nEdit: You're aware that TTD is not really designed for small in house campaigns correct?",
+      "score": 2,
+      "created_utc": 1733531387.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "I thought the entire idea of a PMAX campaign was using \nMultiple items (maps, discovery etc) to get conversions. Is the consensus that a Google PMAX with everything but search is going to blow other DSPs out of the water performance wise?",
+      "score": 1,
+      "created_utc": 1733531658.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">I thought the entire idea of a PMAX campaign was using Multiple items (maps, discovery etc) to get conversions.\n\nIt runs ads everywhere it can and then is suppose to automagically optimize the placements. Which it absolutely can, you know, after you spend a ton of money on bad placements for that campaign...\n\n>Is the consensus that a Google PMAX with everything but search is going to blow other DSPs out of the water performance wise?\n\nThe consensus? Yikes, I think the consensus is that Google is a monopoly that is going to do whatever they want and whether you like it or not is too bad. It's not doing anything that a human being can't do and a human being with experience should be many times more effective, so I would say no. I don't see how it's possible that a consensus of people think that. I mean maybe if you compare \"out of the box\" campaign settings... If you actually set the campaigns up intelligently, then no, how is that possible?\n\nWhat does \"performance\" even mean? Like it makes Google more money than other DSPs? Yeah for sure... I'm sure that people \"stumbling\" into display advertising with zero experience performs extremely well for Google... If you're talking about cost effectiveness, then absolutely not. I would say that depends on the media buyer and their skills. Which, apparently people don't value skills and would rather have an AI that is usually wrong do it for them. You can just let the algorithm bid on placements that a human knows to avoid... I don't know why anybody thinks that a good idea... You know, besides Google...\n\nYou know, usually the way this process starts is by analyzing the customers and their interests, then making a list of placements where it would make logical sense to have ads there... Not throwing remarketing code on a page and letting the algo do whatever it wants... It's kind of the exact opposite of a good strategy...",
+      "score": 1,
+      "created_utc": 1733532015.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1oe20io",
+  "title": "YouTube Instant Deals - Setup Question",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oe20io/youtube_instant_deals_setup_question/",
+  "created_utc": 1761222710.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Out of interest, how much budget do you exactly have & how are you measuring success?\n\nYour reddit posts over the past few months have gone from Amazon DSP to Prime to DV360 to more bespoke CTV supply to YT which is quite the wild ride for even a mature brand.",
+      "score": 3,
+      "created_utc": 1761225717.0
+    },
+    {
+      "author": "CoffeeWithMilkPlease",
+      "body": "When you are filling the instant reservation you should input there the geographical targeting and that should be it.\n\nOnce you get the quotation, and assign that to an existing campaign, both Insertion Order and Line Item will automatically be built and you won't be able to alter them with the exception of naming and the creatives.\n\nAs best practice leave the campaign level quite open, without any targeting applied, then apply whatever is needed at IO or LI.",
+      "score": 2,
+      "created_utc": 1761224020.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Instant Deals are like non-guaranteed or guaranteed programmatic deals in that you have to define the parameters up front.",
+      "score": 1,
+      "created_utc": 1761228417.0
+    }
+  ]
+}

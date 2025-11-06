@@ -1,0 +1,153 @@
+{
+  "id": null,
+  "title": "Netflix Ads Inventory",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kdmyzq/netflix_ads_inventory/",
+  "created_utc": 1746255857.0,
+  "num_comments": 27,
+  "comments": [
+    {
+      "author": "sleeplong",
+      "body": "In Europe we have always on deals in all agency seats from TTD, DV360 to Xandr. Like others have pointed out Netflix is not working with Microsoft anymore. According to our source, Netflix is working on and planned on launching its own Adserver + Tech Stack in July. So makes sense that some of their deals stopped until they launch their own solution. If I would be you, I'd just work my way trough their sales adresses and ask for direct PMPs.\n\nAdding that their overall Sales + Creative approval service is still very bad and not programmatic ready. In europe they take 4-5 days to approve your creative when you first bid.. thats insane!",
+      "score": 10,
+      "created_utc": 1746279951.0
+    },
+    {
+      "author": "liessylush",
+      "body": "Former contractor here for Netflix. You are all correct, they’re no longer using Xandr/MSFT for DIO or PMP/PG deals. \n\nThey’re not on the OE and if you want to buy any 1:1 or 1:many deals you need to have a seat with TTD or DV, or like someone else said, go thru a reseller. And yes, they are working on launching their own ad server, NAS which is built on top of Magnite’s stack.",
+      "score": 7,
+      "created_utc": 1746281172.0
+    },
+    {
+      "author": "FriendlyAndNormal",
+      "body": "Netflix is no longer using the Microsoft SSP as far as I’m aware so any existing Invest -> Monetize deals would surely be switched off. Who set the deals up for you? Microsoft or Netflix?",
+      "score": 5,
+      "created_utc": 1746257546.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Try Choozle as well. They’re a TTD reseller that would allow you that inventory. \n\nYou can also go DV360 reseller seat with a place like Jellyfish or Media.Monks. You’ll have to see how the fees work out for you, but it may make sense if you have enough client budget / desire to run on Netflix",
+      "score": 3,
+      "created_utc": 1746271271.0
+    },
+    {
+      "author": "McDuncle",
+      "body": "Netflix recently started their own ad server. It seems they're rolling it out client by client. As I've dealt with a few requests in the last month. The tile has to be enabled by them in LiveRamp, as it's not rolled out to all clients yet.",
+      "score": 2,
+      "created_utc": 1746301748.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "You could try working with a TTD reseller like Goodway Group; my understanding is that they provide your own TTD seat but with more flexibility w/ minimums",
+      "score": 2,
+      "created_utc": 1746256256.0
+    },
+    {
+      "author": "True_Link4011",
+      "body": "What minimums are you guys hearing from Netflix directly or TTD? I work primarily in the TTD and have heard different quotes on netflix mins",
+      "score": 1,
+      "created_utc": 1746290469.0
+    },
+    {
+      "author": "p_romo",
+      "body": "We could do it as a managed service if you are open to that.",
+      "score": 0,
+      "created_utc": 1746290127.0
+    },
+    {
+      "author": "liessylush",
+      "body": "Yep, absolutely insane, but it’s because they use actual live human beings to review each piece of creative that comes thru.",
+      "score": 3,
+      "created_utc": 1746281296.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Netflix will set up 1:1 but we need 1:many. Sounds like it might just take months or next year before they’re ready.",
+      "score": 1,
+      "created_utc": 1746281553.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Thank you for the info. Do you know why Basis is not included? They’re a strong DSP with a great team.",
+      "score": 3,
+      "created_utc": 1746281796.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Invest did. Reps weren’t even told the PMPs would stop.",
+      "score": 1,
+      "created_utc": 1746281261.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Interesting! This could be why they’re focused on 1:1 initially. A PITA though.",
+      "score": 1,
+      "created_utc": 1746305131.0
+    },
+    {
+      "author": "PupsnPhotos2390",
+      "body": "I used to work at Goodway. It’s been a few years so they could be operating differently but we didn’t set up our clients with their own seat in TTD. It was under our seat but you do get a very extensive and great dashboard. \n\nIf you go with Goodway, just make sure you ask for a transparent pricing model.",
+      "score": 2,
+      "created_utc": 1746282403.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Hearing $15k PMP per 1:1 advertiser, $75k PG. 1:1 is too cumbersome; we need the 1:many and layer in other targeting as needed.",
+      "score": 2,
+      "created_utc": 1746305404.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "We prefer hands on keyboard but thank you!",
+      "score": 2,
+      "created_utc": 1746304933.0
+    },
+    {
+      "author": "sleeplong",
+      "body": "Theoretically, we can use those deals for every advertiser we have in the Seat. We had to name all possible advertisers and they said it helps with the creative approval process, but is no issue if more than one bids on the deal. Huge agency with TV bargaining power thought, dont know if they do it for all",
+      "score": 2,
+      "created_utc": 1746282510.0
+    },
+    {
+      "author": "Ballytrea",
+      "body": "Depends how much support they get from Magnite on support with the white labeling of their tech. Hiring of key personnel also issue with Netflix.",
+      "score": 2,
+      "created_utc": 1752689219.0
+    },
+    {
+      "author": "liessylush",
+      "body": "No clue. When I first came on to help with the massive amounts of outreach they were getting from SMBs and others brands not working with a major HoldCo, all we kept hearing from those partners was they use Basis, StackAdapt, PulsePoint, etc, any other DSP that wasn’t TTD or DV. I know they’re working to onboard and work with other DSP partners, but when/if that will happen, no clue.",
+      "score": 2,
+      "created_utc": 1746282055.0
+    },
+    {
+      "author": "FriendlyAndNormal",
+      "body": "The _Microsoft reps_ didn’t know the deals would be switched off? Based on other replies, it seems certain Netflix is moving on from Microsoft",
+      "score": 3,
+      "created_utc": 1746283460.0
+    },
+    {
+      "author": "McDuncle",
+      "body": "Just an update. Netflix rolled out their integration to all clients today. I work more in ad ops, so can't help you on the buying side, but saw it was rolled out so thought I would share.",
+      "score": 2,
+      "created_utc": 1746556725.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Yeah I've never used them but I was chatting with someone there this week about the offering; must be newish.\n\n\n(Happy to pass the sales guy's info along if anyone is interested)",
+      "score": 3,
+      "created_utc": 1746299169.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Correct. No one told them. Crazy.",
+      "score": 0,
+      "created_utc": 1746283562.0
+    },
+    {
+      "author": "FriendlyAndNormal",
+      "body": "Trying to wrap my head around this, do Microsoft not know that Netflix is no longer using their SSP anymore? This sounds like a communication mess",
+      "score": 2,
+      "created_utc": 1746291590.0
+    }
+  ]
+}

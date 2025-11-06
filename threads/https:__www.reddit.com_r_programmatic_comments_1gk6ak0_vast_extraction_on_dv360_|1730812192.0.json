@@ -1,0 +1,27 @@
+{
+  "id": null,
+  "title": "VAST extraction on DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gk6ak0/vast_extraction_on_dv360/",
+  "created_utc": 1730812192.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "You are correct, DV360 has to adserve itself and hosts it in a CM360 account. If you already have CM360 linked to the DV360 advertiser,  this is known as the ghost advertiser. If you haven't got CM360 to work with, then Google still use a backend of CM360 to host the asset but without giving direct access.\nSo yes using that creative history trick works to get the CM360 VAST tag that actually powers the DV360 creative.",
+      "score": 4,
+      "created_utc": 1730930326.0
+    },
+    {
+      "author": "PassageInside4656",
+      "body": "No. Creative needs to be hosted externally.",
+      "score": 1,
+      "created_utc": 1730819188.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But other banners like gif can be also hosted by publishers",
+      "score": 0,
+      "created_utc": 1731019406.0
+    }
+  ]
+}

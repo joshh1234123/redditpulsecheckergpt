@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "Identity primer",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i25lpi/identity_primer/",
+  "created_utc": 1736969445.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "AlDenteDDS",
+      "body": "ID5 hosting a virtual conference next month, free to attend. You just have to give them your... identity\n\nhttps://news.id5.io/2024/12/12/identity-2025-is-back-register-now/\n\nPlenty of speakers, topics, companies involved to help you figure out where to learn more.",
+      "score": 9,
+      "created_utc": 1736972750.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Haha love the username. What kind of IDs do you have that you're looking to build with?\n\nAt the most basic it's just table joins leveraging datasets that have linkages between different ID types: cookie + IP, cookie + HEM, MAID + IP, MAID + HEM, postal + HEM, etc.\n\nSome players will license their graph as full installs, others treat it more like a data append where you send your list in and get a deliverable back out.\n\nDifferentiators are O&O exclusive data and then the performance of their data science in filtering out noisy linkages (the coffee shop wifi is the evergreen example) and getting an appropriate balance between precision and scale.\n\nDM me if you want to dig in; I'm not in Sales, I just enjoy the subject",
+      "score": 3,
+      "created_utc": 1736972975.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "Amazing thank you",
+      "score": 2,
+      "created_utc": 1736972785.0
+    },
+    {
+      "author": "baxterismydog",
+      "body": "I would love to dig in this with you but need to learn what HEM and MAID are first",
+      "score": 1,
+      "created_utc": 1737161456.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "You got it. Good luck OP",
+      "score": 1,
+      "created_utc": 1736995972.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Lol oh yeah!\nHEM -> Hashed E-Mail (it's like a bunch of letters and numbers that an email turns into when run through a math function. Anyone with the actual email can hash it and match it btw datasets without sharing around plaintext email addresses)\nMAID -> Mobile Advertising ID (umbrella term for both Apple (IDFA) and Android device IDs (I've seen this as all kinds of acronyms so whatever))",
+      "score": 1,
+      "created_utc": 1737243861.0
+    }
+  ]
+}

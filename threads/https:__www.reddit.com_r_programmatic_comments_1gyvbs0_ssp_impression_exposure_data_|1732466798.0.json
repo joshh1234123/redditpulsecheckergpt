@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "SSP Impression Exposure Data",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gyvbs0/ssp_impression_exposure_data/",
+  "created_utc": 1732466798.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "notmyrealaccout69",
+      "body": "The SSP won't give you log files ..you'll need to traffic the creative with your 3rd party pixel and use that..",
+      "score": 2,
+      "created_utc": 1732497265.0
+    },
+    {
+      "author": "mgru",
+      "body": "You do get log level data for your deals, but typically it won't contain user ids or viewability. You'll however get domains, postcodes, and most clicks / impression metrics.\nYes pixeling as an option but it requires an action from the deal user, so it may not always be possible.",
+      "score": 2,
+      "created_utc": 1732521148.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "You could place a pixel on the specific creative you're running and track exposure data from that with whatever audience vendor you're using. \n\nDEAL ID or not shouldn't make a difference on tracking exposure.",
+      "score": 1,
+      "created_utc": 1732495072.0
+    },
+    {
+      "author": "In_Related_News_23",
+      "body": "Thanks!",
+      "score": 2,
+      "created_utc": 1732497301.0
+    },
+    {
+      "author": "In_Related_News_23",
+      "body": "Thanks. Should we be able to pull log files from the SSP like we can from the DSP that would have exposure/impression data? \n\nFor some reason the team is saying we cannot.",
+      "score": 1,
+      "created_utc": 1732497192.0
+    }
+  ]
+}

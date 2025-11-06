@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "DV360 Custom Variables | Have anyone found a practical use for them? Like, can I get info that GA4 can not?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mbih5d/dv360_custom_variables_have_anyone_found_a/",
+  "created_utc": 1753714729.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Custom Variable in a Floodlight = Custom Dimension in GA4 Events. As long as you have parity in the implementation of both, not much difference.\n\nBut always best practice to at least implement custom variables on Floodlights so that you can do smarter things like more bespoke audiences or leverage it in DV360 custom bidding. Granted you can do it with GA too but I prefer going to the source if working in DV360.",
+      "score": 1,
+      "created_utc": 1753722349.0
+    }
+  ]
+}

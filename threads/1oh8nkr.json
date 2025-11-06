@@ -1,0 +1,33 @@
+{
+  "id": "1oh8nkr",
+  "title": "I need your help!",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oh8nkr/i_need_your_help/",
+  "created_utc": 1761552368.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "If you’re only background is ad ops setting campaigns likely won’t get hired. Looks like a manager role or above. I mean if you tick the boxes for half the requirements go for it. Key stakeholders will be watching you like a hawk to ensure you are maximizing revenue. I do most of these minus the ad ops tag management and campaign setup stuff. I have a team that does that. But every week get pressure on forecast revenue.",
+      "score": 3,
+      "created_utc": 1761567292.0
+    },
+    {
+      "author": "Plastic-Nail-9649",
+      "body": "I maby can hire you on my project.  Send me dm",
+      "score": 1,
+      "created_utc": 1761576920.0
+    },
+    {
+      "author": "jinxxx6-6",
+      "body": "To your questions on day to day and what interviewers expect, my integrations work is a mix of debugging and ops hygiene across header bidding and oRTB: triage timeouts, fix adapter params, manage deal IDs and seats, keep ads.txt and the app ads file clean, and watch match rate, bid rate, win rate, and latency. I’d spin up Prebid on your site with two SSPs in test, use the Prebid debug console and network tab, and write a lightweight runbook for common error codes and consent signals. For prep, I did timed mocks with Beyz coding assistant using prompts from the IQB interview question bank, plus STAR stories for broken adapters, revenue dips, and IVT spikes.",
+      "score": 1,
+      "created_utc": 1761694422.0
+    },
+    {
+      "author": "Mindfull-Monkey",
+      "body": "Thanks for the reply mate! What would your integration work look like? Would you be doing it manually, handling connections to all the SSPs/DSPs you want to connect to?\n2) how would you be monitoring those connections to ensure auction performances?",
+      "score": 1,
+      "created_utc": 1761571761.0
+    }
+  ]
+}

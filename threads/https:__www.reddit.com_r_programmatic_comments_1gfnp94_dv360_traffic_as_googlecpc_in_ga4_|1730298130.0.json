@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "DV360 traffic as \"google/cpc\" in GA4",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gfnp94/dv360_traffic_as_googlecpc_in_ga4/",
+  "created_utc": 1730298130.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Mitchell-n",
+      "body": "Out of curiosity why are you running display on DV360 and GDN at the same time? Seems redundant since it’s the same inventory",
+      "score": 3,
+      "created_utc": 1730300886.0
+    },
+    {
+      "author": "beerslingerjay",
+      "body": "We deal with the same thing consistently. Auto-tagging will just randomly switch on at times and demolish our tracking. Seems to happen when we make campaign changes, but everyone swears they haven’t turned auto-tagging on.",
+      "score": 3,
+      "created_utc": 1730305595.0
+    },
+    {
+      "author": "vlad_chubakov",
+      "body": "You can try to check \"CM360 source/medium\" or \"DV360 source/medium\" as a dimension in the custom report (Explore -> New report). Based on what I know, it should show correct data (taking into account that auto-tagging is on)",
+      "score": 3,
+      "created_utc": 1730369673.0
+    },
+    {
+      "author": "the-fire-in-me",
+      "body": "If DV360 traffic is now showing up as \"google/cpc\" in GA4, it might be because auto-tagging is on, which changes your UTM tags. Since auto-tagging can’t be turned off, here are some ways to fix it. You can try setting up special labels to separate DV360 traffic from Google Display Network (GDN) or use Google Tag Manager (GTM) to add different tags. A tool like Qwestify can also help sort this data, so you can clearly see the traffic sources.",
+      "score": 1,
+      "created_utc": 1730320377.0
+    },
+    {
+      "author": "Panda_Ro",
+      "body": "GA cross-channel attribution misclassified click-through-conversions to Google Ads instead of DV360 or CM360 when you **enable YouTube auto-tagging**. \n\nThis leads to an attribution issue in GA where a GCLID is used and the traffic gets incorrectly categorized as Google Ads instead of DV3 or CM3.",
+      "score": 1,
+      "created_utc": 1730372793.0
+    },
+    {
+      "author": "teccy366",
+      "body": "Can you use the ‘session manual source/medium’ dimension for reporting?  This will show the UTM value if it existed when the user entered the site, regardless of auto tagging.",
+      "score": 1,
+      "created_utc": 1730419096.0
+    },
+    {
+      "author": "spicyfoodethusiast",
+      "body": "I am having the same issue. I've noticed that if I use Session source/medium, it brings through google/cpc. If I use Manual source/medium- the correct and my intended UTMs come through. Also- the timing of Oct. 10th makes sense with this article I read: https://ppc.land/youtube-auto-tagging-to-be-enabled-by-default-for-dv360/",
+      "score": 1,
+      "created_utc": 1736372079.0
+    },
+    {
+      "author": "prg_marketer",
+      "body": "It can be a different ad formats, for example we do pmax + dv360.",
+      "score": 1,
+      "created_utc": 1730305625.0
+    },
+    {
+      "author": "prg_marketer",
+      "body": "Hi. Thank you. I'm not familiar with labels - where can I set those?",
+      "score": 1,
+      "created_utc": 1730360054.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Like I said seems redundant- are you measuring frequency across it?",
+      "score": 3,
+      "created_utc": 1730306102.0
+    },
+    {
+      "author": "ComplexAcceptable428",
+      "body": "Hi, can I join in sending instructions on how to tag accesses from DV360 using GTM?",
+      "score": 1,
+      "created_utc": 1732631407.0
+    }
+  ]
+}

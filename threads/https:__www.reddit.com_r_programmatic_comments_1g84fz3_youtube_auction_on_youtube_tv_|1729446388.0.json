@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "YouTube Auction on YouTube TV",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1g84fz3/youtube_auction_on_youtube_tv/",
+  "created_utc": 1729446388.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "describe_one",
+      "body": "Yes, you can target YouTube TV inventory via the instant reserve section. I think it's under YouTube Select, but you do pay a premium when you target it 100%. I haven't had success optimizing towards specific inventory in VRC campaigns since they are being optimized towards users instead of specific channels. You can set up a reach objective on the instant reserve IO/line item, and run it within the same campaign as the VRC so that frequency is controlled across both.",
+      "score": 2,
+      "created_utc": 1729447834.0
+    }
+  ]
+}

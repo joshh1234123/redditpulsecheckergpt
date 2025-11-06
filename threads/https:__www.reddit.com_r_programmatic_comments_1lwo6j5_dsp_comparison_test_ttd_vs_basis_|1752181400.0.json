@@ -1,0 +1,129 @@
+{
+  "id": null,
+  "title": "DSP Comparison Test - TTD vs. Basis",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lwo6j5/dsp_comparison_test_ttd_vs_basis/",
+  "created_utc": 1752181400.0,
+  "num_comments": 20,
+  "comments": [
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Silly question here, but isn’t this going to be impossible to compare due to differences in identity graphs and how each DSP measures their conversions? \n\nBasis and TTD aren’t going to use the same graphs and there could be nuances like cookie / cookieless attribution, UID (TTD) vs no UID (Basis) so there’s naturally going to be discrepancies.",
+      "score": 14,
+      "created_utc": 1752199373.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "As I think others are alluding to, I think this is more an issue of how you’re setting up the test. Targeting similar audiences & inventory on two DSPs, there will certainly be overlap- I’m not sure how you (or DSP measurement) could truly differentiate or accurately attribute conversions. Turning off view-through measurement then basically will just be last-touch attribution, which we all know is highly flawed. I don’t think the conversion count in Basis is shady- I’d assume it’s just that users exposed to ads served via Basis ended up clicking on a TTD ad prior to conversion. \nI think the only way you do this is to run a 30-day test on each while the other DSP is dark? That way you can also manage frequency caps, etc- right now you aren’t - and could be bidding against yourself, just doesn’t sound like an effective test.",
+      "score": 5,
+      "created_utc": 1752287502.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "This is not an A/B testing. Both buy in different inventories and measure different.",
+      "score": 4,
+      "created_utc": 1752210925.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "What type of media are you buying that you take view through into the mix?\nWhat is the attribution window.\n\nTesting head to head is best done in a more precise manner.\nLike only comparing actual clicks with utm parameters and a very small controlled list of publishers that are available on both platforms",
+      "score": 4,
+      "created_utc": 1752239817.0
+    },
+    {
+      "author": "PMA816",
+      "body": "@intelligent-Ad9684 please keep us updated on your findings, I’m interested",
+      "score": 3,
+      "created_utc": 1752242550.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Wait click through conversions on basis are higher than the clicks basis is reporting? What does your site analytics say",
+      "score": 2,
+      "created_utc": 1752185723.0
+    },
+    {
+      "author": "Mrhot786",
+      "body": "Ad server  can really help out here finding the true impact of each dsp.\nPath to conversion reports pulled through ad server (Cm360) would let you know the number of touchpoints both on impression and click level a user went through both the dsps and finally landing on the site.",
+      "score": 2,
+      "created_utc": 1752401463.0
+    },
+    {
+      "author": "Philthy-P",
+      "body": "Control as many things possible, geo, supply, device, creative etc. maybe tap into Dr Fou. Get an account set up and find out how much fraud is leaking through the pipes. GL",
+      "score": 2,
+      "created_utc": 1752419753.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "Have you seen the inventory report?\nWhere these are coming from,\nYou should ask them to buy the same inventory, by applying a site list and/or app list.",
+      "score": 1,
+      "created_utc": 1752302769.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "Probably also turn off remarketing.",
+      "score": 1,
+      "created_utc": 1752302978.0
+    },
+    {
+      "author": "GlobalMediaAgency",
+      "body": "This is just slop. This isn’t a test. This needs a strict basis (no reference meant) of comparison and you have no neutral point of truth or comparison. Both will take credit for the max conversion events possible, and you’re likely driving up costs in the process. As much as agencies seem to be hated, this is why they’re needed.",
+      "score": 0,
+      "created_utc": 1752495156.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "Yes, the better the device graph is the better ID resolution will be. Conversions will be deduped within a 24 hour window per user. A weak graph will identify a single user as multiple and let them to multiple conversations, overstating the true reach and understating frequency",
+      "score": 1,
+      "created_utc": 1752355285.0
+    },
+    {
+      "author": "Intelligent-Ad9684",
+      "body": "This is for display only",
+      "score": 1,
+      "created_utc": 1752244528.0
+    },
+    {
+      "author": "Intelligent-Ad9684",
+      "body": "Click conversions are lower than clicks, but click conversions + viewthrough conversions are higher. I don't normally see conversions higher than clicks in TTD, even with viewthrough conversions attributed",
+      "score": 1,
+      "created_utc": 1752186894.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "Are you suggesting UID, or Tapad or RampID is a weak graph? Wasn’t clear which you feel is weak.",
+      "score": 1,
+      "created_utc": 1752391479.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "I would suggest removing view through for the test",
+      "score": 3,
+      "created_utc": 1752254681.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Sounds fishy to me- for site visits you need to rely on your site analytics not a DSP",
+      "score": 2,
+      "created_utc": 1752187143.0
+    },
+    {
+      "author": "LadyoftheDSP",
+      "body": "Click + View conversions will always be higher than the number of clicks you see counted.  View happens just based on an impression and a click does not need to happen.",
+      "score": 1,
+      "created_utc": 1752291664.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "UID and rampid’s are identifiers that are integrated into identity alliance, not device graphs. TTD has a great graph that includes many partners including tapas, adbrain, kochava, live ramp identity link etc",
+      "score": 2,
+      "created_utc": 1752399457.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "Exactly, this might indicate a difference on the inventory that they are buying maybe more desktop inventory in the one which has higher.",
+      "score": 1,
+      "created_utc": 1752302889.0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Amazon DSP integrates with Netflix Ads",
+  "permalink": "https://advertising.amazon.com/library/news/amazon-ads-netflix-programmatic-buying",
+  "created_utc": 1757519694.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "JimmyTango",
+      "body": "There won’t be anything of value both targeting and measurement in the DSP/AMC. Netflix lets out 0 identifiers to the ecosystem. All DSPs buying it are just dumb bidders and really folks might as well save their money and just buy direct.",
+      "score": 38,
+      "created_utc": 1757522022.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "We dont buy it because we want, we buy it because some marketing manager sold it to their cmo and then put it in his media plan that he gave to his prog agency",
+      "score": 17,
+      "created_utc": 1757525541.0
+    },
+    {
+      "author": "arandomnewyorker",
+      "body": "This is the only comment needed on this.",
+      "score": 7,
+      "created_utc": 1757523998.0
+    },
+    {
+      "author": "scottsmack",
+      "body": "Clean room ID sync would let a marketer target logged in Netflix viewers based on that person's/household Amazon purchases. Attribution can be measured with lift metrics within Amazon and/or an advanced MMM or various RCT and holdout tactics. Change my mind?",
+      "score": 2,
+      "created_utc": 1757902271.0
+    },
+    {
+      "author": "chengslate",
+      "body": "I mean I don’t think folks are buying off of that’s. Prob just classifications of shows etc which is fine and have value. They prob have a ton of left over inventory that they want to monetized",
+      "score": 2,
+      "created_utc": 1757549381.0
+    },
+    {
+      "author": "dortenzio1991",
+      "body": "I’m not familiar with Netflix bid stream identifiers but could there be a play here for utilizing amazons clean room with Netflix data?",
+      "score": 1,
+      "created_utc": 1757597510.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "Not even in terms of attribution for brands which have an Amazon store?",
+      "score": 1,
+      "created_utc": 1757615550.0
+    },
+    {
+      "author": "lksadjf23084",
+      "body": "False",
+      "score": 0,
+      "created_utc": 1757565440.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Netflix doesn’t have clean rooms set up yet…..",
+      "score": 1,
+      "created_utc": 1757902432.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "They’re exploring clean rooms from what I understand.",
+      "score": 3,
+      "created_utc": 1757599305.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "No ID no attribution",
+      "score": 1,
+      "created_utc": 1757616491.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "You’ve convinced Netflix legal to leach identity into bid stream have you?",
+      "score": 2,
+      "created_utc": 1757566985.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "That's frustrating. One potential benefit could be frequency management by running Prime Video and Netflix under the same Amazon DSP order.",
+      "score": 2,
+      "created_utc": 1757618016.0
+    }
+  ]
+}

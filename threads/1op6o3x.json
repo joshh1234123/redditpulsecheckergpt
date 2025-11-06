@@ -1,0 +1,81 @@
+{
+  "id": "1op6o3x",
+  "title": "TTD Identity Alliance",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1op6o3x/ttd_identity_alliance/",
+  "created_utc": 1762358283.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "Recent_Race_5843",
+      "body": "Basically if you adjust any of the settings within a campaign's reporting and attribution setting, it will start reporting based on the changes instantly. so for example, your reporting column 1 is set up as the main conversion action, and you have cross-device concept set to person, and identity alliance is your provider. If you toggle cross-device concept to off, every conversion moving forward will not be measured via cross device. If you change the vendor from identiy alliance to adbrain, every conversion after the change will be measured only using adbrain's graph. They are 4 total providers, with liveramp being the only option that is more expensive, Identity alliance combines all 3 providers providing more scale (at least im pretty sure thats how it was explained to me). Although I'm pretty sure TTD doesn't charge for measurement, only for audience expansion, but looking at the fees section they may have changed this now.\n\nHonestly, what i would do is create a new reporting column with the same conversion action, not set any cross device measurement on there and compare over time. you'll likely see more conversions in the reporting column with identity alliance turned on. but if you don't, then you'll know that it's likely a feature not worth paying for in future campaigns.\n\nJust be warned that changing reporting columns mid campaign gets really messy and could really screw up your reporting, so I wouldn't change any existing reporting columns unless you're confident you can mitigate any ill effect.",
+      "score": 7,
+      "created_utc": 1762366686.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "A) TTD doesn’t charge for measurement with identity alliance (they’d be crazy to, this helps their reporting look better not worse) so you don’t need to activate it to get the data folded into MyReports metrics. \n\nB)Whether you should or shouldn’t use it depends on the type of data you’re using for targeting and the type of media you’re buying. Is your audience based 100% on cookie site traffic but you want to buy CTV? Then yes you will spend next to nothing without it. Are you building an audience on UID2 and want CTV? Then probably worth testing if you can spend your budget without it first before activating. Is your audience showing as 30M HHs before you turn it on? Then you’re probably better off without it. \n\nSo it depends on a lot of unique factors across different accounts. But on measurement turn that shit on all day.",
+      "score": 4,
+      "created_utc": 1762366181.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Following",
+      "score": 1,
+      "created_utc": 1762358459.0
+    },
+    {
+      "author": "Inevitable_Might2743",
+      "body": "Do you have high data costs? After research we opted towards keeping Identity Alliance and reducing data fees we didn’t realize we were paying so much for. Good luck!",
+      "score": 1,
+      "created_utc": 1762399273.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "Switch do a DSP that doesn’t charge you for identity is likely to ur best option. Kind of crazy that it’s a separate fee when you can’t really operate without it",
+      "score": -5,
+      "created_utc": 1762364446.0
+    },
+    {
+      "author": "evgeny3000",
+      "body": "brilliant. good tip regarding ways to test.  i'm not in the platform so this is super helpful.",
+      "score": 2,
+      "created_utc": 1762367249.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "If you’re doing anything with CTV inventory on TTD, you use a household graph that they have. I’m not sure it’s the exact same Identity Alliance graph, it might just be Adbrain. But there’s no fee for using it, since they need it to serve ads on CTV devices at scale.",
+      "score": 1,
+      "created_utc": 1762437137.0
+    },
+    {
+      "author": "OrganicHearing",
+      "body": "You’re getting downvoted but I agree. I think it’s useful for CTV and audio campaigns for the unique household reach but display and OLV campaigns pace and perform just fine without it. Only time I’ll opt for it on display or OLV is if reach is the KPI",
+      "score": 1,
+      "created_utc": 1762402439.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "If you mean for measurement when setting up reporting yes. \n\nFor targeting paid media, thats not accurate. That’s what they were selling 5+ years ago because everyone was bringing cookie based audiences to the platform and those IDs don’t translate to a largely IP based CTV universe, but now if you upload and audience in the platform and it reads XM HHs before you turn on Identity Alliance then you don’t need to do anything to reach those HHs. Turning on Identity Alliance or AdBrain does cost extra for targeting on paid media to spend more than you would have without it. The only free access to that data like I said in my first comment is the reporting.",
+      "score": 1,
+      "created_utc": 1762441901.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "Lots of TTDs employees in this group lol. I know I’m right… and they know I’m right… they just came up with a lower fees data offering because they know 3p data is too expensive (and low margin for them) and yet they charge an arm and a leg for identity (likely higher margin) when all other major DSPs have it included in their fees. It’s just a money grab.",
+      "score": 2,
+      "created_utc": 1762402758.0
+    },
+    {
+      "author": "OrganicHearing",
+      "body": "Most of their extra stuff is a moneygrab",
+      "score": 1,
+      "created_utc": 1762402878.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "In all seriousness, Google and Yahoo (especially in US) should have even a better identity product and both have it for free. \nAmazon should be good (and free too) but they are not as good at individual level, just household. Every other DSP is either licensing or building probabilistic in house so I wouldn’t consider.",
+      "score": 1,
+      "created_utc": 1762403035.0
+    }
+  ]
+}

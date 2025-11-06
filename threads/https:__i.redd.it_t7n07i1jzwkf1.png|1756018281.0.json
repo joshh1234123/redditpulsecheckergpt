@@ -1,0 +1,93 @@
+{
+  "id": null,
+  "title": "Programmatic ads for recruiting",
+  "permalink": "https://i.redd.it/t7n07i1jzwkf1.png",
+  "created_utc": 1756018281.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "Common_Marketer_616",
+      "body": "My assumption is Youtube/DV360 would be your best channel start with since you can get a bit more niche with the targeting. \n\nAlso curious about other opinions/success stories as well!",
+      "score": 4,
+      "created_utc": 1756042144.0
+    },
+    {
+      "author": "KuRy86",
+      "body": "I’d recommend 4 framework tactics to think about for this type of execution (from experience):\n\n\n1) Your datasets. Dun & Bradstreet has really good B2B targeting for job hunters and targeting job titles (for poaching). Bombora also has good B2B datasets.\n\n\n2) Endemic site placement. Are you able to secure inventory on job / industry related sites. Indeed, monster, adweek, adexchanger, etc. \n\n3) What’s your messaging? Condensing an entire job posting into a banner ad is no small feat. If you were looking for a new job, what messaging or keywords would you want to see in an ad that would drive you investigate further?\n\n\n4) Your attribution engine. How are you going to qualify success? If you place a pixel on the sites application pages, job posting pages, and submission confirmation, you should be able to measure what media channels are driving success here for optimizations. Depending on your programmatic partner, You can also create LALs or retarget based on specific page visitation. \n\nThese are my KPI reccos (in order): \n- Conversions / application submissions - based on View-Thru if you’re running programmatic. Last touch always favors google.\n\n- Reach against the audience. You need a strong reach to get measurable results.\n\n- clicks. Clicks are dumb. At best, CTR should be a tertiary metric.\n\n- VTR if running video. But I’d only look at VTR to ensure the inventory you’re getting is quality. ie, CTV VTR should never be less than 93%. If under 90% I’d assume they’re mixing OLV into their CTV inventory.\n\n\nIn all, I’ve seen this tactic used in healthcare, home services, tech, IT, etc. Those 4 bullets above are how I’ve structured the approach and then pivoted for industry nuances.",
+      "score": 5,
+      "created_utc": 1756044836.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": "Yeah that's what companies have to do now because the internet is flooded out with scam BS.",
+      "score": 2,
+      "created_utc": 1756074207.0
+    },
+    {
+      "author": "MirsadZ",
+      "body": "I did this for a large client a few years ago.\nIt's really good for recruiting.\nFor example some low skill to medium skill labor.\n\nBasically something that isn't too specific.\n\nIf you have any preferences for a specific target, let's say truck drivers, or software engineers, you can target based on specific 3p audiences, affinity or keyword targeting. But it's not going to be anything close to the accuracy of LinkedIn.\n\nOn the other hand, linkedin has higher CPMs, so overall you can get more impressions and with higher reach maybe even a better candidate pool.\n\nFor inventory YouTube is really good, because for example of you want to advertise an entry level position then you can target courses for the software you use.",
+      "score": 2,
+      "created_utc": 1756074745.0
+    },
+    {
+      "author": "Arlitto",
+      "body": "Yep I have a client who is using TTD Display ads to recruit for open roles at their company",
+      "score": 2,
+      "created_utc": 1756079785.0
+    },
+    {
+      "author": "employerGR",
+      "body": "We do a lot of this. You have to make sure your targeting is on point. Anyone who has programmatic experience can help you with this. It does work well for jobs like this as the targeting is straight forward. Totally worth trying!  \n\nCould start with simple display advertising and go from there. See if you get some hits.",
+      "score": 2,
+      "created_utc": 1756305783.0
+    },
+    {
+      "author": "cuteman",
+      "body": "That's a meta messenger ad, not programmatic.\n\nProgrammatic is open web, not social.",
+      "score": 4,
+      "created_utc": 1756057094.0
+    },
+    {
+      "author": "Mapother_IV",
+      "body": "Oh that's very interesting! Does YouTube allow more granular targeting than other networks?",
+      "score": 0,
+      "created_utc": 1756046220.0
+    },
+    {
+      "author": "Mapother_IV",
+      "body": "Amazing reply and just what I'm looking for! Thank you! Quick follow up, what do you mean by \"Last touch always favors google\"?",
+      "score": 1,
+      "created_utc": 1756046348.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Could be social mirroring.",
+      "score": 2,
+      "created_utc": 1756070345.0
+    },
+    {
+      "author": "KuRy86",
+      "body": "Glad it was helpful!\n\nAs you know, a robust media plan should include multiple forms of media - Search, Social, Rotational, Upper funnel, lower funnel, etc. The average user will see multiple forms of media before converting.\n\nGoogle Analytics can help to understand on site actions from users and also attribute conversions to the last visited media channel. So the majority of conversions are attributed to search or direct. That’s why I recommend a programmatic partner who can offer insights into view-thru conversions. That way you can better measure the effect of programmatic and optimize accordingly. \n\nThey favor last touch by associating conversions to  the most recently visited channel which is primarily google search or direct. Their multi-touch attribution capabilities are improving, but they still steer you towards last touch.\n\nThat make sense?",
+      "score": 4,
+      "created_utc": 1756048524.0
+    },
+    {
+      "author": "JaSakwa_19",
+      "body": "I’d like to second the compliment here. This is the type of response that educates us ops folks and keeps us passionate about what we do",
+      "score": 3,
+      "created_utc": 1756082856.0
+    },
+    {
+      "author": "cuteman",
+      "body": "That's called for Social for display and typically doesn't look that way, but possibly",
+      "score": 1,
+      "created_utc": 1756097313.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Strong response. Small note- each DSP, but also social network, is going to favor “any touch” as opposed to last touch as the respective platform can only see what it influences.",
+      "score": 3,
+      "created_utc": 1756050855.0
+    }
+  ]
+}

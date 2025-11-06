@@ -1,0 +1,27 @@
+{
+  "id": null,
+  "title": "Reaching HBO CTV inventory through programmatic buying in Europe",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i14b27/reaching_hbo_ctv_inventory_through_programmatic/",
+  "created_utc": 1736855291.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "FllowrOfJesus",
+      "body": "I work at a DSP, you can accomplish this by setting up a programmatic guaranteed deal. I've never run one in Europe but I've got to imagine it's possible. I can look into it and let you know, if you want. Do you have a budget?",
+      "score": 2,
+      "created_utc": 1736856421.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "I don’t think they have ad supported content \n\nIf you look into their app-ads.txt you have one Facebook Direct line\n\nSo my bet is - Nope\n\nEdit: hbo max have ad supported tier\nhttps://i.cdn.turner.com/ads/max/app-ads.txt\nLook into this link to see per geo what ssp partners have access. Any major DSP will have these ssps hence this media but my bet is PG during upfront season will be the most reliable way to get the best media, you do need big budgets and cpm for this though",
+      "score": 2,
+      "created_utc": 1736864065.0
+    },
+    {
+      "author": "Available_Humor_9753",
+      "body": "In Chile, we use DV360 likely the same for you in Europe.",
+      "score": 1,
+      "created_utc": 1736990537.0
+    }
+  ]
+}

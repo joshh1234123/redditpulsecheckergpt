@@ -1,0 +1,33 @@
+{
+  "id": "1oatot7",
+  "title": "Looking for offline DSP / programmatic auction data for testing",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oatot7/looking_for_offline_dsp_programmatic_auction_data/",
+  "created_utc": 1760890525.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "trenhard",
+      "body": "Im slightly baffled at understanding a situation where you are deep enough in the weeds to experiment with simulating this but dont have any access to real data.",
+      "score": 5,
+      "created_utc": 1760909146.0
+    },
+    {
+      "author": "Broth262",
+      "body": "How would DSPs have this data but not SSPs? This is supply side data",
+      "score": 1,
+      "created_utc": 1761067786.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "SSP data is different from DSP data",
+      "score": 1,
+      "created_utc": 1760958716.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Who said they don't have it ?",
+      "score": 1,
+      "created_utc": 1761113305.0
+    }
+  ]
+}

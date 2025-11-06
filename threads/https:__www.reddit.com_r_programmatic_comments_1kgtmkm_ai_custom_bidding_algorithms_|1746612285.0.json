@@ -1,0 +1,99 @@
+{
+  "id": null,
+  "title": "AI Custom Bidding Algorithms",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kgtmkm/ai_custom_bidding_algorithms/",
+  "created_utc": 1746612285.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "DankAlbertSinatra",
+      "body": "Honestly if you are using DV360 then I would recommend creating your own script. Without going too in depth they have a means of writing your own via (I think) python, and then have a tool where you can weight different site metrics that are floodlights.\n\nHave seen a ton of success with things like:\n1. Stayed on site for 1 min+\n2. Watched a video\n3. Navigated to 2+ additional pages \n4. XYZ\n\n\nWhen I did this last, I worked with internal teams to pull an analysis of what site actions had the highest index with making a purchase/taking the high value action and then used that to base my weights off of.",
+      "score": 11,
+      "created_utc": 1746614704.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I'd either create a script yourself. Looks trickier than it actually is, especially if you have a basic understanding of what to-do and use ChatGPT.\n\nOtherwise, I'd reach out to Chalice AI as they're doing some great things in the custom algo space",
+      "score": 9,
+      "created_utc": 1746619009.0
+    },
+    {
+      "author": "Jeanguy777",
+      "body": "There is a European company call Greenbids AI as well as Chalice AI",
+      "score": 4,
+      "created_utc": 1746621038.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "make sure you have bot detection in place (and I dont mean the kind from legacy fraud verification vendors); you can get as low of a CPA as you want and hit any target CPM you want due to bot activity, so any \"AI algo\" that doesn't show you how they scrub out bot clicks is not good -- i.e. dont trust their black box. See the following example with PMax [https://www.linkedin.com/pulse/pmax-black-box-you-dont-want-anything-do-keri-thomas-r3mpc](https://www.linkedin.com/pulse/pmax-black-box-you-dont-want-anything-do-keri-thomas-r3mpc)",
+      "score": 4,
+      "created_utc": 1746614742.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Chalice AI could be helpful",
+      "score": 3,
+      "created_utc": 1746618441.0
+    },
+    {
+      "author": "Key_Outlandishness_7",
+      "body": "What’s the difference between Chalice and SciBids? What is Chalice better than SciBids? Is it cost, performance or something else? We are seriously looking for a partner so any insights would be helpful.",
+      "score": 1,
+      "created_utc": 1746786614.0
+    },
+    {
+      "author": "Upset_Collar9364",
+      "body": "Chalice AI!",
+      "score": 1,
+      "created_utc": 1746827270.0
+    },
+    {
+      "author": "THespos",
+      "body": "+1 for Chalice",
+      "score": 3,
+      "created_utc": 1746623008.0
+    },
+    {
+      "author": "fredy013",
+      "body": "Yes they focus on optimizing both carbon emissions and campaign performance. I don't know if they provide an algorithm only for performance.",
+      "score": 1,
+      "created_utc": 1746830494.0
+    },
+    {
+      "author": "Causel_Effect",
+      "body": "You're a legend!",
+      "score": 3,
+      "created_utc": 1746635259.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "I agree with this. Programmatic is full of bots, and almost everyone in the supply chain is looking the other way, so you need to be careful here as you can easily optimize for bot traffic.",
+      "score": 1,
+      "created_utc": 1746620235.0
+    },
+    {
+      "author": "Expensive_Hold2519",
+      "body": "Chalice is platform agnostic, fully customizable, brands own the data/algorithm and it’s portable (whereas in Scibids it stays in DSP), fully transparent model and reporting. Supports full-funnel KPIs while Scibids is more lower funnel. TLDR, Chalice is a no brainer",
+      "score": 2,
+      "created_utc": 1747698989.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "you mean \"optimize away from bot traffic\" right?",
+      "score": 2,
+      "created_utc": 1746621655.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "No I mean if they aren’t careful they will optimize for bot traffic, and since most ad fraud detection companies aren’t good at detecting modern click fraud bots, they’ll be told everything is ok when in fact their traffic is garbage.",
+      "score": 2,
+      "created_utc": 1746621883.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "ah yes, agreed. can see that in the data too.",
+      "score": 2,
+      "created_utc": 1746622080.0
+    }
+  ]
+}

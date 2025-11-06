@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "The uncomfortable truth about OOH ROI — are we just guessing?",
+  "permalink": "https://i.redd.it/i98wxowjkstf1.jpeg",
+  "created_utc": 1759887603.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "thinkerthought",
+      "body": "Most DSP's now have a solution for DOOH measurement, and are integrated with third party verification vendors - neither are necessarily perfect, but for a 1:many, public facing medium, the accountability is there, advertisers just need to use it.",
+      "score": 3,
+      "created_utc": 1759905609.0
+    },
+    {
+      "author": "Nice_Condition8936",
+      "body": "It matters how your SSP is integrated to your DSP. IF your DSP can handle fractional counting that the ooh impression multipler gives then good measurements is as good as your control/test segmentation.\n\nROI, ROAS, iROAS are all possible, we even say view to stream measurements that gave stat sig. \nThe issue is it not real time, it all has to be post campaign and so you'll always need to be smart with investing in testing",
+      "score": 2,
+      "created_utc": 1759965159.0
+    },
+    {
+      "author": "_Daymeaux_",
+      "body": "What solution are you selling?",
+      "score": 3,
+      "created_utc": 1759890327.0
+    },
+    {
+      "author": "sanjeevrc",
+      "body": "Absolutely agree — the tech stack is evolving fast.\nMost global DSPs today do have integrations with 3rd-party verification vendors like Vistar, Hivestack, or Broadsign, and they can deliver reasonable accountability metrics for DOOH.\n\nThe challenge, though, is adoption — especially in India.\n👉 Negligible number local media owners aren’t yet plugged into those ecosystems.\n👉 Verification costs are often seen as “optional overhead.”\n👉 And smaller advertisers rarely access these features because campaigns are still manually booked or executed through intermediaries.\n\nSo yes, the accountability layer exists — but it’s not democratised yet.\n\nUntil it becomes affordable and standardized for every screen, every campaign, measurement will remain a privilege for a few, not the norm for all.",
+      "score": 1,
+      "created_utc": 1759982567.0
+    },
+    {
+      "author": "sanjeevrc",
+      "body": "You’re absolutely right about the SSP–DSP integration — that’s critical.\nBut I’ve always found fractional impression counting a bit ironic.\nIt still depends on an assumed “per-screen multiplier,” which itself is rarely validated in real time.\n\nSo even with better tech, we’re still working with modeled reach, not verified views.\nIt’s a step forward from pure guesswork — but still far from accurate audience measurement.\n\nUntil DOOH can independently verify how many actual people saw a screen, ROI will remain an estimation, not a fact.",
+      "score": 1,
+      "created_utc": 1759982312.0
+    },
+    {
+      "author": "sanjeevrc",
+      "body": "Currently none in OOH. But wish to break the rules of OOH industry and revolutionise the way business is done. Industry has long lived on assumptions.",
+      "score": -4,
+      "created_utc": 1759895023.0
+    },
+    {
+      "author": "Nice_Condition8936",
+      "body": "I think you are throwing too much shade at the impression multipler. It's there to help advertisers.\n\nI understand you want cameras looking at faces and counting but that's not going to happen anytime soon, so you have to buy only trigger DOOH for now: GSTV and GroceryStore should be shoe-ins.\n\nFor all the loop bases pubs, can you help me understand what independent verification you would accept?\nI do believe the iab is baking their own version with MRC right now and we all pay for 3rd party verification. Some of us get hourly refreshed numbers and with the strong control and test audience capabilities, you can measure in store and with companies like MasterCard or ABCS Insights you can get online.\n\nThe controls are very good, they are expensive, but it works.\n\nWhat you may not like is that you can't do much with the measurements except see if it worked. I know with our most recent MasterCard studies, we were working on seeing if we could tell which screens in the plan drove which sales but this is very new and I am not the one running it so I don't have details.",
+      "score": 1,
+      "created_utc": 1760398950.0
+    },
+    {
+      "author": "xriddle",
+      "body": "Revolutionize you say...",
+      "score": 1,
+      "created_utc": 1759966269.0
+    },
+    {
+      "author": "sanjeevrc",
+      "body": "Well crafted point — I’m not against impression multipliers in principle.\nThey exist because OOH has always needed a model to estimate visibility, and in the absence of real-time proof, they’ve helped maintain some consistency.\n\nThe issue is how they’re used. Multipliers were designed to give directional guidance — not to be treated as hard metrics. Over time, those modeled numbers started being reported as “actual impressions,” which distorts the baseline of performance.\n\nI agree that independent studies and integrations with payment or mobility data (like MasterCard, ABCS, etc.) are steps forward — they validate impact.\nWhat’s still missing is validation of exposure.\n\nWe’ve reached a stage where technologies like computer vision, anonymized face detection, and AI-based dwell tracking can provide real, privacy-compliant viewability data.\n\nIf OOH wants to compete with digital, it can’t keep measuring potential; it needs to measure actual.\n\nAppreciate your insight though — you’re right, this isn’t simple. The systems that “work” today are expensive and fragmented, but that’s precisely why the conversation needs to evolve beyond just models and proxies.",
+      "score": 1,
+      "created_utc": 1760405065.0
+    },
+    {
+      "author": "sanjeevrc",
+      "body": "Yes, the whole business model need a change.",
+      "score": 1,
+      "created_utc": 1759970915.0
+    },
+    {
+      "author": "xriddle",
+      "body": "We're listening...",
+      "score": 1,
+      "created_utc": 1759970960.0
+    }
+  ]
+}

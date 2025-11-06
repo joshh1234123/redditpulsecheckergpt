@@ -1,0 +1,69 @@
+{
+  "id": "1oebaqq",
+  "title": "Reliable data leading to bad matches (?) and poor results in Stackadapt",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oebaqq/reliable_data_leading_to_bad_matches_and_poor/",
+  "created_utc": 1761244569.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "SevereAddition8147",
+      "body": "My stack adapt rep is super responsive. And we barely use them. Especially If you’re a heavy ish user, you should be asking them to help trouble shoot. \n\nAlso, do you have a seat on any other dsp?",
+      "score": 7,
+      "created_utc": 1761260466.0
+    },
+    {
+      "author": "savant125",
+      "body": "Find out what identity resolution partner they’re using.  The other DSP question is relevant also.  For example, Meta and Google match rates are likely much higher than StackAdapt since they own verified, login data, and don’t need to go through hoops to resolve these lists to online identities.  Amazon, too, and Yahoo to a large extent.",
+      "score": 3,
+      "created_utc": 1761270033.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "If you want an 'easy button' kind of platform for Dem campaigns, have you looked at Turn It Blue Digital? Or if you have larger budgets and want more sophisticated controls, look at Basis - they have a big political team and data match rates on our NGP/TargetSmart/L2 audiences are high and accurate",
+      "score": 2,
+      "created_utc": 1761785863.0
+    },
+    {
+      "author": "ThenTranslator6817",
+      "body": "Um stack adapt sucks. They license their identity resolution from 3rd party sources that are unreliable. Try using a DSP with reliable first party data like Amazon, Google or yahoo.",
+      "score": -2,
+      "created_utc": 1761271397.0
+    },
+    {
+      "author": "NX__74205",
+      "body": "I only just started with them, but I've found them pretty responsive too. Unfortunately this first job I'm bringing them has the lowest budget for programmatic of any political campaign I've worked with (\\~$1500) so it feels a bit awkward asking them to put hours into figuring this out. I have let them know I'd like to bring bigger-spending campaigns to them in the future to sweeten the pot a bit though.\n\nI set up an account with DSPolitical since they are often recommended in the political space, but their CPMs are insanely high to the point of nearly being a scam and their tools and options are extremely limited.",
+      "score": 2,
+      "created_utc": 1761280765.0
+    },
+    {
+      "author": "NX__74205",
+      "body": "They use Liveramp and Experian. The default setting is to use both, so I suppose I can try using each individually and see if one or the other is specifically causing the problem. They seem reputable enough that they *should* be giving better results, but if you know of other providers that have more reliable partners, or an affordable intermediary service that I can run the data through before bringing it to stackadapt, I would be love suggestions!",
+      "score": 1,
+      "created_utc": 1761280885.0
+    },
+    {
+      "author": "sooooted",
+      "body": "Amazon DSP doesn’t accept political advertisers",
+      "score": 2,
+      "created_utc": 1761791163.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Any DSP sales team worth their salt will put in extra hours on a small test in the hopes of unlocking more budget. Names addresses and phone numbers aren’t the best identity signals for programmatic unless the DSP or the data owner have a strong identity crosswalk to translate to IP, MAIDs, and Cookies.",
+      "score": 2,
+      "created_utc": 1761588744.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "“Reputable” and accurate are two different things. They heavily rely on cookie matching which has garbage at best",
+      "score": 3,
+      "created_utc": 1761306231.0
+    },
+    {
+      "author": "savant125",
+      "body": "See if you can find out who their primary identity provider is when both are used.  Typical use case for having multiple providers is to use one as a primary, and the second provider only processes the identities unresolved by the first.  No one runs the full list through both vendors, it’s too costly.\n\nIn your case, Experian is the better of the two.  Experian relies on CC data, so you should better matches to names and addresses.  LR is cookie-based and can sometimes be hot garbage.",
+      "score": 2,
+      "created_utc": 1761318576.0
+    }
+  ]
+}

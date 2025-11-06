@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "DOOH Optimisation Products",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mi6697/dooh_optimisation_products/",
+  "created_utc": 1754391949.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "SevereAddition8147",
+      "body": "Im wondering what optimizations you think can be made running programmatic dooh. At my work we don’t really have any kpis to optimize to",
+      "score": 10,
+      "created_utc": 1754396754.0
+    },
+    {
+      "author": "Southern_Total5632",
+      "body": "Hi all,\nBy optimisation, I mean can we create some triggers using any open source data. For example - real time weather related data for the location where DOOH screen is placed can be used to understand the footfall volume at any moment. If it’s raining heavily then obviously we’ll encounter low footfall there and we can reduce delivery there. This was just a vague example which can help us reach more people. I’m looking for something similar.",
+      "score": 4,
+      "created_utc": 1754399672.0
+    },
+    {
+      "author": "Nice_Condition8936",
+      "body": "I am all here for this. I moved to DOOH pub a few years ago from adtech and there is so much to be done here. Want to do a call?",
+      "score": 2,
+      "created_utc": 1754397885.0
+    },
+    {
+      "author": "The_Captain101",
+      "body": "QPS is a big one no better what part of the funnel. Also, time span between auctions, bid request, bid response and ad delivery. You would not believe the time difference m. In some cases, hours.",
+      "score": 2,
+      "created_utc": 1754398819.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Like most people are saying here, some partners have these triggers already built into their stack, like Vistar. \n\nYou may have some issues trying to utilize other data for these triggers, since you’ll need to integrate with the already built buying environment.",
+      "score": 2,
+      "created_utc": 1754416121.0
+    },
+    {
+      "author": "Flat_Temperature_704",
+      "body": "Im From Argentina, and DOOH is on its first steps being \"programmatic\". The only KPI we can \"optimize\" is spend 😅. I´d apreciate if you can share your KPIs and tech cappabilities in your markets.",
+      "score": 1,
+      "created_utc": 1754398526.0
+    },
+    {
+      "author": "red_macaron",
+      "body": "Yes definitely, most specialised DOOH DSP, such as displayce from JCDecaux, are providing this kind of optimisation.",
+      "score": 1,
+      "created_utc": 1754425190.0
+    },
+    {
+      "author": "Glittering-Home5313",
+      "body": "a store overlaid with screens 🍀 Transform into audience. Improve it. I need cheese, fitness, trading app, further education. Working with Adform, DV360, Stackadapt, Displayce or Vistar media, will be better than a new platform.",
+      "score": 1,
+      "created_utc": 1754433799.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "just deliver in full - $$ and imp.",
+      "score": 5,
+      "created_utc": 1754416767.0
+    },
+    {
+      "author": "Caramelyin",
+      "body": "There are DOOH point solution DSPs that have weather/temp triggers and dynamic DOOH creative partners with similar controls. Is that in line with what you were looking into?",
+      "score": 2,
+      "created_utc": 1754404664.0
+    },
+    {
+      "author": "Southern_Total5632",
+      "body": "We run DOOH campaigns to capture top funnel audience and then follow along sequentially with mid funnel and lower funnel channels. Since it’s top funnel and usually for brand awareness campaigns, our main KPI is reach",
+      "score": 1,
+      "created_utc": 1754414532.0
+    },
+    {
+      "author": "Southern_Total5632",
+      "body": "And it also depends on what the DSP in which you’re running your campaign provides, you can get more metrics. We run our campaigns in TTD, and while exploring I found out that it also provides conversions along with basic metrics like reach, impressions, etc. based on your set up.",
+      "score": 1,
+      "created_utc": 1754414672.0
+    },
+    {
+      "author": "Southern_Total5632",
+      "body": "Not exactly that but wanted to know if there are any open source data available online. There’s one use case I found that if my brand wants to show ads to any specific ethnicity then I can use census data to identify zip codes with high population of that particular ethnic group and then choose a DOOH screen nearby or in that zip code.\n\nSomething in those lines. Basically, any sort of custom built optimization tools. I do have some basic ideas but just wanted to see if anyone has already built something really cool.",
+      "score": 1,
+      "created_utc": 1754414394.0
+    },
+    {
+      "author": "Key-Boat-7519",
+      "body": "Adsquare mobility and Quividi dwell data are the free signals that lift top-funnel DOOH. I overlay weather and GTFS feeds to time plays. KPIs: indexed reach, dwell-seconds per 1k impressions, cost per visit. Pulse for Reddit pings me when brand chatter jumps so I rotate creative fast. Mobility plus dwell outrank budget tweaks.",
+      "score": 1,
+      "created_utc": 1754514682.0
+    },
+    {
+      "author": "adbuzz65",
+      "body": "If you are looking omnichannel and want to explore somewhere else that you can easily do this with ANY channel, take a look at blis",
+      "score": 1,
+      "created_utc": 1755199871.0
+    },
+    {
+      "author": "TemperatureOver4172",
+      "body": "Yes this all exists but to leverage these free tools at scale you really need an API integration with the DSP where you’re buying DOOH supply. Without that you’re reliant on their paid solutions for this kind of custom targeting. OpenWeather is a great source for the weather data use case you previously described. Tbh would be a great collaborative effort for this subreddit to compile a list of all the open source data out there because there’s no reason to pay 3rd parties for at least 30-40% of the segments (would argue more given how much data is BS) they offer when open source data is available.",
+      "score": 2,
+      "created_utc": 1754440246.0
+    },
+    {
+      "author": "adbuzz65",
+      "body": "This is basically what audience targeting in a DOOH point solution DSP does. The really smart ones also move those areas depending on if the screen is still or moving.",
+      "score": 1,
+      "created_utc": 1755199774.0
+    }
+  ]
+}

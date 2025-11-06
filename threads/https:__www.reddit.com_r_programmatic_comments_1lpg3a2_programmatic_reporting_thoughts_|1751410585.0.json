@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "Programmatic reporting thoughts?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lpg3a2/programmatic_reporting_thoughts/",
+  "created_utc": 1751410585.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "AdTechGinger",
+      "body": "We typically give clients access to a dashboard with real time data, and for many (all but the smallest), supplement that with a monthly analysis report. \nThere is such a wide gap in both client objectives (R/F for awareness efforts vs hard ROI/ROAS sales metrics) and client knowledge (the difference of communicating reporting to someone with “programmatic” or “commerce” in their title vs “marketing”) that I don’t see how we could effectively meet needs without tailoring to each client. \nIn my experience, the higher level the client’s title is, the more ‘storytelling’ they require. If you are dealing with c-suite, or a not-so-knowledgeable director/VP who has to communicate up to their C-suite, they need you to write them a story. It’s less about ‘here’s what is/isn’t working’ and more about looking at each data point and asking WHY. If you can give them decent hypothesis on why the tactic you cut wasn’t performing but this other is, or why performance improves on Tuesdays and Fridays, or whatever, THAT is what they are dying for (and the difference between reporting and analysis).",
+      "score": 3,
+      "created_utc": 1751508336.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Totally feel you on this. It’s hard to create a “story” every month when programmatic is so fluid and data-driven. We try to keep it simple but still highlight key shifts. Tatari actually does a solid job visualizing TV performance in a way execs can digest, might be worth checking out if you're expanding into that space.",
+      "score": 3,
+      "created_utc": 1751808295.0
+    },
+    {
+      "author": "Flipdoc_",
+      "body": "I usually pull basic metrics (spend, impressions, clicks, CTR, VCR, viewability, CPA).\n\n+ Creative info (which banner size/video length is performing better?). You can develop a short story there (e.g.: Focus on shorter video lengths bc they drive the highest VCR, retain attention).\n\n+ Conversion info (which tactics are driving the most conversions? Which inventory sources are driving more conversions?). You can then apply any observations as optimizations and tell the client that you're making the difference.\nIf conversions are low: take a peek at the landing page and check where conversions should fire, and how accessible it is for the user. Sometimes the landing page is just bad and affects your campaign results.\n\n+ Reach\n\nIt's usually kind of tricky to develop a story based on market trends that supports your campaign results. I use a lot of chat gpt to gather some insights. E.g. I've recently seen my CTRs drop by 25%. This can be supported with the classic \"creative fatigue\" argument or \"users aren't looking forward to buying the product at this time of the year bc it's summer and most people are traveling \".\n\nGoogle \"IAB standard benchmarks\" for some basic industry benchmarks (not filtered by vertical). Otherwise, if you have access to platform reps, such as a Google account manager, they should share accurate benchmarks with you.",
+      "score": 2,
+      "created_utc": 1751503766.0
+    },
+    {
+      "author": "General_Shine_8480",
+      "body": "Hello I’m part of a business intelligence team that helps pull analytics for our customers. Usually they just want reach and frequency and whatever they their key kpi is for each campaign.",
+      "score": 0,
+      "created_utc": 1751421224.0
+    },
+    {
+      "author": "digitaladwarrior",
+      "body": "Makes sense - do they generally have goals in mind for their KPIs (just reach and frequency seems like an awareness play) and I imagine the goal and KPi would vary based on the types of campaign!",
+      "score": 2,
+      "created_utc": 1751421392.0
+    }
+  ]
+}

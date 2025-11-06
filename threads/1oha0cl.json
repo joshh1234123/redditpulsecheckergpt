@@ -1,0 +1,99 @@
+{
+  "id": "1oha0cl",
+  "title": "Unusual post-view conversions in DV360 retargeting — is this normal?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oha0cl/unusual_postview_conversions_in_dv360_retargeting/",
+  "created_utc": 1761557880.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "indifferentkappa",
+      "body": ">Very high number  is not necessairly specific.\n\n That's not very specific. It can be completely normal. \n\n>As a user, I would normally click an ad like that (if only to not lose the discount URL), so it’s odd to see people supposedly converting without clicking.\n\nCompletely wrong. This is pretty much 2010 digital marketing mindset that forgets you cannot click on cable tv ads.  Attribution is a very complecated and deep branch of marketing, not a topic to be closed with 'I would normally click an ad'.\n\n  \nOverall, your post contains many presumptions that you may not even be aware of. I think you are relatively new to digital.  You are asking if x is normal, then assuming that there is some 'inflation' happening.\n\n>what’s the best way to confirm that the impressions truly come from DV360 and not from another channel that might be firing the same Floodlight tag\n\nThis is just nonsense. Are you really asking if there is somebody who knows you are running a campaign via DV360, is reapeadetly creating new cookies to be caught by rtg setup in DV360, and then goes to the website to PURCHASE something? I would be very happy if I had someone permanently purchasing shit from my clients lol.",
+      "score": 7,
+      "created_utc": 1761560986.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Programmatic / DV360 by default will optimise to both post impression & post click conversions, which when paired with standard last touch attribution will mean 90% of conversions will not require a click. This is quite normal.\n\nIf you want to optimise / measure programmatic on a click only basis to compare it to a search / social world, you can adjust your bidding / floodlights to factor that in. But in reality it is not the smartest thing to do, given the role of programmatic buying in general. It will never outperform other channels on a last click basis and on the flip side, plenty of those post impression conversions are likely non-incremental. But there is a middleground where it is viable.",
+      "score": 4,
+      "created_utc": 1761562071.0
+    },
+    {
+      "author": "Impressive-Teach7336",
+      "body": "Yes, this is a typical observation when reviewing Programmatic campaigns. View throughs will always account for the majority of your conversions. Putting yourself in the average person's shoes, most people just do not click on ads (assuming display in this case). It's better to view these as online billboards that increase ad exposure and can perform well as an \"assist\" in the user journey. \n\nYou could experiment with your creative to try to call out that a click is the only way to get the discount if you are  not doing that already.",
+      "score": 3,
+      "created_utc": 1761577526.0
+    },
+    {
+      "author": "CoffeeWithMilkPlease",
+      "body": "What events are you using for conversions? What are you optimizing towards to?\n\nCould be that people see the adz remember they added the product on the cart, and went directly to the site to finish it.\n\nWhat is unclear to me is, are you stating in the ad that the discount is only applied if you click? because the user might expect to find the discount on the website when returning and that's it.\n\nIf you or your team are runing also search ads, ask them if they saw a spike in sales for the typical brand campaign since you started the retargeting or since you noticed this.",
+      "score": 1,
+      "created_utc": 1761560693.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "view through conversions means conversions that happened after ad exposure (even without a click); this is flawed and easily gamed by bad guys. so you are right to question hat method of attribution. see this for more details and examples of how conversion reporting can be easily manipulated [https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/](https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/)",
+      "score": 1,
+      "created_utc": 1761562697.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Hi, possible fraud. Have you tried narrowing down publishers or looking into purchased products ?",
+      "score": -1,
+      "created_utc": 1761559611.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "Let me bet, I've seen this shit happening billions of times:\n\n\\- **U were forced** by someone higher than you in your  org  **to test/include programmatic** in your marketing mix\n\n\\- **U don't understand and do not like it** \\+ click marketing mentality jeez\n\n\\- U want to cut it, but **someone did a very good setup converting well**\n\n\\- U r unhappy that something that you dont understand works well, so u will try another angle to cut it (FRAUD POST-VIEW OMG)\n\n\\- You feel like losing control, because you do not understand;  middle/director level managers are all about control\n\n\\- **Effectively, you would try any possible angle to cut a campaign that converts so well, that you are trying to accuse it of fraud ROFL**\n\nSeen this happening way too many times on digital channels other than Google search",
+      "score": 7,
+      "created_utc": 1761561671.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "and u sent an article with gaming utm source/medium for post view alleged fake conversions\n\nmake it make sense",
+      "score": 1,
+      "created_utc": 1761567907.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "it's one of the multiple forms of attribution fraud/falsification; didn't you read the article?",
+      "score": 2,
+      "created_utc": 1761568261.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "Yes, it's about source/medium fraud in GA\n\nThe post is about alleged impression imprinting fraud.\n\nGA does not see, read, strore,  count impressions at all.  It's only click attribution via UTMs. \n\nYour reply to the post is nonsense in this context, we are talking impressions, not GA clicks, ok?",
+      "score": 1,
+      "created_utc": 1761568830.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yeah, you didn't read the article, specifically the part about view through conversions",
+      "score": 1,
+      "created_utc": 1761568922.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "Ah you are advertising your own nonsense service, clear now.\n\n That one paragraph about view through is nonsense btw.\n\nEvery business would be extremely happy to be a target of such a fraud that sells their products. And no fraud benefits from just buying to buy lol.",
+      "score": 0,
+      "created_utc": 1761569307.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "not sure what you mean by \"And no fraud benefits from just buying to buy lol\"",
+      "score": 0,
+      "created_utc": 1761569465.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "we are talking about a case when stuff is being bought from a website, like actually  bought",
+      "score": 1,
+      "created_utc": 1761570175.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "wait. you're just realizing that now? wut?",
+      "score": 0,
+      "created_utc": 1761571537.0
+    }
+  ]
+}

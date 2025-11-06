@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "title": "Is it possible to Connect Meta Pixel with AdForm DSP banner? How?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gk6gc0/is_it_possible_to_connect_meta_pixel_with_adform/",
+  "created_utc": 1730812693.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "mrgoobmanager",
+      "body": "No. Facebook has a lock on allowing any type of pixel tracking and they will not allow you to use any tracking.\n\nYou can upload a custom audience to Meta and load the same audience into AdForm via a ramping partner, but the campaigns cannot talk to each other.",
+      "score": 1,
+      "created_utc": 1730850978.0
+    }
+  ]
+}

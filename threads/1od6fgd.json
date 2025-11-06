@@ -1,0 +1,51 @@
+{
+  "id": "1od6fgd",
+  "title": "Pg and brand safety (Netflix example)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1od6fgd/pg_and_brand_safety_netflix_example/",
+  "created_utc": 1761134836.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "SinisterHydra",
+      "body": "Yes, I would not rely on brand safety for PG deals unless provided by the publisher within the deal. The main reason for a PG deal is that you're getting already guaranteed inventory which is normally the most premium. Trying to add any filters could cause the deal to break and not even spend.",
+      "score": 4,
+      "created_utc": 1761138695.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "You should specify your targeting while setting up the deal.",
+      "score": 2,
+      "created_utc": 1761153555.0
+    },
+    {
+      "author": "fwahahaha",
+      "body": "Definitely would not go for DV360 brand safety for PG deals or any PMPs with premium pubs. You’ll overblock/overfilter quality inventory for no good reason.\n\nThe DSP brand safety works for general open market buys where you have no clue on the quality across thousands of domains/apps.",
+      "score": 2,
+      "created_utc": 1761179909.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "DV360 and brand safety? Not in the same sentence lol always use a third verifier. Don’t trust Google if you really have accountability. Look for analytics studies. Also it’s not recommended to filter, the idea of a PG is that the third party assure this for you. If you do layer, it can give pacing and bid rejections due to incompatible ad calls",
+      "score": 2,
+      "created_utc": 1761195116.0
+    },
+    {
+      "author": "HairySprinkles7369",
+      "body": "DV360 brand safety doesnt work for CTV period man",
+      "score": 2,
+      "created_utc": 1761627713.0
+    },
+    {
+      "author": "linuz14",
+      "body": "In the wost case I’ll have a reject and rebid for other clean imps…",
+      "score": 1,
+      "created_utc": 1761200728.0
+    },
+    {
+      "author": "DebtInside5825",
+      "body": "Same can be said for other DSPs or moreover legacy brand safety vendors. It’s a minefield of using the open market (even bad inventory and bad actors can slip through PMPs and PG).",
+      "score": 1,
+      "created_utc": 1761229353.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "title": "For those running multi-channel plans, what kind of overlap (household or person) rates are you seeing?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i6t9d9/for_those_running_multichannel_plans_what_kind_of/",
+  "created_utc": 1737493440.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "TheEliteEmu",
+      "body": "Not sure about benchmarks but some onmi-channel DSPs can help avoid that overlap.",
+      "score": 2,
+      "created_utc": 1737496480.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Depends if the target is small or large but I think less than 2 frequency is normal",
+      "score": 1,
+      "created_utc": 1737576962.0
+    }
+  ]
+}

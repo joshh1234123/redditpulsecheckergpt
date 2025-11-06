@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Dynamic Parameters for ATT?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lhgqbn/dynamic_parameters_for_att/",
+  "created_utc": 1750571729.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "In THEORY it's possibile to send Dynamic value to ADSP via AAT depending on your tag manager.\nIf you are using GTM there's a [template](https://tagmanager.google.com/gallery/#/owners/amzn/templates/ads-pao-amznjs-gtm-template) you can add.\n\nFrom there you can manage both triggers and values passed to the DSP.\n\nYour Amazon rep should be able to share more detailed instruction.\nI'd recommend you talk to your PSC or PSCT if you have any",
+      "score": 2,
+      "created_utc": 1750580840.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "You can but Amazon is borderline useless in UI reporting or AMC for it. The non-endemic clients get the short end of the stick here, AAT is way better than the legacy pixel but still not particularly great.",
+      "score": 2,
+      "created_utc": 1750582116.0
+    },
+    {
+      "author": "NoGravityPull",
+      "body": "Add a parameter to the UTM",
+      "score": 1,
+      "created_utc": 1750579468.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "We ran into the same issue and ended up going with Tatari, they helped bridge that gap with matchback and tracking. Not perfect, but way smoother than trying to force it through ATT directly.",
+      "score": 1,
+      "created_utc": 1751897554.0
+    }
+  ]
+}

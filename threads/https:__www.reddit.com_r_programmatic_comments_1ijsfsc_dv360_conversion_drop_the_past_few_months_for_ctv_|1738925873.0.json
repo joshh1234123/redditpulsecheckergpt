@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "DV360 conversion drop the past few months for CTV?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ijsfsc/dv360_conversion_drop_the_past_few_months_for_ctv/",
+  "created_utc": 1738925873.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "D_Adman",
+      "body": "I'm amazed you got any conversions from CTV at all! What vertical is it if you don't mind me asking? Or what action is considered a conversion?",
+      "score": 7,
+      "created_utc": 1738927159.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "happy to take a look for you with on-site tags. For CTV, since there are no \"clicks\" the conversions are likely VTC so it depends on when/how the landing page was loaded and how the conversion pixels are called. \n\nI have seen Rampant gaming of view-through conversions - [https://www.linkedin.com/pulse/rampant-gaming-view-through-conversions-dr-augustine-fou-6yede](https://www.linkedin.com/pulse/rampant-gaming-view-through-conversions-dr-augustine-fou-6yede)  and what you are observing may be a correction to it.",
+      "score": 2,
+      "created_utc": 1738929553.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Why are you running CTV if your kpi is conversions?",
+      "score": 1,
+      "created_utc": 1738946015.0
+    },
+    {
+      "author": "magenk",
+      "body": "legal services - view thru engaged website sessions with a few contact form and calls made from the website. These campaigns are mainly CTV with some online video. Obviously, there are a disporportionate # of conversions from online videos, but we were seeing many from CTV before stats dropped like a rock.\n\nThe recent change for us is likely due to what u/AugustineFou mentions. I assume many were \"false\" conversions, but I still thought it gave us some input on value of our audience targeting.",
+      "score": 1,
+      "created_utc": 1738952112.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "DM me if I can be more helpful to you.",
+      "score": 1,
+      "created_utc": 1738929572.0
+    },
+    {
+      "author": "magenk",
+      "body": "This makes sense, and I suspected as much. However, we were starting to see some audiences \"outperforming\" a standard broad audience. I've never heard great things about the quality of 3rd party audience data, so I was hoping Google audience targeting would prove worthwhile.\n\nYour work looks amazing btw! I'm looking forward to reading more of your articles.",
+      "score": 1,
+      "created_utc": 1738953582.0
+    },
+    {
+      "author": "magenk",
+      "body": "kpi isn't conversions but it's been helpful for knowing value of audience targeting.",
+      "score": 1,
+      "created_utc": 1738952261.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "thank you!  here's an article about audience targeting [https://www.linkedin.com/pulse/you-doing-audience-targeted-campaigns-programmatic-dr-augustine](https://www.linkedin.com/pulse/you-doing-audience-targeted-campaigns-programmatic-dr-augustine)\n\n  \nand here's the complete collection of 800 articles on ad fraud by me over the last 15 years\n\n[https://www.linkedin.com/in/augustinefou/recent-activity/newsletter/](https://www.linkedin.com/in/augustinefou/recent-activity/newsletter/)",
+      "score": 2,
+      "created_utc": 1738953679.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "In either case you shouldn’t expect or rely on conversion tracking on CTV at all- fundamentally all of your conversions must be view through so it’s not efficient",
+      "score": 1,
+      "created_utc": 1738952621.0
+    }
+  ]
+}

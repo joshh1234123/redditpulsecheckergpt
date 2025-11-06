@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "title": "DV360 Seat ID question",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nihcm7/dv360_seat_id_question/",
+  "created_utc": 1758028924.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "That looks like a DV360 Advertiser ID, likely you'd want the DV360 Partner ID which is a level up and is normally the seat level for SSPs. It is still a number value though.",
+      "score": 7,
+      "created_utc": 1758029738.0
+    },
+    {
+      "author": "KiddoTwo",
+      "body": "Thank you. I'm thinking maybe it was a bad copy/paste job now.",
+      "score": 1,
+      "created_utc": 1758029919.0
+    }
+  ]
+}

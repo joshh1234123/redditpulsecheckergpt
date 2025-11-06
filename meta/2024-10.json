@@ -1,0 +1,436 @@
+{
+  "discussions": [
+    {
+      "title": "Foot traffic tracking",
+      "author": "Blodecode340",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g78p1j/foot_traffic_tracking/",
+      "created_utc": 1729343761.0,
+      "content": "What platforms do you all use to monitor, track, and attribute foot traffic across your media mix since AdWords is the only one able to do so? ",
+      "num_comments": 15
+    },
+    {
+      "title": "Moving countries in Programmatic",
+      "author": "Pantpp",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g7t8r6/moving_countries_in_programmatic/",
+      "created_utc": 1729408817.0,
+      "content": "Hey folks in Programmatic, I have been in the industry for 2+ years now and at a Manager post at one of the Big 6 in India. I am looking to move out of India and plan to stay in Programmatic, pls do share any recommendations on how to do so and is the market in Europe and America open to hiring Programmatic folks from abroad?",
+      "num_comments": 18
+    },
+    {
+      "title": "YouTube Auction on YouTube TV",
+      "author": "merica3535",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g84fz3/youtube_auction_on_youtube_tv/",
+      "created_utc": 1729446388.0,
+      "content": "Hey all! I am running a DV360 YouTube auction campaign (VRC with only YouTube selected as inventory) at around $20-30k monthly. \n\nI’ve pulled placement reports and am noticing we are clearing on YouTube TV inventory (networks) that aligns really well with what we are buying on the Linear TV, but only a small portion of the budget maybe $1k a month. I assume it’s just luck of the draw if YT TV has an inventory spot to fill they pull from live VRC campaigns.\n\nQuestion: My client is obviously interested in seeing how to push more of our VRC buy to YT TV because the CPMs are comparable to linear $2-4 but they only way to buy YT TV is through instant reserve deals which have us quoted around $25 for a YT TV select RON and my client hyper focuses on CPMs so that’s a no go for him.\n\nHas anyone had success with rigging a VRC to favor YT TV inventory in the auction? TIA!",
+      "num_comments": 1
+    },
+    {
+      "title": "Push ads?",
+      "author": "mikehauptman",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g8u635/push_ads/",
+      "created_utc": 1729528708.0,
+      "content": "Are there legitimate sources for push ads? Is it all sms or actual push notifications?",
+      "num_comments": 3
+    },
+    {
+      "title": "Question: Cost of Google \"Ghost Ads\" and equivalents across DSPs",
+      "author": "programmago",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g94dv3/question_cost_of_google_ghost_ads_and_equivalents/",
+      "created_utc": 1729554295.0,
+      "content": "Per post title, I cant remember if running Google's Ghost ads incurs any incremental fees beyond the Tech and platform fees in DV360.\n\n  \nSimilarly, hoping to find about equivalent costs/fees for similar incrementality study products in other DSPs like the TTD or others",
+      "num_comments": 5
+    },
+    {
+      "title": "Why CTV is big bull in advertising market right now?",
+      "author": "Neo_revolutionary",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9jj1t/why_ctv_is_big_bull_in_advertising_market_right/",
+      "created_utc": 1729607434.0,
+      "content": "📺 CTV is exploding, and you don’t want to miss out! 🚀\n\nAccording to IAB’s 2023 survey, 40% of advertisers are shifting their budgets from web ads and linear TV to Connected TV (CTV) in the next few years. So, what’s fueling this massive shift?\n\nJoin our free webinar to find out! We’ve got top CTV industry execs sharing insights on the growth of CTV and why it’s the future of advertising.\n\nWhen: October 25th, 1 PM EST, 10:30 PM IST\nRegister here: https://us06web.zoom.us/webinar/register/1017205297644/WN_9ibS57QUSpiZqZ1v5k6Fzg\n\nGet in on the conversation—don’t miss out!",
+      "num_comments": 1
+    },
+    {
+      "title": "DV360 - YouTube Efficient reach Line item",
+      "author": "cheekyboy_mani",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9o5ug/dv360_youtube_efficient_reach_line_item/",
+      "created_utc": 1729618979.0,
+      "content": "Hello Everyone, \n\nI noticed in the recent DV360 update that long headlines and descriptions are now required for bumper ads. However, when I add the headline and description and select the \"shorts\" option, they don't appear in the preview. It seems that headlines and descriptions are only required for in-feed ads. Even when selecting the in-feed option, they're not visible. Anyone experienced same and any solution for this?",
+      "num_comments": 2
+    },
+    {
+      "title": "Identity Alliance for single channel campaign and DCM source of truth",
+      "author": "Progo_Gal",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9twq9/identity_alliance_for_single_channel_campaign_and/",
+      "created_utc": 1729633251.0,
+      "content": "I am planning to run a CTV only campaign in The Trade Desk and will be using DCM as the source of truth for any conversion metrics. The goal of the campaign is reach so don't expect a ton of conversions anyways. Since we are only running 1 channel and aren't using TTD conversions as source of truth I don't think it makes sense to pay for Identity Alliance but curious if anyone thinks I'm missing a benefit here?",
+      "num_comments": 5
+    },
+    {
+      "title": "Can agency partners run PMax and Google Shopping campaigns using their own ad accounts?",
+      "author": "DonSalaam",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9yifc/can_agency_partners_run_pmax_and_google_shopping/",
+      "created_utc": 1729646210.0,
+      "content": "Can an agency run PMax campaigns using their own agency’s Google Ads accounts for small businesses who don’t have ad accounts? Can a Merchant Center account that is owned by the client be used for PMax campaigns if the ad account is not owned by the client? Some businesses do not have ad accounts and want their agency partners to run campaigns on the agency ad accounts.",
+      "num_comments": 3
+    },
+    {
+      "title": "Agency doesn't care about brand safety on campaigns",
+      "author": "Flipdoc_",
+      "score": 15,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gaa0ba/agency_doesnt_care_about_brand_safety_on_campaigns/",
+      "created_utc": 1729688531.0,
+      "content": "I joined a programmatic position in a US advertising agency as a second job. I still work for a big agency in my country of residence.\nI'm very used to applying lots of brand safety layers to my campaigns to avoid ads being triggered due to certain keywords, or appearing on content about war, guns, politics etc.\nDuring my first days on my new job I realized that the programmatic campaigns don't include a single brand safety layer, so ads are being delivered on 'bad' content according to reports. Campaign budgets are also toooooo low, which makes it difficult to make all these adjustments because it impacts the CPM directly, so less impressions as an outcome.\n\nWould you keep your mouth shut and simply move on with their lack of standards or would you say something? (The programmatic guy I work with is in a senior position and has 5+ years in the agency, while I'm a temp worker that might be hired full time).\nI'm on J2 for the money, but I want to do a good job there.",
+      "num_comments": 23
+    },
+    {
+      "title": "Behavioral programmatic interview questions",
+      "author": "g0rkmeister",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gb5ytq/behavioral_programmatic_interview_questions/",
+      "created_utc": 1729785239.0,
+      "content": "Hey all, I applied for a position as a programmatic manager/paid media specialist and I have 3 in-person interviews next week that are all supposed to be \"behavioral based.\"\n\nI have a few answers/scenarios drafted for the classic behavioral questions (\"tell me about a time you dealt with ambiguity / had conflict with a coworker or client / when you made a mistake / how you used data to inform an important decision\") but I'm wondering if anyone has more **specific programmatic behavioral questions that they've been asked or think would be helpful to prep for**. I've been out of the paid media management game for about a year so trying to prepare as much as I can for these interviews - thank you!",
+      "num_comments": 6
+    },
+    {
+      "title": "Desktop CTR at 1/3 of Mobile",
+      "author": "just4werk",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gb9xsv/desktop_ctr_at_13_of_mobile/",
+      "created_utc": 1729795173.0,
+      "content": "https://preview.redd.it/b9vbyxhs0rwd1.png?width=1439&format=png&auto=webp&s=43ef7caad79f5c3b8f661f9d40abb48cd90ab097\n\nhttps://preview.redd.it/azp5mxhs0rwd1.png?width=1041&format=png&auto=webp&s=d8ff19d33be24ee3c5eadc6a18f6cce5b9473717\n\nHi folks.  \nOnly serving about 20% more impressions on desktop v mobile, but CTR is 1/3 of mobile. Is this typical?  \nThanks",
+      "num_comments": 13
+    },
+    {
+      "title": "Optimization framework for conversions ",
+      "author": "Flipdoc_",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gbjqej/optimization_framework_for_conversions/",
+      "created_utc": 1729822568.0,
+      "content": "On programmatic, what strategies do you use to optimize for conversions?\nI've been applying custom bidding based off of floodlights in DV360, but on the other hand CPMs became much higher.\nAlso, campaigns are 100% private marketplace including some deals (no open exchange involved by agency standards). So it isn't that easy to exclude URLs with low conversion volume.\n\nI'm stuck and don't know what to do to make it better. Any thoughts?",
+      "num_comments": 13
+    },
+    {
+      "title": "CTV/OTT Advertising qebinar",
+      "author": "Neo_revolutionary",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gbr0vt/ctvott_advertising_qebinar/",
+      "created_utc": 1729851937.0,
+      "content": "📺 CTV is exploding, and you don’t want to miss out! 🚀\n\nAccording to IAB’s 2023 survey, 40% of advertisers are shifting their budgets from web ads and linear TV to Connected TV (CTV) in the next few years. So, what’s fueling this massive shift?\n\nJoin our free webinar to find out! We’ve got top CTV industry execs sharing insights on the growth of CTV and why it’s the future of advertising.\n\nWhen: October 25th, 1 PM EST, 10:30 PM IST\n\nRegister here: https://us06web.zoom.us/webinar/register/1017205297644/WN_9ibS57QUSpiZqZ1v5k6Fzg\n\nGet in on the conversation—don’t miss out!",
+      "num_comments": 2
+    },
+    {
+      "title": "Programmatic Campaign  in Tinder forced into a pmp?",
+      "author": "Repulsive-Stomach-77",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc0njt/programmatic_campaign_in_tinder_forced_into_a_pmp/",
+      "created_utc": 1729879567.0,
+      "content": "Hi everyone! I was running an open auction campaign in DV360 buying inventory from tinder a 0.30 USD CPMs and then out of nowhere the delivery came crashing down and i cannot access the impressions not even after raising the bids to 10 USD. My executive in tinder tells me the inventory is available on open auction but i have a feeling they might have blocked me to force me into buying a pmp at 8USD.\n\nHas anybody seen something like this before? Isn't 8$ a crazy expensive price?",
+      "num_comments": 12
+    },
+    {
+      "title": "Variable pay at the vendor side",
+      "author": "Sufficient_Camel_522",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc0w9c/variable_pay_at_the_vendor_side/",
+      "created_utc": 1729880192.0,
+      "content": "Hi all,\n\nSo there is a job posting on Toronto at a contextual partner (similar to GumGum) for a customer success manager role. The pay is 60-70k CAD plus variable. Any idea how much variable commission to Customer Success Managers typically get? I work at one of the big agencies in Toronto so I'm new to the variable commission part. Any insights/estimates would be great so that I can see how of pay will I get. \n\nAlso on the buying side my current role pays $70 CAD CAD with no variable pay. How much of an approximate increase will this be from my current role?",
+      "num_comments": 0
+    },
+    {
+      "title": "What is the difference between Curate / TTD / DV360",
+      "author": "kwissss",
+      "score": 9,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc390z/what_is_the_difference_between_curate_ttd_dv360/",
+      "created_utc": 1729886370.0,
+      "content": "Hi everyone:\n\nA little new to the programmatic world and I've been asked to see if we should sign up for Curate.   We currently have DV360 and TTD to run our programmatic managed services campaigns \n\nMy company has a huge amount of 1PA and we want to push our audiences to different platforms (we do that with DV and TTD and it looks like we can do the same with Curate) and we have PMPs set up with both DV360 and TTD.\n\nMy question is:  Why should we sign up for Curate if we have everything with DV360 and TTD?  Is it purely an inventory issue (i.e. which publishers are on Curate vs. TTD vs. DV360)? or is there something else i'm missing here.   Some research says you can't compare Curate to TTD or DV360 but i'm not 100% sure why\n\n",
+      "num_comments": 2
+    },
+    {
+      "title": "Where can I find a network with a referral program to earn by bringing in partners?",
+      "author": "DryBug7495",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc50rt/where_can_i_find_a_network_with_a_referral/",
+      "created_utc": 1729891073.0,
+      "content": "Where can I find a network with a referral program to earn by bringing in partners?",
+      "num_comments": 4
+    },
+    {
+      "title": "Freelance Market in programmatic",
+      "author": "Pantpp",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gceebp/freelance_market_in_programmatic/",
+      "created_utc": 1729921991.0,
+      "content": "Hey folks has anyone explored the freelancer market in Programmatic? i.e buy out a DV360 or TTD Seat from an agency for a fee and provide freelance service\n\nAlso does anyone know of any brands that handle their own programmatic buying?",
+      "num_comments": 3
+    },
+    {
+      "title": "How Big of an Issue Are Delayed Payments for Publishers?",
+      "author": "Thirty_by_Thirty",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gcinq9/how_big_of_an_issue_are_delayed_payments_for/",
+      "created_utc": 1729940901.0,
+      "content": "I’m researching the impact of **delayed payments** in the ad ecosystem, especially from DSPs that often take up to **120 days to settle ad revenue**. This delay seems excessive, and I’m curious how it affects your operations:\n\n1. **How significant is this delay**? Does the lack of immediate revenue create cash flow issues, especially before you establish a steady stream of income?\n2. **After the initial 120-day period**, when revenue becomes more predictable, does this delay still impact your business, or is it less of a concern?\n3. If quicker payment options existed (even at a slight discount), would this be something you’d consider to improve liquidity?\n\n**Edit:** Realised I didn’t explain the quick payment angle properly - sorry for any confusion. So let’s say there are investors willing to take on some risk. Think of a setup where a group of investors steps in, buys up ad inventory for a set period (say, 6 months), and pays the publisher upfront (obv only doing it if there’s money to be made). For those 6 months, the ad impression revenue goes straight to the holders. This way, publishers hedge their revenue stream, dodge the cash flow crunch, and sort out the working capital problem.",
+      "num_comments": 11
+    },
+    {
+      "title": "Amazon DSP , 1P data and 3P data",
+      "author": "JacketSmooth3894",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdizi8/amazon_dsp_1p_data_and_3p_data/",
+      "created_utc": 1730057059.0,
+      "content": "how you would respond to a client brief by leveraging a range of Amazon DSP features and tactics for a mid-sized retail client aiming to increase sales of their new product line across the UK. Specifically, focus on: Audience targeting (including first-party and third-party data) Ad formats you would recommend and why Key performance indicators (KPIs) you would track Working with internal department and stakeholders to ensure the brief is handled in a timely manner and everyone is aligned",
+      "num_comments": 8
+    },
+    {
+      "title": "Need guidance, it sounds that my AdSupply traffic is not good, what else I can do?",
+      "author": "amsami84",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdngnf/need_guidance_it_sounds_that_my_adsupply_traffic/",
+      "created_utc": 1730069262.0,
+      "content": "I bought an Ad Arbitrage website and it worked for almost a year, and I didn't need to change anything or understand how it works and while the profit was a bit inconsistent, it eventually covered the cost of the website within 6 months, then since July this year, I noticed a huge drop and now I make 70 cents per day on a good day.\n\nI am clueless what is going on and need some guidance.\n\nI buy traffic, or ads, on AdSupply and I run ads on RevContent.\n\nRevContent warned me before that the traffic they are getting is inconsistent, and I ignored it.\n\nI checked today Google Analytics and noticed that the website traffic doesn't match the traffic reported on AdSupply.\n\nI am not sure if AdSupply is the issue but seems like it.\n\nHow can I go about debugging this issue?\n\nAnd if I want to replace Adsupply, what should I use then?  \nAnd whatever you suggest, could you please explain if I need to also replace RevContent.\n\nIn other words, can I use Mediavine or Ezoic to do what AdSupply and RevContent do?\n\nSorry if this sounds stupid, I am working on familiarizing myself with the process of ad arbitrage.\n\n  \nWebsite: [healthdailynow.com](http://healthdailynow.com)",
+      "num_comments": 7
+    },
+    {
+      "title": "Programmatic Landscape Challenges",
+      "author": "akunni",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdxbu1/programmatic_landscape_challenges/",
+      "created_utc": 1730105098.0,
+      "content": "\n\n  The programmatic landscape is constantly evolving, with new privacy regulations, ad fraud, and supply chain transparency among the top concerns. From your perspective, what are the top three challenges in the programmatic advertising space today, and how do you propose addressing them?any potential solutions?\n\nWould like to know about the regulationsand how you address them",
+      "num_comments": 3
+    },
+    {
+      "title": "New commitment",
+      "author": "HistoryBorn3759",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdzznp/new_commitment/",
+      "created_utc": 1730115980.0,
+      "content": "Hi everyone! We're trying to create a Commitment at our Central Partner Level to boost spending for some publishers within more than one Advertiser in DV360. It's the first time we're working at this level and with commitments. \n\nWe created a Commitment test to boost spending in some sites and it seems to be working. But when we tested to boost spending across different publishers bought through Pubmatic we're not being able to do it. We would need the AdSystemId of Pubmatic and the Sellers ID of the publishers we want to prioritize. Where could I find these?\n\nAny thoughts about this tool are also welcome since it's the first time we're using it.\n\n  \nThanks.",
+      "num_comments": 0
+    },
+    {
+      "title": "Inventory for Gambling traffic",
+      "author": "Slow-Significance113",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge0exh/inventory_for_gambling_traffic/",
+      "created_utc": 1730117381.0,
+      "content": "We're looking for new inventory sources to reach audiences interested in gambling, with a strict requirement that the inventory is not related to pornography. We've been running campaigns through Xandr, but over the last two weeks, we've seen a significant increase in bid rejections (over 85%). Xandr suggests this is happening because many publishers are now blocking gambling ads. We need to find alternative platforms or publishers that accept gambling ads and align with our content suitability requirements.\n\nAny and all suggestions are appreciated. \n\n  \nTIA. ",
+      "num_comments": 25
+    },
+    {
+      "title": "Why Mastering Metrics in Google Analytics is Crucial to Blogging Success",
+      "author": "newormedia",
+      "score": 0,
+      "url": "https://newormedia.com/blog/why-mastering-metrics-in-google-analytics-is-crucial-to-blogging-success/",
+      "created_utc": 1730121488.0,
+      "content": "",
+      "num_comments": 0
+    },
+    {
+      "title": "Choozle vs StackAdapt for a DSP?",
+      "author": "TheSaucySkrimps",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge3d73/choozle_vs_stackadapt_for_a_dsp/",
+      "created_utc": 1730125570.0,
+      "content": "I currently work with Simpli.fi but their monthly minimums are killing me. I have done a few demos with other platforms and am deciding between Choozle and StackAdapt. Any thoughts from people who have experience with either DSP? I do self service and run all programmatic in house, both seem to have similar features and an easy to use interface. ",
+      "num_comments": 24
+    },
+    {
+      "title": "Looking for demand partners for Poland region.",
+      "author": "Ok-Athlete3396",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge6jh1/looking_for_demand_partners_for_poland_region/",
+      "created_utc": 1730133255.0,
+      "content": "We have 600k daily web and mweb inventory from Poland region. \nCPM - 4.5$ ",
+      "num_comments": 0
+    },
+    {
+      "title": "Career guidance ",
+      "author": "Hemano_",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1geb05x/career_guidance/",
+      "created_utc": 1730144127.0,
+      "content": "Hey everyone,\n\nI've been working in Programmatic Advertising for almost a year now, and I'm excited to start my new role at Dentsu next week. I have a solid understanding of the programmatic ecosystem, including DSPs, SSPs, ad exchanges, and data management platforms.\n\nHowever, I'm always looking to learn more and increase my earning potential. I'm particularly interested in part-time remote positions in the UK or US that could supplement my income.\n\nDoes anyone have any advice on:\n\n - Advanced Programmatic Techniques: Are there any specific skills or certifications that could help me command higher salaries? I'm only familiar with GMP and my expertise lies mostly with DV360. \n\n - Freelancing Opportunities: How can I effectively market myself as a freelance programmatic expert? I know getting DV360 access may only be possible via agencies or connecting with partners-- But how do I get in touch with them? And also if the situation could be different with other DSPs? \n\n - Remote Job Boards or Networks: Where should I focus my job search for high-paying remote roles?\n\nI'm really disappointed with how much I make and the impact I have on organisations so any insights or experiences you can share would be greatly appreciated. Thanks in advance!",
+      "num_comments": 2
+    },
+    {
+      "title": "Programmatic Community!  Need your Collective Wisdom and Advice!",
+      "author": "Dangerous-Day-2107",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gec421/programmatic_community_need_your_collective/",
+      "created_utc": 1730146862.0,
+      "content": "Hello Programmatic Community!  Need your Collective Wisdom and Advice!\n\nI work for Spectrum Reach, the advertising sales division of Charter Communications.  We use 1st party data from our access as the internet service provider to 30 million homes + 3rd party data (70+ data partners) to find, reach, and measure audiences across linear television viewing on cable networks as well as streaming TV viewing across linear/CTV/Mobile/Tablet.  \n  \nAs a local market sales manager, i'm primarily selling/running managed service campaigns through direct insertion orders.  In the last couple years i've seen a growing number of clients/ad agencies becoming savvier with their buying approaches, setting up seats at DSPs like MNTN, TTD, StackAdapt, Basis, etc.\n\nWith Linear Pay TV subs & linear TV budgets in decline, along with the continued shift into CTV budgets + programmatic approach on the rise, I've started to consider if it's a good time to make a career switch into working for a DSP to become more well rounded for what the next 5-10 years in the industry will look like.\n\nWould love to get advice/input from this community on things like: \n\n \\- what DSP would be best to transition into from a \"legacy\" media like linear pay TV media sales?   \n \\- Am I crazy to think I could add value to a DSP sales organization with my background?    \n \\- If not, what aspects of coming from a company like Spectrum Reach could i leverage?  \n \\- What roles would make for the best transition?  Assuming sales as that's my current role but perhaps I'm missing something about needing to start with a different role for the transition?  \n",
+      "num_comments": 5
+    },
+    {
+      "title": "TTD and Google hiring ",
+      "author": "Dry-Historian-8261",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gej81h/ttd_and_google_hiring/",
+      "created_utc": 1730165783.0,
+      "content": "I don’t work at neither but just saw them on linked in. I assume they are both related to the ads/programmatic world.  \n\nCheck out this job at The Trade Desk:  https://www.linkedin.com/jobs/view/3946828751\n\nCheck out this job at Google:  https://www.linkedin.com/jobs/view/4057035788",
+      "num_comments": 3
+    },
+    {
+      "title": "Programmatic career guidance ",
+      "author": "boredtraveladdict",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gelbf3/programmatic_career_guidance/",
+      "created_utc": 1730172277.0,
+      "content": "Hi! I currently work in the programmatic field and am in the late stages of interviews for one DSP, one IPG agency and one Publicis agency, all based in New York. I have already received a verbal offer from one and expect to see an offer letter this week. \n\nI am having trouble deciding which company would be the best fit for me. As I am a programmatic buyer, all of these roles are related to this obviously, so I think that the day-to-day responsibilities would be similar for each role. However, as much as I can, I want to make sure I am somewhere with a good culture (as much as possible lol) and also somewhere stable. I would love to know if anyone has any experience at any of these holding companies/at a DSP!",
+      "num_comments": 22
+    },
+    {
+      "title": "Is Programmatic dying?",
+      "author": "Wrong-Web1204",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1geq2k3/is_programmatic_dying/",
+      "created_utc": 1730192225.0,
+      "content": "Is the programmatic role dying with the implementation of AI and automation processes?",
+      "num_comments": 11
+    },
+    {
+      "title": "Programmatic hiring",
+      "author": "horse-regrets-5246",
+      "score": 11,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gevi8h/programmatic_hiring/",
+      "created_utc": 1730210911.0,
+      "content": "Hi, work at a small, all-remote agency with about $15MM in billings. We have been white labeling programmatic but would like to bring it in house. At this point, it would be part time…maybe 15-20 hours a week and totally fine if that person has other side hustles as well. Questions:\n- Should we look for someone in US or offshore?\n- Pay range for someone to manage programmatic, soup-to-nuts?\n- Suggestions for the best place to find someone? Recruiter, Indeed, LinkedIn?",
+      "num_comments": 18
+    },
+    {
+      "title": "TTD vs CM Conversion Reporting",
+      "author": "Loose-Station8259",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gf329a/ttd_vs_cm_conversion_reporting/",
+      "created_utc": 1730229842.0,
+      "content": "Hi All,\n\nBeen running a bunch of new CPA campaigns in TTD recently, using CM as the ad server.\n\n  \nAny particular reason we're seeing big discrepancies between reported Conversions in TTD vs. CM. In almost all cases TTD is reporting multiple conversions, while CM is reporting next to none, even in P2C CM reports.\n\nThanks for any insights! ",
+      "num_comments": 12
+    },
+    {
+      "title": "Frequency Cap Question",
+      "author": "LopsidedAd947",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gf9gem/frequency_cap_question/",
+      "created_utc": 1730246569.0,
+      "content": "Hi everyone, hope you’re having a great week so far!\n\nI have been trading for about a year now on DV360.\n\nFew weeks ago, I had a discussion with my teammate regarding to setting “no limit” frequency cap on both of our retargeting and prospecting insertion orders and line items. \n\nOne of my teammate kept on pushing the idea of setting as no limit as the machine learning would find the right frequency amount. While, I do think this is correct, but my concern was on ad collision and exhaustion. Hence, my recommendation was to set frequency cap and monitor the “frequency limited” impression lost chart and optimize accordingly.\n\nEspecially considering the fact that my client is selling home appliances which the product prices are not that cheap. Thinking from the user’s perspective, I would find it annoying to have to see multiple ads at the same time. \n\nAdditionally, we run the campaigns globally which consists of countries with huge audience pool and inventories like India and Indonesia.\n\nCould you let me know which option would be better?\n\nDo let me know if you require more info!",
+      "num_comments": 6
+    },
+    {
+      "title": "Frequency cap",
+      "author": "Viggu_13",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfa3x6/frequency_cap/",
+      "created_utc": 1730248447.0,
+      "content": "The campaign is 40 days in DV360 the frequency cap is an average of 4 per day. What will the frequency cap of 40 days. May I know the answer. ",
+      "num_comments": 4
+    },
+    {
+      "title": "DV360 traffic as \"google/cpc\" in GA4",
+      "author": "prg_marketer",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfnp94/dv360_traffic_as_googlecpc_in_ga4/",
+      "created_utc": 1730298130.0,
+      "content": "Hi.\n\n  \nStarting from 10th of October our DV360 traffic dropped to zero in all of our GA4 accounts (we use \"dv360/display\" source/medium). When looking at it closer, it seems that this traffic is now attributed to \"google/cpc\" source/medium. So something (auto-tagging?) overrides the UTM tags that we have set manually for our banners. This is a huge problem for us, as we have Google display campaigns also live and now GDN and DV360 are blended together under one source/medium with no option to differentiate the 2.\n\n  \nWhen linking DV360 and GA4 accounts, it shows that auto-tagging is \"ON\" by default and can't be edited (that's what Google sources also say).\n\nIs anyone experiencing the same situation and has some kind of solution for this?\n\n",
+      "num_comments": 11
+    },
+    {
+      "title": "AmbioEdu--Performance CTV",
+      "author": "No-Formal7830",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfpmc6/ambioeduperformance_ctv/",
+      "created_utc": 1730303022.0,
+      "content": "I recently came across AmbioEdu and their claims seem to be similar to MNTN before they were made to change them. \"The only performance TV platform built for higher ed.\" What type of \"platform\" is this? Have they built their platform on top of TTD? \n\nAre the following claims possible: \n\n* As the first and **ONLY** company in higher education to offer this capability, our integrated dashboard not only tracks essential metrics but also uniquely links CTV/OTT ad views to conversion metrics, from first ad exposure to enrollment.\n* Ambio select: you pick the channels of your choice, audience-specific networks, transparent channel reporting\n\n",
+      "num_comments": 3
+    },
+    {
+      "title": "DST Charges on DV360?",
+      "author": "constantqq",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfvwnc/dst_charges_on_dv360/",
+      "created_utc": 1730318768.0,
+      "content": "Hello! \n\nHoping someone can help urgently (thanks in advance).\n\nWe got a notification thar we’ll start seeing surcharges for DST in our upcoming Google invoices covering the month of October. So have a few questions:\n\n1. Is this a cost that is included when I pull for Billable Costs and/or Revenue on DV?\n\n2. How should I be accounting for this when setting up campaigns? Right now I believe our set up automatically includes platform fees when we add in budgets.\n\nAppreciate your help 😊",
+      "num_comments": 4
+    },
+    {
+      "title": "DSP Tiers?",
+      "author": "LateMathematician280",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfyhzd/dsp_tiers/",
+      "created_utc": 1730325451.0,
+      "content": "Is there a tier list for all the DSPs out there? Want to know what DSPs are prestigious/reputable!",
+      "num_comments": 18
+    },
+    {
+      "title": "What are STV devices?",
+      "author": "PurpleAnchor89",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gg4j8c/what_are_stv_devices/",
+      "created_utc": 1730342492.0,
+      "content": "Hi All,\n\nMight be a dumb question for when the buyer is asking for ‘Format:STV’, is this essentially just CTV devices? \n\nI have a campaign running on all devices but it was for STV ",
+      "num_comments": 2
+    },
+    {
+      "title": "Best Sites, Newsletters or pages to get Programmatic News",
+      "author": "Pantpp",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggbp9n/best_sites_newsletters_or_pages_to_get/",
+      "created_utc": 1730372256.0,
+      "content": "Hey Community I am new in the industry and wanted what are outlets that would help you stay up to date with the industry",
+      "num_comments": 13
+    },
+    {
+      "title": "Disabling Enhanced Attribution boosted CTR and drastically reduced invalid clicks",
+      "author": "Panda_Ro",
+      "score": 9,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggc0xy/disabling_enhanced_attribution_boosted_ctr_and/",
+      "created_utc": 1730373422.0,
+      "content": "Hey everyone! We have a very straightforward post-click conversion action — no multiple steps involved. Recently, I disabled Enhanced Attribution in CM, and since then, our CTR has nearly doubled across all campaigns, creatives, tactics, and regions. What’s even more surprising is that the number of invalid clicks, which we monitor using a 3P tool, has dropped by up to 10x. No other changes have been made to the campaign setup — nothing new launched or paused.\n\nHas anyone else experienced something similar? Any ideas on why this might be happening?",
+      "num_comments": 6
+    },
+    {
+      "title": "UTM codes dont show thru DV360",
+      "author": "Party-Ad2634",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggc0xs/utm_codes_dont_show_thru_dv360/",
+      "created_utc": 1730373422.0,
+      "content": "Hello everyone, \n\nWe have noticed that our UTM codes no longer show in our own or our customers GA4. \n\nWe only use DV360 for our display campaigns and now our customers can no longer see the traffic generated. \n\nDoes anyone experience the same or does anyone have a solution for this?\n\nWe use third party rich media’s and we do manually put in the landing page with the UTM included for each creative, yet nothing shows ",
+      "num_comments": 1
+    },
+    {
+      "title": "Hivestack Revenue Advice",
+      "author": "armoredsector",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggfrii/hivestack_revenue_advice/",
+      "created_utc": 1730384681.0,
+      "content": "Good morning everyone, \n\nCould use some advice regarding Hivesack revenue generation. I work for a company in Canada where we have around 100 screens based in Hockey Arenas all around the provinces. We have had some very good months with the platform but October was really slow. We currently have an open deal that is utilized well but does anyone have any advice on how to bring in additional revenue using deals etc? Thanks again for your time! ",
+      "num_comments": 2
+    },
+    {
+      "title": "Bidstream Data Analysis",
+      "author": "jlbomega",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggg9l0/bidstream_data_analysis/",
+      "created_utc": 1730385973.0,
+      "content": "Do any companies provide batch files of filtered bidstream data? We have a specific use case for research. We don't need it real time. A daily batch would suffice. ",
+      "num_comments": 0
+    },
+    {
+      "title": "reseller vs. direct with TTD and tech fees",
+      "author": "Automatic-Throat9750",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggheoz/reseller_vs_direct_with_ttd_and_tech_fees/",
+      "created_utc": 1730388904.0,
+      "content": "Does anyone have insight on how to work with TTD directly on self-service vs. reseller? Currently buying self-service seat through a reseller with high platform tech fee and zero transparency on what is actually being spent on inventory",
+      "num_comments": 3
+    }
+  ]
+}

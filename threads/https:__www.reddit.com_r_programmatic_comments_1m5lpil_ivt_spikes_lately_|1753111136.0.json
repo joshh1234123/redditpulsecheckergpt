@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "IVT spikes lately",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m5lpil/ivt_spikes_lately/",
+  "created_utc": 1753111136.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "slippycrook",
+      "body": "Human and DV tend to false positive in CTV \nIf you look at how hard it is do verification in image pixel and prebid data only and the fact that demand always have more clout it makes commercial sense.\n\nThe main way to combat it is to approach the vendors and share data to fix it. \nIf they ignore you use your DSP partners to facilitate the communication.",
+      "score": 6,
+      "created_utc": 1753112073.0
+    },
+    {
+      "author": "fromreaders",
+      "body": "Interesting. We are a publisher and traffic to a DSP who uses Human. From Jan to June we scored sub 1% for IVT. Since 1st July the Human score has rocketed to 80%+ \n\nWe've not changed anything our side. There's something seriously wrong with how Human have suddenly changed something their side. No way is our traffic 80% IVT. \n\nBut there's no arguing against it. If Human says it's fraud then...",
+      "score": 7,
+      "created_utc": 1753115365.0
+    },
+    {
+      "author": "Upper_Permit_9824",
+      "body": "Same here I’ve been working with some O&O publishers for more than 14 months and out of the sudden I have around 40% of them marked with IVT. Publishers that aren’t related and are legitimate known . \n\nFirst thing we saw was on Samsung bundles, then it expanded to other platforms.",
+      "score": 1,
+      "created_utc": 1753220001.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "what types of ads are you referring to? display, video, or CTV?",
+      "score": 1,
+      "created_utc": 1753267128.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "\"how hard it is do verification in image pixel and prebid data only\"  exactly, and everything in the bid request is declared and easily falsifiable. So it's not reliable for fraud verification.",
+      "score": 2,
+      "created_utc": 1753267307.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "many cases over the years where one verification vendor reported 80 - 100% IVT while at the same time another vendor reported 0 - 1% IVT.  And the change in one vendor's IVT rate was sudden, without any changes from the publisher's side.",
+      "score": 3,
+      "created_utc": 1753267224.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "happy to use FouAnalytics CTV pixels to help you measure and see what is happening.",
+      "score": 1,
+      "created_utc": 1753267382.0
+    },
+    {
+      "author": "Historical-Cry1708",
+      "body": "Video, CTV and even DOOh",
+      "score": 1,
+      "created_utc": 1753280643.0
+    },
+    {
+      "author": "fromreaders",
+      "body": "Thank you Dr Fou. Would you see this as an error on Human's part or a tweaking of their tech that's lead to an over sensitive response?",
+      "score": 1,
+      "created_utc": 1753433790.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "Yeah. That means they messed up on the bid requests ",
+      "score": 1,
+      "created_utc": 1753280729.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "no idea... because the legacy vendors are all black box .... and they don't explain anything about how they marked something as IVT versus not IVT",
+      "score": 2,
+      "created_utc": 1753709405.0
+    }
+  ]
+}

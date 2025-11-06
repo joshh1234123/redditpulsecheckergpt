@@ -1,0 +1,99 @@
+{
+  "id": "1onnosp",
+  "title": "Open Sincera Fetcher on GitHub",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
+  "created_utc": 1762203233.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "sulleh",
+      "body": " Congrats on your first GitHub release! I am from the Sincera team - it's nice to see people embrace and use the data.  \n\nIn terms of feedback, a couple of points: \n\n1. There will be more data available in an upcoming release (before xmas) where you'll be able to get mobile vs. desktop breakouts for the lighthouse metrics.  \n2. Dynamic Reporting + targeting scenarios - allowlists - are very popular + most common use case for buyers.  You can dynamically generate a new allowlist every day by setting thresholds for data / scores against the data.  \n3. If there are other scenarios or data you'd like to see, I'd love to hear about it!",
+      "score": 13,
+      "created_utc": 1762209067.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Good stuff! Was doing a similar thing with AppScripts & functions within a GSheet.",
+      "score": 6,
+      "created_utc": 1762250733.0
+    },
+    {
+      "author": "Peters_Jakob",
+      "body": "I'm actually working on my own Ad Density / Ad calculator for domains, that runs a client side script on a computer, rates the domain and objectively gives a score based on a lot of different parameters, e.g. Ad Density (ads vs content/viewport), Average distance between ads, amount of unique ads, high-impact vs normal ads etc.\n\nQuestion is, i'm thinking if this could be forked or similar, so while i'm running my client side script on my end, also calling the Open Sincera fetcher, to get a more avg score for users, and not a sliced data point, only from the single client perspective. To be added into the scoring system for a more \"real-world\" score.\n\nThe whole premis would be a public database for Ad scores of domains, e.g. based on top 100 largest domains in Denmark from the official list: [https://e-public.gemius.com/dp/rankings/446](https://e-public.gemius.com/dp/rankings/446)\n\n  \nBut really nice, havne't heard about this API before. Great work u/mcpapaya",
+      "score": 5,
+      "created_utc": 1762249204.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "This rocks, thank you!",
+      "score": 3,
+      "created_utc": 1762277714.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "Very Cool.. I'm a fan of making this data more accessible.   \n\n\nthat was my goal when i built the Chrome Plugin  \n  \n[https://chromewebstore.google.com/detail/open-web-data-viewer/nmkbikgbcfogdkinmgcocafomfnanlpc](https://chromewebstore.google.com/detail/open-web-data-viewer/nmkbikgbcfogdkinmgcocafomfnanlpc)",
+      "score": 2,
+      "created_utc": 1762376438.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "That device split is very welcome. Any plans to do anything with geo / language filtering? Probably one of the more important criteria to think about alongside quality for allow lists on a regional level.",
+      "score": 5,
+      "created_utc": 1762250835.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Thanks & nice to get feedback from the builders themself. 👍🏻\n\nLooking forward to the device split, that has been requested internally already as well - also helps to better match it with existing data/reports.\n\nWhat I'm thinking about is, to match it with existing reports to check correlations between ad density and CTR or Conversion-Rates and so on. I think there are a few nice potential reports to build on top of that data.\n\nI will definitely play around a little more and get back to you if we spot any other opportunities. 🙏🏻",
+      "score": 6,
+      "created_utc": 1762255208.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Thanks a lot! I had that option in mind as well, might give it a go. 👍🏻",
+      "score": 3,
+      "created_utc": 1762254926.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Nice! Yeah feel free to fork it and let me know what you build. 👍🏻 I didn't know about the list/website you mentioned as well, gonna check it out later. 🙏🏻",
+      "score": 3,
+      "created_utc": 1762255291.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "You're welcome! 🫡",
+      "score": 2,
+      "created_utc": 1762278054.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "Thanks :-)\n\nWill check out your Plugin tomorrow 👍🏻",
+      "score": 1,
+      "created_utc": 1762376871.0
+    },
+    {
+      "author": "sulleh",
+      "body": "Thanks for the suggestion + feedback!  Geo and language is tricky, for a couple of reasons.  Is the geo based on user location, \"publisher location\", or language? If I'm visiting NYTimes from a cafe in Paris, is that a \"US Geographic Publisher\" or a \"US Publisher with FR language\" (many pubs change language defaults based on geo) or \"French Publisher traffic\"? \n\n  \nThe feedback has mostly coalesced around \"publisher billing region / head quarters / primary market\" - so NYTimes is US, The Guardian is UK, La Press is FR, etc. \n\nI'm not trying to do the product manager \"well its complicated\" schtick, it just...is? \"Publisher geo\" is just not easily / universally ascertainable.  Open to feedback on how we can do this better.  We definitely have the data via sending a Synthetic User on say, a Paris IP.",
+      "score": 3,
+      "created_utc": 1762296601.0
+    },
+    {
+      "author": "sulleh",
+      "body": "Sounds great! our internal data shows a strong correlation with conversion performance and these metrics.  Note that *clicks* can be misrepresented, as high A2CR / AIV sites have greater CTRs, due to accidental clicks. Feel free to email [hello@sincera.io](mailto:hello@sincera.io) if you have other questions or feedback.",
+      "score": 2,
+      "created_utc": 1762296748.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Yeah that is fair feedback. I'd treat it as at least 2 different variables. Language can just be the language of the website / app. Geo can be primary market so your example would make sense. Completely understand it is a challenge, I know your competitors also have a similar challenge.\n\nWould also be the equivalent of TTD running an auction insights / inventory availability report of any bids listened to for a specific country in terms of inventory. To their credit, this is one of the strongest things Google do in DV360 with their inventory availability report.",
+      "score": 2,
+      "created_utc": 1762349187.0
+    },
+    {
+      "author": "sulleh",
+      "body": "the problem with variable 1 is the unpredictability:  there is the declared language via the <lang>, and then there is the rendered language based on geo access, etc.  for many properties, there isn't a universal <lang> setting, and it often contradicts what is rendered. \n\nThe second is more straightforward, although it blows out the cardinality of reporting - which is manageable. How would you prioritize the following features:\n\n1. add \"rendered in country\" data / deltas (many pubs will be the same, but valuable for outliers like daily mail) \n\n2. offer a sample of 3-5 URLs of data, so you can understand direct URL examples of data, not just the overall average (which can be over-represented by home pages) \n\n3. Additional CTV coverage and metrics \n\n4. Report on declared <lang>, as well as report on the volatility of the object.\n\n  \nDon't get me wrong, we'd like to, and will probably build, all of these - I just want to prioritize what is most important to users.",
+      "score": 1,
+      "created_utc": 1762349876.0
+    }
+  ]
+}

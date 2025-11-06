@@ -1,0 +1,39 @@
+{
+  "id": "1o94hr8",
+  "title": "DSPs with Food Delivery Integrations",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o94hr8/dsps_with_food_delivery_integrations/",
+  "created_utc": 1760715061.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Yarrenze_Newshka",
+      "body": "Can't say for social/search, but none of the DSPs I know have acces to the major delivery apps. From what I heard from marketing folks who worked for them, they (still) don't intend to change that. Thiey all have in-house solutions.",
+      "score": 4,
+      "created_utc": 1760719183.0
+    },
+    {
+      "author": "VFL2015",
+      "body": "Only DSP that has access to Onsite inventory for last mile is TTD has access to GoPuff onsite/app.\n\nTo serve ads On(site) on DoorDash, UberEats and Instacart you need to go through each of their own platforms.",
+      "score": 2,
+      "created_utc": 1760804579.0
+    },
+    {
+      "author": "YNWA311",
+      "body": "You can’t buy their inventory on any DSPs yet, but you can tap into their data via the major DSPs to serve ads elsewhere.",
+      "score": 2,
+      "created_utc": 1760720090.0
+    },
+    {
+      "author": "lifesizeisunderrated",
+      "body": "So for example, DoorDash can provide an audience to my advertiser in a DSP? Or am I accessing their data through an offsite PMP deal?",
+      "score": 2,
+      "created_utc": 1760725795.0
+    },
+    {
+      "author": "Pleasant-Action-742",
+      "body": "TTD has access to DoorDash and Uber audiences.  You can use those audiences across any offsite activations.",
+      "score": 1,
+      "created_utc": 1760787487.0
+    }
+  ]
+}

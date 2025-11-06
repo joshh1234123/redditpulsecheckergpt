@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Google Ads YouTube VCR Optimizations",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1klx4dv/google_ads_youtube_vcr_optimizations/",
+  "created_utc": 1747169636.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "jeypaul_1992",
+      "body": "Hi, my recommendation would be to check device level targeting. My learning is that Connected TV always delivers higher completion rates due to its format.  You can increase the bid multiplier on CTV or target only CTV to increase completion rate. But please be informed that CTV bids will be higher than Mobile/Tablet. So if you have leverage to increase bids, you can do device level optimization. Hope this helps.",
+      "score": 1,
+      "created_utc": 1747195489.0
+    },
+    {
+      "author": "MandomSama",
+      "body": " in-stream position, unskippable inventory, ctv device. Your CPM might increase but cost per completed video views will be decreased.",
+      "score": 1,
+      "created_utc": 1747201254.0
+    },
+    {
+      "author": "jefftak7",
+      "body": "What is your ultimate metric? Are you trying to get awareness? If so, why not do brand/search lift?",
+      "score": 1,
+      "created_utc": 1747226409.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Run non skip",
+      "score": 1,
+      "created_utc": 1747230162.0
+    }
+  ]
+}

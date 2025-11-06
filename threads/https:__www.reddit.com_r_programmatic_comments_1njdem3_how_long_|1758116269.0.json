@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "How long?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1njdem3/how_long/",
+  "created_utc": 1758116269.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "coolular",
+      "body": "If I don’t see good performance after 30 minutes, I turn it off.",
+      "score": 15,
+      "created_utc": 1758118485.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Learning period is usually 3-7 days.",
+      "score": 6,
+      "created_utc": 1758116644.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Depends on the platform, the advertiser, and how realistic the CPA goal is.",
+      "score": 6,
+      "created_utc": 1758128468.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "The post view window + some for conversion events, daily for spend tracking.",
+      "score": 3,
+      "created_utc": 1758123971.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Ayyyeee lol there's always one.",
+      "score": 1,
+      "created_utc": 1758129213.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Assume the goal is realistic. Platform is anyone but Google/Meta\n\nWhat's the range?",
+      "score": 1,
+      "created_utc": 1758129293.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Case by case depending on platform and advertiser. Sounds like this isn’t a specific use case. \n\nTwo weeks usually does it if they have a healthy conversion volume to model off of.",
+      "score": 2,
+      "created_utc": 1758134948.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Thanks. No not a specific use. Just trying to get a vibe of people's approach to testing",
+      "score": 1,
+      "created_utc": 1758151544.0
+    }
+  ]
+}

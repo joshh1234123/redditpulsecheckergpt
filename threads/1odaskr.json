@@ -1,0 +1,21 @@
+{
+  "id": "1odaskr",
+  "title": "Reach Metrics",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1odaskr/reach_metrics/",
+  "created_utc": 1761145509.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "alexgoestowork",
+      "body": "DV360's Co-viewed reach metrics is only applicable to Connected TV environments (Smart TV, Set-top box), so it can be useful for that as long as clients are aware of the methodology behind it (census data). I saw that Amazon DSP's cumulative reach metric also \"accounts for coviewing\", so it has most likely a similar methodology. \n\nHowever, you will not be able to unify reach across DSP, as reach won't be deduplicated.",
+      "score": 1,
+      "created_utc": 1761148718.0
+    },
+    {
+      "author": "shadyk17",
+      "body": "Yes deduplication is my biggest worry but atleast having a dashboard that tracks reach across all DSPs would be a start. My main use cases are for CTV - do you think co-view is a better metric that just reach or house hold reach? Does TradeDesk support co-view as well? I think all platforms have reach. Thinking of one reach number that is common across all DSPs. DV360 does not have Household, TradeDesk does not have just reach and I am unsure about Amazon.",
+      "score": 1,
+      "created_utc": 1761161159.0
+    }
+  ]
+}

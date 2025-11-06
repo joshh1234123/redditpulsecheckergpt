@@ -1,0 +1,15 @@
+{
+  "id": "1obvs27",
+  "title": "CTV socio demo data",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1obvs27/ctv_socio_demo_data/",
+  "created_utc": 1760999029.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Broth262",
+      "body": "It’s based on login as well as the profile within the account. So in a sense it’s dependent on the user to actually have multiple profiles. You could also combine some type of contextual targeting with it if you wanted to get to the user if multiple use a single account. I can say for the CTV Pub I used to work for I noticed my account fell into several demos that are not me that could’ve happened for many different reasons. Both 1st and 3rd party demo segments based on the same ID",
+      "score": 1,
+      "created_utc": 1761011167.0
+    }
+  ]
+}

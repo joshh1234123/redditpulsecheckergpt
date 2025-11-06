@@ -1,0 +1,33 @@
+{
+  "id": "1o921qu",
+  "title": "Is there a standard term for multi-campaign structures in DSPs?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o921qu/is_there_a_standard_term_for_multicampaign/",
+  "created_utc": 1760709484.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "Campaign groups is what I usually see in DSPs. DV360 is the only big one I've seen that doesn't call them that, but that's primarily because Insertion Orders sort of function like campaigns in that platform.",
+      "score": 4,
+      "created_utc": 1760710411.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "We call them campaign pools.",
+      "score": 1,
+      "created_utc": 1760792662.0
+    },
+    {
+      "author": "Plane-Environment538",
+      "body": "That’s what I’ve seen as well. Curious—do you find that ‘campaign group’ still applies when the campaigns span multiple channels (e.g., display + video + CTV), or do some DSPs introduce a different layer or naming convention for omni-channel orchestration?",
+      "score": 0,
+      "created_utc": 1760710926.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "I think it really depends on how you're trying to optimize things, honestly. I've used Campaign Groups primarily as a means to consolidate things in reporting and for budget management as opposed to directly optimizing them together. For example, I might put all my video ads in one campaign group and all my display ads in another campaign group, each with their own set of campaigns optimized to do their own things, and then I can roll up campaign groups for easier reporting across channels.\n\nOther advertisers choose to throw all of their components into a single campaign group so that they can set frequency caps across all placements if they have more of a reach-focused strategy in mind. I always found that odd because an impression from CTV is worth a lot more than an impression from display, but I'm also not really in that sort of advertising space.\n\nNot sure if I'm really answering your question on this, but I think a \"Campaign Group\" is either to manage reach and frequency or simply make it easier to roll up reporting across multiple channels through naming conventions. Outside of that, I don't know if there's really a big performance upside.",
+      "score": 1,
+      "created_utc": 1760713123.0
+    }
+  ]
+}
