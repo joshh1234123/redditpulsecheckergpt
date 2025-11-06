@@ -64,7 +64,7 @@ jobs:
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
-          items = items[-N:]  # last N by ascending created_utc
+          items = items[-N:]
           meta_items = []
           for p in items:
             q = dict(p)
@@ -160,8 +160,7 @@ jobs:
           print(f"Wrote {len(manifest['months'])} monthly META files and per-post THREAD files")
           PY
 
-      # Commit and push: pull first, then stage, then commit, then push with retries
-      - name: Commit and push if changed (handles non fast forward)
+      - name: Commit and push if changed (stash, rebase, retry)
         run: |
           set -e
           BRANCH="${GITHUB_REF_NAME:-main}"
@@ -169,11 +168,21 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Make sure we are up to date before staging
+          # Stash all local changes before pulling
+          git add -A
+          git stash push -u -m "autostash-before-pull" || true
+
+          # Rebase on latest remote
           git fetch origin "${BRANCH}"
           git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
 
-          # Stage generated files
+          # Re-apply our generated changes
+          # If there is no stash, this will be a no-op
+          if git stash list | grep -q "autostash-before-pull"; then
+            git stash pop || true
+          fi
+
+          # Stage only the generated files
           git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
 
           if git diff --cached --quiet; then
