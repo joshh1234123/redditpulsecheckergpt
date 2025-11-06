@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Conversion Report Aggregation",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1itbotb/conversion_report_aggregation/",
+  "created_utc": 1739987421.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "dnchw2",
+      "body": "so we are splitting out post view and click view conversion date?\n\ni like to think conversion date is more applicable than impression date.. to your point about taking credit from other channels, i never gave that much thought until now.. but it wouldnt surprise me that dsp's can figure this out.\n\n  \ni would imagine impression date might get messy if the campaign is over but the lookback window is still going?",
+      "score": 1,
+      "created_utc": 1739988063.0
+    },
+    {
+      "author": "workredditaccount555",
+      "body": "You can always include a time to convert metric. conversion time - impression time = days to convert. that way both are accounted for. I always use the conversion date for reporting out on conversion detail reports because that is how the dsp typically reports it in regular reporting. (i'm referencing TTD, might be different elsewhere)",
+      "score": 1,
+      "created_utc": 1740072782.0
+    },
+    {
+      "author": "zeplin_fps",
+      "body": "I agree, it can get messy… but if people are converting as a result of ads that your campaign drove, shouldn’t you still get credit for them? \n\nWhy should the final day of the campaign have the highest CPA? just because it only had 1 day to log conversions? That doesn’t make much sense to me. It’s messy, but conversions aren’t immediate actions like clicks… they shouldn’t really be neat\n\nI think the industry agrees with you that conversion date is better option. But I’m curious if that’s just because it’s easier and what has always been done. Because it doesn’t make much sense to me. \n\nIf you look at one particular day in a campaign and calculate the CPA, you’re dividing the amount spent that day by the amount of conversions that occurred that day. But what does that even tell you? What if the conversions that day were all made by people that saw ads from the previous day? Why should this day get the credit? It just doesn’t seem reliable to me",
+      "score": 1,
+      "created_utc": 1739996821.0
+    },
+    {
+      "author": "dnchw2",
+      "body": "I rarely see/ask/report on a particular day's performance.. its always a time period comparing to another time period. While you're last day campaign might have a high CPA, i rarely hear about daily CPA goals that programmatic has to achieve. \n\n\n\nOther \"last click\" channels might have this goal, but i would want to understand why someone wants to measure performance daily especially to your point of time delay in \"conversions\".  \n\nAlso, if i'm not mistaken, i believe dsp's need time to optimize performance, which would require a longer timeframe to see if the execution is hitting the goals\n\nAlso, conversion window for this client/product/service and server lookback window might require pulling longer timeframes to properly attribute.\n\nYou're talking about who gets credit for the buy, which everyone has an opinion on. Which means there's no one right way of being right vs wrong. \n\nIn my opinion, conversions to conversion date should be synced with a transaction, or when something of value (whether that is pii data or money) is exchanged. Great to know when someone saw it, but i'm looking at a tangible bottom line vs a metric from an ad server.",
+      "score": 1,
+      "created_utc": 1740009644.0
+    }
+  ]
+}

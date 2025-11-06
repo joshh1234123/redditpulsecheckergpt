@@ -1,0 +1,231 @@
+{
+  "id": null,
+  "title": "What DSPs are fully transparent?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hammhu/what_dsps_are_fully_transparent/",
+  "created_utc": 1733784004.0,
+  "num_comments": 42,
+  "comments": [
+    {
+      "author": "GreenFlyingSauce",
+      "body": "I don’t think any major DSP player would hide costs. If you’re talking about tech, data, 3p integrations, and things like that, most would provide through reporting. \nBid costs, are you referring to bid logs?",
+      "score": 18,
+      "created_utc": 1733787783.0
+    },
+    {
+      "author": "Ok-External3080",
+      "body": "I work for one of the major DSPs and this is a common discussion with clients. Some DSPs like TTD will be transparent about the margins, but they have minimums as well as other fees which can add up easily. Some others will include a lot of features but have an undisclosed variable-margin bid mechanism.\n\nI recommend that you should test 3-4 DSPs at the same time and see which platform gives you what you need the most, at the best price first. You may be surprised with the results since the obvious ones might not be the answer. This will help you identify targeting capabilities, available insights, recommended optimizations and support. Once you have the results, pick 2 of the platforms that closely align with the KPIs you are looking to hit.\n\nLastly, the volume of money you spend would give you room to negotiate. Once you know what your acquisition costs are, you can negotiate volume discounts on amount payable. I have negotiated similar margin contracts before where they get a 5% discount for spend over $ XX or 10% discount on payable over $ YY spend and so on. But this really works when you have a large budget. For smaller budgets or campaigns running with regionality, I do feel that having more features and better support goes much further than a pre-negotiated margin.",
+      "score": 6,
+      "created_utc": 1733842924.0
+    },
+    {
+      "author": "poo_unit",
+      "body": "Adform DSP is fully transparent, validated by PWC IIRC.",
+      "score": 4,
+      "created_utc": 1733933346.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Beeswax",
+      "score": 7,
+      "created_utc": 1733812489.0
+    },
+    {
+      "author": "glacierfresh2death",
+      "body": "Most real DSPs are pretty transparent, are you looking for one with no minimum buys?",
+      "score": 5,
+      "created_utc": 1733790358.0
+    },
+    {
+      "author": "D_Adman",
+      "body": "You really shouldn't trust any company- having said that, sometimes there isn't an option and you have to work with people.",
+      "score": 2,
+      "created_utc": 1733828493.0
+    },
+    {
+      "author": "nooneknowitme",
+      "body": "Transparency is an interesting thing, what do you mean by that? Are you referring to the ability to pull fee reporting on a granular level? Or want the UI to call out if there is a charge associated? Are you looking to see how much the DSP is making from everything? All DSPs obscure things to a degree but there is rarely a time where they are charging you for nothing. ex. Dv360 pushes more bids toward their owned SSP to make money on both sides of the impression. TTD has predictive clearing which will use platform wide bids to lower your bids to get the lowest price and takes a 25% fee on the savings you got. Both can save you money, but you have to pay a fee to get that.   \n  \n  \nI think your tech fee is going to be dependent on spend potential among other factors. Working for one of the larger DSPs, tech fee is flexible depending on portfolio size, region, sector, etc. The more budget/growth potential the more a DSP is willing to negotiate. If you have multiple DSPs it may seem like a positive but unless you have enough budget you could be missing out on massive savings. Furthermore it becomes hard to optimize performance when you have to juggle multiple DSPs. If you have 1st party data too, it can become costly to upload to multiple DSPs.\n\n  \nUltimately for performance buys, it sometimes pays more to pay more. DSPs all offer differing levels of support, tech, and features that make it hard to recommend without knowing your orgs specific needs. You can give rough recommendations, ex. Use the Google ecosystem for ad serving and need YouTube; DV360 is a good fit. Or have a lot of retail data and want to leverage exclusive data segments, Amazon might be best. But neither of these offer great support and troubleshooting, if you need best in class support, TTD is probably best. Need to white label DSP and don't want to break the bank, beeswax might be a good fit.",
+      "score": 2,
+      "created_utc": 1733850246.0
+    },
+    {
+      "author": "Carsnocap",
+      "body": "There's a reason TTDs growth has far outpaced every competitor. They are the best, period. Cleanest inventory, most transparent, best UI, best support (if you spend enough), best measurement suite etc. Its not even close. I honestly don't know why youn would even consider any other DSP if you have $100k/mo or more to spend. And if you don't have the minimum spend, partner with a good reseller of TTD",
+      "score": 2,
+      "created_utc": 1733973579.0
+    },
+    {
+      "author": "Keithy2",
+      "body": "Most DSPs are not remotely transparent.\n\nAdform is transparent IMO.  Only DSP to take part in all 3 waves of the ISBA study on supply chain transparency, PWC audited multiple times, MRC accredited for measurement, proprietary fraud control with access to log files.  From a data perspective, you have access to all your data (log level).  Not attached to any media, and all fees are outlined in platform",
+      "score": 2,
+      "created_utc": 1739910545.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Schain and pchain are what you are looking for…….",
+      "score": 1,
+      "created_utc": 1733797275.0
+    },
+    {
+      "author": "TheEliteEmu",
+      "body": "This is a good way to get attention from Account Execs, of which I am one! I work at Illumin and can show you a transparent self-serve DSP with no minimums. I will say that if you want minimal margins then the quarterly spend needs to be correct as well. \nHappy to talk anytime or if you’re in Toronto we can grab a coffee or something.",
+      "score": 1,
+      "created_utc": 1733829781.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "10% for tech fee only or does that include other fees like data etc... Cuz 10% is really good if you can get that rate for all in.",
+      "score": 1,
+      "created_utc": 1733845583.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "None. That’s their secret.",
+      "score": 1,
+      "created_utc": 1733868721.0
+    },
+    {
+      "author": "Significant_Design17",
+      "body": "pontiac",
+      "score": 1,
+      "created_utc": 1733947797.0
+    },
+    {
+      "author": "PersonalMagician788",
+      "body": "Pontiac Intellegence",
+      "score": 1,
+      "created_utc": 1734040572.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "When you talk about fee transparency you have to consider a lot of different things. A DSP add extra revenue in a number of ways beyond just the DSP fee or the bids. Some of the more obvious examples would be adding a markup on tools, data and more that is offered in the platform. If you for example offer brand safety, audience data and other things then you can buy it for X CPM from those vendors and sell it for Y CPM with the difference being your margin. Or you might even buy it at a flat rate and sell it at a CPM to all your customers. A DSP could also get a lower CPM in from the SSP but sell at the same CPM as others (who get a higher CPM in). There could of course be a number of different ways revenue share is done between different companies in the ecosystem. Then you could have a number of other fees for anything from more advanced reporting data to support and more that is not clear when you sign up but once you need it down the road you find out. If the DSP is built on top of a white label platform they would in turn be paying a fee as well to another platform, like an indirect DSP fee.",
+      "score": 1,
+      "created_utc": 1734103143.0
+    },
+    {
+      "author": "PaulDolanAdTech",
+      "body": "Looks like I'm late to the party here but please consider AdTheorent - we are 100% transparent, excellent support, and many of our clients use the platform at effective fees under 10%.",
+      "score": 1,
+      "created_utc": 1734106346.0
+    },
+    {
+      "author": "PoetryFree9057",
+      "body": "For mobile, Smadex is known as the most transparent option",
+      "score": 1,
+      "created_utc": 1734112651.0
+    },
+    {
+      "author": "Mundane-Gear4503",
+      "body": "Go for adobe advertising dsp it does not own media and gives out what you have asked.I can patch you if you want .",
+      "score": 1,
+      "created_utc": 1734167508.0
+    },
+    {
+      "author": "ezhilmathi",
+      "body": "Hi u/ryans91 , My company uses Radian which is a White Labelled DSP from Kayzen and have our own Algos plugged in with full transparency, also there is no minimum Spend in our DSP :)",
+      "score": 1,
+      "created_utc": 1734597195.0
+    },
+    {
+      "author": "Snoo-43895",
+      "body": "Adtransfer is fully transparent and you have total control on your bids. You can take a look at their demo section to see what it offers",
+      "score": 1,
+      "created_utc": 1736424315.0
+    },
+    {
+      "author": "klustura",
+      "body": "None",
+      "score": -1,
+      "created_utc": 1733788872.0
+    },
+    {
+      "author": "Lanwel",
+      "body": "You should check out Microsoft Advertising Platform DSP. They have no tech costs.",
+      "score": 0,
+      "created_utc": 1733799915.0
+    },
+    {
+      "author": "sabisunsets",
+      "body": "We provide self and managed service DSP options. No minimums. Plugs into all major SSPs.\nDM me if you’d like to discuss",
+      "score": 0,
+      "created_utc": 1733820010.0
+    },
+    {
+      "author": "Meech7561",
+      "body": "Epsilon",
+      "score": 0,
+      "created_utc": 1733965820.0
+    },
+    {
+      "author": "Carsnocap",
+      "body": "TTD is the most transparent by far. The only DSP id consider",
+      "score": 0,
+      "created_utc": 1733973330.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Stackadapt is a good example of a DSP that doesn't disclose its margins/platform fees in return for low minimums, etc.",
+      "score": 11,
+      "created_utc": 1733801016.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "You could argue DV360 hides cost when it buys from AdX, but at the same time no TTD discloses SSP fees so it’s not a totally fair criticism even if they own the SSP.",
+      "score": 7,
+      "created_utc": 1733793702.0
+    },
+    {
+      "author": "ryans91",
+      "body": "No not exactly, but maybe I'm just looking for something with lower tech costs? Ideally looking for self-serve buying, with in the range of 10% fees for using their tech.",
+      "score": 0,
+      "created_utc": 1733793914.0
+    },
+    {
+      "author": "ryans91",
+      "body": "Monthly flat rate? What company is this?",
+      "score": 2,
+      "created_utc": 1733808972.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Stackadapt is scum",
+      "score": 2,
+      "created_utc": 1733912339.0
+    },
+    {
+      "author": "nooneknowitme",
+      "body": "Slightly disagree. They own both sides of the relationship so they know when to maximize profits. It's like playing texas holdem and they can glance at the card before flipping. They don't know what 2 card you're holding but they know the next card and their hand which is an advantage.",
+      "score": 4,
+      "created_utc": 1733850732.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "You are not only using their tech to buy impressions in really time across many indexes and exchanges, your ad creative/media is also hosted by them and served by them. Paying 15% isn’t a bad deal.",
+      "score": 5,
+      "created_utc": 1733799837.0
+    },
+    {
+      "author": "tswpoker1",
+      "body": "Probably something like choozle",
+      "score": 1,
+      "created_utc": 1733800180.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Those are pretty harsh words. Is there a specific reason you feel that way?",
+      "score": 3,
+      "created_utc": 1733932778.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "I fully agree I was just caveating the anticipated arguments against that stance.",
+      "score": 2,
+      "created_utc": 1733850781.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "They’re Canadian",
+      "score": 0,
+      "created_utc": 1735217144.0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "What to do with DV360 log data?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iu013i/what_to_do_with_dv360_log_data/",
+  "created_utc": 1740062541.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "Depends on what data capabilities you have within your team. Could partner with people to better understand the scope of URLs you delivered on from a context perspective, use it for MMM, use it to analyze the quality of your supply chain and transparency. Feel free to shoot me a DM if you wanna learn more",
+      "score": 2,
+      "created_utc": 1740063308.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Ad Verification, supply path optimization and advanced analytics come to mind. More complex but custom algorithms / custom attribution models are also doable.",
+      "score": 2,
+      "created_utc": 1740165611.0
+    },
+    {
+      "author": "captainjck",
+      "body": "What is log level data?",
+      "score": 1,
+      "created_utc": 1740098907.0
+    },
+    {
+      "author": "Alarming-Fennel5291",
+      "body": "can you pull log level data from DV360 though?",
+      "score": 1,
+      "created_utc": 1740166620.0
+    },
+    {
+      "author": "Ok_Reply_3383",
+      "body": "Can I dm you too? really interested in this topic.",
+      "score": 1,
+      "created_utc": 1740631764.0
+    },
+    {
+      "author": "Toasted_Waffle99",
+      "body": "Can u provide more detail? I don’t see much value using it for placement reporting…we can already do that with basic reporting.\n\nI’m talking about opportunities for ML or deeper analysis for business outcomes",
+      "score": 1,
+      "created_utc": 1740076276.0
+    },
+    {
+      "author": "Toasted_Waffle99",
+      "body": "Any specific examples that improved a kpi? Is it just impression level or do u get conversion attribution too?",
+      "score": 1,
+      "created_utc": 1740197400.0
+    },
+    {
+      "author": "Toasted_Waffle99",
+      "body": "Yes it’s a separate api",
+      "score": 1,
+      "created_utc": 1740197360.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I'm talking about full URL and placement reporting to understand contexts and adslots actually driving outcomes and engagement rather than just domain level insights with creative size and fold placements. There's a lot you can do with log-level data to understand audience behaviour and patterns on content consumption and how it relates to potential outcomes. Combine this with ML & you could start looking at more advanced curation of your supply, the contexts you are buying for certain audiences and potential creative variations. Yes basic reporting can do some of these things, but nowhere near the level of granularity of log-files.",
+      "score": 2,
+      "created_utc": 1740124551.0
+    }
+  ]
+}

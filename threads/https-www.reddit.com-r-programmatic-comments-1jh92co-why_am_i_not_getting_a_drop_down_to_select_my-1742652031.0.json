@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "Why am I not getting a drop down to select my CM360 Tracking placement for Native Video?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jh92co/why_am_i_not_getting_a_drop_down_to_select_my/",
+  "created_utc": 1742652031.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "childroid",
+      "body": "Are you saying, when you're building your native video campaign in DV3, that you're not seeing the CM placement populate during the ad creation process?\n\nI'd go to your partner-level settings in DV3 and make sure your CM (I think) advertiser ID is applied. It's been a while since I've done this process so let me know if you need more detail and I'll go remind myself and get back to you.\n\n>Do I include the whole thing including <script>?\n\nYou should copy the entire tag, yes.",
+      "score": 1,
+      "created_utc": 1742654341.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Drop down doesn't exist for native video. Either do the 1x1 manually or let the ghost advertiser tracking take care of it .",
+      "score": 1,
+      "created_utc": 1742657785.0
+    },
+    {
+      "author": "jakz__",
+      "body": "So when you make a display tracking ad in CM360, it comes up in a dropdown on DV360 when making a native display ad. But this is my first time doing native video, and I don’t see the option to get add CM360 tracking ad. So I’m assuming I need to use the tag from the CM369 trafficking sheet, so would be good to know what specifically I’m meant to use from the trafficking sheet to ensure tracking is good",
+      "score": 1,
+      "created_utc": 1742656057.0
+    },
+    {
+      "author": "jakz__",
+      "body": "How would I go about doing the 1x1 manually? What part of the CM360 trafficking sheet should I be pasting as the impression & click tracker? Haven’t done this before :/",
+      "score": 1,
+      "created_utc": 1742762804.0
+    },
+    {
+      "author": "childroid",
+      "body": ">would be good to know what specifically I’m meant to use from the trafficking sheet to ensure tracking is good\n\nI don't have a lot of experience with native video, but you should be able to use the CM placement ID as the creative you're applying to a DV line item. It should already be in your creative library, no?",
+      "score": 1,
+      "created_utc": 1742656661.0
+    },
+    {
+      "author": "msp011581",
+      "body": "Use the 1x1 Image Tag in the CM360 Tag Sheet. Be sure to replace [timestamp] with the DV360 Cachebuster macro ${CACHEBUSTER}\n\nIn DV360, for Native Video, when building the Creative, click \"Creative Details\", click open \"Serving Properties\". Enter the CM360 Image Impression Tracker, just the URL, in the \"Impression tracking URL 1 (Optional)\" field.",
+      "score": 2,
+      "created_utc": 1742829293.0
+    },
+    {
+      "author": "jakz__",
+      "body": "Nah so for Native Video, you don’t get a dropdown to select the CM Placement ID. But they do have options to manually paste in tracking links - but unsure how to do this part/what part of the tag to paste in for this!",
+      "score": 1,
+      "created_utc": 1742762877.0
+    }
+  ]
+}

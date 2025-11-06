@@ -1,0 +1,75 @@
+{
+  "id": null,
+  "title": "How to mail tags to publishers?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gpqc7e/how_to_mail_tags_to_publishers/",
+  "created_utc": 1731432945.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "DutchSwiftie",
+      "body": "Hi! I am not sure what tags you mean exactly but I need to send clicktrackers to publishers. When you’ve set up your placement, creative and tracking, you can go to the top right where it says tags (I think so, not 100% sure but I can double check tomorrow if needed) and then click download tags.\nFrom there you can download a tag per placement and select what you want in there.\nI download them as a text file and then test the ‘for clicks’ url that it shows.\nKeep in mind that if you test the url (copy paste into a browser) it can take some time sometimes to work as CM360 needs to sync. Sometimes for me it works after an hour but I also had cases where it took much longer.\n\nHope this helps!",
+      "score": 1,
+      "created_utc": 1731442990.0
+    },
+    {
+      "author": "thearavindramesh",
+      "body": "Yes clicktrackers, that the tag I am talking about. My question is to whom to send the tags to? Do we need to send each publishers separately? For example, assume I want to show my ads in bbc\\[.\\]com. To which mail id I must send the tags to? Do these publishers have individual email ids where we can send the tags to?",
+      "score": 1,
+      "created_utc": 1731470801.0
+    },
+    {
+      "author": "No-Apartment-4817",
+      "body": "Hello, thank you very much for your explanation, in my case I work with a large number of publishers, so in direct purchase campaigns I have to send the tag to each of them individually, downloading the CM360 tags in Excel and separating them manually, from what you say, is there any way to download the tags by placement? an excel for placement or something similar?",
+      "score": 1,
+      "created_utc": 1731802071.0
+    },
+    {
+      "author": "DutchSwiftie",
+      "body": "Oke check! Yes I usually send them to the publishers myself and give each of them a separate tag with a different url so I can track the performance per publisher. They should have an email for a progammatic team usually or I sometimes send them to my contact person. If you cannot find it, i sometimes just use their general email to ask who is the best to share this with.\n\nHowever if you use their inventory within dv360 then I don’t send clicktrackers.",
+      "score": 2,
+      "created_utc": 1731482536.0
+    },
+    {
+      "author": "DutchSwiftie",
+      "body": "Hi! I don’t download them in excel but I download them as a text file. When downloading them you can select that as an option. I do download them as a placement.\n\nIt is quite a lot of manual work and I am not sure if there is a quicker way to download them in bulk",
+      "score": 1,
+      "created_utc": 1731832281.0
+    },
+    {
+      "author": "thearavindramesh",
+      "body": "Can you explain your last sentence? What's the inventory within DV360? Where can I find it?",
+      "score": 1,
+      "created_utc": 1731510970.0
+    },
+    {
+      "author": "No-Apartment-4817",
+      "body": "hi! Thank you very much for your response, the truth is that I hope it will be possible to download it through placement in the future in a faster way, greetings!",
+      "score": 1,
+      "created_utc": 1731878689.0
+    },
+    {
+      "author": "DutchSwiftie",
+      "body": "Sometimes I run campaigns with a publisher and to track it, I then use the clicktrackers.\n\nBut other times I will make a deal with them (most often PMP) so I can run the deal in DV360 itself and then I can just sync my creatives from CM360 to DV360 and I don’t have to make extra clicktrackers",
+      "score": 2,
+      "created_utc": 1731511181.0
+    },
+    {
+      "author": "DutchSwiftie",
+      "body": "In addition to that there is a tab called inventory in DV360 where you can import deals you make with publishers :)",
+      "score": 2,
+      "created_utc": 1731511214.0
+    },
+    {
+      "author": "thearavindramesh",
+      "body": "Thank you very much for spending some time to clarify my doubts. Appreciate it.",
+      "score": 1,
+      "created_utc": 1731511336.0
+    },
+    {
+      "author": "DutchSwiftie",
+      "body": "No problem at all! Good luck :)",
+      "score": 2,
+      "created_utc": 1731511361.0
+    }
+  ]
+}

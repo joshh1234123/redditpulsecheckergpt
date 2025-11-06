@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "Data Enrichment Companies (LiveRamp alternatives?)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mbrujv/data_enrichment_companies_liveramp_alternatives/",
+  "created_utc": 1753735519.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "Ok_Hurry2000",
+      "body": "I would look into a 1st-party data company that partners with LiveRamp, like The BRIDGE Corp. They have no minimums or monthly fees, unlike some of the other data providers out there.",
+      "score": 2,
+      "created_utc": 1753736981.0
+    },
+    {
+      "author": "Limeade91",
+      "body": "There's quite a few providers, but we would need to know about the scale of your records. Are we talking 1,000 or 100,000?\n\nYou can find partners regardless of scale, but I would question data fidelity for the smaller players as they have less ingestion points for attributes.\n\nI work at Epsilon, who I would say leads the category for offerings. Feel free to DM if you have questions.",
+      "score": 2,
+      "created_utc": 1753741511.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "Which DSP are you using?",
+      "score": 1,
+      "created_utc": 1753740578.0
+    },
+    {
+      "author": "Ok_Broccoli_9542",
+      "body": "There are many, but one I am particularly fond of is [https://5x5data.com/](https://5x5data.com/)",
+      "score": 1,
+      "created_utc": 1753796120.0
+    },
+    {
+      "author": "CatfishMcCoy",
+      "body": "Bridg/Cardlytics (if Retailer or QSR client), Acxiom (if Fintech client), Experian",
+      "score": 1,
+      "created_utc": 1753837018.0
+    },
+    {
+      "author": "procyon82",
+      "body": "I actually reached out to Bridge but they quoted me $500/month per audience. It wouldn't be feasible for me especially if a client has 3-4 audiences. Do you know anybody else I could reach out to? I'm also working my way through the LR partner directory.",
+      "score": 1,
+      "created_utc": 1753791150.0
+    },
+    {
+      "author": "procyon82",
+      "body": "I don't have one. I'm primarily interested in Google Ads Customer Match.",
+      "score": 1,
+      "created_utc": 1753791193.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "DM me. I may be able to help you out with our data.",
+      "score": 1,
+      "created_utc": 1754110100.0
+    }
+  ]
+}

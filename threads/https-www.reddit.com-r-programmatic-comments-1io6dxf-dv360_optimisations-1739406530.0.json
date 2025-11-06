@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "DV360 Optimisations",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1io6dxf/dv360_optimisations/",
+  "created_utc": 1739406530.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "This might be a hot take because I know there are a lot of die hard DV360 people out there, but there really aren’t that many levers to pull in this platform to granularly optimize. \n\n  \nDV360 is very much a “trust me bro, I got u” type platform (to its detriment). Optimizations that would be more fluid in other platforms are a bit more manual in DV. It becomes a hunt to look for what’s messing with your campaign in the reporting, and inversely— look for good performance and then create a tactic just for that, whatever it may be.\n\nFor example— \n\nLook at inventory and exclude websites that are detrimental to your kpi. Let’s say you’re focusing on CPM— sort for the sites that have a sky high CPM with no engagement and exclude them. \n\nwhat geo is showing strong activity? Carve that out into its own line item. \n\n…etc.",
+      "score": 12,
+      "created_utc": 1739407818.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "So there’s lots of things that can be categorized as an optimization, but basically it just means making a change to help the campaign perform better. \n\nAn easy example of this is creative optimization - pull a creative report looking at spend, impressions, clicks and conversions of available. If one set of ads is performing much worse, take it out. \n\nTesting different audience types within a campaign - you can target the same general audience different ways, like contextual vs audience based, providers or a lookalike audience amongst others. Run different types in a campaign, pull a report looking at the metrics above and turn off the worst performers / enhance the top performers with more budget. \n\nYou can also pull reports with the same metrics for anything like geography, ssps, sites, device types etc. The thought process is the same, turn off/blacklist the worst performers and enhance the top performers with more budget or bud factors. \n\nDm me if you want to talk some more, but I think this is a good place to start",
+      "score": 7,
+      "created_utc": 1739413155.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "First of all be nice to yourself don’t say you should be an expert after 2 years. That’s not a lot of time. Why? Because you need to learn from real experience and that takes time. Theory, coaching and courses can teach you to some extent but the real experience comes from managing real budgets with expectations, real money that means something for your clients. A meeting with someone (client, colleague, vendor etc) with valuable experience who shares knowledge with you can give you insights you will use for the rest of your career. That meeting can happen after 1 year, 2 years or 5 years. \n\nFor optimization ask yourself questions then go figure out how to answer them, what data do you need, where can you find it:\n\n- What is the most important parameter in my targeting to influence conversions or other goals and what is its weighting versus other parameters? (dm me if you get stuck on this one and I’ll share how I calculate this)\n\n- What are the best performing geos/demographics/audiences? What are your ”red zones” (to avoid) and ”green zones” (to target). Similar to the ”no trade zones” for financial traders.\n\n- What is the quality of the traffic I’m getting? Look at things like discrepancies between ad clicks and GA sessions (dm me if you don’t have a tool to track this automatically). Try to minimize bad traffic (bots, fraud etc and yes you will get it even if you use pre-bid filtering like IAS, DV etc).\n\n-A/B test creatives, images, text, formats.\n\n- Inventory curation. Deals, publishers and so forth. \n\n- Track performance progress with your own charts etc. Communicate that to clients.\n\nKeep on learning and stay curious. Hope to work with challenging clients with a lot of knowledge. \n\nA client once asked their Google Ads agency in a pitch for details about how they use the Google Ads API’s. The agency had to do some quick learning after that meeting! But knowledge was boosted quickly. Thanks to the client.",
+      "score": 5,
+      "created_utc": 1739426043.0
+    },
+    {
+      "author": "1toremember",
+      "body": "I approach optimisation as trying to guide your spend to the areas you want it to get to.\n\nDV360 pushes auto optimisation so KPI selection is important. Great if you can set up custom bidding. Then monitor the campaign to see if it's doing what you want / expect.\n\nFor example if optimizing to video completions, Google is going to be searching out low CPCV to drive views. Ideally your spend will concentrate on line items with best CPCV. If not you can make manual adjustments to push or throttle lines beyond what Google is naturally doing:\n- changing max CPMs or bids \n- increase / decrease freq. caps\n- add daily budget caps\n- expand or niche down on audience segments\n\nWithin a line you can go further and look at URL/app delivery. Block the worst URLs (performance or your own deemed quality).\n\nUse common sense too. If your budget is being thrown at a dubious mobile app getting 100% completion rates but something seems off - it probably is. You may have to override the KPI optimisation with strategy / governance.\n\nBe clear on your main KPIs, use efficiency (e.g. CPM, CPCV) and engagement (e.g. VCR, Viewability) to balance actions. And develop your own opinions over time to identify low quality inventory that presents good metrics.\n\nSome campaigns only need a small direction push, and mostly you'll want to monitor delivery. So you don't always need to change lot of granular settings. \n\nGenerally the more you block, the less flexibility the bidding model has so you don't want to unnecessarily inhibit your delivery. Feel free to DM if you have specific Qs.",
+      "score": 4,
+      "created_utc": 1739447317.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "As others have rightfully pointed out, DV360 isn't the easiest to leverage complex optimizations with. As they've very much gone the trust our algorithm and optimized bidding solutions. Meaning most of the optimizations you might wanna do that aren't just some exclusions of times of day, sites etc. you'll end up creating split-off line items with settings you wanna prioritize.\n\ni.e., you've seen region X perform vastly better in terms of sales compared to region Y & Z so you split your line item into line item targeting X with higher bids and line item Y&Z with lower bids to push investment into this specific region. This pretty much applies for most optimizations, list of sites, GEOs, audiences, device-types, creative sizes and so on.\n\nJust start experimenting with pulling some data, monitoring what trends you observe that outperform your KPIs and splitting this into separate line items and see what it does to overall IO/campaign performance. Do this for a couple of months, increasingly exploring new options that work for your advertiser and before you know it you're very well versed in knowing what to-do to optimize for any KPI",
+      "score": 2,
+      "created_utc": 1739442436.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Based on a lot of these answers no wonder my managed campaigns do dogshit. Y’all have 0 clue. Yeeesh",
+      "score": 2,
+      "created_utc": 1739623478.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "This is the correct take. I'd argue MOST programmatic executions don't allow for super granular optimizations beyond just narrowing down your placements, adjusting your targeted ad exchanges, testing out bidding strategies, moving money around between line items or IOs, and trying new creative. Everything is AI-driven these days, so the platforms do most of the dirty work for you.",
+      "score": 3,
+      "created_utc": 1739454301.0
+    },
+    {
+      "author": "Bubbly-Bee-3948",
+      "body": "Thank you!!",
+      "score": 1,
+      "created_utc": 1739444239.0
+    },
+    {
+      "author": "Bubbly-Bee-3948",
+      "body": "This is great. Thanks a lot!!",
+      "score": 1,
+      "created_utc": 1739444301.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Boooooo",
+      "score": 1,
+      "created_utc": 1739412692.0
+    }
+  ]
+}

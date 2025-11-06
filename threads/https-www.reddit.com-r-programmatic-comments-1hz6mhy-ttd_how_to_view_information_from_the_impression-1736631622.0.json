@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "TTD - How to view information from the impression and clicks such as user info",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hz6mhy/ttd_how_to_view_information_from_the_impression/",
+  "created_utc": 1736631622.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Max_Pluto",
+      "body": "You can not get PII data (such as IP address) in any report. You can see impression and conversion timestamp data within a path to conversion and conversion details report. OS data and site level data can be pulled into a basic performance report, but be weary of how much data you’re fetching as anything > 1mm rows will break the data pull. \n\nIf you want impression log data, you’ll need to ask your rep for REDS data. It’s not something you can get off the shelf from their reporting suite.",
+      "score": 14,
+      "created_utc": 1736631950.0
+    },
+    {
+      "author": "HuskyInfantry",
+      "body": "it’s called the conversion details report. Select the main site retargeting pixel as the conversion source.\n\n  \nyou can now see details of their first impression and the same details of their last impression. \n\nit won’t give you PII like IP obviously, but itll give you website, device, I think browser too but I can’t recall off the top of my head",
+      "score": 3,
+      "created_utc": 1736650811.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "you can use FouAnalytics in-ad tags with TTD macros to get all of that summarized neatly for you (including whether the user is a bot or a human) [https://www.linkedin.com/pulse/how-start-using-fouanalytics-dr-augustine-fou/](https://www.linkedin.com/pulse/how-start-using-fouanalytics-dr-augustine-fou/)  DM me\n\nwe built it because the platforms didn't and you want an independent way to verify what the platforms tell you anyway.",
+      "score": 2,
+      "created_utc": 1736790873.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Log reports i think come at a cost as well if i am nit mistaken",
+      "score": 4,
+      "created_utc": 1736632482.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "How does this look when adding identity alliance to boost scale? Is it possible to see how reach appears before and after adding ID graph partners?",
+      "score": 1,
+      "created_utc": 1736788196.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "What doesn't come at a cost on TTD is the question",
+      "score": 12,
+      "created_utc": 1736633711.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "Depends on what you spend",
+      "score": 3,
+      "created_utc": 1736640975.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "I think it’s just a setup fee. And, It’s also a shit ton of data that isn’t easy to ingest and understand without a bunch of other tools.",
+      "score": 3,
+      "created_utc": 1736646359.0
+    },
+    {
+      "author": "Max_Pluto",
+      "body": "When you pull a forecast in Solimar, you can choose if you want to leverage TTD’s person or household graph (or no x-device graph). That will tell you, directionally, your audience size and forecasted scale depending on the CPM, f/cap, geo, inventory, etc you provide. \n\nThe tool is not totally accurate, but neither are most forecasting tools. But that should give you some idea. \n\nFor conversion data, you would choose too which x-device graph you wanna use. But you can also do duplicates of the same conversion event measured with a different graph, which will allow you to see conversion counts at the person, HH, or no-graph level.",
+      "score": 2,
+      "created_utc": 1736967204.0
+    }
+  ]
+}

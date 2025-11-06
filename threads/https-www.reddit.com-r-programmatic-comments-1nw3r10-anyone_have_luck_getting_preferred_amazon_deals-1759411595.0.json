@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "Anyone have luck getting \"Preferred\" Amazon Deals VS Private Auction?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nw3r10/anyone_have_luck_getting_preferred_amazon_deals/",
+  "created_utc": 1759411595.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "spohnat",
+      "body": "I believe PDs require an agreement of a minimum projected spend to access this broadcast year.",
+      "score": 3,
+      "created_utc": 1759415290.0
+    },
+    {
+      "author": "huntsty",
+      "body": "They deprecated the fixed price \"preferred\" Prime Video deals in ADSP in the last week or so. Now its just the private auction or you'll need to set up a PG deal.",
+      "score": 2,
+      "created_utc": 1759443194.0
+    },
+    {
+      "author": "Obvious_Speaker2043",
+      "body": "What kind of spend?",
+      "score": 1,
+      "created_utc": 1759416702.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Ok thnx. Yeah other tool i found that has self service via API to Amazon had their own negiogiated deals but when I ran on that platform I could turn on Prime TV and see my ad almost guranteed during a top show. With the Private Auction I rarely saw my ad ever play.",
+      "score": 3,
+      "created_utc": 1759424449.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Yeah my rep just told me what you said. I gotta see if they will work with me on PG deal.",
+      "score": 1,
+      "created_utc": 1759443392.0
+    },
+    {
+      "author": "Vanswers0115",
+      "body": "Probably 6 figures a month",
+      "score": 1,
+      "created_utc": 1759476642.0
+    }
+  ]
+}

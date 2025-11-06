@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "Netflix",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1koa9pp/netflix/",
+  "created_utc": 1747425518.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "DankAlbertSinatra",
+      "body": "Don’t know about internal but their tech stack is so far behind everyone else, brutal to run programmatically as of now",
+      "score": 19,
+      "created_utc": 1747426245.0
+    },
+    {
+      "author": "the_hungry_havanese",
+      "body": "Apparently their internal reporting isn’t up to date and won’t provide adomain reporting which is hindering them to set up 1:many deal IDs.",
+      "score": 6,
+      "created_utc": 1747427726.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "Just become available in DV360 and other DSPs so must be progressing in any case. Still behind other streaming platforms on that front though",
+      "score": 2,
+      "created_utc": 1747484029.0
+    },
+    {
+      "author": "ToughRevolutionary81",
+      "body": "will they catch up? or too far behind",
+      "score": 2,
+      "created_utc": 1747426517.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "They'll catch up but they never have to be the best as long as they have exclusive premier inventory",
+      "score": 9,
+      "created_utc": 1747427330.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Give it time. They'll get it figured out. It's too lucrative not to build it out.",
+      "score": 4,
+      "created_utc": 1747442682.0
+    },
+    {
+      "author": "_Purell",
+      "body": "How is it exclusive if people with high HHI, buy the premium w/o ads",
+      "score": 1,
+      "created_utc": 1747500429.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "It's exclusive because they have 94 million ad-tier subscribers that they can gatekeep",
+      "score": 1,
+      "created_utc": 1747501828.0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": null,
+  "title": "Anyone running ads via DV360 and trying to have them run during MLB Playoffs?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nymw9g/anyone_running_ads_via_dv360_and_trying_to_have/",
+  "created_utc": 1759667310.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "andtheylovedit",
+      "body": "Something’s technically broken, it’s not your bid price. Why aren’t you working with your rep?",
+      "score": 3,
+      "created_utc": 1759670445.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Special events are always significantly higher than normal game placements.\n\nYou can try $70 but it may be as high as $100-120 CPM",
+      "score": 3,
+      "created_utc": 1759737471.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "It’s either broken pipes or technical specs issue , wrong targeting or some kind of category / advertiser domain block\n\nIn my company we buy directly from MLB and for $40 you should have plenty of wins. Even if your media bid after DSP and SSP fees is probably $25-$30",
+      "score": 4,
+      "created_utc": 1759672856.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Did you get deals specially for games?",
+      "score": 1,
+      "created_utc": 1759742349.0
+    },
+    {
+      "author": "Coolarooni",
+      "body": "If you're buying a deal can't you see the issue in the troubleshooter tool?",
+      "score": 1,
+      "created_utc": 1759754360.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "$100+ big dawg...its live sports + playoff baseball",
+      "score": 1,
+      "created_utc": 1759768354.0
+    },
+    {
+      "author": "ECUFan2017",
+      "body": "For one, ESPN doesn’t have any MLB games in post season… the bid rates I’m seeing are in the $60-$70 range. StackAdapt has an IP for live sports, every league including college too. \n\nJust can’t run during WS finals. That’s all sold directly.",
+      "score": 1,
+      "created_utc": 1760196482.0
+    },
+    {
+      "author": "cuteman",
+      "body": "$40 for playoffs?\n\nSpecial events and playoffs are always more expensive than regular season",
+      "score": 2,
+      "created_utc": 1759737536.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "I figured. Just was curious how high i had to go with CPM",
+      "score": 1,
+      "created_utc": 1759768419.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Totally true\nBut winning a few ads with low win rate is decent \n\nFor playoffs most of the slots are probably presold but some in less desirable DMAs or devices with strict privacy are likely to hit the market with lower floors.",
+      "score": 1,
+      "created_utc": 1759744688.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "Been watching both the NLDS and ALDS on CTV, between TNT + Fox I see the same 4-5 advertisers running with no freq caps all game.  Hell even the HBO Max/TNT partnership hosting the NLDS has *unsold inventory*, with a grey screen placeholder 'we'll get back to your program shortly'",
+      "score": 1,
+      "created_utc": 1759768501.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Sure but unlike direct as long as you set the floor/ceiling CPM you won't necessarily buy at those prices unless everyone else is bidding up. \n\nAt low CPMs you're buying crummier remnant, at higher CPMs its likely better placements depending on how their waterfall is set-up.",
+      "score": 1,
+      "created_utc": 1759809683.0
+    },
+    {
+      "author": "cuteman",
+      "body": "There's still fairly significant floor CPM rates, for example you can't buy for $5-10 even though they're empty. \n\nNo frequency caps is one of the issues with buying direct versus through a DSP in my experience.\n\nPluto TV is notorious for absolutely blasting certain ads over and over... looking at you Toyota and Cut Water",
+      "score": 1,
+      "created_utc": 1759809761.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Agreed\nThe question was about zero imps",
+      "score": 1,
+      "created_utc": 1759851930.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "The normal floor for live baseball CTV across pubs like ESPN, [MLB.tv](http://MLB.tv), Fox Sports etc averages $40-45.  Look at my comment below, I'm running these placements thru TTD PMPs, CPMs currently coming in @ $100-$115 on won impressions",
+      "score": 1,
+      "created_utc": 1759853691.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Yep, that would by my estimate as well for any kind of premium live events like Superbowl, Olympics, etc\n\n$80 min, but more likely $100-120",
+      "score": 2,
+      "created_utc": 1759950130.0
+    }
+  ]
+}

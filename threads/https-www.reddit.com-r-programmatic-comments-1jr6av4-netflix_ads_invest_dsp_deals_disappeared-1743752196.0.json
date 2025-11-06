@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Netflix Ads - Invest DSP Deals Disappeared",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jr6av4/netflix_ads_invest_dsp_deals_disappeared/",
+  "created_utc": 1743752196.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "bonezbonez",
+      "body": "I switched from xandr to dv for Netflix but just recently found out that vast rotations are not actually supported although the the ad server still reports impressions. Seems like Netflix deals are in shambles everywhere",
+      "score": 6,
+      "created_utc": 1743776918.0
+    },
+    {
+      "author": "redditaccount_92",
+      "body": "I know Netflix was planning to transition to its own in-house ad server (or already has) instead of using the Xandr Monetize pub ad server, but I thought Invest would still have access to buy as a DSP. Are you sure the deals you were targeting didn’t just expire at the end of Q1? Maybe there are new Q2 deals available.",
+      "score": 3,
+      "created_utc": 1743771483.0
+    },
+    {
+      "author": "impimpao",
+      "body": "The same happend here, the deals are off and you have to negotiate directly with Netflix each and every PMP deal. They're team are very slow to answer, unfortunately.",
+      "score": 2,
+      "created_utc": 1752089960.0
+    },
+    {
+      "author": "elchapoguzman",
+      "body": "\"vast rotations are not actually supported although the the ad server still reports impressions\" what is Fraud alec?",
+      "score": 4,
+      "created_utc": 1743848604.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "That is crazy!! Hoping there are answers for us all by early next week.",
+      "score": 1,
+      "created_utc": 1743777126.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "The communication from Invest DSP was a bit cryptic - they said we needed to work directly with Netflix Ads to run campaigns, but then mentioned deals could be run through our seat. Considering we were never told the deals would expire I’m not jazzed to continue with Invest.",
+      "score": 1,
+      "created_utc": 1743772238.0
+    },
+    {
+      "author": "redditaccount_92",
+      "body": "In that case my guess is the sales relationship between MSFT and Netflix just formally ended so whatever deals MSFT had set up in the past are no longer valid. Sounds like poor communication from MSFT regardless. I think your only other programmatic options for NFLX inventory as of now are TTD or DV360. Out of curiosity, are you also buying PrimeVideo via Amazon DSP?",
+      "score": 5,
+      "created_utc": 1743773065.0
+    },
+    {
+      "author": "Salmonidae",
+      "body": "I would recommend pushing to have your case escalated past the initial support, i have found them to be inconsistent in how helpful they are. I think when MSFT bought Xandr they off shored support and let a bunch of the original support team go",
+      "score": 1,
+      "created_utc": 1743873101.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Last we looked, Amazon DSP had minimums even through an aggregator agency. It’s crazy as we buy a decent volume overall but don’t want to be locked into minimums. If we can’t get answers from Netflix in 1-2 business days we will move budgets to Disney / Hulu which has been great. Reps and everything.",
+      "score": 2,
+      "created_utc": 1743773555.0
+    },
+    {
+      "author": "Salmonidae",
+      "body": "You can buy Netflix through Invest the relationship definitely has not ended",
+      "score": 1,
+      "created_utc": 1743873394.0
+    },
+    {
+      "author": "jaxjaxjax95",
+      "body": "Not to butt in but appreciate this convo! Little greener here and learning up, fun to follow!",
+      "score": 2,
+      "created_utc": 1743825317.0
+    },
+    {
+      "author": "redditaccount_92",
+      "body": "Yup, I’m with you. I meant the sales relationship where MSFT sales reps were repping NFLX inventory directly. NFLX had been scaling that relationship back since last year, and I was speculating that OP’s deals disappeared because that sales relationship had formally ended (resulting in new deals needing to be created by NFLX directly).",
+      "score": 2,
+      "created_utc": 1743930452.0
+    },
+    {
+      "author": "Salmonidae",
+      "body": "oh, i understand! msft would stop pushing netflix once they left monetize for sure. i bet it radically changed the fee structure\n\nSuper weird that deals would get deleted without notice though, i feel like normally they would just stop functioning. still existing, but dead.",
+      "score": 2,
+      "created_utc": 1743946287.0
+    }
+  ]
+}

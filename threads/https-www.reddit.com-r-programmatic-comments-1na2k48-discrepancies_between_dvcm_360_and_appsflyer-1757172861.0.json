@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "Discrepancies between DV/CM 360 and Appsflyer",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1na2k48/discrepancies_between_dvcm_360_and_appsflyer/",
+  "created_utc": 1757172861.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "How do you dedupe?",
+      "score": 1,
+      "created_utc": 1757181846.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "MMP and GMP probably have the worst integration tbh and has limitations based on how Floodlights work. There will always be a discrepancy because of that.\nUltimately the postback has to include a device id for Google to use properly on a Floodlight, which nowadays is not going to be a lot, especially on iOS. You also have different attribution methodology between GMP and Appsflyer.",
+      "score": 1,
+      "created_utc": 1757253315.0
+    },
+    {
+      "author": "faktastic",
+      "body": "MMP will attribute to any platform it’s integrated with. What kind of inventory? GMP does not send pingbacks for certain channels like CTV and won’t work well on iOS. ",
+      "score": 1,
+      "created_utc": 1758155212.0
+    },
+    {
+      "author": "KindBetDov",
+      "body": "What is a dedupe?",
+      "score": 1,
+      "created_utc": 1757188021.0
+    },
+    {
+      "author": "KindBetDov",
+      "body": "What kind of limitations, could you share? \nAlso, what do you mean they have different attribution methodology?\nI guess discrepancies will happen to any channel, but I am talking about having 2 events on the MMP and 230 on CM hahah it is just crazy, that is why I am looking for some insights. \nAnd, just to add that we are only targeting Android, so no SKAN ios issues.",
+      "score": 1,
+      "created_utc": 1757264777.0
+    },
+    {
+      "author": "KindBetDov",
+      "body": "That is a good point. It is app only, and Android. But I have found the main issue and it is because of the way DV/CM is considered a SRN with no tracker",
+      "score": 1,
+      "created_utc": 1758198002.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "First are you comparing Apples to Oranges? Which exact reports / views / metrics are you comparing between Appsflyer / CM360?\n\nIf it is anything to do with attribution, then Appsflyer will dedupe based on anything it sees (any linked partners) + organic + SSoT (if enabled). CM360 will dedupe between any advertiser / campaign tied to the floodlight configuration, which is likely different to what Appsflyer sees. Given you are sending all events as the postback, CM360 will then try dedupe in its own world based on device\\_id existing & last touch.",
+      "score": 1,
+      "created_utc": 1757317082.0
+    },
+    {
+      "author": "KindBetDov",
+      "body": "The metrics and dimensions are correct (floodlight activities are mapped correctly on Appsflyer), and so the reports are correct.\n\nThat is why I think it is attribution (either model or window), although both MMP and DSP are last touch.\n\nBut from your comment, I think I could try and remove sending all events.",
+      "score": 1,
+      "created_utc": 1757356283.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "What exact reports though on each platform? There are so many and depending on what you are looking at, it may be expected.",
+      "score": 1,
+      "created_utc": 1757400562.0
+    }
+  ]
+}

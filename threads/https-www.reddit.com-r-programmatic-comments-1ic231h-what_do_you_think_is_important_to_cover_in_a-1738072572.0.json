@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "What do you think is important to cover in a programmatic measurement project?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ic231h/what_do_you_think_is_important_to_cover_in_a/",
+  "created_utc": 1738072572.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Net reach measurement (Aquila / Origin / AudienceProject)\nOpen source MMM (Robyn / Meridan)\nAPI / Cohort led attribution (SKAN / ARAPI)\nRegression Based Attribution (Google RBA)\nData Clean Rooms (AMC / ADH / InfoSum / LiveRamp)",
+      "score": 5,
+      "created_utc": 1738097406.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Anything related to cross channel frequency control (particularly related to CTV).",
+      "score": 5,
+      "created_utc": 1738073270.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Publisher Advertiser Identity Reconciliation",
+      "score": 2,
+      "created_utc": 1738146237.0
+    },
+    {
+      "author": "profmur",
+      "body": "It really is dependent on the measurement framework and the individual test and learn desires for each account/brand.",
+      "score": 2,
+      "created_utc": 1738073652.0
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": null,
+  "title": "Buying podcasts programmatically",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j94ugj/buying_podcasts_programmatically/",
+  "created_utc": 1741735420.0,
+  "num_comments": 26,
+  "comments": [
+    {
+      "author": "DingleBerry___x",
+      "body": "Open exchange availability is always a plus… budgets in audio (at least with our clientele) come and go pretty fast as they are short run local. Doing a deal doesn’t always work as it takes too long to negotiate and get setup in time.",
+      "score": 5,
+      "created_utc": 1741739820.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "Can I ask what your backend is like to run those programmatic impressions?  Like where are you hosting, how do you route etc.  I'm interested in knowing how this is run.",
+      "score": 3,
+      "created_utc": 1741742663.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "I would like to see 1st party targeting capability.",
+      "score": 3,
+      "created_utc": 1741745583.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Vertical level packaging of inventory and offerring pmps would be nice. Clients love targeting contextually relevant podcasts.",
+      "score": 2,
+      "created_utc": 1741760178.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Audio budgets come and go so sporadically and lack of knowledge on how programmatic audio works outside of Spotify are the main burden when speaking to client(s). Also this notion that no valuable customers hasn't got a podcast platform subscription to avoid ads needs to be tackled",
+      "score": 2,
+      "created_utc": 1741776015.0
+    },
+    {
+      "author": "tech-mktg",
+      "body": "I strongly recommend doing podcast sponsorships as direct buys, and get host-recorded reads for the spots.  We've done some tests of running pre-recorded (non-host read) spots across many podcasts, and the results were nowhere close to our host-read ads.  There's some magic to having the hosts read the ads, people are less likely to skip them, and are more likely to be influenced by the ad to take action as it sounds like a personal endorsement.\n\nYour mileage may vary, but we'll be sticking with direct buys for mid-roll creative with host-read creative.  Also making sure the hosts aren't sticking 6+ ads in the middle (some publishers like iHeart may do this with their podcasts), 3-4 seems fine though.",
+      "score": 1,
+      "created_utc": 1741801315.0
+    },
+    {
+      "author": "zeplin_fps",
+      "body": "In my experience, clients’ biggest concern is brand safety. They want to know exactly what shows they would be running on, and often just pick a few shows. So it seems to be simpler and cheaper to go with a direct buy.",
+      "score": 1,
+      "created_utc": 1741877341.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "Thank you for your feedback! I do think we benefit from the open market deals but know there is more potential that may be hampered by our podcasts not being able to accommodate MAID targeting. We can only target down to IP address in podcasts. Do you think programmatic buyers will come around to doing podcast specific deals without MAID targeting so they can access scale in podcasts specifically? ",
+      "score": 2,
+      "created_utc": 1741740665.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "We host the shows so have VAST connections to ad servers and SSPs through which we connect to DSPs.",
+      "score": 4,
+      "created_utc": 1741743443.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "We can integrate with liveramp but match rates have been low in my experience. We only get the IP address back from the user when they download a podcast from the RSS feed, so we are limited to household level targeting.",
+      "score": 1,
+      "created_utc": 1741776805.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "This is where we have had the most success scaling campaigns. We either set up PMPs by genre or can even curate show lists based on advertiser feedback or brand safety standards. The open market always on deals tend to be non-transparent so you don't really know where your ads are running or if they are in the high quality podcasts you'd actually want.",
+      "score": 1,
+      "created_utc": 1741776916.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "Spotify getting into podcasts has muddied the water for sure. Advertisers think they are reaching podcast listeners when they buy spotify, but spotify users are primarily using the app for streaming, so when they listen to a podcast, they are doing so in a more casual manner. The traditional podcast listener is SUPER engaged, seeking out a specific episode, downloading it, and listening to the entire thing, often only exposed to a few ads within an hour. Many of the publishers out there are cramming in 20+ ads an hour which is not appropriate for podcast content as it isn't like radio which is formatted for a lot of little chunks of content interrupted by ad breaks. I think this is also where PMPs set up directly with a podcast publisher that offers low ad load is of value. Because then you are actually testing high quality podcasts and can develop learning around podcast performance vs audio everywhere or streaming campaigns.",
+      "score": 1,
+      "created_utc": 1741777192.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "I agree 100%, nothing works better than host-read ads, but our programmatic CPMs tend to half or less of host read rates. If placed in shows that have low ad load we've seen good performance with these campaigns. I think a lot of the poor performance comes from poor inventory with shows that cram a ton of ads in, so listeners end up skipping over them or they are stacked in postroll pods with 6 ads back to back. Having that direct relationship with the seller is important even in a programmatic scenario so you have confidence in the inventory.",
+      "score": 2,
+      "created_utc": 1741806809.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "For our clients with brand safety concerns, we typically run our show list against Barometer's brand safety filtering customized to the clients needs in order to curate a brand safe show list. We can then run the campaign programmatically or directly which to your point, might as well go direct at that point to save on fees.",
+      "score": 1,
+      "created_utc": 1741893436.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "Yes this all the time. If we add any sort of audience or run via a DSP we cannot scale but if we apply no targeting or buy from the self serve platform the. We can. Also don't most people listen on mobile?",
+      "score": 1,
+      "created_utc": 1741747484.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "Thanks.. which adserver are you using?",
+      "score": 2,
+      "created_utc": 1741743492.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Do you have smart speaker inventory? Or are you able to chop devices? Like targeting people using car devices to listen to audio channels. Could be something interesting to explore and create a product.",
+      "score": 1,
+      "created_utc": 1741785717.0
+    },
+    {
+      "author": "Particular_Recipe233",
+      "body": "The Spotify stream is not that different from a download. If people listen to their podcasts on Spotify, they likely stream it. The only issue you face with Spotify is the autoplay which is annoying - and the algorithm seems to prioritize Spotify hosted (Megaphone) and those that participate in their ad network OVER what you actually listen to. \n\nThat said, I don't think programmatic buying is right for this market. I know that isn't the question but working in podcasts - I can tell you firsthand, you want a direct relationship with the host. (I know that isn't the question and is an entirely different discussion that requires different work but felt necessary to mention).",
+      "score": 1,
+      "created_utc": 1741882284.0
+    },
+    {
+      "author": "tech-mktg",
+      "body": "I think when we tested it, I think the performance was under 50% of our host-read inventory.  That's awesome though if you can find shows with low ad load and get really favorable CPMs.  You might consider using the programmatic strategy to find these low ad load podcasts, and when they do perform for you, reach out and buy directly from them with host-read creative.  Could be a great way to find and source the best podcasts for your business!",
+      "score": 1,
+      "created_utc": 1741811494.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "This is where I think PMPs are of value because we can apply podcast-appropriate targeting on our end which is usually genre-based, contextual, or IP-based geo-targeting (along with attractive CPMs, freq caps, ability to trouble shoot, etc). Transparency is also important - with a PMP, we can curate a show list so you know exactly what you are running in whereas with open market always on deals, podcasts can get lumped into audio everywhere which can be low quality made-for-advertising websites, in app audio placements, all kinds of things that are not the high quality podcast environment you actually want. \n\nAnd yes most listen on mobile, but the only PII we get back from the user when they download via RSS feed is their IP address, so we are limited in what we can target against at the user level. As a result, we can only really do household level targeting. But with contextual targeting we can get more specific. ComScore has cool predictive contextual segments we use based on their panel that volunteers demo, purchase behavior, interest, in-market, etc against granular contextual environments they consume (all podcasts are transcribed now so we can dynamically insert into contextual environments that over index for B2B Decision makers in market for SaaS software for instance).",
+      "score": 1,
+      "created_utc": 1741776716.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "Adswizz",
+      "score": 3,
+      "created_utc": 1741743616.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "Yes we can target devices, this is the typical information included in VAST tag that we can target against in addition to contextual targeting:\n\n  \nCachebuster Macro: %%cachebuster%%\n\nIP Address: %%ip%%\n\nUser Agent (Device): %%ua%%\n\nPodcast ID: %%podcastid%%\n\nEpisode ID: %%episodeid%%\n\nDelivery Time (Timestamp): %%delivery\\_time%%\n\nAdvertising Tag: %%advertising\\_tags%%\n\niTune Category: %%itunes\\_categories%%\n\nMedia URL: %%mediaurl%%\n\nRSS URL: %%rssurl%%\n\nSession ID: %%sessionid%%\n\nType: %%type%%\n\nPosition within Pod: %%position%%\n\nVAST Podcast Advertiser Category Exclusions: %%blocked\\_categories%%",
+      "score": 2,
+      "created_utc": 1741787941.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "Thank you",
+      "score": 1,
+      "created_utc": 1741743781.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "Do you have insights you can share on how you prefer to buy podcasts programmatically given this context?",
+      "score": 1,
+      "created_utc": 1741744152.0
+    },
+    {
+      "author": "notmyrealaccout69",
+      "body": "I think this pmps are going to be the primary method for the foreseeable future.  Until we can start passing full content signals it's going to be difficult to target anything outside a pmp. .",
+      "score": 2,
+      "created_utc": 1741744360.0
+    },
+    {
+      "author": "AULIONMAN",
+      "body": "We do have a lot of pmps and a few pgs but the pmps tend to be kind of soft in terms of delivery. We recommend layering podcast-specific targeting on our end which helps in the cases where that direction is taken.",
+      "score": 1,
+      "created_utc": 1741745080.0
+    }
+  ]
+}

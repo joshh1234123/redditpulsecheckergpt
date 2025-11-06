@@ -1,0 +1,81 @@
+{
+  "id": null,
+  "title": "Custom YouTube Channel Lists for any Audience",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mnf8ed/custom_youtube_channel_lists_for_any_audience/",
+  "created_utc": 1754924206.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Smart move, though now you will directly be competing with the DoubleVerify / Zefr / Channel Factory / Pixability of this world.\n\nYou may also want to think about automating the application of the channel list into Google Ads / DV360, it is the worst part of the process and unfortunately can be problematic with larger lists when using bulksheets vs API. Some of those competitors have attempted to build solutions in that space also for reference.\n\nI'd also proposition both type of lists, as inclusion lists are not supported on every YT enabled campaign type i.e. a PMAX or Demand Gen.",
+      "score": 4,
+      "created_utc": 1754927024.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Turn off “content suitable for families” which eliminates G & PG. Kinda stinks they group those ratings together. Completely helps Google but not our clients. We sometimes don’t buy YouTube and go with other outlets for this reason.",
+      "score": 2,
+      "created_utc": 1755057500.0
+    },
+    {
+      "author": "Glenolsson",
+      "body": "Just out of interest, how's the tool grabbing the channels if not using the API? \n\nI'd previously played around with API but it still requires a lot of manual input to find the right channels",
+      "score": 1,
+      "created_utc": 1754943418.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "how this tool analyzing channels?",
+      "score": 1,
+      "created_utc": 1755014782.0
+    },
+    {
+      "author": "rcmisk_dev",
+      "body": "hey why not share your curated lists via [https://datapages.io](https://datapages.io) ! ... similar to demo here: [https://indiehacker-influencers.datapages.io/](https://indiehacker-influencers.datapages.io/)\n\nSuper easy to create generate, make private, collect emails, and share publicly!",
+      "score": 1,
+      "created_utc": 1755197083.0
+    },
+    {
+      "author": "Impossible_Fan1418",
+      "body": "cool concept, but if you’re talking youtube + audiences + niche targeting, [swapd ](http://swapd.co)is where you’ll find people with already-curated or monetized channels ready to plug into campaigns without waiting for organic reach",
+      "score": -1,
+      "created_utc": 1754960427.0
+    },
+    {
+      "author": "alexgoestowork",
+      "body": "I second this point about automating the application of the channel list. SDF exports from DV360 are super messy with YouTube channel lists as the SDF format makes it to so it exceeds character limits per cell. It makes it super time consuming to manually apply custom channel lists across tons of campaigns.",
+      "score": 2,
+      "created_utc": 1754934093.0
+    },
+    {
+      "author": "1toremember",
+      "body": "Yeah it's true - I've not used all of those but when I have they've charged on CPM/CPV and need you to add manual data fees in DV360 and share daily reports to track delivery to invoice against. \n\nI think there's a gap for a simpler way (which also works out cheaper). My tool is self-serve and currently takes 5 mins to audit all your channel delivery and 5 mins to create new bespoke channel lists. \n\nThanks I will definitely look into that more! I've used the API a bit but ideally need an advertiser to work with to test it.\n\nAnd also good point! I still have the exclusion lists ready to use so will make them available for users to download too.\n\nGreat feedback by the way, really appreciate the comments!",
+      "score": 1,
+      "created_utc": 1754928621.0
+    },
+    {
+      "author": "Affectionate-Ads2424",
+      "body": "We’ve done this and it does help, but some channels that are clearly made for kids still get through in our delivery reports.",
+      "score": 2,
+      "created_utc": 1756258934.0
+    },
+    {
+      "author": "1toremember",
+      "body": "Yes the API isn't great for channel discovery. I spent a lot of months collecting channel IDs through various methods to find as many channels as possible - then analysed metrics to select the ones worth targeting (the tool selects the most contextual relevant ones of these). I have repeating daily tasks to keep my database updated and find new rising channels.",
+      "score": 1,
+      "created_utc": 1754945707.0
+    },
+    {
+      "author": "1toremember",
+      "body": "We use metadata from the channels and videos to extract context and run processes to categorise and score relevance for individual audience prompts.",
+      "score": 1,
+      "created_utc": 1755016325.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Fair, whenever i've worked with them, I have convinced them to invoice on a % of media basis based on a number I provide. But depending on the advertiser / agency, the cost of this \"tool\" may be needing to be factored in any KPI calculation or come out of the working media, so then having it in the platform becomes mandatory. Though CPM Fees will always remain not possible to add manually into DV360 Line Items so that then becomes a separate manual process.\n\nBut this is a good idea as long as you provide transparency / have the ability to refresh the lists often, I have experimented a little myself in this area.",
+      "score": 2,
+      "created_utc": 1754929772.0
+    }
+  ]
+}

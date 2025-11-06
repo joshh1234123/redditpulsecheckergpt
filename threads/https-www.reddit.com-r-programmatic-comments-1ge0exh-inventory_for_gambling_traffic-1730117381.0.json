@@ -1,0 +1,141 @@
+{
+  "id": null,
+  "title": "Inventory for Gambling traffic",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ge0exh/inventory_for_gambling_traffic/",
+  "created_utc": 1730117381.0,
+  "num_comments": 25,
+  "comments": [
+    {
+      "author": "SucksAtGaming",
+      "body": "You can run PMP deals with OneTag, Multilocal Media and Index exchange on gambling allowed inventory. \n\nAlternatively look at DSPs like Sportsradar where they have a higher focus on gambling. I'm not sure it's any good though. \n\nWe've run with Adform for our gambling campaigns. Outside of DSPs you can look at the messy world of ad networks, they often run a lot of Casino and Gambling verticals.",
+      "score": 4,
+      "created_utc": 1730117717.0
+    },
+    {
+      "author": "Ok-External3080",
+      "body": "I used Stackadapt and they have inventory packages to avoid these exact scenarios",
+      "score": 3,
+      "created_utc": 1730176504.0
+    },
+    {
+      "author": "appu49",
+      "body": "Opera browser on their own inventory they allow gambling and betting ads, as far as i remember they have network publishers as well for those types of ads",
+      "score": 2,
+      "created_utc": 1730127569.0
+    },
+    {
+      "author": "Correct-Tax6119",
+      "body": "The team at atcurate.com are doing exactly this for a couple of partners at the moment that are optimised towards KPI's",
+      "score": 2,
+      "created_utc": 1730130152.0
+    },
+    {
+      "author": "describe_one",
+      "body": "You'll want to set up SSP auction packages using site lists specifically allowing gambling ads. That should help stabalize your delivery.",
+      "score": 2,
+      "created_utc": 1730131761.0
+    },
+    {
+      "author": "elchapoguzman",
+      "body": "Do you guys own an app looking for inventory?",
+      "score": 2,
+      "created_utc": 1730132697.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "PMP is likely way to go on this. I will say that most gambling traffic is considered non-brand safe and as such you have limited inventory from many supply side partners.",
+      "score": 1,
+      "created_utc": 1730119433.0
+    },
+    {
+      "author": "employerGR",
+      "body": "If it is for a Casino- there is plenty of inventory out there for that. You might just be doing something specific in the creative that Xandr isn't filling you in on. \n\nOr it looks like a shady online gambling site so the rejection is based on landing page info instead of the creative.  \n\nOur team runs casino advertising- that has plenty of inventory around.",
+      "score": 1,
+      "created_utc": 1730121548.0
+    },
+    {
+      "author": "Slow-Significance113",
+      "body": "Thank you all for the inputs. If anyone here is attending Sigma in Malta I'll be happy to connect and look into tapping into your inventory.",
+      "score": 1,
+      "created_utc": 1730142042.0
+    },
+    {
+      "author": "SabreDobeDelta",
+      "body": "Try Sportradar and buying Sovrn SSP gambling auction packages, we can even give you preferred access above the open auction through this set up. Feel free to DM me to discuss",
+      "score": 1,
+      "created_utc": 1730207104.0
+    },
+    {
+      "author": "sheezus69",
+      "body": "Xandr is only focused on keeping Microsoft shareholders happy so they don't sued.  \n\nAll gambling traffic on Xandr is getting blocked, not just yours. I would jump ship, as it's a matter of time till they officially ban it.  \n\nAdform is a good choice, as mentioned (This subreddit generally seems allergic to recommend them)\n\nXandr resellers are jumping to Beeswax, which also works well at the moment. But as it's owned by Comcast, I can't say how long that will last.  \n\nPMP advice is also good advice here. We have the best performance and least issues with Equativ, followed by Magnite.",
+      "score": 1,
+      "created_utc": 1730411421.0
+    },
+    {
+      "author": "Repulsive_Ad_656",
+      "body": "Two gambling sites I use never seem to be sold out, I get low quality ads on them\n\nEquibase.com\n\nMasseyratings.com\n\nIf you have the audience segment, I'm sure I have the scale.\n\n Fwiw xandr doesn't take our publisher gambling opt ins bc their antiquated prebid adapter doesn't accept ortb in general, but specifically not bcats, so the bcats we send them are the lowest common denominator for all sites we manage ( a lot ).",
+      "score": 1,
+      "created_utc": 1730461160.0
+    },
+    {
+      "author": "Venturecap_wiz12",
+      "body": "Not sure if this is still relevant, but i have the perfect solution. Happy to chat with anyone haha.",
+      "score": 1,
+      "created_utc": 1758052467.0
+    },
+    {
+      "author": "Unable-Ad609",
+      "body": "If anyone ere got casino trafficdm me. have a good day",
+      "score": 1,
+      "created_utc": 1760080441.0
+    },
+    {
+      "author": "Unable-Ad609",
+      "body": "If anyone ere got casino traffic dm me. have a good day",
+      "score": 1,
+      "created_utc": 1760178327.0
+    },
+    {
+      "author": "ProgrammaticBadman",
+      "body": "Seika Media can run those PMPs too",
+      "score": 3,
+      "created_utc": 1730123445.0
+    },
+    {
+      "author": "sheezus69",
+      "body": "This, we're on Adform and have 0 issues running casino ads.",
+      "score": 1,
+      "created_utc": 1730411200.0
+    },
+    {
+      "author": "sheezus69",
+      "body": "We've tried it but it didn't convert at all.",
+      "score": 1,
+      "created_utc": 1730411225.0
+    },
+    {
+      "author": "Slow-Significance113",
+      "body": "Yes",
+      "score": 1,
+      "created_utc": 1730141918.0
+    },
+    {
+      "author": "Slow-Significance113",
+      "body": "Any chance of you or any of your team being down in Malta for Sigma?",
+      "score": 1,
+      "created_utc": 1730121749.0
+    },
+    {
+      "author": "LoveGlobal8866",
+      "body": "Try Moloco",
+      "score": 1,
+      "created_utc": 1752188864.0
+    },
+    {
+      "author": "employerGR",
+      "body": "sadly nope- I have worked on some multi-property casino campaigns. Had some friends work on sports betting ones. There should be plenty of inventory you just might be restricted based on creative rules. Those do change randomly but they are usually quite clear.   \n\nI mainly have done these in the US so not sure how it works globally.",
+      "score": 2,
+      "created_utc": 1730122184.0
+    }
+  ]
+}

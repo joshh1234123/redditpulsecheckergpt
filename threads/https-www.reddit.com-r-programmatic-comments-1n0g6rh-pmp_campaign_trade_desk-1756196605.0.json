@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "PMP Campaign Trade Desk",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1n0g6rh/pmp_campaign_trade_desk/",
+  "created_utc": 1756196605.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Floor price will still be there. Dayparting and time of day weighting, optimizing sizes. Optimizing publishers, fold placement and geos. Maybe gender and device? I would make ad groups based on size and device. Then maybe gender. Create a sitelist/applist and make some sitelist limited ad groups.",
+      "score": 5,
+      "created_utc": 1756199922.0
+    },
+    {
+      "author": "JaSakwa_19",
+      "body": "I’ve found that looking at inventory contract, site, publisher, and app lists normally tell me where my CPMs are high or low. Focus on bidding down or excluding placements that are too pricey. With that being said, still look at other reports such as device type, app environment, and audience segments to get a better picture of what may be causing your CPMs to be higher than expected.",
+      "score": 3,
+      "created_utc": 1756215503.0
+    },
+    {
+      "author": "DekeMoves",
+      "body": "Have them include broader audiences based on contextual and behavioral.",
+      "score": 2,
+      "created_utc": 1756247122.0
+    },
+    {
+      "author": "EverydayElevate",
+      "body": "I found that the best way to control CPMs (especially for CTV) is to negotiate 1P PMPs and not rely on the deals in TTD. They’ve become overpriced and don’t necessarily include the premium inventory indicated in the name. \n\nI would also disable the S&P 500. We found it inflated costs, while not improving performance. \n\nI would also keep your min and max bids tight to ensure that you’re maintaining control over costs.",
+      "score": 1,
+      "created_utc": 1756299254.0
+    },
+    {
+      "author": "NMDigitaNinja",
+      "body": "So question for all- as TTD appears to be pushing more towards their deals, how are you combating? We have always done our own deals 1-1 with Pubs/SSPs, where it seems more push to use their deals. but more recently have seen decrease in volume/ inconsistencies.",
+      "score": 1,
+      "created_utc": 1756420094.0
+    },
+    {
+      "author": "BucketMarketing",
+      "body": "Be careful if you’re running in Kokai! The bidding is very suspect there and seeing the average bid higher than needed. Likely to increase the TTD kickback.",
+      "score": 1,
+      "created_utc": 1756778456.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Yeah pulling the contract (or contracts) to pieces gives a lot of insight. Maybe they have included more sizes or different sizes than the ones delivering.",
+      "score": 2,
+      "created_utc": 1756224852.0
+    }
+  ]
+}

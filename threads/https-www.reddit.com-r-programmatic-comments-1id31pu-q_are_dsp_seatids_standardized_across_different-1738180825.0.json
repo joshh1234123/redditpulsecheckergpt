@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "Q: are DSP SeatIDs standardized across different SSPs? Or do DSPs have 1 ID per each SSP?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1id31pu/q_are_dsp_seatids_standardized_across_different/",
+  "created_utc": 1738180825.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "elysium13",
+      "body": "Each DSP seat ID is the same for every SSP. On Bid switch, 16 is DV360 for every SSP that uses them. \n\nIf you're looking to target or restrict across SSPs then it's the same ask to all for that DSP.",
+      "score": 3,
+      "created_utc": 1738209763.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "The DSP seat ID is always the same for one buyer. So is an SSP seat ID for one seller.",
+      "score": 1,
+      "created_utc": 1738181847.0
+    },
+    {
+      "author": "programmago",
+      "body": "Thank you for the clear answer! Out of curiosity since it seems you might know ....do you know how this ID-level coordination achieved by SSPs?\n\n(ie. how do the individual SSPs, who ostensibly operate as individual businesses with limited system inter-mingling, organize on a regular basis to ensure they always assign the same ID to the same business entity?)\n\nIs there some sort of SSP standardizing organization like the IAB that provides a shared framework?\n\nDo the DSPs create and issue the IDs so they act like this standardizing entity? (for example ive heard of DV360 \"issuing SeatIDs\" for new advertisers in the past/until recently ...but im not sure if they used to do so in their capacity as a DSP, as an Exchange, as an adserver or what lol",
+      "score": 1,
+      "created_utc": 1738254512.0
+    },
+    {
+      "author": "tallmanjam",
+      "body": "I’ve come across some SSPs like Index Exchange where they create their own internal DSP seat mappings. The seat ID we’d use to target PMPs in IX would be IX’s own internal mapped DSP seat ID instead. It could be DSP specific though. Not sure how common that is.",
+      "score": 1,
+      "created_utc": 1738306961.0
+    },
+    {
+      "author": "neverbeentoidaho",
+      "body": "The seat name yes, but the seat id is universal across all ssps.",
+      "score": 1,
+      "created_utc": 1738205762.0
+    },
+    {
+      "author": "elysium13",
+      "body": "A seat ID is assigned by the DSP. If you need to know one, most SSPs will report on that dimension. \n\nNo governing body is needed for what ID is assigned. It's generally unique to three DSP. Ortb already supports the object and the DSP will know their seat IDs when received.",
+      "score": 1,
+      "created_utc": 1738267841.0
+    },
+    {
+      "author": "elysium13",
+      "body": "That's likely because they operate on platform demand. So you're actually targeting their seat. Long before IX made a pivot, Casale was primarily a buyer. \n\nIf I had to guess in your case you're not targeting a PMP that is then matched to a deal on TTD but a deal within IX buyer platform.",
+      "score": 1,
+      "created_utc": 1738308466.0
+    },
+    {
+      "author": "chefben",
+      "body": "Mostly true but Not always true. For example Xandr has a number of legacy member ids that are unique to Xandr from the old AppNexus days. They are mapped seats. This is true for Amazon dsp seats and dv360 seats specifically as there were stage that they didn’t injest the id from the dsp",
+      "score": 2,
+      "created_utc": 1738271558.0
+    }
+  ]
+}

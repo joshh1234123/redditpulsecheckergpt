@@ -1,0 +1,153 @@
+{
+  "id": null,
+  "title": "Help me understand programmatic advertising or am I dreaming - targeting a specific niche audience",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1la6vz4/help_me_understand_programmatic_advertising_or_am/",
+  "created_utc": 1749788320.0,
+  "num_comments": 27,
+  "comments": [
+    {
+      "author": "Jokerx_572",
+      "body": "Yes , lets assume someone bought their diesel truck through their Visa card , now that data is sold to 3rd party data brokers - who has this data \nNext programmatic buyers buy this data through a DSP \nThen the backend matches your targeting criteria \nLives in Canada , has bought a diesel truck(hence a diesel truck owner)\nAnd the ad will serve to  them if the website they use is in your targeting list or part of the exchange you are using - it's simple",
+      "score": 17,
+      "created_utc": 1749789610.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "I would start geo-targeting Blackjacks Roadhouse & Games Room located in Nisku, Alberta (supposedly the #1 truck stop in Canada) and layer in a variety of trucking-related interests and affinities. You can also target based on Gender and Age (Males ages 35+). Get a read on performance & engagements. Then maybe consider 3P targeting, which will be more expensive.",
+      "score": 3,
+      "created_utc": 1749823662.0
+    },
+    {
+      "author": "employerGR",
+      "body": "This is actually fairly easy. I have looked up this data and built a quote before.  \n\nYou could also buy some marketing list of owners too. But the data is in some of the DSPs out there.  \n\nThe question always comes down to budget and goal. Are you trying to reach semi-truck owner/operators? Commercial diesel truck owners? Or personal diesel vehicles? All are doable. It aint hard. Programmatic allows for you to target real niche audiences. Depending on your product and creative- ROI can be real tricky.",
+      "score": 1,
+      "created_utc": 1750075928.0
+    },
+    {
+      "author": "rgm-na",
+      "body": "Yes. And this this concept is over 10 years old",
+      "score": 1,
+      "created_utc": 1749788749.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "Correct. Except in reality 30-80% of those impressions you think are going to diesel truck owners in Canada are actually going to 36yo moms in India because of shit quality 3p audience segmentation accuracy.",
+      "score": 19,
+      "created_utc": 1749794088.0
+    },
+    {
+      "author": "adflet",
+      "body": "Yeah except nobody is buying a truck online with a visa.",
+      "score": -1,
+      "created_utc": 1749802999.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Socio-demo data is REALLY flawed via 3rd party data. Like REALLY flawed. When we tested this in US - targeting women 18-34 - approx. Half of them turned out to be men… and over 1/3 turned out to be over 55… I would not recommend using socio/demographic signals.",
+      "score": 2,
+      "created_utc": 1749853439.0
+    },
+    {
+      "author": "traderjay_toronto",
+      "body": "Yeah my knowledge is lacking",
+      "score": 2,
+      "created_utc": 1749827436.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "^^^ THIS\nFull disclaimer - I work in an adtech company.\nWhat I'm about to say is hopefully helpful regardless.\nWe try to educate Clients that the issue with 3rd party data is lack of transparency. Somewhere & sometime - all segments HAD a decent \"signal\" as an origin (like in the example above: \"person X bought a diesel truck\"). The issue is - such segments are super tiny and data vendors want to scale them (to sell them and make money), so such data (called \"deterministic\") is than applied to other persons, whi exhibit *some* similarity to original data-set. Now we have \"probabilistic\" data... and it usually SUCKS, but you are never told, what's truly inside.\n\nNow...\n\nThe way around it is to use simpler signals, but ones which are less likely to be modeled that way.\nFor your case - a few examples below. Not sure how good they are - your industry is really outside my expertise, so take it with a grain of salt.\n\na) geo-based signals. If diesel truck owners have specific behaviors - like regularly stopping on trucker gas/rest stations - you can target people who inherit ARE in such place (geofencing) or people who have been in such places (will be less precise, but better scale).\n\nb) targeting based on interests and intents - ideally based not on black-box 3rd party segments, but CONTENT, which such truckers likely 'consume'. Disclosure - this is the solution company I work with excellent at, so again - take it as it is).\nFor example: if you know your audience and are convinced that they regularly read about... portable camping equipment (IDK, I really have no idea...) - you can reach them with contextual solution - reaching people who interact(ed) with such content [interest or purchase intent]. This can be anything, of course. Perhaps due to loneliness, they often read about dogs. Or maybe about satellite phones. Or maybe they are avid barbecue/ grill lovers. You probably know, or can find out.\nWhen you do - target them based on their interests.\n\nc) lastly - perhaps this is a good case for some simple partnerships. Find someone who has a business NOT competing with yours, but is interested in the same audience. Do something together. Joint offer? Use each other's channel for promotion. Recommend each other's offer some discounts or benefits.\nI know - it's not programmatic. Old school, but certainly worth a try.",
+      "score": 21,
+      "created_utc": 1749798170.0
+    },
+    {
+      "author": "MashMeister",
+      "body": "Diesel and Dosas",
+      "score": 2,
+      "created_utc": 1749825538.0
+    },
+    {
+      "author": "Jokerx_572",
+      "body": "Hahahah True that",
+      "score": 0,
+      "created_utc": 1749797577.0
+    },
+    {
+      "author": "technicolorfrog",
+      "body": "That is what you took from this? 😑",
+      "score": 1,
+      "created_utc": 1749872221.0
+    },
+    {
+      "author": "scottsmack",
+      "body": "It's possible now to measure the accuracy of each record, and only target qualified IDs. Maybe the biggest opportunity for gains in adtech since viewability and IVT detection.",
+      "score": 1,
+      "created_utc": 1749859479.0
+    },
+    {
+      "author": "employerGR",
+      "body": "I have done a similar thing before. Hit me up if you want some direction. If you already have a DSP you are working with- just hit them up for a quote and proposal.",
+      "score": 1,
+      "created_utc": 1750075975.0
+    },
+    {
+      "author": "Nineteennineties",
+      "body": "Terrific answer, thank you. ",
+      "score": 3,
+      "created_utc": 1749812797.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "All of CallMeCouchPotato's ideas are great and worth testing.",
+      "score": 2,
+      "created_utc": 1749823747.0
+    },
+    {
+      "author": "traderjay_toronto",
+      "body": "thank you so much for this! Really learning alot here!",
+      "score": 1,
+      "created_utc": 1749834907.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "How is the accuracy measured? Against what?",
+      "score": 1,
+      "created_utc": 1749879700.0
+    },
+    {
+      "author": "trenhard",
+      "body": "its measured against a deterministic dataset from \\[insert vendor\\] that has 63% accuracy and you are charged for the privilege.",
+      "score": 1,
+      "created_utc": 1749906916.0
+    },
+    {
+      "author": "scottsmack",
+      "body": "5 billion records from 22 data providers feeding an ML model that uses a 1.4 million truth set to test and train. Projects probabilities of accuracy on deduolicated 1.4 million HEMs covering 25 demo attributes.  Tested against a holdout of the truth set. \n\nSecret weapon of the top CPG in the world. \n\nTruthset.com",
+      "score": 1,
+      "created_utc": 1750094444.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Not sure I understand if it's measurement or simply a guarantee of buying socio-demo Audiences based on deterministic data?\nI understand the latter.\nDon't understand the former.\nHow does the measurement work EXACTLY?\nI get a bid request for an impression for a segment I want to buy - say: men 30-39.\nHow is this MEASURED against some (other?) data set?",
+      "score": 1,
+      "created_utc": 1749920972.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "For clarity:\nWhen I did tests for my company's purpose - we did two studies to verify.\nOne was to purchase 3PD segments and serve them a simple questionnaire (asking about age and gender for example).\nSexond one was a bid request analysis to see how often data vendors will claim that a given impression (so: a person) belongs to mutually exclusive segments (e.g men and women).",
+      "score": 1,
+      "created_utc": 1749921154.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "OK... so it's modeling.\nIs the modeling validated in any way?\nOr is the \"truth\" validated against itself?",
+      "score": 1,
+      "created_utc": 1750109298.0
+    },
+    {
+      "author": "scottsmack",
+      "body": "Yes, validated against a holdout of the \"ground truth\" data set of multiple research-grade panels and deterministic data (e.g. MRI Simmons, Nielsen, ecom transaction data, etc) as well as client 1PD.",
+      "score": 1,
+      "created_utc": 1750295264.0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Looking for feedback on Amazon DSP compared to TTD and DV",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m1cz55/looking_for_feedback_on_amazon_dsp_compared_to/",
+  "created_utc": 1752673491.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "Equal-Salamander-779",
+      "body": "Dumpster fire of a DSP. My team works in it daily and they loathe it. The only thing it’s good for is their walled garden supply and data",
+      "score": 32,
+      "created_utc": 1752674134.0
+    },
+    {
+      "author": "childroid",
+      "body": "Mostly what's unique about it is the accessible inventory. You can buy IMDb, MGM, Twitch, Alexa, Prime Video, etc (Amazon O&O inventory) natively in-platform. Can't do that on TTD as far as I know, unless you go direct.\n\nYou can also leverage Amazon Attribution to track click-throughs to Amazon storefronts, Detailed Page Views, Add-to-Carts, Purchases, and Revenue. You can use Amazon Attribution in other DSPs, but that functionality is currently in beta. I use it for a client who activates in TTD and drives to an Amazon landing page; it works fine.\n\nAmazon DSP is fine for beginners, it's just slow as hell and clunky. I don't enjoy using the platform.\n\nI leaned on DV360 (back then it was DBM) and then I've learned TTD three times lol (legacy, Solimar, and now Kokai).",
+      "score": 9,
+      "created_utc": 1752682195.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "For sure it's getting better and more powerful to take on DV / TTD but is still no.3 in my opinion.\nIf your an endemic brand, it's tailor made to work and once you add AMC to the mix, very powerful. This is what Google / ADH was supposed to be but isn't.\nBut it has flaws, whether it's the UI (though the update this year made it much better vs past), reporting, ad quality and tracking (AAT is pretty poor in comparison to other pixel solutions and Conversion API also lacks certain things).",
+      "score": 2,
+      "created_utc": 1752690505.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "EU user here so experience may differ:\n\nOn the plus side:\n- O&O Inventory (Prime Video Ads)  and retail data are really something when working with endemics\n\n- Last round of inventory integration on streaming services (EU here) really enhanced stv capabilities.\n\n- Performance+ and Brand+ for both endemic and non-endemics\n\n- Free Marketing Cloud with premade instructional queries to evacuate campaigns interactions.\n\n- Once you get some budget from your clients you May access on added value impressions on O&O Inventory\n\n- AFAIK cheaper than other DSP cost when talking about tech fees \n\nOn the negative side:\n\n- I agree on limitation on AAT limitation.\n\n- Not the friendliest  platform to work with, but i must say that 3/4 months in you'll know your way around it.\n\n- Only supported audio Inventory is Amazon Music\n\n- No DOOH supported\n\n- Policies and ad requirements may be stricter than other platforms",
+      "score": 1,
+      "created_utc": 1752692016.0
+    },
+    {
+      "author": "No_Feed_7243",
+      "body": "The only value of DSP is being relatively easy to access and manage. I don’t think spending a lot on it is a good idea.",
+      "score": 1,
+      "created_utc": 1752883145.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "Piggybacking here… we are wanting Twitch & Prime inventory but Amazon pushes us off to resellers. Spend might be $100k-$500k across a few clients. Is that not enough? 😆 We are hands on keyboard. And agreed on their platform - it was hard to use a few years ago which we did through an aggregator.",
+      "score": 1,
+      "created_utc": 1752683816.0
+    },
+    {
+      "author": "Order4Zock",
+      "body": "This is exactly what I would have written. However, the last time I used it was roughly 2-3 years ago. With the headlines lately regarding their so-called improvements, I was curious if it had amounted to anything worthwhile (aside from their O&O properties). Guess not!",
+      "score": 3,
+      "created_utc": 1752677027.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "Amazon is increasingly pushing new agencies to resellers (look at Google setting trends), as an agency/reseller we saw an increase in the number of reselling leads we are receiving.\nIt's strange that with a budget like that you are not getting a seat.\n\nThey love planning longo term so if you are able to line up some more budget and commit It to ADSP you may have more chances to get approved.\n\nAlso i had a client committing enough budget to get the seat tranferred to their own name, that may be a way in",
+      "score": 4,
+      "created_utc": 1752692671.0
+    },
+    {
+      "author": "lancequ01",
+      "body": "It's still shitty. There are some positive changes but they are also doing shady things on the back end like automatically including shitty o&o inventories(imdb, alexa, etc) on the backend without telling you",
+      "score": 5,
+      "created_utc": 1752698009.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Nope, it's still incredibly clunky and difficult to navigate compared to the other key players out there.",
+      "score": 3,
+      "created_utc": 1752682938.0
+    },
+    {
+      "author": "Fit_Pool_8622",
+      "body": "Who are amazons resellers?",
+      "score": 1,
+      "created_utc": 1752721311.0
+    },
+    {
+      "author": "Order4Zock",
+      "body": "Extremely hard for me to trust the Googles and Amazons of the world in the world of digital advertising",
+      "score": 1,
+      "created_utc": 1752698251.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "Similarly to Google resellers, Amazon ad tech resellers can provide small agencies or companies access to an Amazon DSP seat. You can find a list of authorizes resellers on Amazon ads website, alternatively you can contact Amazon and they Will provider a list or resellers for your locale",
+      "score": 1,
+      "created_utc": 1752729552.0
+    }
+  ]
+}

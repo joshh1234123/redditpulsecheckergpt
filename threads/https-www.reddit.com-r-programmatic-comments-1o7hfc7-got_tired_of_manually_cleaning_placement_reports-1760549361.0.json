@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "got tired of manually cleaning placement reports (App/URL reports), so I built a free tool to automate the process",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o7hfc7/got_tired_of_manually_cleaning_placement_reports/",
+  "created_utc": 1760549361.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "I wonder what agency would just let you upload your placement set to random openai wrapper",
+      "score": 2,
+      "created_utc": 1760552164.0
+    },
+    {
+      "author": "Causel_Effect",
+      "body": "Do you work at Stagwell? If so, I have a hunch you sit across my desk.",
+      "score": 1,
+      "created_utc": 1760567560.0
+    },
+    {
+      "author": "Effective_Grab_109",
+      "body": "It doesn’t use AI yet, it’s pure math so far.",
+      "score": 3,
+      "created_utc": 1760552314.0
+    },
+    {
+      "author": "Effective_Grab_109",
+      "body": "No, I don’t work there.",
+      "score": 1,
+      "created_utc": 1760571098.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Oh that’s nice! Still my boss would be quite upset",
+      "score": 2,
+      "created_utc": 1760553480.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "One idea, add viewability also. You can create sets of high viewability-low cpm, high viewability-high ctr, low viewability. I use llm to categorize sites for client reports, sometimes they want to target “less news, more sports” or whatever. One useful tag to add with that is low value - usually these sites don’t drive conversions.",
+      "score": 3,
+      "created_utc": 1760553722.0
+    },
+    {
+      "author": "Effective_Grab_109",
+      "body": "Uh, I love the feedback, thank you!",
+      "score": 1,
+      "created_utc": 1760555126.0
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": null,
+  "title": "How to measure success for CTV",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1n2r8fx/how_to_measure_success_for_ctv/",
+  "created_utc": 1756422508.0,
+  "num_comments": 38,
+  "comments": [
+    {
+      "author": "TheLookoutGrey",
+      "body": "inb4 the Tatari astroturf unit arrive",
+      "score": 24,
+      "created_utc": 1756425007.0
+    },
+    {
+      "author": "pumpkineater22",
+      "body": "Not sure of the nuances, but the last agency I worked with used IP addresses for attribution and had proxy true-ups for IPs that were \"non-residential\". We'd match them to IPs of those visiting our site. Seemed to be the best and only way to attribute direct-response performance to CTV, but would love to hear if there are alternatives. We avoided Google and DV360 since their cross-device attribution was terrible and they didn't provide log-level data with IPs for us to look at. We also used UID2, but adoption of that was super low at the time - I think it's still low but growing.",
+      "score": 15,
+      "created_utc": 1756423368.0
+    },
+    {
+      "author": "iBarber111",
+      "body": "Don't get me wrong, I sympathize with your struggle, but man, it's so fkn obnoxious that business leaders need absolutely everything to be measurable & tied back to sales. What do these people even do anymore. It's just - look at data & do what data says. Even if the data sucks.",
+      "score": 22,
+      "created_utc": 1756433880.0
+    },
+    {
+      "author": "misfitsx138",
+      "body": "Have you tried doing a incrementally test. We ran into this issue with dynamic podcast ads when working with large enterprise companies and the best way to prove our value was by using incrementally, Geo Holdouts etc. send me a dm happy to talk shop.",
+      "score": 10,
+      "created_utc": 1756426004.0
+    },
+    {
+      "author": "thorirhundr",
+      "body": "Your client seems further ahead than most advertisers. A small minority will measure attention. \n\nCTV exposure at many times will have more than 1 person watching. So even if there was some sort of connection between devices (like log in to log in) that only accounts for 1 person. Which is a more narrow minded approach to media.\n\nAs for MMM, I know we use MMM and it hasn’t helped with proving CTV. But that could just be our client…. iykyk. So it could just be us. Lol",
+      "score": 3,
+      "created_utc": 1756425064.0
+    },
+    {
+      "author": "childroid",
+      "body": "Incrementally testing and lift studies, in my experience.",
+      "score": 3,
+      "created_utc": 1756443598.0
+    },
+    {
+      "author": "boxdlunch7",
+      "body": "Youtube TV has been interesting to see their “tracking” over the past several months. I’m fairly sold on where its heading.",
+      "score": 2,
+      "created_utc": 1756430569.0
+    },
+    {
+      "author": "Newbie10011001",
+      "body": "Success is relative to the brief. What’s the brief ?  Awareness ? Sales ? Short or long term?",
+      "score": 1,
+      "created_utc": 1756435857.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "In house Ip matching to end device together with incrementally testing to get to decent factor between ip matching and reality.\n\nINCRMNTL is a product that looks interesting to me",
+      "score": 1,
+      "created_utc": 1756444775.0
+    },
+    {
+      "author": "newormedia",
+      "body": "Great question. Attention is useful, but it doesn’t always tie back to revenue. A lot of publishers and advertisers lean on MMM or incrementality testing to really see the sales lift from CTV. Tools like Northbeam or Triple Whale can help, but pairing them with clear conversion goals usually gives the best picture.",
+      "score": 1,
+      "created_utc": 1756458659.0
+    },
+    {
+      "author": "Ok_Hurry2000",
+      "body": "I would look into an audience data provider like The BRIDGE Corp that allows you to match CRM data like leads and sales back to the target audience you used for your CTV campaign.",
+      "score": 1,
+      "created_utc": 1756479353.0
+    },
+    {
+      "author": "RockNo6844",
+      "body": "We built MMM ground up and it worked well proving out CTV, wasn't impressed with Northbeam or most other off the shelf",
+      "score": 1,
+      "created_utc": 1756591520.0
+    },
+    {
+      "author": "DopestTV",
+      "body": "Attention is such a loose term when it comes to CTV… So many other factors play into attribution IMO.  Of the players I know and have used:\nIspotTV\nEDO \nTV vision\nTatariTV\n\nispotv was decent all around and provided bottom funnel signals.  (Customer service is 👎)\nEDO- smoke & mirrors.  they claim search into CTV measurement but utilize panels and not transparent with methodology.  (Their VP 🤮)\nTV vision- I used as part of innovid, they just could not measure all pubs. \nTatariTV - similar search metrics to EDO but very good at bottom funnel. (Our AM was 👌)",
+      "score": 1,
+      "created_utc": 1756777476.0
+    },
+    {
+      "author": "Zealousideal-Ad-7397",
+      "body": "CTV is tricky because at the user level it’s basically **impossible** to track — households share devices, multiple viewers per screen, privacy issues etc\n\nThe more robust way to measure is with **geo-lift tests**. Simple version:  \n– You pick similar regions (states, DMAs, zip clusters, etc.)   — statistics can help here  \n– Run CTV ads in one group, hold out the other.  \n– Compare sales lift between exposed vs control.  \nThat’s the only way to really see if the ads actually moved sales.\n\nOn top of that, a lot of teams layer in **MMM (marketing mix modeling)** to capture longer-term effects and interactions across channels.\n\nMost of the vendors offering this are crazy expensive ($5K–10K/month) and pretty opaque. I’ve been working on a tool that makes geo-lift + MMM far more transparent and accessible, so brands can actually test CTV without needing a $10K+/mo budget. DM me, happy to chat.",
+      "score": 1,
+      "created_utc": 1756971042.0
+    },
+    {
+      "author": "coyotetex",
+      "body": "The best idea I have seen is retargeting people that watch your ad with direct display ads with strong CTAs via other channels (social / open web) and then tying those clicks / conversions back to the CTV ads",
+      "score": 1,
+      "created_utc": 1757174585.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Moved to the right comment",
+      "score": 1,
+      "created_utc": 1757225663.0
+    },
+    {
+      "author": "cuteman",
+      "body": "MMM or Triple Whale won't help you here.\n\nYou need an enterprise tier CTV platform and ideally one that does offline POS marchback since CTV is notoriously difficult to attribute with just pixels.",
+      "score": -5,
+      "created_utc": 1756430712.0
+    },
+    {
+      "author": "thorirhundr",
+      "body": "Any cross-device attribution, spare for a minority of conversions, is probabilistic so those conversions aren’t going to translate directly sales. Im happy to be wrong here. But it’s still an imprecise proxy.",
+      "score": 12,
+      "created_utc": 1756424501.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Well there are not a lot of reasons for running a bussiness. Marketing may be very expensive and mostly is used for driving either instant or future sales. If you don’t have any meaningul ways to measure the impact of marketing spend then why even spend?",
+      "score": 4,
+      "created_utc": 1756447700.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "DMed you",
+      "score": 1,
+      "created_utc": 1756497146.0
+    },
+    {
+      "author": "childroid",
+      "body": "Seconding incrementality testing and geo holdouts.",
+      "score": 1,
+      "created_utc": 1756443681.0
+    },
+    {
+      "author": "DeCyantist",
+      "body": "It is always sales…",
+      "score": 1,
+      "created_utc": 1756524990.0
+    },
+    {
+      "author": "_mavricks",
+      "body": "In our case it's been awareness, and then managers say it drives sales. But there's no way to validate that at the moment.",
+      "score": 1,
+      "created_utc": 1756610244.0
+    },
+    {
+      "author": "_mavricks",
+      "body": "Oh that sounds great. I'll look into it. \n\nWe basically just look at attention unit and that's it.",
+      "score": 1,
+      "created_utc": 1756610111.0
+    },
+    {
+      "author": "_mavricks",
+      "body": "how did you validate your results thought and know your MMM was better? What i've had trouble with also is that some companies solely rely on their MMM when its not accurate",
+      "score": 1,
+      "created_utc": 1756755599.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "This technique have value but it opens the possibility of gaming the attribution by using or extending a view through window on the display ads.",
+      "score": 1,
+      "created_utc": 1757180680.0
+    },
+    {
+      "author": "klustura",
+      "body": "You're not wrong. It's all probabilistic.",
+      "score": 4,
+      "created_utc": 1756448015.0
+    },
+    {
+      "author": "iBarber111",
+      "body": "Businesses spent billions of dollars on advertising for decades before it was possible to directly measure the impact of the spend.",
+      "score": 4,
+      "created_utc": 1756467777.0
+    },
+    {
+      "author": "iamveek",
+      "body": "A lot of measurement nowadays is good ol' statistics which at the end of the day just measure whether an effect was caused to the variable being queried. \nIf a business can afford expensive complicated statistics and modelling, go for it. If not, a simple observation throughout a long enough period of time would suffice to determine whether sales were higher when marketing was on, or off, eliminating things such as seasonality or promotions. \n\nI do get your point but some leaders really overcomplicate things by either attributing too much power to marketing (which is nothing but a megaphone to amplify the message of hey, buy my product) or too little. The lack of common sense and awareness about this simple logic is what drives marketers and media buyers out of the field due to burn out.",
+      "score": 3,
+      "created_utc": 1756454284.0
+    },
+    {
+      "author": "misfitsx138",
+      "body": "👏🏽",
+      "score": 1,
+      "created_utc": 1756497168.0
+    },
+    {
+      "author": "Ok_Hurry2000",
+      "body": "But at the end of the day, advertisers want to know if they are getting a positive ROI with their CTV ad spend, and solutions like BRIDGE's POS matchback attribution can show ROI.",
+      "score": 1,
+      "created_utc": 1756826677.0
+    },
+    {
+      "author": "coyotetex",
+      "body": "Yes - but why would you do that to yourself? Wouldn't you want to have accurate attribution on your own campiagns?",
+      "score": 1,
+      "created_utc": 1757190650.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Businesses have been measuring their marketing activities for more than hundred years. You know how the guy was called who thought about pollimg people? George Gallup. But even decade before him Starch started quantitive research into marketing effectivness and even before him there were guys telegraphing cross country looking how newspaper ads changed the amount of goods sold. And even before them in 14th century there were merchants who supplied *information* about goods, their prices and what type of goods get premium price.",
+      "score": 1,
+      "created_utc": 1756497507.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Yeah true + running after vanity metrics. But if you have a measurable business metric to track and you can tie it directly to your ads, then you should do it. I mean, running prog ctv campaign is already expensive af :D",
+      "score": 1,
+      "created_utc": 1756454986.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "If you control the stack and only use click-through on display ads while making sure to target users who saw the TV ad, you will be in a stronger position.\n\nThe challenge is that humans sometimes click by accident or their clicks get hijacked, and bots generate clicks by design. Because of that, the focus should be on real-world business impact, looking at actual leads and their value as the main optimization approach.\n\nOther effective performance CTV tactics include using non-linear with QR code (when the chances the viewer to scan increase) and pause ads (again more time and attention to the ad) , on top of the go to of view-through attribution with cross-device matching. With holdouts and incrementality tests to gain a clearer picture of how TV ads affect the entire funnel and contribute sales.",
+      "score": 2,
+      "created_utc": 1757259821.0
+    },
+    {
+      "author": "iBarber111",
+      "body": "That's why I said \"directly\". The data was always a piece of the puzzle. Now, there's no puzzle at all.\n\nIt's just: can you directly tie conversions to it? No? Okay - it doesn't matter then. That is, unless the people that know it matters can torture the data enough to get it to tell other people that it matters.",
+      "score": 1,
+      "created_utc": 1756499827.0
+    }
+  ]
+}

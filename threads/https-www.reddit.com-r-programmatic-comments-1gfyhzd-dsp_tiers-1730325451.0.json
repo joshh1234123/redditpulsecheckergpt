@@ -1,0 +1,117 @@
+{
+  "id": null,
+  "title": "DSP Tiers?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gfyhzd/dsp_tiers/",
+  "created_utc": 1730325451.0,
+  "num_comments": 18,
+  "comments": [
+    {
+      "author": "tahadharamsi",
+      "body": "Tier 1: TTD, DV360, Amazon (their strength is Amazon data and inventory) and maybe Xandr.",
+      "score": 9,
+      "created_utc": 1730329627.0
+    },
+    {
+      "author": "RelativelyWholesome",
+      "body": "Tier 1: TTD DV360\nTier 2: Basis, beeswax, xandr Amazon dsp, Adelphic, basically anything else. \n\nI had experience across 5 dif tier 2 dsps because I worked at agencies with small programmatic spends. But bc I didn't used to have experience on tier 1 dsps, it was really difficult to get hired at any big agencies. \n\nI heard the breakout of \"tier 1 vs tier 2\" dps while interviewing. Idk if it's very official of a \"tier list\" but it def served helpful while describing my experiences, and most I interviewed with seemed to understand it",
+      "score": 5,
+      "created_utc": 1730377968.0
+    },
+    {
+      "author": "Ill_Investigator1565",
+      "body": "Look for Gartner Research report on Demand Side Platforms.",
+      "score": 4,
+      "created_utc": 1730351930.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "TTD\nXandr\nDV360\nBeeswax\nYahoo\nAmazon",
+      "score": 3,
+      "created_utc": 1730336702.0
+    },
+    {
+      "author": "DisastrousAd7809",
+      "body": "Anyone interested in me breaking this out by spend from a SSP/pub perspective?",
+      "score": 1,
+      "created_utc": 1730649260.0
+    },
+    {
+      "author": "TechyRuben",
+      "body": "Some of the larger, more prominent and prestigious DSPs include:\n\n* Google Display & Video 360 (previously DoubleClick Bid Manager)\n* The Trade Desk\n* Amazon DSP\n* Adobe Advertising Cloud\n* AppNexus\n* MediaMath\n* DV360 (formerly Videology)\n* Centro",
+      "score": 1,
+      "created_utc": 1731057852.0
+    },
+    {
+      "author": "Conscious-Regret-296",
+      "body": "I’m curious as to why no one has mentioned Simplifi. Their UI is great and I’ve noticed little to no MFA inventory.",
+      "score": 1,
+      "created_utc": 1732342368.0
+    },
+    {
+      "author": "NyaNyaBam",
+      "body": "A couple top buying platforms below - \n\n* Display & Video 360 (DV360)\n* The Trade Desk\n* Amazon DSP\n* Yahoo! Ad Tech\n* Beeswax\n* Xandr Invest\n* Conversant\n* Quantcast\n* Basis\n* Cox Automotive",
+      "score": 0,
+      "created_utc": 1730330647.0
+    },
+    {
+      "author": "Amazing-Ad8053",
+      "body": "Personally I would give StackAdapt the top three over DV, inventory across DV is very poor quality and when you lift the lid on where your spend is going the results don't look good",
+      "score": 0,
+      "created_utc": 1730658745.0
+    },
+    {
+      "author": "the_hungry_havanese",
+      "body": "Amazon’s UI 🗑️",
+      "score": 11,
+      "created_utc": 1730373176.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "I'd like to add Yahoo into this list.",
+      "score": -7,
+      "created_utc": 1730334383.0
+    },
+    {
+      "author": "zeplin_fps",
+      "body": "TTD is the cream of the crop for UI, performance, inventory/scale, features, support, etc.\n\nDV360 is a close second, but really not that close. They cater to AdX inventory, support is nonexistent, and features are good but fall behind DV360. However, it is the DSP to use for YouTube inventory. It also allows for seamless integration with other GMP products. \n\nBoth of these DSPs offer better UI, features and scale than *most* other DSPs. But with a tier 1 DSP comes higher cost and higher spend thresholds needed to run on them",
+      "score": 4,
+      "created_utc": 1730385518.0
+    },
+    {
+      "author": "dimtone",
+      "body": "I'd add StackAdapt way before basis",
+      "score": 14,
+      "created_utc": 1730341838.0
+    },
+    {
+      "author": "Flipdoc_",
+      "body": "I'd remove Basis. Worst thing I've ever seen in my progr life",
+      "score": 14,
+      "created_utc": 1730335215.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Finally is getting a revamp that actually looks decent for once.",
+      "score": 4,
+      "created_utc": 1730387302.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "I'd be curious to know why DV360 is viewed as the core place for YouTube inventory. The YouTube campaigns that I've ran out of Google Ads seem perfectly fine, and if you need the CPM / YT TV inventory, use a Reservation campaign within Google ads. \n\nThere's going to be differences in price (depends on your DV360 access - direct or reseller) and some slight differences around cross-channel frequency capping, but overall Google Ads seems like a fine option for YT unless I'm missing something.",
+      "score": 1,
+      "created_utc": 1730491534.0
+    },
+    {
+      "author": "zeplin_fps",
+      "body": "Sorry, I should’ve said Dv360/google ads. I just meant people choose GMP services to run YouTube since Google owns YouTube.",
+      "score": 1,
+      "created_utc": 1730493870.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "No worries at all - I’m not a DV enthusiast, so I like to see if others share the same thoughts around the Google ads / YT piece - to your point those are your only two options to access",
+      "score": 1,
+      "created_utc": 1730506767.0
+    }
+  ]
+}

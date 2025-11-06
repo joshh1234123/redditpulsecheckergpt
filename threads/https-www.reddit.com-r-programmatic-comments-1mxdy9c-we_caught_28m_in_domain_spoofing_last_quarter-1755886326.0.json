@@ -1,0 +1,81 @@
+{
+  "id": null,
+  "title": "We caught $28M in domain spoofing last quarter. Here's the live blacklist and code.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mxdy9c/we_caught_28m_in_domain_spoofing_last_quarter/",
+  "created_utc": 1755886326.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Inb4 Dr Fou",
+      "score": 20,
+      "created_utc": 1755886920.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "Be aware most modern bots are routed through residential and cellphone proxies, so they won’t have data center IP addresses.",
+      "score": 6,
+      "created_utc": 1755945540.0
+    },
+    {
+      "author": "adunblock",
+      "body": "Your source code seems very thin…",
+      "score": 3,
+      "created_utc": 1755960064.0
+    },
+    {
+      "author": "yeayea_yea",
+      "body": "$28M on these sites? 😂. what was the DSP? what are you selling?\n\nedit: nm saw the LinkedIn post. Another polygraph net / method media / fou poster. big yawn",
+      "score": 3,
+      "created_utc": 1756003035.0
+    },
+    {
+      "author": "Sowhataboutthisthing",
+      "body": "lol",
+      "score": 2,
+      "created_utc": 1756114442.0
+    },
+    {
+      "author": "Local-Cellist-5503",
+      "body": "Wow, blown away by the discussion here. For anyone interested, I've also posted a deeper breakdown of the methodology and business impact on my LinkedIn, including a step-by-step guide on how to audit your own campaign logs this weekend to find refund opportunities.  \n[https://www.linkedin.com/posts/activity-7364726310163714048-0vk-?utm\\_source=share&utm\\_medium=member\\_desktop&rcm=ACoAAAkmbdYBXRLoGXGXitBqqvD1D8piTmzVP6k](https://www.linkedin.com/posts/activity-7364726310163714048-0vk-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkmbdYBXRLoGXGXitBqqvD1D8piTmzVP6k)",
+      "score": 1,
+      "created_utc": 1755972546.0
+    },
+    {
+      "author": "Local-Cellist-5503",
+      "body": "Haha, thanks! That's the goal. If Dr. Fou sees it, I hope he approves of the methodology.",
+      "score": 3,
+      "created_utc": 1755971160.0
+    },
+    {
+      "author": "Local-Cellist-5503",
+      "body": "Excellent point, and 100% agree. Our detection layers include behavioral analysis and device fingerprinting to catch these residential proxy farms. The IP blocklist is just the first line of defense. Thanks for adding this.",
+      "score": 1,
+      "created_utc": 1755971313.0
+    },
+    {
+      "author": "Local-Cellist-5503",
+      "body": "You're right, the snippet is just a simplified example to illustrate the logic. The full script on GitHub includes the deeper validation layers and machine learning models we use for the confidence scoring. I'd be interested to know what you'd add to it.",
+      "score": 2,
+      "created_utc": 1755971525.0
+    },
+    {
+      "author": "Local-Cellist-5503",
+      "body": "Appreciate the work of others in raising awareness—our focus is on **open-sourcing a preventive solution**.\n\nThe **$28M** figure reflects *blocked ad spend* across DV360, TTD, and Xandr via pre-bid filtering. For full transparency and validation, we’ve shared both the method and the blocklist (e.g., `forbes-news[.]top`).\n\nThe shift isn’t just from *identification* to *prevention*—it’s about enabling a **real-time, actionable system** to stop waste before it happens.\n\nThe code is live for the community to use, improve, and pressure-test.  \nIf you have **specific technical feedback**, I’d welcome it.",
+      "score": 2,
+      "created_utc": 1756069318.0
+    },
+    {
+      "author": "anti_fraud",
+      "body": "Method media 😳⛓️‍💥\n\nBig big yawn. \n\nHave to luck up Polygraph now",
+      "score": 1,
+      "created_utc": 1756009093.0
+    },
+    {
+      "author": "adopslurker",
+      "body": "I can't see it - many of the files are empty.   \n  \nCan you confirm its missing from github?",
+      "score": 1,
+      "created_utc": 1756903457.0
+    }
+  ]
+}

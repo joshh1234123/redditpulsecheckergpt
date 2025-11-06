@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Demand gen",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lfgviy/demand_gen/",
+  "created_utc": 1750354566.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "I’d start with the automated bidding strategy 'Maximize Conversions.' Once I've gathered enough conversions, I’d switch to 'Maximize Conversion Value.' Hope that helps!",
+      "score": 9,
+      "created_utc": 1750362892.0
+    },
+    {
+      "author": "PowerCapital4757",
+      "body": "Yes just make your floodlights cm360 post click and post view revenue.",
+      "score": 2,
+      "created_utc": 1750360044.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "You’ll need to add a custom value to your purchase floodlight pixel to pull in the value associated with each sale. \n\nCan’t help you much more than this but I believe it’s not too difficult of a process if you’re the one placing it in GTM",
+      "score": 2,
+      "created_utc": 1750362804.0
+    },
+    {
+      "author": "iamshanetaylor19",
+      "body": "You’ve always been an acceptable hamster",
+      "score": 2,
+      "created_utc": 1750439655.0
+    }
+  ]
+}

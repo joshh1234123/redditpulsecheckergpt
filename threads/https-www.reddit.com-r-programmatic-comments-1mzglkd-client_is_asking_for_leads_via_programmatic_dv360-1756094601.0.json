@@ -1,0 +1,135 @@
+{
+  "id": null,
+  "title": "Client is asking for leads via programmatic - DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mzglkd/client_is_asking_for_leads_via_programmatic_dv360/",
+  "created_utc": 1756094601.0,
+  "num_comments": 21,
+  "comments": [
+    {
+      "author": "cuteman",
+      "body": "You can do lead gen with Programmatic but generally not as the primary channel.\n\nWorks best when you've already got healthy search social and organic traffic.\n\nWe absolutely run lead gen through programmatic ourselves but as part of our larger strategy.\n\nOne big thing is people need to buy into view through and match back as sources of truth.\n\nFor view through on display another channel may have touched it first\n\nFor CTV you may need a match back process to identify leads as first touch.",
+      "score": 12,
+      "created_utc": 1756104217.0
+    },
+    {
+      "author": "MaximumMode1901",
+      "body": "1 Start slow with daily caps \n\n2 Try with creative variations and see what works \n\n3 Experiment with Affinity/ IM audiences \n\n4 Also do strict Site targeting with high viewbility placements \n\n\n5 Once you have a retargeting pool .. Start with it as well\n\nGauge the performance and scale up the spends",
+      "score": 4,
+      "created_utc": 1756117932.0
+    },
+    {
+      "author": "Mememememememememine",
+      "body": "I would never commit to leads from programmatic. Ppl are not clicking on ads in the wilds of the internet, landing on a form, and submitting their contact info.",
+      "score": 3,
+      "created_utc": 1756186177.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "DSP don’t work for leads b/c they aren’t great at driving click conv which is what you need for lead gen. Demand Gen, PMax, Taboola (Y! O&O only), do ok. Meta & Linkedin with auto form fill for leads work significantly better than Google b/c they help remove the friction.",
+      "score": 3,
+      "created_utc": 1756173624.0
+    },
+    {
+      "author": "employerGR",
+      "body": "I would never do lead gen in programmatic as a pay per lead deal with a client. Leads are too difficult to track and generate. And what if their website stinks? Product isnt a good fit... etc.  \n\nGood advertising in general should generate leads BUT leads are a final product of good advertising, not the way we should get paid.  \n\nI would suggest targeting their current lead list with programmatic to help stay top of mind and increase conversion of said leads. Much better way of doing things.",
+      "score": 2,
+      "created_utc": 1756305664.0
+    },
+    {
+      "author": "Separate-Fun-6743",
+      "body": "Not a dumb question! I’ve found most clients have a hard time grasping programmatic and its use case, thinking it’s synonymous with high-intent products like Search. Spoiler: it is not. Anyone who is asking for such has no understanding of the ad type as these two ad products reach users in 2 completely different phases (programmatic during causal browsing while you’re focused on other content versus legit looking for a specific query) \n\nI think you mentioned you’re working in a silo, but I would recommend reviewing yourself or have them review their GA4/CRM. When running programmatic, you will almost always see an increase in leads/site visits/etc from direct, organic, referral, and even paid channels when prog ads are running. This is from brand recall - seeing the brand frequently enough that once the need arises, they’re more likely to conduct an online search (paid or organic) or type the website directly into the search bar. \n\nIf they’re insistent on leads, I would recommend having some form of conversion action set up in platform to be able to measure against as platform conversions will track view through, whereas GA4 is only click through. If you’re tracking a form fill, implement a conversion action for it; maybe even another action for form starts or a click to call numbers. \n\nGoodluck!",
+      "score": 2,
+      "created_utc": 1756518141.0
+    },
+    {
+      "author": "boxdlunch7",
+      "body": "I work in Programmatic. How can I help? Send me a DM.",
+      "score": 1,
+      "created_utc": 1756137050.0
+    },
+    {
+      "author": "thorirhundr",
+      "body": "Buying into view through conversions is key to programmatic. If the client doesn’t understand view-through conversions or doesn’t have an impression or offline metric that they are measuring I think you are setting yourself up for pain and suffering.",
+      "score": 1,
+      "created_utc": 1756154035.0
+    },
+    {
+      "author": "Scary-Secretary7296",
+      "body": "I am neither the brand nor do I have access to their programmatic set up for attribution tracking. \n\nI am supposed to run campaigns in silo and generate leads on their platform. They will call those leads to qualify and pay us. 😐",
+      "score": 1,
+      "created_utc": 1756107878.0
+    },
+    {
+      "author": "Lilfai",
+      "body": "Combining audiences with the first party ones created by like abandoned carts with Affinity/IM audiences can also be effective.",
+      "score": 1,
+      "created_utc": 1756123112.0
+    },
+    {
+      "author": "Scary-Secretary7296",
+      "body": "😂",
+      "score": 1,
+      "created_utc": 1756204050.0
+    },
+    {
+      "author": "Scary-Secretary7296",
+      "body": "Thank you! You are so right with the use cases. \n\nI fail to understand why did we as an industry even started having leads and performance as a KPI on programmatic. I know YT took all the branding budgets away and kitchens had to be run. But programmatic needs a positioning that isn't competitive to Google/Meta and reach is not its core strength. So what is it..",
+      "score": 1,
+      "created_utc": 1756528007.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "Good luck with view conversions in lead gen campaign which tends to use a special URL which is typically very hard to navigate from homepage of site.",
+      "score": 1,
+      "created_utc": 1756173712.0
+    },
+    {
+      "author": "checkyminus",
+      "body": "From the limited info here, I'd stay away from that. Pay per lead is insanely unfair to a silo'd programmatic campaign.",
+      "score": 10,
+      "created_utc": 1756131702.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "Run, don't walk, from this. You will fail based on those constraints.",
+      "score": 8,
+      "created_utc": 1756135793.0
+    },
+    {
+      "author": "cuteman",
+      "body": "They're tracked based on their on platform tracking? \n\nYou're only very rarely going to have the click necessary to associate a programmatic user to CRM almost always the primary click based platform will be attributed unless you're using your own landing page or url but then you're relying on your traffic 100",
+      "score": 1,
+      "created_utc": 1756255494.0
+    },
+    {
+      "author": "thorirhundr",
+      "body": "Sure. If last click attribution is the only attribution model you understand. This makes total sense.",
+      "score": 1,
+      "created_utc": 1756175452.0
+    },
+    {
+      "author": "RHThree",
+      "body": "Absolutely agree. You will never get a post-click lead. 10/10 times when they call the customer they won’t ever say they clicked on an ad and converted right then and there. This will not work with their “measurement”",
+      "score": 4,
+      "created_utc": 1756169906.0
+    },
+    {
+      "author": "Scary-Secretary7296",
+      "body": "Hmmm thats the problem. We are deciding to pursue this as purely CPC.. no leads commitment",
+      "score": 1,
+      "created_utc": 1756266127.0
+    },
+    {
+      "author": "cuteman",
+      "body": "what media types? Display only or other types like Native or Pre-Roll.\n\nbut yeah, ultimately selling programmatic with any kind of click based objective is generally a problem\n\nYou'll get clicks certainly but for display and other low intent channels they'll more often than not be accidental clicks.",
+      "score": 1,
+      "created_utc": 1756327168.0
+    },
+    {
+      "author": "Scary-Secretary7296",
+      "body": "Display.. Will update on results if the client agrees .. :)",
+      "score": 1,
+      "created_utc": 1756347402.0
+    }
+  ]
+}

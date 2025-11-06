@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "DV360 | YouTube TrueView Rate",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j9k47w/dv360_youtube_trueview_rate/",
+  "created_utc": 1741786246.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "Consistent-South9274",
+      "body": "We usually see 30-50% for skippable ads, which seems to just be the nature of the format - people will skip if they can. If the view rate is higher than that, it's usually a sign that the creative is especially engaging.",
+      "score": 7,
+      "created_utc": 1741788747.0
+    },
+    {
+      "author": "60006",
+      "body": "Look at VCR by device. I tend to see CTV delivers higher rates - a bid adjustment to weight spend towards this device could improve things. The potential increase in cost could be worth the trade off as the big screen drives better ad recall.\n\nBut it’s important to accept that many/most people will skip as soon as they can and to avoid wastage your creative should be optimised with the key message understandable in the initial seconds.",
+      "score": 4,
+      "created_utc": 1741790427.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "What's your creative length? Besides looking at VCR by device, I'd also encourage you to look at placement reports and what is driving up VCR. In my experience, most placements that drive high VCR are music videos and similar long-form music content, that's likely playing in the background. If that's the case you should ask yourself whether your creative actually \"works\" in that context, or you're better of paying for lower VCRs but a more engaged audience",
+      "score": 2,
+      "created_utc": 1741857503.0
+    },
+    {
+      "author": "1toremember",
+      "body": "Especially if you're buying on CPV.  \n  \nYouTube is going to optimise towards channels they think they can get a complete view (so they get paid). And there's no real downside to someone skipping an ad because you don't pay for it so chasing VCR isn't always the best strategy.",
+      "score": 2,
+      "created_utc": 1741900025.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "100% this. It's all about understanding what the algorithm is looking for and deciding whether you wanna pursue that or may have to overrule some of the algorithmic decisions. This is why I don't think we're close to AI taking over everything we do in programmatic, because there's still so many subjective viewpoints and discussions on proper steering with clients",
+      "score": 2,
+      "created_utc": 1741937341.0
+    },
+    {
+      "author": "Ok-Friend-7110",
+      "body": "but even if i dont get the view google charges instead 0,02 now 0,03 € per view... so its just the cpv increasing and not me getting free impressions.\n\ntbh if i were the decision maker i would focus more on nonskip, but the client wants skip and optimize on vtr & cpv -> but also looks at bls cost per lifted user\n\nusually its 20 or 30\" ad",
+      "score": 1,
+      "created_utc": 1741972035.0
+    },
+    {
+      "author": "1toremember",
+      "body": "Are you buying on CPV or CPM?\n\nAlso is your BLS cost per lift increasing when your CPV goes from 0.02 to 0.03?",
+      "score": 1,
+      "created_utc": 1741976575.0
+    }
+  ]
+}

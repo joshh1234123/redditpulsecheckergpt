@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Attribution of App Events for Audio/OTT in DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mv61fo/attribution_of_app_events_for_audioott_in_dv360/",
+  "created_utc": 1755667311.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Yeah that ain't happening. You are correct on the offline API only working on a click basis with gclid / dclid.\n\nGoogle will say they use conversion modeling to do something, but when it gets to these nuances of audio / OTT, that is less true.\n\nThe use of IP address in all things targeting / measurement is coming properly though for DV360 on CTV soon though, based on their policy change earlier in the year & the need to compete with other DSPs who use it.",
+      "score": 7,
+      "created_utc": 1755685546.0
+    },
+    {
+      "author": "newormedia",
+      "body": "You’re right, you can’t use IP matching with DV360. Google’s Offline Conversion API is click-based only (needs gclids/wbraids), so it won’t give you view-through attribution.\n\nFor VTC, I would set up **Floodlight tags** in DV360 or use an **MMP/attribution partner** that integrates with Google. That way you can tie OTT/audio impressions back to app activity without relying on IPs.",
+      "score": 0,
+      "created_utc": 1755768852.0
+    },
+    {
+      "author": "pumpkineater22",
+      "body": "Google seems to be so behind the competition here. So if you want view-through attribution of these channels, you need to go with other DSPs like Trade Desk or Nexxen, until Google is able to catch up someday",
+      "score": 1,
+      "created_utc": 1755707915.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "I can't speak for Nexxen, but TTD's pivot to emerging programmatic mediums like CTV / Audio meant they put heavy dependency on signals like IP alongside UID to do more advanced analytics in that space.\n\nIt is understandable why Google didn't go there straight away, given IP address is the easiest way to fingerprint, which is not particularly futureproof.\n\nYou may also want to explore a MMP if you haven't already, since they are the strongest at measuring app events in general & are all pivoting to non-app channels like CTV.",
+      "score": 1,
+      "created_utc": 1755761794.0
+    }
+  ]
+}

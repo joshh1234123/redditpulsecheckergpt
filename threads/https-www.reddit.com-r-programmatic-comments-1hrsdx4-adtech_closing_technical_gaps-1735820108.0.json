@@ -1,0 +1,99 @@
+{
+  "id": null,
+  "title": "AdTech - Closing Technical Gaps",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hrsdx4/adtech_closing_technical_gaps/",
+  "created_utc": 1735820108.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "stevenchoi24",
+      "body": "I don't know of any good public programs that offer this sort of depth - most public training programs are essentially marketing disguised as training. \n\nTo be perfectly honest though, it feels like a lot of what you're describing actually just requires getting super curious and asking about of dumb questions in meetings.\n\nThe only way I've learned is by 1) working at a DSP and asking a million questions to the product people about these exact topics 2) getting out of my depth and getting corrected by experts 3) then wading into the deep waters via reading IAB standards etc...\n\nThe solutions engineers + product managers are generally the ones who know how stuff actually works and gets implemented, and what sort of duct tape is required to actually operate them. As for the dataset analysis + metrics, the data analysts who are helping set up reporting are useful in asking what kinds of metrics actually are relevant and what sorts of things are not.",
+      "score": 14,
+      "created_utc": 1735829930.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Curiosity and asking specific questions. If you have been 9 years in the industry, none of your clients have posed questions about products, a/b testing? Most of I learn came from client questions and reading Reddit questions",
+      "score": 7,
+      "created_utc": 1735821045.0
+    },
+    {
+      "author": "hapsize",
+      "body": "happy to hop on a video chat with you and go through all of these things and answer any questions you may have\n\nI am an expert in programmatic dynamic creative optimization and have a deep understanding of both their technical workings as well as having worked on the creative side with many clients \n\nfeel free to hit me up if you want to have a quick hang out sesh",
+      "score": 4,
+      "created_utc": 1735854839.0
+    },
+    {
+      "author": "Ill_Investigator1565",
+      "body": "Just found adtechexplained.com and it is wonderful. I consider myself in the same position as you in both tenure, area of adtech with experience, and lack of technical knowledge in all those areas listed.",
+      "score": 3,
+      "created_utc": 1735832690.0
+    },
+    {
+      "author": "5betme",
+      "body": "The best option for you would be to talk to a expert on SSP and Publisher side. If you have a chance, start with SSP guys",
+      "score": 1,
+      "created_utc": 1735826181.0
+    },
+    {
+      "author": "klustura",
+      "body": "1- never hesitate to ask questions. Have a ferocious curiosity and combine it with humility. No one knows it all and it's okay to ask basic questions \n\n2- Get used to reading IAB Tech Lab resources.\n\n3- Attend as many webinars as you can.\n\n\nAnd share what you learn with others and accept to be wrong and to be challenged.\n\n\nYour post is a great step forward.",
+      "score": 1,
+      "created_utc": 1735834572.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "At the end of the day it’s difficult to get deep experience in any of these things if your day to day role doesn’t involve them. I find reading specs, like the publicly available OpenRTB documentation, to be helpful. This will help you understand the make up of a bid request, the structure of how specific information is passed between platforms, and the technical base of a lot of ad products",
+      "score": 1,
+      "created_utc": 1735835926.0
+    },
+    {
+      "author": "BellicoseBear",
+      "body": "This is a great question. While on the openweb front there's not a ton of free resources for this, you can actually try to learn a lot of it from documentation of companies.\n\n- When I started in AdTech (as a PM without any coding knowledge), I found Google's documentation extremely helpful. In my opinion, the documentation in Google (DV etc.) is extremely technical and allows you to deeply understand intent and decision making.\n\n- I started on the supply side (and an exchange) and read the IAB protocol documentation for understanding OpenRTB. I read it, asked devs about stuff I didn't understand, and then re-read it. Helped me a ton! Same with Prebid.",
+      "score": 1,
+      "created_utc": 1735875023.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Beyond reading everything you come across about the topics you mention I'd recommend meeting a lot of people from the industry. Do meetings with tech vendors and people from other companies in the industry. Visit trade shows (like Dmexco), network and meet (online or in person) people from different adtech companies. You'd be surprised how much knowledge you can get from a 1h meeting with an experienced 'sales' person from an adtech company if you ask a lot of questions. Many of the business execs or account managers have a lot of product knowledge about their specific areas. View or attend IAB webinars or seminars. Join IAB groups or task forces of different kinds (if you can), do the work, attend the meetings or calls, participate. You might end up in a room with some very skilled people if you are lucky that talks about stuff you can't read somewhere easily. \n\nThere's lots of technical documentation available as well to read or skim through. Say you for example would have had an interest in things like the privacy sandbox and data, there's tons of in depth information to read if you do some research. Like the the UK CMA reports (example https://assets.publishing.service.gov.uk/media/6731ffb00d90eee304badaff/CMA\\_s\\_Q2\\_to\\_Q3\\_2024\\_report.pdf) or the various Github pages (like https://github.com/patcg-individual-drafts/topics or https://patcg.github.io/ppa-api/). Of course a lot of that and similar information is targeted to developers but can be worth to skim through for different topics. Or if you'd like to learn about a topic like cookie syncing and how Google handles it then their documentation has tons of info, like here: https://developers.google.com/authorized-buyers/rtb/cookie-guide",
+      "score": 0,
+      "created_utc": 1735850380.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "This. Especially reading the standards. I'd add all the platform documentation as well including API docs. Learning to code and reading developer docs for the platforms will educate you a lot on what happens underneath the hood to a level that reading basic business user docs on how to push UI buttons will not.",
+      "score": 3,
+      "created_utc": 1735836533.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "There's some pretty decent content there. Thanks for the link!",
+      "score": 2,
+      "created_utc": 1735837165.0
+    },
+    {
+      "author": "Adtechexplained",
+      "body": "Thanks!",
+      "score": 1,
+      "created_utc": 1735885364.0
+    },
+    {
+      "author": "klustura",
+      "body": "I second this.\nAny AdTech career should start on the supply side.\n\nWhile one can be a good fisher without scuba diving, knowing what happens under the sea does help a lot.",
+      "score": 1,
+      "created_utc": 1735834376.0
+    },
+    {
+      "author": "stevenchoi24",
+      "body": "Developer docs are always shockingly straightforward as to what a product can and cannot do, and how it actually does anything. Lately I've been reading measurement companies' developer docs or help materials and it's pretty stark what they'll cop to actually being able to accomplish",
+      "score": 2,
+      "created_utc": 1735849557.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "They have to because they know DE and DS people will read them and ask these questions.",
+      "score": 2,
+      "created_utc": 1735857621.0
+    }
+  ]
+}

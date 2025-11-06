@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "IAS",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mr09s5/ias/",
+  "created_utc": 1755269897.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "IAS is not compatible with Google Ads outside of YT and Social is more a tagless integration for post-bid, where they are dependent on the social platform telling them what to report.\n\nPre-bid social is in the works for certain platforms though, that may get a little interesting.",
+      "score": 2,
+      "created_utc": 1755272781.0
+    },
+    {
+      "author": "sfcheese",
+      "body": "IAS can be used across both DV360 and Google ads for measurement - not sure what goodgoaj means about outside of YT. Any limitations are because of what Google does/doesn’t allow for 3P measurement and true for IAS competitors too.",
+      "score": 1,
+      "created_utc": 1755483033.0
+    },
+    {
+      "author": "Traditional_Map_9853",
+      "body": "So IAS is applied mostly to programmatic campaigns? Would you say that less than 10% of IAS total usage is for social and YouTube, right?",
+      "score": 2,
+      "created_utc": 1755273245.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Programmatic is their flagship vertical yes.\n\nAnd really depends on the brand & how much they believe in IAS. I have worked on plenty that just tag Programmatic post-bid & use IAS pre-bid. And others who believe they should tag absolutely everything, with the main use case to take advantage of some of the unique \"quality\" metrics IAS can measure across all and then optimise towards it omnichannel.\n\nBut at the same time IAS & their competitors are pivoting their focus away from brand suitability and  more towards outcomes / context. So i'm sure you'll see more of their \"targeting\" solutions be pushed a lot going forwards across all channels.",
+      "score": 3,
+      "created_utc": 1755273588.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Also because I still do not understand benefit of using it on social if basically you can not filter with keyword black list or apply other filters out of some publisher exclusion…",
+      "score": 2,
+      "created_utc": 1755293246.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Yes their legacy solutions were post bid only and if you don't really care about those quality metrics, it's not that useful.\nBut pre-bid Meta in particular is on the way, which is a little game changer. Or you can look at what Scope3 are doing here in a similar theme.",
+      "score": 1,
+      "created_utc": 1755334842.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But prebid it’s really expensive, no senso to me",
+      "score": 1,
+      "created_utc": 1755336904.0
+    }
+  ]
+}

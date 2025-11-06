@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "Dv360 white list for targeting",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gm4t94/dv360_white_list_for_targeting/",
+  "created_utc": 1731023212.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "DodgersBum",
+      "body": "DV360 can do inclusion lists.  It can target down to the 2nd level of a URL path.  Here is an example.,,,  http://sub-domain.domain.com/path-level-1/path-level-2/.  It can not target URL’s with more sub-path’s than that.  Also - I’m not really sure if path is the right phrase or not.",
+      "score": 5,
+      "created_utc": 1731027055.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Whitelists are perfectly fine to run in DV, the question you should ask yourself is where are you going to start curating it from? In my experience, the easiest way to start is run open exchange with all pre-bid verification metrics enabled and running post-bid tags. From there you start curating based on the best performing set based on your KPIs\n\nAlternatively, go direct with publishers/SSPs to build a curated marketplace for your agency/advertiser",
+      "score": 5,
+      "created_utc": 1731052029.0
+    },
+    {
+      "author": "vlad_chubakov",
+      "body": "using a blocklist can help you block some low-performing websites. However, new MFA/low-quality inventory appears every day and it is a hard task to catch and block them all. So, I think allowlist is the best starting option here bc using this method you can get rid of long-tail websites that just drain your budget.\n\n  \nP.S. - there is an inventory optimization framework (step-by-step guide on how to build blacklist and whitelist) by Programmatic 101 - I can share it in DM if you are interested",
+      "score": 1,
+      "created_utc": 1731142484.0
+    },
+    {
+      "author": "linuz14",
+      "body": "To me is enought “domain.com”\nBy the way i was not aware that you could also include some “pages” or better “areas” within a site",
+      "score": 1,
+      "created_utc": 1731072797.0
+    },
+    {
+      "author": "cesar3895",
+      "body": "Hi! I'm interested\n\n  \nCould you please share with me?",
+      "score": 2,
+      "created_utc": 1732017368.0
+    },
+    {
+      "author": "vlad_chubakov",
+      "body": "sure - please see the guide [https://drive.google.com/file/d/1MAaEtXirpUs5uHGetFGYTkWmRD1-4weW/view](https://drive.google.com/file/d/1MAaEtXirpUs5uHGetFGYTkWmRD1-4weW/view) and also checklist - [https://docs.google.com/spreadsheets/d/1TbOAyL9U0Cxfx97\\_iylUALQHiI8BcISlOzzQ4wmruow/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1TbOAyL9U0Cxfx97_iylUALQHiI8BcISlOzzQ4wmruow/edit?gid=0#gid=0)",
+      "score": 3,
+      "created_utc": 1732040869.0
+    },
+    {
+      "author": "cesar3895",
+      "body": "Woah thanks!!!",
+      "score": 2,
+      "created_utc": 1732381034.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": null,
+  "title": "Google ad manager Request enrichment ",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hlffhw/google_ad_manager_request_enrichment/",
+  "created_utc": 1735052957.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "dortenzio1991",
+      "body": "It wouldn’t hurt to pass but I don’t think it would generate much incremental revenue. Contact the SSPs you work with and ask them which signals dsps find valuable, they should have some good data to share",
+      "score": 2,
+      "created_utc": 1735054496.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "It'll become more important over time, given GAM won't really get involved in alternative identifiers without reliance on 3p cookies / mobile device ids. PPID / PAIR is very much the Google SSP approach for 1st party data enrichment.",
+      "score": 1,
+      "created_utc": 1735154510.0
+    },
+    {
+      "author": "AdSultans",
+      "body": "Agree with the above.\n\nI worked in the SSP side for a few years and some signals are worth more in the bidstream than others.\n\nExample: CTV buyers love Genre or anything contextual in the request, and publishers charged more for it obviously.",
+      "score": 1,
+      "created_utc": 1735094956.0
+    }
+  ]
+}

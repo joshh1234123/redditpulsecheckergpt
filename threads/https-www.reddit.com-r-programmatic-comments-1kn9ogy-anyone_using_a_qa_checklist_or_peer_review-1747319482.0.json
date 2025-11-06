@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Anyone using a QA checklist or peer review process before launching campaigns?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kn9ogy/anyone_using_a_qa_checklist_or_peer_review/",
+  "created_utc": 1747319482.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "Any_Lawfulness4277",
+      "body": "Both- QA checklist AND have someone double check. It's a great way to catch errors pre-flight, especially if you are using big budgets.\n\nIf you can't have someone double check, then you should have at least your own checklist you're going through. It'll especially help out as you're just starting out and learning the platforms.\n\nI know of atomicAds (https://atomicads.ai/), which essentially automates the QA process. I would recommend creating your own QA list first before buying into a tool. That way you build up your process first, which will make onboarding an automation much easier. \n\nI have a basic list for auditing/QA'ing TTD campaigns that I can share to help get you started (*which I believe I grabbed from a previous redditor, but I can't recall the post*). It's not formatted to Kokai, but it can get you started.",
+      "score": 12,
+      "created_utc": 1747333423.0
+    },
+    {
+      "author": "OrganicHearing",
+      "body": "Absolutely. This is crucial.",
+      "score": 6,
+      "created_utc": 1747326561.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Yes - always get things double checked by someone else. \n\nIME we have always created home-grown QA docs that essentially lay out all possible targeting options, input settings to match the ad group/line item settings, pass it off and adjust",
+      "score": 4,
+      "created_utc": 1747329665.0
+    },
+    {
+      "author": "BoardSerious1066",
+      "body": "Yes have a QA checklist in place but it’s  manual and flawed  like you said, following this thread from some Solutions, already got few from this sub!",
+      "score": 3,
+      "created_utc": 1747337432.0
+    },
+    {
+      "author": "AtomicAds",
+      "body": "Great question, and you're absolutely right. Campaign QA today is still mostly manual, error-prone, and stressful, especially under tight deadlines.\n\nThat’s exactly why we built the **AtomicAds QA Checklist,** a free, open-source resource with 100+ critical checks across DV360, The Trade Desk and more. It was co-created with industry-leading organizations and QA leads who’ve lived this pain firsthand.\n\nThe best part? Anyone can contribute. If you've ever faced a campaign slip-up, drop it in the sheet, we’ll review and add it to the list to help the whole community.\n\nWe’ve also built a **QA Agent** that automates the checklist, so teams can catch issues in seconds and launch with confidence.\n\nExplore the checklist: [Google Sheet](https://docs.google.com/spreadsheets/d/1ZwpR89JoPEVzm09DsTUOafe31vTPwGlauU7NdNB1Ntk/edit?usp=sharing)\n\nCurious about automation? Happy to show you how it works!",
+      "score": 4,
+      "created_utc": 1747323927.0
+    },
+    {
+      "author": "Fleurka23",
+      "body": "A QA checklist is a must. You can put together your own based on campaign inputs (ideally you have a document that lays out the setup in detail). Agencies we’ve outsourced for have preset campaign options standardised across the board (for example, frequency on all levels for a certain campaign type or mandatory site exclusion/inclusion lists, keyword exclusion and category, etc). The easiest way to go about creating one is take a peak historically what’s been set up and look for a pattern and combine that with information for your campaign setup (you of course generalise this in a sense - has correct audience targeting been applied vs have you applied in market for land-mowers audience). And for QA you’re absolutely not going line by line if you have an option to bulk review or edit. If you have the preset for same geo for example across lines, it’s enough to check if one has it applied, and when you download the sheet you can cross-check the rest of them easily.\nAnd after you’ve done all that, you can bet you probably missed to check something. So have someone else also review before setting live.",
+      "score": 2,
+      "created_utc": 1747951535.0
+    },
+    {
+      "author": "Weekly_Accident7552",
+      "body": "We started with Google Sheets, but stuff still slipped through the cracks, and honestly, it just got messy fast.\n\nWe switched to using Manifestly, it’s like Process Street but simpler and more team-friendly. You build your checklist once, assign steps to teammates, and everyone can see what’s done and what’s not (super helpful if your team lives in Slack too).\n\nIt’s made handoffs and peer review way smoother. Honestly, even just having the checklist pop up as part of our workflow stopped so many last-minute “uh-oh” moments.\n\nNot saying it’s the only way, Process Street, Checklistgg, even Trello can work, but Manifestly hit the sweet spot for us. Worth checking out if you want something more structured than docs, but not overwhelming.",
+      "score": 2,
+      "created_utc": 1748469515.0
+    },
+    {
+      "author": "Any_Lawfulness4277",
+      "body": "[https://docs.google.com/spreadsheets/d/1pKxtwos7kSF294\\_KlJxusiPz96FVN19z3HgqvgyX4oE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1pKxtwos7kSF294_KlJxusiPz96FVN19z3HgqvgyX4oE/edit?usp=sharing)",
+      "score": 12,
+      "created_utc": 1747333715.0
+    },
+    {
+      "author": "BadGalNaty",
+      "body": "How does atomicads work? Because my team uses a lot of docs in order to do the QA process",
+      "score": 3,
+      "created_utc": 1747430776.0
+    },
+    {
+      "author": "maxtripped",
+      "body": "do you happen to sell these docs?",
+      "score": 2,
+      "created_utc": 1747562303.0
+    },
+    {
+      "author": "javier_marlega",
+      "body": "That sounds awesome!  I've never heard of Manifestly. I'm totally gonna try it. Thanks!",
+      "score": 1,
+      "created_utc": 1749062990.0
+    },
+    {
+      "author": "javier_marlega",
+      "body": "Thanks, that's really helpful.",
+      "score": 2,
+      "created_utc": 1747636084.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Unfortunately no. Ultimately they’re based on proprietary company information.",
+      "score": 2,
+      "created_utc": 1747563907.0
+    }
+  ]
+}

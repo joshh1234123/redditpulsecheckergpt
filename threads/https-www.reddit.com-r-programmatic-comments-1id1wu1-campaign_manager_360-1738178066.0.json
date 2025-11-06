@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "campaign manager 360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1id1wu1/campaign_manager_360/",
+  "created_utc": 1738178066.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "It’ll have no performance effect. In simplest terms, CM360 is just an ad server. it’s a home for your creatives that can track impressions across multiple sources (or just a single source).\n\n  \nThere’s nothing inherently wrong with hosting your creatives directly in DV360 if you don’t rely on CM360 for reporting, dashboards, or whatever else.",
+      "score": 3,
+      "created_utc": 1738197270.0
+    },
+    {
+      "author": "IamnotSuAnn",
+      "body": "Thank you so much! We can only see campaign attributed sales revenue in CM360 though, correct?",
+      "score": 1,
+      "created_utc": 1738346553.0
+    },
+    {
+      "author": "HuskyInfantry",
+      "body": "Nope you can still look at conversion revenue in DV360 reporting (attributed to the DV360 campaign). It's a self-sufficient platform, you don't need to rely on CM360 in order for DV360 to fully function.\n\nCM360 gives better insight into floodlight activity and cross-channel conversions/touchpoints, but if you're only using DV360 then you're all good.",
+      "score": 2,
+      "created_utc": 1738425012.0
+    },
+    {
+      "author": "IamnotSuAnn",
+      "body": "We track through floodlight pixels, which are set up in CM360, so the only \"revenue\" we see in DV is actually ad spend not the actual campaign revenue - does this sound right? or did we not set things correctly in DV?  and I don't think we are able to see the floodlight activity break down in DV.",
+      "score": 1,
+      "created_utc": 1738962058.0
+    }
+  ]
+}

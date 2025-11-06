@@ -1,0 +1,39 @@
+{
+  "id": null,
+  "title": "The Trade Desk Advertiser Level Seed",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ijo2sg/the_trade_desk_advertiser_level_seed/",
+  "created_utc": 1738907183.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "workredditaccount555",
+      "body": "Yes, the seed is supposed to be a representation of your advertiser's target audience, ideally a list of 1P data of past customers. TTD then uses this seed as a model to find other users that looks like them within your ad group's target audience. When they do find that user, they will prioritize bidding on them when possible. Whether or not it actually does anything for your campaign or is of any importance at all is up to you to figure out.\n\nThere are also some other features that you can use your seed audience for, like finding other relevant data segments to target through value scores, LAL modeling, etc.",
+      "score": 10,
+      "created_utc": 1738915547.0
+    },
+    {
+      "author": "Affectionate-Case499",
+      "body": "Obligatory Kokai sucks and you should switch back to Solimar cause I know TTD reps lurk here",
+      "score": 7,
+      "created_utc": 1739280548.0
+    },
+    {
+      "author": "BartleBeeScrivner",
+      "body": "The seed you build in the advertiser level shows up in your audience level. Just make sure it's relevant to your campaigns and you'll be fine.",
+      "score": 2,
+      "created_utc": 1738978849.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "What’s the main difference between Kokai and Solimar?",
+      "score": 3,
+      "created_utc": 1739497744.0
+    },
+    {
+      "author": "joey_macoyy",
+      "body": "Yea, but my org setup is based on kokai",
+      "score": 2,
+      "created_utc": 1739281128.0
+    }
+  ]
+}

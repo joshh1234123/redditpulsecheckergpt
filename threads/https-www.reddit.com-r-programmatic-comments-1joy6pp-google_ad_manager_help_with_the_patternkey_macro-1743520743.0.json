@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "Google Ad Manager - help with the %%PATTERN:key%% macro",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1joy6pp/google_ad_manager_help_with_the_patternkey_macro/",
+  "created_utc": 1743520743.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "MicroSofty88",
+      "body": "I believe you have to be the website developer / owners to use this. The actual GAM ad slot on the publish web page needs to pass the value based on the page content, user, etc. then GAM can pick up on the key value. \n\nNot sure you can coordinate this as a media buyer, if I’m understanding your situation correctly.",
+      "score": 1,
+      "created_utc": 1743524894.0
+    },
+    {
+      "author": "International_You581",
+      "body": "I see, thank you! We (my company) own the website we are advertising on. I am not the one responsible for it though, so I don't have any more info on the dev / website settings side of things.\n\nSo, just to see if I understand this correctly, for example, I have 2 creatives for my Line Item 300x250 based on 2 audience segments - Electric car and Diesel car. I could create a macro %%PATTERN:targeting%% that returns either Electric car or Diesel car, based on the user the ad will be shown to. \n\nThen, I can share this macro with the third-party company who manages the creative and they would add in their script blahblahblah**&targeting=%%PATTERN:targeting%%**\n\nThen, once a user comes to my website, GAM will recognise this user is in the Electric car segment, GAM will then pass that info via the macro and the latter will be replaced dynamically by \"Electric car\" on the third-party company side. Once they see \"Electric car\" on their end, they will know to show the corresponding creative.\n\nIs that how it kind of works or am I very far off ahahha?",
+      "score": 1,
+      "created_utc": 1743608919.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "An example of how we used this at a previous company is: \n\n1. The content authors would tag content they wrote with certain information (topic: cars, brand: toyota, etc) in the Content Management System they use to publish articles.\n2. Our dev team wrote some code to dynamically insert those values from the Content Management System into the Targeting parameter in the GAM ad slots/tags on the page.\n3. The info (topic = cars, brand = Toyota) is then passed into GAM by the ad tag and available for targeting or potentially DCO.\n\nI’m not a dev but this is an example of an ad tag I found that is being set to pass gender = male and age = 18-34 to GAM. \n\ngoogletag.cmd.push(function() {\n        googletag.defineSlot(‘/1234567/adunit’, [728, 90], ‘div-gpt-ad-123456789-0’)\n            .addService(googletag.pubads())\n            **.setTargeting(‘gender’, ‘male’)** *// Example: Passing ‘gender’ and ‘male’*\n            **.setTargeting(‘age’, ‘18-34’);** *// Example: Passing ‘age’ and ‘18-34’*\n        googletag.enableServices();\n        googletag.display(‘div-gpt-ad-123456789-0’);\n    });\n\n\nSo the all the macro does really is create an opportunity to pass some kind of text value in the ad call. It’s up to your dev team to develop a system that’s sets those values and up to the DCO company what they’re capable of doing with those values and the Pattern macro in their code for the creatives.\n\nFull Disclaimer: I’m not a dev so this is just my understanding of how it works",
+      "score": 2,
+      "created_utc": 1743819457.0
+    },
+    {
+      "author": "International_You581",
+      "body": "Thanks so much for your answer, it's more clear now!",
+      "score": 1,
+      "created_utc": 1744731998.0
+    }
+  ]
+}

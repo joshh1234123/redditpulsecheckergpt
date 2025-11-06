@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Programmatic RTG based on Impressiona",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lvl7hy/programmatic_rtg_based_on_impressiona/",
+  "created_utc": 1752073703.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Just increase frequency cap?",
+      "score": 3,
+      "created_utc": 1752077071.0
+    },
+    {
+      "author": "sarries123",
+      "body": "Publishers hate this stuff. Allows you to create audience segments of their audiences.",
+      "score": 3,
+      "created_utc": 1752080953.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "This is what DMPs used to do but is generally flawed and heavily dependent on 3p cookies.\nFor Google especially, it's actually against their t&c's to do this on both the buy side and supply side.",
+      "score": 2,
+      "created_utc": 1752085341.0
+    },
+    {
+      "author": "THEpapabear",
+      "body": "There's a few different ways to do this, the capability has been around for years. You could use logs or the DSP may have a different solution. Talk to them.",
+      "score": 1,
+      "created_utc": 1752150268.0
+    },
+    {
+      "author": "ECUFan2017",
+      "body": "StackAdapt has it and you can use it through CM.",
+      "score": 1,
+      "created_utc": 1752527090.0
+    },
+    {
+      "author": "BrotherSweaty1585",
+      "body": "Don't understand",
+      "score": 1,
+      "created_utc": 1752077149.0
+    },
+    {
+      "author": "BrotherSweaty1585",
+      "body": "It's my audience not publishers one. Just targeting my audience across multiple publishers.",
+      "score": 1,
+      "created_utc": 1752081625.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "If your frequency cap is 1 per week for example. Put it to 1 per day? So users who are not in your excluded segments may be served the ad every day. You can pull out the frequency report from most dsp’s, so you’ll see impression brackets. What dsp are you using?",
+      "score": 1,
+      "created_utc": 1752078149.0
+    },
+    {
+      "author": "sarries123",
+      "body": "If you only target domainA.com and you create an impression based audience to retarget, you can then go target readers of domainA.com anywhere. Real example, you target people that visit ESPN.com with as low CPM as possible to create a big pool of ESPN readers. You could then go sell that audience or just avoid paying for an audience of \"sports enthusiasts\". You may not think of it as nefarious, but audience data is highly valuable to pubs. Many of their agreements with DSPs prevent doing it.",
+      "score": 1,
+      "created_utc": 1752082036.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "But there is a reason why you retarget based on clicks - it shows intent (theoretically). Impressions are pushed/bought.",
+      "score": 1,
+      "created_utc": 1752078436.0
+    },
+    {
+      "author": "BrotherSweaty1585",
+      "body": "Mmm. So by doing this we are effectively  and non directly using publisher data? . If yes, What would be the difference between this case and rtg off video quartile?",
+      "score": 1,
+      "created_utc": 1752082451.0
+    },
+    {
+      "author": "sarries123",
+      "body": "Yes, that is the case. Doing it based off video quartiles might be even more value extraction from the pub as you have their readers and you can segment those that are more highly engaged for ads.",
+      "score": 1,
+      "created_utc": 1752082689.0
+    },
+    {
+      "author": "BrotherSweaty1585",
+      "body": "So why is it possible to do rtg off quartile and not off impressions?",
+      "score": 1,
+      "created_utc": 1752082745.0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "Decision Power Fluctuation",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jrgapl/decision_power_fluctuation/",
+  "created_utc": 1743784566.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "wawrinkle",
+      "body": "How narrow is the geo-target?\n\nWhat’s your audience forecast without geo-target?\n\nAre you bidding aggressively enough?",
+      "score": 1,
+      "created_utc": 1743787099.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "I haven’t used Kokai before but try see if there’s a report that shows you what bid requests are being filtered out and why I.e. x% don’t match geo, x% don’t match demo, x% due to already meeting frequency cap etc",
+      "score": 1,
+      "created_utc": 1743792887.0
+    },
+    {
+      "author": "bobthunicorn",
+      "body": "We're testing in two states. If I'm understanding the interface correctly, we have 1.1b ids and 289mm users included in our targeting.\n\nOur current max bid is $30.",
+      "score": 1,
+      "created_utc": 1743791140.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "Also what is your frequency cap setting?",
+      "score": 1,
+      "created_utc": 1743792924.0
+    },
+    {
+      "author": "No-Elevator748",
+      "body": "289 million ‘users’ in two states when the national population is 340 million people—lol must be some big states.",
+      "score": 2,
+      "created_utc": 1743808831.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "Makes sense as one user could have more than 1 ID attributed to them",
+      "score": 1,
+      "created_utc": 1743792798.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "FCap should not impact your decision power. There might be something else filtering off your setup. I would remove as many rail as possible. Might be possible your seat/agency has verification blocking or a targeting site/app list?",
+      "score": 1,
+      "created_utc": 1743804707.0
+    },
+    {
+      "author": "bobthunicorn",
+      "body": "Frequency cap is aggressive: 1/day, 3/week. Our goal was to cast a wide net, but I suspect our expectations around total available impressions was overestimated.",
+      "score": 1,
+      "created_utc": 1743794563.0
+    },
+    {
+      "author": "bobthunicorn",
+      "body": "lol I'm pretty sure the 289 is nationwide, and we're targeting some subset of that group in the two states.",
+      "score": 1,
+      "created_utc": 1743809338.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "Yea there may be many factors combined impacting your overall unique reach \n\nI would remove the 1/day fc and see if running with only 3/week improves decision power and delivery",
+      "score": 2,
+      "created_utc": 1743834226.0
+    }
+  ]
+}

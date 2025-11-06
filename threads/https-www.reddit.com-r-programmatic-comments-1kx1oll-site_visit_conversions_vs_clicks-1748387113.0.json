@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "Site Visit Conversions VS clicks",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kx1oll/site_visit_conversions_vs_clicks/",
+  "created_utc": 1748387113.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "rgm-na",
+      "body": "Accidentally clicks. People close out the website before the floodlight tag loads",
+      "score": 5,
+      "created_utc": 1748388146.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Does the website utilize any consent management tools / banners? If the floodlights are set to respect consent banners, that would contribute to the discrepancy. \n\nAlso, check things like CSP policies as those can prevent ad scripts from certain domains if not whitelisted. \n\nLastly, certain browsers and devices will affect this - ex: Apple devices (ITP) as they have short cookie life spans (even with the FL setting it in a 1P context) - this can mess with the scripts ability to report on the ‘site visit’",
+      "score": 5,
+      "created_utc": 1748389618.0
+    },
+    {
+      "author": "NoGravityPull",
+      "body": "Set site visits floodlight to count a visit after 6 seconds",
+      "score": 2,
+      "created_utc": 1748390250.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But anyone has a proper benchmark of what would be a good conversion rate? 20%?",
+      "score": 1,
+      "created_utc": 1748432124.0
+    },
+    {
+      "author": "GrizzledWizard",
+      "body": "Clicks are always going to be over-reported, pixel-based site visit metrics (like floodlight tags) are always going to be under-reported. \n\nFor clicks, this is because there are going to be accidental/fat-finger clicks where people click and exit before a page loads and the pixel actually fires.\n\nFor pixels, third-party cookies (which floodlight tags generally are) are going to be blocked on some browsers and when cookie tracking consent is not given. \n\nStill, 2k clicks compared to 10 site visits is extreme. I would double check both the floodlight setup and where this traffic is coming from, which could be from very low-quality sources that the campaign is prioritizing.",
+      "score": 1,
+      "created_utc": 1748889223.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "Implement Fl using GTM, \nSee settings on tag fires,.unique per session etc..\nTest the firing..\nPull a report on the DSP, break down by exchange and sites to see..\nProbably running too much app inventory.",
+      "score": 1,
+      "created_utc": 1751471217.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "I was thinking that but the difference is so large, i feel like there’s more to it, like the floodlight not loading in certain environments (web vs app) or something.",
+      "score": 2,
+      "created_utc": 1748388805.0
+    },
+    {
+      "author": "xoumphonp",
+      "body": "maybe tags taking to load to execute?",
+      "score": 2,
+      "created_utc": 1748388885.0
+    },
+    {
+      "author": "UnlimitedSW",
+      "body": "Pull a report and check if the large difference is the same across all environments. Also visit the website and check how fast the tag is loading.\n\nI experience the same for many campaigns. It‘s often a mix of bot/fraud traffic, accidental clicks and users rejecting privacy consent.",
+      "score": 2,
+      "created_utc": 1748417652.0
+    }
+  ]
+}

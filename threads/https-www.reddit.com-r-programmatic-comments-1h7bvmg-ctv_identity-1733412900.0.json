@@ -1,0 +1,147 @@
+{
+  "id": null,
+  "title": "CTV Identity",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h7bvmg/ctv_identity/",
+  "created_utc": 1733412900.0,
+  "num_comments": 24,
+  "comments": [
+    {
+      "author": "Master-Contract9083",
+      "body": "IMO, TTD wins by a long shot.  First, almost every major CTV publisher now passes UIDs.  In addition, it seems like many of these publishers are even creating direct connections to TTD, resulting in less hops and more direct signals.\n\nTheir graph is made up of multiple graphs including their own, live ramp and one other company.   This allows them to map to more IDs and doesn’t limit them to only google or yahoo logins.",
+      "score": 8,
+      "created_utc": 1733462284.0
+    },
+    {
+      "author": "Imaginary_Estimate34",
+      "body": "If you are looking for the most flexible, mostly agnostic DSP for CTV that can track and attribute your impressions to online conversions the best choice is TTD. Use Amazon if you want to tap into Prime inventory and/or work with brands that are sellers on the platform. I would avoid DV360.",
+      "score": 5,
+      "created_utc": 1733459988.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Best technical understanding of identity goes to Liveramp (not a DSP), and most scale is going to go to TTD for broad targeting across devices and apps. \n\nThe company with the best for any individual situation is going to be the apps and hardware providers. But, they’re all going to be limited to their view of the universe. Hence why it’s best to go with publisher agnostic solutions with scale. \n\nLiveramp identity solutions trace users for 50ish years. They’re built on old Acxiom tech that was built for direct mail and then connected to online identifiers. Why are they best in the identity game? They start with offline data, and then extend online. \n\nIn general though, CTV identity is a mess because a TV is a shared device by nature. It’s a household level device, not individual. With restrictions on content signals, it’s impossible to understand who’s watching.\n\nIn the future, when TTD releases their OS, we shall what that does to it. It may include user initiated sessions (if they’re smart), where individual watchers have a profile with a UID2 (hashed email).",
+      "score": 5,
+      "created_utc": 1733483068.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "To my knowledge TTD is the only player that have a graph of graphs that suppose to be the most extensive and robust\n\nYou also have stand alone companies that specialize in it depends on what you are trying to achieve.",
+      "score": 8,
+      "created_utc": 1733415790.0
+    },
+    {
+      "author": "YNWA311",
+      "body": "This article is from 2022 but it’s a good starting point. LiveRamp and Yahoo both have strong alt ID offerings too. https://www.admonsters.com/top-10-alternative-id-solutions/",
+      "score": 3,
+      "created_utc": 1733420284.0
+    },
+    {
+      "author": "ssindha",
+      "body": "Google and Amazon have the most robust 1PD user data. Specifically with Paramount+ I think users connected with their google emails or on firetvs would get captured too but not 100% sure how that works",
+      "score": 2,
+      "created_utc": 1733424333.0
+    },
+    {
+      "author": "QwithnoU",
+      "body": "That’s what blockgraph does.",
+      "score": 2,
+      "created_utc": 1733446318.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "|**DSP**|**Best for**|**Identity Methodology**|**Limitations**|\n|:-|:-|:-|:-|\n|**The Trade Desk**|Broad reach, transparency, and multi-platform campaigns on non-O&O inventory.|UID2 (open-source, collaborative)|Relies on industry adoption of UID2 for full effectiveness.|\n|**Google**|Cross-platform campaigns leveraging Google’s ecosystem (YouTube-heavy campaigns).|Google Identity Services + PPIDs|Limited flexibility outside Google’s walled garden.|\n|**Amazon**|Performance campaigns with a strong tie to purchase intent or Fire TV-centric audiences.|Amazon ID (e-commerce + streaming data)|Best within its ecosystem; less open to non-Amazon players.|",
+      "score": 1,
+      "created_utc": 1733472791.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "Yahoo isn’t limited to only Yahoo emails. Very common misconception.",
+      "score": 3,
+      "created_utc": 1733463143.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "Don’t they charge an arm and a leg for the ID graph tho? Other DSPs are free. Also when you build a graph off of just 3p data, quality usually takes a big hit. Not sure why that would be a differentiating point rather than a weakness?",
+      "score": 1,
+      "created_utc": 1735942868.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "\"Graph of graphs\" isn't the flex it's made to be. If you're a graph of other graphs, it means you own nothing (consent, quality, privacy, storage, etc.). Going with a partner that has direct, consented data is the way to go. And most (good) partners with direct data are interoperable with data providers and pubs to expand and authenticate said data.",
+      "score": 5,
+      "created_utc": 1733426483.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "This is correct for all scenarios in TTD that are not CTV - they've built a separate household ip graph for matching audiences to ctv\n\nBeeswax, Pontiac also have IP 1st graphs IIRC\n\nBut at that point OP might as well just go the device route and work with Samsung, Roku, Amazon. Between those 3 more than enough coverage and the device owner will be best suited to give you a match... but 2 of these 3 are plenty scalable in ttd. So we're back where we started...",
+      "score": 2,
+      "created_utc": 1733536657.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "Strong argument for Yahoo here, because we (I work here) are the second-largest publisher, and have authenticated, consumer-consented data that builds our graph. Also use that to match/validate with other pubs, data providers, etc.",
+      "score": 2,
+      "created_utc": 1733426132.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "But built off Yahoo emails and/or people visiting Yahoo O&O, no?",
+      "score": 2,
+      "created_utc": 1733489357.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "Think this was covered in the thread.  They use a combo of their owned graph (adbrain) + liveramp and I think Experian/Tapad.  Their graph is also based heavily on UIDs, which are rooted in emails/phone numbers, and have connections with almost every major authenticated publisher, so don’t think quality is an issue here.  I believe the charges are pass-on or revshare charges from liveramp and tapad?   Other DSPs seem to have much lower match rates in my experience 1p data, so not sure I agree that quality takes a big hit.",
+      "score": 1,
+      "created_utc": 1735962613.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "They have their own graph and LiveRamp integrated together.  It’s pretty good coverage and is also made up of consented data.",
+      "score": 7,
+      "created_utc": 1733462573.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "Mostly, yes, but also built off of, and verified by, other signals from publisher and data partners. It's been in the news, with more coming.\n\n[https://www.adexchanger.com/tv-2/disney-expands-its-audience-graph-and-clean-room-tech-beyond-the-us/](https://www.adexchanger.com/tv-2/disney-expands-its-audience-graph-and-clean-room-tech-beyond-the-us/)\n\n[https://adage.com/article/digital-marketing-ad-tech-news/yahoo-opens-post-cookie-ad-id-ssps-including-amazon/2587131](https://adage.com/article/digital-marketing-ad-tech-news/yahoo-opens-post-cookie-ad-id-ssps-including-amazon/2587131)\n\n  \n[https://www.tvtechnology.com/news/yahoo-dsp-announces-new-integration-with-snowflake](https://www.tvtechnology.com/news/yahoo-dsp-announces-new-integration-with-snowflake)\n\n  \n[https://adage.com/article/digital-marketing-ad-tech-news/yahoo-opens-post-cookie-ad-id-ssps-including-amazon/2587131](https://adage.com/article/digital-marketing-ad-tech-news/yahoo-opens-post-cookie-ad-id-ssps-including-amazon/2587131)\n\n[https://www.exchangewire.com/blog/2024/10/18/yahoo-id-solutions-continues-momentum-extends-publisher-availability-to-provide-publishers-better-roi-on-their-recognised-audiences/](https://www.exchangewire.com/blog/2024/10/18/yahoo-id-solutions-continues-momentum-extends-publisher-availability-to-provide-publishers-better-roi-on-their-recognised-audiences/)\n\n[https://marketech-apac.com/yahoo-extends-identity-solutions-suite-availability-for-publishers-through-launch-partners/](https://marketech-apac.com/yahoo-extends-identity-solutions-suite-availability-for-publishers-through-launch-partners/)\n\n[https://progressivegrocer.com/krogers-purchase-based-audiences-now-available-yahoo-dsp-advertisers](https://progressivegrocer.com/krogers-purchase-based-audiences-now-available-yahoo-dsp-advertisers)\n\n[https://www.tvtechnology.com/news/yahoo-launches-new-data-partnership-with-videoamp](https://www.tvtechnology.com/news/yahoo-launches-new-data-partnership-with-videoamp)\n\n[https://www.mediaweek.com.au/yahoo-identity-solutions-extends-publisher-availability/](https://www.mediaweek.com.au/yahoo-identity-solutions-extends-publisher-availability/)\n\n[https://www.businesswire.com/news/home/20221121005024/en/Yahoo%E2%80%99s-Cookieless-Identity-Solution-Yahoo-ConnectID-Continues-to-Gain-Rapid-Strong-Industry-Support](https://www.businesswire.com/news/home/20221121005024/en/Yahoo%E2%80%99s-Cookieless-Identity-Solution-Yahoo-ConnectID-Continues-to-Gain-Rapid-Strong-Industry-Support)\n\n[https://itbrief.com.au/story/yahoo-partners-with-liveramp-to-boost-advertising-reach-and-interoperability](https://itbrief.com.au/story/yahoo-partners-with-liveramp-to-boost-advertising-reach-and-interoperability)",
+      "score": 1,
+      "created_utc": 1735934788.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "They don’t own the data, though. Their graph is stitched together from other’s data. If a user revokes consent, they’re wholly dependent on someone else abiding by that consent (or lack thereof). Agree LiveRamp is good, but 1. they’re not the only ones integrated and 2. there’s a whole lot of other less desirable data flowing in.",
+      "score": 2,
+      "created_utc": 1733463091.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "Good momentum for you guys!  I keep hearing about some serious match rate issues still with Yahoo, so skeptical about press releases vs reality.    But always good to have more competition in the space, so hope it gets resolved.",
+      "score": 1,
+      "created_utc": 1735940823.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "They do own a graph, former AdBrain graph. Their Identity Alliance uses multiple graphs to cross check and extend each other. It’s a machine learning algo that looks for common connections, and can better resolve disagreements. \n\nWho has the best identity graph for CTV, is going to be whoever owns the hardware and software for a particular impression. \n\nLiveramp’s graph is great for targeting on CTV devices. When trying to do attribution afterwards from the CTV to the ID, it can get murky because I can be a viewer on a device without being the owner.",
+      "score": 2,
+      "created_utc": 1733482468.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "To Ninja’s point, they do own most of their own graph and have a very sophisticated model to cross reference connections from others.   But again, if we are talking about CTV and identity, ever major CTV publisher is sending UIDs in the bidstream now.   And their graph is build off of UIDs, RampIDs and other Device signals   I don’t have an issue with Yahoo, but it’s simply not as robust and doesn’t scale the same against key publishers.   But if you’re buying Yahoo O&O, it’s great.",
+      "score": 2,
+      "created_utc": 1733489280.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "Let's get into specifics! DM me and we can figure out where the match rate perception is coming from. \n\nObviously match rates will vary by partner and the data behind it, but this would be news to me. Example: our Epsilon match rates are among the highest in the industry. Would be curious to hear where you see the gap. Hit me up!",
+      "score": 1,
+      "created_utc": 1735941046.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "No need to DM.   I wasn’t the OP, and I’m certainly not looking to change DSPs.   I actually hate that this thread turned into a ‘sales pitch’ pushing their own solutions, as I’m sure that’s not what the OP was looking for.",
+      "score": 1,
+      "created_utc": 1736115355.0
+    }
+  ]
+}

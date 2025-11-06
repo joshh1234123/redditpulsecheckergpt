@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "How do you work out the eCPM  from the following?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iut728/how_do_you_work_out_the_ecpm_from_the_following/",
+  "created_utc": 1740150885.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "DonSalaam",
+      "body": "Use a free CPM calculator tool found on the web and input your total impressions and your total revenue, while leaving the CPM field blank. It will do a reverse calculation and tell you what the CPM is based on impressions sold and revenue generated.",
+      "score": 5,
+      "created_utc": 1740153519.0
+    },
+    {
+      "author": "elysium13",
+      "body": "Bid: a bid returned by the demand \n\nWin: the winning bid of all returned by all demand \n\nRequested impression: ad server selected line item to deliver \n\nShows impressions: creative successfully rendered to the page \n\nUnique: a slot likely can log multiple sizes causing inflated avails. Best to run delivered impressions for unique since only one of those size requests can serve.",
+      "score": 5,
+      "created_utc": 1740160010.0
+    },
+    {
+      "author": "Remarkable_Dark_4553",
+      "body": "eCPM is cost per 1000 shown impressions. Take revenue  and divide by shown impressions, multiply by 1000.\n\nRevenue: $230\nImpressions: 10,000\neCPM: $23\n\n(230 / 10000) * 1000 = 23.00",
+      "score": 1,
+      "created_utc": 1740151829.0
+    },
+    {
+      "author": "klustura",
+      "body": "My question to you: do you see any discrepancy between wins and requested impressions?",
+      "score": 1,
+      "created_utc": 1740152719.0
+    },
+    {
+      "author": "Indexpatterns786",
+      "body": "Cost/shown impressions * 1000",
+      "score": 1,
+      "created_utc": 1740376813.0
+    },
+    {
+      "author": "phikisol",
+      "body": "Thank you, I suppose my issue was more if I should be using either requested impressions, shown impressions, or wins to do the calculation with.",
+      "score": 1,
+      "created_utc": 1740153663.0
+    },
+    {
+      "author": "phikisol",
+      "body": "I do see some discrepancies, the requested impressions are a couple hundred higher but nothing major.",
+      "score": 1,
+      "created_utc": 1740153184.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "Shown impressions.",
+      "score": 4,
+      "created_utc": 1740154015.0
+    },
+    {
+      "author": "klustura",
+      "body": "That's not bad. It'd've been bad if it was the other way around: more wins than requested imps.",
+      "score": 2,
+      "created_utc": 1740153698.0
+    }
+  ]
+}

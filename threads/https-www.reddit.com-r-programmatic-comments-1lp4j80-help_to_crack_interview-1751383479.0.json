@@ -1,0 +1,93 @@
+{
+  "id": null,
+  "title": "Help to crack interview!",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lp4j80/help_to_crack_interview/",
+  "created_utc": 1751383479.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "lurkerprofile26",
+      "body": "They’ve beefed up their CTV offer to try to compete with TTD. They just started offering a button in video line items that generates a curated pool of CTV inventory (just noticed this yesterday so can’t speak more on it, haven’t personally used it).",
+      "score": 2,
+      "created_utc": 1751383690.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "This is where I would start: https://support.google.com/displayvideo/announcements/9210754?hl=en\n\nAs the previous commenter mentioned, they made some updates to their signals (mainly IP) to broaden their CTV exposure and capabilities. \n\nThey’ve also made some updates to Deman Gen buying through the DSP. Media teams may have different departments that handle this campaign type based on whether they view it as a search or programmatic ‘product’, but they’ve rolled out some decent things within DV for it.",
+      "score": 2,
+      "created_utc": 1751384096.0
+    },
+    {
+      "author": "magicwings",
+      "body": "Now that cookies have finally been depreciated, here are the big DV360 releases:\n\n- Hyper-Targeting for the Undecided Audience segment: target users who browse without adding anything to their cart  \n- Pre-bid mood ring: leverage biometric data to link the emotional state of you and your trading team to adjust bids accordingly  \n- Impression Density Index (IDI) for enhanced inventory quality: tools to ensure you clutter your audience with as many ads as possible by optimizing toward total page pixel coverage  \n- Office Pet Photo Recognition Module is now finally available in beta to partners who have opted-in",
+      "score": 2,
+      "created_utc": 1751384131.0
+    },
+    {
+      "author": "Beneficial_Crab_2213",
+      "body": "Thanks, that would definitely help me!",
+      "score": 0,
+      "created_utc": 1751384122.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Had me on the first line. I had to reread \"pre-bid mood ring\" too many times before my tired ass got it",
+      "score": 7,
+      "created_utc": 1751388070.0
+    },
+    {
+      "author": "Digital_ADSsassin",
+      "body": "Google said they weren't going to deprecate cookies last year btw",
+      "score": 2,
+      "created_utc": 1751385183.0
+    },
+    {
+      "author": "grothsauce",
+      "body": "r/burningman is leaking",
+      "score": 0,
+      "created_utc": 1751394510.0
+    },
+    {
+      "author": "magicwings",
+      "body": "Just a shame that the post-bid cock ring never got off the ground",
+      "score": 4,
+      "created_utc": 1751391627.0
+    },
+    {
+      "author": "lurkerprofile26",
+      "body": "OP ignore this guy, this is all fake!!!",
+      "score": 3,
+      "created_utc": 1751385879.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Never say never when you have IAS / DV in this world!",
+      "score": 1,
+      "created_utc": 1751456072.0
+    },
+    {
+      "author": "Digital_ADSsassin",
+      "body": "lol what? https://www.cookieyes.com/blog/google-cookie-deprecation/#:\\~:text=Google%20had%20initially%20planned%20to,the%20company%20reversed%20its%20decision.",
+      "score": 1,
+      "created_utc": 1751387321.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Theyre telling you to ignore the person above. Those updates were fake. Dude was trying to get the guy to mention something ridiculous.\n\n\nLike Tolstoy's \"War, What is it good for?\"",
+      "score": 2,
+      "created_utc": 1751388149.0
+    },
+    {
+      "author": "lurkerprofile26",
+      "body": "HAHA so sorry, I meant the person above you!",
+      "score": 2,
+      "created_utc": 1751388945.0
+    },
+    {
+      "author": "Digital_ADSsassin",
+      "body": "damn i'm dumb for falling into this trap",
+      "score": 1,
+      "created_utc": 1751388312.0
+    }
+  ]
+}

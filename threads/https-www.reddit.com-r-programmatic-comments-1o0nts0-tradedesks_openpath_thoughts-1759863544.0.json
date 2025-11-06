@@ -1,0 +1,399 @@
+{
+  "id": null,
+  "title": "Tradedesk's Openpath - Thoughts?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o0nts0/tradedesks_openpath_thoughts/",
+  "created_utc": 1759863544.0,
+  "num_comments": 66,
+  "comments": [
+    {
+      "author": "Ambitious_Yoghurt643",
+      "body": "People over look that OpenPath is them making money in another form and shifting the value creation equation for the end customer, and the vendors that value is extracted from. Better path. Better results. More volume. Volume X platform fee = fees. Conceptual win for all around. \n\nYeah it’s “direct” but the worth being mindful of few (potential?) things that make the trade off of lower eCPM / higher results worth the investment:\n1. (Maybe?) The publisher negotiated a direct revshare w TTD (May not always be the case but it wouldn’t be atypical to say “integrate direct and we charge lower revshare than an ssp”)\n2. Has to agree to White Ops fraud tracking (like every other SSP/Pub)\n3. TTD (likely?) makes a revshare off of on the back end (can’t confirm this but it’s usually how any data economics model goes?) and \n4. The Pub signal largely feeds into their graph which makes the graph better, and thereby\n5. They charge a CPM for (Value exchange)\n\nIt’s shifting where they recuperate revenue due to lower eCPMs of direct supply pathing, in turn for creating a distinct product. \n\nYes in the grand scheme of things it results in fewer hops, better identity, match rates etc but those economics and benefits are balanced w the fees and costs faced elsewhere so important people always look at bigger picture. Is there a net positive effect?  Likely yes - every new product and feature has a cost, that may just be recuperated elsewhere and by someone else. \n\nEverything has a pro and a con. Overall it’s largely a good thing but it needs to be considered that the benefit of savings, signal etc is still being paid for in different forms.",
+      "score": 22,
+      "created_utc": 1759876618.0
+    },
+    {
+      "author": "SolidFlimsy6641",
+      "body": "I’d get down to the root of why you care. Personally, I’m fine with OpenPath inventory, it’s just a direct pipe from publisher to TTD. Typically when it comes to inventory, I care about the sites and environments I’m delivering on, not the supply path.",
+      "score": 22,
+      "created_utc": 1759864014.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "My question is why do you care if you served on a site through OpenPath or a SSP reseller? If you reached your audience and hit your performance goals, isn’t that most important?",
+      "score": 7,
+      "created_utc": 1759876332.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "OP, you have to opt in to OpenPath and choose the specific individual sellers. If you think you were automatically opted in to OpenPath and that'schangex with Kokai, please find out from your account manager and share back with everyone. Would be a very big deal.",
+      "score": 3,
+      "created_utc": 1760068468.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "What do you mean you saw supply vendors you never selected? If you’ve explicitly chosen supply vendors for targeting, The Trade Desk will not serve impressions outside those parameters.\n\nAlso, why do you not want to serve via OpenPath? It’s a direct connection to publishers, which typically results in better signal, stronger performance, and more efficient pricing. You should consider running a comparison between the same inventory through OpenPath versus other supply vendors to see the difference in outcomes.",
+      "score": 15,
+      "created_utc": 1759864280.0
+    },
+    {
+      "author": "MixtureScared8368",
+      "body": "You’re not overreacting. Supply transparency should matter — especially when buyers lose visibility into which publishers they’re actually buying from or when intermediaries quietly change supply routes. It’s not just about knowing where impressions come from; it’s about understanding the commercial relationships, fees, and quality behind them. When the same platform controls both demand and supply, incentives can get blurry fast.",
+      "score": 7,
+      "created_utc": 1759866351.0
+    },
+    {
+      "author": "ItWillBFine69",
+      "body": "Have you asked your account manager about this?",
+      "score": 4,
+      "created_utc": 1759863796.0
+    },
+    {
+      "author": "drkingsize",
+      "body": "At least it’s clean supply. ",
+      "score": 3,
+      "created_utc": 1759879691.0
+    },
+    {
+      "author": "chill-out-100",
+      "body": "I think you're misunderstanding the actual Ad Tech tax. Buyers lose sight of the fact that SSP + reseller(s) + curation layers are shaving off up to 80% of their bid before (or after) it reaches the inventory. You can yell at TTD all you want, but ultimately they're acting in the best interest of their buyers and more premium inventory suppliers. It benefits everyone to have a clearer pulse on the market and fully transparent supply side fee structures.",
+      "score": 3,
+      "created_utc": 1760023637.0
+    },
+    {
+      "author": "drg2574",
+      "body": "https://www.adexchanger.com/platforms/adalytics-the-ad-industrys-bot-problem-is-worse-than-we-thought/\n\n17% of impressions are fraudulent via OpenPath, if you want to clean up the supply…shouldn’t it be 0%?",
+      "score": 2,
+      "created_utc": 1760064747.0
+    },
+    {
+      "author": "Separate_Air460",
+      "body": "Turn your efficiency to 0% and it will freely optimize fairly across all SSPs",
+      "score": 1,
+      "created_utc": 1760108794.0
+    },
+    {
+      "author": "amzsellr154",
+      "body": "Why does TD charge for human fee for openpath when they are the transparency layer and control both ends of the transaction?",
+      "score": 1,
+      "created_utc": 1759895092.0
+    },
+    {
+      "author": "ProgrammaticBadman",
+      "body": "If they are adding publishers you never requested it makes me wonder about the back end margin they are making. If you are adding extra supply like that it is because there is money in it. Thats why it is important. The same as Google driving revenue to their favoured domains instead of curated supply. It just means more money to them which again shines a bad light on programmatic",
+      "score": -2,
+      "created_utc": 1759866706.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "not overreacting IMO - I heard at a recent conference that fraud in OpenPath could be as high as 75%. The problem with it is they are using AI to curate their own supply and that is what you're buying without even knowing it. Theres no way it's the same quality and sources are of course questionable. \n\nYou can opt out - search \"how do I opt out of openpath\" on chatgpt.",
+      "score": -13,
+      "created_utc": 1759867713.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "I don’t think TTD has a rev share with WhiteOps. It’s a requirement because they’re far superior to IAS and DV",
+      "score": 6,
+      "created_utc": 1759892439.0
+    },
+    {
+      "author": "Lanky-Clock89",
+      "body": "do you think an agency would be better off working with pubs directly then?",
+      "score": 2,
+      "created_utc": 1759974380.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Do you work at an ssp? \n\nIf you're buy side, why do you care what the fee model is if it's giving you fewer hops, better identity, match rates, better cpms for identical inventory... ttd has been vocal about low fee / running open path at barely above cost, which the SSPs are not. And they can validate bid stream signals coming from alternative paths. For the buy side there are zero negatives.\n\nDo they really make a rev share off of white ops? Are you certain about that? Very important if true so can't make that claim without evidence",
+      "score": 2,
+      "created_utc": 1760067784.0
+    },
+    {
+      "author": "MixtureScared8368",
+      "body": "Sites and environments matter — agreed.\nBut ignoring the path is like saying you don’t care how your ad got to that site, just that it did. That’s how duplicate auctions, hidden fees, and shady resellers creep in. The path is the difference between “premium” and “premium-ish.”",
+      "score": 15,
+      "created_utc": 1759866517.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "That’s how it should be. Let DSPs figure out the optimal path to the audience and inventory!",
+      "score": 3,
+      "created_utc": 1759876102.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "Nah its super shady. Using an AI of their own to curate the supply that they also have vested interest in is never in the best interest of the buyer. It's a way to increase their profit margins even more, that is what they do!",
+      "score": -8,
+      "created_utc": 1759867767.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "TTD doesn’t control the supply side or take a margin from OpenPath. It’s designed to increase transparency by allowing buyers to connect directly with publishers and see exactly where their spend goes, without hidden intermediaries or opaque fees.\n\nIn fact, TTD runs OpenPath essentially at cost as a service to the industry, and it’s been publicly stated that it improves price discovery and reduces obfuscation in the supply chain. So rather than blurring incentives, it’s intended to make the entire path between advertiser and publisher more open and accountable.",
+      "score": 18,
+      "created_utc": 1759869748.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "How do we know it's clean? Its an identical connection to what the SSPs have with the pubs.",
+      "score": 1,
+      "created_utc": 1760068188.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "How does that compare to non open path? I would guess the same.",
+      "score": 2,
+      "created_utc": 1760068708.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Because they need to pay Human to filter the bots. Pub can set an ad call for any auction/site traffic which often includes IVT. TTD is not a bot filtration company and has chosen to outsource.",
+      "score": 1,
+      "created_utc": 1760068343.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "It’s worth clarifying based on what’s been publicly shared by The Trade Desk. OpenPath, the product is run essentially at cost and has had little to no net effect on profitability. It was created to *clean up the digital ad supply chain* and provide a more transparent, direct connection between buyers and publishers, not to drive margin or hidden revenue.\n\nIn fact, OpenPath has accelerated efforts to reduce duplication, obfuscation, and other inefficient reseller practices that inflate costs for advertisers. The company has been very explicit that OpenPath’s role is to improve supply chain quality and efficiency, not to act as a money-maker.\n\nIf you listen to any earnings call TTD has done since the launch of OpenPath this has been reiterated multiple times.",
+      "score": 9,
+      "created_utc": 1759869687.0
+    },
+    {
+      "author": "Far-Speech-3878",
+      "body": "This!",
+      "score": -2,
+      "created_utc": 1759867703.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Interesting, do you happen to recall which conference that was and where the data came from? The claim about OpenPath using AI to curate its own supply doesn’t quite align with how the product actually works. OpenPath is designed to provide direct publisher connections and greater transparency by removing intermediaries, so I’d be cautious about that interpretation.",
+      "score": 5,
+      "created_utc": 1759869467.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Heard this was said at ProgIO but there is no way its true. Have you seen 75% fraud on your open path spend?",
+      "score": 1,
+      "created_utc": 1760068605.0
+    },
+    {
+      "author": "Ambitious_Yoghurt643",
+      "body": "So you think they just unselfishly force publishers to agree to apply and use whiteops on everything because it’s “better”? 😀 why not give the optionality then? Trade offs. But again: always would question how the money flows.",
+      "score": 4,
+      "created_utc": 1759920750.0
+    },
+    {
+      "author": "Ambitious_Yoghurt643",
+      "body": "Very fair points, and no, you are right. If the results are there then it doesn’t matter. I personally am a big fan of the product as I think it disrupted an area where innovation stalled (SSPs). I also own shares in TTD so my take is more from the side of “every new product has to make money and in turn create enough value to cover the cost, so people should understand that”.\n\nMy point was more so to elevate that everything has a net benefit calculation, and there is still a commercial tradeoff behind every product - what shifts is who incurs it vs doesn’t. Re the other items, all hear say so to your point could just be a pub or two sharing their own perspective that I’ve run into over the years. \n\nIt’s just often we see people default to assumptions here vs thinking more deeply about the fact everyone has a business to run, so whether open path or non, someone has to make money, and they aim to deliver enough value in excess of that money so that the end buyer has a net positive experience and invests more. Important we all think through that as we talk about products we use daily. They only work for the client if a company behind them can make money to keep investing in them.",
+      "score": 1,
+      "created_utc": 1760088881.0
+    },
+    {
+      "author": "SolidFlimsy6641",
+      "body": "While I agree with this in theory, shouldn’t Open Path resolve that? Cutting SSPs means fewer potential inventory hops.",
+      "score": 4,
+      "created_utc": 1759880833.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "Totally agree that people should care about the path. But i also think buyers deserve not to stress about it. DSPs should always try to bid on the most efficient path. It would be great if we lived in a world where all the value extracting bad actors disappeared but we don’t.",
+      "score": 3,
+      "created_utc": 1759876216.0
+    },
+    {
+      "author": "Pleasant-Action-742",
+      "body": "Exactly my thoughts.  The goal is the DSP is to represent the buy side and find the most efficient and cleanest path to purchase.   This is not unique to TTD.   Some other DSPs offer some type of direct connection to publishers as well.  From what I’ve seen, some SSPs are taking high take rates and adding minimal value.",
+      "score": 8,
+      "created_utc": 1759876562.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Stop spreading misinformation... TTD does not make any margins (it is run at cost) from the supply/OpenPath. Not sure where you get this information but it's wrong.",
+      "score": 7,
+      "created_utc": 1759871150.0
+    },
+    {
+      "author": "navvyfbaby",
+      "body": "Clearly you don’t buy yourself do you",
+      "score": 0,
+      "created_utc": 1759893273.0
+    },
+    {
+      "author": "andtheylovedit",
+      "body": "Are you the CFO of TTD? How could you confidently speak on the P&L of OpenPath without knowing their overall opex and capex? Of course they make money on it, its a new pub side fee when there wasnt previously one in the first place, particularly outside of pre bid",
+      "score": 7,
+      "created_utc": 1759877903.0
+    },
+    {
+      "author": "ParkingAstronomer25",
+      "body": "cough cough bullshit",
+      "score": 2,
+      "created_utc": 1760055298.0
+    },
+    {
+      "author": "im_super_excited",
+      "body": "TTD takes a margin on OpenPath. Up to 20%\n\nYou should speak directly with the publishers on OpenPath about it. The commercials function more like a kickback from the publisher, rather than a margin or fee taken out of the auction cost.",
+      "score": 1,
+      "created_utc": 1760120753.0
+    },
+    {
+      "author": "drkingsize",
+      "body": "No disagreement there, you’re 100% correct that it’s still going to flow through the same pipes. \n\nIt’s hard to argue that OP, given its onboarding rigor, is an inherently bad supply path compared to other options. ",
+      "score": 2,
+      "created_utc": 1760070194.0
+    },
+    {
+      "author": "trenhard",
+      "body": "They are probably mixing in the \"Audience Unlimited\" announcement",
+      "score": 7,
+      "created_utc": 1759870334.0
+    },
+    {
+      "author": "MixtureScared8368",
+      "body": "I think the issue here is that some people commenting are US based and talking about CTV and OTT. If you’re outside the US, perhaps Openpath is viable? I don’t think having a DSP control supply is good. I mean…ahem, Google anyone?",
+      "score": 3,
+      "created_utc": 1759892792.0
+    },
+    {
+      "author": "chill-out-100",
+      "body": "TTD requires white ops on every path it buys (read: all ssps)",
+      "score": 2,
+      "created_utc": 1760023257.0
+    },
+    {
+      "author": "SolidFlimsy6641",
+      "body": "Maybe I’m too trusting. Maybe I’m too lazy. But, IMO there are enough prebid options to optimize away from low quality inventory that those who care about efficiencies will optimize to them anyway, even if not directly. I’m with you, in theory I care, but it’s like priority 20 and I’m underwater anyway. I’m good with slapping on a prebid and calling it a day. If bad actors still get past that, frankly they’re smarter than me and would have gotten past any manual analysis I did anyway.",
+      "score": 1,
+      "created_utc": 1759947271.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "The goal of the DSP is to take the maximum fee possible while delivering minimal outcome required to not get fired and replaced by another DSP. DSPs and buyers DO NOT SHARE THE SAME INCENTIVES.",
+      "score": 2,
+      "created_utc": 1759904411.0
+    },
+    {
+      "author": "SolidFlimsy6641",
+      "body": "People acting like TTD isn’t a publicly traded company that is required to post their financials quarterly is hilarious.",
+      "score": 3,
+      "created_utc": 1759947319.0
+    },
+    {
+      "author": "sarries123",
+      "body": "They charge the publisher a fee. One they don't get from a SSP connection. I can't speak if it's profitable, but they do charge the supply side for it.",
+      "score": 1,
+      "created_utc": 1759872332.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "Your reply is exactly I expected",
+      "score": 0,
+      "created_utc": 1759873151.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "Yes they do. They make money off the supply that their internal AI now curates AND they make money off the tech fee. OpenPath is a way for TTD to make more money by also becoming the supplier. But it's worse supply, not better, they are just charging the same or more and not telling anyone. It's auto opt IN, not out...hard to cancel...and fees are what again?",
+      "score": 0,
+      "created_utc": 1759947543.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "It's highly likely, insanely high, that I know more than you do",
+      "score": 0,
+      "created_utc": 1759947225.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "https://www.thecurrent.com/opinion-jeff-green-the-trade-desk-open-internet-2025-part-2-buyer-innovations-change-ad-market\n\nSource^",
+      "score": 2,
+      "created_utc": 1759880411.0
+    },
+    {
+      "author": "Pleasant-Action-742",
+      "body": "That’s simply incorrect.  I believe I heard the avg was sub 5%.  Compare that to SSPs who are taking 15-20%+ without delivering value.   If TTD was taking 20%, pretty sure they would have blown out their earnings.   Stop spreading bad info.",
+      "score": 1,
+      "created_utc": 1760225903.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "And declared bots still leak through",
+      "score": 3,
+      "created_utc": 1760067859.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "There are non-manual ways for you to do this work. Deepsee, OpenSincera, Jounce. No need for prebid which is a total waste of $$",
+      "score": 2,
+      "created_utc": 1760068002.0
+    },
+    {
+      "author": "Pleasant-Action-742",
+      "body": "That’s simply not accurate for good DSPs.  I agree that ‘walled garden’ DSPs that also own supply have a tendency to decision towards their own supply (ie Amazon and google will buy their own inventory 9/10 times to maximize revenue, even if it’s not the best for driving outcomes’.  But SSPs are even worse at maximizing profit without often proving clear value for anyone.",
+      "score": 5,
+      "created_utc": 1759922388.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "You mis-spelled SSP",
+      "score": 3,
+      "created_utc": 1760068051.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "I posted this else on the other thread, and I should have been more clear: \n\nOpenPath, the product is run essentially at cost and has had little to no net effect on profitability. It was created to *clean up the digital ad supply chain* and provide a more transparent, direct connection between buyers and publishers, not to drive margin or hidden revenue.\n\nIn fact, OpenPath has accelerated efforts to reduce duplication, obfuscation, and other inefficient reseller practices that inflate costs for advertisers. The company has been very explicit that OpenPath’s role is to improve supply chain quality and efficiency, not to act as a money-maker.\n\nIf you listen to any earnings call TTD has done since the launch of OpenPath this has been reiterated multiple times.",
+      "score": 10,
+      "created_utc": 1759874647.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Feel free to provide data showing that The Trade Desk is making margin beyond the cost of operating OpenPath  or any evidence supporting the other unfounded claims you’ve been making about “AI-curated” supply and similar narratives.",
+      "score": 11,
+      "created_utc": 1759874814.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Again stop spreading misinformation... where are you getting this information from? How do you know it's worse supply? Have you run any campaigns or have access to any of this data on TTD.",
+      "score": 1,
+      "created_utc": 1759949580.0
+    },
+    {
+      "author": "navvyfbaby",
+      "body": "Bahaha ok boomer",
+      "score": 1,
+      "created_utc": 1760015926.0
+    },
+    {
+      "author": "andtheylovedit",
+      "body": "I read this too, I just don’t believe it :)",
+      "score": 3,
+      "created_utc": 1759880570.0
+    },
+    {
+      "author": "MixtureScared8368",
+      "body": "Bro, the CEO of TTD wrote this!!! 🤣🤣🤣 Look, I don’t really care if agencies want to hit the easy button and gulp down TTD’s BS…it’ll all come out in the wash anyways. Advertising is very difficult and that always makes it ripe for shenanigans…ESPECIALLY in the programmatic space.  TTD is desperate and it shows. That’s a fact. But hey, they’ve done an amazing job marketing their platform. Gotta give them that.",
+      "score": 1,
+      "created_utc": 1759892093.0
+    },
+    {
+      "author": "data_spy",
+      "body": "\"That's simply incorrect\" and following it with \"I believe I heard\" are statements at odds with each other.",
+      "score": 1,
+      "created_utc": 1760285690.0
+    },
+    {
+      "author": "im_super_excited",
+      "body": "It varies by publisher, and some are as low as 5%.\n\n\nIr's not bad info. Speak directly to the publishers you ultimately buy from. Not just the SSP.\n\n\nThe Trade Desk's average take on Open Path is in the range of a normal SSP that you quoted \n\n\nAre they delivering any more valuable than any other ID stuffing SSP?",
+      "score": 1,
+      "created_utc": 1760226520.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "It’s accurate for all DSPs that are not owned and operated by brands.",
+      "score": 2,
+      "created_utc": 1759922837.0
+    },
+    {
+      "author": "Pleasant-Action-742",
+      "body": "Yeah, it’s more value as a direct connection without hops and egregious fees.   Again, if take rates were the same as ssp’s, their earnings would be very different.",
+      "score": 1,
+      "created_utc": 1760231052.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "title": "DV360 - YouTube Efficient reach Line item",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1g9o5ug/dv360_youtube_efficient_reach_line_item/",
+  "created_utc": 1729618979.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Practical-Long-3893",
+      "body": "Strange, I believe the function is not yet released fully thats the reason you may facing this. You can try contacting help center they can help you out here.",
+      "score": 2,
+      "created_utc": 1729657020.0
+    },
+    {
+      "author": "Flipdoc_",
+      "body": "The only ad format that you can preview on DV360 is a standard video ad (shippable, non shippable or bumper). When you select in feed or shorts, the preview will still show a regular video ad because the platform is mediocre.\nYou will need to reach out to Google support or to a representative and ask them to force a preview on the desired ad format. I requested this a long time ago and at that time even the rep told me that their available tool had been deprecated lol.",
+      "score": 1,
+      "created_utc": 1729687841.0
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "Need to Integrate Blis DSP, OpenX, & Ability to Create Our Own Deals & Deal IDs ",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h0u6h5/need_to_integrate_blis_dsp_openx_ability_to/",
+  "created_utc": 1732675689.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "adopsunite",
+      "body": "I'm kinda confused.  Where do you fit in this situation?  \n\nIs your client a buyer or a publisher?  \n\nYou want to create deal_ids but you don't want to do it in openx directly even though that's your clients SSP choice?",
+      "score": 9,
+      "created_utc": 1732684044.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Like the other commenter, I’m kind of confused about what your business model is and what the ultimate goal is here. Whether or not this is possible (targeting openx ssp specifically in blis dsp) is more dependent on what the UI in blis allows and if the teams at blis and openx have created an integration between the platforms.",
+      "score": 6,
+      "created_utc": 1732685579.0
+    },
+    {
+      "author": "adopsunite",
+      "body": "So It sounds like you are basically a data provider.\n\nYou give buyers the ability to target a \"under represented minorities\" audience or some segment except you want it set up in a PMP deal.  In exchange you want to set a fee for whatever spend goes through that PMP deal.  \n\nI don't think you can do this with your own platform.\n\nSince you want to use deal_ids you're entering the new industry hotness.. Supply Side Curation.. so you will need to create the deal_id with the actual SSPs. \n\nOtherwise you will need to go on the old fashioned route and integrate your data on Blis and take your fee from the buyer there.\n\nIf you put your audience data in liveramp you can easily push your data to any adtech partner they have a connection with..",
+      "score": 5,
+      "created_utc": 1732694816.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Based on the comments below, it sounds like you offer a form of curation. If that's the case, I really struggle to understand why you can't work with OpenX and their OpenAudience platform to create deal IDs and push those to your client's Blis DSP seats",
+      "score": 3,
+      "created_utc": 1732699838.0
+    },
+    {
+      "author": "mgru",
+      "body": "Creating deals and adding your margin on top is a SSP feature. \n\nYour customer wants to rely on OpenX specifically so that's who you should be working with. \n\nYou say they're a no go but in my experience they completely support the model you described. If not please elaborate.",
+      "score": 2,
+      "created_utc": 1732694217.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Sound like a curation based deal ID\nDo you have your own media or just the data?\n\n\nWe can help you get the ssp tech that will integrate Bliss and will allow you to create deal id’s\n\nWe are also integrated with openx but growing through 3 technical hops will be cost prohibitive \n\nYou best bet will be getting an SSP capability and integrate Bliss direct or via bidswitch\n\nIf you go with 3 hops the media cost will inflate prices like so\n\nMedia cost base $10 cpm\n\nReasonable low cost tech platform fee 10% = $11\n\nOpenx fee 15-25% unless discount so 11*1.2= $13.2\n\nBliss media cost fee estimated 15% = $15.18\n\nYour data fee estimated $2\n\nSo the client ends up paying $17 cpm for media that they potentially get from the publisher at $10 and you did even make a whole lot of money.",
+      "score": 2,
+      "created_utc": 1732696369.0
+    },
+    {
+      "author": "GrassyKnoll45",
+      "body": "Our client is a buyer; and they want to only use OpenX as their SSP.",
+      "score": 1,
+      "created_utc": 1732685448.0
+    },
+    {
+      "author": "GrassyKnoll45",
+      "body": "Our business model is that we offer targeting options for under represented minority audiences. The end goal is that we want the ability to create our own PMP Deals & Deal IDs and to be able to bake in a variable percentage fee for our services. Does that make sense? We are looking for a software or company that can help us with this that is: reputable, has good consistent reporting, and has the lowest fees for activating new Deals & Deal IDs.",
+      "score": 1,
+      "created_utc": 1732686886.0
+    },
+    {
+      "author": "ProgrammaticBadman",
+      "body": "I have DMd you 😊",
+      "score": 1,
+      "created_utc": 1732702665.0
+    },
+    {
+      "author": "DisastrousAd7809",
+      "body": "I specialise in these types of solution set up and scaling as a consultant. DM me for rates.",
+      "score": 1,
+      "created_utc": 1732711414.0
+    },
+    {
+      "author": "GrassyKnoll45",
+      "body": "Yes, we are a data provider in this instance; and thank you. Sounds like you get what we are trying to achieve. Would you be open to a brief conversation? If so, can you DM me?",
+      "score": 1,
+      "created_utc": 1732721024.0
+    },
+    {
+      "author": "GrassyKnoll45",
+      "body": "So I connected with OpenX over the phone early last week and the week prior, signed a Mutual NDA with them this past Wednesday, and after two phone calls and signing a Mutual NDA they just sent me this on Monday morning: \n\n“We regrouped with leadership internally once more and unfortunately we’re not going to be able to move forward here with a fee agreement/payout schedule. If we were to move forward it would have to be through our standard deal ID activation process:\n\n(1) Confirm DSP and buying seat ID\n\n(2) OpenX builds deals based on targeting/audience parameters (e.g. site/app lists)\n\n(3) Deals sent to client for activation in the DSP, with confirmation of targeting parameters, floors, bid recommendations, etc.\n\n(4) Client to send OpenX DSP-side reporting so OpenX can assist with backend optimizations\n\nPlease let me know if this is something you’d like to move forward with.”\n\nThis is my email reply to my contact’s email above:\n\nDeals sent to client for activation in the DSP, with confirmation of targeting parameters, floors, bid recommendations, etc.\n\n“On this piece, you are just saying that we would send the deals to the client for activation on their DSP is that correct? Just want to clarify. \n\nSo basically what you are saying above is that we can’t add in a percentage for our fees directly embedded in Deals & Deal IDs that OpenX creates; and that OpenX will not do direct payouts to us is that correct? \n\nIn this scenario, how can we charge for our services then if OpenX can not do payouts? How do other 3rd Party providers have this setup with OpenX in similar situations?”",
+      "score": 1,
+      "created_utc": 1732720786.0
+    },
+    {
+      "author": "GrassyKnoll45",
+      "body": "In this instance, it would be a custom setup for CTV & OLV placements curated for African American & Hispanic Audiences as well as a curated list of websites for display for both audiences. \n\nHere is what we need more specifically:\n\n6 Deal IDs: \n\nAfrican American - (Placements) \n\n(1) CTV\n(2) OLV\n(3) Display \n\nLatino / Hispanic - (Placements) \n\n(1) CTV\n(2) OLV\n(3) Display \n\nCustom PMP Deals & Deal IDs for each of the 6 options mentioned above.",
+      "score": 1,
+      "created_utc": 1732722713.0
+    },
+    {
+      "author": "Hairy-Condition8150",
+      "body": "So you basically would like to:  \n1. Integrate with OpenX as a supply  \n2. Integrate Bliss DSP as a demand  \n3. Upload your audiences and create PMPs with OpenX  \n4. Add your margin on all requests that come through from those specific audiences to Bliss DSP\n\nAm I right? But, how do you plan to integrate your data/audiences? As I understand you're not using LiveRamp or other marketplaces",
+      "score": 1,
+      "created_utc": 1732891113.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Is the buyer only buying OpenX inventory within their DSP for some reason?\n\n\nIf not, it seems like every SSP is doing sell-side curation these days and I'd reach out to OpenX competitors who should be happy to take your money.",
+      "score": 1,
+      "created_utc": 1732774857.0
+    },
+    {
+      "author": "adopsunite",
+      "body": "It sounds like you are not bringing in anything unique (just a site list?) or maybe your level of spend / fees is not worth it to them to pay you directly.\n\nWhat they are offering instead, is to set the deal up for you and your buyer.  You both will get impression/spend reporting then you can iron out the payments between each other?  (This is all an assumption).",
+      "score": 5,
+      "created_utc": 1732726119.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Yes\nBut how are driving the data and traffic\n\nDo you send vast and js tags to these publishers?\n\nDo you have an s3 bucket with the audience data?",
+      "score": 1,
+      "created_utc": 1732735099.0
+    }
+  ]
+}

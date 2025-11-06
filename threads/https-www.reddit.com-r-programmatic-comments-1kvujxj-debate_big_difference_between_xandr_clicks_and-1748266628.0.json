@@ -1,0 +1,141 @@
+{
+  "id": null,
+  "title": "Debate |Big difference between Xandr Clicks and GA4 Sessions | Atribution discrepancies-",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kvujxj/debate_big_difference_between_xandr_clicks_and/",
+  "created_utc": 1748266628.0,
+  "num_comments": 22,
+  "comments": [
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Couples of questions and initial things to check:\n1. Are you using a 3P ad server to measure clicks independently of the DSP click reporting? You shouldn’t see a large click difference here, but could help you troubleshoot. \n\n2. Is your client utilizing a consent banner on their website / consent mode within GA4? Depending on configurations this would prevent ad tags / scripts from running, leading to discrepancies \nbetween platforms. On this note also check things like CSP policies as those can prevent scripts from running if not whitelisted.\n\n3. Review your session / engagement time settings in the analytics platform. Some clients will set their session metric to be a higher / lower time amount than others, so you need to see if that plays a factor. \n\nLastly, a reminder that a click doesn’t necessarily equal to a session, they are different metrics but like a previous comment noted - I’d personally switch from an ad click focused strategy as it’s too susceptible to fraud, click farms and potentially low intent users. You may be better off switching to a soft conversion strategy, where your display campaign is set to optimize off actions like ‘certain time spent on key pages, whitepaper downloads, etc.’",
+      "score": 6,
+      "created_utc": 1748272172.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "75% drop from click to visit is pretty normal, since most clicks are invalid/involuntary. 5% BR is crazy tho",
+      "score": 3,
+      "created_utc": 1748277630.0
+    },
+    {
+      "author": "Aggressive-Lack4212",
+      "body": "Put a pixel on the landing page and optimize or track the post click landing pages. The discrepancy will be much less and you would be able to individuate all the domains/sellers that are actually driving actual visits.",
+      "score": 3,
+      "created_utc": 1748283988.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "To be honest use a click focused strategy in 2025 is your issue",
+      "score": 4,
+      "created_utc": 1748270047.0
+    },
+    {
+      "author": "Door_Bell",
+      "body": "It's more likely that the clicks are junk and most aren't turning into a proper session. That drop if is relatively high, but it's more likely related to your media buy / targeting than GA stealing sessions.",
+      "score": 2,
+      "created_utc": 1748306164.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": " It's because the clicks are bots, and the bots are SO obvious that Google Analytics can detect them as bots and filter those from display",
+      "score": 2,
+      "created_utc": 1748804443.0
+    },
+    {
+      "author": "MalcolmButlersTruck",
+      "body": "Have seen similar discrepancy issues with DCM this year",
+      "score": 1,
+      "created_utc": 1748270257.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Honestly 25% for display os something good also through other dsp… only search has higher cr% between click and session… any other has similar experiences or am I only one? I Guess that 70% is lost for consent, then there is an attribution issue… so being higher than 25% to me is impossible! If anyone is able to have better results please tell me which is the secret",
+      "score": 1,
+      "created_utc": 1748292970.0
+    },
+    {
+      "author": "always_itchy",
+      "body": "Check your sellers. Xandr does a decent job of reporting clicks for their own Exchange, but if you are buying from External SSPs (Magnite, OpenX, Pubmatic, etc), Xandr is not as good as stripping clicks and click counts may be inflated for those partners.\n\nOne other thing is we saw a huge spike in clicks and CTR from Glance. There is no way the CTRs we were seeing as reported in Xandr (2-5%) were valid clicks, so it could be a source with questionable clicks that Xandr is not determining are invalid and therefore they are being counted even if they shouldn't be.",
+      "score": 1,
+      "created_utc": 1748296842.0
+    },
+    {
+      "author": "Ok_Hurry2000",
+      "body": "Sounds like A LOT of bot traffic. Where are they getting their audience data for this campaign?",
+      "score": 1,
+      "created_utc": 1748616135.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "it's not because the clicks are accidental. It's because the clicks are bots, and the bots are SO obvious that Google Analytics can detect them as bots and filter those from display",
+      "score": 1,
+      "created_utc": 1748804438.0
+    },
+    {
+      "author": "linuz14",
+      "body": "I have also some discrepancy between sessions and floodlights but trend is really similar…",
+      "score": 2,
+      "created_utc": 1748293056.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "Nope, xandr universal pixel is obviusly installed. In fact, traffic is being registered through it. The thing is GA4!!",
+      "score": 1,
+      "created_utc": 1748306322.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "Do you know a method for cleansing thing? I guess checking ad exchanges or smth...",
+      "score": 1,
+      "created_utc": 1748871781.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Only this year? Wich are your cr% from click to session by channel?",
+      "score": 1,
+      "created_utc": 1748293010.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "Yes but there is no bounce rate. Something is odd. That click is going to the website and somehow ga4 is atributing to other campaign and medium. I guess there is no other option",
+      "score": 1,
+      "created_utc": 1748306030.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "Thanks for your reply, anyways a 75+% is way too much to think that is based on an exchange level. It may affect but i'm guess Ga4 is just fanging me up",
+      "score": 0,
+      "created_utc": 1748305948.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "That's what invalid means, G",
+      "score": 1,
+      "created_utc": 1748806694.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "like you see the same discrepancy I do? i hope my client gets it rly... we'll see",
+      "score": 1,
+      "created_utc": 1748306350.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yes, advertisers have FouAnalytics on the landing pages to confirm which arrivals should be counted, and which are bots. \n\nThe inverse problem is also observed (site analytics shows more clicks than the DSP); those are false clicks written into Google Analytics. This is solved by FouAnalytics on-site too [https://www.linkedin.com/pulse/more-clicks-google-analytics-than-reported-your-dsp-dr-augustine-fou-xfxgc/](https://www.linkedin.com/pulse/more-clicks-google-analytics-than-reported-your-dsp-dr-augustine-fou-xfxgc/)",
+      "score": 1,
+      "created_utc": 1748972001.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Wich is the cr from other dsp?",
+      "score": 1,
+      "created_utc": 1748327974.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "what do you mean there's no bounce rate and how do you know GA4 is attributing to something else?",
+      "score": 1,
+      "created_utc": 1748804645.0
+    }
+  ]
+}

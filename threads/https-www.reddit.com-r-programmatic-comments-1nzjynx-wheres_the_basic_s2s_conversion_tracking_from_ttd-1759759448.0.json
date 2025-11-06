@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "where's the basic s2s conversion tracking from TTD?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nzjynx/wheres_the_basic_s2s_conversion_tracking_from_ttd/",
+  "created_utc": 1759759448.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "CAPI in a DSP world is a little different to other mediums, majority of DSPs do not attempt to put click IDs on their URLs. And matching on hashed PII requires a logged in ID graph that again most do not have.\n\nHere is the equivalent on TTD: [https://partner.thetradedesk.com/v3/portal/data/doc/DataConversionEventsApi](https://partner.thetradedesk.com/v3/portal/data/doc/DataConversionEventsApi)  \nIt is more focused on a device / universal ID alongside a cookie.",
+      "score": 4,
+      "created_utc": 1759761108.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "I've long asked the more technical people in programmatic this question and they never have a good answer.  Server to server integrations + logs adapted from affiliate/CPA world would provide a lot of clarity that allows buyers/traders to close the loop.",
+      "score": 1,
+      "created_utc": 1759767967.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "They have an Adobe conversions api. Do you not talk to your reps?",
+      "score": -1,
+      "created_utc": 1759772601.0
+    },
+    {
+      "author": "perkistani",
+      "body": "technically it seems extremely simple to take the click id macro, pass it into a destination url and then expose a simple endpoint to have this passed back to with an event name.  \n\neven to track real-time downstream conversion funnel metrics this could be valuable and the fact that this \\*isn't\\* part of the default offering indicates that it is intentional (to cloak actual performance).",
+      "score": 1,
+      "created_utc": 1759761435.0
+    },
+    {
+      "author": "perkistani",
+      "body": "Same.  Seems like TTD knows that the adverse effect of poor performance will move dollars \\*away\\* so they intentionally keep buyers in the dark.\n\nBuyers (of the non-performance variety) \\*also\\* don't want this because it means their homework is graded.  Much easier to talk about CPG brand lift over several months/quarters than \"how many people clicked down funnel\" \n\nNo doubt there is value in banner advertising but the minute someone clicks on anything, everything downstream should be measurable back to ad spend.",
+      "score": 1,
+      "created_utc": 1759769454.0
+    },
+    {
+      "author": "perkistani",
+      "body": "why should i have to talk to any rep to simply send a click id back to them?",
+      "score": -4,
+      "created_utc": 1759772850.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "The only Tier 1 DSP that actively encourages click ID payloads via server side is Yahoo DSP. Neither DV360 (via dclid) or Amazon DSP go out of their way to do it, despite being more positioned vs TTD. Of course it is technically possible to do it but at the same time, how much does a click to 1st party cookie really mean in programmatic vs passing hashed PII. Then add in the crosswinds of click ids constantly being under threat from ITP / Apple changes, it is not exactly futureproof.\n\nHell even Criteo, the ultimate click based powerhouse doesn't go down that route and opts for more aggregated level variables.",
+      "score": 3,
+      "created_utc": 1759773918.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "Why should you talk to your rep to understand their tech offerings? Why are you asking here and not talking to them directly. This has been solved for a long time ago so go talk to your reps about how to implement instead of whining here unless you’re just schilling for another DSP",
+      "score": 5,
+      "created_utc": 1759772932.0
+    },
+    {
+      "author": "perkistani",
+      "body": "I've talked to exactly 0 reps to get conversion tracking/optimization on Taboola.  \n\nWhy should I have to use an \"Adobe\" solution to solve for a loop that should work end-to-end without a 3rd party?\n\nWhy does Reddit exist if not to \"ask here\"?  \n\nAnd what is \"schilling\"?  I think you meant \"shilling\" which I am not doing.",
+      "score": -1,
+      "created_utc": 1759773629.0
+    }
+  ]
+}

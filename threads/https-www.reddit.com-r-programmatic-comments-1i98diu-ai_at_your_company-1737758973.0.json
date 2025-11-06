@@ -1,0 +1,255 @@
+{
+  "id": null,
+  "title": "AI at your company",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i98diu/ai_at_your_company/",
+  "created_utc": 1737758973.0,
+  "num_comments": 43,
+  "comments": [
+    {
+      "author": "jmissle",
+      "body": "Also just realized this was adtechgod posting… funny when we are all anonymous here",
+      "score": 17,
+      "created_utc": 1737763119.0
+    },
+    {
+      "author": "jmissle",
+      "body": "Mostly I have seen it for planning - simpli.fi and vibe and Viant. I am excited to see it move into other aspects of programmatic though. Lots of applications to make DSPs smarter and faster",
+      "score": 7,
+      "created_utc": 1737762033.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Our team use bigquery studio ( and ML models at vertex AI) to predict metrics like CTR or conversions with ARIMA to allocate budgets to peak periods and other use cases like k-means clustering to group users by behavior (e.g., browsing patterns), refining ad targeting strategies.",
+      "score": 6,
+      "created_utc": 1737779909.0
+    },
+    {
+      "author": "coolular",
+      "body": "From a trader’s perspective, AI has been here for a while, it just used to be called machine learning. \n\nI use chatGPT for boring tasks like creative uploads and reporting analysis. But it’s nothing that I couldn’t do myself. \n\nI truly don’t think that AI can replace a trader, at least in the near term. It would run on the shittiest inventory and have no general context of what campaigns are even trying to do. It would only look at the numbers and not the strategy.",
+      "score": 11,
+      "created_utc": 1737768635.0
+    },
+    {
+      "author": "Fickle_Cockroach_489",
+      "body": "Gamma.app for building decks",
+      "score": 5,
+      "created_utc": 1737769007.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "You should try taking some of those sales demos.\n\nSales demos are one of the most efficient ways to properly find out and to stay on top of what's new/working, etc.\n\nThe best tools will have good case studies, and now is literally the best time to hear what people are offering.\n\nLet the info come to you. The BEST ai tool I'm using was pitched to me 2 years ago. I've carried it through 3 contracts, and I'm not even using a paid version!!\n\nI'm not pitching or selling anything, so I'm not putting the name in this post. It's a research tool.",
+      "score": 4,
+      "created_utc": 1737783235.0
+    },
+    {
+      "author": "LostPlatypuses",
+      "body": "Agency side, not meaningfully. It's being pushed heavily from snr mngmt and holdco reps which is filtering down into 'we need to work out how to use this as a tool' - but at a business, strategic level, not at all.\n\nThere's plenty of people I work with who use it as a helper through their day to day.  \n\n\nFrom what I've seen so far, agencies see this as a huge opportunity to define some competitive advantage - but no one has a clue how. Tons of lip service from seniors about why it's so important in the meantime. (.. so find a use for it)",
+      "score": 4,
+      "created_utc": 1737894002.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "AI is forbidden unfortunately. Two people have already lost their jobs for breaking the rules.",
+      "score": 3,
+      "created_utc": 1737764391.0
+    },
+    {
+      "author": "PD271709",
+      "body": "While you are at this, I would also like to ask folks which DSPs are refining targeting especially audience and geos with their ML and AI models. Apart from the bigger ones, I have a view that most DSPs have very bad targeting in place. \n\nAnyone that can help me understand otherwise?",
+      "score": 3,
+      "created_utc": 1737780898.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">Curious to hear about real-world use cases. \n\nIt's great. A small team of programmers can create products that are far superior to the products that fortune 500 companies offer. That's because their products are intentionally broken for the purpose of revenue optimization of course.",
+      "score": 5,
+      "created_utc": 1737763448.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Machine learning for bid optimization - pricing / day-time parting and analysis of prior audience exposure.  Works exceptionally well, you just can’t have it making decisions on *where* to bid quite yet. Additionally, fraud analysis of pre and post bid data is used in-house as well. Dm me for more info.",
+      "score": 2,
+      "created_utc": 1737776848.0
+    },
+    {
+      "author": "zeplin_fps",
+      "body": "IMO, if we’re talking machine learning, most effective for predictive bidding algos and cookieless targeting. But I’ve seen it for copywriting and keyword blocklist creation too.\n\nIf you’re talking LLMs, they could and should automate a lot of trafficking/adops.",
+      "score": 2,
+      "created_utc": 1737783246.0
+    },
+    {
+      "author": "D_Adman",
+      "body": "I've been hearing \"AI\" since before it was actually AI and I could confidently say most of it now is not AI, but rather some algorithm, probably shelf bought.",
+      "score": 2,
+      "created_utc": 1737804916.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "Overused term for the most part.",
+      "score": 2,
+      "created_utc": 1737820544.0
+    },
+    {
+      "author": "Dry-Marketing-1661",
+      "body": "Advantage.ai for job advertising. It’s integrated with Meta, Google and tons of job boards (many you’ve never heard of). It figures out where and when to place your job ads to maximize efficiency. Far superior to handing your budget off to one source.",
+      "score": 2,
+      "created_utc": 1737836102.0
+    },
+    {
+      "author": "Programmatic-Dude",
+      "body": "Banned at my old company. They even have the system crawling for AI use in emails. Feels like university where they give you a score lol.",
+      "score": 1,
+      "created_utc": 1737768482.0
+    },
+    {
+      "author": "Natural-Maize-6465",
+      "body": "Not exactly AI but my most used tool for data enrichment is Surfe (www.surfe.com).  \nIf interested, feel free to let me know and I will send you a trial link.",
+      "score": 1,
+      "created_utc": 1737771540.0
+    },
+    {
+      "author": "jokerontheleft",
+      "body": "come work in politics, we embrace chaos",
+      "score": 1,
+      "created_utc": 1737772298.0
+    },
+    {
+      "author": "Aggressive-Lack4212",
+      "body": "We use AI (via OpenAI's API)  for tasks like report generation and campaign planning. For reports, we fetch specific data and process it through OpenAI’s chat completion API to generate clear, comprehensive summaries. For planning, we’ve developed an AI assistant that connects to a vector storage of targeting segments, allowing users to plan campaigns based on their specific prompts.",
+      "score": 1,
+      "created_utc": 1737822629.0
+    },
+    {
+      "author": "Arlitto",
+      "body": "Creative production, from CTV to Audio. It's here.",
+      "score": 0,
+      "created_utc": 1737772929.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "lol yep",
+      "score": 7,
+      "created_utc": 1737763354.0
+    },
+    {
+      "author": "billydelp4",
+      "body": "It’s funny to me that every time I plug anything into Viant’s AI planner, the plans come back eerily the same. It’s almost like the artificial intelligence isn’t so… intelligent.",
+      "score": 9,
+      "created_utc": 1737762704.0
+    },
+    {
+      "author": "aykalam123",
+      "body": "You saw improvements?",
+      "score": 3,
+      "created_utc": 1737810450.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "I'm trying to understand what you mean by 'creative upload' here and how's gpt helping with that? Would be good to learn something new :). \nThanks.",
+      "score": 5,
+      "created_utc": 1737785747.0
+    },
+    {
+      "author": "mattyfatty1",
+      "body": "Using ChatGPT for reporting analysis is an HR meeting waiting to happen, I hope you're obfuscating the crap out of that data",
+      "score": 4,
+      "created_utc": 1737804665.0
+    },
+    {
+      "author": "paldn",
+      "body": "Not shitting on you but some could argue thats what atleast half of traders are doing anyways",
+      "score": 2,
+      "created_utc": 1737776125.0
+    },
+    {
+      "author": "Kind-Grape628",
+      "body": "So why don’t you put it in the post that contains the direct question? We’re all ears, pal!",
+      "score": 1,
+      "created_utc": 1737799230.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "Strong lol",
+      "score": 1,
+      "created_utc": 1737764165.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "This is a good poll question tbh",
+      "score": 3,
+      "created_utc": 1737783310.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Yeah it doesn’t work that well (yet)",
+      "score": 3,
+      "created_utc": 1737776670.0
+    },
+    {
+      "author": "jmissle",
+      "body": "Hahahhaa I have only seen it live streamed, never used it personally but they do now get to say AI in every demo and pitch!",
+      "score": 3,
+      "created_utc": 1737763065.0
+    },
+    {
+      "author": "[deleted]",
+      "body": "we first did as small experiment and later on it is not standard operation - we have documented it also - it worked really well for us - and we are experimenting alot more use cases to leverage more AI into our workflows.",
+      "score": 3,
+      "created_utc": 1737812063.0
+    },
+    {
+      "author": "coolular",
+      "body": "I basically upload creatives to ChatGPT and the bulk upload spreadsheet for a specific platform, ask it to extract the information I need into the correct columns (file name, ad format, etc). Tell it the naming convention and landing pages and then it gives me the spreadsheet completed.",
+      "score": 4,
+      "created_utc": 1737836239.0
+    },
+    {
+      "author": "coolular",
+      "body": "We have an enterprise account",
+      "score": 4,
+      "created_utc": 1737835932.0
+    },
+    {
+      "author": "coolular",
+      "body": "Probably true",
+      "score": 1,
+      "created_utc": 1737779322.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Which post? \n\nI'll dm the name to you if you want?",
+      "score": 2,
+      "created_utc": 1737850499.0
+    },
+    {
+      "author": "PD271709",
+      "body": "Feeling validated lmao😂",
+      "score": 2,
+      "created_utc": 1737788427.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "Wow.. super cool..",
+      "score": 1,
+      "created_utc": 1738068612.0
+    },
+    {
+      "author": "New-Raspberry-9150",
+      "body": "Can you please DM the research tool to me?",
+      "score": 1,
+      "created_utc": 1737944460.0
+    },
+    {
+      "author": "Kind-Grape628",
+      "body": "Would be really interesting to take a look, thanks",
+      "score": 1,
+      "created_utc": 1749393615.0
+    },
+    {
+      "author": "Paid_in_Paper",
+      "body": "Yeah sure sure",
+      "score": 1,
+      "created_utc": 1737962908.0
+    }
+  ]
+}

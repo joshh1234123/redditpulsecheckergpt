@@ -1,0 +1,153 @@
+{
+  "id": null,
+  "title": "Any programmatic experts who have knowledge of CTV ads?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1n99r3w/any_programmatic_experts_who_have_knowledge_of/",
+  "created_utc": 1757089373.0,
+  "num_comments": 26,
+  "comments": [
+    {
+      "author": "slippycrook",
+      "body": "VCR in CTV is a weak vanity metric\nMost CTV ads are not skippable.\n\nI suggest combining IP and Graph match to on site actual actions with a reasonable view through attribution window for the product combined with incrementally testing and hold outs to create some kind of a factor and sanity check to the measured outcomes.\n\nAlso, quality matters so make sure you understand the supply chain, actual apps and channels and more importantly the OS so you are not getting OTT (video streaming on smaller screens) or OOHtv (waiting rooms  that are running 24/7 etc)…",
+      "score": 28,
+      "created_utc": 1757091617.0
+    },
+    {
+      "author": "PupsnPhotos2390",
+      "body": "Brand lift studies, Conversion path reporting, and attention metrics. We use TTD and also leverage their cross channel conversion lift and inferred brand intent as well since it’s free.",
+      "score": 5,
+      "created_utc": 1757095584.0
+    },
+    {
+      "author": "ProgrammaticBadman",
+      "body": "What do you need to know?",
+      "score": 2,
+      "created_utc": 1757089550.0
+    },
+    {
+      "author": "EuroApe",
+      "body": "I think you're question starts a bit wrong. What's the media goal you want to archive and what's the best to perform within this plan? Based on that you should start to look into metrics indicating uplifts. \n\nCtv is a great addition for upper funnel activities as you can connect it to other, more brand based media like atv / linear tv. Incremental measurement and targeting, is a nice side effect. \n\nWith deterministic and probabilistic tools,  you can also start to validate the impact, but I wouldn't go deeper into the measurement fetish, as it's still upper funnel.",
+      "score": 2,
+      "created_utc": 1757142620.0
+    },
+    {
+      "author": "Scary-Minimum-78",
+      "body": "For CTV you can track QR code scans and phone calls separately.  Set up correctly, you’ll know your cost per lead, appointment, sale, what have you.  Further, you can set up a baseline for web traffic and compare that to your post logs/when your spots aired to understand halo effect.",
+      "score": 2,
+      "created_utc": 1757102635.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "I really want to understand how to set up and report on CTV metrics because all we talk about is VCR and tell our AMs to check the UTMs via Google Analytics to see QR code traffic. I need a better story or way to show value. I just don't know how to set this up!",
+      "score": 1,
+      "created_utc": 1757129088.0
+    },
+    {
+      "author": "Gavin99w",
+      "body": "If you're not getting 95%+ VCRs something is wrong. \n\nAs others have said, it's a reach/awareness play unless attention or conversion measurement is applied. \n\nCTV homescreen/native ads have click metrics.",
+      "score": 1,
+      "created_utc": 1757133699.0
+    },
+    {
+      "author": "coyotetex",
+      "body": "Looking for someone with CTV campaign management experience on basis. Anyone out there?",
+      "score": 1,
+      "created_utc": 1757173727.0
+    },
+    {
+      "author": "WorldFun8776",
+      "body": "We buy a lot and can answer questions for you. Your measurements for success is not going to be like any other digital ads. Feel free to PM me.",
+      "score": 0,
+      "created_utc": 1757199334.0
+    },
+    {
+      "author": "Quirky-Offer9598",
+      "body": "Thank you for sharing. This is really helpful.",
+      "score": 2,
+      "created_utc": 1757104416.0
+    },
+    {
+      "author": "Huge_Revenue69",
+      "body": "Preach!!!",
+      "score": 1,
+      "created_utc": 1757107137.0
+    },
+    {
+      "author": "OkCreme8917",
+      "body": "Do you run CTV ads yourself? \nPreach!!",
+      "score": 1,
+      "created_utc": 1757134300.0
+    },
+    {
+      "author": "OkCreme8917",
+      "body": "Are you happy with the result? TTD competitors are saying they are heavy on the markup",
+      "score": 1,
+      "created_utc": 1757181003.0
+    },
+    {
+      "author": "Quirky-Offer9598",
+      "body": "How CTV ads can be best measured - some advertisers struggle to measure the impact, and if you have any experience of interactive CTV ads which I imagine can be measured better. I've not been served any yet.",
+      "score": 3,
+      "created_utc": 1757090083.0
+    },
+    {
+      "author": "Quirky-Offer9598",
+      "body": "That's good to know!",
+      "score": 1,
+      "created_utc": 1757104518.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Yes\nI run product for a CTV platform that also run managed service campaigns",
+      "score": 4,
+      "created_utc": 1757136837.0
+    },
+    {
+      "author": "PupsnPhotos2390",
+      "body": "Very. It makes proving the value infinitely easier. We have a seat on TTD so I don’t know if they’re talking about managed side? I used to work on Viant for a bit at my last agency and I think based on their CPMs they have higher fees. And DV360 makes me feel gaslit every day haha",
+      "score": 2,
+      "created_utc": 1757197309.0
+    },
+    {
+      "author": "azdak",
+      "body": "Matched market hold out tests.",
+      "score": 1,
+      "created_utc": 1757099666.0
+    },
+    {
+      "author": "Totally_a_Banana",
+      "body": "I've only been about 1-2 years in programmatic, but based on what I've seen, probably Video Completion Rate (VCR) and other quartiles completed is at least one commonly used set of measurements for CTV.\n\nI think in terms of interactive, there are ways to set up QR code scans to also be measured like clicks, too, but might be more advanced to set up.\n\nI'm sure there are more/others, but it likely depends on your goals.",
+      "score": -1,
+      "created_utc": 1757090791.0
+    },
+    {
+      "author": "OkCreme8917",
+      "body": "We’re planning a large CTV project, can I DM you?",
+      "score": 1,
+      "created_utc": 1757180947.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "VCR is a poor metric for nonskippable inventories, I disagree.",
+      "score": 11,
+      "created_utc": 1757094966.0
+    },
+    {
+      "author": "Quirky-Offer9598",
+      "body": "That's really good intel actually. Thanks for sharing! I hadn't considered VCR",
+      "score": 1,
+      "created_utc": 1757091206.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Sure",
+      "score": 2,
+      "created_utc": 1757181467.0
+    },
+    {
+      "author": "Totally_a_Banana",
+      "body": "Fair enough, please do let the OP know as I am no expert on this. Just wanted to throw in my 2c of what seems to be used in some cases, but makes sense that for non-skippable it wouldn't be useful. People do tend to walk away or go on their phones for non-skips lol.",
+      "score": 5,
+      "created_utc": 1757095535.0
+    }
+  ]
+}

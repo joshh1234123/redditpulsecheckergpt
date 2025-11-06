@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "title": "Budget split between bumpers and non-skip in Target frequency DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1itycfx/budget_split_between_bumpers_and_nonskip_in/",
+  "created_utc": 1740057706.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "Beneficial-Branch-83",
+      "body": "Yea system doesn’t care about budgets only the goal you have set, which likely is better suited to the bumper ads.\n\nEither use separate line items, or if you want to be fancy look into ad sequencing",
+      "score": 4,
+      "created_utc": 1740060452.0
+    },
+    {
+      "author": "MandomSama",
+      "body": "Not an expert in DV360, but I would suggest to split it on Line Item level as well. ",
+      "score": 6,
+      "created_utc": 1740058265.0
+    },
+    {
+      "author": "gcrossi",
+      "body": "No “elegant way”. Just split it in differnt LIs like any other trader would.",
+      "score": 3,
+      "created_utc": 1740059206.0
+    },
+    {
+      "author": "Indexpatterns786",
+      "body": "There would be no way to split out it. Due to the algo it would spend towards the goal. Unless u slit it out on the LI or higher level wouldn’t be possible",
+      "score": 2,
+      "created_utc": 1740377205.0
+    },
+    {
+      "author": "slaninamaslo",
+      "body": "Thanks, sequencing is one of the things which I thought of, but I would have to look into it a bit more.",
+      "score": 4,
+      "created_utc": 1740062024.0
+    },
+    {
+      "author": "slaninamaslo",
+      "body": "Right I know that would solve the \"spend\" issue, but I think the core problem would remain. Wouldn't that mean that what would happen regularily is that some people would only see the bumper while others would only see the nonskip ads? Is there a way to be sure that the targeted audience would at least see one nonskip ad? I hope my questions are not stupid, just trying to create an acceptable solution for my client.",
+      "score": 1,
+      "created_utc": 1740060680.0
+    },
+    {
+      "author": "Sniflix",
+      "body": "It seems like sequencing would be perfect for your situation but you won't know until you start testing it. My concern is that there might be a lack of long form inventory or another technical issue.",
+      "score": 2,
+      "created_utc": 1740073179.0
+    },
+    {
+      "author": "dmadamdam",
+      "body": "If you split out the line items, you would have the frequency cap on the IO level - this will allow for a user to potentially see both ad length, but there’s no guarantee they would see both. I agree with others that testing sequencing would be a good option to ensure that users are seeing the longer-form content",
+      "score": 1,
+      "created_utc": 1740327826.0
+    }
+  ]
+}

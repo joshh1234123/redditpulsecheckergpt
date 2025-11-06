@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Career question",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ivof5w/career_question/",
+  "created_utc": 1740246342.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "Are you being held at gunpoint or something? If you’re safe, say nothing. If you’re in danger, say anything",
+      "score": 13,
+      "created_utc": 1740266836.0
+    },
+    {
+      "author": "Zion-YellowDragon",
+      "body": "Figure out cookie less tracking for clients and build reporting dashboards. This is the no 1 issue for most brands. What is the real return on ad spend and minimising ad fraud",
+      "score": 5,
+      "created_utc": 1740256986.0
+    },
+    {
+      "author": "bhewphew",
+      "body": "dsps your kpi is feature adoption, and maintaining revenue/obtaining incremental revenue, diversifying client spend across products. probably conpany dependent but work life  balance is pretty good, perks are usually good. you can wine n dine clients like agencies if you see that as a perk.",
+      "score": 4,
+      "created_utc": 1740267441.0
+    },
+    {
+      "author": "dmadamdam",
+      "body": "I really love working on an in-house team - I get to do the aspects of what I liked abt programmatic planning from agency side, but have the benefits of a large non-ads corporation (better pay, better hours, company perks, etc.). My team is full programmatic planning and HOK - we only use our AOR for trafficking and billing. My teammates are extremely programmatic savvy since we all came from agencies, but our innovation is more in line with what was hot 5 years ago. I would say the major downside is the growth potential is just not there like it is at an agency or a sales org. I think it really depends on where you want to go in your career next - like are you ok with being at the same level/role for multiple years, or are you trying to grow and be higher up at an organization? I don’t personally see myself in a sales related role and agency life was harsh to me, so I’m comfortable on an in-house team at the moment.",
+      "score": 3,
+      "created_utc": 1740295725.0
+    },
+    {
+      "author": "Lilfai",
+      "body": "Subscribed to this just to hear others thoughts too!",
+      "score": 2,
+      "created_utc": 1740250054.0
+    },
+    {
+      "author": "zeroThreeSix",
+      "body": "I worked across 3 agencies (Spark, Wpromote, DentsuX) and settled on a DSP Account Manager role and have been pretty happy the last 2 years. The skillset is mostly the same, but more consistent which I prefer to learning a bunch of platforms for one-off campaigns with crazy clients.\n\nI'd say it's a great balance if you mildly enjoyed trading at an agency as an associate/analyst. You get far more input for your book of business and work directly with an Account Executive on proposals and performance goals.\n\nCompensation and benefits are far better than what I would have earned at a top agency without jumping ship every year to get a promotion. That gets very tiring.",
+      "score": 2,
+      "created_utc": 1740495412.0
+    },
+    {
+      "author": "agencylab",
+      "body": "StackAdapt is based in Canada.\nHappy to help if you need to talk with connections there.",
+      "score": 3,
+      "created_utc": 1740250273.0
+    },
+    {
+      "author": "idealizm",
+      "body": "If you’re looking for a new role in a big publisher/agency, please DM me your LinkedIn",
+      "score": 1,
+      "created_utc": 1740347035.0
+    },
+    {
+      "author": "browsingaround99",
+      "body": "I do not know too much about in-house, but I have worked at some tech vendors and currently a DSP while of course having years of agency experience. It can all depend. Even if a place might be great, your team/boss may not be. For me right now at a DSP I do enjoy it. You have had good experience working in different things on agency side and for sure can/should consider going to a different side of it.",
+      "score": 1,
+      "created_utc": 1740710674.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "What tools are you using, and what are the gaps?",
+      "score": 2,
+      "created_utc": 1740265683.0
+    },
+    {
+      "author": "Sniflix",
+      "body": "This",
+      "score": 1,
+      "created_utc": 1740289183.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "> What is the real return on ad spend and minimising ad fraud\n\nIn my experience most brands haven't heard of ad fraud. We've spoken to a few universities about this, and they've told us their marketing courses don't have any content on ad fraud. They hadn't heard of ad fraud either. So there's a pretty big education gap on ad fraud and its consequences.",
+      "score": 1,
+      "created_utc": 1740291651.0
+    },
+    {
+      "author": "Zion-YellowDragon",
+      "body": "I'm setting up ruler analytics but it's pixel based. Good for tying form conversions to multi channel attribution. But still relies on cookies being accepted. And I still need to export the data from ruler analytics, HubSpot, etc into power bi to make sense of it all - which we still haven't figured out how to do well.",
+      "score": 1,
+      "created_utc": 1740306010.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "Gclid vs utm",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o6tjex/gclid_vs_utm/",
+  "created_utc": 1760480067.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "anyone can just add utm\\_source= to the url, so those are unreliable.  gclids are supposed to be automatically appended when the user clicks from a google search result. But bots have also copied entire urls with gclids and replayed them over and over. So while gclids are better than utm\\_source, you should still be vigilant and look for tell-tale signs of bot activity like way way too many pageviews for a single user (i.e. same gclid) and check this too [https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/](https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/)",
+      "score": 2,
+      "created_utc": 1760528494.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Use both, Google introduced \"aggregate identifiers\" as a means to work alongside a GCLID / DCLID / WBRAID / GBRAID. But manual UTMs are likely too aggregated for any tech / browser change to break them.",
+      "score": 2,
+      "created_utc": 1760606323.0
+    },
+    {
+      "author": "linuz14",
+      "body": "So i should activate enache + keep on usong utm?",
+      "score": 1,
+      "created_utc": 1760607432.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Use both. Always use both.",
+      "score": 1,
+      "created_utc": 1760618133.0
+    },
+    {
+      "author": "linuz14",
+      "body": "The tricky thing os being cosistent with the “custom” classification by utm vs the automated one through gclid (-> gads) /dclid (->cm360)",
+      "score": 1,
+      "created_utc": 1760621007.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "GCLID is relevant on DV360 too if you are running YouTube. There are some nuances that broke a lot of GA reporting in the past which Google have slowly fixed as a result.",
+      "score": 1,
+      "created_utc": 1760624626.0
+    }
+  ]
+}

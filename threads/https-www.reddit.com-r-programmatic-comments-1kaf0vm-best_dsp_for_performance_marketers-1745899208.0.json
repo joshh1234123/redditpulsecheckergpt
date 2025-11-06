@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "Best DSP for Performance Marketers",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kaf0vm/best_dsp_for_performance_marketers/",
+  "created_utc": 1745899208.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "CostPerMeal",
+      "body": "Low funnel \nProspecting\nAffiliate offers\nROAS focused\n\nOne of these is not like the others",
+      "score": 23,
+      "created_utc": 1745899440.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "Why are these questions being asked here?\n\nThis is like asking for the best weight loss drug with the fastest result",
+      "score": 4,
+      "created_utc": 1745977124.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "No DSP is going to align with affiliate offers as no DSP except for Criteo is going to drive last click and even then you likely won’t be comfortable being paid only on last click. Zeta DSP is the best for ROAS hands down though. Quantcast after that. This is from experience over a decade, managing thousands of campaigns (I’m in sales leadership, not a trader), all performance based, and run across the top 20 DSPs.",
+      "score": 5,
+      "created_utc": 1745932815.0
+    },
+    {
+      "author": "oddlefty13",
+      "body": "Walmart DSP",
+      "score": -2,
+      "created_utc": 1745929280.0
+    },
+    {
+      "author": "vorttex",
+      "body": "Additionally this also feels like someone asking ‘best toolkit for building a deck’ - while the toolkit does matter, most of it relies on your expertise. \n\nBack to programmatic - Yahoo is great for OLV scaling in my experience but prioritizes its own yahoo domains. TTD is obviously industry standard for a reason  if you can swing it, but can suffer from CPM bid bloat due to competition on top of other things. Beeswax ain’t bad, and their customer service team is eager to retain clients. \n\nThere’s a lot of variables. As long as you pick a trusted, known DSP that comes recommended by industry players than everything else is really on how you use it.  Obviously if you are able to get seats on a few top dogs that is best (you’ll learn the quirks and utilize them to your advantage) but that’s expensive. \n\nEverything above is my opinion and experience, others may vary, and I encourage listening to a more opinions and takes",
+      "score": 5,
+      "created_utc": 1745900610.0
+    },
+    {
+      "author": "vullkunn",
+      "body": "To clarify:\n\nLow funnel = ready to purchase off of a quick sales cycle. Most convert on day zero. So looking for high intent\n\nAffiliate offers = Driving traffic to affiliate offers I already have \n\nProspecting = Not looking for retargeting … new customers \n\nROAS focused = All customer value per is dynamic",
+      "score": 1,
+      "created_utc": 1745904355.0
+    },
+    {
+      "author": "YNWA311",
+      "body": "Why Zeta over DV360 or Yahoo? Surely the fees have to be higher.",
+      "score": 2,
+      "created_utc": 1745934817.0
+    },
+    {
+      "author": "imgoodluv_enjoy",
+      "body": "What is the product for zero day sales cycle with no retargeting? Sometime cheaper ?",
+      "score": 2,
+      "created_utc": 1745981209.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "Why would the fees have to be higher? Google and Yahoo are in the business to squeeze as much $ possible from your campaign. I like DV360 but Google’s getting paid from the DSP, their exchange, GAM.",
+      "score": 1,
+      "created_utc": 1745962685.0
+    },
+    {
+      "author": "vullkunn",
+      "body": "Insurance and financial services referrals",
+      "score": 1,
+      "created_utc": 1746042614.0
+    }
+  ]
+}

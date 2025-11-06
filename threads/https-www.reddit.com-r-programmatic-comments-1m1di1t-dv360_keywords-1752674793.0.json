@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "DV360 keywords",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m1di1t/dv360_keywords/",
+  "created_utc": 1752674793.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "lifesizeisunderrated",
+      "body": "The “resources” section is like a library of lists that you create and manage at the advertiser level and those lists can be implemented on your line items. DV360 calls app/url lists “Channels” for some reason even though that’s a term used elsewhere, sigh. Example use case: you might want to save an inclusion list of CTV apps/urls separately from an inclusion list of display apps/sites. You create those lists here and then can apply the full lists to the applicable line items instead of having to upload the full list of individual apps/urls to every line. “Channels” aka site lists are for non-YouTube lines. The keyword section in resources is specifically for saving negative keyword lists (no clue why you can’t save lists for positive keyword targeting, but Google’s gonna Google)\n\nIn the advertiser level targeting section, you’ll see a section for channels and YouTube URLs - this is specifically for setting advertiser level “channel” exclusions ( a.k.a. non-YouTube app/url exclusion lists that are saved/managed from the resources section) and separately for YouTube, applying an exclusion list based on YouTube URLs. In either case, exclusions set at this level would apply to all line items within this advertiser. \n\nSimilar for the advertiser level keyword exclusions section - this is a top down application of keywords that you’d like to be excluded on all line items in the advertiser. For some reason the advertiser level keyword exclusions don’t let you pull from the saved keyword lists that you create in the resource section.",
+      "score": 2,
+      "created_utc": 1752714270.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Simply put, higher the better if you want it to inherit downwards and not have to remember to add it in manually.",
+      "score": 1,
+      "created_utc": 1752690667.0
+    },
+    {
+      "author": "Training-Band-5330",
+      "body": "https://www.thrads.ai when you click on advertiser they built prompt to live campaign so you don t need to do any of this convoluted processes",
+      "score": 1,
+      "created_utc": 1752782091.0
+    },
+    {
+      "author": "lifesizeisunderrated",
+      "body": "Also note that the YouTube URLs you exclude at the advertiser level won’t appear in your ad group targeting section, but it’s still being enforced. Your ad group targeting will also still have a section for excluding YouTube channels, you can find that in the “Placements, keywords, & categories” section, where YouTube Channels & Videos can be targeted or excluded within Placements (did you catch that? Google using three different terms to talk about YouTube content and one of those, “Channels”, is the same name for site lists. They do a lot of things well but naming products isn’t one of them)",
+      "score": 2,
+      "created_utc": 1752715220.0
+    }
+  ]
+}

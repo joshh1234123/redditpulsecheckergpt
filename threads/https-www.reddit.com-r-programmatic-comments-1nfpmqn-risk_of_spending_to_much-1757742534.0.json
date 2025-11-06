@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "title": "Risk of spending to much",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nfpmqn/risk_of_spending_to_much/",
+  "created_utc": 1757742534.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "QA pre and post launch checklists are the core way, but nothing is perfect.",
+      "score": 11,
+      "created_utc": 1757746465.0
+    },
+    {
+      "author": "SolidFlimsy6641",
+      "body": "QA. Make someone else accountable for copying and pasting a budget from the DSP to Excel, then summing up the total to ensure it equals the IO total.",
+      "score": 5,
+      "created_utc": 1757742921.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Back in my dsp days a trader set the budget to $700K for 1 day. There clearly was no quality control or process. She quit the next day. The drama around this was wild.",
+      "score": 5,
+      "created_utc": 1757757985.0
+    },
+    {
+      "author": "CoffeeWithMilkPlease",
+      "body": "QA, QA and morr QA. Always make somebody else check the work of the other",
+      "score": 6,
+      "created_utc": 1757749120.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "Depending on the DSP there will be different levels to assign budget caps, reduce risk one errant line item won't blow out too badly if the capped at the IO. \n\n\nI would expect for all DSPs there will be a 'credit limit' to the overarching account that would also create a cap for a complete blow out (they aren't going let you wrack up $10mil debt if the know the company could never afford that, especially with the trickle down they have to pay other vendors)\n\n\nOtherwise it's all just risk mitigation, QA campaigns, monitoring campaigns to catch issues early. \n\n\nUltimately it's the company responsibility to have process and good staff to not fuck up. But mistakes happen. \n\n\nI've seen companies I've work at have to eat the cost of a mistake, in some cases I've been genuinely surprised the person kept their job. \n\n\nOtherwise I would suggest asking your legal team and/or whoever knows the specific of your DSPs contracts if you want to understand more. \n\n\nI suspect there could also be some sort of insurance the company could tap into if an employee really fucked up - I'd like to think one wrong button couldn't bankrupt a company but also that wouldn't surprise me.\n\nEdit to Add, my current role I'm not hands on normal campaigns but I do testing in Xandr and I do like they have a backup account level daily cap. Shame Invest is shutting down.",
+      "score": 3,
+      "created_utc": 1757750078.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "As others have said, QA- and have processes in place - no one person should build and launch without another set of eyes on it to help double check. In our DSP we have user level permissions where a junior person can build a campaign, but we can require a manager to review it to approve launch - granular user-level controls are key. And yes of course there is a credit limit and alerts so even if a worst-case-scenario-thing happened, it isn't like someone could screw up and spend $1 million in a day without multiple alarms going off.",
+      "score": 2,
+      "created_utc": 1758236274.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Hire seniors",
+      "score": 3,
+      "created_utc": 1757743402.0
+    },
+    {
+      "author": "Digital_ADSsassin",
+      "body": "Outside QA mentioned, I used to have a report for weekly pacing that sat outside the DSP for all our campaigns that would do a daily pull. We’d take a look at it post launch to make sure we weren’t seeing any abnormal spend",
+      "score": 1,
+      "created_utc": 1757780017.0
+    },
+    {
+      "author": "Morr1Bo",
+      "body": "We have QA in place but I am more worried about somebody willing trying to hurt the company. We also do not give everybody full access to the bank account and with DSP is seems like normal things I would expect like credit limit or max spend I can put on per user are things I barely see. I am confused that this is a risk is not tackled by DSP as a standard setting",
+      "score": 1,
+      "created_utc": 1757792781.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "I had a senior campaign manager spend $20k in one day on a $60k 6 month campaign…they forgot to change the start dates on a cloned campaign. Shit happens. But I really think DSP’s should have better restrictions for accounts that you’d have to actually sign off on",
+      "score": 2,
+      "created_utc": 1757872266.0
+    }
+  ]
+}

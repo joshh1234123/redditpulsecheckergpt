@@ -1,0 +1,159 @@
+{
+  "id": null,
+  "title": "PG to PMP",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jm95v6/pg_to_pmp/",
+  "created_utc": 1743205525.0,
+  "num_comments": 25,
+  "comments": [
+    {
+      "author": "zabpremier",
+      "body": "Why don’t you get paid on PMP? Thats an insane rule. Open exchange I would understand but if you’re setting up a private connection, that’s you driving the revenue.\n\nI would also recommend pricing PMP higher to incentivize reserved inventory at a lower price. Generally it’s tough to convince buyers that need the decisioning power. My only advice is better pricing and insights.",
+      "score": 28,
+      "created_utc": 1743205881.0
+    },
+    {
+      "author": "faintingunicorn",
+      "body": "As a buyer I only buy PG if it’s a custom unit my client wants or on a niche property with less inventory, especially in Q4. Otherwise we opt for PMP when possible as we can generally layer our client’s 1P data within platform and optimize to best performing. \n\nDo you have custom content or units you can offer that are only available PG? If you offer PG and PMP for the same inventory, 9/10 times I’m going to opt for PMP so that we can have control of our budget.",
+      "score": 21,
+      "created_utc": 1743207714.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "How do you lower fraud in TTD?",
+      "score": 4,
+      "created_utc": 1743220513.0
+    },
+    {
+      "author": "sleeplong",
+      "body": "Clients can buy IO if they want to have fixed prices and budget. We call it an \"dsp IO\", because it takes away the flexibility where programmatic stands for: real time decisions based on the user and expected KPIs, not a fixed channel or specific publisher. \n\nI would advise to put in DSP reports on deal ID level, then map everything with powerBi or another tool of your choice to an internal deal ID translation sheet. If you only have deals from your partners, you could aim for yearly agreements instead of only based on PGs..",
+      "score": 5,
+      "created_utc": 1743246823.0
+    },
+    {
+      "author": "grothsauce",
+      "body": "My experiences with PG deals have been terrible over the years. Guarantee for thee, not for me!",
+      "score": 4,
+      "created_utc": 1743264561.0
+    },
+    {
+      "author": "Arlitto",
+      "body": "The only way my clients are trafficking PG Deals is through Live Sports, which still has a chokehold on their premium placements",
+      "score": 3,
+      "created_utc": 1743231480.0
+    },
+    {
+      "author": "Shaks007",
+      "body": "Show them guaranteed access which secures premium inventory without competition.\n\nHype about but also make sure to serve better performance higher viewability, lower fraud, stronger brand safety.\n\nPitch Custom targeting, added value, or bonus impressions.\n\nProve ROI – Show case studies, test PG vs. PMP on key KPIs.\n\nIf cost is the only objection, suggest a small-scale test to prove PG delivers better efficiency.",
+      "score": 6,
+      "created_utc": 1743207432.0
+    },
+    {
+      "author": "pardonmyfrenchnj",
+      "body": "We get margins on PMPs. You should too",
+      "score": 2,
+      "created_utc": 1743368317.0
+    },
+    {
+      "author": "browsingaround99",
+      "body": "Lot of good info from people here already covering a lot so just going to stick to one area of this--- some agencies/teams you won't almost ever get them for PG because of the \"rules\" they have for their buys. Keep educating and find ways internally to structure/incentivise for it in case the convo ever changes.",
+      "score": 2,
+      "created_utc": 1743432272.0
+    },
+    {
+      "author": "capitalifelendinginc",
+      "body": "High impact and 1PD (which in itself is probabilistic) is the only reason now.",
+      "score": 2,
+      "created_utc": 1743528718.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "PG deals are hard to manage with less buyer control. I avoid them too in favor of PMPs. Things like flexibility for use with different client campaigns, targeting, dayparting, etc are important.",
+      "score": 2,
+      "created_utc": 1743752828.0
+    },
+    {
+      "author": "cpmgalore",
+      "body": "This sounds like a terrible situation. PG was supposed to be a bridge to PMPs. Feels like your management is fighting the last war. Sorry to hear this.",
+      "score": 1,
+      "created_utc": 1743522776.0
+    },
+    {
+      "author": "Aromatic_Cat_6482",
+      "body": "Get your manager to insert a “PG” only trading rule. Pmps’s are for tyre kickers. \nWe adopted at PG only rule for NEW advertisers and it’s been very succesful. Existing PMP spenders had to commit to annual spends.",
+      "score": -2,
+      "created_utc": 1743269346.0
+    },
+    {
+      "author": "Programmatic-Dude",
+      "body": "Jump ship. No pay on PMP is wild.",
+      "score": 14,
+      "created_utc": 1743213359.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Internal bullshit reporting or should I say lack of. I can’t change the structure unfortunately. \n\nLet’s say my floors are around $4. I know everyone bids below the floor since competitors are likely offering less. If I increased wouldn’t I just risk dsps favouring competitor pmps if they are grouped on their end? It also doesn’t help our premium inventory is god awful for conversions which is another reason why they rather buy PMP over PG.",
+      "score": 4,
+      "created_utc": 1743213131.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Yeah there’s custom units. But those are high impact. Most buyers typically want standard display with first party data applied across or just standard RON. I’d say 90% of revenue through pmp is just RON no data applied.",
+      "score": 2,
+      "created_utc": 1743212905.0
+    },
+    {
+      "author": "Shaks007",
+      "body": "Which might not be cheaper as well, I was working with Fubo earlier, their live sports inventory costs at $35 CPM",
+      "score": 4,
+      "created_utc": 1743242800.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Seems my company is outdated lol. C-suits are loosing their minds multiple clients this year switched from PG to PMP. My head is on the chopping block. Had the ceo yell at me today lol",
+      "score": 1,
+      "created_utc": 1743764959.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "If I put my buyer hat on I would shift to pmp as well lol. They try to push pg or pd so hard. But at the end of day you can push all you want but buyers want cheaper cpms or more control even when I have yearly commitments. Those contracts mean nothing lol.",
+      "score": 1,
+      "created_utc": 1743523927.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Problem is top 2 buyers spending 2M a year have a mandate of PMP only. I have annual agreements for direct/PG with discount rates  but those mean shit all since they rather have control over the buy. If I added this rule do you think I would loose revenue? They could easily just say pass and move to a competitor. The way the revenue is trending last 3 years is moving away from direct to non guaranteed I find.",
+      "score": 1,
+      "created_utc": 1743288005.0
+    },
+    {
+      "author": "mattyfatty1",
+      "body": "That's exactly why noone is buying PG. Why would they use PG and sacrifice all decisioning power when they have their own data they can enrich it with? Your management seriously need to keep up, this is actually wild. Nobody in their right mind is buying standard display through a PG deal in 2025",
+      "score": 9,
+      "created_utc": 1743234757.0
+    },
+    {
+      "author": "Caramelyin",
+      "body": "If most are just opting for standard display and RON, PG makes no sense unless there are some AV impressions or measurement that I'm missing. It's totally fair that there would be a shift towards pmp offerings.",
+      "score": 2,
+      "created_utc": 1743218826.0
+    },
+    {
+      "author": "Remarkable-Ranger825",
+      "body": "What kind of company are you at?\n\n\nHonestly it shouldn't matter that much Both have their advantages  and disadvantages but in the end delivery and KPIs will be similar",
+      "score": 1,
+      "created_utc": 1743781652.0
+    },
+    {
+      "author": "Programmatic-Dude",
+      "body": "Reps usually say we’ll move to prefer deal over pmp. Higher priority over PMP and you get access to our team to optimize the deal 🤣🤣. I laugh every time when sales thinks ad ops can do a better job at optimizing compared to a buyer.",
+      "score": 2,
+      "created_utc": 1743237402.0
+    },
+    {
+      "author": "Programmatic-Dude",
+      "body": "Does publisher first party data entice buyers? I be pitching this everyday. I feel it’s an uphill battle since at the end of the day buyers can just use DV360 or anything else with much more ease",
+      "score": 1,
+      "created_utc": 1743237210.0
+    }
+  ]
+}

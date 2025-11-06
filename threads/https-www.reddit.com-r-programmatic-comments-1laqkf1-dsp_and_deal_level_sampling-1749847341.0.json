@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "DSP and Deal Level Sampling",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1laqkf1/dsp_and_deal_level_sampling/",
+  "created_utc": 1749847341.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "MicroSofty88",
+      "body": "Look up “traffic shaping” for further explanation. A lot of the reduction in bid requests happens at the SSP level. The DSP team responsible for the integration with the SSP will have the ability set to the level of bid requests they accept from that SSP. So, the publisher may send 1 million request to the SSP, then the SSP might only send 10k of those to the DSP.\n\nIf you’re wondering if supply/pub-side targeting is a good idea, the answer is yes. It is helpful for the supplier of the deal to align with your desired targeting, so a higher percentage of the bid requests being surfaced to the DSP have a good chance of being bid on.",
+      "score": 2,
+      "created_utc": 1749866135.0
+    },
+    {
+      "author": "Emotional-Bear-7044",
+      "body": "Sampling is for troubleshooting purposes only. The DSP will still listen to each request for bidding purposes.",
+      "score": 3,
+      "created_utc": 1749851337.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "DSPs analyze each bid request individually and only place a bid if it matches the line item's targeting criteria and aligns with the statistical model built according to the selected bid strategy. DSPs avoid any risk of serving impressions on irrelevant or non-qualified bid requests.",
+      "score": 1,
+      "created_utc": 1749996978.0
+    },
+    {
+      "author": "cuteman",
+      "body": "It's nearly impossible to track or parse this at scale at the bid level\n\nImpressions level if it's broad enough, even with black lists and white lists you're going to end up with a lot of tail aggregate unless it's white list only...",
+      "score": 0,
+      "created_utc": 1749884103.0
+    },
+    {
+      "author": "General_Shine_8480",
+      "body": "If it’s not pg we aren’t looking at every request, we usually have agreements by ssp or a fall back percent on how many of the deal requests we’ll add to our inventory. It’d be a n insane waste of our compute to look at everything.",
+      "score": 3,
+      "created_utc": 1749853213.0
+    },
+    {
+      "author": "Upset_Collar9364",
+      "body": "Thank you General_Shine_8480.",
+      "score": 2,
+      "created_utc": 1749855332.0
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "How is AppLovin Working For You?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1no6oyf/how_is_applovin_working_for_you/",
+  "created_utc": 1758597411.0,
+  "num_comments": 18,
+  "comments": [
+    {
+      "author": "GrizzledWizard",
+      "body": "still yet to talk to a single person that's ever used it. no idea how this company is worth 10x what TTD is worth.",
+      "score": 16,
+      "created_utc": 1758646012.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "keeping an eye on this; anyone with success stories, please share",
+      "score": 6,
+      "created_utc": 1758628178.0
+    },
+    {
+      "author": "CoffeeWithMilkPlease",
+      "body": "Just curious, what's its main attractive point? why should I use it?\n\nNever tried this one nyself though",
+      "score": 4,
+      "created_utc": 1758607191.0
+    },
+    {
+      "author": "ddxv",
+      "body": "I see about equal number of apps using applovin as unity on [appgoblin.info/companies/](http://appgoblin.info/companies/) and that is both for the number with the SDK installed as well as API calls going out. \n\nI think AppLovin has done well running their business with much higher profit margins than other SDK ad networks.\n\nThey are very good at business and often push their advertisers to use their mediation in order to have access to buy ads.  \n\nThis past year they've somehow jumped from having just apps as buyside clients to brands and ecommerce, something that other mobile SDK ad networks have never figured out well.",
+      "score": 1,
+      "created_utc": 1758705464.0
+    },
+    {
+      "author": "mklimt",
+      "body": "does anyone have a referral code for their ad platform?",
+      "score": 1,
+      "created_utc": 1759416362.0
+    },
+    {
+      "author": "frustratedstudent96",
+      "body": "That's because only advertisers spending $600k/mo on Meta are granted access",
+      "score": 7,
+      "created_utc": 1758648107.0
+    },
+    {
+      "author": "HairySprinkles7369",
+      "body": "Because it’s selling performance and Wall St has been tossing money after that for 20 yrs. They thought TTD was going to be that but the CEO has gone off the rails and showed he’s now cluelessly ignoring existential threats and spending 2 years of company resources on a UI no one asked for or wants. Not hard to understand really.",
+      "score": 7,
+      "created_utc": 1758649186.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Should be some spicy stuff once you get some FouAnalytics tracking on it.",
+      "score": 6,
+      "created_utc": 1758632077.0
+    },
+    {
+      "author": "frustratedstudent96",
+      "body": "I will test next month!",
+      "score": 2,
+      "created_utc": 1758643632.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "It has been getting a lot of attention in the Mobile App space, given their acquisitions and focus on UA campaigns alongside their stock price blowing up. DTC crowd love it, your average programmatic advertiser less so as I think most people know what the pros / cons of a mobile centric ad network model looks like.\n\nPersonally not used it for a while, I imagine they are pivoting to a full funnel approach with Adjust as a MMP providing measurement. But as the old saying goes, there is no smoke without fire.",
+      "score": 2,
+      "created_utc": 1758615280.0
+    },
+    {
+      "author": "Potsandpansman",
+      "body": "Following for same reason. Seen it, heard of it.. never used it",
+      "score": 2,
+      "created_utc": 1758626346.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yep, but companies like AppLoving, MNTN, Taboola, Outbrain never let you tag the ads themselves; they just tell you \"trust them\" they will run the ads as they see fit for you",
+      "score": 7,
+      "created_utc": 1758632472.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "may the Fou be with you   ;-)",
+      "score": 2,
+      "created_utc": 1758643881.0
+    },
+    {
+      "author": "frustratedstudent96",
+      "body": "Look at their stock price and market cap. They're bigger than all your \"unicorn companies\" like airbnb, snap, pinterest, coinbase, hood, etc..\n\nYou have to think their ad platform must be working for advertisers or otherwise, why would they spend that much?",
+      "score": 2,
+      "created_utc": 1758642822.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Don't you then default back to your tag on-site and prove the quality of the traffic that way? I can imagine it will be similar outcomes to that of an audience network.",
+      "score": 3,
+      "created_utc": 1758635716.0
+    },
+    {
+      "author": "New_Kitchen_4544",
+      "body": "Stock price & market price are not an indicator of advertising performance. Don’t confuse investor sentiment with effective tech",
+      "score": 1,
+      "created_utc": 1759722634.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yep, in cases where we are not allowed to measure the ads, we measure the landing page and see the bot clicks arriving. Yeah, like most of the stuff from (fr)audience networks [https://www.linkedin.com/pulse/audience-networks-drive-massive-volume-eat-up-your-budgets-fou/](https://www.linkedin.com/pulse/audience-networks-drive-massive-volume-eat-up-your-budgets-fou/)",
+      "score": 5,
+      "created_utc": 1758636321.0
+    }
+  ]
+}

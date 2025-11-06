@@ -1,0 +1,33 @@
+{
+  "id": null,
+  "title": "RMN vs RAN",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gqe0k9/rmn_vs_ran/",
+  "created_utc": 1731507872.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "JackKelly-ESQ",
+      "body": "They are the same. The only difference is the semantics. Media and Advertising are the same thing, just using different words.  A lot of them have cutesy names as well, like Orange Apron, Roundel, etc. Albertsons calls theirs a \"collective\" instead of network, so you could even call it an RMC.  The only major differences between them are their customers - whose 1st party data is being used for targeting.",
+      "score": 3,
+      "created_utc": 1731525033.0
+    },
+    {
+      "author": "klustura",
+      "body": "First time I hear about RAN.\n\nIf we follow the same logic as Facebook vs Facebook Audience Network (FAN), I would assume:\n\nRMN: the media is owned by the retailer. Ex: Amazon\n\nRAN: the media is not owned by the retailer but Retailer's data is used for targeting. Ex: Criteo, or even Amazon's extended inventory (3rd party apps and websites)\n\nYou might face the same issues on RAN as on FAN: crappy inventory, risk of fraud, etc.",
+      "score": 3,
+      "created_utc": 1731582742.0
+    },
+    {
+      "author": "akunni",
+      "body": "RMN is amazon, wallmart connect",
+      "score": 2,
+      "created_utc": 1731515821.0
+    },
+    {
+      "author": "Successful-135",
+      "body": "Following",
+      "score": 1,
+      "created_utc": 1731519271.0
+    }
+  ]
+}
