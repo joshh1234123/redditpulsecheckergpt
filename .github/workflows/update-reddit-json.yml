@@ -2,9 +2,8 @@ name: Update r/programmatic JSON
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes, UTC
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-  repository_dispatch:
 
 jobs:
   update:
@@ -13,13 +12,14 @@ jobs:
       contents: write
 
     env:
-      SCRIPT_PATH: ./.github/workflows/fetch_r_programmatic.py  # change if you move the script
+      SCRIPT_PATH: ./.github/workflows/fetch_append_r_programmatic.py
+      OUTPUT_FILE: programmatic_complete_for_llm.json
 
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: Check secrets present
+      - name: Validate secrets
         run: |
           [ -n "${{ secrets.REDDIT_CLIENT_ID }}" ] || { echo "Missing REDDIT_CLIENT_ID"; exit 1; }
           [ -n "${{ secrets.REDDIT_CLIENT_SECRET }}" ] || { echo "Missing REDDIT_CLIENT_SECRET"; exit 1; }
@@ -32,40 +32,30 @@ jobs:
       - name: Install deps
         run: pip install praw
 
-      - name: Show repo tree
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 3 -type f -name "fetch_r_programmatic.py"
-
-      - name: Fetch latest subreddit data
+      - name: Run incremental fetch
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python "${{ env.SCRIPT_PATH }}"
 
-      - name: Verify JSON exists and show a preview
+      - name: Verify and preview JSON
         run: |
-          if [ ! -f r_programmatic.json ]; then
-            echo "JSON not found. The script likely didn't write the file."
-            exit 1
-          fi
+          test -f "${OUTPUT_FILE}" || { echo "Expected ${OUTPUT_FILE} but it does not exist"; exit 1; }
           echo "File size:"
-          wc -c r_programmatic.json || true
-          echo "First 60 lines:"
-          head -n 60 r_programmatic.json || true
+          wc -c "${OUTPUT_FILE}" || true
+          echo "Preview:"
+          head -n 60 "${OUTPUT_FILE}" || true
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add r_programmatic.json || true
-          git diff --quiet || (git commit -m "Auto update JSON" && git push)
+          git add "${OUTPUT_FILE}" || true
+          git diff --quiet || (git commit -m "Append new r/programmatic posts" && git push)
 
-      # Optional: download the JSON from the run even if no commit happened
-      - name: Upload JSON artifact
+      - name: Upload artifact (optional visibility)
         uses: actions/upload-artifact@v4
         with:
-          name: r_programmatic.json
-          path: r_programmatic.json
-          if-no-files-found: error
+          name: programmatic-json
+          path: ${{ env.OUTPUT_FILE }}
+          retention-days: 3
