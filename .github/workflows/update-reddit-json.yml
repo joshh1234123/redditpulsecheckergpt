@@ -5,6 +5,10 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: reddit-json
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -22,6 +26,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Validate secrets
         run: |
@@ -36,7 +42,7 @@ jobs:
       - name: Install deps
         run: pip install praw
 
-      - name: Run incremental fetch (build rolling DB with comments)
+      - name: Run incremental fetch
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -48,7 +54,6 @@ jobs:
           echo "DB size:"
           wc -c "${DB_FILE}" || true
 
-      # Tiny recent slice (no comments) to keep Action payload small
       - name: Build lightweight slice (no comments, last 100)
         run: |
           python - << 'PY'
@@ -78,11 +83,10 @@ jobs:
           print(f"Wrote {OUT} with {len(meta_items)} posts (no comments)")
           PY
 
-      # Build MONTHLY META files (no comments) and per-post THREAD files (comments only)
-      - name: Build monthly META + per-post THREAD files
+      - name: Build monthly META and per-post THREAD files
         run: |
           python - << 'PY'
-          import json, os
+          import json, os, re
           from pathlib import Path
           from datetime import datetime, timezone
 
@@ -102,46 +106,44 @@ jobs:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
 
-          # Group posts by YYYY-MM
           buckets = {}
           for p in items:
             ts = float(p.get("created_utc", 0) or 0)
             mk = month_key(ts)
             buckets.setdefault(mk, []).append(p)
 
-          # Write monthly META (no comments) and per-post THREADS with comments-only payloads
           manifest = {
             "source": "Reddit r/programmatic",
-            "months": []  # [{month, count, meta_file}]
+            "months": []
           }
 
           for mk in sorted(buckets.keys()):
             month_posts = sorted(buckets[mk], key=lambda r: float(r.get("created_utc", 0) or 0))
-            # META file (no comments)
+
+            # META file without comments
             meta_out = META_DIR / f"{mk}.json"
             meta_discussions = []
             for p in month_posts:
               q = dict(p)
-              q.pop("comments", None)  # strip comments
+              q.pop("comments", None)
               meta_discussions.append(q)
             with open(meta_out, "w", encoding="utf-8") as f:
               json.dump({"discussions": meta_discussions}, f, ensure_ascii=False, indent=2)
 
-            # THREAD files (comments-only + a bit of header)
+            # THREAD files with sanitized filenames
             for p in month_posts:
               pid = p.get("id") or ""
               if not pid:
-                # fallback: derive synthetic id from url+ts for older data without IDs
-                pid = (p.get("url","") + "|" + str(p.get("created_utc",""))).replace("/","_")
+                fallback = (p.get("url", "") + "|" + str(p.get("created_utc", "")))
+                pid = re.sub(r'[^A-Za-z0-9._-]+', '-', fallback).strip('-')[:120]
               thread_path = THREADS_DIR / f"{pid}.json"
-              # keep a light header plus comments
               thread_doc = {
                 "id": p.get("id"),
                 "title": p.get("title"),
                 "permalink": p.get("permalink", p.get("url")),
                 "created_utc": p.get("created_utc"),
                 "num_comments": p.get("num_comments"),
-                "comments": p.get("comments", [])  # may be large but isolated per post
+                "comments": p.get("comments", [])
               }
               with open(thread_path, "w", encoding="utf-8") as f:
                 json.dump(thread_doc, f, ensure_ascii=False, indent=2)
@@ -163,18 +165,36 @@ jobs:
           git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
           git status --porcelain
 
-      - name: Commit and push if changed
+      - name: Commit and push if changed (handles non fast forward)
         run: |
           set -e
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
-            echo "Changes detected. Committing."
-            git commit -m "Update DB, slice, monthly meta, and per-post threads"
-            git push
+            exit 0
           fi
+
+          git fetch origin "${BRANCH}"
+          git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
+
+          git commit -m "Update DB, slice, monthly meta, and per-post threads"
+
+          for i in 1 2 3; do
+            if git push origin "${BRANCH}"; then
+              echo "Push succeeded."
+              exit 0
+            fi
+            echo "Push failed (attempt $i). Rebasing and retrying..."
+            git fetch origin "${BRANCH}"
+            git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
+          done
+
+          echo "Push failed after retries."
+          exit 1
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
