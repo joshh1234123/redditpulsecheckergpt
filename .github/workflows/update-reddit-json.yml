@@ -52,14 +52,14 @@ jobs:
       - name: Build lightweight slice
         run: |
           python - << 'PY'
-          import json
-          SRC = "${OUTPUT_FILE}"
-          OUT = "${SLICE_FILE}"
+          import json, os
+          SRC = os.environ["OUTPUT_FILE"]
+          OUT = os.environ["SLICE_FILE"]
           N = 250
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
-          items = items[-N:]  # keep last N by ascending order
+          items = items[-N:]
           slim = {
             "metadata": {
               "source": (db.get("metadata", {}) or {}).get("source", "Reddit r/programmatic"),
@@ -75,13 +75,14 @@ jobs:
       - name: Build shards and manifest
         run: |
           python - << 'PY'
-          import json
+          import json, os
           from pathlib import Path
           from datetime import datetime, timezone
 
           ROOT = Path(".")
-          DB_FILE = ROOT / "${OUTPUT_FILE}"
-          SHARDS_DIR = ROOT / "${SHARDS_DIR}"
+          DB_FILE = ROOT / os.environ["OUTPUT_FILE"]
+          SHARDS_DIR = ROOT / os.environ["SHARDS_DIR"]
+          MANIFEST_FILE = ROOT / os.environ["MANIFEST_FILE"]
           SHARDS_DIR.mkdir(exist_ok=True)
 
           def month_key(ts):
@@ -117,10 +118,10 @@ jobs:
               "end_created_utc": last_ts
             })
 
-          with open(ROOT / "${MANIFEST_FILE}", "w", encoding="utf-8") as f:
+          with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
-          print(f"Wrote {len(manifest['shards'])} shards and ${MANIFEST_FILE}")
+          print(f"Wrote {len(manifest['shards'])} shards and {MANIFEST_FILE.name}")
           PY
 
       - name: Stage changes
