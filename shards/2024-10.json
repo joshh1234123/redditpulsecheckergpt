@@ -1,0 +1,2621 @@
+{
+  "discussions": [
+    {
+      "title": "Foot traffic tracking",
+      "author": "Blodecode340",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g78p1j/foot_traffic_tracking/",
+      "created_utc": 1729343761.0,
+      "content": "What platforms do you all use to monitor, track, and attribute foot traffic across your media mix since AdWords is the only one able to do so? ",
+      "num_comments": 15,
+      "comments": [
+        {
+          "author": "FredDrakoMedia",
+          "body": "I either use AdSquare on TheTradeDesk,\nOr Simpli.fi depending on the campaign.",
+          "score": 2,
+          "created_utc": 1729348312.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "[removed]",
+          "score": 2,
+          "created_utc": 1729398531.0
+        },
+        {
+          "author": "Common_Marketer_616",
+          "body": "Cuebiq via Trade Desk",
+          "score": 1,
+          "created_utc": 1729389499.0
+        },
+        {
+          "author": "CCTT39",
+          "body": "Causal- Quorum",
+          "score": 1,
+          "created_utc": 1729398072.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "Check out Cuebiq",
+          "score": 1,
+          "created_utc": 1729733362.0
+        },
+        {
+          "author": "Sweet_William24",
+          "body": "Foursquare provides measurement across all major buying platforms. \n\nhttps://location.foursquare.com/products/attribution/?",
+          "score": 0,
+          "created_utc": 1729637184.0
+        },
+        {
+          "author": "Blodecode340",
+          "body": "But can you integrate all ad platforms through them? Like Pinterest, Meta, TikTok, etc.?",
+          "score": 2,
+          "created_utc": 1729348937.0
+        },
+        {
+          "author": "BartleBeeScrivner",
+          "body": "We get pitched by [Simpli.fi](http://Simpli.fi) at least 2x a year. What makes them a better Geo Targeting partner than anyone else? Are their results better or access to more inventory?",
+          "score": 1,
+          "created_utc": 1729721592.0
+        },
+        {
+          "author": "Own-Limit2023",
+          "body": "What's the typical cpm cost?",
+          "score": 1,
+          "created_utc": 1758566529.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "No",
+          "score": 3,
+          "created_utc": 1729351264.0
+        },
+        {
+          "author": "Dull-Formal-7976",
+          "body": "This is incorrect. You can absolutely on meta with adsquare.",
+          "score": 4,
+          "created_utc": 1729354640.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "Correct- what I thought he was asking is if you could integrate social platforms into a DSP like TTD- which you can’t do",
+          "score": 2,
+          "created_utc": 1729354697.0
+        },
+        {
+          "author": "Blodecode340",
+          "body": "You are correct in that I was asking across ad platforms. What's your suggestion on how to accurately track/attribute foot traffic across a variety of ads platforms for consistency? (We don't use TTD, we use DV360).",
+          "score": 1,
+          "created_utc": 1729358328.0
+        },
+        {
+          "author": "FredDrakoMedia",
+          "body": "I never tried it, but seem like Adsquare can be used on Google as well.\n\nhttps://help.adsquare.com/en/articles/2446640-activate-footfall-measurement-in-google-marketing-platform\n\nThry charge $0.50 per CPM",
+          "score": 1,
+          "created_utc": 1729368115.0
+        },
+        {
+          "author": "Manjumariyellappa",
+          "body": "Adsquare do support DV360",
+          "score": 2,
+          "created_utc": 1729435215.0
+        }
+      ]
+    },
+    {
+      "title": "Moving countries in Programmatic",
+      "author": "Pantpp",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g7t8r6/moving_countries_in_programmatic/",
+      "created_utc": 1729408817.0,
+      "content": "Hey folks in Programmatic, I have been in the industry for 2+ years now and at a Manager post at one of the Big 6 in India. I am looking to move out of India and plan to stay in Programmatic, pls do share any recommendations on how to do so and is the market in Europe and America open to hiring Programmatic folks from abroad?",
+      "num_comments": 18,
+      "comments": [
+        {
+          "author": "alondonkiwi",
+          "body": "Do you have the right to work in another country?\n\nFor me when hiring this is the first step when looking at candidates, if you're trying to get sponsorship I'm afraid it's not a specialist enough role I'm not able to hire anyone who doesn't have their own right to work.\n\nOtherwise I'd be looking for people who have the skills, knowledge of the industry but most of all a willingness to learn.\n\nYou mentioned a 'Manager' role, do you mean as an 'account manager' or a 'people manager' job titles can vary across the industry and I'd say there is a distinction that with 2+ years experience I'd look and 'Account Manager' type roles (titles may vary here though) where you are managing accounts/campaigns but not a role in management of people.\nThis might vary though especially in smaller companies if you did really want to manage people.",
+          "score": 7,
+          "created_utc": 1729418163.0
+        },
+        {
+          "author": "Such_Paleontologist2",
+          "body": "Just my two cents if you’re considering the UK. I work here with similar experience to yours. They recently increased the salary requirements, and pay in programmatic especially early years wouldn’t meet this threshold. I am trying to switch jobs too for better pay but companies don’t want to sponsor anyway.",
+          "score": 5,
+          "created_utc": 1729419963.0
+        },
+        {
+          "author": "Afraid_Variety_6251",
+          "body": "Only 2+ years experience and at manager post? Do you mean campaign manager?",
+          "score": 4,
+          "created_utc": 1729427224.0
+        },
+        {
+          "author": "Manjumariyellappa",
+          "body": "It took me over 12 years and experience across four countries (India, UAE, Germany, and now Canada) to become a Programmatic Manager. I worry that 2+ years may not be enough experience for employers to consider sponsorship. My advice would be to gain more experience and manage your work visa, as someone suggested. Simply handling campaign execution or communication isn’t enough — you need to develop skills in strategy, planning, execution, optimization, client management, and team leadership.",
+          "score": 4,
+          "created_utc": 1729435056.0
+        },
+        {
+          "author": "cheekyboy_mani",
+          "body": "I'm also working in one of the big 6 in India even I have the same wish, best of luck!",
+          "score": 3,
+          "created_utc": 1729456715.0
+        },
+        {
+          "author": "elchapoguzman",
+          "body": "Who are the big 6 in India?",
+          "score": 2,
+          "created_utc": 1729416839.0
+        },
+        {
+          "author": "Snook_fox",
+          "body": "If you can find a visa, Dublin is probably the best for programmatic. They welcome a lot of expats and most of the biggest DSPs have the HQ there. \n\nIf you approach any DSP there and help them expand their take on India, they will welcome you with open arms. personally as I have my own company in programmatic media trading, I chose Lisbon portugal (sun, beach, good peeps and good taxes). Here is the list of the best DSPs in Europe : [https://blog.tedjordan.org/advertising/platforms/best-dsps-programmatic-advertising/](https://blog.tedjordan.org/advertising/platforms/best-dsps-programmatic-advertising/)\n\nIn this field, the contacts do everything though so see if you know somewhere in a country you like and check if they can help you out. All the clients I have come from recommendations from my contacts ;)",
+          "score": 2,
+          "created_utc": 1729442501.0
+        },
+        {
+          "author": "Sufficient_Camel_522",
+          "body": "Try to get into one of the UAE countries. They pay way more and marketing is one of the highest paying professions there.",
+          "score": 2,
+          "created_utc": 1729540574.0
+        },
+        {
+          "author": "akunni",
+          "body": "Cyprus",
+          "score": 1,
+          "created_utc": 1729415871.0
+        },
+        {
+          "author": "Pantpp",
+          "body": "Hey, Thanks for the reply. I am a people manager, I have got a post a little ahead of what a 2 year experience should. As for right to work, Would like to know could I get it staying outside the country and also would it be worth it to get a right to work.",
+          "score": 1,
+          "created_utc": 1729781628.0
+        },
+        {
+          "author": "damageinc355",
+          "body": "this isnt uncommon in underdeveloped countries",
+          "score": 0,
+          "created_utc": 1729445216.0
+        },
+        {
+          "author": "Pantpp",
+          "body": "As another individual also mentioned the name of roles does vary across the industry. I do know I would need a few more years under my belt before I become a prospect abroad but wanted to understand the route and the landscape. \n\nCould you let me know how did you get your break abroad?",
+          "score": 1,
+          "created_utc": 1729782064.0
+        },
+        {
+          "author": "beetlebronx420",
+          "body": "GroupM, Publicis, Dentsu, IPG, Omnicom, Havas",
+          "score": 3,
+          "created_utc": 1729449304.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "Why Cyprus??",
+          "score": 1,
+          "created_utc": 1736593019.0
+        },
+        {
+          "author": "alondonkiwi",
+          "body": "You'd need to look into the countries Visa requirement to figure out what you need and how you can apply.\n\n\nAs a hiring manager I will not be able to hire anyone to a European role who doesn't have the legal right to work there already established.",
+          "score": 1,
+          "created_utc": 1729783014.0
+        },
+        {
+          "author": "ankitiyer1",
+          "body": "Do any of these hiring programmatic advertiser roles in India or Remote, I'm experienced in SEO, Paid Ads but  programmatic is new for me and I'm open for an internship, or a junior role",
+          "score": 1,
+          "created_utc": 1729515559.0
+        },
+        {
+          "author": "beetlebronx420",
+          "body": "Yes they do hire.",
+          "score": 2,
+          "created_utc": 1729536737.0
+        },
+        {
+          "author": "ankitiyer1",
+          "body": "Thanks, I will explore respective career pages.",
+          "score": 1,
+          "created_utc": 1729579894.0
+        }
+      ]
+    },
+    {
+      "title": "YouTube Auction on YouTube TV",
+      "author": "merica3535",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g84fz3/youtube_auction_on_youtube_tv/",
+      "created_utc": 1729446388.0,
+      "content": "Hey all! I am running a DV360 YouTube auction campaign (VRC with only YouTube selected as inventory) at around $20-30k monthly. \n\nI’ve pulled placement reports and am noticing we are clearing on YouTube TV inventory (networks) that aligns really well with what we are buying on the Linear TV, but only a small portion of the budget maybe $1k a month. I assume it’s just luck of the draw if YT TV has an inventory spot to fill they pull from live VRC campaigns.\n\nQuestion: My client is obviously interested in seeing how to push more of our VRC buy to YT TV because the CPMs are comparable to linear $2-4 but they only way to buy YT TV is through instant reserve deals which have us quoted around $25 for a YT TV select RON and my client hyper focuses on CPMs so that’s a no go for him.\n\nHas anyone had success with rigging a VRC to favor YT TV inventory in the auction? TIA!",
+      "num_comments": 1,
+      "comments": [
+        {
+          "author": "describe_one",
+          "body": "Yes, you can target YouTube TV inventory via the instant reserve section. I think it's under YouTube Select, but you do pay a premium when you target it 100%. I haven't had success optimizing towards specific inventory in VRC campaigns since they are being optimized towards users instead of specific channels. You can set up a reach objective on the instant reserve IO/line item, and run it within the same campaign as the VRC so that frequency is controlled across both.",
+          "score": 2,
+          "created_utc": 1729447834.0
+        }
+      ]
+    },
+    {
+      "title": "Push ads?",
+      "author": "mikehauptman",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g8u635/push_ads/",
+      "created_utc": 1729528708.0,
+      "content": "Are there legitimate sources for push ads? Is it all sms or actual push notifications?",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "DingleBerry___x",
+          "body": "Push ads aren’t really programmatic… at least none that I’ve found thus far. More on the xml/search side of the equation.",
+          "score": 1,
+          "created_utc": 1729636218.0
+        },
+        {
+          "author": "DannyPPC",
+          "body": "There are plenty ad networks serving push traffic, I am using Mondiad for both classic and in-page push notifications.",
+          "score": 1,
+          "created_utc": 1730902821.0
+        },
+        {
+          "author": "adsterra_network",
+          "body": "Hi guys! That's right, [push notification ads](https://adsterra.com/blog/push-notification-advertising/?utm_source=reddit&utm_medium=organic&utm_campaign=comments) are not SMS, but browser or app-based notifications that appear directly on the user’s device. Push traffic can be legitimate if sourced from trusted ad networks.\n\nPush ads are popular because they combine high visibility with user opt-ins, which means users choose to engage in something and complete an action.\n\nFor example, Adsterra [push notification ad network](https://adsterra.com/blog/best-push-notification-ad-networks/?utm_source=reddit&utm_medium=organic&utm_campaign=comments), offers In-Page Push ads with real-time tracking, targeting, and anti-fraud measures. More to say, In-Page Push type of ads, a new generation of push ads, have up to 30X higher CTRs than web push ads, which is a great bonus.",
+          "score": 1,
+          "created_utc": 1759475772.0
+        }
+      ]
+    },
+    {
+      "title": "Question: Cost of Google \"Ghost Ads\" and equivalents across DSPs",
+      "author": "programmago",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g94dv3/question_cost_of_google_ghost_ads_and_equivalents/",
+      "created_utc": 1729554295.0,
+      "content": "Per post title, I cant remember if running Google's Ghost ads incurs any incremental fees beyond the Tech and platform fees in DV360.\n\n  \nSimilarly, hoping to find about equivalent costs/fees for similar incrementality study products in other DSPs like the TTD or others",
+      "num_comments": 5,
+      "comments": [
+        {
+          "author": "Key_Outlandishness_7",
+          "body": "You mean conversion lift? No that is free as in Google does not charge anything but there is an opportunity cost of letting go of some impressions to run the experiment which can be expensive depending on the campaign type.",
+          "score": 5,
+          "created_utc": 1729561139.0
+        },
+        {
+          "author": "UnderstandingBusy758",
+          "body": "It shouldn’t. It’s worth it",
+          "score": 1,
+          "created_utc": 1729557057.0
+        },
+        {
+          "author": "programmago",
+          "body": "Can you please clarify? Sorry but I don't understand your reply.",
+          "score": 1,
+          "created_utc": 1729575692.0
+        },
+        {
+          "author": "UnderstandingBusy758",
+          "body": "It shouldn’t incur more fees or if it was it was minimal\n\n\nIt’s worth it getting that lift",
+          "score": 3,
+          "created_utc": 1729577467.0
+        },
+        {
+          "author": "programmago",
+          "body": "Ty for clarifying",
+          "score": 1,
+          "created_utc": 1729707865.0
+        }
+      ]
+    },
+    {
+      "title": "Why CTV is big bull in advertising market right now?",
+      "author": "Neo_revolutionary",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9jj1t/why_ctv_is_big_bull_in_advertising_market_right/",
+      "created_utc": 1729607434.0,
+      "content": "📺 CTV is exploding, and you don’t want to miss out! 🚀\n\nAccording to IAB’s 2023 survey, 40% of advertisers are shifting their budgets from web ads and linear TV to Connected TV (CTV) in the next few years. So, what’s fueling this massive shift?\n\nJoin our free webinar to find out! We’ve got top CTV industry execs sharing insights on the growth of CTV and why it’s the future of advertising.\n\nWhen: October 25th, 1 PM EST, 10:30 PM IST\nRegister here: https://us06web.zoom.us/webinar/register/1017205297644/WN_9ibS57QUSpiZqZ1v5k6Fzg\n\nGet in on the conversation—don’t miss out!",
+      "num_comments": 1,
+      "comments": [
+        {
+          "author": "timee_bot",
+          "body": "View in your timezone:  \n[October 25th, 1 PM EDT][0]  \n\n[0]: https://timee.io/20241025T1700?tl=Why%20CTV%20is%20big%20bull%20in%20advertising%20market%20right%20now%3F\n\n\n^(_*Assumed EDT instead of EST because DST is observed_)",
+          "score": 0,
+          "created_utc": 1729607449.0
+        }
+      ]
+    },
+    {
+      "title": "DV360 - YouTube Efficient reach Line item",
+      "author": "cheekyboy_mani",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9o5ug/dv360_youtube_efficient_reach_line_item/",
+      "created_utc": 1729618979.0,
+      "content": "Hello Everyone, \n\nI noticed in the recent DV360 update that long headlines and descriptions are now required for bumper ads. However, when I add the headline and description and select the \"shorts\" option, they don't appear in the preview. It seems that headlines and descriptions are only required for in-feed ads. Even when selecting the in-feed option, they're not visible. Anyone experienced same and any solution for this?",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "Practical-Long-3893",
+          "body": "Strange, I believe the function is not yet released fully thats the reason you may facing this. You can try contacting help center they can help you out here.",
+          "score": 2,
+          "created_utc": 1729657020.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "The only ad format that you can preview on DV360 is a standard video ad (shippable, non shippable or bumper). When you select in feed or shorts, the preview will still show a regular video ad because the platform is mediocre.\nYou will need to reach out to Google support or to a representative and ask them to force a preview on the desired ad format. I requested this a long time ago and at that time even the rep told me that their available tool had been deprecated lol.",
+          "score": 1,
+          "created_utc": 1729687841.0
+        }
+      ]
+    },
+    {
+      "title": "Identity Alliance for single channel campaign and DCM source of truth",
+      "author": "Progo_Gal",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9twq9/identity_alliance_for_single_channel_campaign_and/",
+      "created_utc": 1729633251.0,
+      "content": "I am planning to run a CTV only campaign in The Trade Desk and will be using DCM as the source of truth for any conversion metrics. The goal of the campaign is reach so don't expect a ton of conversions anyways. Since we are only running 1 channel and aren't using TTD conversions as source of truth I don't think it makes sense to pay for Identity Alliance but curious if anyone thinks I'm missing a benefit here?",
+      "num_comments": 5,
+      "comments": [
+        {
+          "author": "tahadharamsi",
+          "body": "I would say for targeting it’s useful since the graph allows you frequency manage at a HH level. Unsure what targeting you’re running but for HH with multiple CTV devices it’s probably worth paying for IA vs having too many ads serve to a single HH.",
+          "score": 6,
+          "created_utc": 1729634352.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Frequency is typically low anyway depending on your targeting so identity alliance isn’t as useful on a single channel.",
+          "score": 1,
+          "created_utc": 1729645435.0
+        },
+        {
+          "author": "BartleBeeScrivner",
+          "body": "Make sure you add Reach as your first KPI Goal. If you want to go the extra mile and the advertiser is doing Linear TV too, I would suggest trying out the Comscore CCR to see what your overlap / onscore target is. (depends on how much butt covering material you need).",
+          "score": 1,
+          "created_utc": 1729721476.0
+        },
+        {
+          "author": "ThenTranslator6817",
+          "body": "Or just use another DSP that you don’t have to pay for the identity alliance like yahoo dsp, dv360, etc. I avoid TTD because of the ridiculous fees.",
+          "score": -1,
+          "created_utc": 1729648028.0
+        },
+        {
+          "author": "RawrRawr83",
+          "body": "Agreed. If you are concerned about reach, utilizing IA is the best way to go.",
+          "score": 2,
+          "created_utc": 1729636048.0
+        }
+      ]
+    },
+    {
+      "title": "Can agency partners run PMax and Google Shopping campaigns using their own ad accounts?",
+      "author": "DonSalaam",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1g9yifc/can_agency_partners_run_pmax_and_google_shopping/",
+      "created_utc": 1729646210.0,
+      "content": "Can an agency run PMax campaigns using their own agency’s Google Ads accounts for small businesses who don’t have ad accounts? Can a Merchant Center account that is owned by the client be used for PMax campaigns if the ad account is not owned by the client? Some businesses do not have ad accounts and want their agency partners to run campaigns on the agency ad accounts.",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "cuteman",
+          "body": "Yes.\n\nI'd suggest the client/brand own GMC and then the agency can own the ad account and connect it to GMC if that's the way you want to do it.\n\nI'd still probably recommend a client/brand create a new account and then have the agency manage it so the brand ultimately owns the account but some clients don't want to be bothered by that.",
+          "score": 5,
+          "created_utc": 1729657933.0
+        },
+        {
+          "author": "DonSalaam",
+          "body": "Thank you.",
+          "score": 1,
+          "created_utc": 1729676345.0
+        },
+        {
+          "author": "Mongolian_dude",
+          "body": "The second paragraph from cuteman is best: by owning the Google Ads account and having the agency just manage campaigns within, you maintain the campaign data & learnings, can keep an eye on activity/performance to make sure they’re lifting their weight, ensure an easier transition if you switch to another agency in the future, potentially qualify your business for dedicated Google Account Manager support rather than their business (if you spend enough over time), and maintain any conversion tracking setups if you part ways with the agency (although this last one can in theory be managed via your MCC aka My Client Account).\n  \nKeep in mind how the billing/financial side will be agreed between you and the agency, as it may be that the agency uses their financial details and then raises a purchase order/insertion order with you to bill you for media & services. Better to have the agency keep their financial details in the accounts if possible, so that if they erroneously overspend by loads it’s both their fault and their issue with creditors.  \n  \nYou may then want to consider linking the ad account with your other Google properties, like Google Analytics 4 and a YouTube channel, which can be useful for retargeting and providing Pmax campaigns with purchase/lead data as an audience signal to empower its machine learning capabilities.",
+          "score": 1,
+          "created_utc": 1729693753.0
+        }
+      ]
+    },
+    {
+      "title": "Agency doesn't care about brand safety on campaigns",
+      "author": "Flipdoc_",
+      "score": 15,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gaa0ba/agency_doesnt_care_about_brand_safety_on_campaigns/",
+      "created_utc": 1729688531.0,
+      "content": "I joined a programmatic position in a US advertising agency as a second job. I still work for a big agency in my country of residence.\nI'm very used to applying lots of brand safety layers to my campaigns to avoid ads being triggered due to certain keywords, or appearing on content about war, guns, politics etc.\nDuring my first days on my new job I realized that the programmatic campaigns don't include a single brand safety layer, so ads are being delivered on 'bad' content according to reports. Campaign budgets are also toooooo low, which makes it difficult to make all these adjustments because it impacts the CPM directly, so less impressions as an outcome.\n\nWould you keep your mouth shut and simply move on with their lack of standards or would you say something? (The programmatic guy I work with is in a senior position and has 5+ years in the agency, while I'm a temp worker that might be hired full time).\nI'm on J2 for the money, but I want to do a good job there.",
+      "num_comments": 23,
+      "comments": [
+        {
+          "author": "Outrageous-Month-355",
+          "body": "I mean I would say something if not for anything other than the integrity of your clients. If your clients are showing up on non-brand safe sites that’s like… really messed up and the agency has a responsibility to protect the brand. \n\nSome DSPs have already built in “brand safe” rails that you don’t need to implement when building a campaign but seeing as the reports are sounding alarms for you I’d probably just say something like “hey so I noticed in the reports we’re not showing up on brand safe sites, do you want me to make a negative inventory list or maybe we can meter in brand safety?” I wouldn’t even present it as an option to not have it imho.",
+          "score": 18,
+          "created_utc": 1729689383.0
+        },
+        {
+          "author": "alexgoestowork",
+          "body": "This is why (large) agencies have such bad rep. It's the careless + overworked model that leads to this, on top of cheap reach asks from clients. Also, agency people hate being challenged internally, so enjoy that. If you're in it for the money only, you have your answer.\n\nMaybe just a note that keyword exclusion is a dinosaur way to approach brand safety mechanisms (not that most 3P verification services don't operate based on that model).",
+          "score": 14,
+          "created_utc": 1729692686.0
+        },
+        {
+          "author": "PsychologyUnique7099",
+          "body": "Cheap reach is real. If the client is chasing cheap CPMs I’d keep my mouth shut. If they really cared, there are DSPs that provide the log level data. TTD comes to mind as one.",
+          "score": 8,
+          "created_utc": 1729691165.0
+        },
+        {
+          "author": "DonSalaam",
+          "body": "Don’t say a thing. It is the way it is by design.",
+          "score": 6,
+          "created_utc": 1729690275.0
+        },
+        {
+          "author": "Repulsive_Ad_656",
+          "body": "The news is always brand safe; you're part of the problem eroding quality journalism in this country.",
+          "score": 4,
+          "created_utc": 1729737206.0
+        },
+        {
+          "author": "ajlion_10",
+          "body": "Do you get paid enough to care? Whether they loose the client or not over their own planning negligence is not your fault hence it’s not worth loosing sleep over",
+          "score": 4,
+          "created_utc": 1729743172.0
+        },
+        {
+          "author": "Tea-o-kosong",
+          "body": "They must also believe in the pulling out technique and thats surely failproof",
+          "score": 3,
+          "created_utc": 1729690836.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "Personally I would approach the senior programmatic guy and just gently ask if brand safety has ever been discussed with the client. \n\nThe client may be new and uneducated. It’s the agency’s duty to educate them and make them aware of the risks. It might also be by design though, and they are aware and still don’t care. \n\nYou won’t know if you don’t ask. \n\nBut don’t make it a “recommendation”. Just ask about it internally and see what he says.",
+          "score": 3,
+          "created_utc": 1729704513.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "And this is one of the many reasons lack of trust. If I were the client I’d be asking for raw data domain reports. Or even live screen share a domain report so you can’t manipulate the data 😉.",
+          "score": 2,
+          "created_utc": 1729689642.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "That's a shit agency for starters. Also, brand safety is usually talked before hand with the client within their parameters, not just for the sake of it",
+          "score": 2,
+          "created_utc": 1729701528.0
+        },
+        {
+          "author": "linuz14",
+          "body": "Why bad content? Filter are already available on dv360, just apply those ones, add keyword filter, blacklist or run on whitelists… shouldn’t be enooght to improve? I don’t see added value in dv or Ias",
+          "score": 2,
+          "created_utc": 1729705001.0
+        },
+        {
+          "author": "Jeanguy777",
+          "body": "Go work on client or tech side… agencies are the worst of adtech unfortunately.\nIt’s been 10 years I work on this industry, not applying brand safety is the very smooth compare to other stuff they do",
+          "score": 2,
+          "created_utc": 1729705383.0
+        },
+        {
+          "author": "ralphy1010",
+          "body": "keep your mouth shut, this is intentional and you'll probably ruffle feathers if you bring it up.",
+          "score": 2,
+          "created_utc": 1729695231.0
+        },
+        {
+          "author": "DingleBerry___x",
+          "body": "Reputable dsps (and agencies that use them) often have brand safety systems in place on backend. That being said- if you’re paying 0.01 a cpm, throw that out the window since they are just looking for exposure at zero cost… it’s ultimately unfortunate for the agency client who gets zero protection.",
+          "score": 1,
+          "created_utc": 1729713319.0
+        },
+        {
+          "author": "soapandwhory",
+          "body": "I would definitely say something. You don't have to do it in a accusatory way but you can just mention the bad content on reports you've been seeing but also ask if there is a general reason why there isn't a standardised approach to applying brand safety. I'd argue it's best to do this in writing because if there's ever negative feedback from the client, you can point to the fact that you raised the issue and cannot be blamed for it.",
+          "score": 1,
+          "created_utc": 1729714022.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "What would you suggest on top of blocking lists (keywords, websites, webpage categories/content) and IAS measurement to avoid moderate/high risk?\nI might be tied to an old fashioned approach, to my experience working for a big agency (everything is cascaded on my back and I have to follow standards).",
+          "score": 2,
+          "created_utc": 1729697211.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Would disagree with the large agency portion.  In my experience at large agencies, they have the most to lose and tend to stand up full teams to develop a brand safety strategy that can get to the point of essentially running direct IO.  Its the smaller agencies and clients that have less restrictions and will use platforms like Criteo (who's inventory quality and controls are horrible) to stretch their dollar with dirt cheap CPMs.\n\n  \nOP - I would suggest escalating internally - this could be something that is isolated to a few accounts but leadership would likely want to know.  I would start with keyword and site block lists, IAS or DV pre-bids then expand from there.  But the first and most important step is escalating internally.  TBH it will only make your life harder, and cause more work if its not fixed and the client catches the issue.",
+          "score": 1,
+          "created_utc": 1729781657.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "Hahaha good comment \nIf they don't care a temp (me) shouldn't care neither",
+          "score": 2,
+          "created_utc": 1729808139.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "Reason is: they use a sh** DSP called Basis. Not even close to DV, Amazon, TTD so...\nAlso buying the cheapest inventory right there lol. I don't get their point.",
+          "score": 1,
+          "created_utc": 1729807838.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "Haha I agree. Not to say that some agencies work as a huge political party, making $$ agreements with the worst partners out there to buy cheaper inventory.",
+          "score": 2,
+          "created_utc": 1729807928.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "They use Basis, which I had never heard of before",
+          "score": 1,
+          "created_utc": 1729807992.0
+        },
+        {
+          "author": "linuz14",
+          "body": "Ahhh Don’t onow it… but do you agree that with dv360 additional verification are useless? Just additional cost that in terms of coat benefit to me do not bring more value…continuous url check, blaclist improvenets, filters and optimization on kpi / imps rendered are kore valuable",
+          "score": 2,
+          "created_utc": 1729808002.0
+        },
+        {
+          "author": "DingleBerry___x",
+          "body": "Junk. There is a reason they rebranded from Centro to Basis …",
+          "score": 2,
+          "created_utc": 1729854652.0
+        }
+      ]
+    },
+    {
+      "title": "Behavioral programmatic interview questions",
+      "author": "g0rkmeister",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gb5ytq/behavioral_programmatic_interview_questions/",
+      "created_utc": 1729785239.0,
+      "content": "Hey all, I applied for a position as a programmatic manager/paid media specialist and I have 3 in-person interviews next week that are all supposed to be \"behavioral based.\"\n\nI have a few answers/scenarios drafted for the classic behavioral questions (\"tell me about a time you dealt with ambiguity / had conflict with a coworker or client / when you made a mistake / how you used data to inform an important decision\") but I'm wondering if anyone has more **specific programmatic behavioral questions that they've been asked or think would be helpful to prep for**. I've been out of the paid media management game for about a year so trying to prepare as much as I can for these interviews - thank you!",
+      "num_comments": 6,
+      "comments": [
+        {
+          "author": "ArchitectofExperienc",
+          "body": "I'm somewhat familiar with that kind of hiring process. The questions are usually framed around your personal experiences at jobs that fit the prompt, like \"tell me about a time you had a disagreement with a supervisor\" or \"What is a difficult problem that you've solved while working for ______\". If its a multi-day process they might also be digging into theoretical scenarios, like \"What would you do if...\", personality tests, or thought experiments, like \"How much does this building weigh\". I'm not the biggest fan of the last two, they have rightly been phased out of a lot of hiring processes, but are still pretty common. \n\nThat doesn't rule out specific questions on programmatic infrastructure, depending on how knowledgeable the recruiters are, but I think the important thing to do is be able to concisely explain the experience in each job on your CV and how it relates to the position you're going for. My only other suggestion is having a few stories on hand to cover the basics, roughly: \n\n- Mistakes you've made, what you learned from them\n\n- Disagreements, personal conflict, and how you reacted to or dealt with them\n\n- Achievements, things you have accomplished\n\n- Team work, how you have worked together with others towards some common goal\n\n- And, if you're going to have direct reports, they'll probably want to hear something about your management style\n\nGood luck!",
+          "score": 3,
+          "created_utc": 1729813344.0
+        },
+        {
+          "author": "programmago",
+          "body": "If the JD specifies a list of personality traits (\"attention to detail\", \"multitasking\" or whatever), be prepared to answer the question of \"tell me of a time where you successfully avoided disaster by leveraging \\_\\_\\_\\_)\", or \"provide an example of a time where leveraging  \\_\\_\\_\\_\\_ resulted in team contributions\".",
+          "score": 2,
+          "created_utc": 1729801996.0
+        },
+        {
+          "author": "xoumphonp",
+          "body": "It's all a lie, just drink the fuck out of the koolaid and make up a case where you've used and optimized based on audiences",
+          "score": 2,
+          "created_utc": 1729800470.0
+        },
+        {
+          "author": "programmago",
+          "body": "This is terrible advice lol. Do not make up stuff if there is not at least plausible deniability.\n\nA certain amount of exaggeration is expected and accepted in an interview setting.\n\nOutright lying about something that not only didnt happen but could not have happened, is a very different matter and will likely come back to bite you in the butt eventually.",
+          "score": 1,
+          "created_utc": 1729801767.0
+        },
+        {
+          "author": "xoumphonp",
+          "body": "its an interview relax",
+          "score": 0,
+          "created_utc": 1729841460.0
+        },
+        {
+          "author": "xoumphonp",
+          "body": "Damn you got me, I need to reevaluate some things,thank you reddit stranger master of interviews and programmatic",
+          "score": 0,
+          "created_utc": 1729939749.0
+        }
+      ]
+    },
+    {
+      "title": "Desktop CTR at 1/3 of Mobile",
+      "author": "just4werk",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gb9xsv/desktop_ctr_at_13_of_mobile/",
+      "created_utc": 1729795173.0,
+      "content": "https://preview.redd.it/b9vbyxhs0rwd1.png?width=1439&format=png&auto=webp&s=43ef7caad79f5c3b8f661f9d40abb48cd90ab097\n\nhttps://preview.redd.it/azp5mxhs0rwd1.png?width=1041&format=png&auto=webp&s=d8ff19d33be24ee3c5eadc6a18f6cce5b9473717\n\nHi folks.  \nOnly serving about 20% more impressions on desktop v mobile, but CTR is 1/3 of mobile. Is this typical?  \nThanks",
+      "num_comments": 13,
+      "comments": [
+        {
+          "author": "YNWA311",
+          "body": "Mobile sort of “benefits” from higher viewability performance and accidental taps/clicks. Really depends on what you’re buying and comparing though.",
+          "score": 10,
+          "created_utc": 1729795419.0
+        },
+        {
+          "author": "OrdinaryInside8",
+          "body": "think of your own interaction with mobile ads, how often to you accidentally click, trying to \"x\" out?",
+          "score": 3,
+          "created_utc": 1729796527.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Very Normal",
+          "score": 4,
+          "created_utc": 1729797246.0
+        },
+        {
+          "author": "Mongolian_dude",
+          "body": "If you’re tracking beyond just engagements, it helps to review metrics like conversion rates to understand the true value of said clicks on each device type.",
+          "score": 1,
+          "created_utc": 1729800296.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "Is this display, and are you optimizing towards CTR?",
+          "score": 1,
+          "created_utc": 1729807643.0
+        },
+        {
+          "author": "ThankYouCarlos",
+          "body": "What’s the bounce rate though?",
+          "score": 1,
+          "created_utc": 1729813358.0
+        },
+        {
+          "author": "Ill_Investigator1565",
+          "body": "Yes",
+          "score": 1,
+          "created_utc": 1729918490.0
+        },
+        {
+          "author": "just4werk",
+          "body": "Yep, my concern is with accidental taps",
+          "score": 1,
+          "created_utc": 1729797999.0
+        },
+        {
+          "author": "just4werk",
+          "body": "very new campaign, and it's a low volume industry, no conversions yet. From my experience with other platforms takes a lot of clicks to convert.",
+          "score": 1,
+          "created_utc": 1729834249.0
+        },
+        {
+          "author": "just4werk",
+          "body": "Display. Still new campaign. Right now we have a CPM bid with a target CPC.",
+          "score": 1,
+          "created_utc": 1729834411.0
+        },
+        {
+          "author": "just4werk",
+          "body": "Still need to explore in GA directly.  \nOn Stack, GA data is not loading, giving error. We are troubleshooting with them.",
+          "score": 1,
+          "created_utc": 1729834458.0
+        },
+        {
+          "author": "Nineteennineties",
+          "body": "silly question perhaps, but out of curiousity, why are you mixing objectives?",
+          "score": 1,
+          "created_utc": 1729855878.0
+        },
+        {
+          "author": "just4werk",
+          "body": "Not a silly question. While I have 2 decades in digital marketing, I am new to doing programmatic hands-on, had an agency before. This was the recommendation from the StackAdapt onboarding team. Thoughts?",
+          "score": 1,
+          "created_utc": 1729882302.0
+        }
+      ]
+    },
+    {
+      "title": "Optimization framework for conversions ",
+      "author": "Flipdoc_",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gbjqej/optimization_framework_for_conversions/",
+      "created_utc": 1729822568.0,
+      "content": "On programmatic, what strategies do you use to optimize for conversions?\nI've been applying custom bidding based off of floodlights in DV360, but on the other hand CPMs became much higher.\nAlso, campaigns are 100% private marketplace including some deals (no open exchange involved by agency standards). So it isn't that easy to exclude URLs with low conversion volume.\n\nI'm stuck and don't know what to do to make it better. Any thoughts?",
+      "num_comments": 13,
+      "comments": [
+        {
+          "author": "workredditaccount555",
+          "body": "Am I pacing okay? If so, after 2 weeks:\n\n* aggressively cut inventory (sites and even SSPs, but since your using DV360 that doesn't matter that much since its 99% google). I just block inventory outright and do not use bid factors. It's a waste of time.\n* Look at ad environment and device type. I use bid factors here but only bid down. 9/10 times I block in-app inventory. Story of my programmatic life.\n* shift budget around to best performing audience\n\nThen keep doing that on a weekly cadence\n\nAfter 30 days\n\n* pull a conversion details report if available (it is in TTD). find the average # of impressions it takes to convert. look at your campaign frequency and adjust based on those numbers\n* look at creative versions (not ad formats). remove lower performing creative versions, and get more cycled in in 60-90 days\n\nI ignore geo, ad formats, time of day, basically anything else.\n\nIf not pacing okay:\n\n* add additional audience segments that are relevant to your original target audience. This is the only way to really add scale without changing the PMPs.\n* Or, you adjust fcaps. If you're only targeting 1x per day/week, it's very likely that your not even penetrating your target audience well enough anyway for them to even know to make a conversion. Serve them more ads.\n\nAnother thing to open up inventory is looking at viewability. If it is in the 80-90% range, be open to moving it down to the 70% range. I've lowkey found that highly viewable placements does not equal more conversions. Like a lot people ignore top of the fold ads, especially if they are reading an article. Even though a placement has a higher average viewable %, it doesn't mean its impactful.\n\nOther things to consider, How many average conversions happen on the site per day? might be that there just isn't that much activity on the site and you have an unattainable goal.",
+          "score": 10,
+          "created_utc": 1729830102.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "What’s the conversion action? Online sale? \n\nWhat kind of pixels on the advertiser’s site do you have to work with?",
+          "score": 1,
+          "created_utc": 1729895951.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Optimisation in programmatic channels is hard. Invest in other channels, find soft converters and remarket to those users in prog.",
+          "score": -6,
+          "created_utc": 1729829184.0
+        },
+        {
+          "author": "Ok-Kat5150",
+          "body": "This is great! I’d add that view ability should be optimized on cost not %. Changing that approach drastically reduces overall cpm and if you approach site list with vCPM vs %, you’ll see a huge reduction in cpa cost. The volume gain on impressions will be worth the reduction in overall cpm. 2 weeks is a bit long for my liking though.  Depending on how much you’re spending, you have enough data after a few days to start changing things. Of course all depends on the conversion goal and attribution window.",
+          "score": 3,
+          "created_utc": 1729852611.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "Great advice!\n\nJust want to add: don’t completely eliminate the use of bid factors/multipliers. Keep it in your back pocket. If you are pacing fine and have unlimited scale, sure. Forget them. \n\nBut if you are struggling to scale, you can try a 25% to 75% bid factor on some of the underperforming inventory. This will push spend towards the performers and reduce the CPA of the underperforming inventory.",
+          "score": 2,
+          "created_utc": 1729895841.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "Also, while time of day can usually be ignored, it really depends on the advertiser & product.\n\nA lot of times you can get an easy boost in conversion efficiency by blocking the hours of 3, 4 and 5am local time. Majority of people are asleep, which brings the % of bot traffic up in those hours.",
+          "score": 2,
+          "created_utc": 1729896092.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "There are many pixels we optimize towards at the same time. All of them are placed on different pages on their website \nConversion can be: filling out a contact form, hitting a button to call the company, customize your own product... I've asked about what's the main goal and answer was: all of them.\nNo sales is involved.",
+          "score": 1,
+          "created_utc": 1730025701.0
+        },
+        {
+          "author": "Ok-Kat5150",
+          "body": "This is absolutely not the way to approach this.",
+          "score": 5,
+          "created_utc": 1729852314.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "This is a wild thing to say on the programmatic sub Reddit- what’s hard for you is pretty easy for the rest of us.",
+          "score": 1,
+          "created_utc": 1729863820.0
+        },
+        {
+          "author": "workredditaccount555",
+          "body": "2 weeks is more of a general guideline and this isn't a hard rule, but I usually let the platform auto opt at the start to establish the baseline. \n\nMight be hard for this guy to opt towards vCPM cause he's in a PMP deal only and struggling with inventory, but I do agree with you that cost based metrics are generally better to look at. Its just easier to talk in % and most traders look at % rather than vCPM.",
+          "score": 2,
+          "created_utc": 1729865384.0
+        },
+        {
+          "author": "workredditaccount555",
+          "body": "Yeah, I actually always block from 12am-6am. I figured that was a standard best practice. But when you are looking at conversions via a time of day report, it's attributing the conversion to when the purchase occurred, not when the last impressions was served, which is more valuable IMO. If someone saw an ad on a Saturday, but purchased on Monday, why would I want to serve more ads on a Monday by bidding up?",
+          "score": 1,
+          "created_utc": 1730125369.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "I think if viewability is the primary KPI, vCPM is the way to go. If you go %, you can end up with an absurdly high CPM and get way less reach. \n\nBut if you’re optimizing towards a primary of CPA, it’s totally fine to just monitor viewabilty as a %.  My reasoning is that in this example, it doesn’t matter how many users you reach. If your ad spend is generating efficient conversions, let the CPM fly, who cares.",
+          "score": 2,
+          "created_utc": 1729896403.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "Well it depends on the reporting metric. If you’re looking at the time of day for the conversion action specifically, yes I 100% agree.\n\nHowever, all attributed conversions are tied to one or more impressions, of course. Looking at time of day or DOW (or both) of those particular impressions can be insightful",
+          "score": 1,
+          "created_utc": 1730132357.0
+        }
+      ]
+    },
+    {
+      "title": "CTV/OTT Advertising qebinar",
+      "author": "Neo_revolutionary",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gbr0vt/ctvott_advertising_qebinar/",
+      "created_utc": 1729851937.0,
+      "content": "📺 CTV is exploding, and you don’t want to miss out! 🚀\n\nAccording to IAB’s 2023 survey, 40% of advertisers are shifting their budgets from web ads and linear TV to Connected TV (CTV) in the next few years. So, what’s fueling this massive shift?\n\nJoin our free webinar to find out! We’ve got top CTV industry execs sharing insights on the growth of CTV and why it’s the future of advertising.\n\nWhen: October 25th, 1 PM EST, 10:30 PM IST\n\nRegister here: https://us06web.zoom.us/webinar/register/1017205297644/WN_9ibS57QUSpiZqZ1v5k6Fzg\n\nGet in on the conversation—don’t miss out!",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "workredditaccount555",
+          "body": "Nobody here cares about the explosion, we've been in this rocket ship for years. Stop posting this crap.",
+          "score": 3,
+          "created_utc": 1729867315.0
+        },
+        {
+          "author": "timee_bot",
+          "body": "View in your timezone:  \n[October 25th, 1 PM EDT][0]  \n\n[0]: https://timee.io/20241025T1700?tl=CTV%2FOTT%20Advertising%20qebinar\n\n\n^(_*Assumed EDT instead of EST because DST is observed_)",
+          "score": 1,
+          "created_utc": 1729851954.0
+        }
+      ]
+    },
+    {
+      "title": "Programmatic Campaign  in Tinder forced into a pmp?",
+      "author": "Repulsive-Stomach-77",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc0njt/programmatic_campaign_in_tinder_forced_into_a_pmp/",
+      "created_utc": 1729879567.0,
+      "content": "Hi everyone! I was running an open auction campaign in DV360 buying inventory from tinder a 0.30 USD CPMs and then out of nowhere the delivery came crashing down and i cannot access the impressions not even after raising the bids to 10 USD. My executive in tinder tells me the inventory is available on open auction but i have a feeling they might have blocked me to force me into buying a pmp at 8USD.\n\nHas anybody seen something like this before? Isn't 8$ a crazy expensive price?",
+      "num_comments": 12,
+      "comments": [
+        {
+          "author": "danie-l",
+          "body": "They basically blocked your advertiser or creatives or domain on open exchange. Or they have more advertisers there filling the inventory. You can see more insights on dv360 why you are losing the auctions. Just use the troubleshooter",
+          "score": 10,
+          "created_utc": 1729880069.0
+        },
+        {
+          "author": "Beneficial-Weekend18",
+          "body": "Triplelift is their primary SSP. They should be able to tell you exactly why you aren’t winning. They could also set up a DID for you for it. You would need a PMP. And they’d be happy to help, their sales people get credit on deals, not open exchange.",
+          "score": 3,
+          "created_utc": 1729904363.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Who is the advertiser you're buying for?   You were buying these ads on Tinder, like the dating app?  They probably blocked you as an advertiser.  I work on the supply side, and we frequently have to block advertisers from bidding into our supply based on their creatives, or who the advertiser is.  I don't think they blocked you to force you into buying at a PMP price, I'm guessing they have a content team who blocked you.",
+          "score": 5,
+          "created_utc": 1729882668.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "Could be tightening things up before the BFCM craziness. Might be able to help. DM me?",
+          "score": 2,
+          "created_utc": 1729892302.0
+        },
+        {
+          "author": "Repulsive-Stomach-77",
+          "body": "Hi! I treid that and it says that i am loosing auctions...I also created an account in another with another seat ID raised the bids even more and not even like that it accesses the Tinder inventory. I feel like i will be forced into the pmp :(",
+          "score": 1,
+          "created_utc": 1729880299.0
+        },
+        {
+          "author": "Repulsive-Stomach-77",
+          "body": "I just contacted them! thanks for the advice!",
+          "score": 1,
+          "created_utc": 1730035262.0
+        },
+        {
+          "author": "Repulsive-Stomach-77",
+          "body": "I am running for a streaming service & a pharma, Both campaigns where running smoothly for 3 weeks and then suddenly stopped. The ads are approved by the DSP and the troubleshooter basically says im loosing the auctions, nothing about creatives",
+          "score": 1,
+          "created_utc": 1729941855.0
+        },
+        {
+          "author": "danie-l",
+          "body": "I would create a new line. Put the automated bid on clicks. Cap the avg cpm on 8$. And see what the bidding does. Before you go into 8$. It's important to create a new line, otherwise the avg cpm will have in consideration your history with 0.3. \n\nIf you then on Monday are still losing all inventory, and if you want to continue buying Tinder, then yes, you will have to buy via PMP. I would also try to duplicate the creatives and associate them to the line... together with the old ones. Just to see if they are just blocking the creatives... but I guess they just define a price rule for you.",
+          "score": 2,
+          "created_utc": 1729880492.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Ah yeah, pharma campaigns.  These get blocked all of the time.  I feel relatively certain these ads are being blocked on the creative level",
+          "score": 2,
+          "created_utc": 1729948944.0
+        },
+        {
+          "author": "danie-l",
+          "body": "I just read you tried the 10 USD bidding. Then ... ignore my advise. Except duplicatin the creatives, but I think it will not work... they normally do this on advertiser/domain. And I think they only use Google SSP so no workaround",
+          "score": 2,
+          "created_utc": 1729880571.0
+        },
+        {
+          "author": "Repulsive-Stomach-77",
+          "body": "Creating a new advertiser account shouldn't work?",
+          "score": 1,
+          "created_utc": 1729881288.0
+        },
+        {
+          "author": "danie-l",
+          "body": "Nop. Everything is around creative and domain used",
+          "score": 2,
+          "created_utc": 1729884374.0
+        }
+      ]
+    },
+    {
+      "title": "Variable pay at the vendor side",
+      "author": "Sufficient_Camel_522",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc0w9c/variable_pay_at_the_vendor_side/",
+      "created_utc": 1729880192.0,
+      "content": "Hi all,\n\nSo there is a job posting on Toronto at a contextual partner (similar to GumGum) for a customer success manager role. The pay is 60-70k CAD plus variable. Any idea how much variable commission to Customer Success Managers typically get? I work at one of the big agencies in Toronto so I'm new to the variable commission part. Any insights/estimates would be great so that I can see how of pay will I get. \n\nAlso on the buying side my current role pays $70 CAD CAD with no variable pay. How much of an approximate increase will this be from my current role?",
+      "num_comments": 0,
+      "comments": []
+    },
+    {
+      "title": "What is the difference between Curate / TTD / DV360",
+      "author": "kwissss",
+      "score": 9,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc390z/what_is_the_difference_between_curate_ttd_dv360/",
+      "created_utc": 1729886370.0,
+      "content": "Hi everyone:\n\nA little new to the programmatic world and I've been asked to see if we should sign up for Curate.   We currently have DV360 and TTD to run our programmatic managed services campaigns \n\nMy company has a huge amount of 1PA and we want to push our audiences to different platforms (we do that with DV and TTD and it looks like we can do the same with Curate) and we have PMPs set up with both DV360 and TTD.\n\nMy question is:  Why should we sign up for Curate if we have everything with DV360 and TTD?  Is it purely an inventory issue (i.e. which publishers are on Curate vs. TTD vs. DV360)? or is there something else i'm missing here.   Some research says you can't compare Curate to TTD or DV360 but i'm not 100% sure why\n\n",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "savant125",
+          "body": "Xandr Curate is an inventory packaging platform.  You can package Xandr’s inventory (or other deal ids you have through Xandr) into specific deal ids, that you then pass onto DSPs like DV360 or TTD.  Curate does no buying on its own.  It is a tool that allows you to control what requests you will see, further upstream.\n\nI assume your company wants you to use Curate because of your 1P data.  If you onboard your data to Xandr, and target those audiences in a deal, you may see higher match rates because you’re further upstream and seeing more bid requests.  A lot of decisions are made by various systems before your campaign submits a bid on a request, and you may have missed out on your particular user without knowing it.\n\nLook up 1P audience targeting through SSPs, and you’ll probably find a lot of info (and fluff lol) that explains the benefits.",
+          "score": 10,
+          "created_utc": 1729905285.0
+        },
+        {
+          "author": "chikoo1985",
+          "body": "F",
+          "score": 1,
+          "created_utc": 1730037228.0
+        }
+      ]
+    },
+    {
+      "title": "Where can I find a network with a referral program to earn by bringing in partners?",
+      "author": "DryBug7495",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gc50rt/where_can_i_find_a_network_with_a_referral/",
+      "created_utc": 1729891073.0,
+      "content": "Where can I find a network with a referral program to earn by bringing in partners?",
+      "num_comments": 4,
+      "comments": [
+        {
+          "author": "ProgrammaticBadman",
+          "body": "I have DM you",
+          "score": 1,
+          "created_utc": 1730044398.0
+        },
+        {
+          "author": "Foreign_Warthog6352",
+          "body": "not long ago i started working with mobivion and i am very happy, wow advertising network",
+          "score": 1,
+          "created_utc": 1734249391.0
+        }
+      ]
+    },
+    {
+      "title": "Freelance Market in programmatic",
+      "author": "Pantpp",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gceebp/freelance_market_in_programmatic/",
+      "created_utc": 1729921991.0,
+      "content": "Hey folks has anyone explored the freelancer market in Programmatic? i.e buy out a DV360 or TTD Seat from an agency for a fee and provide freelance service\n\nAlso does anyone know of any brands that handle their own programmatic buying?",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "There isn't much value in the first point unless you are expecting massive spends. Not worth the hassle of minimums / fees that come with getting a reseller seat just to freelance. \nAnd to the second point there are plenty out there.",
+          "score": 8,
+          "created_utc": 1729932392.0
+        },
+        {
+          "author": "D_Adman",
+          "body": "Many brands do their own programmatic buying, off the top of my head- P&G and Target",
+          "score": 3,
+          "created_utc": 1729974197.0
+        },
+        {
+          "author": "Snook_fox",
+          "body": "Hey there, \n\nI do something similar yet not freelance. I have launched a media trading agency. In short I create the seats for the agencies or direct clients, help the company understand what they can do with programmatic ads, deliver the campaigns, and report on them. \n\nSo I would say, yes it can be a great model, however I would advise against working with resellers and maybe try to get your own DSPs seats on Tier 2 or 3 DSPs which are still perfectly valid (in my opinion even better as they are often specialised on 1-2 formats) and run the activities from there. \n\nBarriers to start are quite brutal I have to say but once you start having a stable client base, it is, in my opinion the best side to be on in the market. You are always fully aligned with your clients and can deliver value while only doing the most fun part of the media trader role. :) \n\nHope that helps!\n\nCompany is [https://tedjordan.org](https://tedjordan.org) if some of you are wondering.",
+          "score": 2,
+          "created_utc": 1730136298.0
+        }
+      ]
+    },
+    {
+      "title": "How Big of an Issue Are Delayed Payments for Publishers?",
+      "author": "Thirty_by_Thirty",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gcinq9/how_big_of_an_issue_are_delayed_payments_for/",
+      "created_utc": 1729940901.0,
+      "content": "I’m researching the impact of **delayed payments** in the ad ecosystem, especially from DSPs that often take up to **120 days to settle ad revenue**. This delay seems excessive, and I’m curious how it affects your operations:\n\n1. **How significant is this delay**? Does the lack of immediate revenue create cash flow issues, especially before you establish a steady stream of income?\n2. **After the initial 120-day period**, when revenue becomes more predictable, does this delay still impact your business, or is it less of a concern?\n3. If quicker payment options existed (even at a slight discount), would this be something you’d consider to improve liquidity?\n\n**Edit:** Realised I didn’t explain the quick payment angle properly - sorry for any confusion. So let’s say there are investors willing to take on some risk. Think of a setup where a group of investors steps in, buys up ad inventory for a set period (say, 6 months), and pays the publisher upfront (obv only doing it if there’s money to be made). For those 6 months, the ad impression revenue goes straight to the holders. This way, publishers hedge their revenue stream, dodge the cash flow crunch, and sort out the working capital problem.",
+      "num_comments": 11,
+      "comments": [
+        {
+          "author": "masonstorm20",
+          "body": "It’s a big issue IMO that not just Publishers face, but they certainly get the brunt of. The delay comes from advertisers not paying fast enough. Likely bc they can get away with it and are the bullies here, not for any good reason. Of course when you get paid quickly, your liquidity is better, but Pubs are working with dozens of partners at a time and one bad link can break the chain. \n\nWhen it comes to paying Publishers, you are looking at SSPs or direct to agency/advertiser. SSPs default to n60 or n90 but this is negotiable and ive gotten plenty down to n30. They get paid by the DSP, Agency, Advertiser who has some other n60-n120 on them. Big guys like Google or Magnite have cash and can float you, others are scrambling to reconcile behind the scenes. \n\nGoing direct to a pub, advertisers/agencies usually have a much longer timeline, n90-n120, likely bc they are waiting for the client cash. I have seen publishers cut back quarters bc their 1M deal wasnt being paid out for another 6 months.",
+          "score": 7,
+          "created_utc": 1729947914.0
+        },
+        {
+          "author": "rjpauloski",
+          "body": "You have to realize how the chain of funds work here and that is exactly why it takes so long. \n\nSo an agency buys media on behalf of a client/brand through some sort of platform. The media runs and then the billing cycle starts:\n\nPublisher issues invoice to platform or agency.\n\nIf a platform, then the platform has to then invoice the agency.\n\nThe agency then needs to verify that the invoice is correct, that delivery actually happened, that there is proof of performance, and that it matches a purchase authorization from the client and the purchase authorization from the agency. \n\nThe agency then needs to Bill the client/brand for the media that ran plus the agency's work in managing it. \n\nEvery step of the way has 30 days of payment terms attached to it. So at the very minimum republishers looking at 90 days in a perfect world. 120 days is more realistic. \n\nThen imagine you're some huge international brand and that your contract with the agency says that you will only pay your invoices from the agency in net 180 days. You have that negotiating power because you're spending millions and millions of dollars with the agency and you'd rather hold your money and invest it than pay invoices in 30 days. \n\nI'm not saying any of this is okay. I'm just saying this is how media procurement works and why it takes so long for publishers to get paid at the end of the day. \n\nAnd we haven't even gotten into invoices that don't match delivery or the purchase authorizations or clients that go out of business and don't end up paying... All this can extend payment periods even longer.\n\nYou can offer the agency discounts for paying early, but the reality is they don't have the money to do that and they're not willing to take the risk in the interim while the client pays them. It's futile to think about this shortening this cycle at all.",
+          "score": 2,
+          "created_utc": 1729980941.0
+        },
+        {
+          "author": "DisastrousAd7809",
+          "body": "Not that big an issue. Major SSPs float the cash and should it be withheld later the pub finds out later. \n1. Delay is not noticeable. It’s the clawbacks that are painful and unpredictable \n2. It is not a thing.\n3. Publishers always preferred to be paid sooner. This is part of the reason why Google is so popular.",
+          "score": 1,
+          "created_utc": 1730020451.0
+        },
+        {
+          "author": "iliashok",
+          "body": "first versions of ChatGPT generate questions that make much more sense, mate",
+          "score": 0,
+          "created_utc": 1729945218.0
+        },
+        {
+          "author": "Thirty_by_Thirty",
+          "body": "Thx for the solid breakdown - really appreciate the detail. Im new to digital advertising and just getting my hands dirty with it, so this really helps.\n\nFrom what Im seeing, it does seem like publishers are getting the short end of the stick. I heard from TTD that they process ad revenues on a n120 cycle, which I guess is partly because they are also dealing with delayed payments from agencies/advertisers or maybe they can also do it.\n\n> I have seen publishers cut back quarters bc their 1M deal wasnt being paid out for another 6 months.\n\nI was wondering - don’t they have contracts that require agencies to pay by a certain time? Or is it more that, even with these terms, publishers avoid the hassle of litigation unless absolutely necessary?\n\nAlso, curious to get your take on big publishers like FT. they’re not just relying on ad revenue; a lot of their cash flow is probably coming from subscriptions. Do you think they’d be open to faster payment terms (say within 10 days) if they had to take a discount? So say after the initial burn period, the publisher's cash flow starts stabilising with a predictable stream they can count on to keep ops running. Does that upfront payment in 10 days really bring much to the table? Why would a publisher sell off ad slots at a discount when they could just sit tight, wait the n120, and pocket the full amount? Would love to hear about the pitch here that makes that quick cash worth the haircut?",
+          "score": 1,
+          "created_utc": 1729951173.0
+        },
+        {
+          "author": "Thirty_by_Thirty",
+          "body": "Realised I didn’t explain the quick payment process - sorry for any confusion there. So here’s the idea: imagine there are investors willing to take on some risk. Picture a setup where a group of speculators comes in, buys up ad inventory for a fixed period (say, 6 months), and pays the publisher upfront (obv only doing it if there’s money to be made). During that 6-month period, any revenue from ad impressions would go directly to these holders. This lets publishers hedge their revenue stream, dodge the usual cash flow crunch, and handle the working capital needs upfront. And as long as the publisher is aligned to maximise ad revenues, the investors likely won’t mind what the publisher’s doing. Curious if you think something like this could work in the real world?",
+          "score": 1,
+          "created_utc": 1730030035.0
+        },
+        {
+          "author": "masonstorm20",
+          "body": "Basically what you said. Contracts dont mean anything. Big companies typically dont pay late but it’s essentially just a date for you to get legal involved if not paid. Then that’s drawn out and smaller pubs cant afford litigation either. Suddenly n120 is n150 and it “will never happen again 🥴”\n\nIf the payment is sped up enough, idk like to n60 instead of n120 and the revenue is substantial, i can see certain companies accepting something like that but sets a precedent that isnt very favorable. More revenue diversity helps keep all departments afloat so I can also see someone like FT not giving as much of a shit for standard media campaigns if x% of revenue is coming from more reliable sources. A few SSPs actually offer a faster payment if you provide an extra 1 or 2% per month.",
+          "score": 2,
+          "created_utc": 1730034951.0
+        },
+        {
+          "author": "rjpauloski",
+          "body": "Anything's possible but I don't see someone taking on inventory risk who's not either a principal in buying or principal in supply ownership. \n\nSome businesses utilize something called factoring where a company will buy your invoices, which effectively pays you upon issuance of the invoice, and the factoring company takes 5 to 10% of the invoice value for the cash up front privilege.\n\nBack in the non-digital days there used to be companies that would buy a whole page out of a magazine and then split it up into smaller sections and go out into the market and try to sell those smaller sections. They would assume the risk of actually selling the smaller sections and the magazine theoretically would get their money no matter what. Similar things would happen with late night TV for direct response advertisers.",
+          "score": 1,
+          "created_utc": 1730036021.0
+        },
+        {
+          "author": "Thirty_by_Thirty",
+          "body": "thanks for the insights. Invoice trading is a decently big business for banks but they engage in it for large companies when they know with high prob that the invoice will be processed. \n\nIn the scenario I mentioned the publisher is auctioning off the rights to the ad revenues for the next 6 months(could be anything) to outside investors - theres not even an invoice generated yet. plus I think theres often a discrepancy in the invoice amounts anyway. But it's still the publisher job to focus on what it does - write good content + maximise ad revenues. \n\n>Anything's possible but I don't see someone taking on inventory risk who's not either a principal in buying or principal in supply ownership.\n\n  \nI get where you are coming from, but this could play out a bit like agri futures. In that market, you’ve got plenty of investors and speculators who arent the actual producers or end users of the commodity yet they are willing to take a position because theres enough liquidity and a secondary market. Ad inventory could follow a similar path if a market with decent liquidity develops. If it turns into a recognised asset class with some level of predictable valuation, you'd likely see traders stepping in. ATM i think only the ad tech players know how to price it out, but if the market takes off, I expect others from outside coming in, seeing value in it for diversification or even short-term gain or even for pure speculation. took me some time to process and accept it-if there’s money on the table, there’ll always be someone ready to YOLO it.",
+          "score": 1,
+          "created_utc": 1730040281.0
+        },
+        {
+          "author": "rjpauloski",
+          "body": "I'd argue that the huge ad arbitrage business is already de facto trading on supply without adding value other than transacting or (minor) packaging of supply. Estimates are a non-trivial amount of spend through programmatic channels are arbitrage.",
+          "score": 1,
+          "created_utc": 1730046832.0
+        },
+        {
+          "author": "Thirty_by_Thirty",
+          "body": "Is it fine if I dm you?",
+          "score": 1,
+          "created_utc": 1735080502.0
+        }
+      ]
+    },
+    {
+      "title": "Amazon DSP , 1P data and 3P data",
+      "author": "JacketSmooth3894",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdizi8/amazon_dsp_1p_data_and_3p_data/",
+      "created_utc": 1730057059.0,
+      "content": "how you would respond to a client brief by leveraging a range of Amazon DSP features and tactics for a mid-sized retail client aiming to increase sales of their new product line across the UK. Specifically, focus on: Audience targeting (including first-party and third-party data) Ad formats you would recommend and why Key performance indicators (KPIs) you would track Working with internal department and stakeholders to ensure the brief is handled in a timely manner and everyone is aligned",
+      "num_comments": 8,
+      "comments": [
+        {
+          "author": "alexgoestowork",
+          "body": "Someone's swamped on a Sunday afternoon!",
+          "score": 8,
+          "created_utc": 1730057931.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "You may as well burn money instead of using 3P data on Amazon DSP.",
+          "score": 6,
+          "created_utc": 1730061274.0
+        },
+        {
+          "author": "Loose-Station8259",
+          "body": "Does the client sell product on Amazon? That's the only scenario I would ever use for an Amazon DSP campaign. I've never seen a non-Amazon seller campaign perform well within their DSP. The CPM's are a bit of a black box on that DSP, and too high, comparative to other platforms, to deliver an efficient KPI.",
+          "score": 3,
+          "created_utc": 1730065915.0
+        },
+        {
+          "author": "bradbiederer",
+          "body": "And they’re looking to increase sales through programmatic offerings like STV/CTV, audio, display? Or are these middle funnel tactics used to drive/retarget to the retail media channels like Amazon? You can use Amazon DSP for competitive conquesting and retarget users who’ve been to an Amazon listing of your competitor, but with your ad.  That’s one of the main appeals of Amazon DSP.",
+          "score": 1,
+          "created_utc": 1730073528.0
+        },
+        {
+          "author": "Medium-Formal",
+          "body": "I would work with a company that knows how to use audience data to optimize towards kpis (chalice ai, scibids, yobi, etc.)",
+          "score": 1,
+          "created_utc": 1730093038.0
+        },
+        {
+          "author": "Glass-Independent-51",
+          "body": "If you have a target audience who buys products on Amazon, their DSP can't be beat.  We have gotten better than average conversion rates by targeting buyers of very unique products: heavy duty wheel chocks, franchise book titles, specific luxury watches, etc.",
+          "score": 1,
+          "created_utc": 1730130486.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Just wake up early Monday morning. No way we should be working on a Sunday.",
+          "score": 5,
+          "created_utc": 1730058379.0
+        },
+        {
+          "author": "akunni",
+          "body": "We call it non endemic. Benz, visa, American express, Emirates are some of the examples who did well. High cpm is a concern for those with limited/tight budget . Also they target audiences with high purchase intent",
+          "score": 1,
+          "created_utc": 1730088105.0
+        }
+      ]
+    },
+    {
+      "title": "Need guidance, it sounds that my AdSupply traffic is not good, what else I can do?",
+      "author": "amsami84",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdngnf/need_guidance_it_sounds_that_my_adsupply_traffic/",
+      "created_utc": 1730069262.0,
+      "content": "I bought an Ad Arbitrage website and it worked for almost a year, and I didn't need to change anything or understand how it works and while the profit was a bit inconsistent, it eventually covered the cost of the website within 6 months, then since July this year, I noticed a huge drop and now I make 70 cents per day on a good day.\n\nI am clueless what is going on and need some guidance.\n\nI buy traffic, or ads, on AdSupply and I run ads on RevContent.\n\nRevContent warned me before that the traffic they are getting is inconsistent, and I ignored it.\n\nI checked today Google Analytics and noticed that the website traffic doesn't match the traffic reported on AdSupply.\n\nI am not sure if AdSupply is the issue but seems like it.\n\nHow can I go about debugging this issue?\n\nAnd if I want to replace Adsupply, what should I use then?  \nAnd whatever you suggest, could you please explain if I need to also replace RevContent.\n\nIn other words, can I use Mediavine or Ezoic to do what AdSupply and RevContent do?\n\nSorry if this sounds stupid, I am working on familiarizing myself with the process of ad arbitrage.\n\n  \nWebsite: [healthdailynow.com](http://healthdailynow.com)",
+      "num_comments": 7,
+      "comments": [
+        {
+          "author": "dortenzio1991",
+          "body": "You’re not going to get different advice from your post on r/adops",
+          "score": 3,
+          "created_utc": 1730070516.0
+        },
+        {
+          "author": "saomonella",
+          "body": "Arbitrage is fraud. Just don’t do it",
+          "score": 2,
+          "created_utc": 1730128811.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "[removed]",
+          "score": 1,
+          "created_utc": 1730163031.0
+        },
+        {
+          "author": "amsami84",
+          "body": "Thanks. I am just trying more perspective. But I understand.",
+          "score": 0,
+          "created_utc": 1730070697.0
+        },
+        {
+          "author": "amsami84",
+          "body": "What's an inclusion list?",
+          "score": 1,
+          "created_utc": 1730086311.0
+        },
+        {
+          "author": "amsami84",
+          "body": "Thanks for the tip, I am looking into Ezoic. Is there any benefit for one over the other?",
+          "score": 1,
+          "created_utc": 1730163793.0
+        },
+        {
+          "author": "amsami84",
+          "body": "I use ad supply for traffic and revcontent for monetization. I write my own articles and manage the website but the housing/server is managed by someone else",
+          "score": 1,
+          "created_utc": 1730126495.0
+        }
+      ]
+    },
+    {
+      "title": "Programmatic Landscape Challenges",
+      "author": "akunni",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdxbu1/programmatic_landscape_challenges/",
+      "created_utc": 1730105098.0,
+      "content": "\n\n  The programmatic landscape is constantly evolving, with new privacy regulations, ad fraud, and supply chain transparency among the top concerns. From your perspective, what are the top three challenges in the programmatic advertising space today, and how do you propose addressing them?any potential solutions?\n\nWould like to know about the regulationsand how you address them",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "solidgoldrocketpants",
+          "body": "Job interview coming up, eh?",
+          "score": 9,
+          "created_utc": 1730105545.0
+        },
+        {
+          "author": "employerGR",
+          "body": "Good luck in your interview  \n\nInventory quality - it is easy to find cheap crappy inventory. Controlling for quality inventory yet still meeting decent CPMs  \n\nPerception of quality over Social platforms - people see programmatic as the 3rd or 4th thing to spend digital marketing dollars on. so ... last  \n\nSo many resellers and niche companies - if someone is truly evaluating multiple programmatic tech comapnies- it is HARD to understand the differences. So either price, min spend requirement, or how solid the selling team is wins out. Even in price = shit inventory",
+          "score": 2,
+          "created_utc": 1730123708.0
+        },
+        {
+          "author": "akunni",
+          "body": "🤣🤣",
+          "score": -4,
+          "created_utc": 1730105599.0
+        }
+      ]
+    },
+    {
+      "title": "New commitment",
+      "author": "HistoryBorn3759",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gdzznp/new_commitment/",
+      "created_utc": 1730115980.0,
+      "content": "Hi everyone! We're trying to create a Commitment at our Central Partner Level to boost spending for some publishers within more than one Advertiser in DV360. It's the first time we're working at this level and with commitments. \n\nWe created a Commitment test to boost spending in some sites and it seems to be working. But when we tested to boost spending across different publishers bought through Pubmatic we're not being able to do it. We would need the AdSystemId of Pubmatic and the Sellers ID of the publishers we want to prioritize. Where could I find these?\n\nAny thoughts about this tool are also welcome since it's the first time we're using it.\n\n  \nThanks.",
+      "num_comments": 0,
+      "comments": []
+    },
+    {
+      "title": "Inventory for Gambling traffic",
+      "author": "Slow-Significance113",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge0exh/inventory_for_gambling_traffic/",
+      "created_utc": 1730117381.0,
+      "content": "We're looking for new inventory sources to reach audiences interested in gambling, with a strict requirement that the inventory is not related to pornography. We've been running campaigns through Xandr, but over the last two weeks, we've seen a significant increase in bid rejections (over 85%). Xandr suggests this is happening because many publishers are now blocking gambling ads. We need to find alternative platforms or publishers that accept gambling ads and align with our content suitability requirements.\n\nAny and all suggestions are appreciated. \n\n  \nTIA. ",
+      "num_comments": 25,
+      "comments": [
+        {
+          "author": "SucksAtGaming",
+          "body": "You can run PMP deals with OneTag, Multilocal Media and Index exchange on gambling allowed inventory. \n\nAlternatively look at DSPs like Sportsradar where they have a higher focus on gambling. I'm not sure it's any good though. \n\nWe've run with Adform for our gambling campaigns. Outside of DSPs you can look at the messy world of ad networks, they often run a lot of Casino and Gambling verticals.",
+          "score": 4,
+          "created_utc": 1730117717.0
+        },
+        {
+          "author": "Ok-External3080",
+          "body": "I used Stackadapt and they have inventory packages to avoid these exact scenarios",
+          "score": 3,
+          "created_utc": 1730176504.0
+        },
+        {
+          "author": "appu49",
+          "body": "Opera browser on their own inventory they allow gambling and betting ads, as far as i remember they have network publishers as well for those types of ads",
+          "score": 2,
+          "created_utc": 1730127569.0
+        },
+        {
+          "author": "Correct-Tax6119",
+          "body": "The team at atcurate.com are doing exactly this for a couple of partners at the moment that are optimised towards KPI's",
+          "score": 2,
+          "created_utc": 1730130152.0
+        },
+        {
+          "author": "describe_one",
+          "body": "You'll want to set up SSP auction packages using site lists specifically allowing gambling ads. That should help stabalize your delivery.",
+          "score": 2,
+          "created_utc": 1730131761.0
+        },
+        {
+          "author": "elchapoguzman",
+          "body": "Do you guys own an app looking for inventory?",
+          "score": 2,
+          "created_utc": 1730132697.0
+        },
+        {
+          "author": "DingleBerry___x",
+          "body": "PMP is likely way to go on this. I will say that most gambling traffic is considered non-brand safe and as such you have limited inventory from many supply side partners.",
+          "score": 1,
+          "created_utc": 1730119433.0
+        },
+        {
+          "author": "employerGR",
+          "body": "If it is for a Casino- there is plenty of inventory out there for that. You might just be doing something specific in the creative that Xandr isn't filling you in on. \n\nOr it looks like a shady online gambling site so the rejection is based on landing page info instead of the creative.  \n\nOur team runs casino advertising- that has plenty of inventory around.",
+          "score": 1,
+          "created_utc": 1730121548.0
+        },
+        {
+          "author": "Slow-Significance113",
+          "body": "Thank you all for the inputs. If anyone here is attending Sigma in Malta I'll be happy to connect and look into tapping into your inventory.",
+          "score": 1,
+          "created_utc": 1730142042.0
+        },
+        {
+          "author": "SabreDobeDelta",
+          "body": "Try Sportradar and buying Sovrn SSP gambling auction packages, we can even give you preferred access above the open auction through this set up. Feel free to DM me to discuss",
+          "score": 1,
+          "created_utc": 1730207104.0
+        },
+        {
+          "author": "sheezus69",
+          "body": "Xandr is only focused on keeping Microsoft shareholders happy so they don't sued.  \n\nAll gambling traffic on Xandr is getting blocked, not just yours. I would jump ship, as it's a matter of time till they officially ban it.  \n\nAdform is a good choice, as mentioned (This subreddit generally seems allergic to recommend them)\n\nXandr resellers are jumping to Beeswax, which also works well at the moment. But as it's owned by Comcast, I can't say how long that will last.  \n\nPMP advice is also good advice here. We have the best performance and least issues with Equativ, followed by Magnite.",
+          "score": 1,
+          "created_utc": 1730411421.0
+        },
+        {
+          "author": "Repulsive_Ad_656",
+          "body": "Two gambling sites I use never seem to be sold out, I get low quality ads on them\n\nEquibase.com\n\nMasseyratings.com\n\nIf you have the audience segment, I'm sure I have the scale.\n\n Fwiw xandr doesn't take our publisher gambling opt ins bc their antiquated prebid adapter doesn't accept ortb in general, but specifically not bcats, so the bcats we send them are the lowest common denominator for all sites we manage ( a lot ).",
+          "score": 1,
+          "created_utc": 1730461160.0
+        },
+        {
+          "author": "Venturecap_wiz12",
+          "body": "Not sure if this is still relevant, but i have the perfect solution. Happy to chat with anyone haha.",
+          "score": 1,
+          "created_utc": 1758052467.0
+        },
+        {
+          "author": "Unable-Ad609",
+          "body": "If anyone ere got casino trafficdm me. have a good day",
+          "score": 1,
+          "created_utc": 1760080441.0
+        },
+        {
+          "author": "Unable-Ad609",
+          "body": "If anyone ere got casino traffic dm me. have a good day",
+          "score": 1,
+          "created_utc": 1760178327.0
+        },
+        {
+          "author": "ProgrammaticBadman",
+          "body": "Seika Media can run those PMPs too",
+          "score": 3,
+          "created_utc": 1730123445.0
+        },
+        {
+          "author": "sheezus69",
+          "body": "This, we're on Adform and have 0 issues running casino ads.",
+          "score": 1,
+          "created_utc": 1730411200.0
+        },
+        {
+          "author": "sheezus69",
+          "body": "We've tried it but it didn't convert at all.",
+          "score": 1,
+          "created_utc": 1730411225.0
+        },
+        {
+          "author": "Slow-Significance113",
+          "body": "Yes",
+          "score": 1,
+          "created_utc": 1730141918.0
+        },
+        {
+          "author": "Slow-Significance113",
+          "body": "Any chance of you or any of your team being down in Malta for Sigma?",
+          "score": 1,
+          "created_utc": 1730121749.0
+        },
+        {
+          "author": "LoveGlobal8866",
+          "body": "Try Moloco",
+          "score": 1,
+          "created_utc": 1752188864.0
+        },
+        {
+          "author": "employerGR",
+          "body": "sadly nope- I have worked on some multi-property casino campaigns. Had some friends work on sports betting ones. There should be plenty of inventory you just might be restricted based on creative rules. Those do change randomly but they are usually quite clear.   \n\nI mainly have done these in the US so not sure how it works globally.",
+          "score": 2,
+          "created_utc": 1730122184.0
+        }
+      ]
+    },
+    {
+      "title": "Why Mastering Metrics in Google Analytics is Crucial to Blogging Success",
+      "author": "newormedia",
+      "score": 0,
+      "url": "https://newormedia.com/blog/why-mastering-metrics-in-google-analytics-is-crucial-to-blogging-success/",
+      "created_utc": 1730121488.0,
+      "content": "",
+      "num_comments": 0,
+      "comments": []
+    },
+    {
+      "title": "Choozle vs StackAdapt for a DSP?",
+      "author": "TheSaucySkrimps",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge3d73/choozle_vs_stackadapt_for_a_dsp/",
+      "created_utc": 1730125570.0,
+      "content": "I currently work with Simpli.fi but their monthly minimums are killing me. I have done a few demos with other platforms and am deciding between Choozle and StackAdapt. Any thoughts from people who have experience with either DSP? I do self service and run all programmatic in house, both seem to have similar features and an easy to use interface. ",
+      "num_comments": 24,
+      "comments": [
+        {
+          "author": "bradbiederer",
+          "body": "I’ve used Stackadapt both in a managed service as well as self service. They’re a solid company who’s constantly innovating and adding new tools or resources to the platform. Not sure about Choozle, but Stackadapt is really easy to use, and if you come to a roadblock their reps are really helpful",
+          "score": 11,
+          "created_utc": 1730126184.0
+        },
+        {
+          "author": "H806SpaZ",
+          "body": "I feel like this is my topic. Multi year Choozle user currently A:B testing the self serve options in StackAdapt. I actually came from selling Simpli.fi years ago. Choozle has grown its provider list significantly over the years. TTD, Amazon, DV360, and Xander are all at your disposal from the supply side, plus an ever growing list of measurement and planning tools. \n\nWhy A:B test other DSPs then you might ask? \n\nThe UI is pretty rough, useability is frustrating, and it seems like each new partnership they bring in they are out to monetize it, which, ok, I get it. Their default CTV PMP library is kind of mid. I've done both self serve, managed, and hybrid, and their idea of managing is essentially making sure your campaign spends 100% of its allocation, and no real performance enhancements.\n\nA lot of the reps I've seen come and go end up at StackAdapt, so I figured I'd give it a shot. So far so good. No crazy CPM differences for similar inventory and delivery. We'll see how things end up. I'm at a point in my programmatic tenure where I want my self service platforms to actually look and function well, and if I can get similar results from a platform that does just that, I figured it was worth a look.",
+          "score": 3,
+          "created_utc": 1730159138.0
+        },
+        {
+          "author": "danie-l",
+          "body": "RUN",
+          "score": 2,
+          "created_utc": 1730148698.0
+        },
+        {
+          "author": "Ok-External3080",
+          "body": "Def go with StackAdapt. I have worked with StackAdapt and find the platform quite user friendly. So if you’re going to be self-serve, then you should be quite happy there without any minimums. They can do a better job at adding more integrations, but current integrations and functionality isn’t bad at all. Staff is also helpful and usually jump on the call if campaigns are lined up.",
+          "score": 2,
+          "created_utc": 1730149372.0
+        },
+        {
+          "author": "SabreDobeDelta",
+          "body": "What are your exact requirements when it comes to a self serve DSP? I am working on BETA testing a hybrid option which is self-serve DSP and SSP tie in. No monthly minimums or minimum contract for BETA partners. Feel free to let me know if you wish to discuss?",
+          "score": 1,
+          "created_utc": 1730129671.0
+        },
+        {
+          "author": "Toasted_Waffle99",
+          "body": "Choozle. Stackadapt takes forever to get audiences and has a higher cpm.",
+          "score": 1,
+          "created_utc": 1730144029.0
+        },
+        {
+          "author": "Sharp-Cress-7595",
+          "body": "If you need all the bells and whistles that TTD offers - pick them. If you can run without it, StackAdapt is a really solid alternative.",
+          "score": 1,
+          "created_utc": 1730242100.0
+        },
+        {
+          "author": "kaptaind38",
+          "body": "Are either transparent? Do you know their fee and your actual media and data spend?",
+          "score": 1,
+          "created_utc": 1730313987.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Looooove Choozle, mins are pretty low (15k over 3 months), product is easy to use, and their staff is very nice and attentive! \n\nNot as deep as a DV360 per se but perfect for those lower spend clients a month who just want something running and pushing traffic.",
+          "score": 1,
+          "created_utc": 1730132289.0
+        },
+        {
+          "author": "Adreformer",
+          "body": "Check out https://getadlib.com\n\nYou can run across many top DSPs. Great team. Great support.",
+          "score": 0,
+          "created_utc": 1730139752.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "If you’re considering these options you may want to check out our platform, [getadlib.com](https://getadlib.com).\n\nIt’s built on top of every major global DSP. No contracts, no minimums.\n\nFeel free to shoot me a message - mike@\n\n*disclaimer* I am the founder of AdLib",
+          "score": -2,
+          "created_utc": 1730139252.0
+        },
+        {
+          "author": "DingleBerry___x",
+          "body": "Check out www.prodatamg.com. We hopped from Choozel over to them about a year ago. Waaayyyy better in performance (it’s a managed service without the managed service price). Been extremely happy and our clients haven’t had any issues since we moved away from choozel (lots of complaints with lack of traffic / brands safe issues). Hope my 0.02 helps!",
+          "score": 0,
+          "created_utc": 1730163748.0
+        },
+        {
+          "author": "OrdinaryInside8",
+          "body": "Choozle is basically a white labeled TTD, I believe.",
+          "score": 19,
+          "created_utc": 1730126537.0
+        },
+        {
+          "author": "TheSaucySkrimps",
+          "body": "From which one? 😭",
+          "score": 2,
+          "created_utc": 1730149949.0
+        },
+        {
+          "author": "TheSaucySkrimps",
+          "body": "Thank you! I definitely like that they don't have minimums, and they seem to have a lot of capabilities, including digital out of home. So I'm leaning towards StackAdapt.",
+          "score": 1,
+          "created_utc": 1730149929.0
+        },
+        {
+          "author": "TheSaucySkrimps",
+          "body": "Thank you for sharing! That's good to know..",
+          "score": 1,
+          "created_utc": 1730149966.0
+        },
+        {
+          "author": "slightlypompusbrit",
+          "body": "Where do you get those clients…",
+          "score": 2,
+          "created_utc": 1730136396.0
+        },
+        {
+          "author": "TheSaucySkrimps",
+          "body": "Perfect! Thank you for sharing.",
+          "score": 1,
+          "created_utc": 1730150001.0
+        },
+        {
+          "author": "TheFullMonteCristo",
+          "body": "Which DSPs?",
+          "score": 3,
+          "created_utc": 1730148185.0
+        },
+        {
+          "author": "danie-l",
+          "body": "Both.. just find a dv360 reseller",
+          "score": 1,
+          "created_utc": 1730150005.0
+        },
+        {
+          "author": "Ok-External3080",
+          "body": "What markets are you looking to target? What type of targeting do you use?",
+          "score": 1,
+          "created_utc": 1730150519.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Wym dog? Pitches, talking, chatting, normal client acquisition type-ish",
+          "score": 2,
+          "created_utc": 1730206216.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "I’ll DM you",
+          "score": 0,
+          "created_utc": 1730149617.0
+        },
+        {
+          "author": "H806SpaZ",
+          "body": "Choozle has a DV360 seat",
+          "score": 2,
+          "created_utc": 1730157508.0
+        }
+      ]
+    },
+    {
+      "title": "Looking for demand partners for Poland region.",
+      "author": "Ok-Athlete3396",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ge6jh1/looking_for_demand_partners_for_poland_region/",
+      "created_utc": 1730133255.0,
+      "content": "We have 600k daily web and mweb inventory from Poland region. \nCPM - 4.5$ ",
+      "num_comments": 0,
+      "comments": []
+    },
+    {
+      "title": "Career guidance ",
+      "author": "Hemano_",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1geb05x/career_guidance/",
+      "created_utc": 1730144127.0,
+      "content": "Hey everyone,\n\nI've been working in Programmatic Advertising for almost a year now, and I'm excited to start my new role at Dentsu next week. I have a solid understanding of the programmatic ecosystem, including DSPs, SSPs, ad exchanges, and data management platforms.\n\nHowever, I'm always looking to learn more and increase my earning potential. I'm particularly interested in part-time remote positions in the UK or US that could supplement my income.\n\nDoes anyone have any advice on:\n\n - Advanced Programmatic Techniques: Are there any specific skills or certifications that could help me command higher salaries? I'm only familiar with GMP and my expertise lies mostly with DV360. \n\n - Freelancing Opportunities: How can I effectively market myself as a freelance programmatic expert? I know getting DV360 access may only be possible via agencies or connecting with partners-- But how do I get in touch with them? And also if the situation could be different with other DSPs? \n\n - Remote Job Boards or Networks: Where should I focus my job search for high-paying remote roles?\n\nI'm really disappointed with how much I make and the impact I have on organisations so any insights or experiences you can share would be greatly appreciated. Thanks in advance!",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "Such_Paleontologist2",
+          "body": "Congratulations on the new role! I have been in programmatic for 3 years now and still paid crappy despite independently managing nearly £1M average per quarter for the last couple quarters for this fashion retailer. \n\nI am not sure about advanced techniques but if you can take the basics and help client drive incremental value then you’ll definitely be seen as knowledgeable. For example I worked with this retailer’s in-house CDP team to help create relevant 1pa audiences, activated programmatically and talked about how this provided cross-selling value, grow LTV and also how this would help with their OKRs. For example they had lots of purchasers purchasing products from specific brands only, we targeted them to also consider other similar brands we sell. \n\nOn freelancing, I have the same questions as you but assume yes some mid to large size agencies might need help with complex builds so they could potentially reach out to someone on fiverr. \n\nFor the job hunting bit, if you keep your profile open to recruiters only on LinkedIn, I am sure you can get interviews to some high paying jobs.",
+          "score": 2,
+          "created_utc": 1730149661.0
+        },
+        {
+          "author": "workredditaccount555",
+          "body": "From my experience, you won't start making real money until your 3+ years in and hopped around. If you stay at the same agency during this time you'll get the short end of the stick",
+          "score": 1,
+          "created_utc": 1730210932.0
+        }
+      ]
+    },
+    {
+      "title": "Programmatic Community!  Need your Collective Wisdom and Advice!",
+      "author": "Dangerous-Day-2107",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gec421/programmatic_community_need_your_collective/",
+      "created_utc": 1730146862.0,
+      "content": "Hello Programmatic Community!  Need your Collective Wisdom and Advice!\n\nI work for Spectrum Reach, the advertising sales division of Charter Communications.  We use 1st party data from our access as the internet service provider to 30 million homes + 3rd party data (70+ data partners) to find, reach, and measure audiences across linear television viewing on cable networks as well as streaming TV viewing across linear/CTV/Mobile/Tablet.  \n  \nAs a local market sales manager, i'm primarily selling/running managed service campaigns through direct insertion orders.  In the last couple years i've seen a growing number of clients/ad agencies becoming savvier with their buying approaches, setting up seats at DSPs like MNTN, TTD, StackAdapt, Basis, etc.\n\nWith Linear Pay TV subs & linear TV budgets in decline, along with the continued shift into CTV budgets + programmatic approach on the rise, I've started to consider if it's a good time to make a career switch into working for a DSP to become more well rounded for what the next 5-10 years in the industry will look like.\n\nWould love to get advice/input from this community on things like: \n\n \\- what DSP would be best to transition into from a \"legacy\" media like linear pay TV media sales?   \n \\- Am I crazy to think I could add value to a DSP sales organization with my background?    \n \\- If not, what aspects of coming from a company like Spectrum Reach could i leverage?  \n \\- What roles would make for the best transition?  Assuming sales as that's my current role but perhaps I'm missing something about needing to start with a different role for the transition?  \n",
+      "num_comments": 5,
+      "comments": [
+        {
+          "author": "bradbiederer",
+          "body": "Doesn’t spectrum also do CTV? I’ve bought both linear and CTV through spectrum before. With such a massive database, the linear TV + ACR retargeting on CTV is a great upsell.",
+          "score": 2,
+          "created_utc": 1730149983.0
+        },
+        {
+          "author": "postyyyym",
+          "body": "I don't necessarily think a career switch to a traditional DSP is necessary. With the rapid rise of CTV and programmatic linear starting to become a method of buying via traditional DSPs in some markets, there will be growing interest in data companies like Spectrum Reach to facilitate measurement and addressability\n\nI think you'll have more to offer by staying where you're at and trying to see what role you can play upselling/partnering services and measurement angles with the more traditional DSPs than becoming a sales person at a DSP",
+          "score": 1,
+          "created_utc": 1730197582.0
+        },
+        {
+          "author": "Dangerous-Day-2107",
+          "body": "Yes Spectrum Reach can sell CTV can do retargeting as well.",
+          "score": 1,
+          "created_utc": 1730156981.0
+        },
+        {
+          "author": "bradbiederer",
+          "body": "That would be my first to start. Contacting all your linear clients and offering CTV + Linear packages where CTV delivery is based off of linear delivery.",
+          "score": 1,
+          "created_utc": 1730161198.0
+        },
+        {
+          "author": "Dangerous-Day-2107",
+          "body": "Where in a good place in terms engagement with clients on including CTV in the media mix on campaigns we well. For context only about 20% of our campaigns are linear only.  I’m more so looking for career advice based on the perceived concern that as linear subs shrink, Spectrum will have less of a differentiator versus DSPs that can aggregate audiences beyond what we have access to",
+          "score": 1,
+          "created_utc": 1730163507.0
+        }
+      ]
+    },
+    {
+      "title": "TTD and Google hiring ",
+      "author": "Dry-Historian-8261",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gej81h/ttd_and_google_hiring/",
+      "created_utc": 1730165783.0,
+      "content": "I don’t work at neither but just saw them on linked in. I assume they are both related to the ads/programmatic world.  \n\nCheck out this job at The Trade Desk:  https://www.linkedin.com/jobs/view/3946828751\n\nCheck out this job at Google:  https://www.linkedin.com/jobs/view/4057035788",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "tahadharamsi",
+          "body": "80% of Google rev is through ads and close to 98% for TTD. Of course they will always have roles related to ads/programmatic.",
+          "score": 3,
+          "created_utc": 1730171544.0
+        },
+        {
+          "author": "Prestigious_Newt_933",
+          "body": "The google role is not related to programmatic.",
+          "score": 2,
+          "created_utc": 1730174278.0
+        },
+        {
+          "author": "PipsFisherman",
+          "body": "The gTech role at Google is a support one. You will help internally (potentially externally) to deep dive on some issue on Google Ads. Some advanced gTech team are on customer solutions with development of dedicated custom solutions, but not for this role",
+          "score": 1,
+          "created_utc": 1730192672.0
+        }
+      ]
+    },
+    {
+      "title": "Programmatic career guidance ",
+      "author": "boredtraveladdict",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gelbf3/programmatic_career_guidance/",
+      "created_utc": 1730172277.0,
+      "content": "Hi! I currently work in the programmatic field and am in the late stages of interviews for one DSP, one IPG agency and one Publicis agency, all based in New York. I have already received a verbal offer from one and expect to see an offer letter this week. \n\nI am having trouble deciding which company would be the best fit for me. As I am a programmatic buyer, all of these roles are related to this obviously, so I think that the day-to-day responsibilities would be similar for each role. However, as much as I can, I want to make sure I am somewhere with a good culture (as much as possible lol) and also somewhere stable. I would love to know if anyone has any experience at any of these holding companies/at a DSP!",
+      "num_comments": 22,
+      "comments": [
+        {
+          "author": "bhewphew",
+          "body": "pick the dsp. no one I've met from an agency would wish to go back to an agency. also an agency job is only as stable as the client contracted.",
+          "score": 22,
+          "created_utc": 1730175298.0
+        },
+        {
+          "author": "dortenzio1991",
+          "body": "I would go with the DSP without a doubt. Tech side has way more opportunities, generally pays better and should be a chiller environment. Agencies pay like shit and grind you down",
+          "score": 8,
+          "created_utc": 1730175171.0
+        },
+        {
+          "author": "workredditaccount555",
+          "body": "It really depends on what DSP it is",
+          "score": 3,
+          "created_utc": 1730210765.0
+        },
+        {
+          "author": "Paid_in_Paper",
+          "body": "The agency world is suffering a talent crisis because, for the most part, the quality of work is in the bin. Agencies are struggling to attract and keep top talent. \n\nI would go down the DSP route. The problem is that you will likely have to deal with the agencies. LOL. On the flip side, if it's not a top 5 DSP, then it gets really tough. Outside of the top 5, it's allncopy/paste, white label shit and a race to the bottom so it gets really boring.",
+          "score": 3,
+          "created_utc": 1730265786.0
+        },
+        {
+          "author": "briandv",
+          "body": "I've done both agency and DSP. \n\nReally depends where you wanna go as well in the future both have its pros and cons. Think about not just this role but the next one after. \n\nIf you want to a wider career outside programmatic with a big agency you can start looking outside from trading, accounts, and planning with buying experience and it's easier.\n\nIf you want to dive into ad tech, a DSP is a great place to start and move around towards other parts of the ecosystem easier. You'll still have to work with agencies as majority of them are going to be your client.\n\nI think the biggest one is it also depends on the DSP is also if you're going for the big ones great, the smaller one are harder to sell because they'll have to fight in service if the tech is the same.",
+          "score": 3,
+          "created_utc": 1730302888.0
+        },
+        {
+          "author": "Ok-External3080",
+          "body": "Personally, I would recommend either of the holding agencies than a DSP. If you still get to choose, I would recommend Publicis as a great place to be, I used to be there. Being a media buyer at a holdoco agency will give you spectacular access to multiple platforms as well as other aspects of media planning that you may not get easily at a DSP.",
+          "score": 8,
+          "created_utc": 1730175464.0
+        },
+        {
+          "author": "Ok-External3080",
+          "body": "As it stands right now, there are too many DSPs out there, all trying to get a slice of the pie and life is getting a bit difficult for some. Being on the agency buy side should set you up for success down the road!",
+          "score": 2,
+          "created_utc": 1730175613.0
+        },
+        {
+          "author": "ninja-squirrel",
+          "body": "I worked at a large DSP and a medium independent agency. Slightly different from your scenario, but I much preferred the DSP job. Better people, tech product instead of services.",
+          "score": 2,
+          "created_utc": 1730180580.0
+        },
+        {
+          "author": "RelativelyWholesome",
+          "body": "It really depends on what you're looking for. \n\nIf your priority is culture, usually Dsps are known for a better culture than agencies. A lot less fires to put out, better hours, etc.\n\nIf your priority is stability, ask the agencies about account diversity. Are they hiring for one client and will you have only 1-2 major accounts? Or will you be diversified across 3-5 accounts? For the Dsps, ask them what their clientele is and what their contracts look like, aka annual, month to month, minimums etc. This will give you an idea about how large clients are, and how much potential stability there can be.\n\nIf you are valuing exposure to Tier 1 programmatic platforms, agency is the way to go. You'll get access to platforms like DV360, TTD, Datorama, Taboola, Tableau, etc. \n\nIf you're valuing deep understanding of the programmatic ecosystem and buying best practices on one platform (that can later in your career be translated to a different dsp as needed) to really become a programmatic expert, go with the DSP. \n\nIf you enjoy vendor dinners/events as a job perk, go agency.",
+          "score": 2,
+          "created_utc": 1730210211.0
+        },
+        {
+          "author": "bradbiederer",
+          "body": "Why not go independent and start your own programmatic reselling. Join a DSP like stackadapt who has no minimum self service platform and gain clients that way.",
+          "score": 1,
+          "created_utc": 1730261734.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "Agency: people behave like a marketing job equals to saving lives and adopt a weird anxious behavior where everything is urgent and if not done by end of day humanity will die.\n\nGo for the DSP. You'll need to go through training to become a specialist on the platform and most probably will be the representative to an agency. The worst problem that you'll have is answering agencies' bullshit.",
+          "score": 1,
+          "created_utc": 1730334883.0
+        },
+        {
+          "author": "Illustrious_Crow4791",
+          "body": "Hands down pick one of the DSPs",
+          "score": 0,
+          "created_utc": 1730260371.0
+        },
+        {
+          "author": "Ok_Form_134",
+          "body": "DSP. Agency people are unfortunately a dime a dozen, and there's a ton of people with publicis and ipg. But most agency folks aspire towards shifting to the platform side, and client side roles often prioritize platform over agency experience.",
+          "score": 0,
+          "created_utc": 1730262873.0
+        },
+        {
+          "author": "AlDenteDDS",
+          "body": "Pick the DSP and do everything you can to learn about the companies and solutions integrated in the dsp, and how to master them. That way when your dsp is obsolete you are an expert in the marketplace and not just dsps/trading.\n\nGood luck OP",
+          "score": 0,
+          "created_utc": 1730335559.0
+        },
+        {
+          "author": "heiressofslytherins",
+          "body": "Pick the DSP as everyone already mentioned. If you don’t mind what are they offering as salary? Been looking for a while myself as well.",
+          "score": 0,
+          "created_utc": 1730340071.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "DSP jobs aren’t necessarily stable either. I know numerous people who have been let go/laid off from DSPs. And not all DSPs pay well. I was looking through some listings on LinkedIn at the DSP salaries and I kid you not, there are even some agencies that pay better. And if you look at the Glassdoor reviews of some DSPs, it’s red flags everywhere",
+          "score": 6,
+          "created_utc": 1730179632.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "Ehh I wouldn’t say DSPs are necessarily a chiller environment. There can often be tons of pressure from upper leadership to hit higher harder budget performance goals, and I have witnessed people get let go because they couldn’t keep up. And not every tech side/DSP necessarily pays that well. When I was interviewing, I was literally getting a higher salary as a senior associate at a holdco than at a well-known identity vendor on the tech side which was for a senior manager role.",
+          "score": 1,
+          "created_utc": 1730179935.0
+        },
+        {
+          "author": "bhewphew",
+          "body": "compared to an agency I'd pick a dsp. esp if it's a good dsp in the market it's no competition imo.",
+          "score": 10,
+          "created_utc": 1730180262.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "But what if the agency role pays more? Which ironically does happen sometimes",
+          "score": 1,
+          "created_utc": 1730210387.0
+        },
+        {
+          "author": "bhewphew",
+          "body": "I think having entry level agency experience is good, but I honestly don't know anyone who has left who would want to go back. I'm maybe biased being on platforms for 10 years, half of which at DSPs. most people on platforms have joined to escape agencies. due to poor WLB, generally low pay, high stress.\n\nif you're at a good DSP the perks will spoil you + good WLB most of the time. and easy to pivot to other career paths like product, marketing, sales, client service etc.",
+          "score": 1,
+          "created_utc": 1730211491.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "There’s the thing, it has to be a “good” DSP. It’s only worth it if it’s a good DSP, but if you’re at a mid or low-tier DSP, the juice might not always be worth the squeeze",
+          "score": 1,
+          "created_utc": 1730211894.0
+        },
+        {
+          "author": "bhewphew",
+          "body": "getting in at any dsp can help you get to a good one eventually though.  it really just depends what you're looking for. some dsps have rules against poaching client side which could add another layer in before you jump to dsp if that's something you decide you want to do.",
+          "score": 3,
+          "created_utc": 1730212078.0
+        }
+      ]
+    },
+    {
+      "title": "Is Programmatic dying?",
+      "author": "Wrong-Web1204",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1geq2k3/is_programmatic_dying/",
+      "created_utc": 1730192225.0,
+      "content": "Is the programmatic role dying with the implementation of AI and automation processes?",
+      "num_comments": 11,
+      "comments": [
+        {
+          "author": "DonSalaam",
+          "body": "No.",
+          "score": 23,
+          "created_utc": 1730192651.0
+        },
+        {
+          "author": "BasisOk4268",
+          "body": "Programmatic has been utilising AI for years. It’s other channels that are beginning to fall under the programmatic umbrella if anything.",
+          "score": 13,
+          "created_utc": 1730194025.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Not really but low quality programmatic advertising jobs will definitely be killed.",
+          "score": 7,
+          "created_utc": 1730196916.0
+        },
+        {
+          "author": "Publish_Lice",
+          "body": "No, there's more programmatic jobs than ever before.",
+          "score": 3,
+          "created_utc": 1730194009.0
+        },
+        {
+          "author": "sushimajesty",
+          "body": " I dont think so. However, changes are taking place for the good ensure ads are bing delivered to the right consumer.",
+          "score": 1,
+          "created_utc": 1730210882.0
+        },
+        {
+          "author": "TechyRuben",
+          "body": "Not at all, I would say that AI is helping programmatic!",
+          "score": 1,
+          "created_utc": 1730739271.0
+        },
+        {
+          "author": "Paid_in_Paper",
+          "body": "Agreed. \n\nAlmost all channels can be bought programmatically now.",
+          "score": 4,
+          "created_utc": 1730197767.0
+        },
+        {
+          "author": "Paid_in_Paper",
+          "body": "Agreed \n\nI.e., all the manual, mundane shit agencies get paid for are on their way out. Forecasting, media planning, trafficking, even optimisations will be impacted.\n\nGood riddance.",
+          "score": 2,
+          "created_utc": 1730197921.0
+        },
+        {
+          "author": "plainbread11",
+          "body": "What’s left besides that just genuinely curious",
+          "score": 3,
+          "created_utc": 1730200633.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Same things but with “ai”",
+          "score": 2,
+          "created_utc": 1730200879.0
+        },
+        {
+          "author": "Paid_in_Paper",
+          "body": "That's the question the industry doesn't want to answer. Because the answer demands a fundamental and seismic shift in the way campaigns are run and how agencies earn money. \n\nInevitably, I think brands cotton on and use AI to bring more of the process in-house forcing agencies to adapt and offer better value. \n\nShould also improve the quality of jobs in the industry. Nobody likes fxcking around with Excel sheets all day in 2024.",
+          "score": 1,
+          "created_utc": 1730200894.0
+        }
+      ]
+    },
+    {
+      "title": "Programmatic hiring",
+      "author": "horse-regrets-5246",
+      "score": 11,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gevi8h/programmatic_hiring/",
+      "created_utc": 1730210911.0,
+      "content": "Hi, work at a small, all-remote agency with about $15MM in billings. We have been white labeling programmatic but would like to bring it in house. At this point, it would be part time…maybe 15-20 hours a week and totally fine if that person has other side hustles as well. Questions:\n- Should we look for someone in US or offshore?\n- Pay range for someone to manage programmatic, soup-to-nuts?\n- Suggestions for the best place to find someone? Recruiter, Indeed, LinkedIn?",
+      "num_comments": 18,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "100% in US if you want to bring it in house (well if that’s where you are located)\n \nPotentially have it be contract and have the new hire train someone to manage?\n\nPay would be dependent on programmatic billings, and overall expectations.\n\nCould easily find someone on here or on LinkedIn! \n\nDM me plz god i need some work",
+          "score": 16,
+          "created_utc": 1730211872.0
+        },
+        {
+          "author": "Swimming-Way3474",
+          "body": "Hey, I've been looking for opportunities to work in more intimate settings, smaller teams, I have a lot of experience from a big 4 agency. I'm based out of the US so I'm essentially offshore, would be cost effective for you and probably give you a broader perspective with things. If you'd be interested in reviewing my profile and getting in touch w me, I'd be very happy to see if there's anyway I can contribute to what you're looking for",
+          "score": 2,
+          "created_utc": 1730221776.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "DM",
+          "score": 1,
+          "created_utc": 1730211971.0
+        },
+        {
+          "author": "Glittering_Donut6787",
+          "body": "I have someone in mind based in the midwest if you'd like to chat. What DSP are you using now?",
+          "score": 1,
+          "created_utc": 1730213073.0
+        },
+        {
+          "author": "appu49",
+          "body": "Offshore will be cost effective but instead of an individual it will be best to outsource to an agency who can work in the respective time zone and take the responsibility as well give training to the in-house team as when required.",
+          "score": 1,
+          "created_utc": 1730221404.0
+        },
+        {
+          "author": "MixtureScared8368",
+          "body": "Magnite’s ClearLine product lets you buy CTV, OTT and OLV directly instead of going through a DSP. Might be a good idea. Happy to help.",
+          "score": 1,
+          "created_utc": 1730230240.0
+        },
+        {
+          "author": "[deleted]",
+          "body": "Have about 8yrs programmatic with a specialty in CTV and digital. We’ve been involved in a few b2b and DTC middleware ad projects with extensive knowledge on consumer compliance and data management.\n\nFeel free to DM",
+          "score": 1,
+          "created_utc": 1730242330.0
+        },
+        {
+          "author": "Zsopsmedia",
+          "body": "Hey \nIf you are looking for offshore ( Non - US) let me know. I have 12+ years of experience in programmatic and can assist you with the programmatic end to end. let me know if we can chat. \nThanks",
+          "score": 1,
+          "created_utc": 1730296570.0
+        },
+        {
+          "author": "BestAd1682",
+          "body": "You can also look for offshore someone in better timezone and cost effective. Canada, UK etc. you will fine people in LinkedIn and ever here too. As you are starting off my reco is go for offshore as and later expand.",
+          "score": 1,
+          "created_utc": 1730314446.0
+        },
+        {
+          "author": "SnooMuffins4073",
+          "body": "offshore would be cost efficient as it's a full remote company.\nPay range will depend on the experience, you can find it on LinkedIn easily.\nHowever I have experience with top DSPs. I am interested if it's available and want to discuss more. Feel free to DM me",
+          "score": 1,
+          "created_utc": 1730348447.0
+        },
+        {
+          "author": "PublicitaryMan",
+          "body": "I live in Brazil and have some friends that work with companies in the US and Europe. They seem pretty happy about and I guess their employers are too, since it's becoming more common here",
+          "score": 1,
+          "created_utc": 1730494426.0
+        },
+        {
+          "author": "Significant-Act-3900",
+          "body": "My last job as programmatic director (misleading title as I managed the whole dept and did day to day, hands on keyboard and strategy) my rate was usd $110k. If your agency doesn’t have an experienced programmatic leader already, I would not hire a junior for this role. You could risk that person making mistakes that you are not privy to and ruining and losing your client base. We do white labeled Omni-channel ads and a big component is programmatic, which we have done for the past 14 years at small to medium sized agency with client budgets up to 2.5M annually. ",
+          "score": 1,
+          "created_utc": 1730653005.0
+        },
+        {
+          "author": "BadGalNaty",
+          "body": "You could hire offshore for junior levels, you will usually find a great set of skills like BI tools and some programming skills in excel and google sheets , and all of this for half the market price or less",
+          "score": 1,
+          "created_utc": 1740837054.0
+        },
+        {
+          "author": "peko_peko1",
+          "body": "15MM meaning 15 billion, are you google or something? 🤔",
+          "score": -2,
+          "created_utc": 1730231548.0
+        },
+        {
+          "author": "horse-regrets-5246",
+          "body": "I’ll DM you!",
+          "score": 1,
+          "created_utc": 1730214766.0
+        },
+        {
+          "author": "bkh_leung",
+          "body": "Capital M, and in this case MM, means million in accounting and finance \n\nLowercase m is also often used to denote million \n\nPeople also use mn and bn to avoid the same confusion when contextual clues aren't clear \n\nBut base on the context here, I think you're just trying to make a joke unless... 🤔",
+          "score": 9,
+          "created_utc": 1730232537.0
+        },
+        {
+          "author": "horse-regrets-5246",
+          "body": "In media, M stands for thousands (in Latin, Mille), as reflected in CPM. So, two MMs mean millions. I know it’s confusing, but I don’t make the rules!",
+          "score": 4,
+          "created_utc": 1730296069.0
+        }
+      ]
+    },
+    {
+      "title": "TTD vs CM Conversion Reporting",
+      "author": "Loose-Station8259",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gf329a/ttd_vs_cm_conversion_reporting/",
+      "created_utc": 1730229842.0,
+      "content": "Hi All,\n\nBeen running a bunch of new CPA campaigns in TTD recently, using CM as the ad server.\n\n  \nAny particular reason we're seeing big discrepancies between reported Conversions in TTD vs. CM. In almost all cases TTD is reporting multiple conversions, while CM is reporting next to none, even in P2C CM reports.\n\nThanks for any insights! ",
+      "num_comments": 12,
+      "comments": [
+        {
+          "author": "workredditaccount555",
+          "body": "It could literally be a bunch of different things so we will never figure it out. The first thing I would check - do you have identity alliance turned on in TTD for the reporting columns? If so, it's likely recording a lot of cross device conversions that CM360 can't pick up. I would turn that off.",
+          "score": 8,
+          "created_utc": 1730231236.0
+        },
+        {
+          "author": "lancequ01",
+          "body": "Attribution. Cm looks at the whole picture and that includes media not in ttd. But since you look in to path to conversions, then uou might want to look in to operating system. IOS conversions had drop significantly in cm the past couple of years but not that much in ttd.",
+          "score": 8,
+          "created_utc": 1730231045.0
+        },
+        {
+          "author": "RawrRawr83",
+          "body": "It's probably being attributed to search",
+          "score": 4,
+          "created_utc": 1730241776.0
+        },
+        {
+          "author": "postyyyym",
+          "body": "As as first step, I would check whether your TTD & CM attribution events and lookback windows identical? If not, you'll need to check all of the other points listed below by others. Is CM tracking more media, or just your programmatic? Are you measuring on the cross-device level in TTD using identity alliance? What's the make-up of spend and conversions attributed to environments and browsers which have more restrictions around cookie-based tracking like Firefox, Safari and IOS devices?\n\nPinpointing the exact 1-1 reason might not be possible, but there's absolutely a lot of different ways you can dissect and analyze the different data-sources to better understand what could cause this and from there look into ways to get these figures more closely lined up",
+          "score": 4,
+          "created_utc": 1730274146.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "CM has gotten so much worse at cross campaign reporting I would disregard it. It can’t measure certain channels like CTV at all and even what it used to be able to measure is falling apart.",
+          "score": 6,
+          "created_utc": 1730234894.0
+        },
+        {
+          "author": "LikeAfterSummer",
+          "body": "Using identity alliance attribution with TTD allows you to measure conversions across devices (you showed me an ad on my TV and later i went to your site on my phone).\n\nGoogle’s identity graph is not picking that up. \n\nAdditionally, TTD only will see their own campaigns. CM might be attributing credit to campaigns lower in the funnel like search unless they account for multi touch attribution.",
+          "score": 1,
+          "created_utc": 1730331140.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "Don't use CM as a source of truth for TTD conversions. This is a Google-owned system, that heavily relies on cookies/google IDs. At the same time, TTD uses its own identifier - UID2. These are just two different worlds and there is no point in running TTD if you measure it in CM - TTD gives the opportunity to measure CTV, Safari, cookielees environments etc. Also, it will be worse and worse in the future.",
+          "score": 1,
+          "created_utc": 1730369882.0
+        },
+        {
+          "author": "ThenTranslator6817",
+          "body": "CM is de-duping conversions against other channels like social (ie meta) while TTD only sees what they see. You could cut down on the attribution windows in TTD and that might help the numbers get closer together. That being said, don’t run TTD if doing a performance campaign - it doesn’t perform.",
+          "score": 0,
+          "created_utc": 1730256674.0
+        },
+        {
+          "author": "LikeAfterSummer",
+          "body": "dont turn it off- there’s no added fee for having multiple mappings. there’s a story to be told in seeing conversions that happen across multiple devices and quantifying that impact.\n\ninstead, i’d add an additional mapping that doesn’t use XD- see if those numbers align.",
+          "score": 3,
+          "created_utc": 1730331235.0
+        },
+        {
+          "author": "Fit-Distance2790",
+          "body": "This is just completely wrong.",
+          "score": 0,
+          "created_utc": 1730250731.0
+        },
+        {
+          "author": "workredditaccount555",
+          "body": "This is actually a great point",
+          "score": 1,
+          "created_utc": 1730383099.0
+        },
+        {
+          "author": "capitalifelendinginc",
+          "body": "While I get his point about CTV attribution (I don't see any CTV CM tracking in my DV for example), whats exactly wrong u/Fit-Distance2790?",
+          "score": 1,
+          "created_utc": 1730287542.0
+        }
+      ]
+    },
+    {
+      "title": "Frequency Cap Question",
+      "author": "LopsidedAd947",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gf9gem/frequency_cap_question/",
+      "created_utc": 1730246569.0,
+      "content": "Hi everyone, hope you’re having a great week so far!\n\nI have been trading for about a year now on DV360.\n\nFew weeks ago, I had a discussion with my teammate regarding to setting “no limit” frequency cap on both of our retargeting and prospecting insertion orders and line items. \n\nOne of my teammate kept on pushing the idea of setting as no limit as the machine learning would find the right frequency amount. While, I do think this is correct, but my concern was on ad collision and exhaustion. Hence, my recommendation was to set frequency cap and monitor the “frequency limited” impression lost chart and optimize accordingly.\n\nEspecially considering the fact that my client is selling home appliances which the product prices are not that cheap. Thinking from the user’s perspective, I would find it annoying to have to see multiple ads at the same time. \n\nAdditionally, we run the campaigns globally which consists of countries with huge audience pool and inventories like India and Indonesia.\n\nCould you let me know which option would be better?\n\nDo let me know if you require more info!",
+      "num_comments": 6,
+      "comments": [
+        {
+          "author": "savant125",
+          "body": "Adding any constraint to a campaign will result in biasing the algorithm.  If you have a general prospecting campaign with a high max bid, you’re going to make your campaign eligible for all bid requests that come through.  That’s not the goal, so applying constraints is your way to balance media efficiency.\n\nMost DSPs do not optimize for frequency.  By not setting a limit, you’re feeding the algorithm more data about the requests you’re willing to bid on, that will hopefully lead to a winning bid.  Bidders care more about learning which opportunities will lead to a winning bid than delivering thoughtful advertising.\n\nThe DSP won’t learn from the conversion pixel, i.e. it won’t analyze how many times the user was exposed before they triggered a pixel fire.  Instead, it will learn the profile of the user that triggers the pixel fire, and will try to bid more on those types of users.  It does potentially shorten the number of exposures for a conversion, but may still result to overexposure.\n\nIf I was running a campaign purely for learnings, I’d not add a cap.  If I’m trying to manage my media dollars effectively, I’d take your approach.",
+          "score": 9,
+          "created_utc": 1730253079.0
+        },
+        {
+          "author": "postyyyym",
+          "body": "What would the reason be to just let the algorithm run wild? Presumably, your client doesn't have unlimited budget, nor are they wanting to serve 20x ads a day to the same user. As others have mentioned below, you should absolutely set a frequency cap based on historical data and how many touch-points on average lead to your desired outcome and then put that next to your different KPIs, target audience size, budget and max price.\n\nFor example, the prospecting audience is likely a lot larger but your client or your historical data will probably also have some insights as to how many people you want to/need to reach depending on the objective and how many prospects you need/want to move down the funnel. From there you can calculate using your available budget, avg. CPM how much budget you might want to spend here",
+          "score": 3,
+          "created_utc": 1730273703.0
+        },
+        {
+          "author": "thinkerthought",
+          "body": "DV360 algos are not sophisticated enough to optimise towards the right frequency - it is only considering the attributes the last touch had prior to the conversion, without any regard to the impressions beforehand, regardless of how impactful they were. Without a cap in place, you will definitely be over-serving to the same users over and over again, especially for prospecting where there is a weaker signal of whether a user is likely to convert.\n\nI'd look at your data to find your optimal frequency based on your objectives first, and use this to guide your frequency cap - this will help you to find more net new users within your targeting pool that could convert, increasing the average effectiveness of each impression. While there are definitely cases where it makes sense to maximise frequency (eg. if you have high value, reliable signals that a user is likely to convert), but it sounds like your net is very broad here.",
+          "score": 2,
+          "created_utc": 1730272178.0
+        },
+        {
+          "author": "LopsidedAd947",
+          "body": "Hey Savant125, I do heavily agree with your statement “applying constraints is your way to balance media efficiency.” And also regarding in the machine learning learning about the profile of the audience. Also, thank you for your tip on setting no cap for learnings and setting caps for media dollar effectiveness.\n\nThanks a lot for your inputs :)",
+          "score": 2,
+          "created_utc": 1730293556.0
+        },
+        {
+          "author": "LopsidedAd947",
+          "body": "Thanks for the straightforward and detailed guide to my question, I fully appreciate each and every one who has taken time to write the inputs! :)",
+          "score": 1,
+          "created_utc": 1730293891.0
+        },
+        {
+          "author": "LopsidedAd947",
+          "body": "Right, understood on your input! Thank you for taking the time to write down your answer.",
+          "score": 1,
+          "created_utc": 1730293689.0
+        }
+      ]
+    },
+    {
+      "title": "Frequency cap",
+      "author": "Viggu_13",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfa3x6/frequency_cap/",
+      "created_utc": 1730248447.0,
+      "content": "The campaign is 40 days in DV360 the frequency cap is an average of 4 per day. What will the frequency cap of 40 days. May I know the answer. ",
+      "num_comments": 4,
+      "comments": [
+        {
+          "author": "BasisOk4268",
+          "body": "Logically, 4x40=160\n\nBut it won’t be 160. It would usually curtail around 5-6 over the flight of the campaign dependent on market saturation and available reach. Depending on your budget it’s probably best to just assign a cap of 3 per flight to increase effective unique reach.",
+          "score": 6,
+          "created_utc": 1730251102.0
+        },
+        {
+          "author": "SouthwestBLT",
+          "body": "Can you give me a quick list of 5 of the ads you saw 40 days ago? If I showed you 10 ads and 3 were ones I knew you saw last week could you pick them out for me? \n\nThe lack of understanding about ad recall is a real issue, realistically few people are going to remember your ad a month later so why be concerned about the frequency. You’ll be lucky if they remember your ad a week later.\n\nI suggest using a cap duration that reasonably represents the amount of time a user might remember your ad and then go from there to balance being annoying.",
+          "score": 3,
+          "created_utc": 1730288938.0
+        },
+        {
+          "author": "postyyyym",
+          "body": "What's your total audience size? What's the objective of this campaign/strategy? Will users in your current target audience be excluded from the campaign at some point? Is it a dynamically growing audience, or static in size?\n\nThe max possible frequency would logically be 4x40=160 but that's assuming the audience remains static over the duration of the campaign and you're only serving against users with cookies/IDs associated with them. In reality, the number will likely average out far below that 160 and probably you will even struggle to see an actual average of 4 exposures per day if your audience is of large size etc",
+          "score": 2,
+          "created_utc": 1730273898.0
+        },
+        {
+          "author": "Viggu_13",
+          "body": "Thank you both....🙂",
+          "score": 1,
+          "created_utc": 1730274793.0
+        }
+      ]
+    },
+    {
+      "title": "DV360 traffic as \"google/cpc\" in GA4",
+      "author": "prg_marketer",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfnp94/dv360_traffic_as_googlecpc_in_ga4/",
+      "created_utc": 1730298130.0,
+      "content": "Hi.\n\n  \nStarting from 10th of October our DV360 traffic dropped to zero in all of our GA4 accounts (we use \"dv360/display\" source/medium). When looking at it closer, it seems that this traffic is now attributed to \"google/cpc\" source/medium. So something (auto-tagging?) overrides the UTM tags that we have set manually for our banners. This is a huge problem for us, as we have Google display campaigns also live and now GDN and DV360 are blended together under one source/medium with no option to differentiate the 2.\n\n  \nWhen linking DV360 and GA4 accounts, it shows that auto-tagging is \"ON\" by default and can't be edited (that's what Google sources also say).\n\nIs anyone experiencing the same situation and has some kind of solution for this?\n\n",
+      "num_comments": 11,
+      "comments": [
+        {
+          "author": "Mitchell-n",
+          "body": "Out of curiosity why are you running display on DV360 and GDN at the same time? Seems redundant since it’s the same inventory",
+          "score": 3,
+          "created_utc": 1730300886.0
+        },
+        {
+          "author": "beerslingerjay",
+          "body": "We deal with the same thing consistently. Auto-tagging will just randomly switch on at times and demolish our tracking. Seems to happen when we make campaign changes, but everyone swears they haven’t turned auto-tagging on.",
+          "score": 3,
+          "created_utc": 1730305595.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "You can try to check \"CM360 source/medium\" or \"DV360 source/medium\" as a dimension in the custom report (Explore -> New report). Based on what I know, it should show correct data (taking into account that auto-tagging is on)",
+          "score": 3,
+          "created_utc": 1730369673.0
+        },
+        {
+          "author": "the-fire-in-me",
+          "body": "If DV360 traffic is now showing up as \"google/cpc\" in GA4, it might be because auto-tagging is on, which changes your UTM tags. Since auto-tagging can’t be turned off, here are some ways to fix it. You can try setting up special labels to separate DV360 traffic from Google Display Network (GDN) or use Google Tag Manager (GTM) to add different tags. A tool like Qwestify can also help sort this data, so you can clearly see the traffic sources.",
+          "score": 1,
+          "created_utc": 1730320377.0
+        },
+        {
+          "author": "Panda_Ro",
+          "body": "GA cross-channel attribution misclassified click-through-conversions to Google Ads instead of DV360 or CM360 when you **enable YouTube auto-tagging**. \n\nThis leads to an attribution issue in GA where a GCLID is used and the traffic gets incorrectly categorized as Google Ads instead of DV3 or CM3.",
+          "score": 1,
+          "created_utc": 1730372793.0
+        },
+        {
+          "author": "teccy366",
+          "body": "Can you use the ‘session manual source/medium’ dimension for reporting?  This will show the UTM value if it existed when the user entered the site, regardless of auto tagging.",
+          "score": 1,
+          "created_utc": 1730419096.0
+        },
+        {
+          "author": "spicyfoodethusiast",
+          "body": "I am having the same issue. I've noticed that if I use Session source/medium, it brings through google/cpc. If I use Manual source/medium- the correct and my intended UTMs come through. Also- the timing of Oct. 10th makes sense with this article I read: https://ppc.land/youtube-auto-tagging-to-be-enabled-by-default-for-dv360/",
+          "score": 1,
+          "created_utc": 1736372079.0
+        },
+        {
+          "author": "prg_marketer",
+          "body": "It can be a different ad formats, for example we do pmax + dv360.",
+          "score": 1,
+          "created_utc": 1730305625.0
+        },
+        {
+          "author": "prg_marketer",
+          "body": "Hi. Thank you. I'm not familiar with labels - where can I set those?",
+          "score": 1,
+          "created_utc": 1730360054.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "Like I said seems redundant- are you measuring frequency across it?",
+          "score": 3,
+          "created_utc": 1730306102.0
+        },
+        {
+          "author": "ComplexAcceptable428",
+          "body": "Hi, can I join in sending instructions on how to tag accesses from DV360 using GTM?",
+          "score": 1,
+          "created_utc": 1732631407.0
+        }
+      ]
+    },
+    {
+      "title": "AmbioEdu--Performance CTV",
+      "author": "No-Formal7830",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfpmc6/ambioeduperformance_ctv/",
+      "created_utc": 1730303022.0,
+      "content": "I recently came across AmbioEdu and their claims seem to be similar to MNTN before they were made to change them. \"The only performance TV platform built for higher ed.\" What type of \"platform\" is this? Have they built their platform on top of TTD? \n\nAre the following claims possible: \n\n* As the first and **ONLY** company in higher education to offer this capability, our integrated dashboard not only tracks essential metrics but also uniquely links CTV/OTT ad views to conversion metrics, from first ad exposure to enrollment.\n* Ambio select: you pick the channels of your choice, audience-specific networks, transparent channel reporting\n\n",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "savant125",
+          "body": "I think the only unique thing about their claims is that they may be the first and only platform to support CT media buying for higher ed.  They’re just another platform that found a niche that’s underserved.\n\nThe other claims are pretty standard - the first bullet is about conversion methodology and using log data effectively; the second is about inventory curation.  Nothing about those points are unique, and many vendors in the space do the same things.\n\nProbably built it on Beeswax, but could be TTD.",
+          "score": 2,
+          "created_utc": 1730305890.0
+        },
+        {
+          "author": "OrdinaryInside8",
+          "body": "Not built of TTD, it’s a sister company to a company called CTV buyer if you look around you can figure that out. \n\nAs someone else said it’s, a niche find in higher ed…MNTN was just rebranded for Steelhouse which is very suspect tech…they do phenomal job marketing (as Ryan Reynolds often does)…but the technology is smoke and mirrors called “machine learning”…\n\nFrankly none of these CTV platforms have really figured out measurement.",
+          "score": 1,
+          "created_utc": 1730330592.0
+        },
+        {
+          "author": "AlexMint23",
+          "body": "Did you end up using AmbioEdu, or did you go the self-serve route? What was your experience either way? I'm also considering this agency and would love to know if it's a good choice.",
+          "score": 1,
+          "created_utc": 1738552742.0
+        }
+      ]
+    },
+    {
+      "title": "DST Charges on DV360?",
+      "author": "constantqq",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfvwnc/dst_charges_on_dv360/",
+      "created_utc": 1730318768.0,
+      "content": "Hello! \n\nHoping someone can help urgently (thanks in advance).\n\nWe got a notification thar we’ll start seeing surcharges for DST in our upcoming Google invoices covering the month of October. So have a few questions:\n\n1. Is this a cost that is included when I pull for Billable Costs and/or Revenue on DV?\n\n2. How should I be accounting for this when setting up campaigns? Right now I believe our set up automatically includes platform fees when we add in budgets.\n\nAppreciate your help 😊",
+      "num_comments": 4,
+      "comments": [
+        {
+          "author": "BasisOk4268",
+          "body": "DST Fee is reportable under ‘Regulatory Operating Costs’.\n\nIn your media plan it will be 2% (dependent on region) of your gross/net media.",
+          "score": 3,
+          "created_utc": 1730322347.0
+        },
+        {
+          "author": "codalark",
+          "body": "It should be coming out of your net media/working media. Now whether that includes or excludes YT, PG deals, PMP deals you gotta check with your finance team on how that’s structured so you’re properly accounting for the 2.5%",
+          "score": 2,
+          "created_utc": 1730320015.0
+        },
+        {
+          "author": "postyyyym",
+          "body": "This link contains all the % DST rates per country;  \n[https://support.google.com/google-ads/answer/9750227?hl=en](https://support.google.com/google-ads/answer/9750227?hl=en)\n\nAs others have already said, this will apply to the net media cost but not get the DSP fee charged to it. If your current set-up automatically includes platform fees in the mediaplans, you'll have to make amendments to those templates based on the %s in the above article to ensure you stay within briefed budget. It's reportable, so would highly encourage monitoring closely once regulation goes into effect for the first couple of campaigns to ensure all goes well",
+          "score": 1,
+          "created_utc": 1730359077.0
+        },
+        {
+          "author": "constantqq",
+          "body": "Thanks so much everyone!",
+          "score": 1,
+          "created_utc": 1730418518.0
+        }
+      ]
+    },
+    {
+      "title": "DSP Tiers?",
+      "author": "LateMathematician280",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gfyhzd/dsp_tiers/",
+      "created_utc": 1730325451.0,
+      "content": "Is there a tier list for all the DSPs out there? Want to know what DSPs are prestigious/reputable!",
+      "num_comments": 18,
+      "comments": [
+        {
+          "author": "tahadharamsi",
+          "body": "Tier 1: TTD, DV360, Amazon (their strength is Amazon data and inventory) and maybe Xandr.",
+          "score": 9,
+          "created_utc": 1730329627.0
+        },
+        {
+          "author": "RelativelyWholesome",
+          "body": "Tier 1: TTD DV360\nTier 2: Basis, beeswax, xandr Amazon dsp, Adelphic, basically anything else. \n\nI had experience across 5 dif tier 2 dsps because I worked at agencies with small programmatic spends. But bc I didn't used to have experience on tier 1 dsps, it was really difficult to get hired at any big agencies. \n\nI heard the breakout of \"tier 1 vs tier 2\" dps while interviewing. Idk if it's very official of a \"tier list\" but it def served helpful while describing my experiences, and most I interviewed with seemed to understand it",
+          "score": 5,
+          "created_utc": 1730377968.0
+        },
+        {
+          "author": "Ill_Investigator1565",
+          "body": "Look for Gartner Research report on Demand Side Platforms.",
+          "score": 4,
+          "created_utc": 1730351930.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "TTD\nXandr\nDV360\nBeeswax\nYahoo\nAmazon",
+          "score": 3,
+          "created_utc": 1730336702.0
+        },
+        {
+          "author": "DisastrousAd7809",
+          "body": "Anyone interested in me breaking this out by spend from a SSP/pub perspective?",
+          "score": 1,
+          "created_utc": 1730649260.0
+        },
+        {
+          "author": "TechyRuben",
+          "body": "Some of the larger, more prominent and prestigious DSPs include:\n\n* Google Display & Video 360 (previously DoubleClick Bid Manager)\n* The Trade Desk\n* Amazon DSP\n* Adobe Advertising Cloud\n* AppNexus\n* MediaMath\n* DV360 (formerly Videology)\n* Centro",
+          "score": 1,
+          "created_utc": 1731057852.0
+        },
+        {
+          "author": "Conscious-Regret-296",
+          "body": "I’m curious as to why no one has mentioned Simplifi. Their UI is great and I’ve noticed little to no MFA inventory.",
+          "score": 1,
+          "created_utc": 1732342368.0
+        },
+        {
+          "author": "NyaNyaBam",
+          "body": "A couple top buying platforms below - \n\n* Display & Video 360 (DV360)\n* The Trade Desk\n* Amazon DSP\n* Yahoo! Ad Tech\n* Beeswax\n* Xandr Invest\n* Conversant\n* Quantcast\n* Basis\n* Cox Automotive",
+          "score": 0,
+          "created_utc": 1730330647.0
+        },
+        {
+          "author": "Amazing-Ad8053",
+          "body": "Personally I would give StackAdapt the top three over DV, inventory across DV is very poor quality and when you lift the lid on where your spend is going the results don't look good",
+          "score": 0,
+          "created_utc": 1730658745.0
+        },
+        {
+          "author": "the_hungry_havanese",
+          "body": "Amazon’s UI 🗑️",
+          "score": 11,
+          "created_utc": 1730373176.0
+        },
+        {
+          "author": "Nearby-Chair8608",
+          "body": "I'd like to add Yahoo into this list.",
+          "score": -7,
+          "created_utc": 1730334383.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "TTD is the cream of the crop for UI, performance, inventory/scale, features, support, etc.\n\nDV360 is a close second, but really not that close. They cater to AdX inventory, support is nonexistent, and features are good but fall behind DV360. However, it is the DSP to use for YouTube inventory. It also allows for seamless integration with other GMP products. \n\nBoth of these DSPs offer better UI, features and scale than *most* other DSPs. But with a tier 1 DSP comes higher cost and higher spend thresholds needed to run on them",
+          "score": 4,
+          "created_utc": 1730385518.0
+        },
+        {
+          "author": "dimtone",
+          "body": "I'd add StackAdapt way before basis",
+          "score": 14,
+          "created_utc": 1730341838.0
+        },
+        {
+          "author": "Flipdoc_",
+          "body": "I'd remove Basis. Worst thing I've ever seen in my progr life",
+          "score": 14,
+          "created_utc": 1730335215.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Finally is getting a revamp that actually looks decent for once.",
+          "score": 4,
+          "created_utc": 1730387302.0
+        },
+        {
+          "author": "Gullible_Attitude_20",
+          "body": "I'd be curious to know why DV360 is viewed as the core place for YouTube inventory. The YouTube campaigns that I've ran out of Google Ads seem perfectly fine, and if you need the CPM / YT TV inventory, use a Reservation campaign within Google ads. \n\nThere's going to be differences in price (depends on your DV360 access - direct or reseller) and some slight differences around cross-channel frequency capping, but overall Google Ads seems like a fine option for YT unless I'm missing something.",
+          "score": 1,
+          "created_utc": 1730491534.0
+        },
+        {
+          "author": "zeplin_fps",
+          "body": "Sorry, I should’ve said Dv360/google ads. I just meant people choose GMP services to run YouTube since Google owns YouTube.",
+          "score": 1,
+          "created_utc": 1730493870.0
+        },
+        {
+          "author": "Gullible_Attitude_20",
+          "body": "No worries at all - I’m not a DV enthusiast, so I like to see if others share the same thoughts around the Google ads / YT piece - to your point those are your only two options to access",
+          "score": 1,
+          "created_utc": 1730506767.0
+        }
+      ]
+    },
+    {
+      "title": "What are STV devices?",
+      "author": "PurpleAnchor89",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1gg4j8c/what_are_stv_devices/",
+      "created_utc": 1730342492.0,
+      "content": "Hi All,\n\nMight be a dumb question for when the buyer is asking for ‘Format:STV’, is this essentially just CTV devices? \n\nI have a campaign running on all devices but it was for STV ",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "Nearby-Chair8608",
+          "body": "Amazon calls it STV (streaming tv). Same shit as CTV in my book.",
+          "score": 8,
+          "created_utc": 1730342867.0
+        },
+        {
+          "author": "PurpleAnchor89",
+          "body": "Damn it…thank you for the clarity",
+          "score": 2,
+          "created_utc": 1730343344.0
+        }
+      ]
+    },
+    {
+      "title": "Best Sites, Newsletters or pages to get Programmatic News",
+      "author": "Pantpp",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggbp9n/best_sites_newsletters_or_pages_to_get/",
+      "created_utc": 1730372256.0,
+      "content": "Hey Community I am new in the industry and wanted what are outlets that would help you stay up to date with the industry",
+      "num_comments": 13,
+      "comments": [
+        {
+          "author": "Panda_Ro",
+          "body": "[https://www.adexchanger.com/](https://www.adexchanger.com/)",
+          "score": 4,
+          "created_utc": 1730372514.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "communities (especially on X - the fastest news, opinions, insides; discord communities, etc); sites like adexchanger, adweek, digiday",
+          "score": 3,
+          "created_utc": 1730373688.0
+        },
+        {
+          "author": "tahadharamsi",
+          "body": "I like Joe Zappa's newsletter, UofD, Eric Tilbury, Marketecture, Matthew Goldstein",
+          "score": 2,
+          "created_utc": 1730390000.0
+        },
+        {
+          "author": "danie-l",
+          "body": "https://ppc.land",
+          "score": 1,
+          "created_utc": 1730482945.0
+        },
+        {
+          "author": "thirstyman12",
+          "body": "Can you recommend any Discord communities?",
+          "score": 2,
+          "created_utc": 1730583424.0
+        },
+        {
+          "author": "NyaNyaBam",
+          "body": "Any recommendations for accounts on X?",
+          "score": 1,
+          "created_utc": 1730381277.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "Programmatic 101 community - [https://discord.gg/JwAJ7A4C](https://discord.gg/JwAJ7A4C)",
+          "score": 1,
+          "created_utc": 1730805762.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "AdTechGod, Marketecture, AdTechRadar, UofDigital, Programmatic101, Eric Tilbury,",
+          "score": 3,
+          "created_utc": 1730385583.0
+        },
+        {
+          "author": "AdTech_god",
+          "body": "X isn’t the same. Yes, follow people since it’s still active. But it’s slowly withering away. A lot of us have moved to BlueSky now. It’s not great but better than Threads. \n\nFeel free to DM me on X or BlueSky and I’ll give ya a boost.",
+          "score": 2,
+          "created_utc": 1733382923.0
+        },
+        {
+          "author": "thirstyman12",
+          "body": "This link isn't working :( is it expired?",
+          "score": 2,
+          "created_utc": 1731809919.0
+        },
+        {
+          "author": "NyaNyaBam",
+          "body": "Thank you!",
+          "score": 2,
+          "created_utc": 1730993658.0
+        },
+        {
+          "author": "AdTech_god",
+          "body": "Nice. Thanks for recommending Marketecture and ATG !",
+          "score": 2,
+          "created_utc": 1733382781.0
+        },
+        {
+          "author": "vlad_chubakov",
+          "body": "Yes, now it is only accessible via https://www.launchpass.com/programmatic-101/discordaccessstandard",
+          "score": 1,
+          "created_utc": 1732175595.0
+        }
+      ]
+    },
+    {
+      "title": "Disabling Enhanced Attribution boosted CTR and drastically reduced invalid clicks",
+      "author": "Panda_Ro",
+      "score": 9,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggc0xy/disabling_enhanced_attribution_boosted_ctr_and/",
+      "created_utc": 1730373422.0,
+      "content": "Hey everyone! We have a very straightforward post-click conversion action — no multiple steps involved. Recently, I disabled Enhanced Attribution in CM, and since then, our CTR has nearly doubled across all campaigns, creatives, tactics, and regions. What’s even more surprising is that the number of invalid clicks, which we monitor using a 3P tool, has dropped by up to 10x. No other changes have been made to the campaign setup — nothing new launched or paused.\n\nHas anyone else experienced something similar? Any ideas on why this might be happening?",
+      "num_comments": 6,
+      "comments": [
+        {
+          "author": "polygraph-net",
+          "body": "Does turning off Enhanced Attribution reset the training data? If so, that would be the obvious explanation, as all the previous bot visitors had trained Google to send you bots.",
+          "score": 1,
+          "created_utc": 1730385144.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Pretty strange tbh, all Enhanced Attribution does is append dclid more automated than without, which then gets stored in a 1st party cookie in the google tag. How is your measurement on a Floodlight basis since the change?",
+          "score": 1,
+          "created_utc": 1730387857.0
+        },
+        {
+          "author": "AugustineFou",
+          "body": "this is strange that the CTR went UP when you disabled enhanced attribution.",
+          "score": 1,
+          "created_utc": 1730379655.0
+        },
+        {
+          "author": "Panda_Ro",
+          "body": "I believe it does reset the training data, but in theory, enabling EA should improve performance. In my case, though, it seems to have had the opposite effect. I haven’t come across any similar cases or mentions of this specific effect from disabling Enhanced Attribution. If this is indeed how it acts, it's something that advertisers should definitely be aware of, especially now when Google enables it by default.",
+          "score": 1,
+          "created_utc": 1730386334.0
+        },
+        {
+          "author": "Panda_Ro",
+          "body": "Nothing has changed on the Floodlight end",
+          "score": 1,
+          "created_utc": 1730396521.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "Yes, I suspect all the extra tracking data is being used as training data too, so if you've loads of bots clicking around, you're training Google to send you even more bots.",
+          "score": 1,
+          "created_utc": 1730386423.0
+        }
+      ]
+    },
+    {
+      "title": "UTM codes dont show thru DV360",
+      "author": "Party-Ad2634",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggc0xs/utm_codes_dont_show_thru_dv360/",
+      "created_utc": 1730373422.0,
+      "content": "Hello everyone, \n\nWe have noticed that our UTM codes no longer show in our own or our customers GA4. \n\nWe only use DV360 for our display campaigns and now our customers can no longer see the traffic generated. \n\nDoes anyone experience the same or does anyone have a solution for this?\n\nWe use third party rich media’s and we do manually put in the landing page with the UTM included for each creative, yet nothing shows ",
+      "num_comments": 1,
+      "comments": [
+        {
+          "author": "vlad_chubakov",
+          "body": "You can try to check \"CM360 source/medium\" or \"DV360 source/medium\" as a dimension in the custom report (Explore -> New report). Based on what I know, it should show correct data (taking into account that auto-tagging is on)",
+          "score": 1,
+          "created_utc": 1730538154.0
+        }
+      ]
+    },
+    {
+      "title": "Hivestack Revenue Advice",
+      "author": "armoredsector",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggfrii/hivestack_revenue_advice/",
+      "created_utc": 1730384681.0,
+      "content": "Good morning everyone, \n\nCould use some advice regarding Hivesack revenue generation. I work for a company in Canada where we have around 100 screens based in Hockey Arenas all around the provinces. We have had some very good months with the platform but October was really slow. We currently have an open deal that is utilized well but does anyone have any advice on how to bring in additional revenue using deals etc? Thanks again for your time! ",
+      "num_comments": 2,
+      "comments": [
+        {
+          "author": "xriddle",
+          "body": "You can try Vistar and Broadsign too but generally in Canada they would be even lower than HS. What does your fill-rate look like. Is your rev low because you're not allocating enough inventory or is it low because the demand is just not there?",
+          "score": 2,
+          "created_utc": 1730392549.0
+        },
+        {
+          "author": "armoredsector",
+          "body": "We just signed up for Vistar actually! So we will be implementing it shortly. Demand just seems to have decreased significantly in October.",
+          "score": 2,
+          "created_utc": 1730470087.0
+        }
+      ]
+    },
+    {
+      "title": "Bidstream Data Analysis",
+      "author": "jlbomega",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggg9l0/bidstream_data_analysis/",
+      "created_utc": 1730385973.0,
+      "content": "Do any companies provide batch files of filtered bidstream data? We have a specific use case for research. We don't need it real time. A daily batch would suffice. ",
+      "num_comments": 0,
+      "comments": []
+    },
+    {
+      "title": "reseller vs. direct with TTD and tech fees",
+      "author": "Automatic-Throat9750",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ggheoz/reseller_vs_direct_with_ttd_and_tech_fees/",
+      "created_utc": 1730388904.0,
+      "content": "Does anyone have insight on how to work with TTD directly on self-service vs. reseller? Currently buying self-service seat through a reseller with high platform tech fee and zero transparency on what is actually being spent on inventory",
+      "num_comments": 3,
+      "comments": [
+        {
+          "author": "Little-Ad4428",
+          "body": "There are two resellers listed on the TTD site. If you are with one of them pull an inventory report. If not with one of them it’s not an authorized reseller. [resellers](https://www.thetradedesk.com/us/our-platform/our-partners/certified-service-partners)",
+          "score": 2,
+          "created_utc": 1730396794.0
+        },
+        {
+          "author": "Automatic-Throat9750",
+          "body": "Thanks for the reply. Yes, I'm with one of those resellers. But I can only get as far down as the managing partner cost. My question would be can I do self-service directly with TTD without the middleman (reseller)?   \nI assume it would mean larger commitment and less support - which I'm fine with. But does anyone have any experience with working with TTD directly?",
+          "score": 1,
+          "created_utc": 1730463355.0
+        },
+        {
+          "author": "butchlugrod",
+          "body": "I love how TTD thinks of them as such valued partners that they don’t even bother linking to their websites! Truly valued and respected!",
+          "score": 0,
+          "created_utc": 1730427939.0
+        }
+      ]
+    }
+  ]
+}

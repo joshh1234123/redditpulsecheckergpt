@@ -1,0 +1,955 @@
+{
+  "discussions": [
+    {
+      "id": "1omi5ea",
+      "title": "What kind of programmatic ads have you found to be most effective for local business?",
+      "author": "Enviromental1001",
+      "score": 11,
+      "url": "https://www.reddit.com/r/programmatic/comments/1omi5ea/what_kind_of_programmatic_ads_have_you_found_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1omi5ea/what_kind_of_programmatic_ads_have_you_found_to/",
+      "created_utc": 1762092413.0,
+      "content": "I’m curious to hear others’ experiences with what types of media ads have worked best for local businesses.\n\nI own a small IT services company and have been experimenting with different DSPs and platforms to see what actually moves the needle. So far, I’ve had the best response through **Amazon DSP** and **DV360**, running campaigns between **6–11pm**. I even got tagged in a few local Facebook groups where residents mentioned seeing my streaming TV ad which was great to see. Honestly, I think I might be one of the only small businesses in my area (or maybe even the state) doing any kind of programmatic advertising.\n\nI’ve also tested **DOOH**, including **in-theater ads** (about 20 theaters for two weeks — zero response), **screens in gyms, grocery stores, and retail** (also zero), and **digital billboards** via **Admatx (The Trade Desk)** targeting two local Lamar signs. The signs were impossible to miss — one-lane each way, 40mph road — but after a month (5pm–7pm rotation), I saw no measurable response.\n\n**YouTube Instant Guaranteed** got plenty of views but no noticeable leads. \n\nI also ran an **audio campaign** on Admatx across multiple platforms for two weeks, again zero response.\n\nAt this point, it really seems like **streaming TV** is the clear winner for local brand recognition. People notice it, comment on it, and we get actual leads from it. Sure, I could keep testing DOOH or audio for a few more months, but if one channel is delivering consistent awareness and results, it makes sense to double down there.\n\nThat said, I’m really curious, for those who work with **local businesses**, what ad types or strategies have you found to be most effective in generating real leads/sales?\n\nHappy to share more about all the tools and DSPs I’ve used if anyone’s interested. ",
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "_Daymeaux_",
+          "body": "Local businesses probably fair better doing search and social, truthfully. Programmatic using retargeting to remind users who’ve engaged in some way is probably better, and CTV of course.\n\nEnsuring in search you know which competitors are in the same space and being placed alongside those with a strong offering, message.\n\nProgrammatic, imo, is great for general awareness but if you’re looking for someone to see an ad and call from purely programmatic you might not net the results you want.",
+          "score": 15,
+          "created_utc": 1762094307.0
+        },
+        {
+          "author": "Full_Steak_9965",
+          "body": "Programmatic is just throwing money into the blind.  The inventory you want is priced out for small businesses because it's being gobbled up by large brands.  If you can do targeted CTV buys locally it probably is your best bet, but you're in IT which in and of itself is a niche industry.\n\nI'm helping a few clients right now with exactly this - in finserv, real estate, and CPG.  At local / small scale you're unfortunately stuck with Search and Social.  Your best bet is to run a few tests and really hone your keywording and headlines / descriptions. On social a/b test with some creatives.  You might have some more luck with video on social, and think about TikTok.  There's a point of diminishing returns especially at the local level because there's only so many people you can target who would realistically engage with your brand.",
+          "score": 2,
+          "created_utc": 1762149086.0
+        },
+        {
+          "author": "theBeerWeasel",
+          "body": "I’m not an expert on local, but I’m curious how you’re measuring success?",
+          "score": 1,
+          "created_utc": 1762092969.0
+        },
+        {
+          "author": "slippycrook",
+          "body": "Thanks for sharing. Great to hear real experiences after all the trial and error.\n\nStreaming works, but it’s about looking at the full picture — direct attribution, incremental growth like branded search lift, organic traffic, and how brand awareness affects conversions and cart value compared to those who didn’t see the ads.\n\nHow are you attributing leads with pixel on top of phone calls?\n\nLocal targeted streaming makes a lot of sense once brands hit diminishing returns on search and social. We’re seeing strong results for local businesses at that stage.\nEspecially for products or services with wide appeal and $200+ cart value.",
+          "score": 1,
+          "created_utc": 1762095709.0
+        },
+        {
+          "author": "tharevreverend",
+          "body": "That's awesome to hear!  As someone who works in CTV, I've been a proponent of democratizing the channel for SMB and not just large brands.\nCheck out streamr.ai where you can create 30sec spots for $0 and modify them for not much more.  I don't directly benefit from promoting this but will if the SMB market buys more ads!",
+          "score": 1,
+          "created_utc": 1762096385.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Thnx. Yeah Google Adwords for my industry is more than doing Streaming. Some IT ads cost $15-$30 a click. Also so much competition on Google, like run an ad and there are 4+ others. With Streaming TV, even when i watch the apps I am featured on. I am the \"only\" tech related business on TV so i feel like less concern with competition.",
+          "score": 2,
+          "created_utc": 1762094497.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Right now my goal is just brand awareness. I track calls via CallRail each ad type has a different call tracking #. My website form asks how they heard of us and we ask people in-person and over the phone. Since doing TV streaming more consistently my call volume has increased and I keep getting tagged in FB posts and people are privately DM me saying how cool it was to see a local biz on TV. I know I need to focus on better measuring but im doing it for now to get the word out.",
+          "score": 4,
+          "created_utc": 1762093141.0
+        },
+        {
+          "author": "_Daymeaux_",
+          "body": "Fair, but I find action is typically taken when the use has real intent. In reality anything can work, if you find more success please do share!",
+          "score": 2,
+          "created_utc": 1762094587.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Im waiting for local elections to be over with to see how \"low\" YouTube Non-Skip 30 ads could be. Right now instant deals are still around $30-$40 CPM for YouTube Select. I have yet to run \"Select\" due to high CPM.... I just wish there was better access to Hulu and ESPN. The moment i got on Hulu via FreeWheel access I got DMs from people sending me pics of their tv",
+          "score": 2,
+          "created_utc": 1762094714.0
+        },
+        {
+          "author": "_Daymeaux_",
+          "body": "That’s incredible, I know CTV is still evolving but glad you’re seeing some payoff\n\nLike most things, the best strategy is one that’s tailored to your successes and failures for that client.\n\nI deal mostly with open web programmatic and remnant CTV, so doesn’t always drive the best results I’ve seen.",
+          "score": 1,
+          "created_utc": 1762099695.0
+        }
+      ]
+    },
+    {
+      "id": "1omr7px",
+      "title": "Viewability benchmark",
+      "author": "linuz14",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1omr7px/viewability_benchmark/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1omr7px/viewability_benchmark/",
+      "created_utc": 1762113632.0,
+      "content": "Which is your benchmark for disply, video and ctv?\nOther breackdonwns?\nDo you apply dofferent ones by country?\nAny gap between dv360 and ias or other dsp like amazon?",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Display/video benchmark on publisher side 70%+ is what I go with. I’m sure I’ll get crucified for this 😂",
+          "score": 8,
+          "created_utc": 1762126134.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "If your CTV doesn't have 99% or better viewability, something is very wrong!",
+          "score": 2,
+          "created_utc": 1762353001.0
+        },
+        {
+          "author": "akunni",
+          "body": "15",
+          "score": 1,
+          "created_utc": 1762260864.0
+        },
+        {
+          "author": "BasisOk4268",
+          "body": "Generally 70% but I find if scale is affected you can always open up to 50/60% to allow more inventory. Advertisers should really be moving away from Viewability as a KPI in 2025 in any case. I’m pretty certain the vast majority of case studies done on the subject have shown that Attention and Viewability are not intrinsically correlated and Attention is the real metric you want to focus on to drive high engagement.",
+          "score": 1,
+          "created_utc": 1762307557.0
+        },
+        {
+          "author": "tobias10",
+          "body": "That’s where I’m at typically",
+          "score": 2,
+          "created_utc": 1762129326.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "Not at all. That's actually fairly standard from what I've heard over the years, and it's usually what I aim for.",
+          "score": 2,
+          "created_utc": 1762352980.0
+        },
+        {
+          "author": "linuz14",
+          "body": "??",
+          "score": 1,
+          "created_utc": 1762295612.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Thanks for confirming. Sometimes I question our benchmarks cause they are god awful for some 😂",
+          "score": 2,
+          "created_utc": 1762353120.0
+        }
+      ]
+    },
+    {
+      "id": "1on8gvh",
+      "title": "Need Blogs Suggestions for AdTech",
+      "author": "Appropriate-Bag-2415",
+      "score": 1,
+      "url": "/r/adops/comments/1on8gou/need_blogs_suggestions_for_adtech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1on8gvh/need_blogs_suggestions_for_adtech/",
+      "created_utc": 1762166482.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "D_Adman",
+          "body": "Where are you based out of? If you are in the US, why don't you cover the impact that H1B visas have had on programmatic or offshoring?",
+          "score": 1,
+          "created_utc": 1762167619.0
+        }
+      ]
+    },
+    {
+      "id": "1oninaf",
+      "title": "At what point does the tail stop wagging the dog? Amazon & YouTube bet on AI over humans.",
+      "author": "u_of_digital",
+      "score": 26,
+      "url": "https://i.redd.it/6p35zax0y2zf1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oninaf/at_what_point_does_the_tail_stop_wagging_the_dog/",
+      "created_utc": 1762192234.0,
+      "content": "Amazon is cutting 14,000 corporate roles ( potentially up to 30,000 in the coming weeks) about 4% of its workforce, as it streamlines operations and reallocates resources toward AI. Just a day later, YouTube announced an AI-driven reorganization offering voluntary exit packages for U.S. employees, though the company says no current roles are being eliminated. YouTube’s growing subscription business also plays a key role, with a new senior leader set to oversee the unit.\n\nAI’s promise to transform how we work is no longer theoretical; it’s unfolding in real time across major tech companies. The human toll is significant, but the strategic move for professionals now is to become AI-savvy managers of tools, not the ones replaced by them.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Bulky_Perception_682",
+          "body": "What does this have to do with programmatic?",
+          "score": 10,
+          "created_utc": 1762192873.0
+        },
+        {
+          "author": "foosgottaeat",
+          "body": "Fucking Elmo man. Chooses the coke every time",
+          "score": 3,
+          "created_utc": 1762234699.0
+        },
+        {
+          "author": "General_Shine_8480",
+          "body": "A lot of time they’re just using AI as an excuse because it plays well into the narrative of AI causing efficiencies. It’s a much better story than telling investors they’ve been wasting their money for the last 5 years on a bunch of employees they didn’t need.",
+          "score": 2,
+          "created_utc": 1762237192.0
+        },
+        {
+          "author": "BidstreamBandit",
+          "body": "They better think it through and not start rehiring people in a month like Klarna and Duolingo",
+          "score": 0,
+          "created_utc": 1762193438.0
+        },
+        {
+          "author": "u_of_digital",
+          "body": "Just venting about ad tech. Meta and all of them are poaching AI engineers, throwing money around like crazy, while the real money is still being made via ads.",
+          "score": 2,
+          "created_utc": 1762193935.0
+        }
+      ]
+    },
+    {
+      "id": "1onnosp",
+      "title": "Open Sincera Fetcher on GitHub",
+      "author": "mcpapaya",
+      "score": 21,
+      "url": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
+      "created_utc": 1762203233.0,
+      "content": "So I just made my first release on GitHub! :-D For now, it's just a simple python script that allows you to use your Open Sincera API Key combined with a list of domains in a .txt file to batch-query the Open Sincera API - all returned data-points get saved into a new CSV for further analysis. Nothing more, nothing less. Just learning and playing around here, trying to provide some value. \n\nPotential Use Cases:\n\n* Analyze URL Lists of your campaigns/accounts for certain quality params received via the Open Sincera API\n* Analyze/Enrich your Allowlists\n\n[https://github.com/guedietz/open-sincera-fetcher](https://github.com/guedietz/open-sincera-fetcher)\n\nHappy to receive feedback, if that's useful! :-)\n\nWhat could be potential ways to enhance the script? What would be a nice feature to you?",
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "sulleh",
+          "body": " Congrats on your first GitHub release! I am from the Sincera team - it's nice to see people embrace and use the data.  \n\nIn terms of feedback, a couple of points: \n\n1. There will be more data available in an upcoming release (before xmas) where you'll be able to get mobile vs. desktop breakouts for the lighthouse metrics.  \n2. Dynamic Reporting + targeting scenarios - allowlists - are very popular + most common use case for buyers.  You can dynamically generate a new allowlist every day by setting thresholds for data / scores against the data.  \n3. If there are other scenarios or data you'd like to see, I'd love to hear about it!",
+          "score": 13,
+          "created_utc": 1762209067.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Good stuff! Was doing a similar thing with AppScripts & functions within a GSheet.",
+          "score": 6,
+          "created_utc": 1762250733.0
+        },
+        {
+          "author": "Peters_Jakob",
+          "body": "I'm actually working on my own Ad Density / Ad calculator for domains, that runs a client side script on a computer, rates the domain and objectively gives a score based on a lot of different parameters, e.g. Ad Density (ads vs content/viewport), Average distance between ads, amount of unique ads, high-impact vs normal ads etc.\n\nQuestion is, i'm thinking if this could be forked or similar, so while i'm running my client side script on my end, also calling the Open Sincera fetcher, to get a more avg score for users, and not a sliced data point, only from the single client perspective. To be added into the scoring system for a more \"real-world\" score.\n\nThe whole premis would be a public database for Ad scores of domains, e.g. based on top 100 largest domains in Denmark from the official list: [https://e-public.gemius.com/dp/rankings/446](https://e-public.gemius.com/dp/rankings/446)\n\n  \nBut really nice, havne't heard about this API before. Great work u/mcpapaya",
+          "score": 5,
+          "created_utc": 1762249204.0
+        },
+        {
+          "author": "Bulky_Perception_682",
+          "body": "This rocks, thank you!",
+          "score": 3,
+          "created_utc": 1762277714.0
+        },
+        {
+          "author": "notmyrealaccout69",
+          "body": "Very Cool.. I'm a fan of making this data more accessible.   \n\n\nthat was my goal when i built the Chrome Plugin  \n  \n[https://chromewebstore.google.com/detail/open-web-data-viewer/nmkbikgbcfogdkinmgcocafomfnanlpc](https://chromewebstore.google.com/detail/open-web-data-viewer/nmkbikgbcfogdkinmgcocafomfnanlpc)",
+          "score": 2,
+          "created_utc": 1762376438.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "That device split is very welcome. Any plans to do anything with geo / language filtering? Probably one of the more important criteria to think about alongside quality for allow lists on a regional level.",
+          "score": 5,
+          "created_utc": 1762250835.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "Thanks & nice to get feedback from the builders themself. 👍🏻\n\nLooking forward to the device split, that has been requested internally already as well - also helps to better match it with existing data/reports.\n\nWhat I'm thinking about is, to match it with existing reports to check correlations between ad density and CTR or Conversion-Rates and so on. I think there are a few nice potential reports to build on top of that data.\n\nI will definitely play around a little more and get back to you if we spot any other opportunities. 🙏🏻",
+          "score": 6,
+          "created_utc": 1762255208.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "Thanks a lot! I had that option in mind as well, might give it a go. 👍🏻",
+          "score": 3,
+          "created_utc": 1762254926.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "Nice! Yeah feel free to fork it and let me know what you build. 👍🏻 I didn't know about the list/website you mentioned as well, gonna check it out later. 🙏🏻",
+          "score": 3,
+          "created_utc": 1762255291.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "You're welcome! 🫡",
+          "score": 2,
+          "created_utc": 1762278054.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "Thanks :-)\n\nWill check out your Plugin tomorrow 👍🏻",
+          "score": 1,
+          "created_utc": 1762376871.0
+        },
+        {
+          "author": "sulleh",
+          "body": "Thanks for the suggestion + feedback!  Geo and language is tricky, for a couple of reasons.  Is the geo based on user location, \"publisher location\", or language? If I'm visiting NYTimes from a cafe in Paris, is that a \"US Geographic Publisher\" or a \"US Publisher with FR language\" (many pubs change language defaults based on geo) or \"French Publisher traffic\"? \n\n  \nThe feedback has mostly coalesced around \"publisher billing region / head quarters / primary market\" - so NYTimes is US, The Guardian is UK, La Press is FR, etc. \n\nI'm not trying to do the product manager \"well its complicated\" schtick, it just...is? \"Publisher geo\" is just not easily / universally ascertainable.  Open to feedback on how we can do this better.  We definitely have the data via sending a Synthetic User on say, a Paris IP.",
+          "score": 3,
+          "created_utc": 1762296601.0
+        },
+        {
+          "author": "sulleh",
+          "body": "Sounds great! our internal data shows a strong correlation with conversion performance and these metrics.  Note that *clicks* can be misrepresented, as high A2CR / AIV sites have greater CTRs, due to accidental clicks. Feel free to email [hello@sincera.io](mailto:hello@sincera.io) if you have other questions or feedback.",
+          "score": 2,
+          "created_utc": 1762296748.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Yeah that is fair feedback. I'd treat it as at least 2 different variables. Language can just be the language of the website / app. Geo can be primary market so your example would make sense. Completely understand it is a challenge, I know your competitors also have a similar challenge.\n\nWould also be the equivalent of TTD running an auction insights / inventory availability report of any bids listened to for a specific country in terms of inventory. To their credit, this is one of the strongest things Google do in DV360 with their inventory availability report.",
+          "score": 2,
+          "created_utc": 1762349187.0
+        },
+        {
+          "author": "sulleh",
+          "body": "the problem with variable 1 is the unpredictability:  there is the declared language via the <lang>, and then there is the rendered language based on geo access, etc.  for many properties, there isn't a universal <lang> setting, and it often contradicts what is rendered. \n\nThe second is more straightforward, although it blows out the cardinality of reporting - which is manageable. How would you prioritize the following features:\n\n1. add \"rendered in country\" data / deltas (many pubs will be the same, but valuable for outliers like daily mail) \n\n2. offer a sample of 3-5 URLs of data, so you can understand direct URL examples of data, not just the overall average (which can be over-represented by home pages) \n\n3. Additional CTV coverage and metrics \n\n4. Report on declared <lang>, as well as report on the volatility of the object.\n\n  \nDon't get me wrong, we'd like to, and will probably build, all of these - I just want to prioritize what is most important to users.",
+          "score": 1,
+          "created_utc": 1762349876.0
+        }
+      ]
+    },
+    {
+      "id": "1oo4wb6",
+      "title": "Discrepancies in viewabilty stats in DSP side and Magnite",
+      "author": "Motor_Worldliness559",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oo4wb6/discrepancies_in_viewabilty_stats_in_dsp_side_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo4wb6/discrepancies_in_viewabilty_stats_in_dsp_side_and/",
+      "created_utc": 1762255458.0,
+      "content": " For a programmatic campaign, the campaign has just been signed off and will run on display activity on an curated Deal by magnite.\r\n\r\n\nAlso on  campaign i see a huge discrepancy in viewability between our figures and clients figures on the DSP, how do you handle the situation? What do you suggest?\r\n",
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SevereAddition8147",
+          "body": "So youre not the ssp (magnite) and youre not the client, who is hands on keys in the dsp. So who are you?",
+          "score": 1,
+          "created_utc": 1762264502.0
+        },
+        {
+          "author": "curioalpaca",
+          "body": "What is the discrepancy? Who is showing stronger viewability? It’s typically as simple as giving a deal ID and that gets plugged into the DSP",
+          "score": 1,
+          "created_utc": 1762281375.0
+        },
+        {
+          "author": "dortenzio1991",
+          "body": "File a ticket with your tech ops team. That’s what they’re there for",
+          "score": 1,
+          "created_utc": 1762320554.0
+        },
+        {
+          "author": "Mundane-Gear4503",
+          "body": "Most likely dsp might be discarding view pixels causing discrepancy , is there a ad host in between you and dsp ?",
+          "score": 1,
+          "created_utc": 1762364791.0
+        },
+        {
+          "author": "Motor_Worldliness559",
+          "body": "Magnite side",
+          "score": 1,
+          "created_utc": 1762274472.0
+        },
+        {
+          "author": "Motor_Worldliness559",
+          "body": "DSP shows lesser",
+          "score": 1,
+          "created_utc": 1762283370.0
+        },
+        {
+          "author": "curioalpaca",
+          "body": "Doesn’t surprise me. SSP has an incentive to claim better viewability. If I were the client, I’d trust my DSP on it",
+          "score": 3,
+          "created_utc": 1762284388.0
+        },
+        {
+          "author": "Motor_Worldliness559",
+          "body": "What can I inform the client? Any idea?",
+          "score": 1,
+          "created_utc": 1762291675.0
+        },
+        {
+          "author": "curioalpaca",
+          "body": "What are their viewability standards? What are yours? What partners do you use? Make sure they are comparing apples to apples.\n\nThere’s usually some level of discrepancy. SSP viewability is usually measured pre bid. DSPs typically measure post render. Ad blockers are often the biggest reason why. \n\nIf I were communicating with a client about it, I’d try to avoid being defensive (you come across like you know your numbers are overinflated) and instead position yourself as curious.",
+          "score": 1,
+          "created_utc": 1762293003.0
+        }
+      ]
+    },
+    {
+      "id": "1oo7rbb",
+      "title": "What is the most effective \"video\" duration for targeting in DV360 that have lead to best results?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oo7rbb/what_is_the_most_effective_video_duration_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo7rbb/what_is_the_most_effective_video_duration_for/",
+      "created_utc": 1762264526.0,
+      "content": "What are you selecting/de-selecting for this setting in targeting?\n\nhttps://preview.redd.it/0x42pbv3x8zf1.png?width=668&format=png&auto=webp&s=6b2c30cf4c50726651018bc7c02fc1ec69ad02d8\n\n",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SaltPathOptimization",
+          "body": "Only 60+ minutes and In banner only. Best results . ",
+          "score": 1,
+          "created_utc": 1762265880.0
+        },
+        {
+          "author": "slippycrook",
+          "body": "Underrated sarcasm detected",
+          "score": 3,
+          "created_utc": 1762273627.0
+        }
+      ]
+    },
+    {
+      "id": "1oo8bi3",
+      "title": "No minimum/free dsp?",
+      "author": "No-Investigator-8007",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oo8bi3/no_minimumfree_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo8bi3/no_minimumfree_dsp/",
+      "created_utc": 1762265875.0,
+      "content": "I do some freelance work and have a client who's looking to run programmatic ads but I'm trying to find a platform that has no spend minimums or is free? Budget is small but the wanna get some ads out there!",
+      "num_comments": 17,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "HurricaneKim",
+          "body": "Stackadapt",
+          "score": 10,
+          "created_utc": 1762274853.0
+        },
+        {
+          "author": "Enough-Active-5096",
+          "body": "I don’t know about any that would be free but I have very small budgets and geos and use [Simpli.fi](https://simpli.fi/)\n\nNo minimums. Not sure about their self serve fee but managed service is 15%. We’ve used Yahoo in the past too and we’re at 10% self serve with no minimum.",
+          "score": 5,
+          "created_utc": 1762266296.0
+        },
+        {
+          "author": "ProgrammaticBadman",
+          "body": "If budgets are small would they consider just focusing on a smaller set of publishers and go direct? More focus and you could negotiate better rates. Also they may want to consider consolidating budgets to have greater effect. Small budgets tend to have small impact. I’m not saying everything needs to be Verizon money. Just be realistic about what can be achieved",
+          "score": 1,
+          "created_utc": 1762332103.0
+        },
+        {
+          "author": "BobbyDigital1986",
+          "body": "i'll run it for 15% fee - no minimums. DM me",
+          "score": 1,
+          "created_utc": 1762279812.0
+        },
+        {
+          "author": "ECUFan2017",
+          "body": "StackAdapt has no minimums or fees for self serve.",
+          "score": 1,
+          "created_utc": 1762316516.0
+        },
+        {
+          "author": "Morr1Bo",
+          "body": "If you are active in the USA you can try Allmediadesk. Mix between DSP and self service but made for small advertisers.",
+          "score": 1,
+          "created_utc": 1762275984.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "Not free (they take a bigger cut than most DSPs and just don't tell you what they're taking), but I can confirm they have no minimums.",
+          "score": 1,
+          "created_utc": 1762282247.0
+        },
+        {
+          "author": "Insteadnoon",
+          "body": "Stackadapt asked monthly minimum spending.",
+          "score": 0,
+          "created_utc": 1762348422.0
+        },
+        {
+          "author": "FllowrOfJesus",
+          "body": "I use Simplifi as well. No minimums",
+          "score": 1,
+          "created_utc": 1762272016.0
+        },
+        {
+          "author": "elysium13",
+          "body": "My suggestion was going to be similar. Just pick an SSP to run it with and the only take is whatever their rev share is, instead of the entire chain. Likely wouldn't limit supply much at all.",
+          "score": 1,
+          "created_utc": 1762363156.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "This guy agencies.",
+          "score": 9,
+          "created_utc": 1762282557.0
+        },
+        {
+          "author": "tahadharamsi",
+          "body": "they have no minimum...do not confuse minimums and fees.",
+          "score": 1,
+          "created_utc": 1762359061.0
+        },
+        {
+          "author": "zeroThreeSix",
+          "body": "You're not going to find a DSP that literally runs your media for *free*. OP asked:\n\n> I'm trying to find a platform that has no spend minimums **or** is free?\n\nJust going to have to be a smaller provider that doesn't require massive investments or a reseller to play.",
+          "score": 9,
+          "created_utc": 1762290025.0
+        },
+        {
+          "author": "FllowrOfJesus",
+          "body": "If you want, I can put you in touch with my rep. Just message me and I'll forward you his contact",
+          "score": 1,
+          "created_utc": 1762278587.0
+        },
+        {
+          "author": "Season_Puzzleheaded",
+          "body": "I work at Brkthru and we have no minimums - send a DM!",
+          "score": 1,
+          "created_utc": 1762297314.0
+        }
+      ]
+    },
+    {
+      "id": "1oosl61",
+      "title": "Cross reach: how to set it",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oosl61/cross_reach_how_to_set_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oosl61/cross_reach_how_to_set_it/",
+      "created_utc": 1762314178.0,
+      "content": "How to set cross reach on dv360 and amazon?\nWhich targeting line up?) for yt+ netflix(works both through pmp and pg?) adn what about amazon dsp?\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "linuz14",
+          "body": "Google states that netflix in pg vs yt lineup can cross reach… pg limit the potential as users are pre assigned but still\nWorking to them…",
+          "score": 1,
+          "created_utc": 1762383330.0
+        }
+      ]
+    },
+    {
+      "id": "1op0v3f",
+      "title": "Frequency control across media type",
+      "author": "NMDigitaNinja",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1op0v3f/frequency_control_across_media_type/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1op0v3f/frequency_control_across_media_type/",
+      "created_utc": 1762343809.0,
+      "content": "While know this is not accurate based on the need for a consistent identifier, what DSPs offer the ability to set frequency controls across media tyoe. Trying to cap across CTV, OLV, Display, etc.",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Most do but either probabilistically or via some form of alt ID. Clearly it rarely works though.",
+          "score": 2,
+          "created_utc": 1762348987.0
+        },
+        {
+          "author": "Sharp-Cress-7595",
+          "body": "I really like Yahoo’s tool. It seems like they’ve really focused in on frequency management across video and CTV. Just watch how much Yahoo O&O supply you allow to slip in.",
+          "score": 1,
+          "created_utc": 1762348942.0
+        },
+        {
+          "author": "Mundane-Gear4503",
+          "body": "Fq settings don't work on ctv since publisher do pod stuffing and show /play ad later .",
+          "score": 1,
+          "created_utc": 1762364911.0
+        },
+        {
+          "author": "Impressive-Teach7336",
+          "body": "Trade Desk has a pretty easy to set up Frequency group tool that you can add multiple campaigns to. It would cover all the channels you are looking for.",
+          "score": 1,
+          "created_utc": 1762369718.0
+        },
+        {
+          "author": "PlasticLeading",
+          "body": "TTD is probably the best at frequency management and uses the most signals vs other DSPs to be able to graph identifiers cross device. It’s probably the biggest feature they tout to the their customers.",
+          "score": 1,
+          "created_utc": 1762381230.0
+        },
+        {
+          "author": "mp1952",
+          "body": "Most of them can. DV360 can also cap across CTV and YouTube, if that’s part of your video buy.",
+          "score": 1,
+          "created_utc": 1762398330.0
+        },
+        {
+          "author": "curioalpaca",
+          "body": "StackAdapt allows you set f caps at the individual campaign level and then at the “campaign group” (ad set) level. So you could say no more than 3 on CTV a day, and no more than 10 total across display, CTV, and OLV.",
+          "score": 1,
+          "created_utc": 1762364020.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Yeah and for ctv one must use household cross device",
+          "score": 1,
+          "created_utc": 1762382432.0
+        }
+      ]
+    },
+    {
+      "id": "1op6o3x",
+      "title": "TTD Identity Alliance",
+      "author": "evgeny3000",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1op6o3x/ttd_identity_alliance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1op6o3x/ttd_identity_alliance/",
+      "created_utc": 1762358283.0,
+      "content": "I'm looking for ways to manage down spend on TTD Identity Alliance.  I have two related questions:\n\n\\- What happens if you simply turn off Identity Alliance?  Do all the conversions metric reset to a lower baseline?\n\n\\- Is there a mechanism to replace the Identity Alliance with an another graph?\n\nHoping for feedback from folks with direct experience doing the above.  ",
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Recent_Race_5843",
+          "body": "Basically if you adjust any of the settings within a campaign's reporting and attribution setting, it will start reporting based on the changes instantly. so for example, your reporting column 1 is set up as the main conversion action, and you have cross-device concept set to person, and identity alliance is your provider. If you toggle cross-device concept to off, every conversion moving forward will not be measured via cross device. If you change the vendor from identiy alliance to adbrain, every conversion after the change will be measured only using adbrain's graph. They are 4 total providers, with liveramp being the only option that is more expensive, Identity alliance combines all 3 providers providing more scale (at least im pretty sure thats how it was explained to me). Although I'm pretty sure TTD doesn't charge for measurement, only for audience expansion, but looking at the fees section they may have changed this now.\n\nHonestly, what i would do is create a new reporting column with the same conversion action, not set any cross device measurement on there and compare over time. you'll likely see more conversions in the reporting column with identity alliance turned on. but if you don't, then you'll know that it's likely a feature not worth paying for in future campaigns.\n\nJust be warned that changing reporting columns mid campaign gets really messy and could really screw up your reporting, so I wouldn't change any existing reporting columns unless you're confident you can mitigate any ill effect.",
+          "score": 7,
+          "created_utc": 1762366686.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "A) TTD doesn’t charge for measurement with identity alliance (they’d be crazy to, this helps their reporting look better not worse) so you don’t need to activate it to get the data folded into MyReports metrics. \n\nB)Whether you should or shouldn’t use it depends on the type of data you’re using for targeting and the type of media you’re buying. Is your audience based 100% on cookie site traffic but you want to buy CTV? Then yes you will spend next to nothing without it. Are you building an audience on UID2 and want CTV? Then probably worth testing if you can spend your budget without it first before activating. Is your audience showing as 30M HHs before you turn it on? Then you’re probably better off without it. \n\nSo it depends on a lot of unique factors across different accounts. But on measurement turn that shit on all day.",
+          "score": 4,
+          "created_utc": 1762366181.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "Following",
+          "score": 1,
+          "created_utc": 1762358459.0
+        },
+        {
+          "author": "Inevitable_Might2743",
+          "body": "Do you have high data costs? After research we opted towards keeping Identity Alliance and reducing data fees we didn’t realize we were paying so much for. Good luck!",
+          "score": 1,
+          "created_utc": 1762399273.0
+        },
+        {
+          "author": "Delicious_Ad_6717",
+          "body": "Switch do a DSP that doesn’t charge you for identity is likely to ur best option. Kind of crazy that it’s a separate fee when you can’t really operate without it",
+          "score": -5,
+          "created_utc": 1762364446.0
+        },
+        {
+          "author": "evgeny3000",
+          "body": "brilliant. good tip regarding ways to test.  i'm not in the platform so this is super helpful.",
+          "score": 2,
+          "created_utc": 1762367249.0
+        },
+        {
+          "author": "ninja-squirrel",
+          "body": "If you’re doing anything with CTV inventory on TTD, you use a household graph that they have. I’m not sure it’s the exact same Identity Alliance graph, it might just be Adbrain. But there’s no fee for using it, since they need it to serve ads on CTV devices at scale.",
+          "score": 1,
+          "created_utc": 1762437137.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "You’re getting downvoted but I agree. I think it’s useful for CTV and audio campaigns for the unique household reach but display and OLV campaigns pace and perform just fine without it. Only time I’ll opt for it on display or OLV is if reach is the KPI",
+          "score": 1,
+          "created_utc": 1762402439.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "If you mean for measurement when setting up reporting yes. \n\nFor targeting paid media, thats not accurate. That’s what they were selling 5+ years ago because everyone was bringing cookie based audiences to the platform and those IDs don’t translate to a largely IP based CTV universe, but now if you upload and audience in the platform and it reads XM HHs before you turn on Identity Alliance then you don’t need to do anything to reach those HHs. Turning on Identity Alliance or AdBrain does cost extra for targeting on paid media to spend more than you would have without it. The only free access to that data like I said in my first comment is the reporting.",
+          "score": 1,
+          "created_utc": 1762441901.0
+        },
+        {
+          "author": "Delicious_Ad_6717",
+          "body": "Lots of TTDs employees in this group lol. I know I’m right… and they know I’m right… they just came up with a lower fees data offering because they know 3p data is too expensive (and low margin for them) and yet they charge an arm and a leg for identity (likely higher margin) when all other major DSPs have it included in their fees. It’s just a money grab.",
+          "score": 2,
+          "created_utc": 1762402758.0
+        },
+        {
+          "author": "OrganicHearing",
+          "body": "Most of their extra stuff is a moneygrab",
+          "score": 1,
+          "created_utc": 1762402878.0
+        },
+        {
+          "author": "Delicious_Ad_6717",
+          "body": "In all seriousness, Google and Yahoo (especially in US) should have even a better identity product and both have it for free. \nAmazon should be good (and free too) but they are not as good at individual level, just household. Every other DSP is either licensing or building probabilistic in house so I wouldn’t consider.",
+          "score": 1,
+          "created_utc": 1762403035.0
+        }
+      ]
+    },
+    {
+      "id": "1oph5qh",
+      "title": "What tools would a programmatic trader love to have?",
+      "author": "PlasticLeading",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oph5qh/what_tools_would_a_programmatic_trader_love_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oph5qh/what_tools_would_a_programmatic_trader_love_to/",
+      "created_utc": 1762381136.0,
+      "content": "If you’re a trader what tool would love to have that’s not currently in market. This could be a DSP feature or off DSP feature.\n\nMy first one would be an auto insights deck generator. I haven’t seen any dsp or capability that does this seamlessly and without the clunk.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MalcolmButlersTruck",
+          "body": "A tool to make people trying to sell me a new DSP go away and not be able to email me",
+          "score": 23,
+          "created_utc": 1762381884.0
+        },
+        {
+          "author": "klustura",
+          "body": "Bullshit detector",
+          "score": 1,
+          "created_utc": 1762414393.0
+        },
+        {
+          "author": "D_Adman",
+          "body": "Because insights are often subjective...",
+          "score": 1,
+          "created_utc": 1762425976.0
+        },
+        {
+          "author": "hscbaj",
+          "body": "But this one is different!",
+          "score": 1,
+          "created_utc": 1762418699.0
+        }
+      ]
+    },
+    {
+      "id": "1opn6uu",
+      "title": "DV360 Reseller",
+      "author": "miniprogrammatic",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1opn6uu/dv360_reseller/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1opn6uu/dv360_reseller/",
+      "created_utc": 1762396709.0,
+      "content": "Google told us earlier that they do not sign direct GMO contracts with independent agencies anymore :( we’ve been on Google-direct DV360 contract since 2019 and they’re pushing us to transfer to a reseller next year..,\nWe’re a small-sized agency but have decent footprint in the public sector (non-political). Is anyone experiencing the same issue? Any reliable reseller you’d recommend?\n",
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "tahadharamsi",
+          "body": "Dandellion, Monks are decent.",
+          "score": 6,
+          "created_utc": 1762397316.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "Monks, Adswerve, and Jellyfish are all good options if you’re moving to a reseller setup. They’ve got solid DV360 experience and good support. \n\nIf you’re already looking at those, you might also want to check out [getadlib.com](http://getadlib.com/). Our platform connects to all the major DSPs (including DV360) and can help make the switch from a direct seat a lot easier.\n\nFWIW, DV360 can be a bit tough for political campaigns because of the compliance side, but for public sector and non-political work, it’s usually fine.\n\n*Disclaimer: I’m the founder of AdLib.* ",
+          "score": 2,
+          "created_utc": 1762442000.0
+        },
+        {
+          "author": "Guidosama",
+          "body": "DM if you would like an intro.",
+          "score": 1,
+          "created_utc": 1762398144.0
+        },
+        {
+          "author": "Olympian83",
+          "body": "I’ve worked for two, sent you a message!",
+          "score": 1,
+          "created_utc": 1762399335.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "Yes I worked with one of these companies and it was fine. Our rep at the reseller was actually more knowledgeable of the dsp and capabilities than actual google reps when I started to work with them. \n\nThe reseller team could actually help fix a problem or point you in the right direction. Actual google team will tell you to submit a help ticket every…..single…..time…..",
+          "score": 1,
+          "created_utc": 1762434980.0
+        },
+        {
+          "author": "ninineli",
+          "body": "Admixer",
+          "score": 1,
+          "created_utc": 1762440480.0
+        },
+        {
+          "author": "manish0109-",
+          "body": "Why not use amazon dsp?",
+          "score": -1,
+          "created_utc": 1762398691.0
+        },
+        {
+          "author": "adsalesgirl",
+          "body": "GMO meaning? Thanks",
+          "score": 0,
+          "created_utc": 1762402197.0
+        },
+        {
+          "author": "cuteman",
+          "body": "We moved away from DV360 years ago to TTD, went direct but ended back with a reseller as they had a better deal.\n\nThing is even with a direct seat, without the volume of the larger agencies you're potentially going to get a better deal even with managed service going through some reseller with better volume/better negotiated SLA/MSA\n\nWe're on the hook for another few months with our direct TTD deal but we've already started moving budget back to the reseller as it hasn't panned out as I hoped",
+          "score": 0,
+          "created_utc": 1762408136.0
+        }
+      ]
+    },
+    {
+      "id": "1opv081",
+      "title": "Gambling - Fill Rate",
+      "author": "Feisty-Assumption622",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1opv081/gambling_fill_rate/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1opv081/gambling_fill_rate/",
+      "created_utc": 1762423410.0,
+      "content": "Hi all, I hope this post is okay. I have worked in engineering for 5 or so years building ad servers and other ad tech related products. I have recently found myself in a company that has 0 understanding of programmatic and only do direct deals for their gambling affiliated display content. As part of my new remit they want me to prove the value of programmatic by capitalising on around 270 million unfilled impressions worldwide. \n\nI have been able to set up an ad server / SSP (GAM), implemented some fairly standard ad sizes, mobile banner, top leaderboard, MPU's etc and have also implemented some KVP's for ATF/BTF and ad placement. However the fill rate currently is still very low around 5% with a £0.90 floor price. As I have never really worked in optimising delivery, I am asking if anyone has some helpful advice that could aid in filling the inventory space more consistently (was hoping for 50-60%)? I have a vague understanding of yield groups and could potentially look at utilising other SSP's to open up to more advertising traffic. Any and all advice would be greatly appreciated for a newbie in this space!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "It’s not that easy with gambling, a lot of exchanges and dsp’s dislike it. I think I buy less than 10% from open market, most come through pmp’s. Index exchange, pubmatic, openx get most money. Also Magnite and Triplelift.",
+          "score": 2,
+          "created_utc": 1762432511.0
+        },
+        {
+          "author": "GreenFlyingSauce",
+          "body": "Even if you were to increase the fill rate, the quality of ads may not be that good given how morally questionable gambling is which will result in low demand and high supply leading to a still low cpm most likely",
+          "score": 2,
+          "created_utc": 1762440022.0
+        }
+      ]
+    },
+    {
+      "id": "1oq1gag",
+      "title": "Last year, Sam Altman: “Ads are unsettling.” This year, SA: “Well, actually… Instagram ads are kinda nice. Also, we’re doing ecommerce. Maybe travel too.”\nNext year, SA: “Okay, fine, we’re running ads in ChatGPT.”",
+      "author": "u_of_digital",
+      "score": 4,
+      "url": "https://www.reddit.com/gallery/1oq1gag",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq1gag/last_year_sam_altman_ads_are_unsettling_this_year/",
+      "created_utc": 1762441854.0,
+      "content": "He went from “ads with AI are uniquely disturbing” → to “some ads are actually cool if they’re tasteful” → to “we’re exploring affiliate commerce models and maybe booking hotels through ChatGPT.”\n\nNo shade, I get why. Trust + UX is clearly his obsession. He really doesn’t want ChatGPT recommending a worse hotel just because someone paid for placement.\n\nBut once you’re recommending products, taking a cut, and embedding transactions…  \n  \nYou’re basically one step away from ads at that point.\n\nSo:  \nWhat’s the ideal, non-gross AI-native ad format for ChatGPT?\n\nContextual? Non-skippable interstitial? display insertions, a la Google Shopping Ads?  ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "blazesquall",
+          "body": "Discovery is moving to ChatBots and you thought it wouldn't get ads..? Strong intent signals from authenticated channels with mechanisms to buy-it-now and never visit a retailer's site? It's half the reason companies are injecting so much into this.. either land grabs or attempting to hold what they have already.\n\nSEO is already moving toward making the web discoverable to bots for presentment (the semantic web the academics talked about.. now a commercial necessity).\n\nYou'll get sponsored content, sponsored follow-up questions, and sponsored rankings.  It's clean now.. enjoy it while it lasts.",
+          "score": 1,
+          "created_utc": 1762447069.0
+        }
+      ]
+    },
+    {
+      "id": "1oq1pld",
+      "title": "TTD x DV360 x ADSP: Which gets you best results?",
+      "author": "Affectionate_Star559",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oq1pld/ttd_x_dv360_x_adsp_which_gets_you_best_results/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq1pld/ttd_x_dv360_x_adsp_which_gets_you_best_results/",
+      "created_utc": 1762442450.0,
+      "content": "After reading this (obv biased) article [https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive](https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive)  \nI'm curious to hear from TTD buyers: Do you really see better results, than if you'd run the same campaigns on DV360 or ADSP? Or you just use TTD, coz your HoldCo wants you to? No judging, just curious if their value is as they claim it is vs. the other 2, that represent sell-side and their own inventory too. TIA  \n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "danie-l",
+          "body": "Best results in terms of what? There is so many reasons why you chose a DSP. We are not talking about social platforms.",
+          "score": 7,
+          "created_utc": 1762442720.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Comes down to how you define measurement also, legacy attribution models or something more futureproof.\nEach DSP has its pros and cons, nothing is perfect. TTD may push the narrative of the open web now but AppNexus started it imo. And the fact TTD now operates the OpenPath approach is effectively putting them more closer to a Google / Amazon operating on both sides of the ecosystem.",
+          "score": 1,
+          "created_utc": 1762444356.0
+        },
+        {
+          "author": "Mitchell-n",
+          "body": "DSP is also not a choice that a lot of us actually get to choose",
+          "score": 1,
+          "created_utc": 1762456543.0
+        }
+      ]
+    },
+    {
+      "id": "1oq2hl9",
+      "title": "Alternative to Basis",
+      "author": "Glass-Independent-51",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
+      "created_utc": 1762444223.0,
+      "content": "This is probably the wrong question to ask in this group, since everyone seems to be pretty passionate about their platforms, but which platform would be a better alternative to Basis for 2026?\n\nI like most of their exchanges and their private marketplace deals are great, and its fairly easy for me and my team to use.  However, their APIs are having a lot of issues with 3rd party integrations, which creates a nightmare for us and our clients, and their account management is getting pretty poor.\n\nI am planning to make a decision for 2026 in the next few weeks!\n\n  \n\\*edit\\* We also use Amazon DSP, and aren't planning on changing that, but we really want an alternative just for our Basis clients.",
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "mikehauptman",
+          "body": "If you like Basis for the workflow and PMP access but are running into API and support issues, you've got a few solid directions to go.\n\nSome agencies transition to DV360 or The Trade Desk, but these platforms can feel heavier operationally, and you'll still encounter some integration quirks. Others look at reseller-connected platforms that offer similar flexibility without the tech overhead.\n\nIf that's the route you're considering, you should check out [getadlib.com](http://getadlib.com). Our platform connects to every major DSP, including DV360 and Amazon, and is built to simplify cross-platform buying and integrations.\n\nFWIW, we've heard from numerous teams that are leaving Basis for similar reasons, primarily due to concerns about API stability and account support.\n\n*Disclaimer: I'm the founder of AdLib.*",
+          "score": 6,
+          "created_utc": 1762447403.0
+        },
+        {
+          "author": "curioalpaca",
+          "body": "Basis has historically had a decent footprint in political. Lot of folks leaving for similar reasons. Most are going to StackAdapt, some also going to Viant",
+          "score": 2,
+          "created_utc": 1762447767.0
+        },
+        {
+          "author": "hdiggyh",
+          "body": "I’m going to PM you. I got an option that works well with what you are looking for",
+          "score": 1,
+          "created_utc": 1762448835.0
+        },
+        {
+          "author": "Available_Plant3712",
+          "body": "Try BW",
+          "score": 1,
+          "created_utc": 1762452046.0
+        },
+        {
+          "author": "Bulky_Perception_682",
+          "body": "DV if you like Google products, TTD if you meet minimums...if not, talk w/ Goodway to get a TTD seat",
+          "score": 1,
+          "created_utc": 1762457732.0
+        },
+        {
+          "author": "FllowrOfJesus",
+          "body": "I own and operate my own agency and I buy into Simplifi. I used to work at Basis so I know allll about the challenges. DM me if you want to get insights on the Simplifi backend.",
+          "score": 1,
+          "created_utc": 1762447014.0
+        },
+        {
+          "author": "AmazinTim",
+          "body": "Upvoting for being an honest broker on this sub.",
+          "score": 4,
+          "created_utc": 1762454613.0
+        },
+        {
+          "author": "Glass-Independent-51",
+          "body": "Thanks!  Do you provide a dashboard and automated reporting?",
+          "score": 2,
+          "created_utc": 1762447844.0
+        },
+        {
+          "author": "Glass-Independent-51",
+          "body": "We had a lot of issues with [Simpli.fi](http://Simpli.fi) in the past, primarily location accuracy and reporting data, so we had to move on.",
+          "score": 2,
+          "created_utc": 1762447739.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "Appreciate that sentiment!",
+          "score": 2,
+          "created_utc": 1762454988.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "You're welcome! and yes to dashboard and automated reporting. plus the entire platform is API first. Shoot me a dm or email mike@",
+          "score": 2,
+          "created_utc": 1762448433.0
+        }
+      ]
+    }
+  ]
+}
