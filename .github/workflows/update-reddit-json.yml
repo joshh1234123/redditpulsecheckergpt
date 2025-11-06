@@ -14,7 +14,7 @@ jobs:
     env:
       SCRIPT_PATH: ./.github/workflows/fetch_append_r_programmatic.py
       OUTPUT_FILE: programmatic_complete_for_llm.json
-      SLICE_FILE: programmatic_last_250.json
+      SLICE_FILE: programmatic_last_100_meta.json
       SHARDS_DIR: shards
       MANIFEST_FILE: manifest.json
 
@@ -49,27 +49,35 @@ jobs:
           echo "DB preview:"
           head -n 40 "${OUTPUT_FILE}" || true
 
-      - name: Build lightweight slice
+      # Tiny recent slice without comments to keep payload small for Actions
+      - name: Build lightweight slice (no comments, last 100)
         run: |
           python - << 'PY'
           import json, os
           SRC = os.environ["OUTPUT_FILE"]
           OUT = os.environ["SLICE_FILE"]
-          N = 250
+          N = 100
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
-          items = items[-N:]
+          items = items[-N:]  # keep last N; assume ascending by created_utc
+          # strip comments to keep size small
+          meta_items = []
+          for p in items:
+            q = dict(p)
+            q.pop("comments", None)
+            meta_items.append(q)
           slim = {
             "metadata": {
               "source": (db.get("metadata", {}) or {}).get("source", "Reddit r/programmatic"),
-              "slice_size": len(items)
+              "slice_size": len(meta_items),
+              "comments_included": False
             },
-            "discussions": items
+            "discussions": meta_items
           }
           with open(OUT, "w", encoding="utf-8") as f:
             json.dump(slim, f, ensure_ascii=False, indent=2)
-          print(f"Wrote {OUT} with {len(items)} posts")
+          print(f"Wrote {OUT} with {len(meta_items)} posts (no comments)")
           PY
 
       - name: Build shards and manifest
