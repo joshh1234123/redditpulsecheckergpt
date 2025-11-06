@@ -13,10 +13,11 @@ jobs:
 
     env:
       SCRIPT_PATH: ./.github/workflows/fetch_append_r_programmatic.py
-      OUTPUT_FILE: programmatic_complete_for_llm.json
+      DB_FILE: programmatic_complete_for_llm.json
       SLICE_FILE: programmatic_last_100_meta.json
-      SHARDS_DIR: shards
       MANIFEST_FILE: manifest.json
+      META_DIR: meta
+      THREADS_DIR: threads
 
     steps:
       - name: Check out repo
@@ -35,7 +36,7 @@ jobs:
       - name: Install deps
         run: pip install praw
 
-      - name: Run incremental fetch
+      - name: Run incremental fetch (build rolling DB with comments)
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
@@ -43,25 +44,22 @@ jobs:
 
       - name: Verify DB exists
         run: |
-          test -f "${OUTPUT_FILE}" || { echo "Expected ${OUTPUT_FILE} but it does not exist"; exit 1; }
+          test -f "${DB_FILE}" || { echo "Expected ${DB_FILE} but it does not exist"; exit 1; }
           echo "DB size:"
-          wc -c "${OUTPUT_FILE}" || true
-          echo "DB preview:"
-          head -n 40 "${OUTPUT_FILE}" || true
+          wc -c "${DB_FILE}" || true
 
-      # Tiny recent slice without comments to keep payload small for Actions
+      # Tiny recent slice (no comments) to keep Action payload small
       - name: Build lightweight slice (no comments, last 100)
         run: |
           python - << 'PY'
           import json, os
-          SRC = os.environ["OUTPUT_FILE"]
+          SRC = os.environ["DB_FILE"]
           OUT = os.environ["SLICE_FILE"]
           N = 100
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
           items = items[-N:]  # keep last N; assume ascending by created_utc
-          # strip comments to keep size small
           meta_items = []
           for p in items:
             q = dict(p)
@@ -80,7 +78,8 @@ jobs:
           print(f"Wrote {OUT} with {len(meta_items)} posts (no comments)")
           PY
 
-      - name: Build shards and manifest
+      # Build MONTHLY META files (no comments) and per-post THREAD files (comments only)
+      - name: Build monthly META + per-post THREAD files
         run: |
           python - << 'PY'
           import json, os
@@ -88,10 +87,12 @@ jobs:
           from datetime import datetime, timezone
 
           ROOT = Path(".")
-          DB_FILE = ROOT / os.environ["OUTPUT_FILE"]
-          SHARDS_DIR = ROOT / os.environ["SHARDS_DIR"]
+          DB_FILE = ROOT / os.environ["DB_FILE"]
+          META_DIR = ROOT / os.environ["META_DIR"]
+          THREADS_DIR = ROOT / os.environ["THREADS_DIR"]
           MANIFEST_FILE = ROOT / os.environ["MANIFEST_FILE"]
-          SHARDS_DIR.mkdir(exist_ok=True)
+          META_DIR.mkdir(exist_ok=True)
+          THREADS_DIR.mkdir(exist_ok=True)
 
           def month_key(ts):
             dt = datetime.fromtimestamp(float(ts or 0), tz=timezone.utc)
@@ -101,40 +102,65 @@ jobs:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
 
+          # Group posts by YYYY-MM
           buckets = {}
           for p in items:
             ts = float(p.get("created_utc", 0) or 0)
             mk = month_key(ts)
             buckets.setdefault(mk, []).append(p)
 
+          # Write monthly META (no comments) and per-post THREADS with comments-only payloads
           manifest = {
             "source": "Reddit r/programmatic",
-            "shards": []
+            "months": []  # [{month, count, meta_file}]
           }
 
           for mk in sorted(buckets.keys()):
-            shard_items = sorted(buckets[mk], key=lambda r: float(r.get("created_utc", 0) or 0))
-            out_path = SHARDS_DIR / f"{mk}.json"
-            with open(out_path, "w", encoding="utf-8") as f:
-              json.dump({"discussions": shard_items}, f, ensure_ascii=False, indent=2)
-            first_ts = shard_items[0].get("created_utc", 0)
-            last_ts  = shard_items[-1].get("created_utc", 0)
-            manifest["shards"].append({
-              "file": f"{mk}.json",
-              "count": len(shard_items),
-              "start_created_utc": first_ts,
-              "end_created_utc": last_ts
+            month_posts = sorted(buckets[mk], key=lambda r: float(r.get("created_utc", 0) or 0))
+            # META file (no comments)
+            meta_out = META_DIR / f"{mk}.json"
+            meta_discussions = []
+            for p in month_posts:
+              q = dict(p)
+              q.pop("comments", None)  # strip comments
+              meta_discussions.append(q)
+            with open(meta_out, "w", encoding="utf-8") as f:
+              json.dump({"discussions": meta_discussions}, f, ensure_ascii=False, indent=2)
+
+            # THREAD files (comments-only + a bit of header)
+            for p in month_posts:
+              pid = p.get("id") or ""
+              if not pid:
+                # fallback: derive synthetic id from url+ts for older data without IDs
+                pid = (p.get("url","") + "|" + str(p.get("created_utc",""))).replace("/","_")
+              thread_path = THREADS_DIR / f"{pid}.json"
+              # keep a light header plus comments
+              thread_doc = {
+                "id": p.get("id"),
+                "title": p.get("title"),
+                "permalink": p.get("permalink", p.get("url")),
+                "created_utc": p.get("created_utc"),
+                "num_comments": p.get("num_comments"),
+                "comments": p.get("comments", [])  # may be large but isolated per post
+              }
+              with open(thread_path, "w", encoding="utf-8") as f:
+                json.dump(thread_doc, f, ensure_ascii=False, indent=2)
+
+            manifest["months"].append({
+              "month": mk,
+              "count": len(month_posts),
+              "meta_file": f"{mk}.json"
             })
 
           with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
-          print(f"Wrote {len(manifest['shards'])} shards and {MANIFEST_FILE.name}")
+          print(f"Wrote {len(manifest['months'])} monthly META files and per-post THREAD files")
           PY
 
       - name: Stage changes
         run: |
-          git add "${OUTPUT_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${SHARDS_DIR}/" || true
+          git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
           git status --porcelain
 
       - name: Commit and push if changed
@@ -146,7 +172,7 @@ jobs:
             echo "No changes to commit."
           else
             echo "Changes detected. Committing."
-            git commit -m "Update DB, slice, and shards"
+            git commit -m "Update DB, slice, monthly meta, and per-post threads"
             git push
           fi
 
@@ -155,8 +181,9 @@ jobs:
         with:
           name: r-programmatic-outputs
           path: |
-            ${{ env.OUTPUT_FILE }}
+            ${{ env.DB_FILE }}
             ${{ env.SLICE_FILE }}
             ${{ env.MANIFEST_FILE }}
-            ${{ env.SHARDS_DIR }}/*.json
+            ${{ env.META_DIR }}/*.json
+            ${{ env.THREADS_DIR }}/*.json
           retention-days: 3
