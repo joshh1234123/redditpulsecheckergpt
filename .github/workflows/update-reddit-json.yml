@@ -3,17 +3,14 @@ name: Update r/programmatic JSON
 on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes, UTC
-  workflow_dispatch:         # allow manual runs from the Actions tab
-  repository_dispatch:       # optional, for external webhooks to trigger
+  workflow_dispatch:
+  repository_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
-    # If your secrets live in an Environment, uncomment the next line and set the exact env name
-    # environment: production
 
     env:
       SCRIPT_PATH: ./.github/workflows/fetch_r_programmatic.py  # change if you move the script
@@ -35,7 +32,6 @@ jobs:
       - name: Install deps
         run: pip install praw
 
-      # Optional, helps confirm where the script lives
       - name: Show repo tree
         run: |
           pwd
@@ -48,16 +44,16 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python "${{ env.SCRIPT_PATH }}"
 
-          - name: Verify JSON exists and show a preview
-    run: |
-      if [ ! -f r_programmatic.json ]; then
-        echo "JSON not found. The script likely didn’t write the file."
-        exit 1
-      fi
-      echo "File size:"
-      wc -c r_programmatic.json || true
-      echo "First 60 lines:"
-      head -n 60 r_programmatic.json || true
+      - name: Verify JSON exists and show a preview
+        run: |
+          if [ ! -f r_programmatic.json ]; then
+            echo "JSON not found. The script likely didn't write the file."
+            exit 1
+          fi
+          echo "File size:"
+          wc -c r_programmatic.json || true
+          echo "First 60 lines:"
+          head -n 60 r_programmatic.json || true
 
       - name: Commit and push if changed
         run: |
@@ -66,3 +62,10 @@ jobs:
           git add r_programmatic.json || true
           git diff --quiet || (git commit -m "Auto update JSON" && git push)
 
+      # Optional: download the JSON from the run even if no commit happened
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: r_programmatic.json
+          path: r_programmatic.json
+          if-no-files-found: error
