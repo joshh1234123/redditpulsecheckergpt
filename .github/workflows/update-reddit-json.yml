@@ -64,7 +64,7 @@ jobs:
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
-          items = items[-N:]
+          items = items[-N:]  # last N by ascending created_utc
           meta_items = []
           for p in items:
             q = dict(p)
@@ -82,6 +82,12 @@ jobs:
             json.dump(slim, f, ensure_ascii=False, indent=2)
           print(f"Wrote {OUT} with {len(meta_items)} posts (no comments)")
           PY
+
+      # Clean threads dir to remove any legacy files with invalid characters
+      - name: Clean threads directory
+        run: |
+          rm -rf "${THREADS_DIR}"
+          mkdir -p "${THREADS_DIR}"
 
       - name: Build monthly META and per-post THREAD files
         run: |
@@ -101,6 +107,12 @@ jobs:
           def month_key(ts):
             dt = datetime.fromtimestamp(float(ts or 0), tz=timezone.utc)
             return f"{dt.year:04d}-{dt.month:02d}"
+
+          def sanitize(name: str) -> str:
+            # allow only [A-Za-z0-9._-], replace others with '-'
+            s = re.sub(r'[^A-Za-z0-9._-]+', '-', name).strip('-')
+            # cap length so paths stay reasonable on all OSes
+            return s[:120] if len(s) > 120 else s
 
           with open(DB_FILE, "r", encoding="utf-8") as f:
             db = json.load(f)
@@ -130,12 +142,10 @@ jobs:
             with open(meta_out, "w", encoding="utf-8") as f:
               json.dump({"discussions": meta_discussions}, f, ensure_ascii=False, indent=2)
 
-            # THREAD files with sanitized filenames
+            # THREAD files with sanitized filenames (always sanitize, even if 'id' exists)
             for p in month_posts:
-              pid = p.get("id") or ""
-              if not pid:
-                fallback = (p.get("url", "") + "|" + str(p.get("created_utc", "")))
-                pid = re.sub(r'[^A-Za-z0-9._-]+', '-', fallback).strip('-')[:120]
+              raw_pid = p.get("id") or (p.get("url", "") + "|" + str(p.get("created_utc", "")))
+              pid = sanitize(raw_pid or "unknown")
               thread_path = THREADS_DIR / f"{pid}.json"
               thread_doc = {
                 "id": p.get("id"),
@@ -177,7 +187,6 @@ jobs:
           git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
 
           # Re-apply our generated changes
-          # If there is no stash, this will be a no-op
           if git stash list | grep -q "autostash-before-pull"; then
             git stash pop || true
           fi
