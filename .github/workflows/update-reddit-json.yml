@@ -64,7 +64,7 @@ jobs:
           with open(SRC, "r", encoding="utf-8") as f:
             db = json.load(f)
           items = db.get("discussions") or db.get("items") or []
-          items = items[-N:]  # keep last N; assume ascending by created_utc
+          items = items[-N:]  # last N by ascending created_utc
           meta_items = []
           for p in items:
             q = dict(p)
@@ -160,11 +160,7 @@ jobs:
           print(f"Wrote {len(manifest['months'])} monthly META files and per-post THREAD files")
           PY
 
-      - name: Stage changes
-        run: |
-          git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
-          git status --porcelain
-
+      # Commit and push: pull first, then stage, then commit, then push with retries
       - name: Commit and push if changed (handles non fast forward)
         run: |
           set -e
@@ -173,13 +169,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Make sure we are up to date before staging
+          git fetch origin "${BRANCH}"
+          git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
+
+          # Stage generated files
+          git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
-          git fetch origin "${BRANCH}"
-          git pull --rebase origin "${BRANCH}" || (git rebase --abort && git pull --no-rebase origin "${BRANCH}")
 
           git commit -m "Update DB, slice, monthly meta, and per-post threads"
 
