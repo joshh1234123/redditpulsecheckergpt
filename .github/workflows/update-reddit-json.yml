@@ -14,6 +14,9 @@ jobs:
     env:
       SCRIPT_PATH: ./.github/workflows/fetch_append_r_programmatic.py
       OUTPUT_FILE: programmatic_complete_for_llm.json
+      SLICE_FILE: programmatic_last_250.json
+      SHARDS_DIR: shards
+      MANIFEST_FILE: manifest.json
 
     steps:
       - name: Check out repo
@@ -38,36 +41,113 @@ jobs:
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python "${{ env.SCRIPT_PATH }}"
 
-      - name: Verify and preview JSON
+      - name: Verify DB exists
         run: |
           test -f "${OUTPUT_FILE}" || { echo "Expected ${OUTPUT_FILE} but it does not exist"; exit 1; }
-          echo "File size:"
+          echo "DB size:"
           wc -c "${OUTPUT_FILE}" || true
-          echo "Preview:"
-          head -n 60 "${OUTPUT_FILE}" || true
+          echo "DB preview:"
+          head -n 40 "${OUTPUT_FILE}" || true
 
-      - name: Show staged diff summary
+      - name: Build lightweight slice
         run: |
-          git add "${OUTPUT_FILE}"
-          git diff --cached --numstat || true
+          python - << 'PY'
+          import json
+          SRC = "${OUTPUT_FILE}"
+          OUT = "${SLICE_FILE}"
+          N = 250
+          with open(SRC, "r", encoding="utf-8") as f:
+            db = json.load(f)
+          items = db.get("discussions") or db.get("items") or []
+          items = items[-N:]  # keep last N by ascending order
+          slim = {
+            "metadata": {
+              "source": (db.get("metadata", {}) or {}).get("source", "Reddit r/programmatic"),
+              "slice_size": len(items)
+            },
+            "discussions": items
+          }
+          with open(OUT, "w", encoding="utf-8") as f:
+            json.dump(slim, f, ensure_ascii=False, indent=2)
+          print(f"Wrote {OUT} with {len(items)} posts")
+          PY
+
+      - name: Build shards and manifest
+        run: |
+          python - << 'PY'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          ROOT = Path(".")
+          DB_FILE = ROOT / "${OUTPUT_FILE}"
+          SHARDS_DIR = ROOT / "${SHARDS_DIR}"
+          SHARDS_DIR.mkdir(exist_ok=True)
+
+          def month_key(ts):
+            dt = datetime.fromtimestamp(float(ts or 0), tz=timezone.utc)
+            return f"{dt.year:04d}-{dt.month:02d}"
+
+          with open(DB_FILE, "r", encoding="utf-8") as f:
+            db = json.load(f)
+          items = db.get("discussions") or db.get("items") or []
+
+          buckets = {}
+          for p in items:
+            ts = float(p.get("created_utc", 0) or 0)
+            mk = month_key(ts)
+            buckets.setdefault(mk, []).append(p)
+
+          manifest = {
+            "source": "Reddit r/programmatic",
+            "shards": []
+          }
+
+          for mk in sorted(buckets.keys()):
+            shard_items = sorted(buckets[mk], key=lambda r: float(r.get("created_utc", 0) or 0))
+            out_path = SHARDS_DIR / f"{mk}.json"
+            with open(out_path, "w", encoding="utf-8") as f:
+              json.dump({"discussions": shard_items}, f, ensure_ascii=False, indent=2)
+            first_ts = shard_items[0].get("created_utc", 0)
+            last_ts  = shard_items[-1].get("created_utc", 0)
+            manifest["shards"].append({
+              "file": f"{mk}.json",
+              "count": len(shard_items),
+              "start_created_utc": first_ts,
+              "end_created_utc": last_ts
+            })
+
+          with open(ROOT / "${MANIFEST_FILE}", "w", encoding="utf-8") as f:
+            json.dump(manifest, f, ensure_ascii=False, indent=2)
+
+          print(f"Wrote {len(manifest['shards'])} shards and ${MANIFEST_FILE}")
+          PY
+
+      - name: Stage changes
+        run: |
+          git add "${OUTPUT_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${SHARDS_DIR}/" || true
+          git status --porcelain
 
       - name: Commit and push if changed
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${OUTPUT_FILE}"
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             echo "Changes detected. Committing."
-            git commit -m "Append new r/programmatic posts"
+            git commit -m "Update DB, slice, and shards"
             git push
           fi
 
-      - name: Upload artifact
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: programmatic-json
-          path: ${{ env.OUTPUT_FILE }}
+          name: r-programmatic-outputs
+          path: |
+            ${{ env.OUTPUT_FILE }}
+            ${{ env.SLICE_FILE }}
+            ${{ env.MANIFEST_FILE }}
+            ${{ env.SHARDS_DIR }}/*.json
           retention-days: 3
