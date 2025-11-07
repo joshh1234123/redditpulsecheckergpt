@@ -374,6 +374,21 @@
       "link_flair_text": null,
       "thread_id": "1oqx2ci",
       "thread_path": "1oqx2ci.json"
+    },
+    {
+      "id": "1or5lwl",
+      "title": "Geo-Fence and Radius Precision",
+      "author": "Accomplished_Echo376",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1or5lwl/geofence_and_radius_precision/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1or5lwl/geofence_and_radius_precision/",
+      "created_utc": 1762547965.0,
+      "content": "I think we’re all aware of the 1 km minimum radius that exists in DV360 - what alternative DSPs are there to try and get much tighter as a starting point? \n\nA location data partner + trade desk could be an option - others?  \n\nGroundtruth and Simpli.fy(?) have come up - thoughts and experiences with these?\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1or5lwl",
+      "thread_path": "1or5lwl.json"
     }
   ]
 }

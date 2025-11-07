@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o59oxp",
-      "title": "TTD vs. Amazon vs. Google",
-      "author": "LateMathematician280",
-      "score": 28,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o59oxp/ttd_vs_amazon_vs_google/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o59oxp/ttd_vs_amazon_vs_google/",
-      "created_utc": 1760328136.0,
-      "content": "Could you rank these DSPs in terms of career, and why?\n\nIn other words, if you were to choose to work at one of these DSPs where would you choose and why (career aspects, compensation, etc.)?",
-      "num_comments": 15,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o5ammn",
       "title": "Programmatic for Grassroots Basketball Company",
       "author": "icetreythej",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1oqx2ci/adding_all_users_ga4_audience_to_dv360/",
       "created_utc": 1762528557.0,
       "content": "I’m currently struggling to add the default all users audience from GA4 into DV360. I have connected the GA4 property and DV360 advertiser (audience sharing turned on) and can see other GA4 audiences pulling through. I have tried disconnecting and reconnecting but no change. \n\nIs there a particular setting in either platform that could be preventing the all users audience from displaying or anything I should be aware of that would prevent this?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1or5lwl",
+      "title": "Geo-Fence and Radius Precision",
+      "author": "Accomplished_Echo376",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1or5lwl/geofence_and_radius_precision/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1or5lwl/geofence_and_radius_precision/",
+      "created_utc": 1762547965.0,
+      "content": "I think we’re all aware of the 1 km minimum radius that exists in DV360 - what alternative DSPs are there to try and get much tighter as a starting point? \n\nA location data partner + trade desk could be an option - others?  \n\nGroundtruth and Simpli.fy(?) have come up - thoughts and experiences with these?\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
