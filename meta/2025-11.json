@@ -11,7 +11,9 @@
       "content": "I’m curious to hear others’ experiences with what types of media ads have worked best for local businesses.\n\nI own a small IT services company and have been experimenting with different DSPs and platforms to see what actually moves the needle. So far, I’ve had the best response through **Amazon DSP** and **DV360**, running campaigns between **6–11pm**. I even got tagged in a few local Facebook groups where residents mentioned seeing my streaming TV ad which was great to see. Honestly, I think I might be one of the only small businesses in my area (or maybe even the state) doing any kind of programmatic advertising.\n\nI’ve also tested **DOOH**, including **in-theater ads** (about 20 theaters for two weeks — zero response), **screens in gyms, grocery stores, and retail** (also zero), and **digital billboards** via **Admatx (The Trade Desk)** targeting two local Lamar signs. The signs were impossible to miss — one-lane each way, 40mph road — but after a month (5pm–7pm rotation), I saw no measurable response.\n\n**YouTube Instant Guaranteed** got plenty of views but no noticeable leads. \n\nI also ran an **audio campaign** on Admatx across multiple platforms for two weeks, again zero response.\n\nAt this point, it really seems like **streaming TV** is the clear winner for local brand recognition. People notice it, comment on it, and we get actual leads from it. Sure, I could keep testing DOOH or audio for a few more months, but if one channel is delivering consistent awareness and results, it makes sense to double down there.\n\nThat said, I’m really curious, for those who work with **local businesses**, what ad types or strategies have you found to be most effective in generating real leads/sales?\n\nHappy to share more about all the tools and DSPs I’ve used if anyone’s interested. ",
       "num_comments": 10,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1omi5ea",
+      "thread_path": "1omi5ea.json"
     },
     {
       "id": "1omr7px",
@@ -24,7 +26,9 @@
       "content": "Which is your benchmark for disply, video and ctv?\nOther breackdonwns?\nDo you apply dofferent ones by country?\nAny gap between dv360 and ias or other dsp like amazon?",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1omr7px",
+      "thread_path": "1omr7px.json"
     },
     {
       "id": "1on8gvh",
@@ -37,7 +41,9 @@
       "content": "",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1on8gvh",
+      "thread_path": "1on8gvh.json"
     },
     {
       "id": "1oninaf",
@@ -50,7 +56,9 @@
       "content": "Amazon is cutting 14,000 corporate roles ( potentially up to 30,000 in the coming weeks) about 4% of its workforce, as it streamlines operations and reallocates resources toward AI. Just a day later, YouTube announced an AI-driven reorganization offering voluntary exit packages for U.S. employees, though the company says no current roles are being eliminated. YouTube’s growing subscription business also plays a key role, with a new senior leader set to oversee the unit.\n\nAI’s promise to transform how we work is no longer theoretical; it’s unfolding in real time across major tech companies. The human toll is significant, but the strategic move for professionals now is to become AI-savvy managers of tools, not the ones replaced by them.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oninaf",
+      "thread_path": "1oninaf.json"
     },
     {
       "id": "1onnosp",
@@ -63,7 +71,9 @@
       "content": "So I just made my first release on GitHub! :-D For now, it's just a simple python script that allows you to use your Open Sincera API Key combined with a list of domains in a .txt file to batch-query the Open Sincera API - all returned data-points get saved into a new CSV for further analysis. Nothing more, nothing less. Just learning and playing around here, trying to provide some value. \n\nPotential Use Cases:\n\n* Analyze URL Lists of your campaigns/accounts for certain quality params received via the Open Sincera API\n* Analyze/Enrich your Allowlists\n\n[https://github.com/guedietz/open-sincera-fetcher](https://github.com/guedietz/open-sincera-fetcher)\n\nHappy to receive feedback, if that's useful! :-)\n\nWhat could be potential ways to enhance the script? What would be a nice feature to you?",
       "num_comments": 16,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1onnosp",
+      "thread_path": "1onnosp.json"
     },
     {
       "id": "1oo4wb6",
@@ -76,7 +86,9 @@
       "content": " For a programmatic campaign, the campaign has just been signed off and will run on display activity on an curated Deal by magnite.\r\n\r\n\nAlso on  campaign i see a huge discrepancy in viewability between our figures and clients figures on the DSP, how do you handle the situation? What do you suggest?\r\n",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oo4wb6",
+      "thread_path": "1oo4wb6.json"
     },
     {
       "id": "1oo7rbb",
@@ -89,7 +101,9 @@
       "content": "What are you selecting/de-selecting for this setting in targeting?\n\nhttps://preview.redd.it/0x42pbv3x8zf1.png?width=668&format=png&auto=webp&s=6b2c30cf4c50726651018bc7c02fc1ec69ad02d8\n\n",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oo7rbb",
+      "thread_path": "1oo7rbb.json"
     },
     {
       "id": "1oo8bi3",
@@ -102,7 +116,9 @@
       "content": "I do some freelance work and have a client who's looking to run programmatic ads but I'm trying to find a platform that has no spend minimums or is free? Budget is small but the wanna get some ads out there!",
       "num_comments": 19,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oo8bi3",
+      "thread_path": "1oo8bi3.json"
     },
     {
       "id": "1oosl61",
@@ -115,7 +131,9 @@
       "content": "How to set cross reach on dv360 and amazon?\nWhich targeting line up?) for yt+ netflix(works both through pmp and pg?) adn what about amazon dsp?\n",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oosl61",
+      "thread_path": "1oosl61.json"
     },
     {
       "id": "1op0v3f",
@@ -128,7 +146,9 @@
       "content": "While know this is not accurate based on the need for a consistent identifier, what DSPs offer the ability to set frequency controls across media tyoe. Trying to cap across CTV, OLV, Display, etc.",
       "num_comments": 8,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1op0v3f",
+      "thread_path": "1op0v3f.json"
     },
     {
       "id": "1op6o3x",
@@ -141,7 +161,9 @@
       "content": "I'm looking for ways to manage down spend on TTD Identity Alliance.  I have two related questions:\n\n\\- What happens if you simply turn off Identity Alliance?  Do all the conversions metric reset to a lower baseline?\n\n\\- Is there a mechanism to replace the Identity Alliance with an another graph?\n\nHoping for feedback from folks with direct experience doing the above.  ",
       "num_comments": 12,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1op6o3x",
+      "thread_path": "1op6o3x.json"
     },
     {
       "id": "1oph5qh",
@@ -154,7 +176,9 @@
       "content": "If you’re a trader what tool would love to have that’s not currently in market. This could be a DSP feature or off DSP feature.\n\nMy first one would be an auto insights deck generator. I haven’t seen any dsp or capability that does this seamlessly and without the clunk.",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oph5qh",
+      "thread_path": "1oph5qh.json"
     },
     {
       "id": "1opn6uu",
@@ -167,7 +191,9 @@
       "content": "Google told us earlier that they do not sign direct GMO contracts with independent agencies anymore :( we’ve been on Google-direct DV360 contract since 2019 and they’re pushing us to transfer to a reseller next year..,\nWe’re a small-sized agency but have decent footprint in the public sector (non-political). Is anyone experiencing the same issue? Any reliable reseller you’d recommend?\n",
       "num_comments": 13,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1opn6uu",
+      "thread_path": "1opn6uu.json"
     },
     {
       "id": "1opv081",
@@ -180,7 +206,9 @@
       "content": "Hi all, I hope this post is okay. I have worked in engineering for 5 or so years building ad servers and other ad tech related products. I have recently found myself in a company that has 0 understanding of programmatic and only do direct deals for their gambling affiliated display content. As part of my new remit they want me to prove the value of programmatic by capitalising on around 270 million unfilled impressions worldwide. \n\nI have been able to set up an ad server / SSP (GAM), implemented some fairly standard ad sizes, mobile banner, top leaderboard, MPU's etc and have also implemented some KVP's for ATF/BTF and ad placement. However the fill rate currently is still very low around 5% with a £0.90 floor price. As I have never really worked in optimising delivery, I am asking if anyone has some helpful advice that could aid in filling the inventory space more consistently (was hoping for 50-60%)? I have a vague understanding of yield groups and could potentially look at utilising other SSP's to open up to more advertising traffic. Any and all advice would be greatly appreciated for a newbie in this space!",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1opv081",
+      "thread_path": "1opv081.json"
     },
     {
       "id": "1oq1gag",
@@ -193,7 +221,9 @@
       "content": "He went from “ads with AI are uniquely disturbing” → to “some ads are actually cool if they’re tasteful” → to “we’re exploring affiliate commerce models and maybe booking hotels through ChatGPT.”\n\nNo shade, I get why. Trust + UX is clearly his obsession. He really doesn’t want ChatGPT recommending a worse hotel just because someone paid for placement.\n\nBut once you’re recommending products, taking a cut, and embedding transactions…  \n  \nYou’re basically one step away from ads at that point.\n\nSo:  \nWhat’s the ideal, non-gross AI-native ad format for ChatGPT?\n\nContextual? Non-skippable interstitial? display insertions, a la Google Shopping Ads?  ",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oq1gag",
+      "thread_path": "1oq1gag.json"
     },
     {
       "id": "1oq1pld",
@@ -206,7 +236,9 @@
       "content": "After reading this (obv biased) article [https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive](https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive)  \nI'm curious to hear from TTD buyers: Do you really see better results, than if you'd run the same campaigns on DV360 or ADSP? Or you just use TTD, coz your HoldCo wants you to? No judging, just curious if their value is as they claim it is vs. the other 2, that represent sell-side and their own inventory too. TIA\n\nEDIT: To clarify, I'm thinking of \"open internet\" inventory (display, video), that is accessable to all players and where TTD claims to be superior in term sof output. Also comparison makes only sense based on the same audiences, so let's say based on simple 1P retargeting data the advertiser brings to the table. Anyone ever compared those platform head to head in such or similar scenarios?",
       "num_comments": 10,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oq1pld",
+      "thread_path": "1oq1pld.json"
     },
     {
       "id": "1oq2hl9",
@@ -219,7 +251,9 @@
       "content": "This is probably the wrong question to ask in this group, since everyone seems to be pretty passionate about their platforms, but which platform would be a better alternative to Basis for 2026?\n\nI like most of their exchanges and their private marketplace deals are great, and its fairly easy for me and my team to use.  However, their APIs are having a lot of issues with 3rd party integrations, which creates a nightmare for us and our clients, and their account management is getting pretty poor.\n\nI am planning to make a decision for 2026 in the next few weeks!\n\n  \n\\*edit\\* We also use Amazon DSP, and aren't planning on changing that, but we really want an alternative just for our Basis clients.",
       "num_comments": 24,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oq2hl9",
+      "thread_path": "1oq2hl9.json"
     },
     {
       "id": "1oq9us4",
@@ -232,7 +266,9 @@
       "content": "",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oq9us4",
+      "thread_path": "1oq9us4.json"
     },
     {
       "id": "1oqamb5",
@@ -245,7 +281,9 @@
       "content": "Hey everyone, Hatch turned bedtime doomscrolling into a horror story with its faux movie trailer “Goodnight, Phone.”\n\nWe loved how Hatch used the language of horror cinema to deliver a wellness message that felt fresh, funny, and genuinely unsettling; proof that a good scare can sell better sleep. \n\nThe campaign premiered in AMC and Cinemark theaters during the Halloween season, then expanded to YouTube and social media.\n\nWhat is your favorite ad right now? ",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqamb5",
+      "thread_path": "1oqamb5.json"
     },
     {
       "id": "1oqbc0f",
@@ -258,7 +296,9 @@
       "content": "Does anyone have experience (good or bad) with some of the DSP’s new AI agents? For example, Viant Ai, stackadapt ivy, etc. \n\nI feel like there was a lot of excitement when they came out, but haven’t heard much else other than sales/marketing claims. \n\nTIA! ",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqbc0f",
+      "thread_path": "1oqbc0f.json"
     },
     {
       "id": "1oqd0dm",
@@ -271,7 +311,9 @@
       "content": "We're running evergreen upper funnel campaigns as well as retargeting campaigns via DV360 and are having some issues with many line items delivering. When looking at the troubleshooter, it looks like nearly all of our bid responses are  either bidding below the floor (even though we're running on open exchange?), losing the internal auction or losing the external auction. \n\n\n\nWe don't have set CPM goals and can afford to bid higher if that will help, but we're using DV360s automated bidding optimizer that decides where and how much to bid. I'm not sure if running a fixed bid would be beneficial as we'd like a more dynamic bid tailored to performance. What's also frustrating though is we're not winning the best inventory. For pre-roll video our avg. CPM is less than $3 when previously we've typically seen pre-roll CPMs closer to $10-$15. So we're losing bids, and the ones we are winning are not great inventory.\n\n  \nHas anyone run in to a similar issue in DV360 and found something that works for you? Is fixed bid the only way to go? If so, how much do you usually bid? DV360 used to have a bid multiplier but it looks like it no longer has that feature.",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqd0dm",
+      "thread_path": "1oqd0dm.json"
     },
     {
       "id": "1oqs4og",
@@ -284,7 +326,9 @@
       "content": "Hey everyone\n\nI could really use some help... I have an interview scheduled next week that requires knowledge of DV360, but I am currently experienced only in publisher side campaign management. I currently don’t have the budget to buy any paid courses or materials... Things are a bit tight right now, so I’m trying to make the best use of free resources... I tried searching for it on YouTube but there is very minimal knowledge available there on the tool.\n\nIf anyone here has any DV360 study material, notes, or personal summaries that you’ve created and can share, I’d be really, really grateful... It would mean a lot and help me prepare better for this opportunity...\n\nThanks in advance to anyone who can help...\n\n",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqs4og",
+      "thread_path": "1oqs4og.json"
     },
     {
       "id": "1oqs6fj",
@@ -297,7 +341,9 @@
       "content": "We have **2 websites** delivering about **3 million monthly impressions**, primarily from **France, Italy, and Germany**.\n\nOpen to **direct campaigns, PMPs, or brand partnerships** interested in high-quality European traffic.",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqs6fj",
+      "thread_path": "1oqs6fj.json"
     },
     {
       "id": "1oqt0km",
@@ -310,7 +356,9 @@
       "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Mostly earnings, so if that's not your cup of tea, I'd pass on this week's news. Let me know if you like this.\n\n**Top Stories:**\n\n* **AppLovin dominates** - Revenue up 68% to $1.41B with 59% profit margin, AI advertising engine minting cash\n* **Magnite rebounds with CTV** - 18% CTV growth via Netflix/Roku despite Trade Desk OpenPath pressure\n* **Trade Desk steady** - 18% revenue growth to $739M, Kokai platform driving market share gains\n\n**Quick Hits:**\n\n* MNTN revenue jumps 31% converting SMBs to CTV advertising, 97% are first-time TV advertisers\n* Trade Desk + PubMatic launch API to automate deal negotiations (only 1 in 10 current deals achieve scale)\n* ID5 acquires TrueData: Combined identity graph covers 1.5B users across 665M households\n* People Inc. strikes Microsoft AI licensing deal as Google AI Overviews slash search referrals from 60% to 24%\n* UK publisher Reach pivots from Google to MSN/Apple News, earning five figures daily from Meta\n* Google creates first fully AI-generated commercial using Veo 3 tool\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-1172025)\n\nWhat's your take on AppLovin? People either love them or hate them.",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqt0km",
+      "thread_path": "1oqt0km.json"
     },
     {
       "id": "1oqx2ci",
@@ -323,7 +371,9 @@
       "content": "I’m currently struggling to add the default all users audience from GA4 into DV360. I have connected the GA4 property and DV360 advertiser (audience sharing turned on) and can see other GA4 audiences pulling through. I have tried disconnecting and reconnecting but no change. \n\nIs there a particular setting in either platform that could be preventing the all users audience from displaying or anything I should be aware of that would prevent this?",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oqx2ci",
+      "thread_path": "1oqx2ci.json"
     }
   ]
 }

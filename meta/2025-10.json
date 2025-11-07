@@ -11,7 +11,9 @@
       "content": "Another integration for Amazon DSP!",
       "num_comments": 8,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nv8ccr",
+      "thread_path": "1nv8ccr.json"
     },
     {
       "id": "1nvcio1",
@@ -24,7 +26,9 @@
       "content": "Jeff Green [posted](https://www.linkedin.com/posts/jefftgreen_weve-seen-more-supply-chain-innovation-in-share-7378855163232661505-NYvv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAxhpoBQ8XYJab-DbRVbDypvc3vZX1BRGM&_bhlid=3d872518b934658a6921ae623f8ddfbcf16f796a) on LinkedIn yesterday about AI creating a critical moment for digital advertising.\n\n**His argument:** AI is bringing unprecedented transparency to the ad supply chain, which will highlight the value of the open internet versus walled gardens. He's promising October announcements about innovations designed to improve the digital ad ecosystem for buy-side clients.\n\n**The context:** Trade Desk reports Q3 earnings in early November. Two narratives have been dogging the company: the open web is in decline, and TTD is losing ground. Green's positioning AI as the answer to both problems.\n\n**The actual announcements:** TTD is rolling out two new AI-powered features. First is a[ tool ](https://www.businesswire.com/news/home/20250929471947/en/The-Trade-Desk-Announces-Major-Overhaul-of-Digital-Advertising-Data-Marketplace?utm_source=beehiiv&utm_medium=email&utm_campaign=u-of-digital-newsletter-10-1-25-premium&_bhlid=b7dca467d992e70868dd73a495e673d0e5d370fa)that uses machine learning to evaluate and rank audience segments across hundreds of data vendors, replacing their current pay-per-provider model with simplified pricing that could cut data costs (which currently eat up nearly a fifth of media budgets). Second is new trading modes (Koa Adaptive Trading Modes) that let buyers choose between fully automated AI optimization(called Performance Mode) or hands-on(called Control Mode) campaign management with manual bidding and allocation controls. Both launch with select agencies later this year, then wider rollout early 2026.\n\n**The pitch:** These AI innovations will \"accelerate the inevitable long-term movement toward a transparent and efficient marketplace for digital ads.\"\n\nEither this is a legitimate shift in how programmatic buying works, or it's a well-timed product launch to reshape the conversation before earnings.\n\nWe'll know more in November.",
       "num_comments": 39,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nvcio1",
+      "thread_path": "1nvcio1.json"
     },
     {
       "id": "1nvet2m",
@@ -37,7 +41,9 @@
       "content": "Integral Ad Science (IAS) is being acquired by private equity firm Novacap for $1.9 billion, taking the company private just four years after its 2021 IPO.\n\n**The deal:**\n\n* Canadian PE firm Novacap buying IAS at $10.30/share (22% premium)\n* Vista Equity Partners (majority owner since 2018) exiting completely\n* Expected to close later this year, pending regulatory approval\n\n  \n**Why this matters:**\n\nIAS and DoubleVerify basically run ad verification as a duopoly. They've already captured most of the market, but there's a massive problem: nowhere left to grow.\n\nMarketers see verification as a necessary evil and a necessary tax, not something they want to spend more on. IAS's attempts to expand into ad serving and attribution haven't moved the needle. Big platforms are building their own brand safety tools in-house, eating into market share.\n\n**The real threat: Scope3**\n\nWhile IAS dealt with Adalytics reports and government scrutiny this year, AI-first startup Scope3 has been rebuilding verification from the ground up. Founder Brian O'Kelley (former AppNexus CEO) literally posted on LinkedIn about why IAS is going private: to compete with him.\n\nHis take: Going private gives you breathing room to rebuild without quarterly earnings calls, but it's not enough. You still need to invest heavily in R&D, embrace AI/agents, and move fast. If customers start asking, \"Do I need this if I have AI?\" and your answer isn't compelling, private equity won't save you.\n\n**The bigger picture:**\n\nThis is the beginning of a pattern. Legacy adtech built on rules-based systems is entering adapt-or-die mode. AI-native competitors that are lightweight and dynamic are the future.\n\nAd verification is just the start. Which other \"mature\" adtech sectors (DSPs, SSPs, DMPs) will see this same story play out in the next 2-3 years?\n\n**My take:**   \nGoing private buys IAS time to gut the product, rebuild around AI, and make risky bets without Wall Street breathing down its neck. Expect major changes in the next 18-24 months. The question is whether it'll be enough.\n\nWhat do you think? Can legacy adtech companies successfully reinvent themselves? ",
       "num_comments": 14,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nvet2m",
+      "thread_path": "1nvet2m.json"
     },
     {
       "id": "1nvfgj3",
@@ -50,7 +56,9 @@
       "content": "Zeta Global dropped $325M on Marigold's enterprise software business. Now they've got the full  stack:\n\n* Loyalty solutions (Marigold)\n* Email platforms (Cheetah Digital & Sailthru)\n* Marketing automation (Selligent)\n* CRM\n* CDP\n* DSP\n* Ad Network (LiveIntent)\n\nThe CEO claims adding loyalty products will feed \"trillions of data points\" into their targeting algorithm. This is their 17th acquisition since founding in 2007.\n\nThey're projecting $1.2B revenue in 2025 and expect the deal to be accretive within a year.\n\nZeta is assembling the infrastructure to bring together ad tech and mar tech in a way nobody else has pulled off.\n\nGoogle has ad tech but no CRM or loyalty infrastructure. Salesforce has mar tech, but advertising is an afterthought. Adobe tried with Advertising Cloud and failed.\n\nIf Zeta actually pulls this off, they'll have built something genuinely differentiated. Big if.",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nvfgj3",
+      "thread_path": "1nvfgj3.json"
     },
     {
       "id": "1nvr8pc",
@@ -63,7 +71,9 @@
       "content": "Hey folks,\n\nIs it just me, or has the creative side of programmatic been stuck on repeat?\n\nEvery DSP is pushing the same old rich media formats, and even when it comes to standard IAB sizes, there’s so little imagination. We’ve obsessed over targeting, data layers, SPO, and optimization… but the end user doesn’t care about any of that. For them, it all comes down to one thing: that first visual impact.\n\nWhere are the companies daring to break that loop? Who’s building creatives that are smart, surprising, or even playful—without reinventing the wheel?\n\nAlso curious: beyond StackAdapt, is anyone out there offering brand lift solutions that actually feel innovative? Or are we still recycling the same case studies and calling it new?\n\nWould love to hear who’s taking risks in this space. Drop your recommendations—I’m hungry to discover fresh players.",
       "num_comments": 17,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nvr8pc",
+      "thread_path": "1nvr8pc.json"
     },
     {
       "id": "1nvucbo",
@@ -76,7 +86,9 @@
       "content": "Just wanted to see if anyone had experience with combining old school tactics like direct mail with the new school of streaming ads and what your experience was. \n\nLooking at buying a list of the most likely person to want / need my product and service. \n\nThe list is fairly small. Only about 10,000 on the list.  The list is my perfect local avatar. Vibe thinks they can match about 50% to 60% of my list. \n\nI would be the “star” of the ad. 😂\n\nBut I would also do direct mail to the same list that vibe was able to match. Basically the same messaging from the video ad. \n\nNow - the biggest issue, which I don’t think is an issue personally, is that I may not be able to utilize all of the $50 daily spend because of list size. I’m okay with that because of how targeted it is. \n\nAnd I plan on doing direct mail to the rest of the list that wasn’t matched in Vibe as a test to see if Vibe is having an impact on response rates from the direct mail. I am fairly positive the vibe ads will increase response rates from the direct mail. \n\nUpdate Edit: They can't tell me who they matched and who they did not. So, I would need to mail everyone on the list and hope that the ads increase the response rates on the direct mail as I am not expecting much response from the ads themselves. \n\n",
       "num_comments": 10,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nvucbo",
+      "thread_path": "1nvucbo.json"
     },
     {
       "id": "1nw3r10",
@@ -89,7 +101,9 @@
       "content": "I have a full access seat at Amazon Ads DSP but all I see in inventory is Amazon Prime Video Private Auction. Another tool I used in the past showed Private Auction & Preferred Deals. The preferred deals were a fixed CPM at like $33 CPM. I reached out to support on the portal but they only deal with technical issues. \n\n  \nAnyone have first hand experience how to \"get\" Preferred Deals to show up under the available list of deals in your account?",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nw3r10",
+      "thread_path": "1nw3r10.json"
     },
     {
       "id": "1nw50v1",
@@ -102,7 +116,9 @@
       "content": "Big ambitions from Jeff & team here.",
       "num_comments": 16,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nw50v1",
+      "thread_path": "1nw50v1.json"
     },
     {
       "id": "1nw89yg",
@@ -115,7 +131,9 @@
       "content": "Hi All - I work for a mid-size agency on the east coast. I'm a digital media manager. My leadership team is considering Premion. I've heard conflicting things. They are brining me into the conversations next week. Can you please all share your experiences, and/or things I should be asking looking for? Does anyone actually work with them anymore? Their model seems so outdated. What are their strengths? ",
       "num_comments": 21,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nw89yg",
+      "thread_path": "1nw89yg.json"
     },
     {
       "id": "1nwa7dz",
@@ -128,7 +146,9 @@
       "content": "Was told Magnite Clearline is sort of an alternative to like an Tatari, that it offers linear TV options. Anyone using or used Clearline?",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nwa7dz",
+      "thread_path": "1nwa7dz.json"
     },
     {
       "id": "1nwai6h",
@@ -141,7 +161,9 @@
       "content": "Calling all media, marketing, and ad tech people! Today's panel is going to be loaded with hot takes and spicy soundbites.\n\nWe’ve got an all-star panel featuring:\n\n* **Myles Younger – U of Digital**\n* **Saleah Blancaflor – Fast Company**\n* **Lee Elliott – Left Hand Math**\n\nThey’ll be breaking down the week’s biggest stories in media and ad tech:\n\n* OpenAI building its own ad infrastructure – revolution or trust nightmare?\n* Havas + Horizon Media: $20B joint venture\n* The Trade Desk revamping its data marketplace\n* [Vibe.co](http://vibe.co/) raises $50M\n* Amazon + Spotify partnership\n\nShowdown Topic:  \nGoogle’s “Web Is in Decline” defense vs. Jeff Green’s “Open Internet” push\n\n✅ Live voting during the show, you decide the winner.\n\n📺 **Tune in at 4 PM EST Today!**  \n**Watch live here**: [https://www.youtube.com/@AdNauseumPod/streams](https://www.youtube.com/@AdNauseumPod/streams)  \n",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nwai6h",
+      "thread_path": "1nwai6h.json"
     },
     {
       "id": "1nwep3n",
@@ -154,7 +176,9 @@
       "content": "Im working on behalf of my company to lunch retail media (Purchase Intent, Dropped Baskets, Contextual Search) via our deals and curation platform.\n\nHere is the secret: we have access to Walmart, Amazon, CVS and thousands of retailers data as a by product of our retail commerce business. In short: we have code on publishers sites that handles the referral and transactions for the mentioned retailers - code on page 1st party audiences.\n\nIm considering positioning the deals with the audience data at no additional cost to help build the market, but am curious to hear the perspective from agencies, brands and buyers on the value here.\n\nWe know from market research there are reasonably high minimums for similar data via TTD, Walmart and other RMN’s, my question is are we barking up the right tree with positioning and pricing?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nwep3n",
+      "thread_path": "1nwep3n.json"
     },
     {
       "id": "1nwww1b",
@@ -167,7 +191,9 @@
       "content": "How is the general experience with the relevance thing in Kokai like? Anyone observed better targeting or KPI performance with relevance-optimized audiences or campaigns?",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nwww1b",
+      "thread_path": "1nwww1b.json"
     },
     {
       "id": "1nx4a4m",
@@ -180,7 +206,9 @@
       "content": "Hello! Any suggestions for a DV360 reseller in the UK? Also an idea of the minimum spend levels for a license?\n\nMany thanks!",
       "num_comments": 13,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nx4a4m",
+      "thread_path": "1nx4a4m.json"
     },
     {
       "id": "1nxflzn",
@@ -193,7 +221,9 @@
       "content": "Those in ctv pubs, how do you determine when to stop\nPlugging in demand partners into your programmatic partner list? I’ve seen pubs with 10 partners only and other pubs with 30-40. \n\nWhat kind of criteria’s are you looking for when you plug into some smaller demand partner like ex co or gumgum?\n\nWhen do you determine to end the partnership or that keeping them on isn’t worth it?",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nxflzn",
+      "thread_path": "1nxflzn.json"
     },
     {
       "id": "1nxlylq",
@@ -206,7 +236,9 @@
       "content": "",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nxlylq",
+      "thread_path": "1nxlylq.json"
     },
     {
       "id": "1nxpx31",
@@ -219,7 +251,9 @@
       "content": "I have a PG deal for a display line on a single site domain, however I cannot seem to be bidding. It's coming up in the \"Prebid\" reason/issue under Filtered impressions due to Unauthorized seller in supply chain.\n\n  \nHow do I fix this?\n\nhttps://preview.redd.it/7x9hp3o7i2tf1.png?width=1047&format=png&auto=webp&s=16f07ed2b7d0619cae826583dcd7be7f7ff9b6ab\n\nhttps://preview.redd.it/uxfjvsxbi2tf1.png?width=854&format=png&auto=webp&s=eec5203ac86f4b75877a28b88d7589dc846e1e01\n\n",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nxpx31",
+      "thread_path": "1nxpx31.json"
     },
     {
       "id": "1nxqcal",
@@ -232,7 +266,9 @@
       "content": "I want to onboard top ctv publisher supply. But not getting any reply from them. Any idea or suggestions on the approach or reach outs? ",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nxqcal",
+      "thread_path": "1nxqcal.json"
     },
     {
       "id": "1nxvh0q",
@@ -245,7 +281,9 @@
       "content": "How are you accessing Netflix ads? Agency here and prefer 1:many deals for multiple client campaigns. (No TTD, DV 360 or direct IO please).",
       "num_comments": 39,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nxvh0q",
+      "thread_path": "1nxvh0q.json"
     },
     {
       "id": "1nybs7m",
@@ -258,7 +296,9 @@
       "content": "Can clean rooms help prevent ivt and fraud? ",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nybs7m",
+      "thread_path": "1nybs7m.json"
     },
     {
       "id": "1nymw9g",
@@ -271,7 +311,9 @@
       "content": "Curious what kind of CPM you need to get impressions. I put a $40 CPM with a bunch of ESPN related packages for deals and got 0 impressions. I assume for high demand like this you need $70? Any guesses?",
       "num_comments": 16,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nymw9g",
+      "thread_path": "1nymw9g.json"
     },
     {
       "id": "1nzh99f",
@@ -284,7 +326,9 @@
       "content": "I’m currently trying to find good programmatic display inventory in Germany, but struggling to get traction. I’ve tested a few curated deal solutions (mostly via DSP integrations), but so far the performance has been underwhelming — low engagement and no meaningful conversions. I’m based in Scandinavia and don’t have deep insights into the German programmatic landscape, so I’d really appreciate any tips.   \nWhich publishers, SSPs, or networks have worked well for you in Germany?  \nAny local PMPs or data providers you’d recommend?  \nOr general advice on what to *avoid* when buying programmatically in that market?  \nThanks!",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzh99f",
+      "thread_path": "1nzh99f.json"
     },
     {
       "id": "1nzjolv",
@@ -297,7 +341,9 @@
       "content": "Has anyone seen StackAdapt show a form fill (TYP) conversion from a company but no matching record in Salesforce (ABM campaign)?\n\nThese are showing as impression-based conversions (not click conversions), so I’m guessing it’s tied to cross-device/IP attribution or someone landing on the thank-you page without actually completing the form.\n\nHow have you handled or explained this to clients who expect to see an exact match in the CRM? We’ve had around 7 impression conversions in StackAdapt, and can match 5 of them to real form fills — but 1–2 are missing, which is making the client question the tracking. Another thing that is happening is they are showing a UTM reference to StackAdapt on a particular date but we're not seeing it in StackAdapt.\n\nIt feels like there will always be some slight discrepancy in attribution models, but I’d love to hear how others explain this or validate the data with clients. I've tried multiple ways to explain this type of tracking is not 100% accurate. I'd love some more ideas as they are very unhappy at the moment. \n\nThis is also a long 12–24 month sales cycle campaign, so our focus is really on account engagement and awareness, not volume of form fills.",
       "num_comments": 8,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzjolv",
+      "thread_path": "1nzjolv.json"
     },
     {
       "id": "1nzjynx",
@@ -310,7 +356,9 @@
       "content": "been looking for what should be a standard offering from TTD where i can capture the click id from my landing page and then pass back to TTD via s2s postback to track conversions and ideally help \"optimize\" my campaigns.\n\nfor all of TTD's talk about AI, you'd think they would at least make it easy to pass signal back for optimization purposes.\n\nlooking for TTD equivalent of this:\n\n[https://www.taboola.com/help/en/articles/10660530-how-to-track-conversions-using-server-to-server-integration-s2s](https://www.taboola.com/help/en/articles/10660530-how-to-track-conversions-using-server-to-server-integration-s2s)\n\nImage pixels can get blocked by ads so looking for the more robust s2s option....",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzjynx",
+      "thread_path": "1nzjynx.json"
     },
     {
       "id": "1nzu6pw",
@@ -323,7 +371,9 @@
       "content": "Hello Community!\n\nI am running 320x480 ads in tinder and suddenly they all went from looking properly to looking badly cropped and un-visible. Does anybody know what could be happening? Perhaps an update from the app. Any help is appreciated.",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzu6pw",
+      "thread_path": "1nzu6pw.json"
     },
     {
       "id": "1nzutkn",
@@ -336,7 +386,9 @@
       "content": "Fingerprinting or something else?\n\nAre people noticing changes in ROI? How does Unity Vector compare now?\n\nhttps://preview.redd.it/p6jh69xfzjtf1.png?width=904&format=png&auto=webp&s=3e9620d5602d735d2f4d2c85d3c63adb7cd32071\n\n  \n",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzutkn",
+      "thread_path": "1nzutkn.json"
     },
     {
       "id": "1nzygl6",
@@ -349,7 +401,9 @@
       "content": "How are entertainment studios using programmatic today? I’m curious to learn what strategies they tend to employ. ",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1nzygl6",
+      "thread_path": "1nzygl6.json"
     },
     {
       "id": "1o0gavb",
@@ -362,7 +416,9 @@
       "content": "Smart move from Amazon tbf, the SSP integration important too that was very much missing from ADSP.\n\n",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o0gavb",
+      "thread_path": "1o0gavb.json"
     },
     {
       "id": "1o0nts0",
@@ -375,7 +431,9 @@
       "content": "Just found out a bunch of inventory in one of my campaigns is being bought through OpenPath,  had no idea this was happening until I pulled a report and saw a bunch of supply vendors I never selected. And apparently, there’s no way to opt out? (Or am I missing something?)\n\nFor all of Kokai’s talk about transparency, this feels kinda shady… or am I overreacting?",
       "num_comments": 65,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o0nts0",
+      "thread_path": "1o0nts0.json"
     },
     {
       "id": "1o0xo7h",
@@ -388,7 +446,9 @@
       "content": "",
       "num_comments": 11,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o0xo7h",
+      "thread_path": "1o0xo7h.json"
     },
     {
       "id": "1o15ds0",
@@ -401,7 +461,9 @@
       "content": "Hello, have a client is looking to run a campaign with desktop skins (example below). Have used Celtra before and wanted to know if there’s any other ad hosted platforms which could be an alternative option. ",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o15ds0",
+      "thread_path": "1o15ds0.json"
     },
     {
       "id": "1o1meky",
@@ -414,7 +476,9 @@
       "content": "Hi everyone, if this doesn't belong here I'll delete the post but overall I thought it could fit.\n\nThing is that recently at work (Programmatic trader manager at a well known big agency) I got myself yet again in situation with great stress, way more responsibility that I should take, and just earning 12€/hr.\n\nI'm in southern europe and salaries are low here.\n\nSo, thing is, today I snapped and got tired of being severely underpaid and overworked and having too much responsibilities for the little I get paid.\n\nI'm thinking in switching jobs in the northern part of europe, where salaries are higher. I have around 5 years of exp between programmatic and ppc. It's a work I enjoy and have fun with (but not to be underpaid, or at least its how I feel like) and why not saying it, I'm good at.\n\nMy questions for you, how do you see currently the job market on the programmatic end in europe? What salaries in northern/nordics countries are average for somebody of my experience on average? Any advice or tips when doing this job switch? I'd like to still work in programmatic, but again, I have experience on full funnel media buying.\n\nI dont mind at all taking more responsibilities, I just want to get properly paid for it.\n\nJust another guy trying to make his way in the galaxy as Jango Fett would say.\n\nThanks everyone, if you have questions for me or need more context, I'll happy provide. I'm just looking for some guidance.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o1meky",
+      "thread_path": "1o1meky.json"
     },
     {
       "id": "1o25xo3",
@@ -427,7 +491,9 @@
       "content": "",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o25xo3",
+      "thread_path": "1o25xo3.json"
     },
     {
       "id": "1o26lcw",
@@ -440,7 +506,9 @@
       "content": "I am a Programmatic Trader and was wondering are there Digital Nomad style roles, like being an Individual contributor, and having flexible hours just needing to ensure campaign is delivering it's KPIs and just attend emails/queries withing a few hours.\n\nThis would be a dream role if such a thing exists, I enjoy Trading, am fast at setting up campaigns and love using Dashboards and Excel automation to view campaigns in a standard format hence having everything on my fingertips when the need arises.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o26lcw",
+      "thread_path": "1o26lcw.json"
     },
     {
       "id": "1o2d4qv",
@@ -453,7 +521,9 @@
       "content": "Been digging into some ads.txt data from October and noticed a few shifts that might be worth discussing.\n\nAcross roughly 50k US publisher domains, there was a net gain of about 29k ads.txt lines - slower than last month but still positive. What stood out is that mid-traffic publishers (ranks 501–2000) contributed the most to that growth, adding around 14.8k new lines.\n\nOn the SSP side:\n\n* **Unruly** and Connatix saw the strongest uptick in new direct entries.\n* **Blis, TrustedStack, MobileFuse,** and **SCREENCORE** all climbed in rank among scaling and emerging players.\n* Larger “established” SSPs seem to be hitting some duplication issues - showing up both as direct and reseller connections on the same domains, which could be causing unnecessary auction overlap.\n\nSeems like the market is slowly shifting away from purely high-traffic publisher focus and into more mid/long-tail partnerships. Curious if others here are seeing similar patterns in your own data or platform side?\n\nFull dataset and breakdown are up here if anyone wants to look at the numbers: [Click here](https://databeat.io/blog/sellers-report-october-2025/?utm_source=reddit&&utm_medium=organic_social&&utm_campaign=sellers+report+october+2025)",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o2d4qv",
+      "thread_path": "1o2d4qv.json"
     },
     {
       "id": "1o2ys59",
@@ -466,7 +536,9 @@
       "content": "It's odd, if I got to creative tab all my videos are approved.\n\nIf I go to individual line items then the creative that was shown as \"approved\" is now showing as \"Approved with exceptions\". I reached out to support to see why it's saying that and they made a ticket.\n\nCurious anyone else have this issue in the past? Is there like a 3rd party tool that you can run a video thru to verify it meets all Amazon related criteria?",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o2ys59",
+      "thread_path": "1o2ys59.json"
     },
     {
       "id": "1o358eg",
@@ -479,7 +551,9 @@
       "content": "Curious if anyone here has had experience working for a major SSP? I'm trying to get into the product marketing side of ad tech and am wondering where's a good place to start as a career pivoter. I worked in retail media and interviewed for two FAANG companies but they fell through. I have an interview now for an SSP but wondering how that might impact my domain knowledge as I continue on in my career. Thanks! ",
       "num_comments": 33,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o358eg",
+      "thread_path": "1o358eg.json"
     },
     {
       "id": "1o50127",
@@ -492,7 +566,9 @@
       "content": "Which programmatic deal types (Open Auction, Private Auction, Programmatic Preferred Deals, Programmatic Guaranteed Deals) are most commonly used in each of the following scenarios:\n\n* Awareness: When the goal is to maximize reach and visibility.\n* Consideration: When the focus shifts to engaging a more qualified audience and driving interest.\n* Conversion: When the objective is to drive direct actions, such as purchases or sign-ups.\n\nWould like to know general practice.",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o50127",
+      "thread_path": "1o50127.json"
     },
     {
       "id": "1o59oxp",
@@ -505,7 +581,9 @@
       "content": "Could you rank these DSPs in terms of career, and why?\n\nIn other words, if you were to choose to work at one of these DSPs where would you choose and why (career aspects, compensation, etc.)?",
       "num_comments": 15,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o59oxp",
+      "thread_path": "1o59oxp.json"
     },
     {
       "id": "1o5ammn",
@@ -518,7 +596,9 @@
       "content": "Hello,\n\nI work as a digital marketing manager for a popular grassroots basketball company. We are looking to market our showcase tournaments by targeting AAU/travel basketball coaches on the east and west coast in particular cities at the high school/middle school level.\n\nHow could we utilize programmatic to accomplish this, and what benefits would it have over paid META/Search? \n\nWhat would the steps be to properly implement? ",
       "num_comments": 8,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o5ammn",
+      "thread_path": "1o5ammn.json"
     },
     {
       "id": "1o5kgcb",
@@ -531,7 +611,9 @@
       "content": "Hey,\nDoes anyone have any info and recommendations on brand safety on YouTube? \n\nWhat is the best option on YouTube to remain remotely safe:\n- using the likes of Channel Factory only (valid for certain buys and formats), just curating a channel list \n- using the likes of Channel factory and third partners brand safety partner (like IAS and DV) together. Would that not double tag? Would we pay additional fees for no valid reasons? \n\nThanks\n",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o5kgcb",
+      "thread_path": "1o5kgcb.json"
     },
     {
       "id": "1o5v9lk",
@@ -544,7 +626,9 @@
       "content": "Im thinking Open Web here:\n\n* DSP \n* SSP\n* Ad Exchange\n* 3rd party intermediary companies like (Captify, Azerion)\n* Data providers\n\nI think ive been having some career fatigue and im thinking about my long term / next steps after working for a walled garden, now an SSP and my first ever ad tech job being a now defunct DSP.\n\nSSPs can be interesting, but it really seems like Index Exchange, Magnite and Pumatic are the key players here.\n\nWhere do you think a strong, sustainable (profitability wise) and exciting area would within ad tech?\n\nTrade desk and Google seem like dynamic and large companies, but they're so hard to get in :(\n\nYour thoughts are welcome.",
       "num_comments": 17,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o5v9lk",
+      "thread_path": "1o5v9lk.json"
     },
     {
       "id": "1o60hvn",
@@ -557,7 +641,9 @@
       "content": "Hi there! I’ve been experimenting with a few curation platforms like Equativ and LoopMe. Do you have any other recommendations for video (rewarded), CTV, or in-app inventory?\n\nAny recommendation will be much appreciated ! ",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o60hvn",
+      "thread_path": "1o60hvn.json"
     },
     {
       "id": "1o64thl",
@@ -570,7 +656,9 @@
       "content": "Playing with different LLMs and report types from multiples DSPs. Has anyone else been able to find or create awesome AI  prompts that garner great performance insights MoM?  Curious how other traders are using this and for what and what's working at saving you time?",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o64thl",
+      "thread_path": "1o64thl.json"
     },
     {
       "id": "1o65lmr",
@@ -583,7 +671,9 @@
       "content": "Hey everyone,\nI’m looking for a company or individual who can help me add my direct and unique ads.txt lines on premium CTV and In-App publishers.\nIf this sounds interesting or doable, please DM me so we can discuss the commercials and partnership details.",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o65lmr",
+      "thread_path": "1o65lmr.json"
     },
     {
       "id": "1o6a0tr",
@@ -596,7 +686,9 @@
       "content": "Hi everyone 👋 I'm currently seeking opportunities in programmatic campaign management, whether freelance, part-time, or project-based. While I’ve had exposure to programmatic campaigns execution, I consider myself an amateur of the industry, eager to deepen my understanding of platforms, data strategies, and optimization techniques.\n\nMy background includes running displays on DV360 - trafficking on CM360 and creative was done on Google Studio. Mostly for the campaigns were for awareness only so I am just exposed on meeting impressions KPI. I have tried setting up displays on TTD, but same issue and I really believe I still have a lot of areas for me to explore. \n\nYes, I can take some online courses and do some self-learning, but I think the best way for me to really learn is to be on board of actual executions.\n\nI am not actually looking for a high-paying job, I just like to be in a space where learning is valued as much as performance with a team or mentor open to sharing insights and best practices. Thanks!",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o6a0tr",
+      "thread_path": "1o6a0tr.json"
     },
     {
       "id": "1o6dnr9",
@@ -609,7 +701,9 @@
       "content": "Has anyone made a campaign and in App targeting selected like a few apps like Hulu, HBO, Paramount, Peacock etc. \n\nWhen using \"App\" targeting did you feel like you got a better response from the campaign?",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o6dnr9",
+      "thread_path": "1o6dnr9.json"
     },
     {
       "id": "1o6nu85",
@@ -622,7 +716,9 @@
       "content": "I'mm applying for a role where programmatically bought social is a nice to have, yet ive never heard this term directly? Do they mean using advantage plus or similar, or is there a way to buy social space via programmatic?\n\n  \nThanks",
       "num_comments": 14,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o6nu85",
+      "thread_path": "1o6nu85.json"
     },
     {
       "id": "1o6tjex",
@@ -635,7 +731,9 @@
       "content": "Is better to rely on gclid or kepp on usong utms for traffic attribution in ga4?",
       "num_comments": 10,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o6tjex",
+      "thread_path": "1o6tjex.json"
     },
     {
       "id": "1o6vnc4",
@@ -648,7 +746,9 @@
       "content": "Anyone know of any 3rd Party data providers that have built audiences to target 1st Responders (Military, Police, Fire fighters, EMT's, etc.)?   This is for Canada.  \n\n\nThanks!",
       "num_comments": 14,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o6vnc4",
+      "thread_path": "1o6vnc4.json"
     },
     {
       "id": "1o7c1ks",
@@ -661,7 +761,9 @@
       "content": "Hello, as a fresher & new to Digital Marketing.. how good is the role regarding future growth, learnings & Opportunities in future. Much appreciated...  🙂",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o7c1ks",
+      "thread_path": "1o7c1ks.json"
     },
     {
       "id": "1o7ldx0",
@@ -674,7 +776,9 @@
       "content": "Hey guys,\n\nBeen working with a client who's been investing decent amounts in Connected TV video to build brand / product awareness, and we've been trying to increase weekly average frequency as a way to generate better recall, naturally sacrificing some total reach / reach %. We are exclusively on select premium publishers / partners via PMP/PD/PG deals, and on YouTube (Canada). We've tried YouTube target frequency, but we don't like the restriction in YT channel targeting with that buy type. \n\nWe are using DV360 as a DSP for the most part. Has anyone been through that thinking and have any inputs? \n\nWe use Amazon Ads for some activations around Prime Video and Twitch, and that DSP has a great target frequency function, that unfortunately DV360 doesn't have. ",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o7ldx0",
+      "thread_path": "1o7ldx0.json"
     },
     {
       "id": "1o80rrn",
@@ -687,7 +791,9 @@
       "content": "Full Article: [https://blog.sevio.com/app-monetization-strategies/](https://blog.sevio.com/app-monetization-strategies/) \\> In this guide, you’ll discover practical ways to mix and match monetization methods, with real-world examples and tips you can apply to your app.\n\n**5.7M+ apps** are competing for attention.  \nStrong apps monetize across multiple paths.  \n**Top 1%** of apps earn **80%+** of total revenue.\n\n**1. In-App Advertising:** Best for > High-traffic apps *(games, utilities, media).*  \n**2. Subscription Models:** Best for > Fitness, productivity, education, and streaming.  \n**3. Affiliate Marketing:** Best for > Travel, shopping, lifestyle, and finance apps.  \n**4. In-App Purchases:** Best for > Games, creative tools, and personalization apps.   \n**5. Premium Content and Paywalls:** Best for > Media, education, and professional knowledge apps.   \n**6. Rewarded Ads:** Best use cases > Gaming, wellness, and finance.   \n**7. Sponsorships and Native Brand Deals:** Best for > Niche apps with loyal audiences in fitness, parenting, travel, or finance.   \n**8. Ethical Data Monetization:** Best for > Navigation, weather, lifestyle.   \n**9. Hybrid Monetization Models:**\n\n* Ads + IAP (common in gaming). \n* Free tier with ads + premium subscription (productivity). \n* Paywalls + sponsorships (media).\n\n**10. How to Choose the Right Monetization Strategy for Your App**",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o80rrn",
+      "thread_path": "1o80rrn.json"
     },
     {
       "id": "1o81eaw",
@@ -700,7 +806,9 @@
       "content": "I imagine this will get some mixed opinions in the industry for sure! But the era of using Agentic Agents to simplify / automate elements of programmatic is well underway. \n\nIAB Tech Lab confirms they are not part of this also which is intriguing.",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o81eaw",
+      "thread_path": "1o81eaw.json"
     },
     {
       "id": "1o8j79p",
@@ -713,7 +821,9 @@
       "content": "Did you use some of these packages anytime? Did you find inventory here? What was your experience?\n\nI'm trying to reach inventory from some top tier publisher through the most cheapest way possible, and this could be a possibility.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o8j79p",
+      "thread_path": "1o8j79p.json"
     },
     {
       "id": "1o8kgzy",
@@ -726,7 +836,9 @@
       "content": "Hi all,\n\nWhat's the best easy (and maybe as a second option) slightly harder option for fairly niche pubs with constant north American traffic but low low compared to any major pubs.  Sites are fully unmonetized currently.\n\nDo I need prebid wrappers and all of this stuff as I just want to add standard IAB units and maybe outstream (Teadz style scrolling through articles).\n\nNorth American traffic primarily.  What will get the highest eCPM?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o8kgzy",
+      "thread_path": "1o8kgzy.json"
     },
     {
       "id": "1o90n9a",
@@ -739,7 +851,9 @@
       "content": "Running a paid display campaign for a life insurance product, and I’m seeing 64 clicks and 1,940 impressions from imginn.com — which looks like an anonymous IG story viewer site. \n\nAnyone else seen traffic from this domain? Feels like bot/clickfarm activity — thinking of adding it to my exclusion list. Thoughts?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o90n9a",
+      "thread_path": "1o90n9a.json"
     },
     {
       "id": "1o921qu",
@@ -752,7 +866,9 @@
       "content": "In a DSP, what do you call the **layer above individual campaigns**—i.e., **a container of multiple campaigns that share a common purpose**?\n\n* Do you have a preference for how a certain DSP names this layer?\n* How important is this layer in your workflow vs. just something the platform forces?\n* Do advertisers *think* in this layer, or is it mainly a platform abstraction?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o921qu",
+      "thread_path": "1o921qu.json"
     },
     {
       "id": "1o93mjj",
@@ -765,7 +881,9 @@
       "content": "Hi everyone,\n\nWell, the title is quite self explanatory. But I have this situation where within the agency we can build a case study based on the good results we got with an strategy I proposed.\n\nThing is, I have an NDA where I can't publicly talk about the agency's clients (reasonable).\n\nMy question is, this case study is going to get built either way, but it will mostly be used in pitches and so on, so it will be used exclusively by the agency.\n\nMy question is, is it a common practice to include it in my linkedin or cv for example? As long as I don't reveal sensitive information of course.\n\nIs this common practice, or have you done it in the past or plan to do it?\n\nI'd like to hear your opinions as I would like to include it in my cv/linkedin but I don't want to mess it up in the way.\n\nThanks everyone!",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o93mjj",
+      "thread_path": "1o93mjj.json"
     },
     {
       "id": "1o94hr8",
@@ -778,7 +896,9 @@
       "content": "Which (if any) DSPs or social/search platforms have the ability to serve ads on DoorDash, UberEats, etc. and do those delivery apps send audiences that can be used on other programmatic inventory?",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1o94hr8",
+      "thread_path": "1o94hr8.json"
     },
     {
       "id": "1oat4zh",
@@ -791,7 +911,9 @@
       "content": "Hi everyone,\n\n\n\nI recently got the chance to work with **DV360**, and I’m realizing it’s quite different from **Google Ads / GDN** in how campaigns are structured and reported.\n\n\n\nRight now I’m only running **standard display campaigns with optimized creatives**, just to get familiar with the platform. But I’ve already noticed something odd — I’m getting **duplicate clicks or requests from the same IP address at the same time**. Not sure if that’s expected (maybe from verification systems or retries) or if there’s something wrong with how my setup is configured.\n\n\n\nSo I wanted to ask:\n\n\n\n* What are some **common mistakes** people make when managing campaigns in DV360?\n* Has anyone else experienced **duplicate clicks or impressions** from the same user/IP?\n* Any tips on getting **cleaner and more insightful reporting**?\n\n\n\n\n\nWould appreciate any insights or best practices from people who’ve spent more time with DV360. Thanks!",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oat4zh",
+      "thread_path": "1oat4zh.json"
     },
     {
       "id": "1oatot7",
@@ -804,7 +926,9 @@
       "content": "Hey everyone,\nI’m working on some DSP bidding experiments  playing with bid shading, margin optimization, pacing, that kind of stuff.\n\nI’d like to test things offline, so I’m looking for any anonymized bidstream or auction datasets  even small samples are fine. Basically something with timestamps, floor prices, site/app IDs, auction type, winning price, maybe a few bid responses. Doesn’t have to be real-time, just realistic enough to simulate auctions and test strategies.\n\nIf anyone knows public sources, synthetic generators, or has their own sample logs (sanitized, no PII) they can share or sell  please drop a link or DM me.\nAlso curious how others usually simulate this — do you use open datasets, generate synthetic logs, or record real traffic and strip IDs?\n\nThanks in advance 🙌",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oatot7",
+      "thread_path": "1oatot7.json"
     },
     {
       "id": "1oaxf6m",
@@ -817,7 +941,9 @@
       "content": "Basically looking for a DSP to handle ad hosting + serving while I connect my own supply. The reason for trying to do it this way vs just using a normal DSP is fee minimization and control of our own data. Would Epom and beeswax cloud be the only real options here? Anything else I should look at?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oaxf6m",
+      "thread_path": "1oaxf6m.json"
     },
     {
       "id": "1oayhrr",
@@ -830,7 +956,9 @@
       "content": "Clearly, all of ad tech is moving toward agentic workflows. The next step? A shared language for the agents themselves, and that’s what AdCP (Ad Context Protocol) is trying to be. A new open protocol has been launched to define a machine-readable framework for AI agents across the ad ecosystem to exchange data, negotiate deals, and coordinate campaign actions autonomously.\n\n  \nFounding members are PubMatic, Scope3, Triton Digital, Yahoo, Optable, and Swivel (IAB Tech Lab has not been involved yet 👀).\n\nIf it works, it could clean up a lot of programmatic mess, but it also raises some big questions:  \n  \n*How realistic is adoption anytime soon?*  \n*What happens when agents “hallucinate” or make bad calls?*  \n*What’s the real incentive for major platforms to integrate with it?*  \n*Does an agent-to-agent protocol like this reduce the need for traditional ad tech layers (UIs, curation tools, yield management, audience segmentation, bid management, etc)?*  \n*And… what happens to all the people doing manual ops work?*\n\n  \nInterested to hear from others working in DSPs/SSPs. Do you see this as logical progress or just a distraction while real problems remain unsolved?",
       "num_comments": 9,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oayhrr",
+      "thread_path": "1oayhrr.json"
     },
     {
       "id": "1obiel1",
@@ -843,7 +971,9 @@
       "content": "Curious how do you get on Netflix and was it worth the premium cost?",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1obiel1",
+      "thread_path": "1obiel1.json"
     },
     {
       "id": "1obmlfa",
@@ -856,7 +986,9 @@
       "content": "I'm looking for a new role in sales. I've got multiple years of experience as an individual contributor as well as some managerial experience. Familiar with complex sales cycles and have closed $1M deals in my career. Any advice/leads is appreciated TIA!!!",
       "num_comments": 18,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1obmlfa",
+      "thread_path": "1obmlfa.json"
     },
     {
       "id": "1obvp2o",
@@ -869,7 +1001,9 @@
       "content": "Publisher targeting is possible just when you run PG though DV360 and Campaign manager or also through other ssp?\n\nfor sure Publisher can use their 1st party data into PMP but what about PG?\n\n",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1obvp2o",
+      "thread_path": "1obvp2o.json"
     },
     {
       "id": "1obvs27",
@@ -882,7 +1016,9 @@
       "content": "CTV provider like Netflix and Disney use account owner data , corrrect? so this kind of targeting might be misleading, correct?\n\nI believe that social socio demo might be reliable as navigation is through more \"personal\" devices but in front of CTV this doesn't make sense... do you agree?\n\nSocio demo is obsolete, maybe relevant just for social... also publisher 1st party sociao demo are all fake to me as comparing publisher data pool probably you'll find out that you don't have consistent profiles....",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1obvs27",
+      "thread_path": "1obvs27.json"
     },
     {
       "id": "1oce9ya",
@@ -895,7 +1031,9 @@
       "content": "Seeking a list of YouTube channels in the Holiday genre, like 500-1,000 of the most popular channels. Think Magnolia Farms, Michael Buble Christmas, Food & Wine, etc. Anyone have a credible list they’re willing to sell? ",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oce9ya",
+      "thread_path": "1oce9ya.json"
     },
     {
       "id": "1ocgbm7",
@@ -908,7 +1046,9 @@
       "content": "Anyone here has run YouTube pause ads and can confirm if DV360 provides channel-level reporting for where ads ran within Google's YouTube select network?",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ocgbm7",
+      "thread_path": "1ocgbm7.json"
     },
     {
       "id": "1octk6y",
@@ -921,7 +1061,9 @@
       "content": "New to Programmatic. When I see deals with Floors Starting at $25 CPM for decent publishers, towards end of the week and weekends I notice my fixed bid of $30 in DV360 gets me impressions.\n\nHowever I notices Monday night and so far tonight I am getting 0 impressions, assuming the price of CPM is a lot higher.\n\nIs there a tool or way to see what the current bid is \"needed\" to get impressions? I Know in google adwords when I ran text ads it would say X bid to be top of Google. etc",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1octk6y",
+      "thread_path": "1octk6y.json"
     },
     {
       "id": "1ocvmog",
@@ -934,7 +1076,9 @@
       "content": "",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ocvmog",
+      "thread_path": "1ocvmog.json"
     },
     {
       "id": "1od6fgd",
@@ -947,7 +1091,9 @@
       "content": "Do dv360 standard brand safety, keyword filters still apply in pg? \nFor example i see that neflix require an additional upcharge for brand safety: is it worth? My filters are bypassed in pg?\nWhat about other publishers?",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1od6fgd",
+      "thread_path": "1od6fgd.json"
     },
     {
       "id": "1od9841",
@@ -960,7 +1106,9 @@
       "content": "Hi has anyone put together an overview matrix on what’s currently available for DOOH by DSP and benefits? \nLooking at audience targeting, SSP integration, measurement, brand safety etc? ",
       "num_comments": 10,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1od9841",
+      "thread_path": "1od9841.json"
     },
     {
       "id": "1odaskr",
@@ -973,7 +1121,9 @@
       "content": "I want to build a reach reporting dashboard for my clients but I an unsure which reach metrics to use. Dv360 has reach and co-view reach. I am not too familiar with reach reporting on other DSPs like Trade Desk and Amazon but I think they have household reach and reach. Do they also have c-view reach? Any suggestions so that I can build one dashboard across these DSPs for my clients?",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odaskr",
+      "thread_path": "1odaskr.json"
     },
     {
       "id": "1odekxh",
@@ -986,7 +1136,9 @@
       "content": "Hi, I want to acquaint myself better with programmatic as I am a complete beginner. Is there an interface/DSP/software that will help me see how the bidding actually works? I know in theory the entire value chain but I have no clue with the actual operations on a platform. Any help will be much appreciated ",
       "num_comments": 8,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odekxh",
+      "thread_path": "1odekxh.json"
     },
     {
       "id": "1odfqpl",
@@ -999,7 +1151,9 @@
       "content": "Does anyone here know if Meta / Google / TTD / ADSP leverage frequentist or Bayesian methodology in incrementality experiments?",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odfqpl",
+      "thread_path": "1odfqpl.json"
     },
     {
       "id": "1odi6u6",
@@ -1012,7 +1166,9 @@
       "content": "Our latest US Programmatic Trends Report (September 2025) digs into Q3 data, and the signals are… mixed.\n\nCPMs are down 35% YoY, but somehow up 6% QoQ for display and +5% overall. Looks like a rebound - but dig a little deeper, and it’s really just seasonal pre-holiday spend kicking in.\n\n\\- Video CPMs flat (-2%)  \n\\- Mobile still tanking (-36% YoY)  \n\\- CTV quietly holding the line (+7% YoY)  \n\\- AdX (+10%) and OpenX (+33%) are the only SSPs showing real lift\n\nFeels like the market’s still in a holding pattern - not quite panic, but definitely cautious. Most publishers we talk to are testing new formats and leaning hard into first-party + contextual just to offset the softness.\n\nFull data + breakdowns are here if you want to see who’s trending up or flat:[ **Click here** ](https://databeat.io/blog/us-programmatic-trends-september-2025/?utm_source=linkedin&&utm_medium=organic_social&&utm_campaign=us+programmatic+trends+sept+2025)\n\nCurious - are others here still seeing Q4 optimism from buyers, or is this just a temporary blip before things tighten again?",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odi6u6",
+      "thread_path": "1odi6u6.json"
     },
     {
       "id": "1odmnnw",
@@ -1025,7 +1181,9 @@
       "content": "Hey everyone,\n\nI recently joined one of the Big 6 agencies after working at a small independent agency for about a year and a half. I’ve been in programmatic for roughly that same amount of time, and I really enjoy the work overall.\n\nSince starting here in September, though, I’ve noticed the pace is *insanely* fast. It often feels like we’re constantly chasing deadlines, always short-staffed, and everyone seems to be complaining about something. I know it’s part of the agency world, but sometimes it feels like we’re just firefighting all day.\n\nAnother thing I’ve noticed is that sometimes we’re asked to push certain products or “friendly” publishers due to internal agreements, which can make me feel a bit powerless or limited in doing what’s *actually* best for performance. I’m curious — for those of you working in big network agencies, especially in Europe, do you experience the same kind of politics or “preferred partner” pressure?\n\nAs for salary, I’m earning more than I did before, but from what I’ve heard, it’s still not particularly high compared to other roles in media. My plan is to treat this as a learning experience — kind of a training ground to grow my skills and hopefully progress in my career.\n\nWould love to hear if anyone else has gone through something similar or has advice on how to make the most out of this kind of environment.\n\nThanks!",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odmnnw",
+      "thread_path": "1odmnnw.json"
     },
     {
       "id": "1odn5tf",
@@ -1038,7 +1196,9 @@
       "content": "How does FreeWheel compare to other SSPs? ",
       "num_comments": 11,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1odn5tf",
+      "thread_path": "1odn5tf.json"
     },
     {
       "id": "1oe20io",
@@ -1051,7 +1211,9 @@
       "content": "Any advice I just want to try it out...\n\nLike If I am trying to target a large county in New Jersey, USA. Can i just tell Youtube form that I am targeting USA then when attached to Line Item in DV360 set targetting to the specific area \n\nOR \n\ndo they require me to tell them exactly what all my targeting info is to calculate the quote for the deal?",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oe20io",
+      "thread_path": "1oe20io.json"
     },
     {
       "id": "1oebaqq",
@@ -1064,7 +1226,9 @@
       "content": "I'm consulting their team, but I thought the internet might have an opinion too. I'm setting up some campaigns using NGPVAN voter file data uploaded to Stackadapt. I'm targeting specific people in a specific locality in Minnesota, and the list I have is active voter registrations with full names, full addresses, and phone numbers. This has been reliable data in both other ad platforms like Meta as well as off-line.\n\nWhen I upload to Stackadapt, however, it shows people as being all over the country (and the world) to an extent that VPNs or people moving can't explain. Only about half of the matched audience is showing as actually in the state of MN, let alone the municipality I'm interested in. When I use the forecasting tool and target only that municipality, only a fraction of those people are in the city the data says they should be. I tried running a campaign to see if was just a glitch with these previewing tools, but the results have been a slow trickle which indicates to me that the large majority people who are on my list are not getting targeted.\n\nAny idea what is going wrong? I've double checked the file requirements, compared my uploaded list to the data in NGPVAN to see if things somehow got jumbled, made sure my bids are competitive, but no luck so far.\n\n[Stackadapt's geo placements for my all-MN audience.](https://preview.redd.it/zp4cjrsulwwf1.png?width=1526&format=png&auto=webp&s=10628c97c7948fd1011c60a2bf55d641ad7ba595)\n\n",
       "num_comments": 11,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oebaqq",
+      "thread_path": "1oebaqq.json"
     },
     {
       "id": "1oedhj0",
@@ -1077,7 +1241,9 @@
       "content": "\\- Apple used ATT to kneecap Meta and Google while quietly building its own ad business.  \n\\- Google tried to make Privacy Sandbox sound like a noble effort to protect users… but really, it was just about tightening control.  \n\\- The industry burned billions preparing for a “cookieless future” that was never really about cookies.  \n\\- Data clean rooms are losing relevance: too expensive, too limited, and not worth the effort now that the pressure’s off.  \n\\- Alt IDs that were once “the future of targeting” are being downgraded to “nice-to-have” status.  \n\\- Marketers are suddenly free to be way more aggressive with data again.  \n\\- Regulators might chill for a bit, but once someone screws up (and they will), we’ll see another wave of panic and new restrictions.",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oedhj0",
+      "thread_path": "1oedhj0.json"
     },
     {
       "id": "1oex66d",
@@ -1090,7 +1256,9 @@
       "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n* **Omnicom absorbs IPG costs** - $99M in deal expenses hit Q3 earnings, merger closing next month to create \"world's leading marketing company\"\n* **WPP goes self-service** - Launches AI platform targeting smaller clients, first major holding company to offer DIY campaign tools\n* **OpenAI launches browser** - ChatGPT Atlas for macOS threatens publisher traffic with integrated AI summaries\n\n**Quick Hits:**\n\n* Samsung integrates Perplexity AI into smart TVs alongside Microsoft Copilot\n* Google breaks tradition: Offering post-auction discounts to agencies spending $50M+ on AdX amid antitrust pressure\n* Comcast opens linear TV inventory to real-time programmatic bidding via FreeWheel\n* AppLovin faces SEC investigation over user tracking allegations\n* AI search referrals under 1% of publisher traffic with near-zero conversions\n* VML (WPP) wins Pizza Hut global creative from Deutsch (IPG)\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-10242025)\n\nWhat's your take on AI moving into browsers and TVs - game changer or overhyped?",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oex66d",
+      "thread_path": "1oex66d.json"
     },
     {
       "id": "1oexhj0",
@@ -1103,7 +1271,9 @@
       "content": "I was quoted $6-$7 CPM  for Skippable Ads - YouTube Instant deal \"Guaranteed\"included Day parting, includes one county in New Jersey. Select Age Group and only a few categories for Placement. Also excludes cellphones.\n\nI know for me to go directly YouTube via Google Adwords CPM usually $15-$20.",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oexhj0",
+      "thread_path": "1oexhj0.json"
     },
     {
       "id": "1of1t9f",
@@ -1116,7 +1286,9 @@
       "content": "WPP launched Open Pro, basically a self-serve version of its WPP Open platform. It’s designed to let marketers plan campaigns, create branded content, and launch ads, all without going through an agency.\n\nAccording to their announcement, Open Pro has three parts:\n\n* Plan: Use AI trained on WPP’s data to build campaign strategies and audience insights.\n* Create: Auto-generate brand-safe creative using tools like Google’s Veo, OpenAI’s Sora, and Adobe Firefly \n* Publish: Either push content straight to ad platforms or route through WPP’s Open Media Studio.\n\nPricing is usage-based after an initial access fee, so it’s structured more like a software platform than an agency engagement.\n\n  \nWhen WPP hired Cindy Rose from Microsoft earlier this year, it signaled a shift from services to platforms. Rose helped lead Microsoft’s transition from a product company to a full-fledged platform business, and it seems she’s now trying to apply the same strategy at WPP.\n\nWPP Open is starting to look like Salesforce for advertising:\n\n* Smaller brands and in-house teams can pay for access to WPP’s AI tools.\n* Agencies might license their data clean room or creative automation features.\n* WPP stops competing for smaller clients and starts extracting value from the entire ad supply chain.\n\nThis could mark a major turning point for holding companies. Instead of acting as service providers, they’re evolving into infrastructure that others in the industry depend on.\n\nIn some ways, it’s a new approach, but also a familiar one. We’ve seen similar attempts before, back when trading desks first appeared in the early 2010s.\n\nSo I’ve got a few questions:  \n\\- Could WPP really pull off a Microsoft-style transformation?  \n\\- Will it eat into the potential income of smaller independent agencies?",
       "num_comments": 13,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1of1t9f",
+      "thread_path": "1of1t9f.json"
     },
     {
       "id": "1of2shy",
@@ -1129,7 +1301,9 @@
       "content": "",
       "num_comments": 23,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1of2shy",
+      "thread_path": "1of2shy.json"
     },
     {
       "id": "1ogeo7h",
@@ -1142,7 +1316,9 @@
       "content": "Hello everyone, I'll keep it short.\n\nBeen a little over an year in this space, started as an complete fresher in one of the big name's in the field. \nI genuinely love advertising/marketing as a concept but this agency life is really meh. And since I'm based in India this night shifts are messing me up and I tried to look but realised programmatic as a field is super niche and mostly done in big agencies(mostly night)\n\nMy question is, what kind of trajectory is there if I continue in this field or just like in tech there a product side, is there such a concept here? I honestly don't see this agency life in the long run. So any advice on where to look into or what I can do for the long run? Or any advice in general.\n\nTLDR: not liking the agency life, need advice on what alternate paths I can follow for the long run.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ogeo7h",
+      "thread_path": "1ogeo7h.json"
     },
     {
       "id": "1ogj4br",
@@ -1155,7 +1331,9 @@
       "content": "The other day I kept modifying criteria and I was able to get CPM as low as $7. Now that $7 campaign ended trying to copy it and now it says $33 CPM. Anyone found a combination that works often to get the instant quote to show a lower CPM?\n\nhttps://preview.redd.it/qy2ply407gxf1.png?width=796&format=png&auto=webp&s=2f83c4a2c5723d02c6b776a78fa9e338d1860acc\n\n",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ogj4br",
+      "thread_path": "1ogj4br.json"
     },
     {
       "id": "1ogkffg",
@@ -1168,7 +1346,9 @@
       "content": "Does anyone have an idea on what the configuration requirement would be to link VOD activity on DV360 to record OzTAM session IDs for VOZ streaming Australia? How does it differ from the usual VOD set-ups, it's related to the integration of DV360 with VOZ streaming. \n\n",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ogkffg",
+      "thread_path": "1ogkffg.json"
     },
     {
       "id": "1ogl93u",
@@ -1181,7 +1361,9 @@
       "content": "Hi all,\n\nCurrently working at Amazon in a Campaign Manager role. I also set up basic campaigns on ADSP. This is my first job in Advertising, and I want to grow more in this field, specifically to become a programmatic specialist. The aim is to gain more tool knowledge and technical skills (Advanced Excel, SQL) to get a better job. I am seeking advice on the following:\n\n\\-How do I learn other DSPs like TTD, DV360?  \n\\--What exactly do I learn here? Campaign set up? Optimization?  \n\\--How do I learn this, because I cannot find any resources online that teach how to optimize a DSP campaign etc? Are there any resources that you recommend?  \n\\--Any more DSPs I should be learning?\n\n\\-What are technical skills you recommend learning? (Python, SQL, Excel)\n\n\\-Any AdTech tools that you recommend learning?\n\nI am seeking a mentor here as well. I would love to connect with you!\n\nThanks for your time.",
       "num_comments": 5,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ogl93u",
+      "thread_path": "1ogl93u.json"
     },
     {
       "id": "1ognmtz",
@@ -1194,7 +1376,9 @@
       "content": "Now sure how this is possible. But i selected a large area and select 1st ad to play. Over 5 day period\n\nIf i up budget to $300. They can get me 192k impressions for 15 second non-skip\n\nhttps://preview.redd.it/qi9owuyh6hxf1.png?width=754&format=png&auto=webp&s=827c617fb9ed3014430fc022d24a0159e192e327\n\n",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ognmtz",
+      "thread_path": "1ognmtz.json"
     },
     {
       "id": "1ogqq94",
@@ -1207,7 +1391,9 @@
       "content": "Heard Amazon Ads went through layoffs. I’m in the interview process for them, is this not a good time to move over?",
       "num_comments": 20,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ogqq94",
+      "thread_path": "1ogqq94.json"
     },
     {
       "id": "1oh8nkr",
@@ -1220,7 +1406,9 @@
       "content": "Hello fellow programmatic spartans, \nI need your help!\n\nRecently I came across this job post(I've pasted it below) and I'm instantly hooked with it. Though I work on the ad-ops side of the business, I'm curious and interested to work more on the technical side, and I believe this is my best opportunity.\n\nI'm looking for any advice from the people who have been on the technical side of things to help me understand: \n1) what would your day to day look like.\n2) what are the things that an interviewer would expect me to know about.\n3) I have my website with me. So I wonder how I can start working on implementing this website with oRTB and other SSPs (PubMatic, BidSwitch, Appnexus, Rubicon, Pulsepoint, Freewheel). \n4) I assume integrations are most commonly done by the developers, if that's the case, what this role expects me to do. I've searched a lot, but I haven't been able to wrap my head around the end to end approach that someone in the integration role would do. \n\nAny help would do wonders!\n\n\nDescription:\n•Own supply integrations via Header Bidding, ORTB protocol, and RTB/PMP. • Lead SSP onboarding, managing endpoints, tags, and feeds with accuracy. \n• Manage DSP onboarding, ensuring compatibility and smooth daily operations (PubMatic, BidSwitch, etc.).\n• Oversee end-to-end ad operations and publisher account management across CTV, Video, Display, and In-App.\n• Audit publisher integrations to ensure data integrity, fraud detection, fill rates, and error resolution.\n\nThanks for your time:)",
       "num_comments": 4,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oh8nkr",
+      "thread_path": "1oh8nkr.json"
     },
     {
       "id": "1oh9l3w",
@@ -1233,7 +1421,9 @@
       "content": "Hi everyone,\n\nI have recently completed DV360 course and I have hands on experience & I'm looking for a new job.\n\nI have 4 years of total experience in digital marketing.\n\nAny support/guidance is appreciated 🙏",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oh9l3w",
+      "thread_path": "1oh9l3w.json"
     },
     {
       "id": "1oha0cl",
@@ -1246,7 +1436,9 @@
       "content": "Hey everyone,\n\nI’m running a campaign in DV360 and seeing something that doesn’t quite make sense.  \nThere’s a very high number of post-view conversions and almost no post-click conversions, even though the gclid is being passed correctly — I’ve tested it manually and the click-based conversions register fine.\n\nCTR is quite low across all line items, but what really confuses me is that the best-performing creatives are retargeting ones — shown only to users who already added a product to their cart. These ads include discounts of up to 60% that can only be accessed through the ad URL.\n\nAs a user, I would normally click an ad like that (if only to not lose the discount URL), so it’s odd to see people supposedly converting without clicking.\n\nI was looking at the “Time To Conversion” metric to get a sense of the delay between the impression and the conversion, but the UI doesn’t specify any units — I can’t tell if it’s in days, hours, or something else, and the documentation isn’t clear either.\n\nHas anyone experienced similar behavior? Is this kind of post-view inflation normal for DV360 retargeting?  \nAlso, what’s the best way to confirm that the impressions truly come from DV360 and not from another channel that might be firing the same Floodlight tag?\n\nThanks in advance for any insights.\n\n\n\n",
       "num_comments": 17,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oha0cl",
+      "thread_path": "1oha0cl.json"
     },
     {
       "id": "1ohsxhj",
@@ -1259,7 +1451,9 @@
       "content": "If you didn’t catch the news last week, AWS is taking down the barriers to entry to build a DSP big time. No longer do you need proprietary hardware and software colocated in the same server location, just call up Papa Bezos and spin up some cloud resources! \n\nWhat this means is anyone with the software talent can get an ad tech company up and running in no time at all. \n\nSo now that you can make the DSP that specializes in Anime Sub-genres, what’s stopping you fools?! ",
       "num_comments": 21,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ohsxhj",
+      "thread_path": "1ohsxhj.json"
     },
     {
       "id": "1ohxyn7",
@@ -1272,7 +1466,9 @@
       "content": "",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ohxyn7",
+      "thread_path": "1ohxyn7.json"
     },
     {
       "id": "1oi0hn2",
@@ -1285,7 +1481,9 @@
       "content": "Hey everyone,  \nI’ve been working in programmatic advertising for about 2 years, mainly on DV360, and I’m currently preparing for upcoming programmatic job interviews.\n\nI found  this snigdha dey cource.  but before I buy it, I wanted to ask — is it actually worth it? Or are there any better/free resources you’d recommend?\n\nAlso, for interview prep, what **key areas** should I focus on — like Excel skills, campaign optimization, troubleshooting, data analysis, or reporting?\n\nWould really appreciate any suggestions or insights from this community.",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oi0hn2",
+      "thread_path": "1oi0hn2.json"
     },
     {
       "id": "1oia662",
@@ -1298,7 +1496,9 @@
       "content": "Curious to see how other Programmatic buyers are using agents to simplify processes that take up a lot of time. I am playing around with Zapier to alert me of abnormal swings in performance/pacing but would love to hear what others are doing with this tech.",
       "num_comments": 3,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oia662",
+      "thread_path": "1oia662.json"
     },
     {
       "id": "1oib3r2",
@@ -1311,7 +1511,9 @@
       "content": "Hey everyone,\n\nI've recently launched a Travel ads campaign in META with a connected catalog for a client of mine. My catalog has over 800 destinations and I am able to see the impressions, spend and clicks per destination using the Product ID breakdown (which is a miracle on its own, since this is my first Travel ads campaign and I was scared shitless 🥹).\n\nHowever, the results and cost per result metrics remain empty. **I am seeing the total for both**, but I cannot see the results per Product ID.\n\nHas anyone had this issue? Do you know how to fix it? Is it fixable?\n\nAfter doing some digging in Commerce Manager, I noticed the Events tab for my catalog and saw that my client's pixel is not connected. Would that be the cause? I'll try to upload some screen caps to show you what I mean.\n\nThanks everyone and let me know if you need more info!",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oib3r2",
+      "thread_path": "1oib3r2.json"
     },
     {
       "id": "1oiijlg",
@@ -1324,7 +1526,9 @@
       "content": "As agency employee when you setup a Pg what do you send to Publisher? any contract with T&C? or just mails with terms and then all is regulated throught platforms?\n\n",
       "num_comments": 14,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oiijlg",
+      "thread_path": "1oiijlg.json"
     },
     {
       "id": "1oimqiz",
@@ -1337,7 +1541,9 @@
       "content": "FreeWheel claims to have sent me a deal but in My Inventory not showing. Google had to submit a ticket to their DV360 team to see where the deal is. Curious is there a platform issue today?",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oimqiz",
+      "thread_path": "1oimqiz.json"
     },
     {
       "id": "1oiob8s",
@@ -1350,7 +1556,9 @@
       "content": "Hi community, \n\nSince April, was running 2 simultaneous campaigns for a streaming platform client that offers subscription to stream NHL and MLB. \n\nThe landing page and checkout flow is the same for both campaigns; creatives in each campaign are sport-specific.\n\nOn a floodlight level, i track the type of membership purchased via custom variables, but there is no data piece to indicate whether the subscription was purchased to watch hockey or baseball specifically. \n\nThis past spring, NHL campaign (Stanley cup finals) had much larger budgets and much higher paid& organic volume of subscriptions. \n\nWhile Hockey was on, the MLB campaign was attributing conversions as well through retargeting, contextual sports targeting, affinity segments tactics. I imagine that for DV360, it could be that theres not much difference between baseball and hockey fans. \n\nCPA in MLB campaign was great until the day after the Stanley Cup was over. subscriptions idried up the day after - and for the next 3 months I could not make the campaign perform. Tactics that worked well while hockey was on, had a 10x increase in CPA. \n\nIn my opinion, the volume of Hockey-skewed data messed up the bidder in the Baseball campaign since: \n\n* large volume hockey visitors converted and got attributed to baseball campaign via retargeting/broad sports targeting \n\n* algos/bidder kept intaking audience and placement signals that worked while Hockey was on and trying to find users similar to those that converted in April-May. \n\n\n\nSo, my questions are: \n\n* how do you think i can go about minimizing cross attribution given that the client wont build separate landing pages per sport and 90% of conversions are post-view\n\n* how do you feel about my theory of feeding wrong data signals to the bidder for 3 months, which made it basically impossible to recover and find a new audience (baseball audience) after? \n\n\nCurious to hear your answers! ",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oiob8s",
+      "thread_path": "1oiob8s.json"
     },
     {
       "id": "1oj8sk8",
@@ -1363,7 +1571,9 @@
       "content": "I have been in the agency life my whole career working for two of the bigger agencies. Worked my way up to my now current role Associate Director on Programmatic/Digital investment team. \n\nReally wondering if there is anything beyond an agency job for this career path? I like being hands on keys and managing those teams and want to avoid going into a sales job, although I’m not sure that’s entirely possible at this point. \n\nHas anyone made a move away from agency and that wasn’t just a sales job?",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1oj8sk8",
+      "thread_path": "1oj8sk8.json"
     },
     {
       "id": "1ojc8qz",
@@ -1376,7 +1586,9 @@
       "content": "In some ways, Amazon is playing a dirty but brilliant game.\n\nOn one side, Amazon’s offering agencies free head-to-head tests pitting its DSP directly against competitors like The Trade Desk, literally covering all costs (inventory, tech, measurement, etc.) for 4–6 week campaigns.\n\nIt’s an aggressive move to prove Amazon’s DSP outperforms others. The Trade Desk’s CMO Ian Colley called the tests “unfair,” arguing that Amazon performs well mainly because it directs spend toward its own properties rather than the open web.\n\nBut on the other side of the battlefield, AWS is getting defensive.  \nAs Google Cloud has been offering incentives and compute credits to lure ad tech companies over, AWS risked losing one of its most data-heavy verticals.\n\nNow it’s countering with RTB Fabric, a new real-time bidding infrastructure built inside AWS.\n\nIf two partners are on AWS within the same data center, they can communicate in microseconds instead of milliseconds, drastically cutting latency and networking costs (reportedly by up to 80%).\n\nThis aligns with AWS’s broader philosophy of “plug-and-play” openness, modularity, decentralization, and interoperability.\n\nRTB Fabric isn’t an open marketplace by itself but it fits right into that infrastructure mindset, giving ad tech firms more flexibility and control than Google’s more closed, vertically integrated ecosystem.\n\nThat last point matters.  \nGoogle is no longer seen as a “safe” infrastructure partner, not just because of competition, but due to mounting antitrust scrutiny. Many ad tech firms are understandably hesitant to run their operations on the same stack owned by a company being investigated for ad market dominance.\n\nAWS, by contrast, can credibly present itself as a more neutral infrastructure provider. even if everyone knows Amazon has its own motives.\n\nAnd there’s another layer:  \nas AI takes over ad tech, infrastructure needs will explode. The compute, data processing, and real-time modeling required for AI-driven ad optimization all funnel directly into AWS’s core business. That’s a built-in growth opportunity:  every AI advancement in ad tech drives more demand for AWS infrastructure.\n\nSo wdyt, is Amazon playing this right?",
       "num_comments": 13,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ojc8qz",
+      "thread_path": "1ojc8qz.json"
     },
     {
       "id": "1ojd08v",
@@ -1389,7 +1601,9 @@
       "content": "John Nitti, X’s head of advertising and revenue operations, has left the company after just 10 months. His departure adds to a string of recent high-level exits, including the CFO and several other executives. Many within the company have reportedly grown frustrated with Elon Musk’s abrupt strategy changes and unilateral decision-making, such as sudden policy shifts made without consulting the team. Apparently, “innovation” at X now includes a built-in revolving door.",
       "num_comments": 1,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ojd08v",
+      "thread_path": "1ojd08v.json"
     },
     {
       "id": "1ojlq6g",
@@ -1402,7 +1616,9 @@
       "content": "Sometimes I think the hardest part it is explaining what the hell I actually do.\n\nEvery time I try to explain what I do, I sound like I’m pitching an alien concept.  \n\n“You build scripts for ad platforms?”  \n\n“Sort of… but also reporting automation, pacing logic, QA alerts…”  \n\nI feel the same way when talking to new friends. Explaining my job feels exactly like conducting an interview. I tend to over-talk and hope they'll understand and agree. Dear Lord, I can automate campaigns, but I can't automate the process of others understanding me.\n\nRecently, I've been trying to start a new side hustle as a remote freelancer. Working with companies from different cultural backgrounds and fields makes it even more difficult. I've tried using tools to help me express myself more clearly. For example, I use Claude Code to clean up messy logic, Notion AI to generate summaries of what I say, and Beyz interview helper to explain my work, avoiding sounding like a jumble of technical stack information. I even had GPT do the translation... (exaggeration) In short, translating our actual work into plain, understandable language is really difficult.\n\nMy communication skills aren't great, so I always feel like half of this job is about learning how to explain things. If anyone has good analogies to share, I'll diligently study the art of speaking.",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ojlq6g",
+      "thread_path": "1ojlq6g.json"
     },
     {
       "id": "1ok0hop",
@@ -1415,7 +1631,9 @@
       "content": "Has anyone having problems tracking visits on Adobe Analytics from yesterday?",
       "num_comments": 0,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ok0hop",
+      "thread_path": "1ok0hop.json"
     },
     {
       "id": "1ok0m5u",
@@ -1428,7 +1646,9 @@
       "content": "",
       "num_comments": 2,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1ok0m5u",
+      "thread_path": "1ok0m5u.json"
     },
     {
       "id": "1okcwqh",
@@ -1441,7 +1661,9 @@
       "content": "We’ve recently had a client constantly asking for access to a DV360 seat, so we’re exploring the possibility of obtaining our own so we can offer this to a few clients. \n\nAre there any honest resellers here who could help or share some guidance? \n\n",
       "num_comments": 20,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1okcwqh",
+      "thread_path": "1okcwqh.json"
     },
     {
       "id": "1okgkk3",
@@ -1454,7 +1676,9 @@
       "content": "CAASie for DOOH shows you locations and examples of images of what the display looks like.\n\nIs there any tools out there that is that in-depth?  \n",
       "num_comments": 6,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1okgkk3",
+      "thread_path": "1okgkk3.json"
     },
     {
       "id": "1okud89",
@@ -1467,7 +1691,9 @@
       "content": "Hi programmatic sub, I’m new here but wanted to ask a question regarding The Trade Desk. \n\nHas anyone here interviewed for The Trade Desk, specifically for their Client Service Associate program or for an account coordinator role? Just wrapped up a round one screening with a recruiter and the next steps are a data presentation with a Q & A after. Apparently they give us a client, some data from said client, and then we present about it?? Idk, just trying to prepare myself!\n\nBasically just looking for some insight on if anyone has gone through this process ",
       "num_comments": 7,
       "over_18": false,
-      "link_flair_text": null
+      "link_flair_text": null,
+      "thread_id": "1okud89",
+      "thread_path": "1okud89.json"
     }
   ]
 }
