@@ -1,59 +1,105 @@
 # .github/workflows/fetch_append_r_programmatic.py
-# Appends new r/programmatic posts (with full comments) to an existing rolling JSON DB.
-# Expects env vars: REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
-# Writes in repo root: programmatic_complete_for_llm.json
+# Appends new r/programmatic posts (with full comments) to a rolling JSON DB.
+# Robust against a corrupted/partially edited existing DB: tries to repair, else backs it up and continues.
+# Requires env: REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
+# Writes: programmatic_complete_for_llm.json in repo root
 
-import os
-import json
-import time
-import datetime
+import os, json, datetime, re
 from pathlib import Path
 from typing import Dict, Any, List
-
 import praw
 
-
-# ---------- Config ----------
 SUBREDDIT = "programmatic"
 OUTPUT_PATH = Path("programmatic_complete_for_llm.json")
-MAX_NEW_TO_PULL = 1000          # safety cap per run
-FETCH_COMMENTS = True           # set False to skip comment bodies for speed
-USER_AGENT = "reddit-r-programmatic-archiver/1.0 (by u/yourbot)"
+MAX_NEW_TO_PULL = 1000
+FETCH_COMMENTS = True
+USER_AGENT = "reddit-r-programmatic-archiver/1.1 (by u/yourbot)"
 
-
-# ---------- Helpers ----------
 def now_iso() -> str:
     return datetime.datetime.now(datetime.timezone.utc).isoformat()
 
+def empty_db() -> Dict[str, Any]:
+    return {
+        "metadata": {
+            "source": f"Reddit r/{SUBREDDIT}",
+            "scrape_date": now_iso(),
+            "total_posts": 0,
+            "total_comments": 0
+        },
+        "discussions": []
+    }
+
+# --- tolerant JSON loader helpers ---
+def _strip_bom(s: str) -> str:
+    return s.lstrip("\ufeff")
+
+def _remove_merge_markers(s: str) -> str:
+    # remove any Git conflict blocks
+    return re.sub(r"<<<<<<<.*?>>>>>>>\s*", "", s, flags=re.DOTALL)
+
+def _remove_inline_comments(s: str) -> str:
+    # remove // comments (naive, line-based) – safe enough for rescue attempts
+    s = re.sub(r"^\s*//.*?$", "", s, flags=re.MULTILINE)
+    # remove /* ... */ blocks (naive)
+    s = re.sub(r"/\*.*?\*/", "", s, flags=re.DOTALL)
+    return s
+
+def _strip_to_outer_braces(s: str) -> str:
+    # keep from first { to last }
+    start = s.find("{")
+    end = s.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        return s[start:end+1]
+    return s
+
+def _fix_trailing_commas(s: str) -> str:
+    # remove trailing commas before } or ]
+    return re.sub(r",\s*([}\]])", r"\1", s)
+
+def try_parse_relaxed(txt: str):
+    candidates = []
+    s = _strip_bom(txt)
+    candidates.append(s)
+    s = _remove_merge_markers(s)
+    candidates.append(s)
+    s = _remove_inline_comments(s)
+    candidates.append(s)
+    s = _strip_to_outer_braces(s)
+    candidates.append(s)
+    s = _fix_trailing_commas(s)
+    candidates.append(s)
+    # try each progressive transform
+    last_err = None
+    for c in candidates:
+        try:
+            return json.loads(c)
+        except Exception as e:
+            last_err = e
+    raise last_err if last_err else ValueError("Unknown JSON parse error")
 
 def load_db(path: Path) -> Dict[str, Any]:
-    """
-    Supports two shapes:
-      A) {"metadata": {...}, "discussions": [post, ...]}
-      B) {"subreddit": "...", "items": [post, ...], "count": N}  (older simple schema)
-    Normalizes to {"metadata": {...}, "discussions": [...]}
-    """
     if not path.exists():
-        return {
-            "metadata": {
-                "source": f"Reddit r/{SUBREDDIT}",
-                "scrape_date": now_iso(),
-                "total_posts": 0,
-                "total_comments": 0
-            },
-            "discussions": []
-        }
+        return empty_db()
+    raw = path.read_text(encoding="utf-8", errors="replace")
+    try:
+        data = json.loads(raw)
+    except Exception:
+        # attempt relaxed repair
+        try:
+            print("[warn] DB JSON invalid. Attempting light repair…")
+            data = try_parse_relaxed(raw)
+            print("[warn] Repair succeeded.")
+        except Exception as e:
+            # back up and start fresh so the run continues
+            backup = path.with_suffix(".corrupt.backup.json")
+            backup.write_text(raw, encoding="utf-8", errors="ignore")
+            print(f"[error] DB is not valid JSON (saved backup to {backup.name}). Starting from empty DB. Error: {e}")
+            return empty_db()
 
-    with path.open("r", encoding="utf-8") as f:
-        data = json.load(f)
-
+    # normalize shape
     if "discussions" in data:
-        # Already in the preferred shape
-        if "metadata" not in data:
-            data["metadata"] = {"source": f"Reddit r/{SUBREDDIT}"}
+        data.setdefault("metadata", {"source": f"Reddit r/{SUBREDDIT}"})
         return data
-
-    # Simple schema normalization
     discussions = data.get("items", [])
     meta = {
         "source": f"Reddit r/{data.get('subreddit', SUBREDDIT)}",
@@ -63,7 +109,6 @@ def load_db(path: Path) -> Dict[str, Any]:
     }
     return {"metadata": meta, "discussions": discussions}
 
-
 def save_db(path: Path, data: Dict[str, Any]) -> None:
     total_posts = len(data.get("discussions", []))
     total_comments = sum(len(d.get("comments", [])) for d in data.get("discussions", []))
@@ -72,22 +117,15 @@ def save_db(path: Path, data: Dict[str, Any]) -> None:
     data["metadata"]["scrape_date"] = now_iso()
     data["metadata"]["total_posts"] = total_posts
     data["metadata"]["total_comments"] = total_comments
-
     tmp = path.with_suffix(".tmp.json")
-    with tmp.open("w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     tmp.replace(path)
 
-
 def post_key_from_existing(d: Dict[str, Any]) -> str:
-    # Stable key for dedupe across schema variations
     pid = d.get("id")
     if pid:
         return f"id:{pid}"
-    url = d.get("url", "")
-    ts = d.get("created_utc", "")
-    return f"url:{url}|ts:{ts}"
-
+    return f"url:{d.get('url','')}|ts:{d.get('created_utc','')}"
 
 def serialize_submission(submission) -> Dict[str, Any]:
     created = float(getattr(submission, "created_utc", 0.0) or 0.0)
@@ -104,7 +142,6 @@ def serialize_submission(submission) -> Dict[str, Any]:
         "over_18": bool(getattr(submission, "over_18", False)),
         "link_flair_text": getattr(submission, "link_flair_text", None),
     }
-
     if FETCH_COMMENTS:
         try:
             submission.comments.replace_more(limit=0)
@@ -118,33 +155,24 @@ def serialize_submission(submission) -> Dict[str, Any]:
                 })
             record["comments"] = comments
         except Exception as e:
-            print(f"Comment fetch error on {submission.id}: {e}")
+            print(f"[warn] Comment fetch error on {submission.id}: {e}")
             record["comments"] = []
     else:
         record["comments"] = []
-
     return record
 
-
-# ---------- Main ----------
 def main():
     cid = os.environ.get("REDDIT_CLIENT_ID")
     csec = os.environ.get("REDDIT_CLIENT_SECRET")
     if not cid or not csec:
         raise SystemExit("Missing REDDIT_CLIENT_ID or REDDIT_CLIENT_SECRET")
 
-    reddit = praw.Reddit(
-        client_id=cid,
-        client_secret=csec,
-        user_agent=USER_AGENT
-    )
+    reddit = praw.Reddit(client_id=cid, client_secret=csec, user_agent=USER_AGENT)
     reddit.read_only = True
 
-    # Load current DB
     db = load_db(OUTPUT_PATH)
     discussions: List[Dict[str, Any]] = db.get("discussions", [])
 
-    # Build dedupe set and find cutoff timestamp
     seen = set(post_key_from_existing(d) for d in discussions)
     cutoff = 0.0
     for d in discussions:
@@ -160,42 +188,31 @@ def main():
         print(f"Cutoff created_utc: {cutoff} ({datetime.datetime.utcfromtimestamp(cutoff)})")
 
     sub = reddit.subreddit(SUBREDDIT)
-
     new_items: List[Dict[str, Any]] = []
     fetched = 0
 
-    # Pull newest first and stop when we reach or pass the cutoff
     for submission in sub.new(limit=MAX_NEW_TO_PULL):
         fetched += 1
         created = float(getattr(submission, "created_utc", 0.0) or 0.0)
-
         if cutoff and created <= cutoff:
-            # We reached content that is not newer than what we already have
             break
-
         key = f"id:{submission.id}" if submission.id else f"url:{submission.url}|ts:{created}"
         if key in seen:
             continue
-
         rec = serialize_submission(submission)
         new_items.append(rec)
         seen.add(key)
-
-        # Progress log on larger pulls
         if len(new_items) % 50 == 0:
             print(f"...collected {len(new_items)} new posts so far (fetched {fetched})")
 
     if not new_items:
         print(f"No new items found. Fetched {fetched} posts from r/{SUBREDDIT}.")
-        # Still bump metadata scrape_date so you can see the run occurred
-        save_db(OUTPUT_PATH, db)
+        save_db(OUTPUT_PATH, db)   # update metadata scrape_date so you can see the run occurred
         return
 
-    # Merge and sort by created_utc ascending for consistent history
     discussions.extend(new_items)
     discussions.sort(key=lambda d: float(d.get("created_utc", 0.0) or 0.0))
     db["discussions"] = discussions
-
     save_db(OUTPUT_PATH, db)
 
     print(f"Added {len(new_items)} new posts. Total now {len(discussions)}.")
@@ -204,12 +221,10 @@ def main():
     total_comments = sum(len(d.get("comments", [])) for d in discussions)
     print(f"Total comments stored: {total_comments}")
 
-
 if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        # Fail loudly so the workflow shows red when something breaks
         import traceback
         traceback.print_exc()
         raise
