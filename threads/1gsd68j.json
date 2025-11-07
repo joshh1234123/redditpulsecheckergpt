@@ -1,0 +1,81 @@
+{
+  "id": "1gsd68j",
+  "title": "Good DSPs to Partner with",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gsd68j/good_dsps_to_partner_with/",
+  "created_utc": 1731723503.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "What is it that you're actually looking to provide the DSPs? Why not speak to SSPs with existing DSP integrations",
+      "score": 2,
+      "created_utc": 1731754720.0
+    },
+    {
+      "author": "Far-Possession-7314",
+      "body": "DM",
+      "score": 1,
+      "created_utc": 1731747210.0
+    },
+    {
+      "author": "datablocksinc",
+      "body": "Please send me a DM with your site list.  We have our own DSP with direct advertisers.",
+      "score": 1,
+      "created_utc": 1731779775.0
+    },
+    {
+      "author": "Snook_fox",
+      "body": "The DSP actually is a very important consideration (trust me DSPs DO NOT perform the same on cost metrics, you can sometime have 2-5 fold differences). \n\nIt depends a lot on the format you want to run to be fair but for traffic, you can maybe check Zemanta, they are doing very well in terms of post-click while having some auto-optimization tools. (I own a media trading agency FYI, I can probably give you pointers to where to go, free of course. It's important to help out each other)\n\nYou can check this to see which one I would advise: [https://blog.tedjordan.org/advertising/platforms/best-dsps-programmatic-advertising/](https://blog.tedjordan.org/advertising/platforms/best-dsps-programmatic-advertising/)",
+      "score": 1,
+      "created_utc": 1732058073.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "let me know if you want me to check the quality first, using FouAnalytics",
+      "score": 1,
+      "created_utc": 1731774829.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "Have you looked at the ads.txt Lines of some of those SSPs? They are reselling Resellers in there. Each Reseller takes their Cut and in the End it is less likely for that DSP to win. Why not cut out the Middlemen and keep the Supply Path as optimized as possible?",
+      "score": 3,
+      "created_utc": 1731768738.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "We tried to contact you multiple Times before on another Reddit Account. Ghosted on Reddit, ghosted on E-Mail.",
+      "score": 1,
+      "created_utc": 1731784775.0
+    },
+    {
+      "author": "SeniorDucklet",
+      "body": "Don’t trust the “self-written IVT Protection”? I wouldn’t either.",
+      "score": 2,
+      "created_utc": 1731799850.0
+    },
+    {
+      "author": "dortenzio1991",
+      "body": "Integrations are expensive for 500 QPS but give it a shot",
+      "score": 1,
+      "created_utc": 1731770009.0
+    },
+    {
+      "author": "datablocksinc",
+      "body": "That is odd - I have no outstanding reddit messages at all.  I check my email spam folder regularly..  nothing there either.  I'll send you a DM instead",
+      "score": 1,
+      "created_utc": 1731817141.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "It's pretty much a Database we get from known IVT Services like Fraudlogix and it acts as a Middleware between the User and the Prebid Script. \n\nIt works like this: User visits Site -> Request gets sent to Script -> Script checks IP -> If IP good Script gets loaded",
+      "score": 1,
+      "created_utc": 1732211556.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "500QPS would be our Starting Point. We could scale this up a lot higher or lower if needed!",
+      "score": 1,
+      "created_utc": 1731770070.0
+    }
+  ]
+}

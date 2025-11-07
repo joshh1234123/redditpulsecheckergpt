@@ -1,0 +1,75 @@
+{
+  "id": "1kranpw",
+  "title": "Audience Sharing Platforms",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kranpw/audience_sharing_platforms/",
+  "created_utc": 1747761824.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "MillerTheMan87",
+      "body": "I think TransUnion can onboard with a physical address if LiveRamp cannot. Their minimums might be high though.",
+      "score": 2,
+      "created_utc": 1747764062.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "What kind of data do you have have? What markets does it service?",
+      "score": 2,
+      "created_utc": 1747764101.0
+    },
+    {
+      "author": "Ok_Hurry2000",
+      "body": "Check out The Bridge Corp. We use them for similar projects and they have no minimums like some of the other big players.",
+      "score": 2,
+      "created_utc": 1747767179.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "How about Narrative? Narrative.io",
+      "score": 1,
+      "created_utc": 1747774192.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "It depends on how concerned you are about data leakage.\n\n\nIf you just mean getting it into someone's DSP seat you're basically describing data brokerage. There's many ways to market (as the comments will illustrate)\n\n\nThere are usually ways to provide custom segments only to a particular seat. This might be enough for your needs.\n\n\nIt is possible for data leakage though, either through something like TTD's REDS which provides log level campaign data, or by pixels in the creative. (This is true selling data as a curated deal as well)\n\n\nMore privacy-preserving would be something like Comscore's predictive audiences which can activate as probablistic contextual or maybe someone like Yobi that actually activates at a more broadly targeted level of resolution.\n\n\nThere isn't really a way to be precise and keep advertisers from building their list by renting yours.",
+      "score": 1,
+      "created_utc": 1747781185.0
+    },
+    {
+      "author": "Jagnolee",
+      "body": "Thank you I’ll take a look at that!",
+      "score": 1,
+      "created_utc": 1747766352.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "They can. It's all a question of match rates, coverage, and matching logic. The various providers in this space are not all equal there.",
+      "score": 1,
+      "created_utc": 1747769549.0
+    },
+    {
+      "author": "Jagnolee",
+      "body": "It’s our 1st party email list and print subscribers. And these are all healthcare professionals and our clients are companies that want to market their products and services to those professionals",
+      "score": 2,
+      "created_utc": 1747766481.0
+    },
+    {
+      "author": "Jagnolee",
+      "body": "Sweet thank you for the suggestion, just set up a call with them",
+      "score": 1,
+      "created_utc": 1747768020.0
+    },
+    {
+      "author": "Jagnolee",
+      "body": "This is good to know, thank you for the insights on potential data leakage, I’ll look at some of the solutions you outlined, very much appreciated!",
+      "score": 1,
+      "created_utc": 1747781357.0
+    },
+    {
+      "author": "Jagnolee",
+      "body": "Good to know, thank you again for the insight!",
+      "score": 1,
+      "created_utc": 1747848941.0
+    }
+  ]
+}

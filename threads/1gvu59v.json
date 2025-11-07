@@ -1,0 +1,111 @@
+{
+  "id": "1gvu59v",
+  "title": "Combining bumper and skippable for Youtube ads",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gvu59v/combining_bumper_and_skippable_for_youtube_ads/",
+  "created_utc": 1732121818.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "1toremember",
+      "body": "Do you have different length videos for each? Are these split out by ad-group?\n\nI'm always a sceptical when a buying platform wants you to give their algorithm full control. Seems particularly unnecessary for an awareness objective.\n\nDo you have any past data that shows better ad recall for bumpers or skippable?",
+      "score": 6,
+      "created_utc": 1732123237.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "Why not A/B test it? Also ask your rep to run lift studies and conversion lift studies if you’re not already.",
+      "score": 3,
+      "created_utc": 1732124855.0
+    },
+    {
+      "author": "BradVet",
+      "body": "Bumpers are cheaper, the algo will push to it. Dont listen to google reps, its always there own narrative. Course my VVC campaign got a lower CPV, cause 90% went to bumper",
+      "score": 2,
+      "created_utc": 1732181621.0
+    },
+    {
+      "author": "ArchitectofExperienc",
+      "body": ">“we could never beat AI”\n\nThis is extremely troubling, and sounds like a sales pitch, not actionable information. I know that Alphabet has been pushing as much automated infrastructure as possible because its more cost effective and 'delivers conversions/clicks', but I haven't really seen any studies or research that backs that up. I don't like that they're pushing a specific setup just for their own benefit, its skeevy\n\nIf you have a system that works for you, that gives you the feedback that you need to continue doing business, then there isn't any reason to change, especially if the new service gives you less information and less control. If the sales rep has a problem with that, well thats on them. If they want to mandate having a single line item, then corporate can go ahead and set the mandate.",
+      "score": 2,
+      "created_utc": 1732129783.0
+    },
+    {
+      "author": "Sad_Celebration3652",
+      "body": "Usually the debate with their reps always ends after your questions about algo details, especially depending on the funnel strategy, as they can (almost) never give specifics about how and why would it work \"better\". After testing, it has proved better to split bumper and skippable in a lot of cases for our clients.",
+      "score": 1,
+      "created_utc": 1732132963.0
+    },
+    {
+      "author": "BasisOk4268",
+      "body": "The problem I found is the platform would always push whichever format saw the lowest CPM regardless of performance against KPI. Thus meaning we had like 90% spend against Bumpers and TrueView may as well not have been on the plan",
+      "score": 1,
+      "created_utc": 1732144795.0
+    },
+    {
+      "author": "SouthwestBLT",
+      "body": "Standard Google crap. Be thankful they haven’t yet got the ear of your clients as that’s what we face. Both Google AND the client pushing for VRC and Shorts despite all evidence saying it’s not as good and that shorts is fucking trash.\n\nI’ve been told to run non shippable to ‘counter balance’ the VRC by a client? Guys if you need to balance it out, just don’t run it.\n\nRecommend providing to your clients with AB testing that Google is wrong, and stay close to them to defend googles strategy of coming between you and your client because once that happens you are done.",
+      "score": 1,
+      "created_utc": 1732170788.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "How do you plan your campaigns? Ever since I've started in programmatic buying, I've always worked with lines of the mediaplan with fixed budgets also activated in the DSP in the same way to make reporting and budget management as straightforward as possible. I'd be skeptical of just blindly following the Google recommendation as you'll lose so much control. FYI this push has been happening on most social platforms for years and all our social teams continuously keep pushing back and just doing what they deem best. Screw the platform recommendations haha",
+      "score": 1,
+      "created_utc": 1732178961.0
+    },
+    {
+      "author": "pabloscholes",
+      "body": "Definitely use experiments to split test the budget. Anything we have run for VRC comes in with a really low completion rate, and lower CPMs. \n\nDepends on your aim, you might be best to test VVC if bumper and skippable, there will be an element of shorts inventory in there too fyi.",
+      "score": 1,
+      "created_utc": 1732437772.0
+    },
+    {
+      "author": "Forward_Wrongdoer715",
+      "body": "Our set up is that bumpers includes 6s vid, skip and nonskip include 10s-30s ads, each format is in separate line items. \n\nIn the past we did combine bumpers and skippable under 1 line item, however we see that depending on the campaign, bumper would perform better than skip or vice versa. Hence why we decided to split them up.\n\nBut now google say that we never really A/B test by comparing splitting bumper and skippable up vs combining them using VRC 2.0, which led to this argument",
+      "score": 1,
+      "created_utc": 1732127669.0
+    },
+    {
+      "author": "Forward_Wrongdoer715",
+      "body": "Yeah im gonna do it anyway as they’ve been pressuring us really hard, I’m just annoyed at their confidence in their AI while i know that it’s still quite flawed",
+      "score": 2,
+      "created_utc": 1732127464.0
+    },
+    {
+      "author": "Forward_Wrongdoer715",
+      "body": "Exactly! Whenever i ask them about why their frequency capping is so shit they’re unable to give an answer but somehow they’re so confident about their AI without any data transparency",
+      "score": 1,
+      "created_utc": 1732138820.0
+    },
+    {
+      "author": "Forward_Wrongdoer715",
+      "body": "I’m the client 😅 we’re in-housing everything in my company, so we do have a say in all the craps they’ve been pushing. It’s just annoying that we’ve been saying we like this way, their aggressiveness just come back every performance review and my boss always asks me the same questions",
+      "score": 1,
+      "created_utc": 1732173849.0
+    },
+    {
+      "author": "1toremember",
+      "body": "I can see some advantage of VRC 2.0 with combined line items, but just means you're passing the controls to Google. \nIf you get the right learnings at the end you can compare results but would also look at budget proportion allocated to each format along with performance to see if it matches your expectations.\n\nI still question the motive of Google reps when they're this \"sure\" about their new approach. What is being sacrificed to hit their AI optimised KPI target (e.g. channel quality, spamming extra ads to meet freq. goals etc).",
+      "score": 1,
+      "created_utc": 1732128491.0
+    },
+    {
+      "author": "SouthwestBLT",
+      "body": "They are just sales people. Don’t give them any more respect than you would normally give a sales rep just because they work at Google.\n\nWorking in sales at Google isn’t the same as being a ‘googler’",
+      "score": 1,
+      "created_utc": 1732176300.0
+    },
+    {
+      "author": "Forward_Wrongdoer715",
+      "body": "Thanks for your input! What’s your current set up if you don’t mind me asking?",
+      "score": 1,
+      "created_utc": 1732128712.0
+    },
+    {
+      "author": "1toremember",
+      "body": "No problem, sent you a message if you want to discuss more",
+      "score": 1,
+      "created_utc": 1732144332.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1jlxr7w",
+  "title": "Channel Factory - YouTube DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jlxr7w/channel_factory_youtube_dv360/",
+  "created_utc": 1743175783.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Channel Factory is an inclusion list of YT channels, you just target it within your line item and report on it.",
+      "score": 6,
+      "created_utc": 1743286082.0
+    },
+    {
+      "author": "Jokerx_572",
+      "body": "Create separate line items specifically for Channel factory lists\nIt helps with the reporting",
+      "score": 2,
+      "created_utc": 1743309163.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "Can anyone explain Channel factory to me?",
+      "score": 1,
+      "created_utc": 1743379743.0
+    },
+    {
+      "author": "New_Pianist4403",
+      "body": "ChannelCrawler is a good alternative.\n\nAsk for Jake there and he can help.",
+      "score": 1,
+      "created_utc": 1759869683.0
+    },
+    {
+      "author": "Dapper-Succotash-202",
+      "body": "So They’re just a company that builds YT site lists?",
+      "score": 1,
+      "created_utc": 1743423479.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you. So, the only way is to ensure we name the LI correctly? Also, is there any additional cost billed through the DSP for their use?",
+      "score": 1,
+      "created_utc": 1743516357.0
+    },
+    {
+      "author": "sergey_ford_dix",
+      "body": "[https://support.google.com/displayvideo/answer/6260055?hl=en&ref\\_topic=6190068&sjid=1069711417672397440-NC](https://support.google.com/displayvideo/answer/6260055?hl=en&ref_topic=6190068&sjid=1069711417672397440-NC)",
+      "score": 1,
+      "created_utc": 1743399714.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Yes same as Zefr / DoubleVerify (Openslate).",
+      "score": 1,
+      "created_utc": 1743450032.0
+    },
+    {
+      "author": "Jokerx_572",
+      "body": "Yeah naming and maintaining separate lines is the way to go for channel factory.\nNo you are not billed extra on the DSP , channel factory charges a % of your media spends where you have used the list i.e the particular line items using channel factory list, the % you or your sales team should negotiate with them.",
+      "score": 1,
+      "created_utc": 1743548183.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you, so we just paste the list of channels during set up? Would you know how is this billed? Through the DSP (additional CPM)?",
+      "score": 1,
+      "created_utc": 1743516421.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Okay, thank you so much for the information",
+      "score": 1,
+      "created_utc": 1743581734.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "You work with them directly and they bill you separately, normally on a % of media model.\nThey will ask for a monthly report to validate what to bill based on media cost.",
+      "score": 2,
+      "created_utc": 1743522373.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you so much, it makes sense",
+      "score": 1,
+      "created_utc": 1743581709.0
+    },
+    {
+      "author": "SDeven89",
+      "body": "do they have video level data or channel level data?",
+      "score": 1,
+      "created_utc": 1760294325.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1kho4d6",
+  "title": "Google Ads YouTube Ads",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kho4d6/google_ads_youtube_ads/",
+  "created_utc": 1746705014.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "JimmyTango",
+      "body": "The brand safety settings are worthless. Googles “targeting” is about as loose as their Broad Match logic in search. \n\nThe exclusion/inclusion settings are in the UI under “Placements”. You can input channel and video URLs. You can copy and paste a lot of them at a time but there is a limit IIRC. \n\nPulling YouTube placement reporting, especially at the video level, is a non-trivial task. Depending on how much budget you’re spending, you may not be able to use excel to look at a manipulate the data. It can easily get above excels storage row limits which means you need to either use a program like Notepad++ which also hits a limit at a certain point, or ingest the data into a database and query it.",
+      "score": 2,
+      "created_utc": 1746716513.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you, I agree with you. \n\nI prefer having an inclusion list approach but we still need to apply some exclusions. As I have more experience with DV360, I am unsure where all these settings are applied and the level.\n\nYou mentioned under placement, do you mean in the audiences, keywords, and content section of the UI? \nWhere could I exclude any sensitive categories / content level?\n\nThank you so much",
+      "score": 1,
+      "created_utc": 1747044719.0
+    }
+  ]
+}

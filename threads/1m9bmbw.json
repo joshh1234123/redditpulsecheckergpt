@@ -1,0 +1,27 @@
+{
+  "id": "1m9bmbw",
+  "title": "Ctv frequency cap limit",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m9bmbw/ctv_frequency_cap_limit/",
+  "created_utc": 1753479271.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "AdTechGinger",
+      "body": "With PG, freq cap has to be set on the publisher side… so yes, you can ask for frequency caps, but you can’t apply a cross-channel cap.",
+      "score": 2,
+      "created_utc": 1753823249.0
+    },
+    {
+      "author": "linuz14",
+      "body": "And when set on my side? It’s basically ignored? Do I have any impact on delivery?",
+      "score": 1,
+      "created_utc": 1753825968.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "Yes- if your dsp even gives you the option to apply a cap on a PG deal, that wouldn’t impact delivery. PG deals basically override bidder logic to win 100% of available impressions at a fixed rate.",
+      "score": 1,
+      "created_utc": 1753890197.0
+    }
+  ]
+}

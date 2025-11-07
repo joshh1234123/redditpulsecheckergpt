@@ -1,0 +1,93 @@
+{
+  "id": "1mdx4kb",
+  "title": "Geofence Targeting",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mdx4kb/geofence_targeting/",
+  "created_utc": 1753954736.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "PermissionPositive65",
+      "body": "Adsquare (data provider) should be able to do it",
+      "score": 3,
+      "created_utc": 1753958372.0
+    },
+    {
+      "author": "Ok_Independent3095",
+      "body": "Geotargeting might be the most obvious idea for reaching people who work in a specific location, but I would recommend a different targeting approach that allows you to more precisely target your desired audience.\n\nTargeting a single building (even a hospital complex and many of them) is limited in reach",
+      "score": 3,
+      "created_utc": 1753967848.0
+    },
+    {
+      "author": "Glass-Independent-51",
+      "body": "Be careful with geofencing unless you have a pretty substantial block list.  The majority of your ads will go to irrelevant apps.  We've had this issue with Amazon DSP, TTD, Simplifi and Basis.  Our block list has around 5k apps and we still get garbage app impressions daily.",
+      "score": 2,
+      "created_utc": 1754058925.0
+    },
+    {
+      "author": "sarries123",
+      "body": "Would be more effective to have someone go hold a sign or hand out flyers near the hospital than waste money trying to geofence a couple locations. I don't think geofencing works well at all. Sounds better to an advertiser than what happens in reality.",
+      "score": 1,
+      "created_utc": 1754107408.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "Generally hospitals cant be fenced due to sensitive health data. At least thats the case here in the usa. (Hippa laws.) if this is a b2b campaign, why not use 3rd party data to target health care workers?",
+      "score": 1,
+      "created_utc": 1754136527.0
+    },
+    {
+      "author": "LakePerch99",
+      "body": "Basis DSP offers GPS targeting, world-wide, based on lat/long. No additional CPM. As long as there are smartphones in that hospital, you should be fine.",
+      "score": 1,
+      "created_utc": 1754139038.0
+    },
+    {
+      "author": "fedefern11",
+      "body": "Hi! I work in Basis dsp and as previously commented, we do support hyper local with smaller radius. PM me for more.",
+      "score": 1,
+      "created_utc": 1754158591.0
+    },
+    {
+      "author": "Duazi1904",
+      "body": "i sent them a demo-request. Lets see if it works. Thank you!",
+      "score": 1,
+      "created_utc": 1753959429.0
+    },
+    {
+      "author": "Duazi1904",
+      "body": "Yeah the reach is limited, but my goal is that the workers from Hospital XY know, there is a job opportunity in another Hospital. We also work with Meta Ads. Do you have another Idea for more precise targeting the Audience (Healthcare-Worker in City XY). And Thanks for your Help :)",
+      "score": 1,
+      "created_utc": 1753974100.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Their geofencing service is also available on TTD and I’m sure other DSPs.",
+      "score": 2,
+      "created_utc": 1753962337.0
+    },
+    {
+      "author": "Ok_Independent3095",
+      "body": "Build customs segments based on Interest or behaviors. visited apps/websites\n\nIf it just about reaching as many people as possible working at a specific place circular flyers in front of the entrance or the next to the metro might be als a good tactic that most likely outperforms digital.",
+      "score": 1,
+      "created_utc": 1753979618.0
+    },
+    {
+      "author": "Duazi1904",
+      "body": "Just got an Answer from Adsquare: they could do it technically, but they dont support geotargeting Medical locations, which i can understand.   \n  \ni sent a request to TTD, but i have a feeling that we are too small, to be a customer for them. Our Ad-Spend is more in the area of 1.500€/Month.",
+      "score": 1,
+      "created_utc": 1753965243.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Oh yeah, I think TTD spend starts at like $100k USD a month. You could look into a TTD reseller like Ventura, but you’re likely to run into the same constraints. I also vaguely remember TTD putting filters in place that don’t allow targeting at sensitive places. I can’t remember if it’s global or just the US, that’s my bad for not remembering that. \n\nFoursquare, HERE, Veraset, GroundTruth are a couple others to look at. \n\nSomething else to think about, they may not allow you to directly target hospitals because of privacy reasons. So they won’t have an off the shelf segment. You may need to make your own segment of Lat/long coordinates that encompasses all the hospitals and not tell them what you’re actually targeting. Which is a lil slimy, but that may be how your competitor is doing it.",
+      "score": 1,
+      "created_utc": 1753965826.0
+    },
+    {
+      "author": "Duazi1904",
+      "body": "I will try to find a reseller, thanks for your help! The Idea with Lat/Long coordinates is smart, but of course i would be happy to find a Agency/Service, where i dont have to hide the targeting.",
+      "score": 1,
+      "created_utc": 1753974013.0
+    }
+  ]
+}

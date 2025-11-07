@@ -3,25 +3,37 @@
   "title": "Alternative to Basis",
   "permalink": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
   "created_utc": 1762444223.0,
-  "num_comments": 11,
+  "num_comments": 24,
   "comments": [
+    {
+      "author": "AfternoonThink8512",
+      "body": "I am close with the team that manages all API Partnerships w. StackAdapt. We're pretty on top of integrations especially with external non-adtech ecosystem (think Shopify, Braze etc) + any endemic ones that you'd need (MTA, MMM, etc.) Happy to help.",
+      "score": 6,
+      "created_utc": 1762460715.0
+    },
     {
       "author": "mikehauptman",
       "body": "If you like Basis for the workflow and PMP access but are running into API and support issues, you've got a few solid directions to go.\n\nSome agencies transition to DV360 or The Trade Desk, but these platforms can feel heavier operationally, and you'll still encounter some integration quirks. Others look at reseller-connected platforms that offer similar flexibility without the tech overhead.\n\nIf that's the route you're considering, you should check out [getadlib.com](http://getadlib.com). Our platform connects to every major DSP, including DV360 and Amazon, and is built to simplify cross-platform buying and integrations.\n\nFWIW, we've heard from numerous teams that are leaving Basis for similar reasons, primarily due to concerns about API stability and account support.\n\n*Disclaimer: I'm the founder of AdLib.*",
-      "score": 6,
+      "score": 8,
       "created_utc": 1762447403.0
+    },
+    {
+      "author": "DrFunkenstein72",
+      "body": "Check out Soundwave Digital - if you want co-managed media",
+      "score": 2,
+      "created_utc": 1762522801.0
     },
     {
       "author": "curioalpaca",
       "body": "Basis has historically had a decent footprint in political. Lot of folks leaving for similar reasons. Most are going to StackAdapt, some also going to Viant",
-      "score": 2,
+      "score": 3,
       "created_utc": 1762447767.0
     },
     {
-      "author": "hdiggyh",
-      "body": "I’m going to PM you. I got an option that works well with what you are looking for",
-      "score": 1,
-      "created_utc": 1762448835.0
+      "author": "Less-Selection1127",
+      "body": "Basis is pretty solid, we personally like their Open inventory as its similar to DV360 , its like having DV360 without the drawbacks lol. It really depends on what are your pain points. Transparency? Rates? Fees? Managed Services? We are exploring other DSPs like Amazon or TTD. DV360 seems to be less flexible at least for us",
+      "score": 3,
+      "created_utc": 1762461540.0
     },
     {
       "author": "Available_Plant3712",
@@ -30,46 +42,112 @@
       "created_utc": 1762452046.0
     },
     {
-      "author": "Bulky_Perception_682",
-      "body": "DV if you like Google products, TTD if you meet minimums...if not, talk w/ Goodway to get a TTD seat",
-      "score": 1,
-      "created_utc": 1762457732.0
-    },
-    {
       "author": "FllowrOfJesus",
       "body": "I own and operate my own agency and I buy into Simplifi. I used to work at Basis so I know allll about the challenges. DM me if you want to get insights on the Simplifi backend.",
-      "score": 1,
+      "score": 0,
       "created_utc": 1762447014.0
     },
     {
-      "author": "AmazinTim",
-      "body": "Upvoting for being an honest broker on this sub.",
-      "score": 4,
-      "created_utc": 1762454613.0
+      "author": "Bulky_Perception_682",
+      "body": "DV if you like Google products, TTD if you meet minimums...if not, talk w/ Goodway to get a TTD seat",
+      "score": 0,
+      "created_utc": 1762457732.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "I’m going to PM you. I got an option that works well with what you are looking for",
+      "score": -2,
+      "created_utc": 1762448835.0
     },
     {
       "author": "Glass-Independent-51",
       "body": "Thanks!  Do you provide a dashboard and automated reporting?",
-      "score": 2,
+      "score": 5,
       "created_utc": 1762447844.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "Upvoting for being an honest broker on this sub.",
+      "score": 10,
+      "created_utc": 1762454613.0
+    },
+    {
+      "author": "Glass-Independent-51",
+      "body": "Primarily the API issues, as stated initially.  I have a closer relationship with technical support than I do with my account manager.",
+      "score": 1,
+      "created_utc": 1762475360.0
     },
     {
       "author": "Glass-Independent-51",
       "body": "We had a lot of issues with [Simpli.fi](http://Simpli.fi) in the past, primarily location accuracy and reporting data, so we had to move on.",
-      "score": 2,
+      "score": 5,
       "created_utc": 1762447739.0
     },
     {
-      "author": "mikehauptman",
-      "body": "Appreciate that sentiment!",
-      "score": 2,
-      "created_utc": 1762454988.0
+      "author": "Big_Temperature6267",
+      "body": "StackAdapt is the answer. Snowflake, Shopify rave about how easy they are to work with",
+      "score": 1,
+      "created_utc": 1762491336.0
+    },
+    {
+      "author": "internetstalker26",
+      "body": "Why gatekeep?",
+      "score": 3,
+      "created_utc": 1762476402.0
     },
     {
       "author": "mikehauptman",
       "body": "You're welcome! and yes to dashboard and automated reporting. plus the entire platform is API first. Shoot me a dm or email mike@",
       "score": 2,
       "created_utc": 1762448433.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "Appreciate that sentiment!",
+      "score": 4,
+      "created_utc": 1762454988.0
+    },
+    {
+      "author": "cuteman",
+      "body": "The guy promoting his own platform is an honest broker? He owns it.",
+      "score": 2,
+      "created_utc": 1762461746.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Yesss API sucks and reporting as well can be challenging",
+      "score": 1,
+      "created_utc": 1762492679.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "And he openly declares it. There’s loads of shill accounts on this sub that only post to promote their platforms while pretending they are just enthusiastic customers recommending things to other potential customers.",
+      "score": 5,
+      "created_utc": 1762462136.0
+    },
+    {
+      "author": "cuteman",
+      "body": "perhaps but he isn't without marketeering:\n\n>FWIW, we've heard from numerous teams that are leaving Basis for similar reasons, primarily due to concerns about API stability and account support.\n\nand\n\n>Some agencies transition to DV360 or The Trade Desk, but these platforms can feel heavier operationally, and you'll still encounter some integration quirks. Others look at reseller-connected platforms that offer similar flexibility without the tech overhead.\n\nNever mind he promotes himself along aside BASIS, a company with 1300 employees, and his with 20-30 employees.\n\nindeed the majority of his comments on reddit are promoting himself\n\nThey aren't even in the same league to be fair",
+      "score": 1,
+      "created_utc": 1762464231.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "And he’s honest.",
+      "score": 1,
+      "created_utc": 1762464273.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Well honestly, it's a joke to compare the two.\n\nBuyers beware",
+      "score": 1,
+      "created_utc": 1762464384.0
+    },
+    {
+      "author": "AmazinTim",
+      "body": "Ok",
+      "score": 2,
+      "created_utc": 1762464757.0
     }
   ]
 }

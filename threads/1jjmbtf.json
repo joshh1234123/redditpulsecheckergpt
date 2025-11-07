@@ -1,0 +1,33 @@
+{
+  "id": "1jjmbtf",
+  "title": "SDF Training",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jjmbtf/sdf_training/",
+  "created_utc": 1742917191.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "mcpapaya",
+      "body": "Download a SDF from an existing campaign and examine it first. :-) It's basically a simple CSV that contains information about your campaigns, try to read and unterstand it, read help articles from Google, try modify and upload them, try use them as templates, keep going, stay curious. :-D",
+      "score": 8,
+      "created_utc": 1742917880.0
+    },
+    {
+      "author": "casual_fifix",
+      "body": "It’s a csv file to update to bulk edit your campaigns. The details of the columns are in the doc https://developers.google.com/display-video/api/structured-data-file/v8/InsertionOrder \nYou can manually setup campaigns with sdf uploads, or in more advanced use cases create jobs that automatically update your campaigns’ setup in regards to recent performances.",
+      "score": 1,
+      "created_utc": 1742939826.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "Is this only through DV360 or is this a TTD or Beeswax feature?",
+      "score": 1,
+      "created_utc": 1742956231.0
+    },
+    {
+      "author": "heleneparker",
+      "body": "Hi there,   \nI have an accelerator program in details with some videos where I show you how to... its not free (sorry) but I'd be happy to offer a quick call on it?",
+      "score": -7,
+      "created_utc": 1742924936.0
+    }
+  ]
+}

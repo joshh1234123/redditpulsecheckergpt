@@ -1,0 +1,57 @@
+{
+  "id": "1i870ou",
+  "title": "NewB Here Trying to Learn",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i870ou/newb_here_trying_to_learn/",
+  "created_utc": 1737649015.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "Max_Pluto",
+      "body": "Programmatic buying is done within a DSP (Demand Side Platform), where ad inventory is available for auction in real time. So an agency’s trading desk include specialists who work within these DSPs (DV360, TTD, etc) to win desirable inventory based on a series of levers (base/max bid price, time of day, publisher, etc). \n\nAgency direct media buying refers to an agency negotiating and securing “premium” inventory from a publisher that belongs to them, and them alone (i.e cannot be bought programmatically). This is a bit of a grey area, because some publishers will guarantee a percentage of their inventory to a buyer while putting the rest up for auction Programmatically, but that’s the general gist. \n\nTo put it in simpler terms: imagine a premium publisher like Hulu. They have a ton of ad inventory, especially against their premium shows (let’s say The Bear, as an example). If they put that inventory up for auction, it’ll drive significantly high CPMs in a programmatic auction because lots of advertisers want that space. But let’s say Hulu has a great relationship with Horizon Media - and horizon asks if they can secure 20% of ad inventory against that show. Hulu will grant Horizon that inventory at a high CPM, which horizon can then pitch to clients as an offering (where they will increase the CPM on their end to secure margin).\n\nThe benefit for Hulu, aside from a good partnership, is they are guaranteed to sell a % of their inventory which makes forecasting revenue significantly easier. The benefit for Horizon, obviously, is the inventory they can now pitch to clients (whereas other agencies may struggle to win the inventory programmatically depending on how competitive the space is).\n\nOne last wrinkle, not to totally confuse you: Agency direct deals can still be executed in a programmatic DSP via Programmatic Guarantee deals - which are the same as direct buy deals, just streamlined within a DSP for ease of activation (rather than going directly to Hulu for trafficking, all the pipes are connected directly within the DSP. Which also makes it easier for reporting purposes). \n\nHope this helps.",
+      "score": 14,
+      "created_utc": 1737650102.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Trading desk= using a DSP to buy programmatically \n\nDirect media= working with publishers directly and buying media through them non programmatically",
+      "score": 6,
+      "created_utc": 1737650012.0
+    },
+    {
+      "author": "workredditaccount555",
+      "body": "In my 7+ years in the industry, the terms \"media buying\" and \"media trading\" have been used interchangeably when in reference to what a programmatic trader does (so if you're comparing 2 different agency offerings, they might be talking about the same thing)\n\nIn your instance though, I'd assume that \"direct media buying\" refers to buying inventory directly from a publisher rather than buying it programmatically. There are pros/cons of doing it this way but the main reasons one would do this is for exclusive inventory and cost efficiencies.",
+      "score": 2,
+      "created_utc": 1737650261.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "I wish there were visuals to these great explanations because my brain just learns (clicks) better 🧠",
+      "score": 1,
+      "created_utc": 1737663966.0
+    },
+    {
+      "author": "GovernmentIll6479",
+      "body": "This is so helpful! Thank you!!! A few questions: Is the purpose of agency's trading desks to work with DSPs or other third-parties? Why do agencies have this function? Is there any incentive for agencies to push media buying clients into their trading desk vs. direct media purchase (e.g., maybe it is higher margin for the agency?)? Within Agency direct media buying, do the agencies ever work with third-parties? Or are agencies incentivized not to because that would entail giving up a piece of their margin?",
+      "score": 2,
+      "created_utc": 1737660271.0
+    },
+    {
+      "author": "GovernmentIll6479",
+      "body": "thanks! I was trying to compare the two different agency offerings. Like why would someone purchase through an agency trade desk vs the agency direct buying? Does that make sense? Arent they two separate offerings within an agency?",
+      "score": 1,
+      "created_utc": 1737659701.0
+    },
+    {
+      "author": "Max_Pluto",
+      "body": "I think the best way to visualize and understand this is by understanding what programmatic buying solves. \n\nTaking a step back, there’s a concept of “walled gardens,” which in simple terms means media/data providers that refuse to share/link their data to the rest of the media ecosystem. Meaning, every advertiser is trying to understand what piece of media truly made an impact to their bottom line. But because Google, meta (aka walled gardens) don’t allow for a universal identifier which marketers can use to see the true path to conversion, there’s a bunch of fragmentation in reporting. Meaning, without this universal identifier, we’ll always have a muddy picture as to what channel should truly get credit for a conversion - if a user is reached by meta, Google, email, and programmatic - then all 4 would take credit for the conversion and you have inflated conversion totals where the count of conversions is greater than the count of sales (for example) - whereas you may only want to give credit to the final touch point in a user’s path. It’s a frustrating problem - and whoever finds the magic formula to build a reliable MMM model will become a billionaire overnight. \n\nBut programmatic solves this, to a degree, because it’s a centralized platform where all media buying occurs. You can purchase display, video, CTV, audio, DOOH, etc - and see what % of your users were reached by each channel before converting. It relies on a universal identifier - which enhances data cleanliness and arms marketers with the ability to make data driven decisions. \n\nBut alas, we’ll never reach a world where media is 100% programmatic because $$ goes to where  eyeballs are. Google is always gonna have a strangle hold on search and YouTube. And meta is the dominant social platform with TikTok (another walled garden) waiting in the wings. \n\nNow to answer your q about why agencies have trading arms: direct buys mean you’re at the mercy of the publisher. Think of it as a black box. You send them tags, and through that measure impressions, clicks, conversions, etc…but they control the levers. They choose when the ad is served, who to, what content, etc. That poses some risk to the marketer, who has to rely on the publisher’s ability to execute the buy. In addition, it requires a lot of middle men. \n\nWhereas programmatically, you’re in the driver seat as a trader. You setup and manage the campaign, get daily reporting, make routine optimizations, shift budgets around, etc. \n\nAs for third parties: agencies work with a ton of third parties for measurement and data solutions. They’ll sometimes, if bandwidth is strained, outsource trafficking and campaign execution to sister agencies if needed, too. But yes, to your point, it all affects the bottom line - so agencies will weigh the pros and cons of any decision that goes into the strategy, and only greenlight stuff that will be profitable or is necessary to preserve the partnership. \n\nThe incentive for agencies to push media buying to their trading desk (aside from ease of activation) is also margin. Remember, programmatic is an auction. Some agencies will promise a CPM of (example) $5 to their clients, while knowing they can buy the media for $2 (cheap inventory where the client may be overlooking the quality of said inventory). They’ll bake in fees they pay for data providers, the DSP, etc and turn a nice profit (just an example, not all do this). But if they can’t fulfill at $2, maybe they raise their bid to $3 or whatever. They don’t get that luxury with direct buys, as those are often fixed- price. \n\nThink I covered everything but let me know if I missed something. Cheers",
+      "score": 7,
+      "created_utc": 1737671722.0
+    },
+    {
+      "author": "Fine-Stock-6276",
+      "body": "Beautiful response",
+      "score": 1,
+      "created_utc": 1737677778.0
+    }
+  ]
+}

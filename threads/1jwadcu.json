@@ -1,0 +1,15 @@
+{
+  "id": "1jwadcu",
+  "title": "Begin to render dv360 report",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jwadcu/begin_to_render_dv360_report/",
+  "created_utc": 1744323279.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "I would not trust the reports that the platform gives you. From my data we can see that in some cases 90% of the ads rendered on screen (because we took screen shots) and in other cases 90% of the ads never arrived in time to render on screen -- e.g. on mobile, and heavy-weight video ads.",
+      "score": 1,
+      "created_utc": 1744371107.0
+    }
+  ]
+}

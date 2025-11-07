@@ -1,0 +1,117 @@
+{
+  "id": "1l3fso7",
+  "title": "Yahoo DSP Pros and Cons?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l3fso7/yahoo_dsp_pros_and_cons/",
+  "created_utc": 1749068003.0,
+  "num_comments": 19,
+  "comments": [
+    {
+      "author": "brehmmil",
+      "body": "**Pros:** \n\n1. Audience targeting is really good. You can use the omnichannel ID graph to map to DOOH screens, too, and index based on the users in the graph.\n\n2. Very similar capabilities to the likes of Vistar in terms of inventory access and targeting based on things like screen owner, venue type, dayparting, location, and even weather. There's also a DOOH Planner tool that allows you to filter to specific screens and submit a deal request through the tool.\n\n  \n**Cons**\n\n1. Deal set up can be a bit manual, because it varies by which screens/placements you want. If you have a bunch of different SSPs/screen owners in a deal, it can be a little more legwork.\n\n2. Targeting doesn't have the same specificity as other channels like display and video. Things like f-capping, auction type, etc. aren't supported. (This isn't specific to Yahoo DSP, but not sure how much that's a consideration for you.)\n\nFair note: I work at Yahoo DSP and have covered off on our DOOH capes for a few years.",
+      "score": 12,
+      "created_utc": 1749072159.0
+    },
+    {
+      "author": null,
+      "body": "Yahoo isn’t a dsp specific to dooh so while it can do the job, it’s more of an omnichannel dsp",
+      "score": 3,
+      "created_utc": 1749092057.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "Pros: they sit on a variety of inventory sources, so they aren’t limited to one partner. \n\nCons: you’ll pay more than going directly to someone like Vistar. Vistar has a really nice forecasting visual that clients love. I believe StackAdapt is built on top of this visual (or it looks pretty identical). I personally think Yahoo is clunky and don’t really see them as an industry leader. \n\nJust curious - Who else have you demoed for this shift? Why the shift in DOOH DSP?",
+      "score": 2,
+      "created_utc": 1749070951.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "The entire point of a DSP is to buy and measure cross channel. Why use a DSP just for OOH?",
+      "score": 2,
+      "created_utc": 1749075840.0
+    },
+    {
+      "author": "Quirky_Ad7865",
+      "body": "Isn’t yahoo looking to sell its DSP?",
+      "score": 2,
+      "created_utc": 1749129258.0
+    },
+    {
+      "author": "fsnah",
+      "body": "Check out hivestack or place exchange",
+      "score": 1,
+      "created_utc": 1749072264.0
+    },
+    {
+      "author": "linuz14",
+      "body": "It was great but in eu has been dismissed",
+      "score": 1,
+      "created_utc": 1749123644.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "Agree with others, Yahoo is omni-channel and has some decent DOOH capes but I wouldn't put it above TTD or Basis in that regard at all. And last time I saw their UI, I was not impressed. \n\nEither go direct to a DOOH provider, or you could probably pick a better DSP.",
+      "score": 1,
+      "created_utc": 1749172721.0
+    },
+    {
+      "author": "klustura",
+      "body": "ID-graph audience targeting on DOOH screens?\nIs this Reddit or Cannes?",
+      "score": 3,
+      "created_utc": 1749078218.0
+    },
+    {
+      "author": "Comprehensive-Cup415",
+      "body": "any truth to the rumors about the DSP being sold?",
+      "score": 2,
+      "created_utc": 1749095048.0
+    },
+    {
+      "author": "Caramelyin",
+      "body": "How does Yahoo handle multiple ad formats sent by DOOH bid requests? Had prior issues in which Yahoo DSP did not allow bids even though a creative matched the screen specs (which I saw contained multiple formats including one that matched).",
+      "score": 1,
+      "created_utc": 1749270737.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "Would love to get your feedback OTS about Yahoo DSP and what you'd want to see improved.",
+      "score": 0,
+      "created_utc": 1749072207.0
+    },
+    {
+      "author": "klustura",
+      "body": "Not all DSPs are equal when it comes to inventory access.\n\nNot are equal when it comes to how they deal with DOOH, which is a complete different channel from the others.",
+      "score": 3,
+      "created_utc": 1749078324.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "I’m not nearly important enough to be yacht-worthy.",
+      "score": 2,
+      "created_utc": 1749078666.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "That's the word, that Apollo is shopping it around. And yeah, I think by my count that would be the 3rd sale in 6 years maybe?",
+      "score": 2,
+      "created_utc": 1749172435.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "business as usual! too busy focused on the work ahead to focus on rumors.",
+      "score": 1,
+      "created_utc": 1749235390.0
+    },
+    {
+      "author": "brehmmil",
+      "body": "It depends on the integration. It's possible for us to support multi format (multiple sizes) depending on the openRTB version we are supporting.",
+      "score": 1,
+      "created_utc": 1749483046.0
+    },
+    {
+      "author": "Caramelyin",
+      "body": "Cool! Thank you!",
+      "score": 1,
+      "created_utc": 1749563363.0
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "1iwje28",
+  "title": "Where should I be buying CTV ads (for performance)?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iwje28/where_should_i_be_buying_ctv_ads_for_performance/",
+  "created_utc": 1740341801.0,
+  "num_comments": 54,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "\"Performance CTV\" is a myth.",
+      "score": 44,
+      "created_utc": 1740343524.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Couple of things: 1. CTV is an awareness media fundamentally- you are doomed form the start because people DONT scan QR codes.\n\n2. 45s is LONG and not really a standard length- CPMs will be much higher and you are going to be scale limited.\n\nOverall this is not a good media plan or a good idea. I’d recommend cutting that video down and doing demand gen.",
+      "score": 32,
+      "created_utc": 1740342364.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "What do you mean when you say performance? Which KPI? \nIf you also have display running along with it, i would suggest Quantcast is good for performance. Their visualised reporting on how web + CTV drove conversion or site visit performance is quite suffisticated and my clients really like the way they show the ovelap of how much % incremental you might have driven with web + CTV.",
+      "score": 4,
+      "created_utc": 1740404895.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "I would buy direct. For high quality CTV publisher CPM will be $54-55. For FAST, probably $20-$30. \n\nIf you have access to any Major DSP, you can buy FAST from their inventory contract. \n\nFor high quality, premium inventory I prefer PG deals directly with the publishers.",
+      "score": 3,
+      "created_utc": 1740360311.0
+    },
+    {
+      "author": "elchapoguzman",
+      "body": "CTV is a performance channel when you hog the attribution and step over other channels in terms of IP attribution and last click",
+      "score": 3,
+      "created_utc": 1740385053.0
+    },
+    {
+      "author": "KuRy86",
+      "body": "Sent you a PM, but judging CTV performance based on QR scans is going to fall flat consistently. The entire CTV environment is predicated on the “lean back” or “relax effect”.\n\nFor a user to engage with a QR code they have to mentally register the brand, decide to engage, grab their phone, and scan the code all within the allotted time slot. In my experience, the only way that comes close to working is with a ~5x-7x frequency + strict dayparting of 8pm-10pm. TV watching during that time is more active than passive.\n\nFor performance marketing on CTV, you’re better off working with a DSP that has a cross device graph and can attribute CTV exposure to on-site activity / conversions / purchases.\n\nYou’re welcome to keep the QR code on the unit, but make the scans a tertiary metric after View-Thru conversions and VTR.",
+      "score": 3,
+      "created_utc": 1740396537.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Depends on the budget and goals\n\nWe have a managed DSP for performance driven CTV as well and are the only ones sharing full (minus pii) log level data for the client to learn from and decide on their own attribution logic.\n\nThe CTV performance play 90% of the time will not perform in the CPA area of search or social but it is a better way to run top of the funnel more effectively and increase demand for your product. We saw the same cpa level as YouTube vta using a simple 7 days vtr and ip matching.\n\nIt is a very murky industry so trust but verify every step of the way.\nThere is a lot of decent options but they will all take your tuition budget gladly if you don’t be “on it”.\n\nFeel free to dm me if interested to learn more or just ask questions.",
+      "score": 2,
+      "created_utc": 1740377481.0
+    },
+    {
+      "author": "Key-Engine-6179",
+      "body": "Transparency: I work for Triplelift so I’m biased\n\nI recommend CTV only for awareness, QR won’t bring in the same numbers like display or image \n\nI’d like to think we’re the best bet since we provide free targeting that the DSPs don’t and are easily activated in your DSP + our partnership with TransUnion’s CTV Data. \n\nWe also have no pricing floors (unless it’s using a premium partnership) so CPMs are between 9-16$ \n\nIn addition we offer  creative help with QR overlay (turning a regular mp4 or video file into a CTV ad).\n\nFeel free to reply with opinions on how useful this is. \n\nDM me if you have any questions.",
+      "score": 2,
+      "created_utc": 1740418766.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "Not only a myth but an oxymoron",
+      "score": 3,
+      "created_utc": 1740346303.0
+    },
+    {
+      "author": "DisastrousAd7809",
+      "body": "Anywhere your vendor has been certified to measure. \n\nCheck with your measurement vendor if they have been certified with each of operating systems you want to run ads upon. Only run on each Os when you get confirmation.\n\nFor value, nowhere. TV is an awareness and consideration medium, not a performance one.",
+      "score": 1,
+      "created_utc": 1740397049.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "As most seem to agree, QR codes if a tough sell here. I wouldn't expect to much from it.\n\nMaybe look at some options tomultichann-channel within one platform that can also measure the overlap and impact across all. So CTV, OLV and display perhaps.",
+      "score": 1,
+      "created_utc": 1740613527.0
+    },
+    {
+      "author": "Quirky-Offer9598",
+      "body": "I actually wrote a quick post on Tech Trendin' regarding pause ads in CTV. Might be of interest.",
+      "score": 1,
+      "created_utc": 1757076006.0
+    },
+    {
+      "author": "Technical_Fee4829",
+      "body": "If you go direct with Hulu/Peacock/Netflix it's usually better suited for big budgets. It's more complex since you're limited to only testing on that one platform. Good for brand, not really performance.",
+      "score": 1,
+      "created_utc": 1760968305.0
+    },
+    {
+      "author": "PracticalWish1818",
+      "body": "DSPs like The Trade Desk are solid if you want access to everything, but the fees add up quick. Platform + data + measurement fees... you'll burn efficiency before you even get to results.",
+      "score": 1,
+      "created_utc": 1761269301.0
+    },
+    {
+      "author": "kyaneex",
+      "body": "We tried one of the \"performance TV\" players (MNTN). They did a good job selling the story, but the attribution felt inflated. It blended performance and gave credit for traffic that probably would've happened through organic/search anyway.",
+      "score": 1,
+      "created_utc": 1761570343.0
+    },
+    {
+      "author": "ebsarex",
+      "body": "Hey Ryans,\n\nDisclaimer: I’m the CEO of Vibe.co, a CTV Performance Ad Platform\n\nPick a platform that can measure your conversions (through an MMP or a Pixel). QR can help but isn’t an ultimate solution as not everyone will scan your ad, a lot of people will either go direct or through search.\n\nI’d advise against going direct unless you have specific shows/contents you want to target and very sizeable budget. Pick a platform that has access to as many channels as possible.\n\nI’d recommend starting with retargeting. CTV isn’t search where you can just target a high intent keyword and then expand from there. Retargeting allows you to get early insights and understand where performance is coming from at a low cost to then expand from it.\n\n45s creative won’t be approved on most inventories, you should try to cut it down to 30s.\n\nThere are a couple platforms that can provide that with the leading ones being Vibe, Mountain and TVScientific.\n\nHappy to answer any questions you might have.",
+      "score": -5,
+      "created_utc": 1740344625.0
+    },
+    {
+      "author": "Ill-Signature2332",
+      "body": "Check out epsilon- they can help with performance on ctv",
+      "score": -1,
+      "created_utc": 1740364249.0
+    },
+    {
+      "author": "jalapinyobidness",
+      "body": "I don’t believe you can run 45 seconds, standard is 15 and 30 second cut downs.\n\nCheck out MNTN, lot of interesting features available and in the pipe",
+      "score": -3,
+      "created_utc": 1740358003.0
+    },
+    {
+      "author": "Nineteennineties",
+      "body": "Yeah I always wonder what people can possibly expect a video placement to do. It’s an awareness play. Especially on CTV. ",
+      "score": 13,
+      "created_utc": 1740348604.0
+    },
+    {
+      "author": "klustura",
+      "body": "Why though?\nIsn't it dependent on the tracking? If one manages to attribute post-view actions to impressions on ctv, performance is achievable.",
+      "score": 2,
+      "created_utc": 1740381673.0
+    },
+    {
+      "author": "Lilfai",
+      "body": "Right, just put your shoes in the people you’re trying to to target OP, have you ever, truthfully scanned a QR code from a CTV ad?\n\nAt best you’ll look up the product or brand on your phone after the fact. At that point you’re relying on a cross device measurement, which is tough to prove consistently.",
+      "score": 8,
+      "created_utc": 1740343787.0
+    },
+    {
+      "author": "Intelligent_Place625",
+      "body": "These are the answers you need.",
+      "score": 7,
+      "created_utc": 1740342925.0
+    },
+    {
+      "author": "p_romo",
+      "body": "$54 - $55 is extremely high -- We sell big screen premium for $23.50 and $26 if you add Netflix to the mix",
+      "score": 3,
+      "created_utc": 1740420964.0
+    },
+    {
+      "author": "Curly-Girl1110",
+      "body": "Aka MNTN with its 44 day conversion windows 😂",
+      "score": 7,
+      "created_utc": 1740407797.0
+    },
+    {
+      "author": "klustura",
+      "body": "Is all the cross device measurement done by matching IPs?",
+      "score": 1,
+      "created_utc": 1740382222.0
+    },
+    {
+      "author": "Galaxion_90",
+      "body": "Can you share which DSP you’re using that shares the full log data with you?",
+      "score": 1,
+      "created_utc": 1740761612.0
+    },
+    {
+      "author": "Maximum-Ad3032",
+      "body": "We noticed the same thing. The reporting looked amazing until we dug deeper and realized how loose their crediting windows were.",
+      "score": 1,
+      "created_utc": 1761828376.0
+    },
+    {
+      "author": "Acrobatic-Isopod5292",
+      "body": "My company used this company called Tatari. It felt like a middle ground and the fees and reporting were more transparent than what we saw elsewhere and we related to their client roster. A lot of growth-stage brands we know were already using them, which made us feel like the platform understood our space.",
+      "score": 1,
+      "created_utc": 1761930328.0
+    },
+    {
+      "author": "Guidosama",
+      "body": "Man I get so many of your ads…would give anything to not get anymore Vibe ads.",
+      "score": 6,
+      "created_utc": 1740348819.0
+    },
+    {
+      "author": "klustura",
+      "body": "Thanks for the insights.",
+      "score": 2,
+      "created_utc": 1740382076.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "MNTN’s attribution is awful and completely misleads the impact of CTV. Really don’t recommend this route. OP, other answers here are correct. It’s not a performance medium.",
+      "score": 4,
+      "created_utc": 1740369204.0
+    },
+    {
+      "author": "Curly-Girl1110",
+      "body": "QR code could make it performance",
+      "score": -2,
+      "created_utc": 1740407634.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Because the very format of TV advertising is not conducive to bottom-funnel activities. TV advertising will help drive full-funnel performance, and it is extremely valuable for that reason, but paid search and social will always outperform TV if you're looking to minimize costs per conversion.",
+      "score": 6,
+      "created_utc": 1740396370.0
+    },
+    {
+      "author": "klustura",
+      "body": "Putting yourself in others' shoes doesn't mean much in advertising. You can simply not be in the target, which what marketing is all about.\n\nI for instance never click on any damn ad. It doesn't mean there aren't people who don't.\n\nBut I have scanned qr codes (using a vpn. Good luck cross device trackers) and have even used Shazam as requested by certain ads a long time ago.\n\n\nI agree with your point on cross device measurement. It's tough and not consistent, but that's where data science can do its magic.",
+      "score": 2,
+      "created_utc": 1740381940.0
+    },
+    {
+      "author": "chefben",
+      "body": "Agreed.",
+      "score": 2,
+      "created_utc": 1740349486.0
+    },
+    {
+      "author": "liessylush",
+      "body": "Netflix doesn’t have the capability to track performance (yet) for PMP/PG, they can on DIO, but very limited (iSpot) Also they don’t support QR codes for PMP or PG deals. You pay a premium for additional targeting. A :30 PMP costs you $25 with no additional targeting. Want to add genres or interest taking, that’s an additional 10%. Add age or gender, another 5%. Want to make sure your brand is not on sensitive content? Another 5%. \nNow your :30 PMP is $30 CPM. \n\nFor what you pay in “premium” targeting, you get very little in reporting. They can’t report out on individual show level, just the genres you ran across. And again, absolutely no measurement capes. Your $$$ go further on FAST channels and you get more control over what you can measure.\n\nAlso, you can only activate Netflix via PMP or PG thru TTD or DV, no other DSPs are integrated",
+      "score": 2,
+      "created_utc": 1740432216.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "do you have pmp contracts on ttd?",
+      "score": 1,
+      "created_utc": 1740428511.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Between CTV and other screens, yes.\nThere are tons of graphs and ai snake oil but these are al either not really moving the match rate needle or doing it too well so the data make no sense",
+      "score": 2,
+      "created_utc": 1740390732.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Our own DSP",
+      "score": 1,
+      "created_utc": 1740763877.0
+    },
+    {
+      "author": "Curly-Girl1110",
+      "body": "Agre. MNTN needs to be regulated. 44 day conversion windows and overzealous attr",
+      "score": 2,
+      "created_utc": 1740407870.0
+    },
+    {
+      "author": "klustura",
+      "body": "Thanks. Insightful.\n\nI think when we say that something outperforms something else, we should clarify on what it does it.\n\nA race car outperforms a truck on speed, but not on carrying merchandise.\n\nSo I believe that the analysis should be pushed to LTV. Does Performance CTV bring more loyal clients than end up spending more because the brand stickiness is enhanced by the branding impact CTV can have.\n\nHope it makes sense. I've not had the chance to do this and explore this idea.",
+      "score": 3,
+      "created_utc": 1740424564.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": ">Putting yourself in others' shoes doesn't mean much in advertising.\n\nOh my. David Ogilvy is spinning in his grave right now.",
+      "score": 5,
+      "created_utc": 1740406680.0
+    },
+    {
+      "author": "itsbwp",
+      "body": "On average, 99.95% of impressions served programmatically aren’t clicked on. In most formats, people don’t click (unless it’s SEM or a solely clickable medium).",
+      "score": 2,
+      "created_utc": 1740440174.0
+    },
+    {
+      "author": "p_romo",
+      "body": "No we have our own PMP deals.",
+      "score": 1,
+      "created_utc": 1740448848.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Sure, there's definitely a halo effect that comes with advertising on TV. But I don't think of that as being a \"performance\" channel simply because the long-term value might be greater than an actual performance channel like Facebook.",
+      "score": 2,
+      "created_utc": 1740427664.0
+    },
+    {
+      "author": "klustura",
+      "body": "I can't say and you can't say if he's spinning or not. You and I aren't in his coffin.\n\nThere are limitations to \"put yourself in their shoes\".\nExample: I'll never understand why people get tattooed. I've read about it. Talked about it. Still nothing. The best way for me then to target them is not to put myself in their shoes.",
+      "score": 1,
+      "created_utc": 1740424825.0
+    },
+    {
+      "author": "klustura",
+      "body": "Needs a correlation with the viewability rates.\nMost of the crap bought programmatically is not viewed (or not even rendered).\n\nAnother correlation: premium-ness of the inventory, but this one is a subjective metric.",
+      "score": 1,
+      "created_utc": 1740469251.0
+    },
+    {
+      "author": "klustura",
+      "body": "The long or short term performance is inherently linked to the type of the product you sell.\nI agree with the rest.",
+      "score": 1,
+      "created_utc": 1740469106.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": ">I can't say and you can't say if he's spinning or not. You and I aren't in his coffin.\n\nI'm quite certain that your resistance to the idea that you need to put yourself in the customer's shoes is something Ogilvy would've firmly rejected.\n\nIf you refuse to even try to understand what someone in a target audience might be thinking, how could you possibly ever hope to speak to them effectively? Anyone can slap a targeting segment on a campaign, but only people who actually know the foundations of advertising will know what to do with the people they're trying to reach.",
+      "score": 2,
+      "created_utc": 1740427548.0
+    },
+    {
+      "author": "klustura",
+      "body": "We're not totally disagreeing. What I'm pointing out is the fact that putting yourself in others' shoes can be misleading. There are so many examples of wrong advertising campaigns that went wrong despite prior deep market and user behaviour research.\n\nStatistically speaking, you're right because yes the shoes tactic is good enough to reduce the risks and increase the rewards. Theoretically speaking, shoes tactic doesn't cover all the possible cases and can be misleading.\n\nCircling back to the above example: I never click on ads but I do scan qr codes. You statistically chose to ignore me in your Performance CTV strategy, but theoretically you shouldn't because I might be in the target, and for me, that's what marketing is a bit about: target also people you, as an individual, don't need to understand (something can emerge from that). I've failed understanding tattoed people but I still need to target them when needed.\n\nHope it makes sense.",
+      "score": 0,
+      "created_utc": 1740468882.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1ng3o05",
+  "title": "ADSP Netflix CPMs",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ng3o05/adsp_netflix_cpms/",
+  "created_utc": 1757785141.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "beckster5",
+      "body": "I don’t understand how it would scale if we get the ability to layer Amazon data. It barely scales as it is with just the age, gender, genre options they natively offer.",
+      "score": 2,
+      "created_utc": 1758023693.0
+    },
+    {
+      "author": "Mankzy",
+      "body": "We are a managed service company but we list CPMs between $30 and $35 depending on audience targeting.",
+      "score": 2,
+      "created_utc": 1757786115.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1757809515.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I think we won't truly know what CPMs you should expect here, till we have a clear vision on how Amazon and Netflix will view the potential use of Amazon 1st party-data against Netflix supply. If that's possible, expect those CPMs to see a pretty steep inflation compared to other DSPs as it will be one of, if not the highest caliber, of purchase intent data available for Netflix",
+      "score": 1,
+      "created_utc": 1757927995.0
+    },
+    {
+      "author": "danie-l",
+      "body": "it's not yet available [https://ppc.land/netflix-becomes-available-in-amazon-dsp-starting-q4-2025/](https://ppc.land/netflix-becomes-available-in-amazon-dsp-starting-q4-2025/)",
+      "score": 1,
+      "created_utc": 1757787526.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "Thanks!",
+      "score": 2,
+      "created_utc": 1757817796.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "Not sure I follow?",
+      "score": 1,
+      "created_utc": 1757817820.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "I thought Netflix doesn’t allow/pass any data relating to user or ID? If they changed that posture with Amazon, yeah, the CPM will skyrocket. If not, I’m not sure how useful any Amazon 1P data would be.",
+      "score": 1,
+      "created_utc": 1757940795.0
+    },
+    {
+      "author": "SkywardBodhi",
+      "body": "Understood. Hence why I asked what other platforms see (DV360, TTD, etc.).",
+      "score": 3,
+      "created_utc": 1757817776.0
+    },
+    {
+      "author": "exclaim_bot",
+      "body": ">Thanks!\n\nYou're welcome!",
+      "score": 1,
+      "created_utc": 1757817808.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "Go to [https://amiunique.org/](https://amiunique.org/) \\- if the user is watching the content via their phone/laptop, the browser fingerprinting alone, matched up with Amazon purchase data? \n\n  \nYeah, that's gonna be powerful.",
+      "score": 0,
+      "created_utc": 1757970801.0
+    }
+  ]
+}

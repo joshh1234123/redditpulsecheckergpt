@@ -1,0 +1,39 @@
+{
+  "id": "1l4da82",
+  "title": "OOH",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l4da82/ooh/",
+  "created_utc": 1749164418.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "wickedysplit25",
+      "body": " Vistar is a solid option for programmatic DOOH, allowing you to target billboards within specific geographic areas. For confirming a specific billboard on a specific date, check with Vistar’s platform for real-time availability, though exact bookings can vary due to dynamic inventory. You might also consider hybrid approaches, combining programmatic tools with direct rep coordination to ensure precision.",
+      "score": 4,
+      "created_utc": 1749181478.0
+    },
+    {
+      "author": "Conscious_Key8212",
+      "body": "Hi! No dumb questions here - glad you're asking.  \nYou could actually benefit a lot from using programmatic DOOH, especially since you're working with small and medium businesses.  \nOne of the big advantages is that it allows you to buy shorter time slots, which lowers the entry barrier for clients. It also helps optimize campaign performance - for example, by avoiding overdelivery and excessive frequency, which is something programmatic handles really well.  \nOne thing I wasn’t totally clear on: are you acting as an agency that connects advertisers with billboard owners? Or are you the media owner yourself? That would help tailor the advice a bit better.",
+      "score": 3,
+      "created_utc": 1749209596.0
+    },
+    {
+      "author": "BurnerAcountInnit",
+      "body": "Who owns the billboards? What's your job, sales?",
+      "score": 1,
+      "created_utc": 1749164994.0
+    },
+    {
+      "author": "AdTechGinger",
+      "body": "Adding to previous comment, are these digital billboards or traditional (printed/static)? If the later, nope, programmatic cannot help- I bought a lot of traditional billboards in my previous life, and I can't think of any way programmatic tech could help automate that old-school process. Programmatic is very much about real time (why we use the RTB acronym for Real Time Bidding so much). Static billboards are very much not real time- so the digital stuff is the only potential opportunity here for you.",
+      "score": 1,
+      "created_utc": 1749173143.0
+    },
+    {
+      "author": "employerGR",
+      "body": "With programmatic for OOH you are only able to bid live for 5-7s spots on billboards. You can target individual billboards by geo or by type. But it works best when targeting a larger area. We use it to target individual say subway lines or all the billboards across a city for example. You wont be able to control exactly when and where they ads show. (you can day part). That is the negative. The positive is its all automated and you can access a lot of inventory.",
+      "score": 1,
+      "created_utc": 1749493484.0
+    }
+  ]
+}

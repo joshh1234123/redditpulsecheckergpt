@@ -1,0 +1,93 @@
+{
+  "id": "1i1jwcm",
+  "title": "If You Could build a logic to identify users for Retargeting how would you do it other then time frame ?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i1jwcm/if_you_could_build_a_logic_to_identify_users_for/",
+  "created_utc": 1736897876.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "HurricaneKim",
+      "body": "Depending on what you have pixeled, you could create segments based on certain pages a user has been to or what stage of purchase/conversion funnel they are in, if applicable, in addition to the recency settings you have.",
+      "score": 4,
+      "created_utc": 1736901059.0
+    },
+    {
+      "author": "OppositeWeb50",
+      "body": "Assuming you're retargeting page visits, adding parameters for non-bounce visits or page scroll depth are good ways to segment your audience for qualified visitors",
+      "score": 2,
+      "created_utc": 1736901323.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "Build audience models based behavioral data. Tie it to server side data.",
+      "score": 1,
+      "created_utc": 1736911160.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Build out segments, based on the time on site, the number of pages visited, source traffic to site or multiple visit to your site within a certain time-frame. All of this is kinda contingent that you're seeing enough traffic to build and target these segments, but there's quite a lot of possibilities",
+      "score": 1,
+      "created_utc": 1737018809.0
+    },
+    {
+      "author": "Wrong-Ad2465",
+      "body": "Can I dm you?",
+      "score": 1,
+      "created_utc": 1736901348.0
+    },
+    {
+      "author": "CautiousWeek5807",
+      "body": "Seconding this! A few ideas here could be users who engaged with product pages but didn't buy, users who have added items to a cart but then didn't purchase (cart abandoners), or specific actions/buttons on the website that would indicate someone is engaged and considering purchasing. All of these tactics could help move users down the funnel. If possible I'd also recommend coupling Retargeting strategies with unique creative messaging to maximize conversion potential - for example, Retargeting cart abandoners with a 20% promo code.",
+      "score": 1,
+      "created_utc": 1738732718.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "Hi! I'm already retargeting page visitors and ad clickers in TTD, but I'm curious about how to add parameters for non bounce visits or page scroll depth? That sounds cool! Any way you can give me some specific on how to set that up? I'm using TTD, Beeswax and Simpli.fi DSPs.",
+      "score": 1,
+      "created_utc": 1736910736.0
+    },
+    {
+      "author": "Wrong-Ad2465",
+      "body": "Thank you, please let me know if you have any more brain storming thoughts. I wanted to ask if it is a lower funnel kpi like order confirmation or booking confirmation where currently I am retargeting based on booking start. What more I can do ?",
+      "score": 1,
+      "created_utc": 1736952275.0
+    },
+    {
+      "author": "Wrong-Ad2465",
+      "body": "Can I dm you?",
+      "score": 0,
+      "created_utc": 1736901380.0
+    },
+    {
+      "author": "Wrong-Ad2465",
+      "body": " I wanted to ask if it is a lower funnel kpi like order confirmation or booking confirmation where currently I am retargeting based on booking start. What more I can do ?",
+      "score": 1,
+      "created_utc": 1736952285.0
+    },
+    {
+      "author": "Wrong-Ad2465",
+      "body": "thank you. can i dm you",
+      "score": 1,
+      "created_utc": 1737037703.0
+    },
+    {
+      "author": "HurricaneKim",
+      "body": "Go for it",
+      "score": 1,
+      "created_utc": 1736902199.0
+    },
+    {
+      "author": "OppositeWeb50",
+      "body": "No prob",
+      "score": 1,
+      "created_utc": 1736901912.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Go for it!",
+      "score": 1,
+      "created_utc": 1737055769.0
+    }
+  ]
+}

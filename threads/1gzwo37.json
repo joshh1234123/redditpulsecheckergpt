@@ -1,0 +1,225 @@
+{
+  "id": "1gzwo37",
+  "title": "Is MNTN really that special?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gzwo37/is_mntn_really_that_special/",
+  "created_utc": 1732575560.0,
+  "num_comments": 38,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "Short answer— no. \n\nOne of my clients wanted me to audit their current CTV campaigns in MNTN before sending all of their business to me (primarily use TTD for CTV)\n\nSo I spent a couple hours diving into the platform. Not much more time was really needed.\n\nIts bare bones simple, and it’s clearly geared to be used in-house by a company that wants to advertise on CTV but have no marketing team. Very “point and click”, turn it on and forget it. \n\nso in that sense, it’s probably awesome and highly regarded for small businesses— those who can’t access a major DSP, can’t afford an agency, etc. \n\nBut anyone who has made a career out of programmatic will be less than thrilled with it, especially from an optimization and reporting standpoint",
+      "score": 21,
+      "created_utc": 1732580255.0
+    },
+    {
+      "author": "Ok_Impression_564",
+      "body": "They are actually built on top of beeswax these days.\n\nI had a call with MNTN recently and the salesperson couldn’t answer any of my technical questions…\n\nLook up steel house advertising, that’s who they used to be.",
+      "score": 17,
+      "created_utc": 1732594812.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "MNTN is all smoke and mirrors. The reporting is optically good yes, but their technology is just built on top of TTD’s bidder. The targeting is basically useless because the platform just runs on “machine learning”…my team has run multiple campaigns and you can’t optimize anything…so forget about pacing or sticking to a contracted CPM. We couldn’t get a campaign basically targeting the entire NYC DMA to deliver a consistent daily spend…I think it works for big broad advertisers who only care about branding…they really push performance…but you’re going to flood out a ton disguised display impressions to inflate your conversion window. But Ryan Reynolds is pretty",
+      "score": 15,
+      "created_utc": 1732581934.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "I would toss MNTN. My buying experience is limited on DV but my $0.02 in general would be MNTN is no bueno. \n\nIf I had to use a separate buying platform outside of your DSP seat, I’d just use Vibe. \n\nWhat’s the reason your boss wants/likes MNTN?",
+      "score": 11,
+      "created_utc": 1732577614.0
+    },
+    {
+      "author": "taupewall",
+      "body": "If this is a thread of people shitting on MNTN, can someone tell me why they are so popular? I work at a big CTV publisher and MNTN represents a significant amount of spend.",
+      "score": 4,
+      "created_utc": 1732598356.0
+    },
+    {
+      "author": "bonezbonez",
+      "body": "I believe they were caught using click bots to boost performance before they “rebranded”",
+      "score": 3,
+      "created_utc": 1732632434.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "No",
+      "score": 2,
+      "created_utc": 1732638995.0
+    },
+    {
+      "author": "AttitudeCorrect9449",
+      "body": "I'm glad we finally have an answer to this question besides Ryan Reynolds lol.\n\nI had a feeling it was just another managed service shop.",
+      "score": 2,
+      "created_utc": 1732668675.0
+    },
+    {
+      "author": "Madhops90s",
+      "body": "A lot of “CTV” inventory appearing on mobile devices.",
+      "score": 2,
+      "created_utc": 1732994369.0
+    },
+    {
+      "author": "Disastrous-Lynx4789",
+      "body": "NewOrleansSpeed - I'm not one to use this forum to 'pitch', but speaking up as we're very relevant to your topic of a unified platform - and perhaps we can help.  I'm with a programmatic platform that is integrated with the top 15 DSPs - simultaneously.  Meaning, a single campaign fluidly travels across all DSPs such as TTD, DV360, Yahoo, Meta, AMZN, Spotify, Vistar, and many more - while the AI optimizes in real-time, and aggregates the best performing pockets from each DSP into a single unified campaign.  We're using the strengths of many DSPs, vs just one.  Plenty of reporting and visualizations to show performance of each DSP, who's contributing, where, and how.  Nobody else is doing this.  We're outperforming the same stand-alone DSPs we're integrated with, and crushing 'Meta DSPs' and 'resellers', as they're still manual and take very high margins.\n\nDM me with any interest.  Happy to share more.",
+      "score": 2,
+      "created_utc": 1733163094.0
+    },
+    {
+      "author": "Own-Cupcake-2606",
+      "body": "What are your thoughts on vibe? Are they any better?",
+      "score": 1,
+      "created_utc": 1749833616.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Exactly! \n\nThey were asking me levers to optimize and I’m pretty disappointed. Super barebones, you can’t even do category.",
+      "score": 2,
+      "created_utc": 1732583081.0
+    },
+    {
+      "author": "jacobjp52285",
+      "body": "Out of sheer curiosity what kind of customization are you looking for?",
+      "score": 1,
+      "created_utc": 1737400349.0
+    },
+    {
+      "author": "prose4jose",
+      "body": "It’s not built on top of TTD. It’s built on top of Beeswax.",
+      "score": 9,
+      "created_utc": 1732597980.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Thank you! And that is what i saw too, targeting settings are just super nonexistent besides audiences. \n\nThese guys need some help",
+      "score": 2,
+      "created_utc": 1732586700.0
+    },
+    {
+      "author": "JackKelly-ESQ",
+      "body": ">What’s the reason your boss wants/likes MNTN?\n\nHave you seen Ryan Reynolds...\n\nSeriously, though, a celebrity endorsement/investment is having an outsized impact in their rise in business.",
+      "score": 17,
+      "created_utc": 1732578076.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "He said it’s “irreplaceable” and that’s all i got for the day lmao. Talking to him more tomorrow. I straight up asked if he had ever seen DV lol. MNTn is like puddle deep comparatively.",
+      "score": 4,
+      "created_utc": 1732583008.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Good marketing \n\nClient experience that is geared towards claiming organic growth to stem from CTV",
+      "score": 4,
+      "created_utc": 1732601811.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Huge inbound over there between Ryan Reynolds (as mentioned in many other comments) and their CEO who gets tapped a lot as a talking head by Bloomberg, CNBC, etc. to discuss marketing, technology, etc.\n\nAlso, they've been eating the cost of targeting data, even for health campaigns",
+      "score": 2,
+      "created_utc": 1732638497.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Beautiful, love to see it",
+      "score": 1,
+      "created_utc": 1732634512.0
+    },
+    {
+      "author": "taupewall",
+      "body": "Quite the accusation, care to elaborate?",
+      "score": 0,
+      "created_utc": 1732639035.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "that does sound pretty sick man ngl",
+      "score": 1,
+      "created_utc": 1733968343.0
+    },
+    {
+      "author": "ScaryYogurtcloset900",
+      "body": "What platform ?",
+      "score": 1,
+      "created_utc": 1734775081.0
+    },
+    {
+      "author": "Qwazybad",
+      "body": "What company?",
+      "score": 1,
+      "created_utc": 1757735728.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Never heard of them actually, I’ll give it a look up.",
+      "score": 1,
+      "created_utc": 1750256904.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Ok, I thought it was TTD…but if beeswax, not an upgrade",
+      "score": 3,
+      "created_utc": 1732620774.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "Lmao",
+      "score": 8,
+      "created_utc": 1732578192.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "I think Ryan is the CEO.",
+      "score": 1,
+      "created_utc": 1732608631.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "[insert Ryan Reynolds’s fucked grin]",
+      "score": 3,
+      "created_utc": 1732634478.0
+    },
+    {
+      "author": "bonezbonez",
+      "body": "Yeah here is what was passed around - https://www.businessinsider.com/criteo-vs-steelhouse-click-fraud-lawsuit-2016-6",
+      "score": 5,
+      "created_utc": 1732639146.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Used to be on TTD several years ago but Beeswax now (just like basically every other SMB/performance CTV platform)",
+      "score": 1,
+      "created_utc": 1733168416.0
+    },
+    {
+      "author": "JackKelly-ESQ",
+      "body": "He's dreamy. And that's all that matters, apparently. 😅",
+      "score": 2,
+      "created_utc": 1732645382.0
+    },
+    {
+      "author": null,
+      "body": "[removed]",
+      "score": 2,
+      "created_utc": 1739787380.0
+    },
+    {
+      "author": "taupewall",
+      "body": "Wow. I had no idea. Looks like the case was eventually dismissed and Criteo chalked it up to a misunderstanding of differing attribution methodologies. \n\nI wonder what the real story was? Maybe SteelHouse found some equally shady Criteo nonsense or Criteo didn’t think it was worth it to pursue the suit after SteelHouse rebranded to MNTN to focus on CTV.",
+      "score": 4,
+      "created_utc": 1732655753.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Thank you, I didn’t actually know and was too lazy to look it up. I just knew he had a C title.",
+      "score": 1,
+      "created_utc": 1739803355.0
+    },
+    {
+      "author": "MisfitMediaLab",
+      "body": "I remember this very well! They were manipulating the google conversion to give Steel House credit.",
+      "score": 3,
+      "created_utc": 1732662909.0
+    }
+  ]
+}

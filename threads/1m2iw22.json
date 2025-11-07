@@ -1,0 +1,51 @@
+{
+  "id": "1m2iw22",
+  "title": "My Dv360 account cant create Youtube Line Items. -Marketplace enabled and Terms & Conditions for accessing Google & partner inventory accepted.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m2iw22/my_dv360_account_cant_create_youtube_line_items/",
+  "created_utc": 1752785239.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "linuz14",
+      "body": "What marketplace are you referring to?",
+      "score": 3,
+      "created_utc": 1752785839.0
+    },
+    {
+      "author": "KHaz_14",
+      "body": "In the IO settings , you need to select \"control budget on Line Item level\".\n\nIf you go for budget via IO, Youtube line items are simply not available",
+      "score": 3,
+      "created_utc": 1752958163.0
+    },
+    {
+      "author": "Fairy_icedcoffee",
+      "body": "It’s probably the objective at Insertion order level. Try “without objective”, hope this helps",
+      "score": 2,
+      "created_utc": 1752789973.0
+    },
+    {
+      "author": "Remarkable_Guest2806",
+      "body": "Which dsp ? Google ?",
+      "score": -2,
+      "created_utc": 1752803914.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "It worked!! Thank you",
+      "score": 2,
+      "created_utc": 1753273227.0
+    },
+    {
+      "author": "tomgoge",
+      "body": "I've already tried it and wont let me still",
+      "score": 1,
+      "created_utc": 1752796108.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "This is a wild question",
+      "score": 6,
+      "created_utc": 1752804757.0
+    }
+  ]
+}

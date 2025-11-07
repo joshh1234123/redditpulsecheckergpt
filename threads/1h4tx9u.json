@@ -1,0 +1,21 @@
+{
+  "id": "1h4tx9u",
+  "title": "IRIS.tv data reliability?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h4tx9u/iristv_data_reliability/",
+  "created_utc": 1733142776.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "Full disclosure, I work for a company which is partnered with Iris for the contextual classification of the CTV inventory they sell. Fundamentally, Iris supplies vendors like us the ability to analyze the video content using machine learning, content recognition etc. to analyze the actual content of the show and assign that to a contextual segment. Iris provides the different CTV broadcasters with their unique Iris ID per show which can be passed in the bid-stream of most DSPs and SSPs. These IrisIDs then correspond to the assigned contextual segment to ensure you're then running on only the content you wanted to target contextually. However, you'll need to once again collaborate with Iris to understand the show behind each unique IrisID if that's information you'll need to provide back to your client",
+      "score": 2,
+      "created_utc": 1733216623.0
+    },
+    {
+      "author": "_haveaday",
+      "body": "Out of curiosity -- what kind of categories do you assign the segments to? Is it as generic as \"action\" or \"comedy\" or more niche like \"court room\" or \"surfing\" ?",
+      "score": 1,
+      "created_utc": 1740588716.0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "1lh3us6",
+  "title": "Demand Gen Query",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lh3us6/demand_gen_query/",
+  "created_utc": 1750531897.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "cuteman",
+      "body": "CTR as a programmatic campaign goal ensures crappy inventory",
+      "score": 3,
+      "created_utc": 1750544381.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "What is the campaign and what are you trying to achieve?",
+      "score": 1,
+      "created_utc": 1750536005.0
+    },
+    {
+      "author": "angel44326",
+      "body": "Have you considered pixeling the landing page with a time-based site visit (you can decide the threshold to reduce bounced sessions) and optimizing to that?",
+      "score": 0,
+      "created_utc": 1750537153.0
+    },
+    {
+      "author": "PermissionPositive65",
+      "body": "I also do youtube campaigns in the movie industry. I use maximize clicks and cpc goal for dg",
+      "score": 0,
+      "created_utc": 1750538951.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "What would you suggest if I choose clicks as the objective at IO lvl for demand gen, only considerable option left is CPC. I heard for YouTube CTR works better for clicks as CPC fluctuates on YouTube? What about the floodlights? Clicks don't offer floodlights for tracking, Could that result in a major loss in tracking?",
+      "score": 1,
+      "created_utc": 1750569725.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "As I mentioned it's the demand gen line which I'm running for Jurassic World! Our primary goal is to generate clicks!",
+      "score": 0,
+      "created_utc": 1750567672.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Ig we don't! Because we just track the clicks on our landing urls, post click user journey isn't part of it! Have you worked on Demand Gen? If I go with clicks as the objective, would that be better for Demand Gen, considering we can't have floodlights? Which KPI would drive more clicks and give better tracking for YouTube landing URL clicks—CTR or CPC? Currently we're considering CTR.",
+      "score": 1,
+      "created_utc": 1750569956.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Page view > clicks. User who clicked by mistake will not generate a full page load. \nSo better than clicks.",
+      "score": 1,
+      "created_utc": 1750588480.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Great, you would have a better idea! So we are currently running DG with conversion as IO objective and Click Conversation rate as our KPI. We are thinking of switching to clicks with the impressions CTR as our KPI. How would this work out? Since you are using Clicks and CPC w/o floodlights, is there a loss in tracking clicks? What's the highest CTR and avg CTR you achieve? Which is the better KPI - CPC or CTR for DG?",
+      "score": 1,
+      "created_utc": 1750568781.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Got it. \nClicks are not a real life business goal .\n\nSounds like the real business goal is to generate interest and box office results for the movie.\n\nIn the open market programmatic space optimization toward  cheap clicks only will result in bad and crappy accidentally clicked prone/  fraudulent inventory.\n\nIf you must run for clicks I would be very picky with the publishers include list and will not try to chase cheap clicks.\n\nGenerally , I suggest sticking with real olv, ott and CTV video ads , paired with companion mobile display of smaller sizes like 320/50 px (lower amount of fat finger clicks) for users who watched the video ads.",
+      "score": 0,
+      "created_utc": 1750588134.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "IO settings mean nothing on DV360 for YT/DG campaigns, it's all about the LI level where you choose the objective / type. \nIf you just want inflated CTR on DG, just cut out discover / YT and run on GVP / GDN. It's largely fraudulent but gets inflated CTR.",
+      "score": 0,
+      "created_utc": 1750582468.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "It's what they want! Can't change that..main goal is obvio brand awareness and interest for the movie. They want clicks on their ticket sales landing urls through YouTube Demand Gen. But what would you suggest b/w CPC and CTR? Which KPI will optimise better for clicks? The issue with running with clicks is we can't use floodlights.",
+      "score": 0,
+      "created_utc": 1750599204.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Sadly, running on GDN isn't an option! We strictly run YouTube videos for programmatic. For Demand Gen you don't have any bids or kpi metric at LI or Ad group lvl. You select the KPI and bids at IO lvl! But what do u prefer, running on a conversion strategy with floodlights or switching to clicks w/o floodlight tracking? Would there be a big loss in tracking?  CPC or CTR which metric would be better to use?",
+      "score": 1,
+      "created_utc": 1750601340.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "GDN is an additional placement in demand gen nowadays, you should see it as a tick box.\nAnd the settings that matter are on the LI level from my experience, IO is irrelevant especially on YT DV360 which is a ported version from Google Ads.",
+      "score": 1,
+      "created_utc": 1750611795.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Ik GDN is an additional option, but we strictly run skippable video ads on YouTube, which is why we exclude it. Li matters more, true! However, for Demand Gen we can only set bids at IO lvl, there's just out optimised targeting at li lvl. I'm thinking to go with CPC as the KPI because that would be more cost effective than CTR. That said, any thoughts — w/o floodlights, how the system tracking would fair?",
+      "score": 1,
+      "created_utc": 1750612882.0
+    }
+  ]
+}

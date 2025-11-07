@@ -1,0 +1,75 @@
+{
+  "id": "1i9t1f3",
+  "title": "Platform to platform vs. direct buys",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i9t1f3/platform_to_platform_vs_direct_buys/",
+  "created_utc": 1737828650.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Typically I use PG or DIO if client wants specific inventory not available in PMP or OE. Live sports is a good example of a case where I go direct since I can negotiate the CPM upfront and have some consistency in cost and impressions delivered in a content environment that’s hard to control / pace.",
+      "score": 4,
+      "created_utc": 1737831127.0
+    },
+    {
+      "author": "JortsVanGuy",
+      "body": "Typically I buy through PMP's or PG deals as the upfront we sign with them give us significant CPM savings.",
+      "score": 4,
+      "created_utc": 1737830848.0
+    },
+    {
+      "author": "imad786",
+      "body": "We go for a direct deal when the vendor offers a lower CPC or CPM deal compared to what is offered on the DSP.",
+      "score": 2,
+      "created_utc": 1737975637.0
+    },
+    {
+      "author": "Front_Ad_4439",
+      "body": "What are the benefits of going direct?",
+      "score": 1,
+      "created_utc": 1737898506.0
+    },
+    {
+      "author": "pardonmyfrenchnj",
+      "body": "About 45% was from 1st party PMPs with a sprinkling in of PGs, around 50% were from always on deals found in the DSP and the rest was open market",
+      "score": 1,
+      "created_utc": 1738086566.0
+    },
+    {
+      "author": "JortsVanGuy",
+      "body": "To answer your second question, we never go direct because then we are relying on them for reporting and transparency rather than gathering that data through our DSP. Which is super valuable to us.",
+      "score": 5,
+      "created_utc": 1737830901.0
+    },
+    {
+      "author": "Venturecap_wiz12",
+      "body": "Would love to chat, trying to test something and would love to pick your brain.",
+      "score": 1,
+      "created_utc": 1758382023.0
+    },
+    {
+      "author": "soloinmiami",
+      "body": "Got it. I imagine that's almost never because there's no incentive for them to do that.",
+      "score": 1,
+      "created_utc": 1737989857.0
+    },
+    {
+      "author": null,
+      "body": "Guaranteed delivery, fixed CPMs, no additional tech fees for the buyer.",
+      "score": 1,
+      "created_utc": 1738178792.0
+    },
+    {
+      "author": "soloinmiami",
+      "body": "Great feedback. Thank you.",
+      "score": 1,
+      "created_utc": 1737831298.0
+    },
+    {
+      "author": "imad786",
+      "body": "They usually demand for a minimum spend promise from us which is not the case when listing the inventory through dsp’s.",
+      "score": 1,
+      "created_utc": 1738148030.0
+    }
+  ]
+}

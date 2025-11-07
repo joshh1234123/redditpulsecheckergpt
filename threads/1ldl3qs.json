@@ -1,0 +1,45 @@
+{
+  "id": "1ldl3qs",
+  "title": "Retail data activation in DSPs",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ldl3qs/retail_data_activation_in_dsps/",
+  "created_utc": 1750161153.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Yahoo dsp accepts kroger data. Ttd accepts majority of retailers. Walmart uses ttd as buying platform (walmart dsp)\nCan you buy with a pmp? Yes, but it may not scale | wmt dsp i haven’t tried yet \nCan you buy with a pg? Not 100% but leaning towards no | same as the pmp answer for wmt dsp\n\n(The above doesn’t necessarily applies to amazon but the other retailers)",
+      "score": 3,
+      "created_utc": 1750161706.0
+    },
+    {
+      "author": "Creative-Car-2243",
+      "body": "You can use Amazon retail data and target across open exchanges and PMP deals using Amazon DSP",
+      "score": 3,
+      "created_utc": 1750170053.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "Currently working with Amazon DSP as main DSP here.  \nFor endemic advertisers we usually use retail data (custom asin-based audiences) to convey traffic on brand stores or PDP on PMP and Open exchanges. i highly recommend using Amazon Publisher Direct as inventory to increase audience match rate.   \n  \nFor non-endemic you can leverage both In-Market and Lifestyle audiences but not custom build asin-based audiences. Also verify with you AMZ representative if your advertiser has some restriction on IM audiences targeting.\n\nUnfortunately Programmatic Guaranteed via ADSP does not support audience targeting at Line item level. You can still use Amazon shopper data when your PG deal is created from Amazon.",
+      "score": 1,
+      "created_utc": 1750191051.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "You can use retail data across PMPs or Open Exchange.  PG deals would not work as its publisher controlled.   With TTD, you can leverage multiple retail data sets on the same campaign and optimize to performance.  We’ve used our upfront buys with Retail Data in TTD and scales well/performs well.",
+      "score": 1,
+      "created_utc": 1750721792.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you for the details, so in the case of Walmart - do you activate their data on open web activities only and with an inclusion list?",
+      "score": 1,
+      "created_utc": 1750166019.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "Also worth noting in Amazon DSP you can inject Amazon data (streaming, retail, network, device, geo etc. - prebuilt vs custom audience) into XYZ publishers to curate a deal based off Amazon data through Amazon Publishing Cloud / Amazon Publisher Direct to curate PG or PMP deals.",
+      "score": 1,
+      "created_utc": 1750562980.0
+    }
+  ]
+}

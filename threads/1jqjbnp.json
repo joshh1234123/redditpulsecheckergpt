@@ -1,0 +1,39 @@
+{
+  "id": "1jqjbnp",
+  "title": "DV360/CM360 Macro Issue",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jqjbnp/dv360cm360_macro_issue/",
+  "created_utc": 1743689108.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": null,
+      "body": "This is one of the most niche technical questions I’ve seen in a while. I know the basis of what you’re asking, but I have no idea how to fix it. So, here’s an answer from Claude:\n\nThe user was using DV360 macros to pull Line Item IDs into UTM parameters with Key Value Pairs in CM360, which had been working for a long time but recently stopped working. Now they’re just getting the raw macro text ($%7BCAMPAIGN_ID%7D) in Analytics instead of the actual campaign IDs.\n\nBased on experience with Google’s ad platforms, this could be due to:\n\n1. A silent update to how macros are processed between these platforms\n2. Changes in the macro syntax requirements (possibly requiring different encoding)\n3. Permission/account linking issues between the DV360 and CM360 instances\n4. Changes in how UTM parameters are being passed to Analytics\n\nPossible solutions might include:\n- Checking if macro syntax needs updating\n- Verifying account linkages between platforms\n- Testing alternative macro formats\n- Contacting Google support for confirmation of any changes",
+      "score": 3,
+      "created_utc": 1743738952.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1743772903.0
+    },
+    {
+      "author": "fredy013",
+      "body": "Hey it has been a month since you asked this but I might have a clue.\n\nIt looks like a double URL encoding issue. You may debug your network traffic to see if the redirection URL has been encoded correctly. If you are using multiple redirection URLs, the correct format must be like this:\n\nunencoded URL + encoded URL + double encoded URL\n\nan example:\n\n[https://1st-domain.com/?redirect=https%3A%2F%2F2nd-domain.com%2F%3Fredirect%3Dhttps%253A%252F%252F3rd-domain.com%252Flanding\\_page](https://1st-domain.com/?redirect=https%3A%2F%2F2nd-domain.com%2F%3Fredirect%3Dhttps%253A%252F%252F3rd-domain.com%252Flanding_page)\n\nIf you paste the URL above to this tool and click decode you can see this better: [https://meyerweb.com/eric/tools/dencoder/](https://meyerweb.com/eric/tools/dencoder/)\n\nYour URL macro for getting the campaign ID might have encoded and because of this, CM360/DV360 can't detect the macro and treats like a plain string.",
+      "score": 1,
+      "created_utc": 1746270227.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "I'll take that as a compliment! 😁 Thanks, already consulted brother Claude :-D Didn't really help and I think Google will hopefully has an answer to this. CM360 support already said it looks perfectly fine, DV360 support statement is coming soon. I'll keep you posted.",
+      "score": 2,
+      "created_utc": 1743769249.0
+    },
+    {
+      "author": null,
+      "body": "Wrong thread",
+      "score": 1,
+      "created_utc": 1744998269.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1lk6bhh",
+  "title": "amazon DSP: auto opting out of lines",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lk6bhh/amazon_dsp_auto_opting_out_of_lines/",
+  "created_utc": 1750859681.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Creative-Car-2243",
+      "body": "Does the order have enough budget to cover the manual budget you have entered at the line item level based on what you have already spent?",
+      "score": 1,
+      "created_utc": 1750885293.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "Are there other line items in the same order? Is the budget shifting to other lines? You probably have budget optimization turned on. You can turn it off at the order settings in the Optimization section.",
+      "score": 1,
+      "created_utc": 1750859974.0
+    },
+    {
+      "author": "Lost_Row4218",
+      "body": "yes, that's exactly what's happening, so i changed the underspending lines to manage budget manually, but kept the other lines at automate budget. do you think that's still affecting it since the other lines are automated?",
+      "score": 0,
+      "created_utc": 1750860149.0
+    }
+  ]
+}

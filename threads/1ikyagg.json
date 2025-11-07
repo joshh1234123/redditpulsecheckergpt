@@ -1,0 +1,147 @@
+{
+  "id": "1ikyagg",
+  "title": "CTV/OTT Ads: Self-Manage or Use an Agency?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ikyagg/ctvott_ads_selfmanage_or_use_an_agency/",
+  "created_utc": 1739050416.0,
+  "num_comments": 26,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "If you're just getting into this space, definitely worth starting with managed service until you get a better feel for the environment. There's a lot of potential waste and fraudulent impressions out there in CTV, so just having someone else do it while you get more comfortable with the nuances of the channel is recommended.\n\nYou could start with a DSP like Stackadapt too. Depending on your spend, they can give you your own seat but give you managed service to get started. That way you can see exactly what they're buying and how, and then learn from it before building your own campaigns. \n\nAvoid MNTN at all costs in case they come for you to try and win your business though.\n\nNote: Not a salesperson for any DSP or adtech company.",
+      "score": 14,
+      "created_utc": 1739052313.0
+    },
+    {
+      "author": "programmaticpigeon",
+      "body": "Managed service would certainly make things a little easier to get things started. CTV/OTT buying can be a bit complex as can managing campaigns in general in a DSP if you haven't had any experience with it before (although, PPC experience is definitely a good foundation). Larger DSPs like TTD are the most reputable for CTV buys but the minimums for self-service are going to be expensive and they have higher fees compared to the smaller DSP options out there.",
+      "score": 2,
+      "created_utc": 1739054587.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Quantcast has recently opened up their platform without minimum spends. So they are encouraging brands to use the platform as self serve and learn the moving parts of programmatic. \nAlso, they have a team of CSMs who are ready to jump on calls to help you setup campaigns and then work with you on how to best use the platform for CTV, Audio, Display and more. \nI think with PPC experience, you have a strong foundation which should get you upto speed with programmatic quite fast.",
+      "score": 2,
+      "created_utc": 1739107834.0
+    },
+    {
+      "author": "employerGR",
+      "body": "I work at a media buying agency and used to work at a DSP.  \n\nThere is A LOT of inventory types out there to choose from. The biggest issue with jumping in without a lot of experience is managing the right kind of inventory for what you want to do. You can get a self-serve DSP/platform and have a commercial running in a few hours. But the inventory itself is so varied.\n\nDepending on budget, you can also do 2-3 different types of buys. Programmatic is the \"easiest\" - click a few buttons and bam CTV ads. But you can also get stuck with bad inventory or going for too cheap of inventory to really be worth it. Or you go for premium inventory but its not really worth it for your goals or geo.     \n\nI would recommend using an Agency OR a managed buy with a DSP to start. Feel free to hit me up if you want some legit options and advice. I've worked on CTV campaigns for 6 years now and have learned a ton. I have run super low cost CPM and super premium stuff- plus everything in between.   \n\nPlus, you can have TV commercials made by a few companies out there for relatively low cost using stock video or animation.",
+      "score": 1,
+      "created_utc": 1739195342.0
+    },
+    {
+      "author": "whatsthedeal-",
+      "body": "I work at a managed service company if you wanna chat.",
+      "score": 0,
+      "created_utc": 1739052912.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "I work at a DSP that offers managed service and self service options. Hit me up if you want options",
+      "score": 0,
+      "created_utc": 1739062193.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Fuckin MNTN…",
+      "score": 10,
+      "created_utc": 1739061125.0
+    },
+    {
+      "author": "Ok-Disaster-6387",
+      "body": "Would agree with using a DSP to start running managed service and understand how they are buying. You can learn from them on weekly calls (any good managed service dsp will always be willing to help) and start running campaigns yourself!",
+      "score": 2,
+      "created_utc": 1739087765.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "What’s wrong with MNTN? Never used them, but like the performance pitch",
+      "score": 2,
+      "created_utc": 1739150304.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Over-attribution and, in general, the \"performance TV\" pitch is bullshit.",
+      "score": 2,
+      "created_utc": 1739150497.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "Do they have their own event store, or do they hook into others? What’s the window they look at?",
+      "score": 1,
+      "created_utc": 1739194836.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "The attribution window is set based on whatever you want, but they plug into GA4 directly, and they change up UTM parameters based on their own methodology. It's sort of difficult to explain without writing a bunch of paragraphs, but there's a general sense among experienced professionals in this space that they bomb users with impressions just so they can take credit for website visits and conversions even if the incremental value of the placements is minimal or nonexistent.\n\nThe thing I always tell clients/other people when they're considering MNTN is to consider whether MNTN is actually doing anything new or different in the CTV that would give it a leg up in performance or if they've simply found a way to make the numbers look better. Being able to see more CTV-attributable conversions is nice, sure, but is it driving more real-world business? No, at least not compared to other CTV buying approaches.\n\nOh, they're also just a rebrand of the old shop Steelhouse, which you should look into. Plenty of shady behavior in its past.",
+      "score": 4,
+      "created_utc": 1739197465.0
+    },
+    {
+      "author": "futurecrazycatlady20",
+      "body": "We’ve been using Mntn for time, and to offer a different a POV, we’ve seen it work for us. We use a variety of attribution methods, but one area I like to look at is the “how did you hear about us” - as in, asking customers how they heard about our brand. I’ve seen a huge uptick in customers mentioning “TV”, whereas before Mntn it was literally 0.\n\nI’ve also listened in on sales calls where prospects actively mention seeing our ads on TV. It’s been driving business for us. \n\nThis is not a sales pitch for Mntn, I do not work for them at all.\n\nThat being said, I do agree that they over attribute to TV and neglect the impact of their display advertising which typically has cheaper CPM and thus makes Mntn performance appear strong. But when you isolate to only TV spend, CPM is a bit high.\n\nBecause of this, and for other reasons, we’re looking at The Trade Desk. But Mntn has been a good way for us to get started in the TV space.",
+      "score": 1,
+      "created_utc": 1740093209.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "How do their reports work? Do they use multi-touch attribution, or last touch?",
+      "score": 1,
+      "created_utc": 1740137993.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": ">I’ve seen a huge uptick in customers mentioning “TV”, whereas before Mntn it was literally 0.\n\nAnd how were you advertising on TV before using MNTN?",
+      "score": 1,
+      "created_utc": 1740099511.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "It's a little bit of both, actually.",
+      "score": 1,
+      "created_utc": 1740139613.0
+    },
+    {
+      "author": "futurecrazycatlady20",
+      "body": "We were not advertising on TV prior to using Mntn.",
+      "score": 1,
+      "created_utc": 1740158798.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "How long can the attribution window for multi-touch be set to?",
+      "score": 1,
+      "created_utc": 1740140027.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Right, so of course you're seeing people mention \"TV\" now compared to before you were advertising on TV. That's not a testament to MNTN so much as it is a testament that you're advertising in a highly visible channel that you weren't using before.\n\nI'm not saying that MNTN doesn't put your ad on TV and doesn't help you get your brand out there. All I'm saying is that MNTN will over-attribute conversions to itself and anyone who has at least a decent amount of programmatic advertising experience should know to avoid them. It's perfectly fine if you're just getting started.",
+      "score": 1,
+      "created_utc": 1740159572.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "I'd have to look, but I want to say it can go up to either 30 or 60 days.",
+      "score": 1,
+      "created_utc": 1740141519.0
+    },
+    {
+      "author": "futurecrazycatlady20",
+      "body": "I agree with you! Mntn can be a good “out of the box” and plug and play solution for brands who want to get started in TV advertising easily and quickly. Sharing my thoughts for those who come across in this thread in their research on Mntn.\n\nEventually, you will outgrow Mntn and require more robust tooling, audience segmentation, and attribution reporting.",
+      "score": 2,
+      "created_utc": 1740412506.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "Would love to see a report!",
+      "score": 1,
+      "created_utc": 1740182448.0
+    },
+    {
+      "author": "read_it-red-it",
+      "body": "Would you be able to DM me a (sanitized) report? Cross out account info",
+      "score": 1,
+      "created_utc": 1742139115.0
+    }
+  ]
+}

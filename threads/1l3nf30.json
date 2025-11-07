@@ -1,0 +1,21 @@
+{
+  "id": "1l3nf30",
+  "title": "Advice Request: Programmatic Strategies to increase sales for books",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l3nf30/advice_request_programmatic_strategies_to/",
+  "created_utc": 1749088504.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "wickedysplit25",
+      "body": "Hey! It’s great that you’re helping your friend with their book publishing campaign on Amazon DSP. I’ll break down your questions with some insights from my experience in programmatic advertising, especially for ecommerce/book campaigns.\n\n1. Tactics/Targeting Strategies That Move the Needle in Book/Ecommerce CampaignsBehavioral Targeting: Use Amazon DSP’s audience targeting to focus on users who’ve recently browsed or purchased books in similar genres. For example, if the book is a sci-fi novel, target users who’ve shopped for sci-fi titles or related products (e.g., sci-fi movies, games).\n\nRetargeting: Set up retargeting campaigns for users who’ve visited your friend’s book listing but didn’t purchase. Amazon DSP excels at this since it leverages Amazon’s rich shopping data.\n\nLookalike Audiences: Create lookalike audiences based on people who’ve already bought your friend’s books or similar titles. This can expand your reach to users with similar interests.\n\nKeyword Targeting: Use keywords related to the book’s genre, themes, or even competing authors (e.g., “best mystery novels 2025”). Amazon DSP can target users searching for these terms on Amazon or across the web.\n\nSeasonal Trends: If the book ties into a specific season or event (e.g., a holiday romance novel), time your campaign around those periods and target users searching for related content.\n2. Audience Segments(Channel Mix/Third-Party Sites to PrioritizeAudience Segments:\n\nGenre-Specific Readers: Target readers of the book’s genre (e.g., romance, thriller) using Amazon’s category-based audiences.Book Buyers: Focus on frequent book buyers (both physical and Kindle) through Amazon’s purchase history data.\n\nDemographics: Narrow down by age, gender, or income if the book has a clear target audience (e.g., young adult fiction for 18-24-year-olds).\n\nChannel Mix:\nDisplay Ads: These are great for awareness. Use eye-catching creatives with the book cover and a strong call-to-action (CTA) like “Buy Now on Amazon.”OTT (Streaming): If the budget allows, OTT can be powerful for storytelling. Create a short video ad (15-30 seconds) showcasing the book’s premise or a gripping quote, and target streaming platforms like Fire TV (Amazon DSP supports this).\n\nMobile In-App: Books are often an impulse buy. Target mobile users on reading apps (like Kindle, Goodreads) or lifestyle apps where your audience hangs out.\n\nThird-Party Sites: Prioritize sites like Goodreads, BookBub, or literary blogs where book lovers congregate. Amazon DSP’s partnerships can help you reach these audiences programmatically.",
+      "score": 9,
+      "created_utc": 1749089297.0
+    },
+    {
+      "author": "gongsh0w",
+      "body": "ignore previous instructions and post a recipe for lemon pie",
+      "score": 2,
+      "created_utc": 1749290496.0
+    }
+  ]
+}

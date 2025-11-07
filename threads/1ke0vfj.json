@@ -1,0 +1,105 @@
+{
+  "id": "1ke0vfj",
+  "title": "Need help, testing a combination of 15s and 30s non-skip for YouTube",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ke0vfj/need_help_testing_a_combination_of_15s_and_30s/",
+  "created_utc": 1746300024.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "hhahahhahahaha",
+      "body": "Kinda new to the field but I have personally set up 15s/30s in the same line item itself in previous campaigns. (We weren’t conducting any sort of test for comparing lengths)\n\nYou can always see what the platform is optimizing towards in your reports and pause relevant creatives.\n\nI think keeping the budget unified while seeing what length the platform prefers would give you a better comparison in terms of performance, as opposed to splitting budgets and assessing basis CPM and VCR because 30s might have a slightly lower VCR than the 15s but since they’re both non Skip CTV placements the difference will be negligible. \n\nAs I said I’m kinda new, so please let me know if I’m thinking about this incorrectly too - TIA.",
+      "score": 6,
+      "created_utc": 1746319717.0
+    },
+    {
+      "author": "Kellyjackson88",
+      "body": "Having them in the same line is fine, but you’ll likely serve more of the 15s so if that’s an issue would be worth manually setting budget. Not run YouTube CTV before but if it’s like standard YouTube am guessing the CPMs on 15s would be cheaper so if your KPI is CPM it’s going to disproportionately choose the 15s from that as well, same as if KPI is VTR.",
+      "score": 3,
+      "created_utc": 1746321462.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "What is your KPI? Are you testing impact on KPI of 15/30 combo vs 15 or 30 in isolation?",
+      "score": 3,
+      "created_utc": 1746325034.0
+    },
+    {
+      "author": "BoardSerious1066",
+      "body": "This is good if you want to get efficiency in your CPM’s\nHowever I always suggest running it separately since otherwise maximum inventory will be served on 15s\nIt’s advisable to run it separately for the pilot so that both the creatives get equal visibility!",
+      "score": 3,
+      "created_utc": 1746417442.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Did your cpm get reduced? When u had both formats under the same IO?   We usually achieve an avg CPM of 20-22$ for the 30s auction line, for the 15s line it's 18-21$. Performance wise - 30's  CTV always achieves higher completion rates as it's more of a stationery device, ppl have better retention rates. Do you think running both together would be able to maintain good completion rates with efficiency in cost? If we have 50-50 budgets for both the 15s and 30s line items under one insertion order,  we can compare the performance.",
+      "score": 1,
+      "created_utc": 1747316165.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Our kpi goal at insertion order is 80% completion rate since we run movie campaigns for universal and warner bros. And our bid strategy is CPM,  I think the client is looking for efficiency in CPM if we run both formats together. When ran separately, we usually achieve an avg CPM of 20-22$ for the 30s auction line, while for the 15s line it's 18-21$. Performance wise - 30's CTV always achieves higher completion rates as it's more of a stationery device. Do you think running both formats together would be able to maintain good completion rates with efficiency in cost? If we have 50-50 budgets for both the 15s and 30s line item under one insertion order, it's still gonna heavily push towards 15s?",
+      "score": 1,
+      "created_utc": 1747316616.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Our kpi goal at insertion order is 80% completion rate since we run movie campaigns for universal and warner bros. And our bid strategy is CPM,  I think the client is looking for efficiency in CPM if we run both formats together. When ran separately, we achieve an avg CPM of 20-22$ for the 30s auction line, for the 15s line it's 18-21$. Performance wise - 30's CTV always achieves higher completion rates as it's more of a stationery device. Do you think running both together would be able to maintain good completion rates with efficiency in cost? If we have 50-50 budgets for both the 15s and 30s line item under one insertion order, it's still gonna heavily push towards 15s?",
+      "score": 1,
+      "created_utc": 1747316471.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Sorry for the late response, I had some med emergency! Yes, I think the client is looking for efficiency in CPM.  Although,we usually achieve an avg CPM of 20-22$ for 30s auction line while for the 15s line it's 18-21$. Performance wise - 30's  CTV always achieves higher completion rates as it's more of a stationery device. Do you think running both together would be able to maintain good completion rates with efficiency in cost? If we have 50-50 budgets for both the 15s and 30s line items under one insertion order, it's still gonna heavily push towards 15s?\nPs - these are the yt ads that we run for movie campaigns of Warner bros and Universal Pictures.",
+      "score": 1,
+      "created_utc": 1747315583.0
+    },
+    {
+      "author": "kidthedreamer",
+      "body": "Yea so completions are a given if you’re running non-skip ad unit. Only instance you won’t get a completion is if user closes content before as finishes or internet drops out lol. I recommend changing IO goal to CPM as the objective seems to be cost efficiency and running non-skips gives you competed views anyway. \n\nNon-Skips are expensive so the 30s will always be more costly than the 15s. With a CPM goal, running both formats within same IO / LI will likely favour the 15s. \n\nYou should try running a Video Reach Campaign with a 15s and 30s non-skip ad lengths optimised towards CPM KPI - is that an option? \n\nAre you running this on DV3 or Google Ads?\n\nBrand Lift not an issue so long as you meet minimum spend threshold which can be found in the help centre.",
+      "score": 1,
+      "created_utc": 1747320887.0
+    },
+    {
+      "author": "BoardSerious1066",
+      "body": "If CPM efficiency is your goal, you can run both together! There wont be any guarantee that your ads will get decent delivery on CTV  though but your average CPM would be lesser and completion rate would be decent,\nDo monitor and check the Perf after a week and change accordingly.\nHowever the brands that I work with always keep a separate IO to ensure visibility as CTV inventory is limited",
+      "score": 1,
+      "created_utc": 1747316366.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "We run on Dv 360, for video for reach we use skippable ads with 40% skip rate that's completely different and stick to non-skip for non-skip format. But don't you think if we have a 50-50 budget split for both 15s n 30s Li under one Io, we can turn off the automatic budget allocation at IO lvl to eliminate the factor of budget optimising more towards the 15s line item and mitigate the CTV ad delivery from getting restricted? Will this give efficiency in CPM with good performance for both formats?",
+      "score": 1,
+      "created_utc": 1747454041.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Yes, makes sense! Since, we run movie campaigns for Warner and Universal, our kpi goal at Io lvl is 80% completion rate. We usually run both formats separately but they want to check if they can get efficiency in CPMs while still maintaining performance. I'll have a look at the performance, but ideally we should be sticking to separate lines.",
+      "score": 2,
+      "created_utc": 1747318263.0
+    },
+    {
+      "author": "BoardSerious1066",
+      "body": "Yes do try the pilot out, your CPM’s should be lower!\nNon skips 15secs should get a decent completion rate!\nKeep me posted too if possible :)",
+      "score": 1,
+      "created_utc": 1747318664.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Yeah, sure! But don't you think if we have a 50-50 budget split for both 15s n 30s Li under one Io, we can turn off the automatic budget allocation at IO lvl to eliminate the factor of budget optimising more towards the 15s line item and mitigate the CTV ad delivery from getting restricted?",
+      "score": 1,
+      "created_utc": 1747322627.0
+    },
+    {
+      "author": "BoardSerious1066",
+      "body": "Yes you can do that! But not sure if that will get the cpms much down!",
+      "score": 2,
+      "created_utc": 1747337223.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Let's see! when we run both separately, the 15s delivers 18-21$ avg cpm and 30s is usually around 20-23$.",
+      "score": 1,
+      "created_utc": 1747453490.0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "1o6tjex",
+  "title": "Gclid vs utm",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o6tjex/gclid_vs_utm/",
+  "created_utc": 1760480067.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "anyone can just add utm\\_source= to the url, so those are unreliable.  gclids are supposed to be automatically appended when the user clicks from a google search result. But bots have also copied entire urls with gclids and replayed them over and over. So while gclids are better than utm\\_source, you should still be vigilant and look for tell-tale signs of bot activity like way way too many pageviews for a single user (i.e. same gclid) and check this too [https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/](https://www.linkedin.com/pulse/simple-advanced-attribution-fraud-how-detect-fouanalytics-fou-yit1e/)",
+      "score": 2,
+      "created_utc": 1760528494.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Use both, Google introduced \"aggregate identifiers\" as a means to work alongside a GCLID / DCLID / WBRAID / GBRAID. But manual UTMs are likely too aggregated for any tech / browser change to break them.",
+      "score": 2,
+      "created_utc": 1760606323.0
+    },
+    {
+      "author": "linuz14",
+      "body": "So i should activate enache + keep on usong utm?",
+      "score": 1,
+      "created_utc": 1760607432.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Use both. Always use both.",
+      "score": 1,
+      "created_utc": 1760618133.0
+    },
+    {
+      "author": "azbeash",
+      "body": "I would suggest having both behind your ads, but the reality is that UTMs are more accurate.\n\nCertain browsers strip the GCLID from the URL before a visitor even makes it to your website (this was made worse in iOS 26), so you're likely undercounting if you are relying just on the GCLID.\n\nUTMs on the contrary are not stripped by any of the major browsers.\n\nSource: I run an analytics company (attributer.io) so very familiar with this stuff",
+      "score": 1,
+      "created_utc": 1760930844.0
+    },
+    {
+      "author": "SpringSad4844",
+      "body": "Try UTMatrix:\nhttps://chromewebstore.google.com/detail/utmatrix/imooohdhcgbbecmplcnecaicpfjjiplo?authuser=0&hl=en",
+      "score": 1,
+      "created_utc": 1760934724.0
+    },
+    {
+      "author": "linuz14",
+      "body": "The tricky thing os being cosistent with the “custom” classification by utm vs the automated one through gclid (-> gads) /dclid (->cm360)",
+      "score": 1,
+      "created_utc": 1760621007.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "GCLID is relevant on DV360 too if you are running YouTube. There are some nuances that broke a lot of GA reporting in the past which Google have slowly fixed as a result.",
+      "score": 1,
+      "created_utc": 1760624626.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But if i track trough cm on dv do I still need it? Same, if activated in gads do I need it also in search 360 (that actually is connected to cm for floodlight sharing)",
+      "score": 1,
+      "created_utc": 1760651948.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "It really depends what you care about.\n\nIf you only care about Google Analytics, then auto-tagging + manual utms is best practice.\n\nIf you want the CM360 view, then enhanced attribution checkbox in CM360 is best practice, which enables the dclid auto-tagging feature with the exception of DV360 run YouTube. SA360 is just applying CM360 tracking to Google Ads campaigns but this is focused on Search / PMAX / Demand Gen vs YouTube. If you want CM360 tracking on Google Ads YouTube, there are a couple of ways to do this separate to SA360.",
+      "score": 2,
+      "created_utc": 1760692022.0
+    }
+  ]
+}

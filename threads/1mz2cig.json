@@ -1,0 +1,51 @@
+{
+  "id": "1mz2cig",
+  "title": "Inventory Scoring Algorithm",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mz2cig/inventory_scoring_algorithm/",
+  "created_utc": 1756057781.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "HairySprinkles7369",
+      "body": "There’s the established players DV and IAS, however they don’t score inventory pre-bid the way most people think, they run block lists based on historical sample data they collect from advertiser tags largely at the domain level. \n\nFull page URL algos are largely a niche market served by Chalice inside of SSP bidders right now.\n\nTTD acquired Sincera not too long ago and they are opening up an API for deeper signals in this arena but I haven’t gotten the chance to play with it just yet.",
+      "score": 5,
+      "created_utc": 1756077490.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Tons of companies \n\nPrebid by itself is pretty weak and prone to false positives and negatives .\n\nBut using it in tandem with post bid and closing pre and post loop like Human are doing suck a bit less.",
+      "score": 3,
+      "created_utc": 1756061928.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "JOUNCE",
+      "score": 1,
+      "created_utc": 1756177213.0
+    },
+    {
+      "author": "adbuzz65",
+      "body": "Check out Gamera - they can find you high quality sites/clicks/viewability as they are right on page. Can also buy PMP's from them as well!",
+      "score": 1,
+      "created_utc": 1756215876.0
+    },
+    {
+      "author": "shadyk17",
+      "body": "What are you trying to do?",
+      "score": 1,
+      "created_utc": 1756263138.0
+    },
+    {
+      "author": "BucketMarketing",
+      "body": "Among the others mentioned, Adelaide. I don’t think it’s worth the cost, though.",
+      "score": 1,
+      "created_utc": 1756778570.0
+    },
+    {
+      "author": "Sav4geMode",
+      "body": "Never heard of Human, will check them out. Thanks!",
+      "score": 2,
+      "created_utc": 1756082182.0
+    }
+  ]
+}

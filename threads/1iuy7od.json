@@ -1,0 +1,27 @@
+{
+  "id": "1iuy7od",
+  "title": "Connected TV / Addressable TV - How to buy?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iuy7od/connected_tv_addressable_tv_how_to_buy/",
+  "created_utc": 1740163267.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "p_romo",
+      "body": "You can use Innovid (formerly TV Squared) to avoid audience duplication --",
+      "score": 1,
+      "created_utc": 1740421128.0
+    },
+    {
+      "author": "alexiswrightson",
+      "body": "I work at Quantcast and we’ve developed some tools for this:\n\n1. Site visit, brand lift and incremental reach v linear (in some markets.\n2. This is tough but you can use incremental reach tools like Audience Project in some markets.\n3. Models of audiences tend to work well with our clients. It also cross-references with your site analytics well if you’ve implemented a Q Pixel. \n4. From 1, we can illustrate visits, conversions and probably more apt brand lift live; the ability to know what’s impacted your brand so you can optimise it. \n\nHope this gives food for thought!",
+      "score": 1,
+      "created_utc": 1740543995.0
+    },
+    {
+      "author": "Callidum34",
+      "body": "I guess Apple TV is good enough, or you can try a Google cast",
+      "score": 0,
+      "created_utc": 1740295278.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1ike0wg",
+  "title": "Best tips for new traders",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ike0wg/best_tips_for_new_traders/",
+  "created_utc": 1738985706.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Grasp is a decent tool as extension for QA",
+      "score": 3,
+      "created_utc": 1739011942.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Always use a site list. I know it’s basic but you’d be surprised at how many traders put blind trust in DSPs",
+      "score": 3,
+      "created_utc": 1739320531.0
+    },
+    {
+      "author": "PublicProcess9379",
+      "body": "What size is the ideal inclusion list? Definitely utilize exclusion lists along with brand safety. Do you also get these lists from anywhere specific?",
+      "score": 1,
+      "created_utc": 1739337462.0
+    },
+    {
+      "author": "1toremember",
+      "body": "I typically go broader for performance activity and smaller for brand. Size depends on the market. If you have access to to Google authorized buyers platform you can pull a forecast for URLs in the market for your formats (e.g. display, video) then sort by unique reach to see the largest sites in the country. It's a good place to start looking - then you can filter by vertical too and other factors.",
+      "score": 1,
+      "created_utc": 1739459045.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "I start off with about 3000 (including the bloggers from Mediavine, Raptive) and then optimize out of low performing sites.",
+      "score": 1,
+      "created_utc": 1739981529.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1mwmeya",
+  "title": "AI for performance insights generation",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mwmeya/ai_for_performance_insights_generation/",
+  "created_utc": 1755808427.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "HurricaneKim",
+      "body": "For reporting, we’ve been playing around with AI to automate the messaging and tone of emails. We gave it a few examples of emails and how to style it, and link our data source to pull insights and trends based on examples as well. \n\nIt’s still hit or miss, but it definitely saves some time when it works.",
+      "score": 3,
+      "created_utc": 1755809700.0
+    },
+    {
+      "author": "1toremember",
+      "body": "I've found a useful method was running an MCP to connect to a dataset. You can set up SQL queries as tools that the MCP will use to answer a given question or insight. It means you have to set up the queries but reduces hallucinations. Good for focusing on actions you need to take on every campaign (e.g. which sites should I remove to improve a KPI, or what risks are there to delivering spend in full).",
+      "score": 5,
+      "created_utc": 1755812206.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Seems like pretty much every vendor & agency is building something in this space right now. There is a lot of value for sure but ultimately you need good / clean data to work with for the insights to make sense. If you feed a LLM / MCP something bad by design, it is pretty inefficient.",
+      "score": 1,
+      "created_utc": 1755854312.0
+    },
+    {
+      "author": "ReasonableFig8954",
+      "body": "I've definitely faced the same challenge with AI reporting tools that require complex integrations. That's why we built [ScreenshotReports.com](http://ScreenshotReports.com) — it simply takes screenshots from platforms like GA4, Google Ads, and Meta, then turns them into branded, professional reports with AI-generated insights. It saves a ton of time and avoids the headache of broken data connectors.",
+      "score": 1,
+      "created_utc": 1755865539.0
+    }
+  ]
+}

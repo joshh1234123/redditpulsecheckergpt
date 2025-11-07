@@ -1,0 +1,45 @@
+{
+  "id": "1lo9grj",
+  "title": "Brand safety pre-bid data",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lo9grj/brand_safety_prebid_data/",
+  "created_utc": 1751294940.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Standard pre-bid is in each DSP, within the targeting parameters around viewability / brand safety / fraud. Custom more curated pre-bid requiring working with the 3rd party who will create a custom ID for you and push it to the DSP seat to use. The latter is x3 more expensive normally.",
+      "score": 2,
+      "created_utc": 1751299936.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "What exactly is your goal?",
+      "score": 2,
+      "created_utc": 1751307208.0
+    },
+    {
+      "author": "gooserider",
+      "body": "As everyone else has pointed out, prebid data isn't normally something you buy.\n\n\nBut there's really no technical reason why you can't. If you need to decision on some unique attributes at the prebid layer it's possible but you'll need both the dataset and the prebid server to actually leverage the data.",
+      "score": 1,
+      "created_utc": 1751335343.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you, for the custom one do you know how to retrieve data? I’d like to see all the incidents and blocks in TTD from the usage of custom pre bid from Double Verify",
+      "score": 1,
+      "created_utc": 1751300491.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "That’s not how brand safety works. If it’s pre-bid it’s just an inclusion list of sites that match the blocked or approved content.",
+      "score": 1,
+      "created_utc": 1751301395.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "Unfortunately not how it works, prebid sends the info to TTD about how it should respond to auctions based on the declared data.\n\n\nWhat reports you get depends on what level of auction data you get in the DSP report (TTD I don't think you get anything unless it's PMP)\n\n\nThere is so much volume DSPs don't typically give a lot of granularity on what's rejected in the auction and if they do it's typically more top line for scale impact not a specific incident report. \n\n\nIt's not the same as when the ad serves and there is something to measure against which is the more typical reports you get for Brand Safety in the vendors system.",
+      "score": 1,
+      "created_utc": 1751306921.0
+    }
+  ]
+}

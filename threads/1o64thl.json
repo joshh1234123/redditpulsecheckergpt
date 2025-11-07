@@ -1,0 +1,45 @@
+{
+  "id": "1o64thl",
+  "title": "AI Data & performance reports",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o64thl/ai_data_performance_reports/",
+  "created_utc": 1760412415.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "LoveGlobal8866",
+      "body": "I’ve been playing a lot with this lately. I work in the igaming industry, mostly with mobile casino apps, so good reporting is everything.\n\nI’ve managed to build a system that connects all my DSPs like Moloco, Mintegral, and Unity through custom MCPs I created myself, basically small API connectors that let my AI agents access campaign data directly. Then I use Claude Code to run personalized agents for each DSP. Each one can fetch the data it needs, combine it with real user data from AppsFlyer, and mix it with internal app metrics like deposits and player value to calculate exact ROAS.\n\nTo save time, I also keep a small local database with over 90 days of data so I don’t have to keep pinging the APIs every time. Everything runs through a simple Python script that cleans, structures, and formats the reports automatically for weekly, biweekly, or monthly periods.\n\nIt’s been a huge time saver and gives me a clear view across all my traffic sources.\n\nCurious if anyone else is building something similar or using AI agents to automate reporting in programmatic. Feel free to send me a DM if you want to chat about it.",
+      "score": 6,
+      "created_utc": 1760427661.0
+    },
+    {
+      "author": "ww_crimson",
+      "body": "I'm sort of new to the space. Are the reports available via API or do you have to aggregate them yourself?",
+      "score": 1,
+      "created_utc": 1760416958.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "Wow! That sounds super cool and now I feel dumb haha. Im a media Trader and trying to figure out different ways to use chatgpt to give the best performance insights month over month. I use DSPS like TTD, Beeswax, Meta, sifi, etc and I want to provide account managers with tactical performance insights they aren't getting from Ninjacat to create a story arc or sorts... but I just have hit a wall.",
+      "score": 1,
+      "created_utc": 1760448264.0
+    },
+    {
+      "author": "jefftak7",
+      "body": "I did this for Google ads + Tableau. Helpful to be able to reallocate budget at a monthly view and then run a script to push new budgets to the platforms vs manual",
+      "score": 1,
+      "created_utc": 1760485566.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Could you elaborate on exact roas ? Like you calculate it on user level? Or you sum up your spend ?",
+      "score": 1,
+      "created_utc": 1760497054.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "It depends on your agency stack. We have quite a lot of deduplicated reports from log level data visualized with powerBI. I imagine you would pay a lot for api use if you want to run them all through openai. The real improvement comes if you have to use a lot of third party reports. Spotting discrepancies and working on limited data is where llm may help you.",
+      "score": 1,
+      "created_utc": 1760469065.0
+    }
+  ]
+}

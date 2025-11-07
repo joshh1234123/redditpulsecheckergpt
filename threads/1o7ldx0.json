@@ -1,0 +1,15 @@
+{
+  "id": "1o7ldx0",
+  "title": "Building weekly frequency on CTV (DV360)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o7ldx0/building_weekly_frequency_on_ctv_dv360/",
+  "created_utc": 1760558203.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "mp1952",
+      "body": "AFAIK your best bet is to reduce your audience size and/or spend more until you start to net out at your desired frequency. Would also recommend removing LI/IO caps and rely solely on campaign-level cap.\n\nYou can also try playing around the reach planner tool in DV which lets you experiment with different spend/media mix/audience combinations to predict avg reach/frequency so you’re not completely guessing.",
+      "score": 4,
+      "created_utc": 1760579201.0
+    }
+  ]
+}

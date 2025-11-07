@@ -1,0 +1,45 @@
+{
+  "id": "1m85vng",
+  "title": "DOOH Performance Measurement",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m85vng/dooh_performance_measurement/",
+  "created_utc": 1753367261.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "TTD taps into Vistar inventory for the most part, IIRC. For delivery metrics you can see Spots and Impressions. \n\nSpot = how many times a creative was displayed on a screen \n\nImpression = How many people likely saw the ad. Vistar (and therefor TTD) use a formula based on foot traffic studies to calculate this. You kind of just have to accept it at face value. \n\nThen you can see venue type (billboard, gas station, bar…etc), location, screen owner, and a couple other not so useful tidbits that I’m forgetting about. And of course cost metrics.",
+      "score": 6,
+      "created_utc": 1753401335.0
+    },
+    {
+      "author": "Jporzio",
+      "body": "If your budget allows it, attach a brand lift study to measure those exposed to your DOOH vs a control.",
+      "score": 2,
+      "created_utc": 1753482069.0
+    },
+    {
+      "author": "mac_n_cheese3",
+      "body": "While I don't have access to TTD, this seems very interesting.\n\nI am curious about your understanding of a \"user\" for a DOOH screen. How does that work?",
+      "score": 1,
+      "created_utc": 1753367848.0
+    },
+    {
+      "author": "inspire70",
+      "body": "Would recommend running your campaign directly in Vistar. From my experience, the Omni channel DSPs are purpose built for OOH, so having a point solution will enable you to plan, activate and report a lot more seamlessly",
+      "score": 1,
+      "created_utc": 1753481093.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "You can measure DOOH campaign performance in TTD using metrics like impressions by venue type, location, time of day, publisher, and screen/ Site. Standard metrics such as \n\n* CPM, Spend\n* Impressions\n* Creative delivery by location/time\n* Venue types and publisher breakdown\n\nIt’s important to note that DOOH impressions are not measured at the device level. Instead, they are calculated as:\n\n>\n\nWhile you don’t get user-level impression logs, TTD does capture device IDs (MAIDs) that were **l**ikely exposed to the ad. These can be retargeted in omnichannel campaigns across display, video, and other channels.\n\nRecently, they also introduced first-party audience targeting in DOOH and offline conversion tracking. These capabilities probably require working directly with your TTD rep. Also, scale may be a challenge, you’ll need a sizable first-party audience with a strong volume of MAIDs to make it effective.",
+      "score": 1,
+      "created_utc": 1753504317.0
+    },
+    {
+      "author": "Southern_Total5632",
+      "body": "This is really helpful, thanks a lot! \n\nFrom what I understood, we can’t go beyond the reporting capabilities available because even in the data feeds we only get the data (IP, device, etc.) for the screens and not for the actual users. \n\nHowever another metric we can get from TTD reports is conversion if we tag pixel types to any campaign.",
+      "score": 1,
+      "created_utc": 1753413577.0
+    }
+  ]
+}

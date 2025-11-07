@@ -1,0 +1,135 @@
+{
+  "id": "1npac9v",
+  "title": "What platform do you think would get the most reach for your dollar for a small business?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1npac9v/what_platform_do_you_think_would_get_the_most/",
+  "created_utc": 1758715607.0,
+  "num_comments": 24,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "StackAdapt doesn't have any of its own inventory. It's just a DSP that taps into other inventory providers. DV360 will probably give you the most reach simply because it allows you to buy YouTube inventory, which is the biggest video service on the planet.\n\nAs a small business, you don't have a reach problem from my perspective. You'll likely never be able to spend enough money to penetrate the full market with your budgets, so you need to find ways to make more impact with less money. To your point, playing most of your ads on Tubi or Pluto might not be the best strategy, albeit people *do* watch these services, so I think you need to refine your buying strategy rather than rethink your DSP. DV360 and Amazon DSP might be too full-featured for what you're looking for since they're primarily designed for enterprise-level customers with bigger budgets. It's good that people have mentioned your ads when you were using DV360/Amazon in the past, so maybe you just found out YouTube is not the best way to engage people.\n\nIt's hard to make a full recommendation without more budget details and background info on your business, but you could honestly consider something simple like Universal Ads (Comcast/NBCU's self-serve ad platform that taps directly into their inventory) or Disney Campaign Manager (direct access to Disney+, Hulu, ESPN). Those platforms are more lacking in terms of targeting and whatnot, but they're also designed for SMBs and offer comparatively low CPMs. Universal Ads doesn't really have much targeting beyond genre targeting now, but you could get into some solid CTV inventory for like $8-10 CPMs, which could be effective if you're just trying to promote a brick-and-mortar location in a very defined geographic area. Disney Campaign Manager has more targeting options, but the CPMs are higher because the inventory is usually more competitive.\n\nEither way, I don't think you should be looking to add yet another DSP to your mix, and I don't think you need to turn to something like Tatari or MNTN because those are sus in my opinion anyway. If you're truly a smaller business, you could do well with Universal Ads or Disney Campaign Manager, or you could simply refine your buying strategies on Amazon and DV360.",
+      "score": 6,
+      "created_utc": 1758720592.0
+    },
+    {
+      "author": "Red-Jack-Rabbit",
+      "body": "Anyone used Simpli.fi? They claim to be the DSP for small local businesses",
+      "score": 5,
+      "created_utc": 1758731924.0
+    },
+    {
+      "author": "lynbae",
+      "body": "Please do not follow the guidance in the comments of using MNTN. They are so incredibly predatory to brands.",
+      "score": 3,
+      "created_utc": 1758770827.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Just to clarify for anyone reading this thread - StackAdapt is a DSP (Demand-Side Platform), not an inventory provider. As a DSP, StackAdapt connects to various supply-side platforms and exchanges to access inventory from multiple sources, but they don't own or control the inventory itself. This means the quality and type of inventory you get through StackAdapt depends on which supply sources they're connected to and how you configure your targeting and buying strategies within their platform. \n\nOn that note if you have access to DV360, there is probably minimal/specific use cases that Stackadapt has that DV doesn't. With fees in mind, you are probably ahead using DV. Esp for reach focused campaigns I would probably use DV but add in some further targeting rails. The lift study also probably depended on the investment level, nicheness etc...",
+      "score": 2,
+      "created_utc": 1758741065.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "The platforms that would get the most are Google ads and meta, first. You’re a computer repair shop with one location. You need to max out search and social before layering on prog. You’re trying to push dollars to awareness channels and they’re not ever going to bring you the in-store traffic that you’re looking for. Awareness doesn’t mean what you think it means.",
+      "score": 2,
+      "created_utc": 1758760793.0
+    },
+    {
+      "author": "Dangerous-Day-2107",
+      "body": "i agree with u/Lumiafan on the buying strategy vs DSP selection to be the more important part of the equation.  There are so many DSP options out there with more middle men being added to the supply path all the time.  \n  \nThat being said, 1st party data targeting + premium CTV inventory  typically pay TV content at scale, think live sports, etc.) tends to be the 2 biggest factors for smaller budgets to be effective at a local level. \n\nWhat market/city are you in?  The top 50 markets will typically have a local ad sales division through the largest pay tv + internet service provider in the area.  the bigger ones will have a programmatic ad sales division that can get you that combo at a lower entry point designed for SMBs in the community.\n\nTop ISPs to consider will be Charter (ad sales division = Spectrum Reach) and Comcast (ad sales division = Comcast Advertising)",
+      "score": 2,
+      "created_utc": 1758930367.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "What are the minimums you were told (if any?) for Amazon DSP? Are you self serve with your own seat or are you using an aggregator?",
+      "score": 1,
+      "created_utc": 1758755446.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "Hi. If ctv activity you are after. Our dsp and ad server were built specifically for this. All the methods are align to the ctv and ott environments. Will be happy to talk.",
+      "score": 1,
+      "created_utc": 1758803903.0
+    },
+    {
+      "author": "Venturecap_wiz12",
+      "body": "sent you a DM",
+      "score": 1,
+      "created_utc": 1759153020.0
+    },
+    {
+      "author": "ThenTranslator6817",
+      "body": "Yahoo",
+      "score": 0,
+      "created_utc": 1758725858.0
+    },
+    {
+      "author": "_Daymeaux_",
+      "body": "I feel like if you are focused on CTV, might be worthwhile to checkout vibe.co or mntn.com\n\nI haven’t used them personally other than doing competitive research, but they are geared towards small businesses that want to be on CTV",
+      "score": -4,
+      "created_utc": 1758740553.0
+    },
+    {
+      "author": "SlightFrostings",
+      "body": "Universal Ads doesn’t work in my experience. The inventory is cheap because it is bad. Their platform has extremely rudimentary measurement and the CPAs are much worse than other platforms. I recommend going with MNTN, Vibe, tvScientific, or Tatari.",
+      "score": 3,
+      "created_utc": 1758725411.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Thanks for the advice. Going to look into those",
+      "score": 2,
+      "created_utc": 1758724281.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Looks like Universal Ads offers day parting which is a plus.",
+      "score": 2,
+      "created_utc": 1758724525.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Self Service full access",
+      "score": 1,
+      "created_utc": 1758755718.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "MNTN is not a legitimate option for anyone in my experience.",
+      "score": 9,
+      "created_utc": 1758725522.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Have you used it? Seems like it's new tool. I know before Comcast had self service but had 0 control of anything now seems like you can control various aspect like audience: income, zipcodes, household income etc.",
+      "score": 1,
+      "created_utc": 1758727613.0
+    },
+    {
+      "author": "_Working_Mom_",
+      "body": "What is the minimum spend you are seeing if you are directly into Amazon? Or, are you working with an aggregator agency? We also want self service HOK.",
+      "score": 1,
+      "created_utc": 1758835129.0
+    },
+    {
+      "author": "SlightFrostings",
+      "body": "Yes, I used it. No noticeable impact. Their pitch was all on how cheap it was but they didn’t tell us where the campaign ran. Turns out it was all crappy FAST inventory that the Smart TV companies couldn’t sell on their own. Total snake oil.",
+      "score": 6,
+      "created_utc": 1758729442.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "MNTN isn’t legitimate he’s right. They released their earnings a month or two ago and through the math a client I know did, their profit margin was 70 freaking percent. \n\nSo out of $100 only $30 is actually buying media",
+      "score": 5,
+      "created_utc": 1758752992.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Oh f that. yeah I will only run campaigns if reporting showing me where it ran. Thanks for heads up",
+      "score": 2,
+      "created_utc": 1758729690.0
+    }
+  ]
+}

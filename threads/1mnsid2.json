@@ -1,0 +1,81 @@
+{
+  "id": "1mnsid2",
+  "title": "Viewability Threshold",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mnsid2/viewability_threshold/",
+  "created_utc": 1754954283.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "70%+ is good in my books.",
+      "score": 5,
+      "created_utc": 1754954998.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "60% viewability threshold to not restrict too much supply pre-bid, then optimize to hit at least 70% post-bid",
+      "score": 2,
+      "created_utc": 1754985336.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Ppl still buy open exchange on viewability??? Have we not learned????",
+      "score": 2,
+      "created_utc": 1755045819.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But if I get still good results in terms of ctr or cost per session is still worth to optimize against viewability too?",
+      "score": 1,
+      "created_utc": 1754984576.0
+    },
+    {
+      "author": "Mankzy",
+      "body": "We set our viewability to 70% then optimize higher to enhance CTR as a campaign progresses. We tend to end around 85% or so for most display, OLV, and native campaigns.",
+      "score": 1,
+      "created_utc": 1754995039.0
+    },
+    {
+      "author": "linuz14",
+      "body": "For any ad? Display? Video? Yt? Demand gen? For example here view is not such great but you can not optimoze it through site exclusion or other actions…",
+      "score": 1,
+      "created_utc": 1754956738.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Please explain",
+      "score": 2,
+      "created_utc": 1755072902.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "If your ctr is 0.1% and viewability is 50% then by increasing viewability by 10 points (to 60%) and ctr stays the same you’ll get 16,7% more clicks.",
+      "score": 1,
+      "created_utc": 1755018146.0
+    },
+    {
+      "author": "Brad_Programmatic",
+      "body": "70%+ viewability on standard display and in-stream video via news inventory. Can get higher for specialized ad sizes.",
+      "score": 3,
+      "created_utc": 1754961723.0
+    },
+    {
+      "author": "Such_Paleontologist2",
+      "body": "I'd also agree. High viewabilty could also mean low quality placements, unless strict inclusion lists that gave good volume inventory",
+      "score": 1,
+      "created_utc": 1755206665.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "That means your cpm and cpc goes down (for same money you will get more imps and clicks). So you can either increase the bid price to get even more clicks and imps or spend it on other inventory.",
+      "score": 1,
+      "created_utc": 1755018514.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Actually it depends on the cpm\nIncrease that you get to improve viewability… if 80% higer you don’t have benefits",
+      "score": 2,
+      "created_utc": 1755040434.0
+    }
+  ]
+}

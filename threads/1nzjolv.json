@@ -1,0 +1,57 @@
+{
+  "id": "1nzjolv",
+  "title": "StackAdapt Conversion Tracking Inaccuracy",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nzjolv/stackadapt_conversion_tracking_inaccuracy/",
+  "created_utc": 1759758791.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "Vdles",
+      "body": "How are you handling your lead matching?\n\nAside from the conversion time stamps and utms, we also pass back the user's session id on the pixel fire for form submissions, which helped clear up discrepancies; especially for upper funnel campaigns with impression conversions that were last touch on another platform. \n\nStill, I've found no matter the platform, there's always a small percentage of unattributed leads, usually due to things like privacy tools such as tracker blockers or utm strippers, a gap in cross platform/device tracking, or duplicate submission handling. I've tested a few I use personally and haven't been able to attribute myself through most channels/platforms.\n\nIf you're concerned something is missing in the tracking setup though, definitely reach out to your AM team; mine have been great at helping solve any problems we've run into.",
+      "score": 4,
+      "created_utc": 1759768911.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Are you deduping your log level data?",
+      "score": 1,
+      "created_utc": 1759767253.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Are you looking at \"Unique Conversions\" in the platform or just the \"Conversions\" metric?",
+      "score": 1,
+      "created_utc": 1759769362.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Unique Conversions or All Conversions?\n\nHow early are you in the campaign? Is it possible you're optimizing against button clicks for submit and they're not actually seeing the leads on some of those clicks?",
+      "score": 1,
+      "created_utc": 1759774447.0
+    },
+    {
+      "author": "itsbwp",
+      "body": "Agreed on all of these, and more. Assuming that you’re generating a parameter value for unique lead confirmation (if it was a sale, this would be a transaction or order ID), you should be able to pull a conversion report and match up your lead confirmation number to sales force.  As mentioned above, you will likely see some ghost conversions (not 20%).  But 2 things to consider: programmatic isn’t a click generating medium (use search or social for that), so you should expect the majority of your leads or conversions to be view based. Humans rarely click on display ads. Second, if the campaign is awareness, you should stray away from conversions, or the dsp will not know what to properly optimize towards.  Good luck.",
+      "score": 1,
+      "created_utc": 1759794479.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Likely a TYP refresh / pixel misfire / test conversion that can be verified with the dsp log data. Did anyone drop it in their browser during QA?\n\nAdvise client that going forward you will focus on only those that are verified and move on. Don't waste any more time on ghost convs.conversion.\n\nGood luck OP",
+      "score": 1,
+      "created_utc": 1759799882.0
+    },
+    {
+      "author": "Mactaho",
+      "body": "Thanks for all your input. I’m using the ABM measurement reporting tool (the client provided a list of target companies). StackAdapt shows us the ABM domain—it’s literally tracking a form fill/TYP visit, so it should be straightforward to measure. StackAdapt is indicating that Company A reached the thank-you page (TYP) - so it shouldn't be showing up if someone from their company (or our company) tested it. Hopefully this makes sense - they're not able to find a form that Company A filled out (even though StackAdapt is saying there was a TYP visit.\n\nSome of the tracking details—like deduping log-level data—are a bit beyond what I’ve worked with before, but I’ll look into it. As for timing, the campaign has been running for about two months.",
+      "score": 1,
+      "created_utc": 1759860347.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "With big discrepancies it always ends with having a common source of truth with the client. Usually it’s their reports. We monitor the tag hits and let them know of any major dips so that if they have a site outage it’s documented. If you have long windows and run multiple campaigns in different channels then last touch attribution does not make sense really. With only seven conversions they should be able to tell you to where they attribute them.",
+      "score": 1,
+      "created_utc": 1759767893.0
+    }
+  ]
+}

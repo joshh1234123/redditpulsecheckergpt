@@ -1,0 +1,69 @@
+{
+  "id": "1nat7ec",
+  "title": "Is it possible to spend budget evenly on DV360?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nat7ec/is_it_possible_to_spend_budget_evenly_on_dv360/",
+  "created_utc": 1757251742.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Check pacing at both order and line item level is set to even - order can be even, line can be asap. Set dayparting, bid multipliers can help as well (if they still a thing in dv)",
+      "score": 5,
+      "created_utc": 1757257806.0
+    },
+    {
+      "author": "lurkerprofile26",
+      "body": "In my experience it usually only spends the full budget quickly the first and maybe second day. It should distribute spend more evenly over the course of the day in subsequent days",
+      "score": 6,
+      "created_utc": 1757253485.0
+    },
+    {
+      "author": "sabrinam0rningstar",
+      "body": "What kind of inventory is it? Have you tried setting time and day targeting?",
+      "score": 2,
+      "created_utc": 1757291928.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Pull down the bids? Or split the day between objects.",
+      "score": 1,
+      "created_utc": 1757256578.0
+    },
+    {
+      "author": "OkCreme8917",
+      "body": "What environment?",
+      "score": 1,
+      "created_utc": 1757263614.0
+    },
+    {
+      "author": "OrganicHearing",
+      "body": "I flight evenly all the time in DV360 and never had this problem. Could be dependent on whether your pacing settings are set to asap at the line item or IO level. Maybe your bids are too high causing the win rate to be too high. But if you have a daily spend cap, it should not be having that problem. I’ve even paced asap but with the spend cap, it never encountered that problem. I would flag this to DV360 and maybe even ask for a make good because it seems apparent that their system isn’t following the rules",
+      "score": 1,
+      "created_utc": 1757364812.0
+    },
+    {
+      "author": "newormedia",
+      "body": "Sounds like pacing didn’t quite kick in the way you expected. Even with daily even spend + fixed CPM, delivery can fluctuate depending on available inventory and competition at that time of day. Yesterday may have had lighter demand, so budget stretched longer.\n\nYou might try setting stricter pacing controls (if your platform allows), narrowing inventory, or adding hourly caps to smooth it out. Otherwise the system may front-load spend when there’s a surge of impressions available in your target window.",
+      "score": 1,
+      "created_utc": 1757492452.0
+    },
+    {
+      "author": "Hit_and_miss_344",
+      "body": "They are depricating bid multipliers this year",
+      "score": 1,
+      "created_utc": 1757258221.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Ok I had a flight that just ended and added 7 more days and more budget this morning however the previous flights were active for 2 weeks. You think since its a new flight it will still do that even though rest of the campaign ran fine?",
+      "score": 1,
+      "created_utc": 1757253762.0
+    },
+    {
+      "author": "Hit_and_miss_344",
+      "body": "Sudden pacing is mostly caused by very open targeting. Try having a fcap at the start in case you're experiencing this too often",
+      "score": 3,
+      "created_utc": 1757258287.0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1igpcha",
+  "title": "DV360 Third party ad tag macros problem",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1igpcha/dv360_third_party_ad_tag_macros_problem/",
+  "created_utc": 1738590190.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "AugustineFou",
+      "body": "are you saying you are seeing no clicks in the reporting, or no clicks at all arriving on your landing pages?",
+      "score": 0,
+      "created_utc": 1738604753.0
+    },
+    {
+      "author": "Ok_Commission5285",
+      "body": "Hi, I see no clicks in the DV360 reporting. Landing page and UTM (inside creative) works normally.",
+      "score": 0,
+      "created_utc": 1738608349.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "ok, got it... then you are getting clicks but they are just not recorded in DV360. you may need to map a click event to the DV360 click macros in the iframe code",
+      "score": 0,
+      "created_utc": 1738608750.0
+    },
+    {
+      "author": "Ok_Commission5285",
+      "body": "Okay, thanks. So I need to put macro as a part of iFrame code, or as a part of hosted Creative code? I have tried putting macro like this: \n\n<iframe src=\"serverlink?click=${CLICK\\_URL}\" style=\"width:300px;height:600px;margin:0;padding:0;border:none;overflow:hidden;box-sizing:border-box;\"></iframe>\n\nBut the problem is that the link inside iFrame leads to my server with creative (its not a link to landing Page). Link to the Landing Page is a part of my hosted creative, so the click happens inside iFrame on my server.",
+      "score": 0,
+      "created_utc": 1738613225.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "then you'd have to separate the click event, call the DV360/CM360 click url first, and then have that url redirect to your landing page. If the click goes direct to the landing page, DV360/CM360 won't see it.",
+      "score": 1,
+      "created_utc": 1738614538.0
+    },
+    {
+      "author": "Ok_Commission5285",
+      "body": "Thanks! So as i understand - I have to make these click event separation in the hosted creative code (where the LP link is placed)? The iFrame code doesn't require any changes then?",
+      "score": 1,
+      "created_utc": 1738615869.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "correct, if the iframe code is used to call the ad, then leave it. \n\nIn the creative code, you need to call the click tracker of DV360 AND also redirect to the landing page, so you have the event visible in DV360",
+      "score": 2,
+      "created_utc": 1738616112.0
+    },
+    {
+      "author": "Ok_Commission5285",
+      "body": "Thank you very much! I will try to fix it like this :)",
+      "score": 1,
+      "created_utc": 1738617735.0
+    }
+  ]
+}

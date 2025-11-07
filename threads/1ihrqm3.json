@@ -1,0 +1,33 @@
+{
+  "id": "1ihrqm3",
+  "title": "Spend Spikes on campaigns in TradeDesk?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ihrqm3/spend_spikes_on_campaigns_in_tradedesk/",
+  "created_utc": 1738701312.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "heiressofslytherins",
+      "body": "we have seen this on deals using magnite as SSP. they said it was a bug beginning of February caused huge spike.",
+      "score": 2,
+      "created_utc": 1738730573.0
+    },
+    {
+      "author": "HuskyInfantry",
+      "body": "over what timeframe, and are you seeing it for multiple advertisers? \n\nIf there were no internal changes to the campaigns, sometimes it can be explained by what’s happening in the real world (Olympics, Super Bowl, etc) driving up inventory cost.",
+      "score": 1,
+      "created_utc": 1738713453.0
+    },
+    {
+      "author": "True_Link4011",
+      "body": "We saw this on a few advertisers back in October - now we have 5 advertisers in the last 4 weeks. The common theme seems to be small budgets ($25kish - and large audiences). Unsure how else to handle the spikes with daily spend caps, pace settings, frequency caps, etc.",
+      "score": 1,
+      "created_utc": 1738882410.0
+    },
+    {
+      "author": "HuskyInfantry",
+      "body": "Why be concerned about daily spend? Give it a monthly allocation and let the platform manage pacing. It's alright and totally normal to have higher spend days and lower spend days. \n\nDaily spend goals (imo) are trash, because if you're at threat of coming in under then the platform is going to start gobbling up cheap inventory and maxing out f/caps. If you're at threat of going over with 6 hours left in the day, then the daily flight kind of just peters out when maybe 8pm ends up being a prime time for exposure. \n\nAs for frequency, is it actually changing per user (on avg) or are you just reaching more people during these spiked periods? \n\nMaybe I take a liberal approach to it, but I wouldn't worry about this unless it's blowing up CPMs and you're trying to adhere to an impression goal (or CPM goal).",
+      "score": 1,
+      "created_utc": 1738883013.0
+    }
+  ]
+}

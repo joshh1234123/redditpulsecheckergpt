@@ -1,0 +1,93 @@
+{
+  "id": "1hjax9z",
+  "title": "Using programmatic for a home improvement company",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hjax9z/using_programmatic_for_a_home_improvement_company/",
+  "created_utc": 1734791345.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "MixtureScared8368",
+      "body": "Done this before and target home improvement shoppers (location data, deterministic only) works great. Works for Social too.",
+      "score": 4,
+      "created_utc": 1734795029.0
+    },
+    {
+      "author": "MrPresident79",
+      "body": "Retarget each product (windows, siding, etc) with their own product-specific ads.",
+      "score": 4,
+      "created_utc": 1734796391.0
+    },
+    {
+      "author": "zeroThreeSix",
+      "body": "Yes-- using browsing/contextual targeting for prospecting is huge for this! Then of course site retargeting as usual to drive the consideration phase lower down the funnel toward appointment/quotes.",
+      "score": 7,
+      "created_utc": 1734792424.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "It’s definitely a sector that can work well for programmatic if done right. Make sure to dig into data from their current lead generation PPC campaigns and GA data. There will be useful data there to inform your programmatic campaigns. For example look into the top smart bidding signals in Google Ads and see if they can help you get a head start with geo-targeting, time of day etc. Of course also look into current creatives to find current top performers. Consider A/B-testing of creatives. You can often get X multiples improvement from A/B-testing creatives by for example running multivariate tests. Use site inclusion lists. Try to find relevant publishers for the given audience. Don’t run with a blacklist and pre-bid filters like DV and IAS alone, you’ll get tons of bad traffic that way which will make your metrics a lot harder to achieve and many of those impressions and clicks will be garbage even if they are low cost (think advertising window replacements on a Hello Kitty game site however brand safe it might be). Go for quality traffic early on instead. \n\nWhen you start getting enough leads it will be on to work more with data analysis, ML tools and so forth to dig deeper.",
+      "score": 3,
+      "created_utc": 1734800514.0
+    },
+    {
+      "author": "ProgrammaticBadman",
+      "body": "Have you considered geo fencing? Or are they a national company?",
+      "score": 1,
+      "created_utc": 1734791636.0
+    },
+    {
+      "author": "gooserider",
+      "body": "Assuming you're in the US, I would try targeting zipcodes and running video ads that are part educational, part sales.\n\n\nEx. \"Types of new roofs\", \"is solar right for me\", etc",
+      "score": 1,
+      "created_utc": 1734809453.0
+    },
+    {
+      "author": "biscaynebystander",
+      "body": "I would use it to target new home owners <6 months with an and statement on the property value.",
+      "score": 1,
+      "created_utc": 1735065118.0
+    },
+    {
+      "author": "Elegant-Biscotti3629",
+      "body": "Targeting suggested above looks strong. I would also evaluate the bidder and tech you are using. There are certain bidders who strongly outperform the market on driving leads and ROI.",
+      "score": 1,
+      "created_utc": 1735500377.0
+    },
+    {
+      "author": "atteism",
+      "body": "What markets are you looking to target? I would suggest you try the contextual segment \"Home and garden\". We have it off-the-shelf in nine languages: [https://aeternalabs.ai/products/](https://aeternalabs.ai/products/)",
+      "score": 1,
+      "created_utc": 1736427365.0
+    },
+    {
+      "author": "Sharp-Wolverine119",
+      "body": "Don’t do it. Too much waste for medium sized biz.",
+      "score": 1,
+      "created_utc": 1734794423.0
+    },
+    {
+      "author": "Significant-Act-3900",
+      "body": "Programmatic isn’t the I my way to achieve growth. Are you consulting with an agency? I wouldn’t raise be asking someone with advertising agency experience what they would do with $x,xxx monthly budget. We always recommend our clients spend 6-8% of the annual revenue on marketing and advertising if you want to experience growth. ",
+      "score": 0,
+      "created_utc": 1734828318.0
+    },
+    {
+      "author": "One-Maybe-5614",
+      "body": "Appreciate input.  Use keyword search, interest targeting layered with demographic profile then?  Any other targeting tactics you think would be effective?",
+      "score": 1,
+      "created_utc": 1734793763.0
+    },
+    {
+      "author": "One-Maybe-5614",
+      "body": "Have thought about geofencing, there are some showrooms that you could target but it would be low volume.  Most companies sell in the home.  They are a statewide company",
+      "score": 2,
+      "created_utc": 1734793642.0
+    },
+    {
+      "author": "Thin-Seaworthiness-7",
+      "body": "Certain partners can target houses with specific configuration (sfh, duplex, houses with pools, apartment) and by hhi",
+      "score": 1,
+      "created_utc": 1734797477.0
+    }
+  ]
+}

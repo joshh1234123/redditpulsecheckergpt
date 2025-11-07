@@ -1,0 +1,57 @@
+{
+  "id": "1nv8ccr",
+  "title": "Amazon DSP integrates with Spotify Ads",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nv8ccr/amazon_dsp_integrates_with_spotify_ads/",
+  "created_utc": 1759325624.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "What does it actually mean? You can run spotify ads in other dsp’s also…",
+      "score": 6,
+      "created_utc": 1759338553.0
+    },
+    {
+      "author": "Vanswers0115",
+      "body": "Well they also own Amazon Prime Music which takes up another piece of the OTT stack, so now they’ve got 2 of the biggest under their umbrella, and one of which costs them very little outside of the fraction of royalties they’d be paying out to ascap and bmi that they also have a shit ton of purchase data on as well… so now they’ve can also more than likely identify a segment of user behavior on yet another app. It’s  honestly a solid move especially considering that they can essentially put a stranglehold on certain markets through music, podcast, and become even bigger in the audio book space. Now they’ve got a huge grip on all audio streaming, and let’s not forget about how many people use their devices in-home that are connected to both prime music and Spotify. This will enable them to connect even more cross device identification. \n\nNext they’ll partner with Live Nation and give them programmatic guarantees on the largest audio streaming app and their own in-house streaming app which is basically just part of the sales pitch they’ll throw their way. It doesn’t really matter how many people use amazon music. They’ve got the biggest audio streaming service in their pocket now, and they already crush the fucking audio book game. This is actually a huge partnership for them.",
+      "score": 3,
+      "created_utc": 1759471970.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Nothing really, just integration with Spotify's Ad Exchange which as you say other leading DSPs already do.\nYahoo DSP also announced the same thing today.",
+      "score": 2,
+      "created_utc": 1759340717.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "I mean yeah, but until you can get spotify deals from well…spotify then does it really matter? Or can you do audience and contextual overlays there? Usually you get a segment from spotify that’s defined in the pmp, at leadt that’s how I’ve run most(all) my spotify campaigns.",
+      "score": 1,
+      "created_utc": 1759500830.0
+    },
+    {
+      "author": "magicwings",
+      "body": "Something about \"combining signals\". Can I target someone on Spotify with Amazon's audience data through their DSP?",
+      "score": 5,
+      "created_utc": 1759340954.0
+    },
+    {
+      "author": "Vanswers0115",
+      "body": "Yeah, you could buy directly on Spotify but Amazon has a ton of data on everyone. A big piece if programmatic is the connected devices. Amazon has way more datapoints. They can now leverage Spotify’s wealth of music streamers and attach device id’s and map the biggest music streaming service’s users to their inferior music platform and all the other datapoints they have between device side data and pharmaceuticals (which they’re about to crush which also comes with insurance data), to e-commerce, to food/Whole Foods data, to streaming video, to you fucking name it dude. Mapping that number of additional accounts via Spotify and listener history lets the. Paint a whole other level of a buyer persona when paired with the wealth of data they already have on pretty much everyone. They just bridged a huge data gap and no one even recognizes it. If you think Live Nation isn’t trying to get in bed with Amazon after this move they certainly will. Record and merch sales through third party outlets is something they could never touch before but now through the Amazon dsp these segments will definitely be available as PGs.",
+      "score": 1,
+      "created_utc": 1759548331.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Somehow I doubt it imo, if speaking comparatively to how Google DV360 / TTD has approached this integration.\nIm sure their sales pitch will say they do / AMC for measurement but in reality, it has the same limitations as to why nobody else is doing it.",
+      "score": 3,
+      "created_utc": 1759357610.0
+    },
+    {
+      "author": "sarries123",
+      "body": "Yes.",
+      "score": 2,
+      "created_utc": 1759348585.0
+    }
+  ]
+}

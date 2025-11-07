@@ -1,0 +1,105 @@
+{
+  "id": "1nsmsic",
+  "title": "DV360 & YouTube",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nsmsic/dv360_youtube/",
+  "created_utc": 1759061584.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "charju_",
+      "body": "So many ridiculously wrong takes here! \n\nI'm managing a lot of clients with up to 7-figure YouTube budgets. If you're a Google Partner or book through an agency (and if you have a DV360 seat, I’d assume that’s the case), YouTube is basically the same between Google Ads and DV360. Sometimes certain beta and alpha tests are limited to either DV or Google Ads (many of them only to Google Ads).\n\nOn both platforms you have access to:\n\n- Programmatic guaranteed through Instant Reserve and YouTube Select. All fully self-bookable.\n- Demand Gen as the mid-funnel option\n- All automated and combined format strategies like Video Reach, Video View and other mixed-format campaigns\n- Different types of bidding, usually fully dependent on the format (CPM, CPV, CPA/ROAS with Demand Gen)\n- 20s, 30s and 60s Non-Skippables\n- Brand Lift studies\n- Cross-Media Reach Reports incl. TV\n- Third-party measurement through certified partners (like Nielsen & IAS)\n\nDV only:\n- Frequency cap across all inventory within your dv  campaign (a huge plus if you’re also running PA/PD deals across a lot of other video inventory)\n- cross media reach reports including other video inventory\n- if needed: it's a tad easier to automate unique reach reporting, as this is not available in the Google Ads Api and only within the UI\n- Con: additional DV fee\n\nFor many features, you need your Google Account Rep to whitelist your account. That applies to both Google Ads and DV360.\n\nIMHO, in DV, since YouTube is set up very differently from all other DV IO/LI, it’s basically just a Google Ads container in the backend hosting the campaign. Insertion Order settings don’t affect YouTube, and you must configure basically everything within the line item.\n\nDepending on your workflow, tech stack and client, both platforms are valid choices. You really don’t miss much in either one.\n\nSmall side note: it's Google Ads now. AdWords hasn't existed since 2018.",
+      "score": 7,
+      "created_utc": 1759129384.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "It's a YouTube PG deal which basically guarantees you a certain number of impressions for which you are booking the inventory, but the major advantage is the availability of YouTube's premium inventory across all the top youtube channels of different verticals like Entertainment, Beauty and Fashion, Tech etc. You can run your ads on these premium slots as per your interests. There's also an additional option of serving your ads at first position.",
+      "score": 6,
+      "created_utc": 1759078925.0
+    },
+    {
+      "author": "buddythehugger",
+      "body": "YouTube Select Reservations with different industry/vertical Lineups (travel, business etc). Also, First Position ads on top of this. Not sure if those are available in Google Ads, so sorry if no value in my answer. But the rest of the deals like Masthead should be available in Google Ads.",
+      "score": 3,
+      "created_utc": 1759076040.0
+    },
+    {
+      "author": "Flipdoc_",
+      "body": "I'm not on Google Ads, but I believe that you'll have access to \"standard YouTube\" there. In other words: in-stream (non-skip, bumper , skip) + Masthead on desktop, mobile and CTV.\nYou'll be buying YT's inventory with a floor price and will need to adjust bids. I don't recall seeing fixed CPMs on that platform.\n\nDV360 allows you to buy the above under a fixed price + guaranteed impressions. You'll know the CPM beforehand and the impression volumes tied to your buy.\n\nPlus:\n- You can add first position targeting (which means that your ad will be the first to show to the user when they open their YT session). I'm not that sure that 1st position can be set on Google Ads, so I'm adding it here.\n- YT Pause Ads (available on CTV).\n- 30s + 60s non skippable ads (again, not sure if these lengths can be bought on Google Ads as non-skips).",
+      "score": 1,
+      "created_utc": 1759098621.0
+    },
+    {
+      "author": "Mauchad",
+      "body": "Following. I have asked some people at my agency and never get a good response",
+      "score": 1,
+      "created_utc": 1759081485.0
+    },
+    {
+      "author": "Crust_Issues1319",
+      "body": "Deals on DV360 can give you more control over inventory, audience targeting and pricing compared to just running standard Youtube ads in AdWords. You're often getting premium placements and the ability to negotiate directly with publishers which can improve campaign effectiveness. If you're thinking about similar concepts for TV or CTV, platforms like Tatari do something comparable by letting you run campaigns across linear and connected TV with reporting that shows which placements and audiences are actually driving results.",
+      "score": 1,
+      "created_utc": 1759085088.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Different types of inventory available in DV360? Yes. Noticeably more effective? Not usually.",
+      "score": 0,
+      "created_utc": 1759080479.0
+    },
+    {
+      "author": "Goldenface007",
+      "body": "No. YouTube is YouTube, however you buy it.",
+      "score": -6,
+      "created_utc": 1759066790.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "This is incorrect- some sort in order and campaign level settings Do affect YouTube campaigns. For example, IO automatic budget allocation, and frequency settings apply",
+      "score": 2,
+      "created_utc": 1759153564.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Good take, it is indeed literally Google Ads ported onto DV360 for YT (you can tell in the code & how conversion tracking used to work). \n\nThough that more premium inventory capability of a YT Select / Instant Reserve / Curated Publisher buys has a little difference between the 2 platforms.",
+      "score": 1,
+      "created_utc": 1759137416.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "You literally forgot the main difference, in DV you also get the premium lineups across different verticals where you can serve your ads on top youtube channels inventory across that vertical.",
+      "score": 1,
+      "created_utc": 1759497353.0
+    },
+    {
+      "author": "TheGrandLeveler",
+      "body": "I've used both and agree with this take, GA is maybe a bit more user friendly, however I've heard that GA has hidden fees that Google isn't transparent about. Also, how is PD/PG relevant for YT?",
+      "score": 1,
+      "created_utc": 1759857730.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "YouTube PG deals are just for DV360, in adwords they need to book it through a Google rep.",
+      "score": 4,
+      "created_utc": 1759079048.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "This is objectively wrong.",
+      "score": 2,
+      "created_utc": 1759080443.0
+    },
+    {
+      "author": "linuz14",
+      "body": "But in dv there are some filters at account/partner level",
+      "score": 1,
+      "created_utc": 1759069891.0
+    },
+    {
+      "author": "Goldenface007",
+      "body": "You make a great point, but have you read the question ?!",
+      "score": 1,
+      "created_utc": 1759150735.0
+    }
+  ]
+}

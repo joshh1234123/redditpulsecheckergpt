@@ -1,0 +1,99 @@
+{
+  "id": "1nw50v1",
+  "title": "TheTradeDesk announces the launch of OpenAds & PubDesk",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nw50v1/thetradedesk_announces_the_launch_of_openads/",
+  "created_utc": 1759414597.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "Broth262",
+      "body": "It’s almost like they’ve spent a decade being incredibly difficult to work with and wonder why people are skeptical that anything they’re doing is for the benefit of anyone other than TTD",
+      "score": 48,
+      "created_utc": 1759417326.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "OMG this is soooo much cope from TTD. They could solve the TID issue for premium publishers tomorrow with one simple little UI tweak that has been possible for years (like at least the last 6+) yet they have hidden in the API never to let it see the light of day: Volume Control. Volume control essentially makes the DSP prioritize specific attributes for bid submission over others. They made a half ass version of it for Commitments, but the raw API version is a game changer in buying logic. It allows to you tier your supply properties even within a PMP to ensure you focus dollars/bids exactly where you want them. Want to make sure as much of your budget goes to vendors wit a TID? Volume control setting at 2 and drop all others to -1. You’ll only bid on the non TID supply when you absolutely have to to maintain pacing. \n\nWhy is TTD not making this simple UI tweak? Because TID isn’t about buyer transparency it’s about maintaining data infrastructure cost for TTD in their aging tech stack. If a pub sends 20x bid requests for the same impression that’s 20x the cost TTD needs to crunch in the exchange and store in post exchange processing that they don’t want eating into their margins. \n\nInstead of giving clients a simple and easy solution to force sellers to align to the buyers wants, they are convoluting the entire programmatic market with this mini-garden effort to shave 1% off their effective margin which they think keeps Wall Street happy, but somehow are ignoring that fact Wall St is plainly over TTD with the cuts analyst have given the company across the board. Wall Street analysts don’t care about this crap or Ventura OS, they want pure growth plain and simple. TTD is showing Wall St yet again its leadership is easily distracted by stupid esoteric fights instead of dealing with the increasing encroachment of Amazon. What a joke",
+      "score": 23,
+      "created_utc": 1759428971.0
+    },
+    {
+      "author": "mattenxx",
+      "body": "Any link?",
+      "score": 2,
+      "created_utc": 1759415542.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Walled garden.",
+      "score": 8,
+      "created_utc": 1759420603.0
+    },
+    {
+      "author": "chill-out-100",
+      "body": "Which part?",
+      "score": 7,
+      "created_utc": 1759427924.0
+    },
+    {
+      "author": "thinkerthought",
+      "body": "This is literally the opposite of a walled garden?",
+      "score": 10,
+      "created_utc": 1759436439.0
+    },
+    {
+      "author": "trenhard",
+      "body": "When tradedesk says jump - you've gotta start asking how high.",
+      "score": 4,
+      "created_utc": 1759436638.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "It’s a walled garden in the sense that they are attempting to own entire supply chain - the demand platform, the supply pipes (open path + sp500) and software the supply side uses (Ventura OS + PubDesk). It’s the same thing Google did with the display market.\n\nInitially it promises more transparency and efficiency, but once the industry is operating on their platform, they have all the leverage and data and eventually begin to screw people over.\n\nWhenever they release something, I assume it’s more to serve themselves rather than serve everyone else in the market.",
+      "score": 4,
+      "created_utc": 1759452304.0
+    },
+    {
+      "author": "Vanswers0115",
+      "body": "Well every company makes efforts to serve themselves first. Even nonprofits…",
+      "score": 5,
+      "created_utc": 1759471106.0
+    },
+    {
+      "author": "chill-out-100",
+      "body": "I don’t think you understand what pubdesk is lol",
+      "score": 8,
+      "created_utc": 1759454400.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "TTD doesn’t want to own the inventory or supply chain- they want to make it accessible to buyers and everyone else. I think you’re misconstruing the message. OpenAds will be available for all other demand and supply side companies to bid into - but most of these companies won’t because it will reveal their exploitative nature and how little value they actually add for buyers or publishers.",
+      "score": 7,
+      "created_utc": 1759501454.0
+    },
+    {
+      "author": "akrewhq",
+      "body": "They already screwed me over without this",
+      "score": 2,
+      "created_utc": 1759504407.0
+    },
+    {
+      "author": "JC_Hysteria",
+      "body": "…why would they be trying to serve anyone else but themselves, their partners, and investors?\n\nIf the ambition is to own the supply chain, it’ll only work if everyone agrees their approach is balanced.",
+      "score": 3,
+      "created_utc": 1759455509.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "This is why it rubs me the wrong way when they announce their products as if they’re stewards of “the open internet”.",
+      "score": 3,
+      "created_utc": 1759467120.0
+    },
+    {
+      "author": "JC_Hysteria",
+      "body": "It’s good marketing, and someone needs to do it. \n\nThey’ve grown a lot since their inception, and have pitched themselves as a Google competitor. \n\nThe debate has been about whether this industry can regulate itself or not…so with the economics of the “open web” sharply declining in favor of social content/tech aggregator platforms, it is somewhat existential. \n\nUser login requirements, paywalls, and poor UX has now become a default expectation, because the ad industry couldn’t partner well enough.",
+      "score": 3,
+      "created_utc": 1759498344.0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1lnjqxy",
+  "title": "What are the most powerful DSPs or technologies for geofencing campaigns that actually work for drive-to-store objectives?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lnjqxy/what_are_the_most_powerful_dsps_or_technologies/",
+  "created_utc": 1751216652.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "Bulky_Perception_682",
+      "body": "What you need is an external partner like PlaceIQ or Foursquare.  No one DSP has the granularity of features you're looking for.",
+      "score": 6,
+      "created_utc": 1751306174.0
+    },
+    {
+      "author": "j17obrien",
+      "body": "For a more affordable option, [Simpli.fi](http://Simpli.fi) is a solid indie DSP with a strong focus on location-based targeting. It allows for custom polygon creation to track and optimize store visit attribution. You can build audiences based on historical visitors to your own stores or competitor locations, all without needing a separate third-party location data partner. They use GPS and plat line data alongside geofencing tech, which makes it easy to activate proximity-based campaigns with built-in visit tracking.\n\nIf you're open to higher platform and data fees, The Trade Desk (TTD) recently rolled out its own geofencing solution through Kokai. While TTD doesn't offer deep native geofencing capabilities, it integrates with nearly every major location data provider, including PlaceIQ, Foursquare, InMarket, AdSquare, and more, through its Measurement Marketplace. It also provides access to real-time and post-campaign footfall attribution depending on the location data provider. TTD has superior inventory access, particularly with the Kokai focus on inventory quality, though most major DSPs generally tap into the same SSPs. If you go this route, it becomes less about TTD itself and more about the location data partners you choose, so I’d recommend scorecarding those providers based on your own criteria to ensure alignment with your goals.",
+      "score": 5,
+      "created_utc": 1751251307.0
+    },
+    {
+      "author": "trenhard",
+      "body": "Signal for precise geo has significantly reduced over the past several years. \n\n\nA DSP like Blis is likely to offer most features you want, but they might not be in LATAM.\n\n\nYour other option might be to cobble together a solution from a few different 3Ps",
+      "score": 2,
+      "created_utc": 1751314949.0
+    },
+    {
+      "author": "Sonic-the-seattle411",
+      "body": "Ground truth, Agility, Simplifi. \n\nStay away from paying premium prices for all the add ons that you would have to do to put everything you are looking for together via a dsp",
+      "score": 2,
+      "created_utc": 1751529731.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "I’m assuming you’ll want DOOH? Yahoo in the US would fit the bill for what you’re looking for.",
+      "score": 2,
+      "created_utc": 1751244587.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Geolink via InMarket could be a good option. You could use also use their location based audiences (custom ones) and then activate those in the DSP that you’re currently utilizing. \n\nSome DSPs already have platforms like foursquare, cubeiq, etc. integrated into their systems but if I’m looking to customization in my location data plan - I’d partner with them direct and then have them send those segments to the DSP of your choice for activation",
+      "score": 1,
+      "created_utc": 1751485993.0
+    },
+    {
+      "author": "MouseTop3260",
+      "body": "you can sign up to Admatx which provides access to Foresquare to build your geo fence and target it.",
+      "score": 1,
+      "created_utc": 1751641347.0
+    },
+    {
+      "author": "Kellyjackson88",
+      "body": "Mobsta",
+      "score": 1,
+      "created_utc": 1755891648.0
+    },
+    {
+      "author": "misterfaltu",
+      "body": "Any 3p working well with DV360 in Canada?",
+      "score": 1,
+      "created_utc": 1760341002.0
+    },
+    {
+      "author": "Available_Humor_9753",
+      "body": "SONATA DSP / DMP (LI) , very strong in Latam and global too. If you need more information send me a DM I can give you a contact.",
+      "score": 1,
+      "created_utc": 1751217175.0
+    },
+    {
+      "author": "dortenzio1991",
+      "body": "Groundtruth",
+      "score": -1,
+      "created_utc": 1751225545.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "This!!! Also, knowing how to appropriately geo fence to drive outcomes is going to matter. I’d think working with a service like Placer.ai could be really valuable to understand where people travel and in what order.\n\nDSP accuracy with geofences is not going to be as accurate as what they receive in the bid stream. The actual lines are going to be pretty fuzzy.",
+      "score": 3,
+      "created_utc": 1751319864.0
+    },
+    {
+      "author": "Scared_Manager6822",
+      "body": "The domain and app inventory in simpli.fi it's US focused and it's very reduced to not say poor, for my last recall a year ago, and their platform interface it's mainly based or powered by Looker, which makes me think they use Google Ads and the GCP environment for their operation. So my advice would be to run the operation from GCP to secure and segment traffic and hire some type of GPS data party service or distributor.",
+      "score": 1,
+      "created_utc": 1754679653.0
+    },
+    {
+      "author": "misterfaltu",
+      "body": "DM",
+      "score": 1,
+      "created_utc": 1760340417.0
+    }
+  ]
+}

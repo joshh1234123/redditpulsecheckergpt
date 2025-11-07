@@ -1,0 +1,75 @@
+{
+  "id": "1me2ie6",
+  "title": "Question for publishers: SSP % fees",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1me2ie6/question_for_publishers_ssp_fees/",
+  "created_utc": 1753970737.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Witty-Unit-9247",
+      "body": "GAM charges around 10-20% rev share from publishers. It could be lesser (upto 5%) if you have negotiation power with Google.",
+      "score": 5,
+      "created_utc": 1753980546.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "10-40%\nThe supply chain is hard on publishers \n\nSomething it’s not just one seller, even some if largest sell side platforms will set to other ssp’s to increase access to demand.\n\nSo a chain such as:\nPublisher- SSP - Curator - DSP - Media agency - Agency - Brand\n\nIs not uncommon \n\nEven if every hop is charging 10% it’s 50% of the brands money gets to the publisher",
+      "score": 3,
+      "created_utc": 1753993056.0
+    },
+    {
+      "author": "supertoothpastecat",
+      "body": "Also open exchange rev share vs pump rev shares can be different I’ve seen 20% to 5% depending on the path",
+      "score": 1,
+      "created_utc": 1753995251.0
+    },
+    {
+      "author": "adflet",
+      "body": "Yep. It's amazing just how little of an advertiser's money actually ends up being spent on advertising in a programmatic scenario.",
+      "score": 2,
+      "created_utc": 1754007000.0
+    },
+    {
+      "author": "data_spy",
+      "body": "SSP is typically the curator and media agency and agency are the same thing. Fair point though.",
+      "score": 0,
+      "created_utc": 1754058901.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "This is why good trading desks and advertisers vet how much of their ad dollars actually reach their publishing partners and work to clean up their programmatic supply chain as much as possible. Appreciate you can't be doing this with every publisher, but if you're running on a curated marketplace and you know DSP data and SSP fees you can get pretty close to full transparency if you put in the effort",
+      "score": 1,
+      "created_utc": 1754032027.0
+    },
+    {
+      "author": "DMCer",
+      "body": "Media *vendor* would be the right term, which is of course distinct from the agency in cases where the agency is not running in house.",
+      "score": 2,
+      "created_utc": 1754093502.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Yes this is just a not unlikely example\n\nI would say the average impression is around two hops before the DSP\n\nBut if a buyer is not asking questions and actively looking into these things he will probably get it pretty bad.",
+      "score": 1,
+      "created_utc": 1754073376.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "Well, independent experiments run by Dr. Fou show that for a $16CPM (as paid by advertiser), the publisher get $0.80\n\nRun the numbers: 95% of the ad spend is siphoned off before it reaches the publishers. \n\nThere are PMPs that deliver better proportions, but the problem is getting worse: [https://www.linkedin.com/pulse/yeah-i-ran-media-buying-experiments-paid-them-data-evidence-fou-ipf6c/?trackingId=AZuay%2BsLSP%2BSY3jF7bYxLg%3D%3D](https://www.linkedin.com/pulse/yeah-i-ran-media-buying-experiments-paid-them-data-evidence-fou-ipf6c/?trackingId=AZuay%2BsLSP%2BSY3jF7bYxLg%3D%3D)",
+      "score": 1,
+      "created_utc": 1754322792.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "This is a known issue and is exactly why I highlighted that you can improve this when working with the right publishers and DSP/SSP set-up. Minimizing hops in the supply chain and ensuring you can vet where dollars are leaking. It's near impossible to get 100% transparency, but you can definitely make sure you're budgets are more effective at reaching publishers than the above case study if you do the work",
+      "score": 1,
+      "created_utc": 1754382353.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "Minimizing the hops is certainly a noble goal, and I do indeed wish that it would succeed. Thing is, there is too much of an incentive to enshittify the process right now. And as long as the guiding principle at the Big Agencies is, “We have to get rid of the spend” there is little pressure for this to change on the macro scale. I’m seeing smaller outfits paddling against the tide, to little avail. You?",
+      "score": 2,
+      "created_utc": 1754858769.0
+    }
+  ]
+}

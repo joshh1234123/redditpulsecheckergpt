@@ -1,0 +1,153 @@
+{
+  "id": "1ieux0c",
+  "title": "How did they track me?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ieux0c/how_did_they_track_me/",
+  "created_utc": 1738372720.0,
+  "num_comments": 25,
+  "comments": [
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "They are wizards. Sleep with one eye open and don’t answer the door /s",
+      "score": 5,
+      "created_utc": 1738380786.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "If you have your email in a public place, perhaps web scrapping was part of them connecting the dots. Zoominfo or similar might have your company details. Still sounds sketchy, doesn't sound CAN-SPAM compliant.",
+      "score": 3,
+      "created_utc": 1738450800.0
+    },
+    {
+      "author": "programmago",
+      "body": "My best guess from my B2B days: \n\n1) LinkedIn has both your home and work devices mapped (DeviceID, Cookie, etc) . \n\n2) The Vendor site you visited has their website pixeled with a L.I. tracker (aka \"LinkedIn Insight Tag\") . This: \n\n[https://www.linkedin.com/help/lms/answer/a418880](https://www.linkedin.com/help/lms/answer/a418880)\n\n3) Said company made an audience defined as \"users that did X or why on my site\"\n\n4) You did \"x or y\" in their site, the L.I. pixel looks at all records from the Vendor website collected through their pixel that matches the definition and creates a group of actionable IDs matching said definition\n\n5) The Vendor buys the following service from LinkedIn - and activates InMail from the audience definition above:\n\n[https://business.linkedin.com/marketing-solutions/message-ads](https://business.linkedin.com/marketing-solutions/message-ads)\n\n6) Voila! You get a \"prospect followup\" email and feel creeped out :)\n\n  \nHope this helps",
+      "score": 2,
+      "created_utc": 1738964798.0
+    },
+    {
+      "author": "Repulsive_Ad_656",
+      "body": "Retention.com seems likely",
+      "score": 1,
+      "created_utc": 1738411258.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1738521734.0
+    },
+    {
+      "author": "TO-222",
+      "body": "You visited with your home ip/device.\n\nSomewhere out there online you have either submitted an email/name/phone with this device/ip\n\nThere are data matching services out there, where you can upload your data and they will cross reference with massive databases and match you, and then fill in the missing gaps.\n\nYour name is an enough of a data point.  \nYou run ai automation to scrape the web with everyone with mathcing name. Especially in location and you let the sms/linkedin/email AI powered bots do the rest.\n\nCould you DM me with their site please",
+      "score": 1,
+      "created_utc": 1738669348.0
+    },
+    {
+      "author": "Relative-Pin-1051",
+      "body": "You were probably logged in Linkedin and the website you visited used [https://business.linkedin.com/marketing-solutions/insight-tag](https://business.linkedin.com/marketing-solutions/insight-tag)",
+      "score": 1,
+      "created_utc": 1738829547.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": "You filled a form out on the internet somewhere that they dropped a cookie on with a unique ID. Then they exchanged the IDs with other IDs to tie them together. Then they auction off your data to brokers.\n\nIt's pure evil and should be illegal. You can absolutely do totally sinister and evil things with that tech and it should be banned I am serious. It's actual scam tech. If their argument was that their networks were 100% sqeaky clean then maybe it would be acceptable, but there are absolutely criminals on their networks and they're barely policed at all.\n\nIt's disgusting.",
+      "score": -3,
+      "created_utc": 1738372897.0
+    },
+    {
+      "author": "programmago",
+      "body": "You forgot to tell them to burn incense and sprinkle salt outside every door and window.",
+      "score": 2,
+      "created_utc": 1738963403.0
+    },
+    {
+      "author": "programmago",
+      "body": "I dont believe CAN-SPAM applies since its using the internal Linkedin messaging system (which is more like an internal chat), and not an email provider.",
+      "score": 1,
+      "created_utc": 1738964879.0
+    },
+    {
+      "author": "Blodecode340",
+      "body": "I was on my home network. Just so bizarre.",
+      "score": 2,
+      "created_utc": 1738521819.0
+    },
+    {
+      "author": "AMSChristmas",
+      "body": "I wonder if that ip -> business data is an available dataset.",
+      "score": 1,
+      "created_utc": 1738528426.0
+    },
+    {
+      "author": "Blodecode340",
+      "body": "Interestingly enough, I was logged into LinkedIn but not with my personal account. It was a shared profile we use for LinkedIn ads manager that has a completely different email associated with it.",
+      "score": 1,
+      "created_utc": 1738901153.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Oh no. I’ve been doing it all wrong. I guess they know I watch midget mud wrestling",
+      "score": 2,
+      "created_utc": 1738963798.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Work computer? Cause maybe something with your browsing behavior (antivirus or something, I don’t know) where they could’ve figured out your company, and then message you. \n\nThere’s other companies FullThrottle.ai comes to mind where they essentially finger print you. \n\nThey may have been a different company or part of a holding co, that you did give your info to. \n\nWould you DM the name of the company if you don’t want to name them publicly?",
+      "score": 1,
+      "created_utc": 1738548543.0
+    },
+    {
+      "author": "RegisterConscious993",
+      "body": "Work IP was my first guess. Do you use any B2B extensions on chrome? Many sell your data to or are outright owned by lead brokers.",
+      "score": 1,
+      "created_utc": 1738644500.0
+    },
+    {
+      "author": "programmago",
+      "body": "\"Hi CCD2,\n\nI can see you are interested in our Midget Mud Wrestling content. \n\nAre you free this coming Thursday at noon for a quick call to go over our MMW package options?\n\nOur engagement metrics are very robust and I think you will find our  CPMs extremely competitive.\"",
+      "score": 1,
+      "created_utc": 1738965151.0
+    },
+    {
+      "author": "Blodecode340",
+      "body": "Just sent!",
+      "score": 2,
+      "created_utc": 1738550336.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "What kind of CPMs are we talking about here. The midget mud wrestling content needs to be in a brand safe environment, viewability 98%+ and need free bonus impressions to get my client interested.",
+      "score": 1,
+      "created_utc": 1738976633.0
+    },
+    {
+      "author": "programmago",
+      "body": "Dont worry its premium inventory only, and we will even throw in a jeans party to sweeten the deal.",
+      "score": 1,
+      "created_utc": 1739200628.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Can we build an audience based on people watching midget mud wrestling AND are interested in fly fishing AND between 18-25 who are newcomers? Jeans party is great. I prefer a pizza party.",
+      "score": 2,
+      "created_utc": 1739206176.0
+    },
+    {
+      "author": "programmago",
+      "body": "...the perfect solution to not compromise on your media investment perks lol \n\n[https://g.co/kgs/MJJc4j7](https://g.co/kgs/MJJc4j7)",
+      "score": 1,
+      "created_utc": 1739477350.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "I’ll take this back to management and ghost you for a few months.",
+      "score": 2,
+      "created_utc": 1739486929.0
+    },
+    {
+      "author": "programmago",
+      "body": "Ill pretend im ok with it, then continue to send you email pings every couple of weeks referencing weather, social media jokes or sports.",
+      "score": 2,
+      "created_utc": 1739552935.0
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": "1izz8fg",
+  "title": "How is MNTN Driving Last Click Conversions/Appearing in GA source/medium Reports?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1izz8fg/how_is_mntn_driving_last_click/",
+  "created_utc": 1740716059.0,
+  "num_comments": 56,
+  "comments": [
+    {
+      "author": "cuteman",
+      "body": "MNTN is injecting GA source mediums from a combination of GA import magic and display retargeting bombardment.\n\nAs others have said, Steelhouse is the prior name of MNTN and they've gotten into some trouble in the past.",
+      "score": 30,
+      "created_utc": 1740721108.0
+    },
+    {
+      "author": "klustura",
+      "body": "Last Click Conversion on CTV? Can the user click on the Ad on TV? Is the user redirected to CTV's browser when the click happens?",
+      "score": 9,
+      "created_utc": 1740718473.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "I’m so confused why anyone falls for the MNTN trap…… it’s a facade with the lack of transparency.",
+      "score": 9,
+      "created_utc": 1740763345.0
+    },
+    {
+      "author": "onlyonepersimmon",
+      "body": "It’s called cookie stuffing, honey. See Steelhouse vs Criteo suit circa 2016.\n\nMNTN fires a false click and unseen redirect and it shows up as a last click conversion in GA.",
+      "score": 11,
+      "created_utc": 1740717548.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "Ask Fou",
+      "score": 3,
+      "created_utc": 1740794454.0
+    },
+    {
+      "author": "elchapoguzman",
+      "body": "they’re placing the impression tracking URL in the click designated area (and have some control over the breakdown - so not too many clicks are coming in)",
+      "score": 2,
+      "created_utc": 1740735472.0
+    },
+    {
+      "author": "tech-mktg",
+      "body": "I have some old docs from them from when they were pitching us.  Apparently they use the GA measurement protocol API to insert their conversions into Google Analytics.  I can drop the PDF somewhere and PM it to you, but in it, it says:\n\n* **Measure True Performance With Cross-Device Verified Visits** Once your ad is served, Cross-Device Verified Visits tracks the viewers’ IP address and device IDs. If those IDs visit your website—in a window of time defined by you—it counts as a visit both in Performance TV’s reporting and Google Analytics. That means once a user completes an ad, it allows you to tie visits, conversions, and other key metrics to your campaign— giving you total insight into direct-response performance.\n* **Full Google Analytics Integration** It’s important to track and verify your performance from non- clickable Connected TV inventory, which is why Cross-Device Verified Visits is fully integrated into Google Analytics. We create a real-time map of all devices within a household that touched your website or campaigns, and send it to Google Analytics to ensure proper attribution using the Google Analytics Measurement Protocol API.\n\nSo I think this is what you're seeing, since there's no way to click a CTV ad.  And since they mainly do retargeting, they're obviously going to drop your ad in front of people who will convert anyways, so the impressions may be largely non-incrememental.",
+      "score": 2,
+      "created_utc": 1740767807.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "https://www.reuters.com/markets/deals/mntn-adtech-platform-with-ties-ryan-reynolds-files-us-ipo-2025-02-28/    Interesting….i wouldn’t be investing in this smoke and mirros",
+      "score": 2,
+      "created_utc": 1740849499.0
+    },
+    {
+      "author": "lrinner",
+      "body": "They’re not lol they steal credit from other channels. They had to change their name from Steelhouse because they got bad PR. My agency hired Fou in 2016 to prove it out to a client that kept giving MNTN budget from better channels….like no CTV isn’t driving a $15 ROAS…",
+      "score": 2,
+      "created_utc": 1748452116.0
+    },
+    {
+      "author": "jalapinyobidness",
+      "body": "Have you added in customer exclusions to force it to act as prospecting only? If you ask your CSM they will also add site visitor exclusions",
+      "score": 1,
+      "created_utc": 1740753040.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "If we have the display ads turned off - do you think they’re still running them? We are going to have our agency add impression tags to the next campaign to hopefully get more data",
+      "score": 3,
+      "created_utc": 1740756039.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "Exactly. It makes no sense. But there are conversions in GA.",
+      "score": 3,
+      "created_utc": 1740719731.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Stealhouse",
+      "score": 10,
+      "created_utc": 1740768391.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "I think it comes down to the fact that so many marketers do not understand how CTV or programmatic buying work. And MNTN finds and targets those marketers",
+      "score": 5,
+      "created_utc": 1740790041.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "Because they have Ryan Reynolds. \n\nLet’s be real. Agencies and clients aren’t filled with wiz kids. They’re going to run with reps they like, service that makes their lives easier, and platforms that are easy to use. \n\nA client first business will always beat out the better tech in our industry.",
+      "score": 4,
+      "created_utc": 1741019496.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "Thank you! I will research this case. \n\nI was working in the search world during the 2010s, so I was wondering I am missing any historical context.",
+      "score": 5,
+      "created_utc": 1740718126.0
+    },
+    {
+      "author": "glacierfresh2death",
+      "body": "I love how all the old programmatic scams are coming back again",
+      "score": 3,
+      "created_utc": 1740725254.0
+    },
+    {
+      "author": "jalapinyobidness",
+      "body": "Ironic bc Criteo is the worst offender",
+      "score": 3,
+      "created_utc": 1740752930.0
+    },
+    {
+      "author": "kucan629",
+      "body": "For this example, wouldn’t MNTNs traffic in GA4 show a high bounce / low time on site if this was the case?",
+      "score": 1,
+      "created_utc": 1740718083.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "How would an impression tracker be served back to GA though?",
+      "score": 1,
+      "created_utc": 1740755921.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "This is super interesting. I wasn’t at my company when they implemented the tags. But they are piping in data to GA?",
+      "score": 1,
+      "created_utc": 1740791406.0
+    },
+    {
+      "author": "GlobalMediaAgency",
+      "body": "I shorted it. \n\nIt's down -24% from is height. Feeling like an evil genius over here. \n\nAnd the price still has SO. FAR. TO. DROP! \n\n📉📉📉📉📉📉📉📉📉",
+      "score": 2,
+      "created_utc": 1749160152.0
+    },
+    {
+      "author": "Ok_Impression_564",
+      "body": "What did the Fou tag reveal about Mntn?",
+      "score": 1,
+      "created_utc": 1749512529.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "Yes - we are excluding 1p users",
+      "score": 3,
+      "created_utc": 1740755967.0
+    },
+    {
+      "author": "calicali",
+      "body": "I had such issues with MNTN / Steelhouse a few years ago - they ran retargeting display despite it not being part of the plan and as u/cuteman noted, they just bombard RT imps. However, we did not see the conversions in Adobe Analytics so it was much easier to push back on their shenanigans. \n\nHave you seen a lift in conversions during their campaigns, or just a shift in attribution from other sources to MNTN?",
+      "score": 4,
+      "created_utc": 1740763446.0
+    },
+    {
+      "author": "klustura",
+      "body": "MNTN must use post-view attribution model that's heavily based on IP address. They must ask their clients to have a specific GA configuration to allow that.\n\nOnly possibility I can see a click-driven conversion on CTV is when there's a QR code displayed and the user scans it, clicks on it, and a redirection happens to the landing page. That's the only way I see click driven conversions work on ctv if there's no click/redirection that happens on the ctv itself.\n\nBetter have a report broken down by device type and screen size. You might find out that the clicks happened on a tablet.",
+      "score": 4,
+      "created_utc": 1740728916.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Are you using UTM tags on the landing page URLs for the creatives and those UTM's are where you see the post-click performance from? It should be possible to filter out conversions in GA based on the UTM tags (if they are working properly).  \n  \nPost-view conversions are of interest of course but they can also make campaigns look a lot better than they are in one platform (DSP) versus another (GA).",
+      "score": 2,
+      "created_utc": 1740730716.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+      "score": 2,
+      "created_utc": 1740776165.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "There’s so much money in CTV and also it’s ridiculous how high the CPM still is…",
+      "score": 1,
+      "created_utc": 1740790178.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Another issue is the black box on display and how they use tier 3 CTV to dilute CPM cost from the more premium sources at $30-50 CPMs.\n\nAuditing a friends MNTN account I noticed a LOT of Tubi for example which looked cheap and was indeed cheap audiences.",
+      "score": 3,
+      "created_utc": 1740721355.0
+    },
+    {
+      "author": "cuteman",
+      "body": "The scamery they're doing makes it look on par with search which is ridiculous.\n\nNot even high quality display stealing attribution shows up that way in GA so they're injecting/uploading source medium data back into GA also.",
+      "score": 3,
+      "created_utc": 1740721412.0
+    },
+    {
+      "author": "tech-mktg",
+      "body": "Basically yes, they're somehow matching viewers to GA visitors and then are using a GA API to write the conversions to GA.  How they map the conversions to visitors in GA I'm not entirely clear on; that may be some secret sauce of theirs.",
+      "score": 1,
+      "created_utc": 1741028784.0
+    },
+    {
+      "author": "numbur6",
+      "body": "I'm curious too.",
+      "score": 1,
+      "created_utc": 1753456424.0
+    },
+    {
+      "author": "jalapinyobidness",
+      "body": "Curious why you want to go to TTD (I’ve always hated it but maybe I’m not seeing the opportunity in it)",
+      "score": 1,
+      "created_utc": 1740756414.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "It’s a lift in conversions technically. I did dig a bit deeper and confirmed it was all coming from Mobile > Galaxy traffic. But I think I need the view through data to come in to confirm what is really happening - and if they are doing display retargeting even when we have it turned off",
+      "score": 3,
+      "created_utc": 1740789854.0
+    },
+    {
+      "author": "Physical-Slime517",
+      "body": "Is the display retargeting they are running based off of CTV/OTT views or based on anyone who visits your client site?",
+      "score": 1,
+      "created_utc": 1742329728.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "I’m going to dig into this today, thank you. See if it’s primarily mobile traffic or what is happening",
+      "score": 1,
+      "created_utc": 1740755867.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Yeah, they use IPv4 to connect the dots between the CTV ads they serve and subsequent site visits.\n\n\nIt's not super precise and the metrics work out in their favor.",
+      "score": 1,
+      "created_utc": 1741101485.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "Yes, I am looking at the UTMs in GA - I’ve been ignoring their platform reports knowing it’s probably heavily attributed.",
+      "score": 1,
+      "created_utc": 1740755824.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "Yes! I am assuming it has to be Tubi or something similar, especially since they only report on the network name vs platform",
+      "score": 1,
+      "created_utc": 1740755487.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 2,
+      "created_utc": 1740755690.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Is that why they require you to place their pixel saying their “machine learning” won’t work without it?",
+      "score": 1,
+      "created_utc": 1740742783.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "I just need a DSP I can trust - my background is much deeper in DV360, but I know TTD is another valid option",
+      "score": 1,
+      "created_utc": 1740790093.0
+    },
+    {
+      "author": "cuteman",
+      "body": "The major difference when I ran MNTN versus TTD was the conversion detail reporting down to exact UTC and order #/buyer info made it easy.\n\nI never could get that from MNTN or Criteo.",
+      "score": 2,
+      "created_utc": 1740901017.0
+    },
+    {
+      "author": "4sOfCors",
+      "body": "Pretty much all CTV conversions work the same way - the household sees an impression and device ID and IP are logged, then any site visits or other web actions are correlated to the CTV exposure within the given attribution window. There’s typically a fair amount of signal loss in matching devices across a graph, so it’s not always a magical conversion machine. \nI ask of those that know their tech better than I, what are they doing to alter this workflow that is shady?",
+      "score": 2,
+      "created_utc": 1741122691.0
+    },
+    {
+      "author": "klustura",
+      "body": "They can make it work in their favour because it's all probabilities when it comes to match an impression on ctv and a visit on website, especially when the device used to visit doesn't have the same ip address.\n\nIt'll be another company to short sell since they will soon be listed.",
+      "score": 1,
+      "created_utc": 1741122393.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Yeah it's kind of whack. Devils in the details.\n\nWe ran with them years ago when they were Steelhouse and didn't like the feeling either.\n\nAs you are looking into we eventually settled on a really good TTD agency that us way more transparent. Plus it let us consolidate native, display, pre roll, CTV and a few others from other vendors.",
+      "score": 1,
+      "created_utc": 1740761834.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Are they uploading/importing anything direct into GA?\n\nIf they have admin or edit access they can overwrite source medium",
+      "score": 1,
+      "created_utc": 1740761745.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Site wide tracking pixel is fairly standard for most platforms, uploading/importing data into Google analytics wholesale is not.",
+      "score": 2,
+      "created_utc": 1740761891.0
+    },
+    {
+      "author": "True_Link4011",
+      "body": "I've worked in DSPs for 11 years now - I can confidently say that TTD is my top choice.  robust targeting, integrations, and insights have always delivered strong results",
+      "score": 2,
+      "created_utc": 1741210785.0
+    },
+    {
+      "author": "Even-Room-8451",
+      "body": "Check us out. Public, growing, fully transparent, CTV-focused w/ optional measurement [https://www.viantinc.com/](https://www.viantinc.com/)",
+      "score": 0,
+      "created_utc": 1741122334.0
+    },
+    {
+      "author": "Desperate-Eye-2830",
+      "body": "I’ll have to look at the pixel to see if there’s anything unique. To my knowledge, they do are not importing data to GA",
+      "score": 1,
+      "created_utc": 1740789932.0
+    },
+    {
+      "author": "Physical-Slime517",
+      "body": "TTD is also by far the most expensive and littered with hidden fees.  Their take rate is close to 30% when they charge a platform fee of 14-18%.  TTD is not for traders anymore, they only care about client direct.  DV360, Amazon DSP, Adelphic, DataFusion, Yahoo, Beeswax, these are the DSP's you should be in.  TTD is only necessary now if you want Walmart or retail shopper that they corner the market on.",
+      "score": 1,
+      "created_utc": 1742330188.0
+    }
+  ]
+}

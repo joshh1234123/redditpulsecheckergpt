@@ -1,0 +1,105 @@
+{
+  "id": "1j4ochg",
+  "title": "Confusing topics",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j4ochg/confusing_topics/",
+  "created_utc": 1741238829.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "klustura",
+      "body": "Most of non-tech people find everything confusing in adtech. And I hate to say it, most are not curious enough and don't want to learn.\nYes, AdTech is a fast paced changing industry and it's hard to keep up, especially when you get flooded by sales BS. Yet, there are a lot of resources that one can have a hand on and and become an expert.\n\nThe most confusing topic is still, unfortunately, privacy sandbox. I reckon it's not an easy one.\n\nThen, then there are topics which concepts are somewhat easy to understand but require expertise level to address them operationally and strategically.\n\nI'd say that it'll depend on what audience you want to target. Measurement is complex if you see it from a data scientist perspective. Identity is complex from a legal perspective. Attribution is complex from fraud perspective. Clean Rooms is complex from integration perspective.",
+      "score": 13,
+      "created_utc": 1741248076.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Everybody talks clean rooms. But why does no one actually want to implement. Seems to be too much red tape with legal getting involved.",
+      "score": 7,
+      "created_utc": 1741243071.0
+    },
+    {
+      "author": "D_Adman",
+      "body": "I found that no matter how much training I did, the same questions kept coming up, often time from the same people! \n\nAs u/klustura said., most aren't curious and don't want to learn. \n\nEven basic stuff like mode of buying. ,..CPM, etc. Once in a while I would bring in vendors to train the accounts people, they always like that face time any way and would give me a break from training.",
+      "score": 5,
+      "created_utc": 1741256866.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Adtech can be a bit like the Mos Eisley Cantina in Star Wars, not very easy to get a grip on. In my experience you learn a lot from talking with other people from the industry, watching demos, asking questions. Each one works on their own piece of the industry and if they build their own adtech products they usually know that part very well. Participating in industry associations can also give a really accelerated learning curve.",
+      "score": 3,
+      "created_utc": 1741262525.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Measurement is easily the most important but also most confusing topic imo, too much snake oil as I like to call it saying things which are either completely false or only work for a subset of channels / markets.\n\nThe inner workings of Programmatic from an OpenRTB / Bid Request perspective seems to be lost on the large amount of advertisers / agencies. Understandably it doesn't seem to be as critical in this day & age, but I can somewhat guarantee if there was better knowledge on this, certain issues that plague the industry would not be as problematic. The way programmatic is taught nowadays is either 1) click a button and let the algo do it, 2) do something smart / custom but don't ask too many questions or very shortly 3) let AI take the burden.\n\nEducation is something very important to me personally, almost to a hobby level. Best way I learn is by following the right people or practically doing something.",
+      "score": 3,
+      "created_utc": 1741272001.0
+    },
+    {
+      "author": "thewatchsavant",
+      "body": "Easy.. i talk to my boss and learn",
+      "score": 2,
+      "created_utc": 1741264684.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "Oh LOL… is this another journalist asking?\n\nIf you’re in the space, ask your manager or your peers… :)",
+      "score": 2,
+      "created_utc": 1741328565.0
+    },
+    {
+      "author": "klustura",
+      "body": "Legal are slow because they don't want to take any risks.\nThe laws can have multiple interpretations, and legal are paid to explore them all.",
+      "score": 2,
+      "created_utc": 1741270376.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "Have implemented one in a very large company. Legal and privacy were a challenge to initially educate. Once you break down the data flows there's really no magic to it. It is ultimately a set of tables and pipelines that apply privacy-preserving techniques to move data around and tie it back to identifiers.",
+      "score": 2,
+      "created_utc": 1741328583.0
+    },
+    {
+      "author": "klustura",
+      "body": "I hear you. Same here.\nI also brought vendors to come pitch their products and their perspective. Although those presentations were recorded, I insisted AM/Sales attend them for a live interaction.\n\nMost of the time, unfortunately though, I found myself having to explain the basics again so that the knowledge from vendors is put in context.\n\nI've also noticed that certain companies are simply not organised in the best way to allow knowledge transfer. Gotta say it's typical to AdTech for reasons I'm yet to clarify.",
+      "score": 1,
+      "created_utc": 1741270761.0
+    },
+    {
+      "author": "klustura",
+      "body": "Common sense that's valid for any industry.",
+      "score": 1,
+      "created_utc": 1741270455.0
+    },
+    {
+      "author": "klustura",
+      "body": "Wait until their boss decide they are too expensive and old (or vice versa) and you'll get a promotion.",
+      "score": 2,
+      "created_utc": 1741270178.0
+    },
+    {
+      "author": "AdTech_god",
+      "body": "Am I a journalist now. 😂",
+      "score": 2,
+      "created_utc": 1741611132.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Just curious, how long did it take legal and privacy to approve? Understand it’s different for companies. So far it’s taken us around 7 months. Legal doesn’t understand lol.",
+      "score": 1,
+      "created_utc": 1741335381.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "More than I will ever know haha",
+      "score": 2,
+      "created_utc": 1741639078.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "It's an ongoing thing and it wasn't flipping an approval switch all at once. It started with small things and gradually unlocked others and then focused on scaled usage. That timeline does not seem unusual.",
+      "score": 2,
+      "created_utc": 1741361164.0
+    }
+  ]
+}

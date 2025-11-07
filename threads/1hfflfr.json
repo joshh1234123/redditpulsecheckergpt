@@ -1,0 +1,27 @@
+{
+  "id": "1hfflfr",
+  "title": "AdChoices Icon via DCM tags",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hfflfr/adchoices_icon_via_dcm_tags/",
+  "created_utc": 1734342023.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Mitchell-n",
+      "body": "Wait, so you want to get rid of the ad choices button?",
+      "score": 1,
+      "created_utc": 1734447704.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "This is something the publishers will have control over. DSPs do not overlay the icon, they need to be able to handle setting the opt-out cookie when users opt out though. At least for frameworks like the EDAA/YourOnlineChoices style integrations DSPs do. But these days most vendors use the IAB TCF. It passes consent information in the bid request so DSPs will know if a user has opted in to data storage by their platform. Consent will be collected by publishers not DSPs. So if a publisher for example runs an opt in for several data collecting vendors then all those will be approved in the TCF ecosystem.",
+      "score": 1,
+      "created_utc": 1734637858.0
+    },
+    {
+      "author": "buildingAdtech",
+      "body": "No. I want to add adchoices icon. When I render dcm tags I am not able to see adchoices icon. So I am trying to figure out does dcm support or dsp have to overlay their adchoices icon",
+      "score": 1,
+      "created_utc": 1734449418.0
+    }
+  ]
+}

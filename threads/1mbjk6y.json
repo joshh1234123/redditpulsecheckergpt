@@ -1,0 +1,39 @@
+{
+  "id": "1mbjk6y",
+  "title": "DV360 Floodlight Conversions Not Tracking – 980 Clicks, 0 Conversions",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mbjk6y/dv360_floodlight_conversions_not_tracking_980/",
+  "created_utc": 1753717184.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Assuming conversion = Landing Page Page View for the Floodlight, have you at least attempted to go on the page and see if it fires in the network call / google tag assistant?  \nYour considerations are fair, can be consent or improper setup that causes it. The fact you have session data from GA suggests something is going there but not everything.  \nYou can dm me the landing page if you want also, happy to have a look.",
+      "score": 1,
+      "created_utc": 1753722111.0
+    },
+    {
+      "author": "Mental_Elk4332",
+      "body": "This is a very common and frustrating situation, and you've already identified the key potential culprits, which is great.\n\nThe large disparity between 980 DV360 clicks, 150 GA4 sessions, and 0 Floodlight conversions strongly points to a technical issue with the tag implementation or a major tracking limitation, much more so than just poor performance, although that can’t be ruled out entirely.\n\nThe first step in troubleshooting should be to confirm the Floodlight tag's firing status.\n\nSince you're using GTM, use the Google Tag Assistant in your browser's developer tools on the live landing page after simulating a click from DV360 (by including the `dclid` parameter in the URL) to see if the tag fires and, critically, what data it sends.\n\nCheck the network tab for a call to `fls.doubleclick.net` or `ad.doubleclick.net` with the correct `src=`, `type=`, and `cat=` values from your Floodlight activity.\n\nIf the tag *is* firing, look closely at the parameters.\n\nIf it's *not* firing, the issue is with your GTM trigger logic or the Floodlight tag setup in GTM itself.\n\nThe discrepancy between 980 clicks and 150 sessions is also a huge red flag that suggests either severe click fraud/bot traffic, users bouncing immediately before GA4/Floodlight can load, or the loss of tracking parameters like `dclid` during redirects, which would prevent the Floodlight from attributing the conversion even if it fired.\n\nThe fact that you see 150 sessions in GA4 but zero conversions in DV360 strongly supports your hypothesis that users aren't accepting cookies, as DV360's standard Floodlight tracking relies heavily on a third-party cookie (or first-party cookie set on the page if you have a Global Site Tag implementation) to connect the initial ad click to the final conversion event.\n\nModern browser restrictions like ITP are making client-side, cookie-based tracking increasingly unreliable.\n\nGiven the current privacy landscape and the issues you're facing, the combination of Google Ads Conversions API (CAPI - essentially the server-side solution for Google's ecosystem) with Google Tag Manager and Stape.io (or another Server-Side GTM hosting solution) is an excellent, future-proof approach to resolve this and improve tracking accuracy across all your campaigns, not just DV360.\n\nBy shifting your tracking from the user's browser (client-side) to a cloud server you control (server-side), this setup offers three major benefits: improved accuracy and data fidelity because you bypass many ad blockers and browser-based cookie restrictions like ITP and ETP which are likely causing your zero-conversion issue; greater control over the data you collect and send to advertising platforms, ensuring compliance and quality; and faster website performance because you load fewer third-party scripts on the user's browser, which helps with the bounce issue.\n\nYou can use this server-side setup to deploy your Floodlight tags, sending the conversion data directly to the server, where it's less likely to be blocked, leading to more complete and reliable reporting and better performance for your DV360 bidding strategies.",
+      "score": 1,
+      "created_utc": 1758807800.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Which is a good redemption rate from click to floodlight conversion?",
+      "score": 1,
+      "created_utc": 1753782578.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Too many factors to say what is good, but I personally wouldn't pay too much attention to a click based KPI. Do something a little smarter with dwell time / multiple page views if you want that.",
+      "score": 1,
+      "created_utc": 1753791456.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Yes but click /page ratio around 20% would be feasible tomyou?",
+      "score": 1,
+      "created_utc": 1753793064.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1ic2mxr",
+  "title": "any way to duplicate a campaign in dv360 and switch to paying for impressions?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ic2mxr/any_way_to_duplicate_a_campaign_in_dv360_and/",
+  "created_utc": 1738074163.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "zzz106",
+      "body": " no unfortunately. you'll have to set up a new campaign. I'd usually just create a new IO and then download SDF line items from the original campaign, edit as needed and then upload to the new IO.",
+      "score": 4,
+      "created_utc": 1738081330.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1muvh1r",
+  "title": "Best way to pass a unique user ID into Floodlight (for Ads Data Hub matching)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1muvh1r/best_way_to_pass_a_unique_user_id_into_floodlight/",
+  "created_utc": 1755638449.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Match ID is still the go to for ADH / Offline Conversion APIs so would use that. But from previously playing around with this in ADH, I am 99% sure this will only work for YouTube on the Floodlight side of things vs standard programmatic display etc.",
+      "score": 2,
+      "created_utc": 1755676554.0
+    },
+    {
+      "author": "newormedia",
+      "body": "Best practice is to use the `match_id` **field** it’s designed for passing unique IDs and works smoothly with Ads Data Hub. You could use a custom u-var, but `match_id` is cleaner and makes joining CRM + media data much easier. Most folks just populate it in GTM at the event level.",
+      "score": 2,
+      "created_utc": 1755769008.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "Send match_id parameter in Floodlights but thats not a u-variable.  ADH is only good for YT & Search these days.",
+      "score": 1,
+      "created_utc": 1756176859.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "Hmmm do you know why that is!?",
+      "score": 1,
+      "created_utc": 1755721036.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "Perfect thanks for the clarification!",
+      "score": 1,
+      "created_utc": 1755795595.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Because open web programmatic lacks the \"Google User ID\" across all SSPs for ADH to join on. It is the biggest flaw of ADH in general tbh, a lot of the analysis for non Google O&O relies heavily on 3P cookies still.\n\nGoogle could enable it for sure, but that would open them up to even more antitrust / privacy concerns so understandable why they haven't.",
+      "score": 2,
+      "created_utc": 1755760287.0
+    }
+  ]
+}

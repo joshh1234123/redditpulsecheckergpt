@@ -1,0 +1,39 @@
+{
+  "id": "1h8v2f8",
+  "title": "Buying inventory direct from a website(s)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h8v2f8/buying_inventory_direct_from_a_websites/",
+  "created_utc": 1733585997.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "DingleBerry___x",
+      "body": "Why not just do a pmp/deal?",
+      "score": 3,
+      "created_utc": 1733586964.0
+    },
+    {
+      "author": "BackdockApp",
+      "body": "Direct/PG campaigns serve on a higher line item priority type than PMP's. If a buyer is looking for a high volume of inventory or looking for 100% SOV (sponsorship), a direct/PG campaign will reserve inventory and transact on a guaranteed level above all other line item types. \n\nDirect/PG campaigns are mostly ideal for upper funnel strategies such as reach and frequency. There is not a lot of decisioning made by the ad server except for impression delivery. \n\nA buyer may also decide to go this route if it's part of a wider media plan with the publisher that can't be transacted through the DSP, attract favourable commercials like rebates or commissions or maybe the agency is tight on resources and cant manage the campaign.",
+      "score": 3,
+      "created_utc": 1733608003.0
+    },
+    {
+      "author": "soloinmiami",
+      "body": "What I'm asking is why do a pmp deal or go direct if you can target the same inventory without doing any of that? I know there are reasons but what's the differentiation for you to do that sort of thing?",
+      "score": 4,
+      "created_utc": 1733587262.0
+    },
+    {
+      "author": "adopsunite",
+      "body": "It will vary for each publisher and your campaign.  Some pubs will floor certain brands so you can only serve via direct.  \n\nSome pubs don't have their premium placements or targeting signals available for programmatic.\n\nBetter forecasting.. if your campaign is targeting that one publisher you're not going to win 100% via the DSP.  How do you know if you can spend your full budget?\n\nNo middlemen.. yes you might pay a higher CPM direct but at least you know where your budget is actually going.",
+      "score": 5,
+      "created_utc": 1733594340.0
+    },
+    {
+      "author": "DaleGrubble",
+      "body": "Better 1st party data on the publishers side, bidding priority are two reasons that come to mind",
+      "score": 1,
+      "created_utc": 1733590731.0
+    }
+  ]
+}

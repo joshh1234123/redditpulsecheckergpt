@@ -1,0 +1,99 @@
+{
+  "id": "1noqrtn",
+  "title": "Running DV360 vs Google Ads Display",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1noqrtn/running_dv360_vs_google_ads_display/",
+  "created_utc": 1758655476.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Few points here: \n\n* I see your trying to compare Programmatic vs Search / Social. If your attribution is quite standard, it is very unlikely you will ever see it outperform those 2 channels, regardless of whether it is DV360 or Google Ads\n* If you are running Search via Google, are you using PMAX / Demand Gen? Granted both are blackboxes with plenty of grey areas but the overlap from a display inventory specifically is likely overlapping with your programmatic activity\n* As others have said, Google is much more stricter with gambling. Historically this is where a MediaMath / Xandr would mop up a lot of the gambling advertiser marketplace for programmatic. But to run a DSP correctly in a sensitive vertical is not that straight forward\n* What exactly is your measurement / attribution model? If it is last click then you are already on the back foot to prove any value of programmatic. If you are using more experimentation / econometrics, then you can somewhat show the value of programmatic & the impact it has on signups / other channels",
+      "score": 8,
+      "created_utc": 1758706880.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "DV360 is shit for running gambling ads. Is everything done from your side? Are all the consent forms and verifications and approvals and domain whitelistings and certifications done?",
+      "score": 4,
+      "created_utc": 1758659685.0
+    },
+    {
+      "author": "jerdman76",
+      "body": "GDN can work, but you need to make sure you leverage the exclude list or else a massive part of your ads will show on crap sites - no matter how much effort you spend on defining the correct target audience.  The list we have built is up to 125k entries so far.",
+      "score": 3,
+      "created_utc": 1758687767.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "I wish we could go back to the days where gambling ads were banned both in traditional and online media, but to answer your question - you can find GDN inventory in DV360. GDN may give you the cheap inventory that lets you blast ads to increase the odds of conversions. It's not about the conversion, but its quality as well that should matter\n\n  \nYour campaign structure can play a big role into conversions, so keep in mind that",
+      "score": 3,
+      "created_utc": 1758722834.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "I think Google Ads Display (GDN) is better at showing immediate conversions to advertisers, but buying through DV360 is ultimately the more sophisticated and superior approach if you're know what you're doing. I think GDN excels with smaller budgets compared to DV360-managed campaigns, but if you've got substantial money to invest, I think you probably just need to do more to optimize your campaigns in DV360 instead of abandoning it entirely.\n\nGDN's inventory is much smaller but also worse quality compared to what you can find from an endless supply of sources available through a DSP like DV360, and it's also much harder to control exactly where your ads will show up in GDN. Ultimately, it's up to you, but in the long run, DV360 is still going to be the more impactful play if you know what you're doing.",
+      "score": 6,
+      "created_utc": 1758656625.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Gambling and Google? Better use illumin or another DSP with less gambling restrictions",
+      "score": 2,
+      "created_utc": 1758776677.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Rip Xandr :’(",
+      "score": 5,
+      "created_utc": 1758711675.0
+    },
+    {
+      "author": "miningstock",
+      "body": "Yes, and it is run in a regulated market, but I feel programmatic in itself is not that great. We have spend a 100k last year separately on stakadapt and that didn’t work either. I wonder if google display will bring a change?",
+      "score": -1,
+      "created_utc": 1758666055.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Tbh it’s a bit weird that your agency throws money at dv360 for gambling.",
+      "score": -1,
+      "created_utc": 1758660635.0
+    },
+    {
+      "author": "Intelligent_Hair5905",
+      "body": "This! DV360 is more sophisticated and has a lot more targeting options/audiences/inventory, it was built to run display while GDN is not, and part of a search platform. Tracking is also done separately (different pixels), at least it was until about a year ago. \n\nAlso I wanted to caution about how you establish meta conversions, as it can be  heavily skewed if you are using Meta reporting/tracking. Display plays an important role in the customer journey to conversion and you should look at some attribution model to help understand the true value of each channel.",
+      "score": 2,
+      "created_utc": 1758822715.0
+    },
+    {
+      "author": "Morr1Bo",
+      "body": "I agree we also had a lot of issues with gambling ads in dv360z Google Display network is also quite strict. Have you reviewed the restrictions on that?  Also send you a quick DM with some alternatives I would see.",
+      "score": 0,
+      "created_utc": 1758661594.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "No, you need another dsp. Google is the problem.  But if you had also no results with stackadapt (there is difference between no and shit results mind you), then make sure that tech set up is correct and your tags even work.",
+      "score": 4,
+      "created_utc": 1758683044.0
+    },
+    {
+      "author": "soapandwhory",
+      "body": "Are you sure that the platforms here are the problem and not the creatives themselves or user behaviour? What's the normal path to conversion for your customers and what are your strongest channels for performance so far?",
+      "score": 2,
+      "created_utc": 1758673494.0
+    },
+    {
+      "author": "miningstock",
+      "body": "We are handling google search and meta in-house and we are getting conversions for 40 ~60$ range. Problems can be partially with creatives, I feel google display can provide better conversions. I wanted to know is that the correct direction.",
+      "score": 0,
+      "created_utc": 1758674503.0
+    },
+    {
+      "author": "soapandwhory",
+      "body": "I suspect moving to GDN won’t make much of a difference, given that you’re experiencing the same results on DV360 as you did on StackAdapt. Display generally isn’t a conversion-driven channel, though it does play a role in the path to conversion. And when it does drive conversions, they’re usually post-view. It may simply be that your audience is resistant to display ads while browsing the internet.\n\nThat said, it’s worth covering the basics to make sure your current DV360 setup is as strong as possible: double-check audience targeting (demographics, interests, keywords, etc.), ensure you have a retargeting campaign for site visitors who came through your search ads but didn’t convert, and use your top-performing Meta creatives. It could also be worth testing video ads, which often perform better than static display.\n\nEdited to say that it's also important to check that your attribution model isn't last click.",
+      "score": 4,
+      "created_utc": 1758675558.0
+    }
+  ]
+}

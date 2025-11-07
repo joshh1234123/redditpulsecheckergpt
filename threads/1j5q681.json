@@ -1,0 +1,213 @@
+{
+  "id": "1j5q681",
+  "title": "What the heck do I need a clean-room for?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j5q681/what_the_heck_do_i_need_a_cleanroom_for/",
+  "created_utc": 1741359718.0,
+  "num_comments": 38,
+  "comments": [
+    {
+      "author": "Ok_Form_134",
+      "body": "Clean rooms are just privacy-regulated boxes to do a vlookup in. \n\nI'm grossly oversimplifying but, as with all data platforms, a clean room only makes sense if it adds new data to your measurement ecosystem or pipes it somewhere really neatly. ie. If there are exposure logs, third party data, etc that will only play nicely in Habu, then using the platform as a way to access stuff is helpful. \n\nHowever, the more common use of clean rooms is: match your X data with your Y data! \n\nYou can do all that in snowflake, aws, gcp. Liveramp and others also have RUM-based integrations with all those platforms, so identifiers via clean rooms aren't really unique.",
+      "score": 25,
+      "created_utc": 1741362783.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "A data clean room (if worked properly) should be able to help you more efficiently reach and measure your target audiences, across channels and tactics...You mention you use a combination of 1st party, 2nd party and 3rd party data across several types of media. Do you have an understanding of what your overlap is between those 3 different options of data or even media?\n\nWhat if you've got 30% overlap between your different audience segments? Could that mean that you're overspending to the same people, resulting in an over abundance of frequency (major issue in CTV).\n\nIf you're working with multiple sources of data (all different types of ID's and methodologies) and you're leveraging several measurement platforms with different methodologies for measurement, are you overcounting \"conversions\" or \"results\"? Having some insight into these types of things (among others) could help your ad dollars be more efficient.\n\nLiveRamp is one option, but they're often very expensive, hard to work with, slow and their coverage isn't as great as they'd make you believe.",
+      "score": 13,
+      "created_utc": 1741361182.0
+    },
+    {
+      "author": null,
+      "body": "Let me give you some use cases of why clean rooms are required and why everyone will be using it anyway.\n\nScenario: Measuring Cross-Platform Ad Performance Without Cookies\n\nA leading e-commerce brand runs a multi-channel ad campaign across Google Ads and programmatic platforms. They want to measure which ads drive the most conversions but third-party cookies are no longer reliable due to browser restrictions and privacy regulations.\n\nSolution: LiveRamp RampID Matching via a Data Clean Room (DCR)\n\nA user clicks a Google Ad and visits the e-commerce website. They log in or make a purchase, linking their activity to the brand’s first-party CRM data. Data Matching via RampID ,Google assigns an anonymous Google ID to the user. LiveRamp assigns a RampID to the same user based on the brand’s first-party data the two IDs are matched in a privacy-safe way via a clean room. The advertiser queries matched impression & conversion data to see which ads performed best.\n\nSQL Query to Measure Matched Ad Conversions\n\nThis query counts the number of matched conversions by ad campaign.\n\n    WITH Matched_Users AS (\n      SELECT \n        adh.google_ads_campaign_id AS campaign_id, \n        COUNT(DISTINCT adh.external_cookie) AS matched_conversions\n      FROM `adh.google_ads_impressions_match` AS adh\n      INNER JOIN `project_name.dataset_name.customer_data` AS cust\n      ON LOWER(TO_HEX(adh.external_cookie)) = cust.rampid\n      GROUP BY campaign_id\n    )\n    \n    SELECT \n      campaign_id,\n      matched_conversions\n    FROM Matched_Users\n    ORDER BY matched_conversions DESC;\n\nSimilarly you can do much more things in privacy safe way  like building audiences, custom attribution model,  report on viewability metrics.\n\nAmazon DSP also has its onw DCR named as Amazon Marketing Cloud which also uses SQL.\n\nIn short you absolutely need it, hate it or love it, you cannot ignore it for sure and you will miss alot of data as cookies will become useless anyway 40-50% data will be lost, tanginle use cases  can be many depends on your ability to write SQL -you can do regression based modelling, markov chain analysis for conversion modelling, custom audience building.\n\nEvery marketer by now  must accept that cookies are going away, client side tracking is ineffective , 3rd party data is dying - so server side tracking, first party data, customer match, clean rooms, conversion api, conversion modelling are the future... marketers will have to learn new tech skills  python sql cloud computing, ML etc\n\nThere is Red pill and Blue pill - choose your pill wisely\n\nThere are many clean room service provider Ads data Hub is offered by Google , AMC by amazon DSP, Data bricks also offers one, SnowFlake DCR - but I prefer Ads data hub as it is integrated with BigQuery and Google DSP...If you explore it more you will be able to find many use cases that will set you apart from traditional marketers to modern tech savvy marketers..\n\nRefer the Product Docs of Ads data hub and for AMC >  [https://advertising.amazon.com/API/docs/en-us/guides/amazon-marketing-cloud/overview](https://advertising.amazon.com/API/docs/en-us/guides/amazon-marketing-cloud/overview)",
+      "score": 7,
+      "created_utc": 1741371723.0
+    },
+    {
+      "author": "data_spy",
+      "body": "It depends on the clean room, but the main use case is if a media partner or platform has an UID and you have offline and online sales that can be converted to the same UID (Ramp ID for example), you can do some powerful analyses. \n\n\nOutside of that, there is a lot of hype. You also may need multiple data clean rooms to support different partners, which is a pain and could cause some spend consolation to the walled gardens.",
+      "score": 4,
+      "created_utc": 1741361058.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "Let's be real. It's just another industry buzzword.",
+      "score": 2,
+      "created_utc": 1741371751.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "In programmatic, ultimately the adserver you use (could be a DSP or pub adserver) needs to get the list of users you want to target in order to serve. So there is zero advantage from a privacy perspective in using a clean room vs a standard onboarding process. The only value in this case would be that through a clean room the ad server would get to see only matched users, vs a standard onboarding process would allow them to see all users. If you trust the adserver, this doesn’t matter. If you don’t trust them, this protection is not really good enough to make you want to work with them anyway.",
+      "score": 1,
+      "created_utc": 1741360634.0
+    },
+    {
+      "author": "GlobalMediaAgency",
+      "body": "Ok so question: what clean room providers do we like? And why hasn’t Liveramp squashed this space? \nAbout 4 years ago we had several calls w Infosum and I got a really sketchy vibe when we pressed on technical questions and use cases. At the time they were a forerunner but I have serious questions. \nWhat vendors are liked and what’s their common pricing model?",
+      "score": 1,
+      "created_utc": 1741740871.0
+    },
+    {
+      "author": "Such_Photograph_7140",
+      "body": "I love this gross oversimplification and may borrow it!",
+      "score": 12,
+      "created_utc": 1741367959.0
+    },
+    {
+      "author": "CatfishMcCoy",
+      "body": "There is one MMP provider that is now offering a cleanroom/DCP which is differentiated from the rest of the DCRs because they have 1:1 match/measurement inside walled gardens (META being most important).",
+      "score": 2,
+      "created_utc": 1741363477.0
+    },
+    {
+      "author": "data_spy",
+      "body": "Good call on overlap. It can also give you your true frequency for a platform even if you have different frequency caps for campaigns.",
+      "score": 1,
+      "created_utc": 1741370964.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "LiveRamp is the OG on boarder with email as their anchor (ideal for match/scale). Epsilon is another flavor of onboarding, with a person as the anchor (ideal for accuracy).",
+      "score": 1,
+      "created_utc": 1741559518.0
+    },
+    {
+      "author": "Delicious_Ad_6717",
+      "body": "Clean rooms do not solve for cookie loss. You still need a common ID to join different datasets. If you don’t have a cookie you need a hashed email, IP, etc… and guess what - you can still collaborate using these IDs even without a clean room.",
+      "score": 4,
+      "created_utc": 1741394592.0
+    },
+    {
+      "author": "BadGalNaty",
+      "body": "I love how all of this sounds! Yes, cookies are going away and this type of measurement is a killer. I know some SQL myself but definitely will love to learn further.\nDo you know where to start learning to implement this?",
+      "score": 2,
+      "created_utc": 1741379103.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "ChatGPT is great at all the coding needs!",
+      "score": 1,
+      "created_utc": 1741408656.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "I couldn't agree more... its another way to scam brands to spend more $$$...",
+      "score": 3,
+      "created_utc": 1741383416.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "There are industry professionals here who use these at scale to drive impact. If it was an industry buzzword our significant investment would have successfully had holes poked all over it. It didn't. It's provable how it works.",
+      "score": 2,
+      "created_utc": 1741400929.0
+    },
+    {
+      "author": "Street_Discussion_61",
+      "body": "Interesting to hear your experience with Infosum. I’ve spoken to various people who have had different experiences. What sort of questions do you still have/what was sketchy about the vibe? Genuinly just curious",
+      "score": 1,
+      "created_utc": 1741766356.0
+    },
+    {
+      "author": "Ok_Form_134",
+      "body": "I love deep, techical martech/data solutions - but years of being a business stakeholder has built up a thick layer of \"stupid simple\" lol",
+      "score": 3,
+      "created_utc": 1741376234.0
+    },
+    {
+      "author": "MediaDoofus1234",
+      "body": "\\^when the general contractor tries to explain the work they need to do to your house",
+      "score": 6,
+      "created_utc": 1741365889.0
+    },
+    {
+      "author": "Ok_Form_134",
+      "body": "So this would be an example where that would be helpful. Although if you could dm me the provider I'd be curious - my current understanding is that meta isn't able to expose those anywhere outside of their own tooling, and even then has strict query limitations just like ads hub from Google",
+      "score": 5,
+      "created_utc": 1741376136.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "May I ask which MMP offers that?\nSound like a really nice solution if the match rates are decent",
+      "score": 3,
+      "created_utc": 1741372006.0
+    },
+    {
+      "author": "Solid-Race-2056",
+      "body": "How is that differentiated if other clean rooms are also offering it though?!\n\nLiveramp provides walled garden clean room pipes that leverage a deterministic match and query, across GOOG, AMZN and META last I checked.",
+      "score": 1,
+      "created_utc": 1741554846.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "liveramp and match/scale in the same sentence is funny.",
+      "score": 2,
+      "created_utc": 1741561166.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "If you don't have 1p data you're using, an identity graph provider can stitch the 2p and 3p data for you to dedupe against.",
+      "score": 1,
+      "created_utc": 1741400859.0
+    },
+    {
+      "author": null,
+      "body": "Yes but it also makes mistakes and you must have coding skills to think creatively and tell chatGPT to implement it...still coding skills are imp..",
+      "score": 1,
+      "created_utc": 1741409897.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "Yeah an extra 0.0001% on the display CTR? Whoopidie Doo. \n\nAll it does is spawn off a bunch of phony new companies who are quick to rob the agencies and brands. \n\nThe brands and agencies who  are all invested in this nonsense are the same ones who gave billions to MFA sites. How's that GroupM viewability metric going? That single handedly destroyed the integrity of online publishing and propelled fraud to a whole nother level.",
+      "score": 2,
+      "created_utc": 1741401514.0
+    },
+    {
+      "author": "GlobalMediaAgency",
+      "body": "We had a pressing need - we hoped to use clean rooms to estimate planned reach for a set of partners against a 1P audience. After a series of emails, we had a call where the head of sales insisted on needing an NDA to discuss anything. Anything. \n\nSo we sent an MNDA with notes on the questions we needed answers to. \nAnd a follow up. \nAnd another. \nAnd nothing. It was as if they didn’t want our business (ok, fine, just say so!) or they didn’t like our questions on how it worked. To this day I have no idea. But it was the biggest red flag.",
+      "score": 1,
+      "created_utc": 1741783219.0
+    },
+    {
+      "author": "CatfishMcCoy",
+      "body": "Username checks out",
+      "score": 2,
+      "created_utc": 1741378658.0
+    },
+    {
+      "author": "CatfishMcCoy",
+      "body": "AppsFlyer",
+      "score": 0,
+      "created_utc": 1741378636.0
+    },
+    {
+      "author": "CatfishMcCoy",
+      "body": "Other clean rooms allow/trust META/GOOG/etc. to do the matching whereas MMPs (5 in total now) match/verify on their own with one of the 5 (AppsFlyer) having just launched a DCR competing with GOOG/AMZN/HABU/et al. GOOG’s DCR doesn’t work with AMZN’s & vice versa.",
+      "score": 1,
+      "created_utc": 1741559764.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Disagree, you need logic and critical thinking. I have zero coding skills, and I am using Perplexity to write SQL.",
+      "score": 3,
+      "created_utc": 1741413399.0
+    },
+    {
+      "author": "haltingpoint",
+      "body": "We are a top advertiser by spend. I assure you we know how to conduct the appropriate statistical experiments and do the math to ensure the ROI is there. And if you're only interested in improving CTR, and by that little, you're doing it wrong and don't know how to leverage this technology properly.",
+      "score": 2,
+      "created_utc": 1741407185.0
+    },
+    {
+      "author": "Street_Discussion_61",
+      "body": "Thanks for sharing, interesting take and agreed, honesty is always best in those sorts of situations. \n\nI have some understanding of how it works, so if you did want to try and get any answers to anything specific. Feel free to DM me",
+      "score": 1,
+      "created_utc": 1741787906.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "Glad to hear that. But you're definitely in the minority. We're still dealing with Fortune 500 brands that are asking for a POV on whatever dumb thing circulates the conferences and how that'll improve their vanity metrics. \n\nCan't wait to hear what Possible hangs it's hat on and for my summer to be spent trying to square peg that round hole.",
+      "score": 1,
+      "created_utc": 1741481183.0
+    }
+  ]
+}

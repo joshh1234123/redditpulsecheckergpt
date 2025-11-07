@@ -1,0 +1,51 @@
+{
+  "id": "1ntsl29",
+  "title": "Is there a way to stop DV360 from automatically applying Optimized Targeting whenever I update a line item?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ntsl29/is_there_a_way_to_stop_dv360_from_automatically/",
+  "created_utc": 1759176591.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "alexgoestowork",
+      "body": "No, Google is deceptively sneaky in finding as many ways possible for advertisers to spend more of their budgets.",
+      "score": 7,
+      "created_utc": 1759195373.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Have noticed that as well via UI updates. Personally I try stick to SDF where the column is boolean for OT so as long as it is set to FALSE, it behaves.",
+      "score": 3,
+      "created_utc": 1759218174.0
+    },
+    {
+      "author": "damachineelf",
+      "body": "Yes, uncheck automatic budget allocation and move to manual budgets. That’s what auto-opts you into optimized targeting. Fucking hate this.",
+      "score": 4,
+      "created_utc": 1759327966.0
+    },
+    {
+      "author": "shadyk17",
+      "body": "No way. I always use auto budget allocation but never had this happen to me. You should file a bug with your sales teams.",
+      "score": 1,
+      "created_utc": 1759374127.0
+    },
+    {
+      "author": "tobias10",
+      "body": "You gotta be shitting me",
+      "score": 3,
+      "created_utc": 1759333811.0
+    },
+    {
+      "author": "damachineelf",
+      "body": "I know, back in July I had YT video action campaign that saw a ton of fraudulent traffic. Saw that box was checked, thought it was my mistake. Went back a week later. Saw it was checked again. Thought there was a fucking gas leak in my house or something, finally found out that automatic budget allocation opts you into optimized targeting from support.",
+      "score": 3,
+      "created_utc": 1759336543.0
+    },
+    {
+      "author": "tobias10",
+      "body": "Dude same! Its like they’re constantly sneaking the setting in with every platform update. Theres no rhyme or reason to it.\n\nI remember when the first introduced the feature you could bulk edit it by checking off all of your line items. They got rid of that really quick.",
+      "score": 2,
+      "created_utc": 1759343026.0
+    }
+  ]
+}

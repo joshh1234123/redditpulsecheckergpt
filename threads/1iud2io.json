@@ -1,0 +1,87 @@
+{
+  "id": "1iud2io",
+  "title": "Car Dealership Ads - One dashboard for direct placement ?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iud2io/car_dealership_ads_one_dashboard_for_direct/",
+  "created_utc": 1740095153.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "You’ll probably need to run separate campaigns and pipe all the performance data into a looker dashboard or something similar. \n\nThese are all competing companies, so they don’t exactly like to work together.",
+      "score": 6,
+      "created_utc": 1740100318.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "If you just want to build a dashboard, plenty of solutions out there that ingest data from multiple platforms like a supermetrics or improvado or funnel.io acting as an ETL. But it's pretty simple to build yourself also.\nOptimisation wise,  more limited. Certain agencies have tools.",
+      "score": 2,
+      "created_utc": 1740165531.0
+    },
+    {
+      "author": "michael_p",
+      "body": "Agency analytics",
+      "score": 1,
+      "created_utc": 1740103075.0
+    },
+    {
+      "author": "appu49",
+      "body": "Do people watch ads in car?i am guessing the ads will run in rented cars and uber, correct?\nIs there an ad server they have inbuilt? Or using something like GAM?",
+      "score": 1,
+      "created_utc": 1740120377.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "If you want search and social included check out https://basis.com/technology/integrations?",
+      "score": 1,
+      "created_utc": 1740274847.0
+    },
+    {
+      "author": "lazy_hustlerr",
+      "body": "Yeah, there’s no perfect all-in-one tool for this. If you need deep automation, API-based solutions might be worth exploring. I found more simple option using a data integration tool - Coupler io. It helps to pull data from different ad platforms (Meta, Google, and other) into Google Sheets or Looker Studio. It also automates reporting, so cross-platform comparisons is way easier now.",
+      "score": 1,
+      "created_utc": 1741036732.0
+    },
+    {
+      "author": "Money-Ranger-6520",
+      "body": "By implementing a PPC multi-channel dashboard like [this one](https://app.coupler.io/templates/4eeb4b7e-8bb1-11ef-b39f-bbc507d9fa2e/preview?dateFrom=2025-03-29&dateTo=2025-04-28). They will be very impressed, and these kinds of dashboards are super useful for identifying opportunities or for sporting issues with your campaigns.",
+      "score": 1,
+      "created_utc": 1745825800.0
+    },
+    {
+      "author": "Newbie10011001",
+      "body": "Interesting, so there isn't a single platform that can simply tap into their various API's?\n\nThanks for this",
+      "score": 1,
+      "created_utc": 1740107073.0
+    },
+    {
+      "author": "Newbie10011001",
+      "body": "Interesting, thanks, So it can do the reporting, but not the ad placement?",
+      "score": 1,
+      "created_utc": 1740107116.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Probably Octopus screens in Lyfts or Ubers or tsxis",
+      "score": 1,
+      "created_utc": 1740141270.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "They will soon",
+      "score": 1,
+      "created_utc": 1740148808.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Correct",
+      "score": 3,
+      "created_utc": 1740141318.0
+    },
+    {
+      "author": "michael_p",
+      "body": "Yes you do all your buying and management on each service but this can combine all that data into a report. You can build any kind of report in adding to dashboards. It’s a great tool.",
+      "score": 1,
+      "created_utc": 1740107201.0
+    }
+  ]
+}

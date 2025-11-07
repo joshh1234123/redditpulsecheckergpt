@@ -1,0 +1,81 @@
+{
+  "id": "1k7vw9f",
+  "title": "As someone who works exclusively in CM360 (ad server) and hasn't touched a dsp in almost a decade, can someone let me know how close I am to understanding it?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1k7vw9f/as_someone_who_works_exclusively_in_cm360_ad/",
+  "created_utc": 1745615179.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "Future-Leave-9533",
+      "body": "\nYou’re not far off at all, especially coming from a CM360 background — just a few things to clarify:\n\n\n\n\n\t1.\tCampaign level is mainly global settings — yes. It holds flight dates, frequency caps, and some default targeting, but it’s more of a container. The real set up starts at the IO level.\n\t2.\tIOs are where the budget, pacing, and strategy really live. You can override or inherit from the campaign-level settings here. IOs are also how spend is controlled — think of them as the layer where you define the “who/what/where” for each tactic or media type.\n\t3.\tLine items are where execution happens. This is where you select inventory (open exchange, PMPs, PG), apply audiences, geo/demo/device targeting, and assign creatives. It’s not just for grouping assets — it determines where and how your ads actually serve.\n\t4.\tCreatives are uploaded separately and assigned at the line item level — similar to CM360 assets, yeah. But you can control rotation, assign specific creatives to certain deals, etc.\n\nSo overall yes, your structure’s on the right track — just know that DV360 gives you more control and complexity, especially at the line item level. That’s where most of your strategic logic actually lives.",
+      "score": 7,
+      "created_utc": 1745632535.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Let’s be honest. DV360 is easy. The challenge is optimize and achieve goals. If you can do performance in Google Ads or Meta you for sure can do it it any DSP",
+      "score": 2,
+      "created_utc": 1745641871.0
+    },
+    {
+      "author": "ApplicationRoyal865",
+      "body": "Thank you! I'm glad to see that some of my cm360 knowledge is applicable.",
+      "score": 2,
+      "created_utc": 1745696239.0
+    },
+    {
+      "author": "Future-Leave-9533",
+      "body": "I know I vaguely put PG’s and PMP’s together but that’s created a whole different way through negotiations. Just wanted to simplify it though.",
+      "score": 1,
+      "created_utc": 1745632859.0
+    },
+    {
+      "author": "ApplicationRoyal865",
+      "body": "All I need right now is the basics because they are extending my adops job to also now add the cm360 creatives into the dv360 platform. We are to build a shell with some basics, then the programmatic team will actually go in and add targeting, budgets etc.",
+      "score": 1,
+      "created_utc": 1745696338.0
+    },
+    {
+      "author": "ApplicationRoyal865",
+      "body": "Regarding pg and pmp deals, I've gleamed that instead of you building your own line items, those are instead pushed into your LI by the vendors? Or am I misunderstanding it?",
+      "score": 1,
+      "created_utc": 1745696275.0
+    },
+    {
+      "author": "Future-Leave-9533",
+      "body": "… Interesting, unless they’re trying to avoid fees cause I could see that or maybe avoid even not want to pixel etc or whatever in CM, but there’s also a way to just automatically sync from CM to DV just by linking the accounts without you even having to touch that at all, placements/ creative will just sync , same name and all just FYI",
+      "score": 0,
+      "created_utc": 1745700186.0
+    },
+    {
+      "author": "Future-Leave-9533",
+      "body": "PMP deals you have to assign within line items, but PG deals are negotiated in the marketplace section which you can then assign and generates",
+      "score": 1,
+      "created_utc": 1745697352.0
+    },
+    {
+      "author": "Future-Leave-9533",
+      "body": "I hope you’re not just like running this and spending blindly lol just kidding but if so, I would hate to not tell you this, if you only want to run one single PMP you have to remove the exchanges in the line item level, all of them, and only assign the PMP (s) you want to run on… This is where set up and overall strategy comes in… Have fun trading 💁🏼‍♀️",
+      "score": 1,
+      "created_utc": 1745698691.0
+    },
+    {
+      "author": "ApplicationRoyal865",
+      "body": "Thanks for looking out ! I'm actually adops and we're told to now set up shell campaigns for the programmatic traders. It's mostly just setting up a campaign, 1 IO and 1 LI eith basic settings and they'll clone as needed",
+      "score": 1,
+      "created_utc": 1745699959.0
+    },
+    {
+      "author": "Future-Leave-9533",
+      "body": "How annoying lol, if that’s all… And I saw and responded to your comment underneath you could simplify further just by linking CMNDV using the ID",
+      "score": 1,
+      "created_utc": 1745700328.0
+    },
+    {
+      "author": "ApplicationRoyal865",
+      "body": "Saw your message! Yes I'm aware that when assigning creative to line items as long as the advertiser is linked properly you can import tags directly from cm360 to dv360 just by searching the name of the placement. However from what I can tell trackers (pixels and click tags) is still a manual process of copy and pasting",
+      "score": 1,
+      "created_utc": 1745702301.0
+    }
+  ]
+}

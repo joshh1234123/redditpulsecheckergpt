@@ -2,13 +2,8 @@
   "source": "Reddit r/programmatic",
   "months": [
     {
-      "month": "2024-10",
-      "count": 48,
-      "meta_file": "2024-10.json"
-    },
-    {
       "month": "2024-11",
-      "count": 91,
+      "count": 58,
       "meta_file": "2024-11.json"
     },
     {
@@ -18,12 +13,12 @@
     },
     {
       "month": "2025-01",
-      "count": 77,
+      "count": 76,
       "meta_file": "2025-01.json"
     },
     {
       "month": "2025-02",
-      "count": 103,
+      "count": 102,
       "meta_file": "2025-02.json"
     },
     {
@@ -63,12 +58,12 @@
     },
     {
       "month": "2025-10",
-      "count": 115,
+      "count": 113,
       "meta_file": "2025-10.json"
     },
     {
       "month": "2025-11",
-      "count": 19,
+      "count": 25,
       "meta_file": "2025-11.json"
     }
   ]

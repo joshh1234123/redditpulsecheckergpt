@@ -1,0 +1,69 @@
+{
+  "id": "1hee2g3",
+  "title": "Google isn't bidding?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hee2g3/google_isnt_bidding/",
+  "created_utc": 1734214717.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "saomonella",
+      "body": "Looks like a low viewability issue to me",
+      "score": 2,
+      "created_utc": 1734215403.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "What have you tried?",
+      "score": 1,
+      "created_utc": 1734227286.0
+    },
+    {
+      "author": "BellicoseBear",
+      "body": "Where is the traffic coming from in terms of device?\n\nMaybe, the viewability is taking a hit for certain device types?",
+      "score": 1,
+      "created_utc": 1734241514.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "What is the geo of the site traffic? What type of content is it?",
+      "score": 1,
+      "created_utc": 1734241522.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "I don't know why the Viewability is even a Problem? The Test Ad we have now is 1x 300x250 at the complete Top of the Test Pages.",
+      "score": 1,
+      "created_utc": 1734215471.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "Moving around the Ad Units, different CMPs, Blocking Certain Countries from accessing, etc.",
+      "score": 1,
+      "created_utc": 1734453195.0
+    },
+    {
+      "author": "saomonella",
+      "body": "Run a report. From the data you provided, it looks like it’s 44%. Programmatic advertisers can have minimum viewability requirements(70-80%). They won’t bid if you don’t hit that minimum",
+      "score": 2,
+      "created_utc": 1734228649.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "If it’s at the very top of the page try moving it to the bottom of the view port. It takes a bit for the ad to load, so if the ad is at the very top of the page, people can down before the ad actually displays.",
+      "score": 1,
+      "created_utc": 1734288403.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "That is so weird. A Prebid Ad is directly next to it with 3000ms time to fill and that yields a solid 7$ CPM each time I visit. Google also fills the Ad on the Top but in the Reporting I then see 10cents CPM",
+      "score": 1,
+      "created_utc": 1734339857.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": "Also from the Tests I've done now it seems that Google sometimes just doesn't want to load an Ad. The Placement just stays unfilled. I did a Test and planted a Prebid Ad next to every Admanager Ad. The Prebid Ad gets filled, the Admanager Ad stays unfilled",
+      "score": 1,
+      "created_utc": 1734345564.0
+    }
+  ]
+}

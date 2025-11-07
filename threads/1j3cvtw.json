@@ -1,0 +1,87 @@
+{
+  "id": "1j3cvtw",
+  "title": "Is there any way to optimize performance on the Amazon DSP site?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j3cvtw/is_there_any_way_to_optimize_performance_on_the/",
+  "created_utc": 1741100985.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "MediaDoofus1234",
+      "body": "It is built pretty awfully unfortunately. Tips:\n\n-use a different browser that you dont use anything else for, i.e. firefox\n\n-if creating a line item, go in the order of selecting settings from simple to more complex, because it often tries to refresh impression projections every time you change a setting. If anyone from Amazon sees this - PLEASE enable manual projection calculation that only happens right before you finalize configuring line items",
+      "score": 9,
+      "created_utc": 1741106695.0
+    },
+    {
+      "author": "VFL2015",
+      "body": "Definitely one of the worst UIs to work in. Traders these days are spoiled compared to some of the early version of the DSPs around 2015. I actually appreciate that the Amazon UI has changed in a decade rather than TTD's latest abomination of a UI\n\nDespite the outdated UI Amazon DSP has many ways to optimize. Dont know what you can optimize in DV360 and TTD that you couldnt in Amazon DSP. Dont know your experience level but Amazon also has Amazon Marketing Cloud (AMC) that allows to pull greater reports than the standard TTD or DV360 reports",
+      "score": 4,
+      "created_utc": 1741107141.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Use the data-files to make changes rather than the UI, if it's straight forward or constant changes that you know how to do using these files. We've saved hours in optimizations, simply by creating an Amazon settings template and file that highlighted how common changes would be made. Other than that I'd recommend what others have already said like using an entirely different browser or incognito window you use for nothing else and using the bulk editor when possible",
+      "score": 2,
+      "created_utc": 1741168818.0
+    },
+    {
+      "author": "wawrinkle",
+      "body": "Amazon doesn’t care lol",
+      "score": 2,
+      "created_utc": 1741125764.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1741103196.0
+    },
+    {
+      "author": "Baronck",
+      "body": "Use Firefox",
+      "score": 1,
+      "created_utc": 1741109031.0
+    },
+    {
+      "author": "rturtle",
+      "body": "Is there a slack or someplace where Amazon DSP people hang out to commiserate?",
+      "score": 1,
+      "created_utc": 1741293066.0
+    },
+    {
+      "author": "Cannastin",
+      "body": "Thank you for saving me hours of frustration ❤️",
+      "score": 1,
+      "created_utc": 1741111355.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Disagree on the last paragraph tbf. Yes AMC is cool and has worked better than ADH for Google but it also has plenty of flaws.\nDV360 data transfer files and TTD REDS logs allow you go much further than Amazon DSP ever will. The gap is closing for sure but someway to go yet.",
+      "score": 0,
+      "created_utc": 1741118916.0
+    },
+    {
+      "author": "Cannastin",
+      "body": "Yea, I've mentioned it to them often.",
+      "score": 1,
+      "created_utc": 1741105240.0
+    },
+    {
+      "author": "MediaDoofus1234",
+      "body": "Don’t thank me too soon lol",
+      "score": 0,
+      "created_utc": 1741115308.0
+    },
+    {
+      "author": "Ok-Kat5150",
+      "body": "Did they say- oh well get back to you? Then write a novella of ass backward info that doesn’t actually answer your question?   (is the sky blue? Answer: water is clear) Then try to pitch you something new where only half of the assumed features work? Cause if so, sounds about right.",
+      "score": 2,
+      "created_utc": 1741144922.0
+    },
+    {
+      "author": "tttigerb",
+      "body": "🤣",
+      "score": 1,
+      "created_utc": 1741251936.0
+    }
+  ]
+}

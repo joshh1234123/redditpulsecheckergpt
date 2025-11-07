@@ -8,7 +8,7 @@
     {
       "author": "Recent_Race_5843",
       "body": "Basically if you adjust any of the settings within a campaign's reporting and attribution setting, it will start reporting based on the changes instantly. so for example, your reporting column 1 is set up as the main conversion action, and you have cross-device concept set to person, and identity alliance is your provider. If you toggle cross-device concept to off, every conversion moving forward will not be measured via cross device. If you change the vendor from identiy alliance to adbrain, every conversion after the change will be measured only using adbrain's graph. They are 4 total providers, with liveramp being the only option that is more expensive, Identity alliance combines all 3 providers providing more scale (at least im pretty sure thats how it was explained to me). Although I'm pretty sure TTD doesn't charge for measurement, only for audience expansion, but looking at the fees section they may have changed this now.\n\nHonestly, what i would do is create a new reporting column with the same conversion action, not set any cross device measurement on there and compare over time. you'll likely see more conversions in the reporting column with identity alliance turned on. but if you don't, then you'll know that it's likely a feature not worth paying for in future campaigns.\n\nJust be warned that changing reporting columns mid campaign gets really messy and could really screw up your reporting, so I wouldn't change any existing reporting columns unless you're confident you can mitigate any ill effect.",
-      "score": 7,
+      "score": 5,
       "created_utc": 1762366686.0
     },
     {
@@ -32,7 +32,7 @@
     {
       "author": "Delicious_Ad_6717",
       "body": "Switch do a DSP that doesn’t charge you for identity is likely to ur best option. Kind of crazy that it’s a separate fee when you can’t really operate without it",
-      "score": -5,
+      "score": -6,
       "created_utc": 1762364446.0
     },
     {
@@ -50,7 +50,7 @@
     {
       "author": "OrganicHearing",
       "body": "You’re getting downvoted but I agree. I think it’s useful for CTV and audio campaigns for the unique household reach but display and OLV campaigns pace and perform just fine without it. Only time I’ll opt for it on display or OLV is if reach is the KPI",
-      "score": 1,
+      "score": 2,
       "created_utc": 1762402439.0
     },
     {
@@ -68,7 +68,7 @@
     {
       "author": "OrganicHearing",
       "body": "Most of their extra stuff is a moneygrab",
-      "score": 1,
+      "score": 2,
       "created_utc": 1762402878.0
     },
     {

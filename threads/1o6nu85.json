@@ -1,0 +1,87 @@
+{
+  "id": "1o6nu85",
+  "title": "Is there such a thing as social programmatic? and if so can anyone show me some examples?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1o6nu85/is_there_such_a_thing_as_social_programmatic_and/",
+  "created_utc": 1760467105.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "“Programmatic” just means biddable media. Social media is typically biddable media, with available layers of targeting. Just like Programatic",
+      "score": 20,
+      "created_utc": 1760467429.0
+    },
+    {
+      "author": "Digital_ADSsassin",
+      "body": "ah i miss the good ol' days when you could buy Facebook Newsfeed placements on TTD",
+      "score": 12,
+      "created_utc": 1760468770.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "Social programmatic is typically using social feeds in programmatic inventory. I have a few campaigns that we are using the clients social posts as the creative for their programmatic ads. It's highly engaging and I love using it.",
+      "score": 6,
+      "created_utc": 1760470848.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Most social ad space is sold programmatically. It’s just not open market.",
+      "score": 2,
+      "created_utc": 1760468387.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Are you talking about Social for display or social media like meta \"bought programmatically\" (which could mean a lot of different things)?",
+      "score": 2,
+      "created_utc": 1760470054.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I'd assume this is just talking about using the native buying platforms of the various social platforms. Programmatic is just the terminology for auction based buying via buying tools. It's not common for this to be referred to as programmatic social buying, but not uncommon. If you have programmatic buying experience you'll definitely be able to master any paid social platform, so just blag your way through an interview",
+      "score": 1,
+      "created_utc": 1760514939.0
+    },
+    {
+      "author": "Mankzy",
+      "body": "We deploy a custom ad unit that looks like a Facebook post with similar engagement buttons but the ad units is served programmatically across the broader web, not on social media. \n\nThese perform really well and typically we see 2x-5x the CTR compared to standard static display ads.",
+      "score": 1,
+      "created_utc": 1760525439.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Remember the good old days when Facebook advertising was new and we were all adding red boarders around stock google images to make it stand out. Those were the days.",
+      "score": 7,
+      "created_utc": 1760471956.0
+    },
+    {
+      "author": "thewatchsavant",
+      "body": "OG alert.. FBX",
+      "score": 8,
+      "created_utc": 1760480252.0
+    },
+    {
+      "author": "SignificantContact21",
+      "body": "this sounds about right, are you able to show me an example of the platform you'd use and how to select a social channel? even just typed out, this would help alot i think",
+      "score": 1,
+      "created_utc": 1760470976.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "FBX retargeting was a performance goldmine, open web never had a chance! Though whether those RHS ads were truly incremental is another question.",
+      "score": 2,
+      "created_utc": 1760515741.0
+    },
+    {
+      "author": "FllowrOfJesus",
+      "body": "Social Display Ads: Authentic Social Media Post to Banner Ad Transformation | Spaceback https://share.google/CIps49qH6kXfsbR6Z",
+      "score": 1,
+      "created_utc": 1760471285.0
+    },
+    {
+      "author": "SignificantContact21",
+      "body": "amazing thanks",
+      "score": 1,
+      "created_utc": 1760474114.0
+    }
+  ]
+}

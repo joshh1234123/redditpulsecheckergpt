@@ -3,19 +3,31 @@
   "title": "Gambling - Fill Rate",
   "permalink": "https://www.reddit.com/r/programmatic/comments/1opv081/gambling_fill_rate/",
   "created_utc": 1762423410.0,
-  "num_comments": 2,
+  "num_comments": 4,
   "comments": [
     {
       "author": "Fearless_Parking_436",
       "body": "It’s not that easy with gambling, a lot of exchanges and dsp’s dislike it. I think I buy less than 10% from open market, most come through pmp’s. Index exchange, pubmatic, openx get most money. Also Magnite and Triplelift.",
-      "score": 2,
+      "score": 3,
       "created_utc": 1762432511.0
     },
     {
       "author": "GreenFlyingSauce",
       "body": "Even if you were to increase the fill rate, the quality of ads may not be that good given how morally questionable gambling is which will result in low demand and high supply leading to a still low cpm most likely",
-      "score": 2,
+      "score": 3,
       "created_utc": 1762440022.0
+    },
+    {
+      "author": "cuteman",
+      "body": "I think you'd do better at https://www.reddit.com/r/adops/\n\nThis is more buy side, you'll get better sell side answers there\n\nUltimately however the methodology is typically based on the \"Waterfall RTB model\"\n\nDirect > Preferred > Private > Open (RTB)\n\nUsually involves multiple SSPs/DSPs",
+      "score": 1,
+      "created_utc": 1762475121.0
+    },
+    {
+      "author": "Feisty-Assumption622",
+      "body": "Thank you this is really useful!",
+      "score": 1,
+      "created_utc": 1762514809.0
     }
   ]
 }

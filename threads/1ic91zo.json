@@ -1,0 +1,39 @@
+{
+  "id": "1ic91zo",
+  "title": "DSPs with Advertiser Level Markups ?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ic91zo/dsps_with_advertiser_level_markups/",
+  "created_utc": 1738090428.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Literally any?",
+      "score": 3,
+      "created_utc": 1738094416.0
+    },
+    {
+      "author": "jmissle",
+      "body": "Beeswax and Ribeye are 2 I know about. Pontiac might be able to as well",
+      "score": 3,
+      "created_utc": 1738095699.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Pretty much every major DSP allows you to-do something similar to what you're doing in DV360 it might just be called something different and have a slightly different way of setting it up. However, you should generally be able to set-up a mark-up and make that roll down into any downstream IOs and LIs in any DSP",
+      "score": 2,
+      "created_utc": 1738146993.0
+    },
+    {
+      "author": "adraakwalichai",
+      "body": "What are advertiser level markups?",
+      "score": 1,
+      "created_utc": 1738122559.0
+    },
+    {
+      "author": "DifferentBreath9034",
+      "body": "I know for a fact mediamath offers it",
+      "score": 1,
+      "created_utc": 1738519946.0
+    }
+  ]
+}

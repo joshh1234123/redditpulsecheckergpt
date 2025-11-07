@@ -1,0 +1,117 @@
+{
+  "id": "1lab98y",
+  "title": "Amazon DSP",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lab98y/amazon_dsp/",
+  "created_utc": 1749805519.0,
+  "num_comments": 22,
+  "comments": [
+    {
+      "author": "SucksAtGaming",
+      "body": "I'd recommend for the Amazon shopper data, and access to their inventory. \n\nIf your client sells on Amazon it's a big win, both endemic and non endemic. \n\nTerrible for 3rd party integrations with other ad tech providers, although a lot of them are slowly getting on board. \n\nThe UI is a lot better than what it used to be at least.",
+      "score": 8,
+      "created_utc": 1749815277.0
+    },
+    {
+      "author": null,
+      "body": "Oh boy, I love when people post about Amazon DSP. Amazon is legitimately the biggest piece of shit from an ad tech perspective. Their reporting is an absolute joke and there is literally not a single reason to use their DSP unless you want to buy Amazon O&O. Their Commerce search is even worse: people that sell on Amazon almost always barely break even with how much Amazon’s take rate is.\n\nTLDR, their tech, their UI, and their rates suck, good luck getting a single useful thing from reporting, and if you want to buy media against literally anything outside of their O&O inventory (which again is pretty fuckin trash), use any other DSP. \n\nSource: I worked in commerce search on Amazon in both prog and search (sponsored products and sponsored brands) very recently and lasted 5 months in that role because the Amazon DSP was such a piece of shit to use and our Amazon team was maybe the worst client service team I have ever experienced in my career. Good luck working with them.",
+      "score": 12,
+      "created_utc": 1749818962.0
+    },
+    {
+      "author": null,
+      "body": "Depends on what you want to do and what you're trying to achieve. \n\nOverall, good 1st Party data, but pretty expensive when compared with other DSPs. \n\nSpecially good for particular products that sell on Amazon or similar stuff, since you can leverage that data. Not so good for \"bigger things\" as cars, for example",
+      "score": 2,
+      "created_utc": 1749808882.0
+    },
+    {
+      "author": "Don_Scott_92",
+      "body": "Good first party data and a lot of ways to get creative with that.\n\nThe UI of the DSP is a bit clunky but should improve  over time. Not a fan of the reporting ATM.",
+      "score": 1,
+      "created_utc": 1749846801.0
+    },
+    {
+      "author": "DumpTruckHero",
+      "body": "Can you do nationwide not transactional campaigns? Just national branding not pointing to a product page on Amazon?",
+      "score": 1,
+      "created_utc": 1749934081.0
+    },
+    {
+      "author": "Adtechvet",
+      "body": "It’s a strong retail media play for endemic advertisers. If you’re running non endemic, there really isn’t much you can do in there that isn’t a lot better in other places. Amazon Marketing Cloud has some interesting reporting and clean room capabilities if you have the data analytics practice to make use of it. The platform is buggy, clunky budget management and horrendous inventory curation. There also aren’t many options for refining optimizations sub line item. Line items also can only control spend with lifetime budgets, regardless of campaign flighting settings. We constantly run into bugs, bulk uploads that don’t make the changes they’re supposed to, etc. The reps are similarly useless as Google reps, don’t know anything you ask and present stuff you’d never ask for. Fees aren’t too bad, but you also get jack shit to work with. I’d opt for a 2nd tier DSP than work with them for any non-endemic client.",
+      "score": 1,
+      "created_utc": 1750213574.0
+    },
+    {
+      "author": "True_Link4011",
+      "body": "Anyone have more notes on their account support?? Seems to be none - unless you work with a 3rd party agency like Kepler group?",
+      "score": 1,
+      "created_utc": 1750288861.0
+    },
+    {
+      "author": null,
+      "body": "Depends on what you want to do and what you're trying to achieve. \n\nOverall, good 1st Party data, but pretty expensive when compared with other DSPs. \n\nSpecially good for particular products that sell on Amazon or similar stuff, since you can leverage that data. Not so good for \"bigger things\" as cars, for example",
+      "score": 1,
+      "created_utc": 1749809013.0
+    },
+    {
+      "author": "SlimSloane",
+      "body": "🧂",
+      "score": 3,
+      "created_utc": 1749833955.0
+    },
+    {
+      "author": "UnderstandingOk3930",
+      "body": "Can you explain what you mean by “expensive”? Like the fees are higher or more of an overall value comment (ROAS considered)? I’m clearly not an expert, but there has been a lot going around about Amazon cutting fees below market so your comment here surprised me. Thanks in advance!",
+      "score": 1,
+      "created_utc": 1750775088.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "yeah, campaign landing page can be an out-of-Amazon web page.  \nAlso depending on advertiser's product/service category you can leverage Amazon Inventory such as Prime Video, Amazon Music and Twitch.  \nAFAIK Amazon is pushing for agencies to adopt Amazon DSP also for \"non-endemic\" advertisers",
+      "score": 1,
+      "created_utc": 1750085377.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thanks, are there still additional cost in using any audience targeting including their own audiences? \n\nHow is their bidding offering compared to the likes of DV360 and TTD?",
+      "score": 1,
+      "created_utc": 1749813157.0
+    },
+    {
+      "author": null,
+      "body": "Ratio, enjoy working at the #1 shittiest company in the history of human civilization!",
+      "score": 0,
+      "created_utc": 1749844516.0
+    },
+    {
+      "author": null,
+      "body": "The data itself, they really gouge you with the audience's CPM.\n\nAlso, for video at least, the CPMs (talking about some time ago, haven't used the DSP in like 8-10 month) were pretty high when compared to DC/TTD",
+      "score": 1,
+      "created_utc": 1750777943.0
+    },
+    {
+      "author": "DumpTruckHero",
+      "body": "Do they sell that inventory through DV360 as well or only through Amazon?",
+      "score": 1,
+      "created_utc": 1751429026.0
+    },
+    {
+      "author": null,
+      "body": "Depends on the audience. Some of them don't (the customs I think) most of them, yeap, a CPM on top of the media cost. \n\nTheir bidding offering I would say is, in general, more limited and expensive, since they don't have that many ad spaces in comparison",
+      "score": 1,
+      "created_utc": 1749817421.0
+    },
+    {
+      "author": "SlimSloane",
+      "body": "No wonder your reps didn’t respond to your emails bruh",
+      "score": 2,
+      "created_utc": 1749851251.0
+    },
+    {
+      "author": "DumpTruckHero",
+      "body": "And can you target specific products or categories?",
+      "score": 1,
+      "created_utc": 1751429058.0
+    }
+  ]
+}

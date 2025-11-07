@@ -1,0 +1,51 @@
+{
+  "id": "1min6dx",
+  "title": "Meta Standardized CAPI",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1min6dx/meta_standardized_capi/",
+  "created_utc": 1754432218.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "TemperatureOver4172",
+      "body": "Not sure why Meta is getting attribution (pun intended) for the concept of a conversions API. The reality is that more and more event tracking is moving server-side and the recent Shopify change will likely hasten this shift. Although the IAB is in the pocket of big tech (moreso Google than Meta) creating an industry standard here would simplify things for a developer’s perspective. Conforming to a bunch of different API endpoints tends to involve more resources than placing a pixel on a website so a single standard would really help simplify adoption and keep programmatic from losing share to Meta.",
+      "score": 5,
+      "created_utc": 1754439539.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Meta isn’t programmatic",
+      "score": 1,
+      "created_utc": 1754436505.0
+    },
+    {
+      "author": "northpark",
+      "body": "Where is a link to the documentation?",
+      "score": 1,
+      "created_utc": 1754469865.0
+    },
+    {
+      "author": "hill_from_tech_lab",
+      "body": "We're not rolling out Meta's CAPI. We've convened a Working Group open to all Tech Lab members, including but not limited to Meta, focused on standardizing across as many CAPIs as we can find. \n\nIf your company is a Tech Lab member we'd love you to join the Working Group. We're nice.",
+      "score": 1,
+      "created_utc": 1754496501.0
+    },
+    {
+      "author": "ItsMeRayKellar",
+      "body": "Thanks, Good point about the Shopify update",
+      "score": 3,
+      "created_utc": 1754439842.0
+    },
+    {
+      "author": "ItsMeRayKellar",
+      "body": "Great insight. Don’t ever let anyone tell you reading comprehension isn’t your strong suit \n\nThe standard CAPI they’re proposing is not exclusive to social platforms. Hence why this was discussed in a room full of people who work at DSPs and exchanges.",
+      "score": 0,
+      "created_utc": 1754439687.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Oh gotcha sorry by the wording of your post it made it seem like you thought that this was some new thing that no one else was doing.",
+      "score": 2,
+      "created_utc": 1754439972.0
+    }
+  ]
+}

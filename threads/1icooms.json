@@ -1,0 +1,51 @@
+{
+  "id": "1icooms",
+  "title": "RTBkit still useful?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1icooms/rtbkit_still_useful/",
+  "created_utc": 1738136550.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "Sypheix",
+      "body": "You have to commit to about 100k minimum spend to use Beeswax, probably more nowadays.  You can check out GoodWay group though that's a reseller with lower minimums.",
+      "score": 2,
+      "created_utc": 1738136706.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Rtbkit is what I would consider a legacy piece of code at this point. It’s been around for quite a while, maintenance stopped officially as well. \n\nThere are other libraries out there- but even then you’re just scratching the surface of building an entire stack that needs to scale… and this is just the backend. You still need to bolt on a usable front end in some manner. \n\nDone this dance several times with development clients in the programmatic space.  Dm me if you have specific questions.",
+      "score": 2,
+      "created_utc": 1738164217.0
+    },
+    {
+      "author": "klustura",
+      "body": "\"how programmatic works\" is a broad question, even when you mention that you want to \"go deep\".\n\n\nOne should always clarify why they need more knowledge. A trader might not need to know all the technical details. An AdTech engineer will never come to this sub to seek knowledge.\n\n\nThe programmatic concepts are well known. Then, every ssp/dsp have their own implementations as long as OpenRTB is \"decently\" supported. None of them will disclose how their implementation works and their (ex-)employees are under NDA.\n\n\nThen you have Prebid.org, an open source solution with plenty of docs. That'll give you an idea how programmatic works on the supply side.\n\n\nThe best way to learn is to work for different types of companies and build an expertise over the years.",
+      "score": 2,
+      "created_utc": 1738141859.0
+    },
+    {
+      "author": "TrainingVictory3911",
+      "body": "Amazon's open-sourced bidder implementation guidance:  \n[https://aws.amazon.com/solutions/guidance/building-a-real-time-bidder-for-advertising-on-aws/](https://aws.amazon.com/solutions/guidance/building-a-real-time-bidder-for-advertising-on-aws/)\n\nI've heard it's push-button deploy, very high throughput if you scale out, very well written Golang.  However, very dependent upon AWS services \\[ see who provided \\]. YMMV, but i've heard good things.  \n\n\nPlease report back with your perspective, if you assess -- thx.",
+      "score": 1,
+      "created_utc": 1738270749.0
+    },
+    {
+      "author": "Repulsive_Ad_656",
+      "body": "What do people think of rtb4free",
+      "score": 1,
+      "created_utc": 1738426696.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "If you want full control over your RTB stack and don't mind building your own bid strategies, it can be used as a good starting material.  But you are expecting a ready made prod ready, then it isn't. You'll need to invest in engineering time to make it prod ready. \n\n**The open source code includes the following:**\n\n* Core RTB System - core handles bid requests, filtering, routing, and integrating third party data.\n* Bidder Components & Plugins:\n   * Exchange Connectors: Adapters that convert bid requests from exchanges to OpenRTB format(Google AdX, AppNexus, Rubicon, BidSwitch etc.).\n   * Bidding Agents: comes with a default fixed price agent. custom agents can be implemented in C++ or JavaScript(you have to do it on your own).\n   * Augmentor: supports external data integrations (e.g., Redis is built-in)\n   * Post Auction Service: handles win, click, and conversion matching.\n* Logging & Monitoring: Graphite/Carbon for real-time analytics.\n\n  \n**What is not part of the open source:**\n\n* Bid Optimization Engine- they provided a hosted optimizer then that integrates with RTBKit but optimization logic (e.g., ML models for bidding strategy) is not included.\n* Campaign Management UI: while RTBKit provides APIs, they does not offer an open source UI for campaign management. there might be third-party tools, but you must integrate them manually.\n* Advanced Frequency Capping & Recency Control: They provided an example implementation of freq capping using augmentors. however full fledged freq control logic is not built in and needs to be implemented by you.\n* Pacing & Budget Allocation: banking system is open source but custom pacing algorithms need to be implemented by you.\n\n# Comment on its Perf. & Scalability\n\nRTBKit is fairly good but not the absolute *best* in terms of raw performance. It can handle around **10K QPS per instance**(can be increased to 100K QPS with horizontal scaling), which could be decent for many mid size bidders. however it’s not optimized for ultra low latency ops at a large scale(TTD receives \\~15 mil bid request per sec, most of them are though duplicated impressions)- expect some big engineering overhead if you need high freq bidding with sub-10ms response times. even though their architecture is horizontally scalable, a lot of performance tuning (optimizing augmentors, reducing unnecessary logging for e.g.) still needs to done to handle real world traffic.",
+      "score": 1,
+      "created_utc": 1738155483.0
+    },
+    {
+      "author": "Repulsive_Ad_656",
+      "body": "To be fair, most commercial DSP bidding software is barely maintained. Just try asking one of them to support a new-ish  thing like targeting a seller defined audience without a deal code",
+      "score": 1,
+      "created_utc": 1738427003.0
+    }
+  ]
+}

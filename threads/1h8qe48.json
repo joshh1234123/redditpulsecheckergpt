@@ -1,0 +1,159 @@
+{
+  "id": "1h8qe48",
+  "title": "majority of clicks from PMax are bots (dark red) and these bots also fake clicks on the landing page to simulate engagement",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h8qe48/majority_of_clicks_from_pmax_are_bots_dark_red/",
+  "created_utc": 1733570180.0,
+  "num_comments": 24,
+  "comments": [
+    {
+      "author": "captainjck",
+      "body": "Hello Augustine, I've followed you for a while now. I really do appreciate insights like these and feel the industry should be more open to discuss flaws in the technology that are used by advertisers. What would make these better is if there is more on how we can adjust strategies and campaign setups to help mitigate results like this?",
+      "score": 9,
+      "created_utc": 1733575494.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "This is expected. Performance max places your ads on search partners (mostly bots) and the display network, which is full of click fraud websites.\n\nWe know people on the Google Ads' teams and they tell us Google makes a low effort to detect bots. I remember one of the engineers telling us it'd be career suicide if he wrote code to detect click fraud bots.\n\nThe reason the bots try to generate fake conversions is because that tricks Google into thinking they're humans. There's two nasty side effects: \n\n1. The fake conversions train Google to send you more bots.\n\n2. Since many of the fake conversions are spam leads, and the bots usually use real people's data when submitting the spam leads, if you store or contact the leads, and the leads complain, it's a $40k fine per lead.\n\nThat's why we recommend you use bot detection and disabling if you advertise online.\n\nIf you're new to this topic, head over to r/clickfraud",
+      "score": 9,
+      "created_utc": 1733587258.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Which tool you use for analysis?",
+      "score": 3,
+      "created_utc": 1733570602.0
+    },
+    {
+      "author": null,
+      "body": "I get phone calls that turn into leases, so somehow it works",
+      "score": 2,
+      "created_utc": 1733571749.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "1000% believe it. \n\nBoth the internal Search team and Google Reps couldn’t even answer if PMAX was directly poaching off display and it took them weeks to answer. And that’s because it was yes…\nIt’s like they are pushing snake oil and no one is really looking since it looks good (for now)",
+      "score": 1,
+      "created_utc": 1733766275.0
+    },
+    {
+      "author": "Jungle_jooce",
+      "body": "Which DSP was used for the programmatic portion of the \"Clicks arriving on landing page\" chart?",
+      "score": 1,
+      "created_utc": 1733783614.0
+    },
+    {
+      "author": "Intelligent_Place625",
+      "body": "Need context to really evaluate this - do you have an accompanying article or details about the PMAX niche, target terms etc?",
+      "score": 1,
+      "created_utc": 1734156837.0
+    },
+    {
+      "author": "marigoldwhale",
+      "body": "Have you looked into Applovin? Would be interested to see a similar analysis for this. Tons of e-commerce shilling on Twitter over the last month or two.",
+      "score": 1,
+      "created_utc": 1734348480.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "in Pmax, there is a new feature where you can upload a list of domains to block. this will help reduce the ads going to bad sites that use bot traffic like this.",
+      "score": 9,
+      "created_utc": 1733578777.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "FouAnalytics  [https://www.linkedin.com/pulse/pmax-black-box-you-dont-want-anything-tpibc](https://www.linkedin.com/pulse/pmax-black-box-you-dont-want-anything-tpibc)",
+      "score": 5,
+      "created_utc": 1733572963.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "some of it does work because search ads work and youtube ads work and those are all part of the mix. The problem is that there's also a lot of junk sites and apps in the mix too.",
+      "score": 10,
+      "created_utc": 1733572908.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": "Yeah and the people who bought stocks from Oakmont Stratton got their shares too.",
+      "score": 1,
+      "created_utc": 1733595421.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "all of this was on Google's platform",
+      "score": 1,
+      "created_utc": 1733783777.0
+    },
+    {
+      "author": "Toasted_Waffle99",
+      "body": "You’re talking about millions of domains, new ones popping up each day and list size limits. Supply vendors should allow you to block based on keywords in a domain name. This would filter 90% of bad inventory.\n\nWhy won’t they do this? Because suppliers will lose money.",
+      "score": 6,
+      "created_utc": 1733587724.0
+    },
+    {
+      "author": "AustinLanceButler",
+      "body": "But how can we source the bad domains?\n\nAm I missing a report on PMax domains currently targeted/displayed?",
+      "score": 3,
+      "created_utc": 1733587449.0
+    },
+    {
+      "author": null,
+      "body": "[removed]",
+      "score": 5,
+      "created_utc": 1733590868.0
+    },
+    {
+      "author": null,
+      "body": "Yeah i feel you, i work in DV360 as well so the lack of control hurts my soul with PMax",
+      "score": 5,
+      "created_utc": 1733573279.0
+    },
+    {
+      "author": "tswpoker1",
+      "body": "What i struggle with is when it outperforms my search campaigns and I'm like dammit. Most of the time they don't, but some businesses and industries do have better success and in those cases I have to utilize them because the results are the results. Don't love them by any means but I always will test one to see if it's got any legs.",
+      "score": 2,
+      "created_utc": 1733608367.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "we can see many of the bad domains in the referrer when we measure the landing pages with FouAnalytics. You can compile a list and upload that to Pmax to block. Not perfect, but helps.",
+      "score": 4,
+      "created_utc": 1733591548.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "thanks for taking the time to be so helpful to the previous commenter",
+      "score": 1,
+      "created_utc": 1733591441.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">Not saying you aren't seeing fraud, but Dr Fou is a hack whose business model requires that he magically finds tons of fraud. Proceed with caution. \n\nQuick employer check please. Are you with Google? Because I think it's important that you disclose that if you are.\n\nI find it really strange that there's always some random person that is willing to defend them, but nobody that I've ever personally talked with in the real world that works with their ad tech is willing to do that. It's always the opposite...",
+      "score": -1,
+      "created_utc": 1733595551.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">Not saying you aren't seeing fraud, but Dr Fou is a hack whose business model requires that he magically finds tons of fraud. Proceed with caution. \n\nQuick employer check please. Are you with Google? Because I think it's important that you disclose that if you are.\n\nI find it really strange that there's always some random person that is willing to defend them, but nobody that I've ever personally talked with in the real world that works with their ad tech is willing to do that. It's always the opposite...",
+      "score": -2,
+      "created_utc": 1733595556.0
+    },
+    {
+      "author": "Actual__Wizard",
+      "body": ">Not saying you aren't seeing fraud, but Dr Fou is a hack whose business model requires that he magically finds tons of fraud. Proceed with caution. \n\nQuick employer check please. Are you with Google? Because I think it's important that you disclose that if you are.\n\nI find it really strange that there's always some random person that is willing to defend them, but nobody that I've ever personally talked with in the real world that works with their ad tech is willing to do that. It's always the opposite... \n\nI don't understand how there's an entire industry around dealing with click fraud and you just deny all of it... Yeah there's no problems dude. Everything is fine...",
+      "score": -2,
+      "created_utc": 1733595560.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "yep, it's like \"letting someone else spend your money\"  \n\n  \nand this is the data I have on DV360 [https://www.linkedin.com/pulse/you-buy-through-dv360-dr-augustine-fou-0gpme](https://www.linkedin.com/pulse/you-buy-through-dv360-dr-augustine-fou-0gpme)",
+      "score": 4,
+      "created_utc": 1733573417.0
+    },
+    {
+      "author": "AustinLanceButler",
+      "body": "Thanks. And good to see you again doc.",
+      "score": 1,
+      "created_utc": 1733624219.0
+    }
+  ]
+}

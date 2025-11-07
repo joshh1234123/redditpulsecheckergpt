@@ -1,0 +1,33 @@
+{
+  "id": "1hd19j0",
+  "title": "Cross device vs separate device ad groups",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hd19j0/cross_device_vs_separate_device_ad_groups/",
+  "created_utc": 1734054155.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "BidTheory",
+      "body": "It sounds like something you'd do after you've gathered some data to optimize in more detail, for example giving specific ad groups their own budget for certain devices. The more you break it down into detail the more control you can have over the settings of each group or line item. Downside, it will be more work to setup for sure. Upside, it will give more control over what device/audience pair gets a certain budget, bids etc. In terms of reporting you can separate this out afterwards so I don't see any benefits there. When I build ML models to find performance drivers for programmatic campaigns based on impression and performance data I usually work with one large data set and let the model do the hard work to find the good details in it. So I wouldn't say breaking the campaigns down into lots of ad groups would help with analytics. Probably more for operations, setup, budget allocation etc.",
+      "score": 3,
+      "created_utc": 1734102163.0
+    },
+    {
+      "author": "PizzaAndPicks",
+      "body": "^^^ Agreed with bid theory. Control of spend is what you’re gaining here. I’m not crazy about doing this for spending by device, but it can be helpful for spend by inventory or audience type. Adjusting bid factors for device type is easy enough in my opinion. I haven’t been in the yahoo dsp but I have used this device strategy in Criteo where bid factors don’t exist.",
+      "score": 2,
+      "created_utc": 1734108397.0
+    },
+    {
+      "author": "j17obrien",
+      "body": "I agree with the comments made here. Bid modification by device is easy enough. It is nice to have increased control and performance insight in the UI when breaking out by device, but it is far easier to cut down on the targeting tactics and run ad groups across all devices. Suppose you have a mix of Desktop and Mobile creative sizes. In that case, I have seen instances where mobile-optimized creative is served in desktop environments, and breaking out ad groups by device can mitigate any issues there. TTD with Kokai introduced decisioning power, which performs better with broader ad groups, allowing AI to make more granular and informed decisions. By breaking ad groups out by device, you will limit the power that can be unlocked by reducing Koa's decisioning power.",
+      "score": 1,
+      "created_utc": 1734112033.0
+    },
+    {
+      "author": "boredtraveladdict",
+      "body": "Hmm yes I think hypothetically it would make sense so they can control the spend per device type, but they have the budget optimizer on and don’t seem to optimize that often to device type (ie bids are pretty similar per device). However, there is probably a historical reason for this so I will dig around for that - thanks!",
+      "score": 1,
+      "created_utc": 1734227480.0
+    }
+  ]
+}

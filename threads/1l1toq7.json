@@ -1,0 +1,57 @@
+{
+  "id": "1l1toq7",
+  "title": "Fcap respected?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l1toq7/fcap_respected/",
+  "created_utc": 1748898320.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "curioalpaca",
+      "body": "Not enough info here. How is the campaign set up? Managed service? Self serve? Were you explicit about what cap you wanted?",
+      "score": 6,
+      "created_utc": 1748898990.0
+    },
+    {
+      "author": "Huge_Revenue69",
+      "body": "No, most dsp frequency caps only work in very limited circumstances. Check if they are applied on win or creative served notifications, check if the frequency caps only applies across different server regions, and if they are applied to truncated ips or other identifiers to name a few",
+      "score": 4,
+      "created_utc": 1748915921.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "What sort of inventory are you targeting?\n\nThere are a few circumstances where the DSP might send out loads of bid responses for the same user before it gets the data back that an impression served.\n\nThis can happen if a page has loads of ads, the DSP might bid on every ad slot and wins two at once.\n\nThis might happen with SSAI in video with delay in getting back a signal that an impression served and to stop responding to a specific device/user.\n\nThere can be a bunch of reasons, frequency caps aren't foolproof.",
+      "score": 3,
+      "created_utc": 1748933806.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Based on my experience, a DSP generally respects the frequency cap. I have used Google Display & Video 360 and Quantcast, and I don’t recall encountering any significant issues with frequency management. If a bid request lacks a cookie ID or if it cannot be determined whether an impression has already been served to that cookie, the DSP simply won’t bid.\n\nHowever, certain websites categorized as **MFA (Made for Advertising)** often fail to respect frequency caps. To address this, I would run a report to identify any websites showing an unusual frequency. Additionally, I would analyze the data by exchange, as there might be one or more exchanges where bid requests are of lower quality. Furthermore, I would track whether the frequency has increased starting from a specific point in time; if so, I would check if any settings were modified at that moment.",
+      "score": 1,
+      "created_utc": 1749117745.0
+    },
+    {
+      "author": "fedefern11",
+      "body": "Self served",
+      "score": 1,
+      "created_utc": 1748904318.0
+    },
+    {
+      "author": "ItsMeRayKellar",
+      "body": "I work at a DSP and we had to explore some enhancements to compensate for this. Pre-fetched bids were doing a number on client f caps for a bit",
+      "score": 1,
+      "created_utc": 1748954653.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "A dsp should respect a frequency cap. If you’re setting up a campaign correctly, you shouldn’t run any issues. not enough detail in your post for me to speak to more than that",
+      "score": 4,
+      "created_utc": 1748905031.0
+    },
+    {
+      "author": "fedefern11",
+      "body": "What enhancements did you do! If you don’t mind sharing ;)",
+      "score": 1,
+      "created_utc": 1749006927.0
+    }
+  ]
+}

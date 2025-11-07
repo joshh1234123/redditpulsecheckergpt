@@ -1,0 +1,111 @@
+{
+  "id": "1gt849j",
+  "title": "App install campaign via DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gt849j/app_install_campaign_via_dv360/",
+  "created_utc": 1731827424.0,
+  "num_comments": 17,
+  "comments": [
+    {
+      "author": "SabreDobeDelta",
+      "body": "What is the CPI, attribution window, the target audience, which app store and have you screened out previous users that may of lapsed? Happy to help with a checklist if needed.",
+      "score": 4,
+      "created_utc": 1731828734.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "That’s a terrible place to start, why?",
+      "score": 3,
+      "created_utc": 1731848750.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "You should try Moloco instead. Much better platform for app install/CPI programs.",
+      "score": 2,
+      "created_utc": 1731890718.0
+    },
+    {
+      "author": "j17obrien",
+      "body": "It’s going to be hard to compete bidding on a CPM model and drive an efficient CPI. There are managed service providers that can bid on a CPI model and will outperform anything that can be run self service in DV360.",
+      "score": 1,
+      "created_utc": 1731864721.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "$300k/month to get users to install an EV charging app? This seems like a very steep budget for what I'd assume is a potentially niche app, depending on the app's owner. (charging network, or car manufacturer)\n\nWhat are they expecting to see in return for that $300k a month? If they're expecting you to get thousands of new app users through the door, I think you might struggle with programmatic activations despite technically having everything in place to run a successful app-install campaign.\n\nUnless you can share more information on what the client is expecting to see, I'd advice focusing your budget on more successful channels listed below. (Meta, Moloco etc.)",
+      "score": 1,
+      "created_utc": 1731918876.0
+    },
+    {
+      "author": "LoveGlobal8866",
+      "body": "try Chartboost, Liftoff, DemandScale first",
+      "score": 1,
+      "created_utc": 1731984279.0
+    },
+    {
+      "author": "PassageInside4656",
+      "body": "Use a fraud detection vendor (DONT use Appsflyer’s P360 suite). Keep a check on frequency being deployed else you will highjack organic traffic. \nMonitor touch-to-install time spreads to ensure fraud is not happening.",
+      "score": 1,
+      "created_utc": 1732161296.0
+    },
+    {
+      "author": "Turbulent_Jacket9103",
+      "body": "Attribution Window: TBC\n\n**Target Audience:** EV charging enthusiasts, EV enthusiasts, and Smart Energy enthusiasts.\n\n**Platforms:** The client’s app is available on both iOS and PlayStore, so the campaign will likely target both iOS and Android users.\n\n**Geo:** UK only.\n\n**3rd Party Tracking:** Appsflyer.\n\nThis will be my first app install campaign. Any guidance or best practices would be greatly appreciated!\n\nPlease feel free to share the checklist :)",
+      "score": 2,
+      "created_utc": 1731851677.0
+    },
+    {
+      "author": "Turbulent_Jacket9103",
+      "body": "Client wanted to run their first app install campaign via DV360 :)",
+      "score": 0,
+      "created_utc": 1731851813.0
+    },
+    {
+      "author": "SabreDobeDelta",
+      "body": "I agree - we convert DV360 buyers towards a preferred managed service for this exact reason. Some clients insist on Google and TTD as they believe the market sentiment towards the name. Says a lot about the state of the industry and why it is where it is!",
+      "score": 3,
+      "created_utc": 1731865785.0
+    },
+    {
+      "author": "PassageInside4656",
+      "body": "DM if you want to seriously avoid fraud)",
+      "score": 1,
+      "created_utc": 1732161318.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "These is an insane setup lol. View should be 24 hours at the very most. Click should be 7 days at the very most.",
+      "score": 1,
+      "created_utc": 1731859720.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "Tell them not to and take that budget to a channel that will actually give ROI and not just set the money on fire",
+      "score": 2,
+      "created_utc": 1731859749.0
+    },
+    {
+      "author": "Turbulent_Jacket9103",
+      "body": "u/j17obrien u/SabreDobeDelta  please suggest some providers.\n\nalso, if they can do a PMP & PG deal that would be more effective for us because the client wants to run it via DV360 only for now!",
+      "score": 1,
+      "created_utc": 1731866838.0
+    },
+    {
+      "author": "Turbulent_Jacket9103",
+      "body": "The budget is $300K/month.\n\nBy the way, which platform would you recommend—Google Ads?  \nAside from Google, do you think Meta Ads (FB + Insta) would be a better option? If so, have you run app install campaigns on Meta Ads before? If yes, could you share some best practices?",
+      "score": 1,
+      "created_utc": 1731865643.0
+    },
+    {
+      "author": "SabreDobeDelta",
+      "body": "I’ll drop you a DM",
+      "score": 1,
+      "created_utc": 1731867611.0
+    },
+    {
+      "author": "ppcof",
+      "body": "I spend about $1m / month on app campaigns across Meta, Google, Moloco & TikTok. I'd launch in that order",
+      "score": 3,
+      "created_utc": 1731872595.0
+    }
+  ]
+}

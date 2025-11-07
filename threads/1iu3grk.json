@@ -1,0 +1,69 @@
+{
+  "id": "1iu3grk",
+  "title": "Has someone used campaigns running on UID 2.0?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iu3grk/has_someone_used_campaigns_running_on_uid_20/",
+  "created_utc": 1740071196.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "It’s not really something you selectively/knowingly use. it’s TTDs response and solution for the cookie and the inevitable walled garden of audience data across ecosystems. \n\nIt unquestionably works, just like a cookie unquestionably works. But it’s not like TTD buyers can go A/B test “uid2 audience” vs “cookie audience”.\n\nlast I checked there were like a whopping 4 audience segments that explicitly stated UID as their data source. But that doesn’t mean there aren’t more.",
+      "score": 3,
+      "created_utc": 1740096414.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "We’ve used campaigns that leverage UID in our audience segments.  It’s an additive signal on top of any other identifier (cookie, deviceID, etc), but is based on an email.  When running in authenticated environments, it performs well by driving more scale and resulted in more scale and efficiency.    The post above is incorrect, you technically can test running an audience with and without UIDs to understand impact by adding the additional identifier.   But at the end of the day, the more identifiers you have available to bid on, the better.",
+      "score": 3,
+      "created_utc": 1740195403.0
+    },
+    {
+      "author": "Silly_Gas_5343",
+      "body": "UID2.0 uses a hashed email or phone number as a the underlying identifier. The promise of the UID is in its persistence.   \n  \nCookies have a reasonably quick rate of decay, so you have to try and probabilistically join them to have a longitudinal view of the behavior of a single device. UIDs can have a behavioral history of months or even years, which could be leveraged to produce better long term outcomes (and ROI). \n\nBesides the persistent nature of UID, you can do advanced operations like maintaining frequency across platforms, dsps, publishers, channels.\n\nIf you have a high ASP or a long conversion window, you may be able to benefit more from something like UID. If you have a high volume or short conversion window, maybe UID and it's higher costs, perhaps the ROI isn't worth the extra cost.   \n  \nIf you always maintain a testing approach, you can run a small experiment and let the data outcome define your approach.",
+      "score": 1,
+      "created_utc": 1740872530.0
+    },
+    {
+      "author": "grog__bog",
+      "body": "We’ve built out cookie and UID2 versions of all our first-party audiences and have been A/B testing for ~9 months",
+      "score": 2,
+      "created_utc": 1740215308.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "What was the overall increment in your case of UID vs no UID?",
+      "score": 1,
+      "created_utc": 1740502727.0
+    },
+    {
+      "author": "HuskyInfantry",
+      "body": "Did you build out that split in TTD or via a different tech solution?",
+      "score": 1,
+      "created_utc": 1740250905.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Would you mind sharing results ?",
+      "score": 1,
+      "created_utc": 1740502646.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "We pushed a dozen different audience segments (both with and without).  It varied by audience, but anywhere from +15% to +50%.   CPMs went down across all segments that had UID added.",
+      "score": 1,
+      "created_utc": 1740505905.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "While keeping  the same conversion rate, right?\nAlso, did it include cookie only environment or cookieless environment too?",
+      "score": 1,
+      "created_utc": 1740510346.0
+    },
+    {
+      "author": "Master-Contract9083",
+      "body": "We weren’t measuring conversion rates.. going for incremental reach.   Ran in a combo of cookie and cookie less environments.  Historically we sent cookies and device IDs.   Results mentioned above around scale and CPM were based on simply adding UIDs in addition to the legacy IDs we were historically sending.",
+      "score": 1,
+      "created_utc": 1740511549.0
+    }
+  ]
+}

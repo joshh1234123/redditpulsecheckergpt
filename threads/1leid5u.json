@@ -1,0 +1,51 @@
+{
+  "id": "1leid5u",
+  "title": "CPG brand using interactive CTV to measure incremental lift. Would love quick feedback",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1leid5u/cpg_brand_using_interactive_ctv_to_measure/",
+  "created_utc": 1750256468.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "alexgoestowork",
+      "body": "I think on paper this kind of study and test is great, but quite difficult to achieve in reality. I think about two things in this context:\n\n1. Technical feasibility: you hinted quite complex and different things you would need to achieve to get any reliable data to measure lift, that is to 1. have the capability to accurately isolate a control vs. exposed group, on top of 2. matching these users to offline retail or foot traffic data with 3. ad engagement (not even a form where you can capture email or phone number as a matching key). You are also mixing in a few different platforms/stakeholders (retailer, DSP(?), adserver, probably advertiser CRM data on top of it).\n\n2. Scale: you should expect to have a large media budget to obtain the expected data volume on this study to achieve statistical significance. I'm assuming you could use historical data related to engagement rates (on your CTV format, usually quite low) and match rates for location/POS data to that engagement, to try and calculate the media budget you would need to achieve volume. If it is a national campaign, I would expect a pretty massive budget. \n\n  \nGood luck!",
+      "score": 5,
+      "created_utc": 1750258195.0
+    },
+    {
+      "author": "pimmy",
+      "body": "Consider doing it at a DMA level to measure that DMA's retailer store lift using Nielsen/Circana data, if available. Individual household lift may be challenging to measure depending on the data granularity/scale and what measurement tools you have. \n\nAlso ensure you have tracking on how many people click the CTV ad or scan the QR code or whatever it is. I'd bet it's a tiny fraction of impressions... like super tiny. If it's tiny, then is it even worth it?",
+      "score": 2,
+      "created_utc": 1750300237.0
+    },
+    {
+      "author": "Sonic-the-seattle411",
+      "body": "The only brand that could do this is Agility as their standard offering. You could also piece together four square, viant, basis, or a trade desk, an mta tool, measurement study like lucid, and then attempt to have four square do offline or crm list upload hold out but you run the risk of too many partners at that point. Look at Agility and let me know. We didn’t have our brand refresh and new crm implemented yet so I held off working with them but they would be my first choice once we are up and live again",
+      "score": 2,
+      "created_utc": 1750750438.0
+    },
+    {
+      "author": "OnlyChemical3763",
+      "body": "Hey *brooklynslim* \\- cool that you're running some shoppable CTV. Personally I think the interactive format is pretty neat and dare I say going mainstream? I know you posted 26 days ago, so reply back with updates if your campaign already rolled out! Also did I read in your other threads you just started a new product marketing role? Congrats!!  \n  \nIn any case, it's a great idea to establish a control group to understand the incremental lift of your ads. One thing I would ask of the partner/network helping execute the media buy or the measurement would be how that control group is established and what size it is relative to the duration of the campaign flight. You'd want that control group (the group not seeing the ads) to behave as similarly as possible to the exposed group pre-test, that way you can minimize noise and better isolate the true impact of the CTV campaign.  \n  \nAnother thing I would ask them is about a post-treatment window. Even though the format is 'shoppable', the CTV campaign might not deliver a lift in revenue right away, so it's a good idea to track the control group for a few weeks after the CTV ads conclude to see how sales trend across all your retailers.  \n  \nFull disclosure I work for Haus, a marketing science platform that helps brands run incrementality experiments to assess the causal impact of their ads. I hope this is helpful and would love to hear more about the campaign!",
+      "score": 2,
+      "created_utc": 1752500567.0
+    },
+    {
+      "author": "Guidosama",
+      "body": "Yes this is exactly what most large brands do. They work either with RMN data or a partner like circana, or Nielsen sales data.",
+      "score": 1,
+      "created_utc": 1750286294.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "Yep it’s realistic and feasible with the right parameters and budget. This is an area of programmatic advertising where data clean rooms can really shine too. It could be used for post campaign insights, audience analysis / planning between advertiser, retailer, publisher and more.",
+      "score": 1,
+      "created_utc": 1750287346.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "Not to be a killjoy... why would anyone click \"learn more\" for a bar of soap? CPG = low involvement. \nNot to mention interaction needs to happen on CTV, where no interactions happen (do you remember \"clicking\" anything while watching an ad.... ever?).\n\nApart from these issues - incrementality study can of course be done if you can isolate (preferably by geo) exposed group vs control AND make sure that these groups are at least somewhat comparable (e.g exposed does not have 4x stores around them; control was not exposed 3x more to a different channel etc).",
+      "score": 1,
+      "created_utc": 1750321844.0
+    }
+  ]
+}

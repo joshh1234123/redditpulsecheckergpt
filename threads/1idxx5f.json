@@ -1,0 +1,75 @@
+{
+  "id": "1idxx5f",
+  "title": "Advice on how to identify ppl AT HOME via targeting in DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1idxx5f/advice_on_how_to_identify_ppl_at_home_via/",
+  "created_utc": 1738272152.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "OrdinaryInside8",
+      "body": "device type? Stay away from mobile and tablets.",
+      "score": 7,
+      "created_utc": 1738272973.0
+    },
+    {
+      "author": "neonfenytolkaptamavi",
+      "body": "1. Daypart targeting (eg after work hours)\n2. Device: CTV, Tablet\n3. ISP based (so they’re on wifi)",
+      "score": 9,
+      "created_utc": 1738277488.0
+    },
+    {
+      "author": "mithr4el",
+      "body": "Adsquare offers that Kind of segments.\nThey can isolate people living in a specific Area from these passing by.",
+      "score": 2,
+      "created_utc": 1738314266.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Could do some radius targeting around more rural areas vs city centres. Using 3P data is pretty irrelevant nowadays.\nOr wait for Google to release ip targeting as per their change in stance on fingerprinting.",
+      "score": 3,
+      "created_utc": 1738272800.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "ISP based will be best for this.",
+      "score": 1,
+      "created_utc": 1738303621.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I'd focus on targeting devices on wifi networks only and limit it to outside of the main working hours. Depending on your product and market, wifi and mobile targeting combined may just result in you targeting a load of people on public wifi networks. Without more context on the product and reasoning why, this is probably the best",
+      "score": 1,
+      "created_utc": 1738317614.0
+    },
+    {
+      "author": "JHH1519",
+      "body": "Thanks - curious why you suggest staying away from tablets? Another user suggested targeting tablets.",
+      "score": 0,
+      "created_utc": 1738285085.0
+    },
+    {
+      "author": "adopslurker",
+      "body": "this without tablet.",
+      "score": 2,
+      "created_utc": 1738312962.0
+    },
+    {
+      "author": "internetstalker26",
+      "body": "Tablets leave the house. CTVs, smart speakers, consoles, etc are much safer and use HH level targeting. Also you may be able to license residential household geos. I know some data providers already use this in their graph",
+      "score": 2,
+      "created_utc": 1738286918.0
+    },
+    {
+      "author": "Euphoric-Priority755",
+      "body": "Why is using 3P data irrelevant nowadays?",
+      "score": 2,
+      "created_utc": 1738333277.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Tablets are pretty mobile now a days with network plan options",
+      "score": 0,
+      "created_utc": 1738285630.0
+    }
+  ]
+}

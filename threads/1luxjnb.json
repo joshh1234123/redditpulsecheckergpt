@@ -1,0 +1,39 @@
+{
+  "id": "1luxjnb",
+  "title": "YouTube TV Ads",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1luxjnb/youtube_tv_ads/",
+  "created_utc": 1752002195.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "BigOstrich518",
+      "body": "Some ads on YouTube TV are placed on YouTube but many of the ads you see are linear passthrough.",
+      "score": 10,
+      "created_utc": 1752003416.0
+    },
+    {
+      "author": "ShoebarusNCheverlegs",
+      "body": "Idk if it’s pod dependent or if a linear ad can air next to a CTV ad, but it’s always a mix of both. If it’s a ctv ad there is prob an ad share agreement and the network gets a share and YouTube tv gets a share. \n\nWe get a ton of ctv supply from spectrum and sling that works the same way.",
+      "score": 2,
+      "created_utc": 1752005165.0
+    },
+    {
+      "author": "AlReal8339",
+      "body": "Yeah, YouTube TV ads count as CTV since they’re streamed online, not cable. They can come from YouTube or local deals.",
+      "score": 1,
+      "created_utc": 1762346599.0
+    },
+    {
+      "author": "anngrant",
+      "body": "Yeah, YouTube TV ads count as CTV since they’re streamed online, not cable. They can come from YouTube or local deals. If smaller brands wanna try CTV ads, Skybeam is a cool option. It makes it way easier without a big budget.",
+      "score": 1,
+      "created_utc": 1762505908.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "National Feed (everyone watching sees the same ad) —> channel owned inventory (NBC can sell you dynamic digital ads via GAM/YT) ——> vMPVD ads (Google sells via reserve or in some cases auction)",
+      "score": 5,
+      "created_utc": 1752003916.0
+    }
+  ]
+}

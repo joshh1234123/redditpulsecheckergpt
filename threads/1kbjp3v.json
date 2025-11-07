@@ -1,0 +1,81 @@
+{
+  "id": "1kbjp3v",
+  "title": "Amazon.com DCM Click Discrepancy",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kbjp3v/amazoncom_dcm_click_discrepancy/",
+  "created_utc": 1746027863.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "elchapoguzman",
+      "body": "All aboard the bot mobile",
+      "score": 3,
+      "created_utc": 1746062884.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "What's the number of clicks reported by Amazon compared to DCM? Without that information it's hard to gauge whether it's a click tracker implementation issue and the click tracker firing incorrectly or whether you're exposed to the most obvious form of bots/fraud",
+      "score": 1,
+      "created_utc": 1746087929.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "your ads are served from DCM/CM360, but the media buy is in Amazon DSP?",
+      "score": 1,
+      "created_utc": 1746107442.0
+    },
+    {
+      "author": "BreakfastExpress9005",
+      "body": "Which DSP are you using?",
+      "score": 1,
+      "created_utc": 1746192259.0
+    },
+    {
+      "author": "im_super_excited",
+      "body": "It's probably Amazon APS's creative validator that previews and clicks creatives regularly scan for things like malware\n\n\nDCM should know better and toss those impressions and clicks out.",
+      "score": 1,
+      "created_utc": 1746554960.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "happy to take a look for you with FouAnalytics on the site itself. If FouAnalytics doesn't detect the traffic arriving on the site, then it is a click tracker issue -- e.g. bots repeatedly hitting the click tracker url (not real traffic). DM me if I can help further.",
+      "score": 0,
+      "created_utc": 1746100738.0
+    },
+    {
+      "author": "programmaticjobsrch",
+      "body": "Not using the Amazon DSP. Thinking it could be bots/fraud then. We have the standard DV fraud & IVT settings applied on the DSPs we use, so something must have slipped through Jan-March.",
+      "score": 1,
+      "created_utc": 1746117371.0
+    },
+    {
+      "author": "programmaticjobsrch",
+      "body": "We're using another DSP entirely, not 360 or Amazon.",
+      "score": 1,
+      "created_utc": 1746117258.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Definitely fraudulent traffic then, try looking more granular at a strategy level what could be happening here. Even with IVT filters applied in the DSP, it's very easy for fraudulent traffic to come through if you don't know what you're buying",
+      "score": 1,
+      "created_utc": 1746176206.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "do you know if any ads are actually running on amazon.com?",
+      "score": 1,
+      "created_utc": 1746117821.0
+    },
+    {
+      "author": "brazys",
+      "body": "Agreed, if you dig into the domain reports for your display placements, you can often find the culprit, 1 or 2 placements that have insane CTR.",
+      "score": 2,
+      "created_utc": 1746194813.0
+    },
+    {
+      "author": "programmaticjobsrch",
+      "body": "To our knowledge. We aren't actively blocking it anywhere but in the future if it's providing a lot of invalid traffic/bot activity then we'd likely implement a block.",
+      "score": 1,
+      "created_utc": 1746136670.0
+    }
+  ]
+}

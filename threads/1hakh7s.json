@@ -1,0 +1,75 @@
+{
+  "id": "1hakh7s",
+  "title": "Best Contextual Targeting with grapeshot gone",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hakh7s/best_contextual_targeting_with_grapeshot_gone/",
+  "created_utc": 1733778565.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Lanwel",
+      "body": "Some dsp's also have contextual targeting capacity. But I believe through power comes from indexing, analyzing and domain's content. Thats why third party verification vendors have good source of contextual targeting capabilities. I had chance to experience IAS's segments for multiple clients. Performance is promising out of the box but it requires fine tuning.",
+      "score": 7,
+      "created_utc": 1733800763.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "Peer39 is a true contextual OG, Gum Gum has also developed a robust solution.",
+      "score": 4,
+      "created_utc": 1733842470.0
+    },
+    {
+      "author": "chefben",
+      "body": "We were long-time users (and beta testers) of Grapeshot and appreciated its powerful contextual targeting capabilities. However, after Oracle’s acquisition, development slowed significantly, and by 2019, we decided to start building our own contextual targeting engine. Today our solution powers both programmatic + managed campaigns.   \n  \nFocusing on food and health verticals, we’ve developed a solution built at the URL level, ensuring precision and relevance. Today, our contextual database features 7.7 billion URLs and includes:  \n  \n🍴 200+ food segments: [https://www.gourmetads.com/fctc](https://www.gourmetads.com/fctc)   \n🩺 200+ health segments: [https://www.healthyads.com/hctc](https://www.healthyads.com/hctc)   \n🌟 Seasonal and evergreen segments designed for scalability.   \n🚀 Custom segment creation, typically completed within 24 hours. \n\nWe offer these segments to advertisers for activation via deals or managed campaigns with no subscriptions or fees, making it easy and cost-effective to leverage contextual targeting at scale.",
+      "score": 3,
+      "created_utc": 1733860429.0
+    },
+    {
+      "author": "j17obrien",
+      "body": "I’ve preferred using partners like GumGum and SeedTag",
+      "score": 4,
+      "created_utc": 1733808843.0
+    },
+    {
+      "author": "gooserider",
+      "body": "We may be able to help, https://exactcontext.com/",
+      "score": 1,
+      "created_utc": 1733786497.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "IAS contextual is Admantx & DoubleVerify is Leiki. Both are nowhere near as strong as what Grapeshot was. They both have struggles with brand suitability mapping let alone pure targeting.\nI'd stick to the publisher side if I was you.",
+      "score": 1,
+      "created_utc": 1733863349.0
+    },
+    {
+      "author": "Maximum_Increase6525",
+      "body": "I work for an SSP. We acquired a publisher DMP (1plusX.com) and have scaled our tech to 90% of our publisher footprint to become one of the largest providers of publisher 1PD. It's a very granular contextual offering. For most of the campaigns I work on it's the top performing tactic for post click measures like quality site visits. There's no data fees or mark ups, it's a value add built on a deal. DM me if you want to know more, happy to connect the dots.",
+      "score": 1,
+      "created_utc": 1733891120.0
+    },
+    {
+      "author": "OCaldy",
+      "body": "Try comscore. They have a great contextual solution as well",
+      "score": 1,
+      "created_utc": 1733925165.0
+    },
+    {
+      "author": "Federal-Tank3954",
+      "body": "You can use [Insightfuse](https://insightfuse.com) best for anything contextual now",
+      "score": 1,
+      "created_utc": 1734120209.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Sorry I don't get what brand suitability mapping. Could you elaborate please?",
+      "score": 1,
+      "created_utc": 1733908930.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Both companies originally used their contextual methodology / technology for brand safety / suitability. Given its not exactly worked as perfect as you may expect in that use case, I wouldn't necessarily trust it for targeting without truly validating it.",
+      "score": 1,
+      "created_utc": 1734081474.0
+    }
+  ]
+}

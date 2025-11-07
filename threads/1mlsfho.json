@@ -1,0 +1,57 @@
+{
+  "id": "1mlsfho",
+  "title": "Conversions API Integration",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mlsfho/conversions_api_integration/",
+  "created_utc": 1754753948.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": null,
+      "body": "Maybe you should have read the confluence article before you “sold the client” on this solution.",
+      "score": 5,
+      "created_utc": 1754774321.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Main variables i'd look out for is what your match keys are, how you handle dropping hashed PII if the match involves that and how real time it will be.\n\nIt is a lot more normal in the affiliates / social space, programmatic platforms are slowly joining in. But if you compare a Google / Yahoo DSP / Amazon DSP approach to those other channels, it can be quite messy sometimes, hence why IAB Tech Lab are trying to standardise it.",
+      "score": 2,
+      "created_utc": 1754819488.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "What does confluence have anything to do with it? \n\nThe reason for the post is that my client is about to begin implementation, I’m in a new role, and I’ve heard of challenges from other implementations. It’s not like I don’t have partners that will help guide on this internally, but I’m looking for any gotchas or advice from others that may help make this a smooth experience for my client.",
+      "score": 0,
+      "created_utc": 1754775200.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "Thank you, thank you! Why is this more normal in the social / affiliates space?",
+      "score": 1,
+      "created_utc": 1754839756.0
+    },
+    {
+      "author": "HairySprinkles7369",
+      "body": "Conversion APIs are technical and there are usually product documentation you have to read through to implement them, which are typically written on Confluence. It’s impossible for anyone to predict the hiccups you’ll run into because your clients tech stack will be a major factor in those hiccups, and the platform your connecting the data to is also a critical missing detail.",
+      "score": 4,
+      "created_utc": 1754791673.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "As Programmatic has always had 3p cookies to fall back on for measurement. For affiliates / social, 1p cookies have been the norm for a long time and then Meta started pushing CAPI on the social side before every other platform joined in.",
+      "score": 3,
+      "created_utc": 1754896345.0
+    },
+    {
+      "author": "theBeerWeasel",
+      "body": "Oh got it, makes sense. Is that because of Apple’s ATT update?",
+      "score": 1,
+      "created_utc": 1755131436.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "That was the biggest driver for social platforms / Meta yep, though Meta actually had CAPI as a solution before ATT, just was called something else.",
+      "score": 1,
+      "created_utc": 1755156880.0
+    }
+  ]
+}

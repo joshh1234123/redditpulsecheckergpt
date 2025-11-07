@@ -1,0 +1,39 @@
+{
+  "id": "1hf7vb4",
+  "title": "RON for prospecting audiences, not sites",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hf7vb4/ron_for_prospecting_audiences_not_sites/",
+  "created_utc": 1734312547.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "An easy fix here may just be indicating funnel location within in audience name. \n\nSo even if everything is being pulled in, you could hopefully search “MOF” and just pull in all middle\nFunnel camapaigns.",
+      "score": 2,
+      "created_utc": 1734360501.0
+    },
+    {
+      "author": "Main_Scratch_342",
+      "body": "sorry to clarify, i want clarity on *third* party audiences - i cant rename those. unless there's a way and i just didnt know it haha u/EarthPrimer",
+      "score": 1,
+      "created_utc": 1734384978.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Can you bring in “campaign” as an additional metric and sort the audiences by filtering the campaigns in a pivot table?",
+      "score": 1,
+      "created_utc": 1734385514.0
+    },
+    {
+      "author": "Main_Scratch_342",
+      "body": "nope",
+      "score": 1,
+      "created_utc": 1734456084.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "🤷",
+      "score": 1,
+      "created_utc": 1734897226.0
+    }
+  ]
+}

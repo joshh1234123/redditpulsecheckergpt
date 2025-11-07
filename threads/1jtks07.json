@@ -1,0 +1,69 @@
+{
+  "id": "1jtks07",
+  "title": "Any advice before starting out in programmatic?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jtks07/any_advice_before_starting_out_in_programmatic/",
+  "created_utc": 1744031130.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "Honestly, start to look up things like “programmatic 101” on YouTube to get a high level understanding the the types of tech at play (dsp, ssp etc), different format option (display, olv, CTV etc) and targeting types (behavioral, contextual, lookalike, retargeting etc). There’s a ton more, but I think looking into the above will do a good job of setting g the stage",
+      "score": 12,
+      "created_utc": 1744038356.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "A number of the platforms also have free academy's on their site that get you a certification afterwards too. Trade Desk, Quantcast and pretty sure StackAdapt too - no doubt there'll be others but these could be a good starting point",
+      "score": 5,
+      "created_utc": 1744046388.0
+    },
+    {
+      "author": "programmaticpigeon",
+      "body": "Getting a solid understanding of the Programmatic ecosystem is a great place to start, since it's the foundation for everything else you'll learn in the industry. There are several helpful visuals and YT videos out there that should help with this! Once you have a sense of the structure and broadly how the ecosystem functions, start diving into platform types in more detail to understand the role they serve and how they work together. \n\nFor example, a good starting point would be to learn about DSPs and how they function in the larger ecosystem with SSPs, DMPs, exchanges etc. Once you have a solid handle on DSPs and generally what they are used for, then that's a good point to begin focusing on certifications for specific platforms (like TTD, DV360). \n\n  \nI'd also suggest focusing on learning different advertising formats (CTV,OLV, Display etc), targeting methods (behavioral, contextual etc) and buying methods (PMPs, open exchange etc) since these are all essentials to understanding Programmatic!",
+      "score": 7,
+      "created_utc": 1744057250.0
+    },
+    {
+      "author": "thesupercoolmarketer",
+      "body": "“Masters in digital marketing” wut?",
+      "score": 3,
+      "created_utc": 1744175605.0
+    },
+    {
+      "author": "Rosebudders",
+      "body": "Read the docs: https://learn.microsoft.com/en-us/xandr/\n\nAs well as others (dv360, ttd, etc)\n\nThen do certs",
+      "score": 2,
+      "created_utc": 1744113153.0
+    },
+    {
+      "author": "sirwinsalot60",
+      "body": "Woah thanks so much for your feedback. I'm definitely gonna watch more videos. Also, chatgpt has been helping me in answering general questions too. Thanks again for the support 😊",
+      "score": 3,
+      "created_utc": 1744042719.0
+    },
+    {
+      "author": "sirwinsalot60",
+      "body": "I'm looking into the academies you suggested 😁 it looks great 👍🏻 thanks so much for the advice!",
+      "score": 1,
+      "created_utc": 1744056563.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Forsure - I would try to stay away from Chat GPT until you have a solid level of base knowledge, so that you can tell more easily if what it is spitting out is accurate",
+      "score": 6,
+      "created_utc": 1744044391.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "Best of luck with the job hunt!",
+      "score": 3,
+      "created_utc": 1744060480.0
+    },
+    {
+      "author": "sirwinsalot60",
+      "body": "Thanks a lot 🙏🏻 💓",
+      "score": 3,
+      "created_utc": 1744056521.0
+    }
+  ]
+}

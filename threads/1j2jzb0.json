@@ -1,0 +1,27 @@
+{
+  "id": "1j2jzb0",
+  "title": "VAST Tag versions - DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1j2jzb0/vast_tag_versions_dv360/",
+  "created_utc": 1741012441.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "dortenzio1991",
+      "body": "Likely VAST 2.0 but I am not certain. Open a ticket with Google and they should be able to tell you pretty quickly. \n\nAre you in the middle of troubleshooting and need an answer now, or is this for a hypothetical scenario that may come up? If you’re troubleshooting currently, then the publisher should be able to pull a bid response where you can check which vast version was sent",
+      "score": 3,
+      "created_utc": 1741013466.0
+    },
+    {
+      "author": "fwahahaha",
+      "body": "It’s usually automatically decided based on what the publisher allows for their inventory. So if a pub didn’t declare it right like saying it allows up to VAST 4 but in reality they can do VAST 2 only, then DV360 will send the creative in VAST 4 which won’t work.\n\nNot sure if CM allows you to select what VAST version during sync but it’s definitely an option if you export the tag.",
+      "score": 3,
+      "created_utc": 1741018801.0
+    },
+    {
+      "author": "MirsadZ",
+      "body": "I would default to support, opening a ticket is always a good first step.\n\nSince it is pushed directly from cm into dv honestly there should be a way to see it in cm.\n\nI ran exclusively 3p videos vast 2.0 from cm\nBut I uploaded them into dv using a bulk.\nIf you do have a tag then you can check it by pasting the tag into your search bar.\n\nIf dv support is useless then try cm 360 support.\nThey have 0 overlap knowledge between platform unfortunately",
+      "score": 2,
+      "created_utc": 1741017650.0
+    }
+  ]
+}

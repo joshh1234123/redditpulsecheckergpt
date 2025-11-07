@@ -3,7 +3,7 @@
   "title": "Viewability benchmark",
   "permalink": "https://www.reddit.com/r/programmatic/comments/1omr7px/viewability_benchmark/",
   "created_utc": 1762113632.0,
-  "num_comments": 8,
+  "num_comments": 9,
   "comments": [
     {
       "author": "Crazy_Cat_Dude2",
@@ -28,6 +28,12 @@
       "body": "Generally 70% but I find if scale is affected you can always open up to 50/60% to allow more inventory. Advertisers should really be moving away from Viewability as a KPI in 2025 in any case. I’m pretty certain the vast majority of case studies done on the subject have shown that Attention and Viewability are not intrinsically correlated and Attention is the real metric you want to focus on to drive high engagement.",
       "score": 1,
       "created_utc": 1762307557.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Problem is only something like ~10% of publishers report on Viewability to begin with. \n\nIf you are hyper-focused on viewability you'll leave a lot of inventory on the table and simultaneously drive your CPMs up.\n\nMakes more sense for Display/Video and less so for CTV since signal loss is high, completion rates are high and unless someone walks out of the room, it's assumed someone saw the ad since it's essentially interstitial",
+      "score": 1,
+      "created_utc": 1762475884.0
     },
     {
       "author": "tobias10",

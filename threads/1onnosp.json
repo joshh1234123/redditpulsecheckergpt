@@ -3,7 +3,7 @@
   "title": "Open Sincera Fetcher on GitHub",
   "permalink": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
   "created_utc": 1762203233.0,
-  "num_comments": 15,
+  "num_comments": 16,
   "comments": [
     {
       "author": "sulleh",
@@ -14,19 +14,19 @@
     {
       "author": "goodgoaj",
       "body": "Good stuff! Was doing a similar thing with AppScripts & functions within a GSheet.",
-      "score": 6,
+      "score": 5,
       "created_utc": 1762250733.0
     },
     {
       "author": "Peters_Jakob",
       "body": "I'm actually working on my own Ad Density / Ad calculator for domains, that runs a client side script on a computer, rates the domain and objectively gives a score based on a lot of different parameters, e.g. Ad Density (ads vs content/viewport), Average distance between ads, amount of unique ads, high-impact vs normal ads etc.\n\nQuestion is, i'm thinking if this could be forked or similar, so while i'm running my client side script on my end, also calling the Open Sincera fetcher, to get a more avg score for users, and not a sliced data point, only from the single client perspective. To be added into the scoring system for a more \"real-world\" score.\n\nThe whole premis would be a public database for Ad scores of domains, e.g. based on top 100 largest domains in Denmark from the official list: [https://e-public.gemius.com/dp/rankings/446](https://e-public.gemius.com/dp/rankings/446)\n\n  \nBut really nice, havne't heard about this API before. Great work u/mcpapaya",
-      "score": 5,
+      "score": 4,
       "created_utc": 1762249204.0
     },
     {
       "author": "Bulky_Perception_682",
       "body": "This rocks, thank you!",
-      "score": 3,
+      "score": 4,
       "created_utc": 1762277714.0
     },
     {
@@ -38,13 +38,13 @@
     {
       "author": "goodgoaj",
       "body": "That device split is very welcome. Any plans to do anything with geo / language filtering? Probably one of the more important criteria to think about alongside quality for allow lists on a regional level.",
-      "score": 5,
+      "score": 4,
       "created_utc": 1762250835.0
     },
     {
       "author": "mcpapaya",
       "body": "Thanks & nice to get feedback from the builders themself. 👍🏻\n\nLooking forward to the device split, that has been requested internally already as well - also helps to better match it with existing data/reports.\n\nWhat I'm thinking about is, to match it with existing reports to check correlations between ad density and CTR or Conversion-Rates and so on. I think there are a few nice potential reports to build on top of that data.\n\nI will definitely play around a little more and get back to you if we spot any other opportunities. 🙏🏻",
-      "score": 6,
+      "score": 5,
       "created_utc": 1762255208.0
     },
     {
@@ -92,8 +92,14 @@
     {
       "author": "sulleh",
       "body": "the problem with variable 1 is the unpredictability:  there is the declared language via the <lang>, and then there is the rendered language based on geo access, etc.  for many properties, there isn't a universal <lang> setting, and it often contradicts what is rendered. \n\nThe second is more straightforward, although it blows out the cardinality of reporting - which is manageable. How would you prioritize the following features:\n\n1. add \"rendered in country\" data / deltas (many pubs will be the same, but valuable for outliers like daily mail) \n\n2. offer a sample of 3-5 URLs of data, so you can understand direct URL examples of data, not just the overall average (which can be over-represented by home pages) \n\n3. Additional CTV coverage and metrics \n\n4. Report on declared <lang>, as well as report on the volatility of the object.\n\n  \nDon't get me wrong, we'd like to, and will probably build, all of these - I just want to prioritize what is most important to users.",
-      "score": 1,
+      "score": 2,
       "created_utc": 1762349876.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Personally would go 1, 4, 2, 3 in priority.",
+      "score": 1,
+      "created_utc": 1762504349.0
     }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "id": "1jo1274",
+  "title": "Criteo Commerce Max",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jo1274/criteo_commerce_max/",
+  "created_utc": 1743420941.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "postyyyym",
+      "body": "If you're doing a lot of work with their sponsored products offering than I'd say it can be worth it, depending on the level of self-serve customization capabilities they offer in your market. Whatever you do, don't let criteo run off-site campaigns managed service as you'll pay a hefty managed service fee for them to buy the crappiest of long-tail inventory",
+      "score": 2,
+      "created_utc": 1743498352.0
+    },
+    {
+      "author": "IHSFB",
+      "body": "So they still focus on black box vs self serve?",
+      "score": 2,
+      "created_utc": 1743444378.0
+    },
+    {
+      "author": "Less-Selection1127",
+      "body": "Is pretty limited. Can’t add deals, they don’t fully support all ad servers. Self serve is the way to go and test. You should consider the implementation of the tags. If you want to squeeze all the potential you must implement them",
+      "score": 1,
+      "created_utc": 1743436847.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thanks, everyone! Was looking into testing their offsite offering leveraging retailer data. Has anyone here used it? Some seem available for self serve \nI’m seeing quite a few limitations and can’t fully grasp the benefits, but I’d love to hear your thoughts",
+      "score": 1,
+      "created_utc": 1743516200.0
+    },
+    {
+      "author": "cuteman",
+      "body": "If you're considering Criteo, the usual consensus is that there are better options, they're a black box and generally not a great experience.\n\nHeavy on the sales side, less so on support or performance and what you do get is questionable without backup",
+      "score": 0,
+      "created_utc": 1743455272.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you, then how was their offsite offering using retailer data. Some seem available for self serve (Asda uk) I can’t fully grasp the benefits, but I’d love to hear your thoughts",
+      "score": 1,
+      "created_utc": 1743582150.0
+    },
+    {
+      "author": "Chi-biusa2z",
+      "body": "Thank you, then how was their offsite offering using retailer data. Some seem available for self serve (Asda uk) I can’t fully grasp the benefits, but I’d love to hear your thoughts",
+      "score": 1,
+      "created_utc": 1743582202.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "So based on my experience on the agency side, it sounded like Criteo partners with the different retailers and for some they're allowed to use it for off-site in their self-serve platform and with others only for managed service. No clue why this is/was the case, but that's what was communicated to us.\n\nThe off-site product, basically then just used their retailer data to target these identified as in-market users against what I can only presum was the bidswitch SSP supply. Based on campaigns I ran and reports received, the quality of what you buy isn't great (verified using 3rd party and human checks) and there was no solid attribution model proving incrementally. Based on this we saw no proof running these strategies drove incremental value, outside of the BAU programmatic activity, so we stopped running it",
+      "score": 1,
+      "created_utc": 1743606318.0
+    }
+  ]
+}

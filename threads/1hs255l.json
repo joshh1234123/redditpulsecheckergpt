@@ -1,0 +1,135 @@
+{
+  "id": "1hs255l",
+  "title": "Would Publishers Be Interested in Insurance for Ad Revenue to Avoid Long Payment Cycles?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hs255l/would_publishers_be_interested_in_insurance_for/",
+  "created_utc": 1735846310.0,
+  "num_comments": 21,
+  "comments": [
+    {
+      "author": "MicroSofty88",
+      "body": "I feel like this wouldn’t work out for the insurance company",
+      "score": 5,
+      "created_utc": 1735849092.0
+    },
+    {
+      "author": "Interview_Senior",
+      "body": "that’s an interesting concept – insuring future ad revenue that hasn’t even been generated yet feels like a bold move. I can see how this could help publishers manage cash flow, especially with the long payout cycles.\n\nthe biggest question I’d have is how the insurance platform calculates risk. ad revenue can swing a lot depending on things like CPM drops, seasonality, or even ad policy changes (like Apple’s privacy updates). \n\nit would be more interesting to publisher with steady ad revenue, as it could be a good way to smooth out income and make planning easier. locking in six months of guaranteed cash flow sounds like a solid safety net. even if the platform takes a cut, it could be worth it to avoid the stress of waiting for payouts. If the costs are reasonable and the platform doesn’t interfere with ad ops, i could see this becoming something people rely on.",
+      "score": 2,
+      "created_utc": 1735847095.0
+    },
+    {
+      "author": "mrgoobmanager",
+      "body": "Oh wow!! Holy mother of balls!! This is it! Why hasn’t anyone thought of this!? Wait?? Is this guy going to be a billionaire? Man! I knew him when",
+      "score": 2,
+      "created_utc": 1735853304.0
+    },
+    {
+      "author": "Sypheix",
+      "body": "This already exists.  Can't remember then name.  They take a percentage of the revenue and pay you immediately.",
+      "score": 1,
+      "created_utc": 1735848013.0
+    },
+    {
+      "author": "gcrossi",
+      "body": "This already exists and there is a whole industry for it. Its called Factoring.",
+      "score": 1,
+      "created_utc": 1735848102.0
+    },
+    {
+      "author": "Significant-Act-3900",
+      "body": "This isn’t just a publisher problem. It’s also a big problem for agencies not getting paid in time. There are companies that exist that front the money and take a cut when the client pays. ",
+      "score": 1,
+      "created_utc": 1735860393.0
+    },
+    {
+      "author": null,
+      "body": "This is basically what banks are for in terms of cash flow.",
+      "score": 1,
+      "created_utc": 1735862468.0
+    },
+    {
+      "author": "Front_Ad_4439",
+      "body": "Allianz does this. \n\n  \n[https://www.allianz.com/](https://www.allianz.com/)",
+      "score": 1,
+      "created_utc": 1735874374.0
+    },
+    {
+      "author": "startingstarter",
+      "body": "I know this is already done on RPMs by some solutions, not on impressions, because that could fluctuate a lot based on the publisher's efforts",
+      "score": 1,
+      "created_utc": 1736186825.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "just to clarify – are you saying you think this could work or that it might not pan out for insurers? would love to hear more about why you feel that way.",
+      "score": 1,
+      "created_utc": 1735849448.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "they are not doing factoring, right?",
+      "score": 0,
+      "created_utc": 1735849489.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Im not talking about just invoice factoring – I mean **f**uture ad revenue that hasnt even been invoiced yet. the idea is that a publisher could insure their next 6 months of ad revenue and get paid upfront, kind of like a **prepaid forward.**",
+      "score": 1,
+      "created_utc": 1735848463.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Just a gut feeling, but I don’t think it would work out financially for an insurer. What happens if there is an algorithm or policy update that tanks monthly revenue for a large subset of publishers or the whole market? When media math went bankrupt recently a lot of platforms and publishers were left holding the bag for like a quarter worth of revenue, so if a large portion of that was consolidated into one company, I don’t know how they would withstand the revenue loss",
+      "score": 3,
+      "created_utc": 1735850180.0
+    },
+    {
+      "author": "Sypheix",
+      "body": "Similar to factoring.  I can't remember the exact name of the company.  The insurance model wouldn't work given the volatility of ad revenue and site traffic.  The insurance company would lose every time.",
+      "score": 1,
+      "created_utc": 1735850302.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Yeah I totally see the issue from the insurer’s side – the risk might not justify the premiums. But lets say hypothetically there were services like this in place.\n\nAfter what happened with MediaMath, do you think publishers would be interested in something like this? even with some premium, i wonder if the peace of mind or cash flow stability could outweigh the risk of getting left in the lurch again. do you think there will be demand of such product among publishers?",
+      "score": 1,
+      "created_utc": 1735851015.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "It’s FxM",
+      "score": 1,
+      "created_utc": 1735852860.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Yeah depending on the fees I could see publishers being interested",
+      "score": 1,
+      "created_utc": 1735854246.0
+    },
+    {
+      "author": "pahaonta",
+      "body": "It all comes down to whats the premium and how things would work. A 2% fee vs 30% fee is very different, and how it works when my revenue goes to 0 in month 2 for example, will there be clawback, etc. What about if I 10x, do get to keep all the extras.\n\nI think there's a lot to consider, because with insurance, the devils is in the details. If you told me for 2% fee, I will get $600k upfront, still get all revenue upside, sign me up. Any \"buts\", \"if\". \"only\", etc would make me lost interest.",
+      "score": 1,
+      "created_utc": 1735892571.0
+    },
+    {
+      "author": "Sypheix",
+      "body": "It was specific to ad tech and online publishers.  But strangely I believe I know you Jay!  Goodway group?",
+      "score": 1,
+      "created_utc": 1735853390.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "What I’m thinking isnt exactly insurance – its more like a hedge on future ad revenue. If a publisher wants to lock in 6 months worth of ad revenue, they’d set a price they’re comfortable selling it at. The platform decides how much of that future revenue they’re willing to buy upfront at that price. Publisher gets the cash day 1.\n\nObv there are trade-offs based on how volatile the ad revenues are wrt predicted revenues values and the pricing should be done based on that. The platform isn’t letting publishers offload everything. They’d probably keep 20-25% of the inventory in play so the publisher stays motivated to keep ad revenue strong. But beyond that, no clawbacks if revenue drops and no upside if it spikes.\n\nAlso heres the kicker – if the publisher feels confident that ad revenue could outperform they could buy additional percentages from the secondary market. This gives them a chance to double down if they see potential for stronger returns.\n\nThink of it like a prepaid forward – publisher sells a chunk of future inventory at a set price, gets paid now, and just rides out the contract. Curious if that sounds workable or if there’s something obvious I’m missing.",
+      "score": 1,
+      "created_utc": 1735894808.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "Yep I don’t hide on Reddit!",
+      "score": 1,
+      "created_utc": 1735892735.0
+    }
+  ]
+}

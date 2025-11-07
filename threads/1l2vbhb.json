@@ -1,0 +1,39 @@
+{
+  "id": "1l2vbhb",
+  "title": "Turning customer match into LAL",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1l2vbhb/turning_customer_match_into_lal/",
+  "created_utc": 1749006992.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "PermissionPositive65",
+      "body": "As far as i know LAL can only be used on youtube and demand gen inventory.",
+      "score": 3,
+      "created_utc": 1749037014.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "\\> If the seed audience list is NOT a customer match one and it is taken from Campaign Manager 360 there shouldn't be any problem on serving third party wrapped creatives. \n\n\\> There might be limitations in case the seed list is a customer match which information are consumer based \\[see the following help center article below the title \"Contact info–based Customer Match limitations\"(https://support.google.com/displayvideo/answer/9539301?hl=en&sjid=13674463477519969244-EU). \n\nRemember that lookalike audiences are limited to demandgen line items. \n\nFor other types of line items than demandgen ones, you can use the opimised targeting feature.",
+      "score": 2,
+      "created_utc": 1749042769.0
+    },
+    {
+      "author": "PowerCapital4757",
+      "body": "We used a clean room",
+      "score": 1,
+      "created_utc": 1749158415.0
+    },
+    {
+      "author": "jefftak7",
+      "body": "Only Demand Gen, not YT but you can setup DG to serve exclusively on YT",
+      "score": 2,
+      "created_utc": 1749052647.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Have you solved the issue by using a clearing room like PAIR?",
+      "score": 1,
+      "created_utc": 1749851026.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "1ld245z",
+  "title": "US Programmatic Trends – May 2025",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ld245z/us_programmatic_trends_may_2025/",
+  "created_utc": 1750101878.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "vorttex",
+      "body": "Interesting that CTR doesn’t seem to move that much in the later refresh buckets.",
+      "score": 3,
+      "created_utc": 1750132845.0
+    },
+    {
+      "author": "Ill_Ad_695",
+      "body": "I'm new to programmatic so apologies if I sound like an idiot. \n\nIf you're buying pay-per-click, would that mean targeting post refresh would be cheaper?\n\nEdit: just reading that refresh rate targeting does not exist. \n\nMaybe it should?🤷",
+      "score": 2,
+      "created_utc": 1750217774.0
+    },
+    {
+      "author": "BucketMarketing",
+      "body": "I love some good bucket analysis! I’ve seen bigger drops in CTR as your CPM goes down, but your methodology is on point. 👏",
+      "score": 2,
+      "created_utc": 1750247888.0
+    },
+    {
+      "author": "nklim",
+      "body": "This is very interesting, thanks for sharing. I have a couple questions:\n\n1. How are you measuring/targeting (if applicable) the refresh count?\n2. Are you controlling for time? Obviously refresh count will closely correlate with time, but the difference in time for X refreshes becomes more and more significant as time increases. A publisher refreshing every 15 seconds will hit 20 refreshes after 5 minutes, while refreshing after 30s would take 10 minutes for the same count.",
+      "score": 2,
+      "created_utc": 1750262886.0
+    },
+    {
+      "author": "DataBeat_adtech",
+      "body": "Yes, post-refresh impressions are typically sold at lower prices. However, in most standard CPC campaigns, directly targeting refresh vs. non-refresh impressions isn’t usually available as a standard targeting option.  \nThat said, there are workarounds. If you're working with specific publishers or SSPs, setting up a PMP deal where the publisher passes a custom signal indicating whether an impression is a refresh is possible. This way, you can segment and optimize your buying.",
+      "score": 1,
+      "created_utc": 1750361602.0
+    },
+    {
+      "author": "DataBeat_adtech",
+      "body": "Love your take! If you enjoy digging into this stuff, you should join our next AdTech Roundtable. We’re all about real, no-fluff conversations, this time we’re tackling Dynamic vs. Manual Floor Pricing. Would be great to have your perspective in the mix! [**Join us**](https://lu.ma/k1y5lm88) :)",
+      "score": 1,
+      "created_utc": 1750263063.0
+    },
+    {
+      "author": "DataBeat_adtech",
+      "body": "Thanks!\n\n* We’re passing the refresh count as a key-value from the page to GAM for measurement purposes. \n* This is an **in-view refresh**, and the refresh interval is set to **30 seconds** \n\nAlso Yeah, we can add the average time on page. We usually see across the pubs in industry is 100 -130 seconds, and we also recommend a refresh time of no less than 30 seconds, as it blocks a lot of demand partners and is not very good for user experience.",
+      "score": 1,
+      "created_utc": 1751391431.0
+    }
+  ]
+}

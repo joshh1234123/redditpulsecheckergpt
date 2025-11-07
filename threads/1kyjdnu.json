@@ -1,0 +1,63 @@
+{
+  "id": "1kyjdnu",
+  "title": "Thoughts on Teads as a platform to run full budget campaigns!? Seems like they’ve got a clean inventory and also some good tools to measure Attention, Brand lift etc.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kyjdnu/thoughts_on_teads_as_a_platform_to_run_full/",
+  "created_utc": 1748545915.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Imaginary-Salt-6525",
+      "body": "I don't think you can compare TTD vs Teads. Teads doesn't have almost no standard display inventory. Their inventory exclusive to them on the publishers they are working with. So that will be limited. They also call themselves Ad manager and not a DSP as they don't have full capability of a DSP.",
+      "score": 13,
+      "created_utc": 1748556621.0
+    },
+    {
+      "author": "SouthwestBLT",
+      "body": "I generally refer to them as fisher price programmatic. It’s for clients and people that are not ready for true programmatic advertising yet either because of resource constraints, budgets and so on.\n\nThat’s not to say it’s bad, I run it a lot, it performs well in addition to standard dsp buying.",
+      "score": 11,
+      "created_utc": 1748563684.0
+    },
+    {
+      "author": "UnlimitedSW",
+      "body": "As others said, don‘t see it as a DSP but an ad network platform. It got some good native formats with a social network look & feel so of you already have social assets, use these to extend your campaign into the open web.",
+      "score": 3,
+      "created_utc": 1748581825.0
+    },
+    {
+      "author": "Keichavik",
+      "body": "I'd avoid Teads entirely. They showcase à good inventory but most of your budget will go on low performing placements",
+      "score": 3,
+      "created_utc": 1748596921.0
+    },
+    {
+      "author": "hqqqqqqdaaaar",
+      "body": "Teads inventory is BAD. They tout clean inventory but ask them for a full site list",
+      "score": 3,
+      "created_utc": 1748655489.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Teads is not a buying focused platform, they came up as an SSP. Their inventory, performance, measurement etc... would all be limited vs TTD which has broader access to and more advanced tools.",
+      "score": 3,
+      "created_utc": 1748553838.0
+    },
+    {
+      "author": "the_hungry_havanese",
+      "body": "Better off doing an A/B test on the usual suspects like TTD, DV360, Yahoo, ADSP",
+      "score": 1,
+      "created_utc": 1748615348.0
+    },
+    {
+      "author": "Careful-Reveal-9824",
+      "body": "Don't waste your money.",
+      "score": 1,
+      "created_utc": 1759082610.0
+    },
+    {
+      "author": "the_hungry_havanese",
+      "body": "Fisher Price label lol",
+      "score": 2,
+      "created_utc": 1748615287.0
+    }
+  ]
+}

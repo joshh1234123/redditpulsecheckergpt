@@ -1,0 +1,63 @@
+{
+  "id": "1gr8kpx",
+  "title": "OMSDK based Viewabilitiy Tracking issue with IAS",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gr8kpx/omsdk_based_viewabilitiy_tracking_issue_with_ias/",
+  "created_utc": 1731601346.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "klustura",
+      "body": "VAST or VPAID?",
+      "score": 1,
+      "created_utc": 1731602899.0
+    },
+    {
+      "author": "yeayea_yea",
+      "body": "is the inventory om enabled? you got the right adverifications xml for the vast version?\n\nif you're just talking about trackers and not omid, try wrapping the IAS trackers and see if you actually record a redirect to em",
+      "score": 1,
+      "created_utc": 1731616164.0
+    },
+    {
+      "author": "adraakwalichai",
+      "body": "VAST",
+      "score": 1,
+      "created_utc": 1731602983.0
+    },
+    {
+      "author": "adraakwalichai",
+      "body": "Yes, the inventory is omsdk enabled. What do you mean by right adverifications XML for the vast version? Any example?",
+      "score": 1,
+      "created_utc": 1732012508.0
+    },
+    {
+      "author": "klustura",
+      "body": "What's IAS reply?\nAre you able to check that their trackers are in the VAST xml?",
+      "score": 1,
+      "created_utc": 1731603271.0
+    },
+    {
+      "author": "adraakwalichai",
+      "body": "They are just asking to test again and again but not able to get to any solution.\n\nYes, trackers are there in VAST XML in the bid response. \n\nAny idea if any specific parameter in bid request/response which affects/triggers tracking?",
+      "score": 1,
+      "created_utc": 1731603784.0
+    },
+    {
+      "author": "klustura",
+      "body": "So you can track imps and quartiles but IAS can't track anything?",
+      "score": 1,
+      "created_utc": 1731605423.0
+    },
+    {
+      "author": "adraakwalichai",
+      "body": "Yes",
+      "score": 1,
+      "created_utc": 1731605863.0
+    },
+    {
+      "author": "klustura",
+      "body": "This an IAS issue. If they can't even track imps, no chance they can track viewed.\n\nKeeping testing will do nothing. Just a waste of money.",
+      "score": 2,
+      "created_utc": 1731606922.0
+    }
+  ]
+}

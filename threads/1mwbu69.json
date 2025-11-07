@@ -1,0 +1,27 @@
+{
+  "id": "1mwbu69",
+  "title": "DV360 - Help with partner costs and revenue model",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mwbu69/dv360_help_with_partner_costs_and_revenue_model/",
+  "created_utc": 1755785037.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "HurricaneKim",
+      "body": "For your 1st question, your thought process is correct. The reseller will only charge you the media that’s run through your seat (inclusive of their fees) and the markup, the $110k from your example, is what you’d be invoicing your client.\n\nFor your 2nd question, the 15% fee the reseller charges you is generally baked into the media cost. So when you pull reporting for media cost, the 15% should already be baked in that. So in your example, if you put $100k as the budget for a campaign, $86,956 will go towards media and $13,044 will go to the reseller (X+0.15*X=$100K)\n\nAnybody please correct me if I’m wrong",
+      "score": 3,
+      "created_utc": 1755801469.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Most DV360 resellers these days enforce Media Fees on top of the base rate to account for their margin, that should be applied to any IO / LI that is run. The reseller should instruct you on where to apply it alongside the default platform fee that exists.",
+      "score": 1,
+      "created_utc": 1755865722.0
+    },
+    {
+      "author": "FaithlessnessIll9797",
+      "body": "thanks a lot for the explaination. From your numbers the correct way to calculate the available budget for imps buying is x= 100k/(1+reseller fee 15% in this case), right?",
+      "score": 1,
+      "created_utc": 1756116950.0
+    }
+  ]
+}

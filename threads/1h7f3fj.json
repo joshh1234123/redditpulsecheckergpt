@@ -1,0 +1,51 @@
+{
+  "id": "1h7f3fj",
+  "title": "In-Store Audio / Video CPMs for Retail Media Networks",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h7f3fj/instore_audio_video_cpms_for_retail_media_networks/",
+  "created_utc": 1733420994.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "bradbiederer",
+      "body": "The inventory you’re looking to purchase is either the audio played through the specifics of a specific store location and/or the video displays (TV screens, kiosks, etc…) also in store?",
+      "score": 1,
+      "created_utc": 1733422592.0
+    },
+    {
+      "author": "dimtone",
+      "body": "Our company leverages these and it's very differed between sources such as Walmart, Target, Amazon, etc",
+      "score": 1,
+      "created_utc": 1733432660.0
+    },
+    {
+      "author": "langsetm",
+      "body": "Yup! In-Store audio and video placements within an RMNs in-store network.\n\nThis might not typically be bought programmatically, but rather directly thru the RMN, but was hoping there might be a SME here.",
+      "score": 1,
+      "created_utc": 1733422670.0
+    },
+    {
+      "author": "langsetm",
+      "body": "Are you able to quote approx CPM and what drives the high and low end of the range?",
+      "score": 1,
+      "created_utc": 1733435534.0
+    },
+    {
+      "author": "bradbiederer",
+      "body": "Do you have a specific store/s you’re looking at? They all have their own unique RMN. Like Orange Apron for Home Depot or Walmart Connect",
+      "score": 2,
+      "created_utc": 1733423131.0
+    },
+    {
+      "author": "dimtone",
+      "body": "It depends, Costco for instance has a mandatory spend threshold.  Amazon can be pretty decent but again, it just depends on what kind of data you want...",
+      "score": 1,
+      "created_utc": 1733449593.0
+    },
+    {
+      "author": "langsetm",
+      "body": "Ideally looking for any rough baseline CPM intel from the primary RMNs with this capability, not many are leveraging it, I don't believe.",
+      "score": 2,
+      "created_utc": 1733423476.0
+    }
+  ]
+}

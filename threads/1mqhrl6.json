@@ -1,0 +1,15 @@
+{
+  "id": "1mqhrl6",
+  "title": "Pacing Dashboard",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mqhrl6/pacing_dashboard/",
+  "created_utc": 1755216213.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "CharacterTutor2",
+      "body": "I would suggest Looked since the set up isn’t too labor intensive. I’ve also worked in places where were Domo/Tableau was used but it would end up clunky or you should only get top level data in a single dashboard. But I don’t think there’s a perfect solution tbh. Since all of these data sources are different there’s going to be some difficulty in getting everything in one place. Your best bet would probably be to unify everything under a common naming convention and try from there with whatever DMP you end up choosing. ",
+      "score": 2,
+      "created_utc": 1755466891.0
+    }
+  ]
+}

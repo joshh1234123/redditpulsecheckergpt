@@ -1,0 +1,177 @@
+{
+  "id": "1h65rtk",
+  "title": "Mntn SSP",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1h65rtk/mntn_ssp/",
+  "created_utc": 1733280398.0,
+  "num_comments": 28,
+  "comments": [
+    {
+      "author": "mrgoobmanager",
+      "body": "They white label beeswax! Why is this all so confusing!!?!",
+      "score": 23,
+      "created_utc": 1733283566.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Look up steelhouse which was MNTNs name a few years ago before they decided to shed their shady skin.\n\nThey're doing all sorts of untrustworthy things, you'd be better off buying thru a reseller or DSP direct, especially considering they only sell a few types of media.",
+      "score": 17,
+      "created_utc": 1733290935.0
+    },
+    {
+      "author": "neverbeentoidaho",
+      "body": "They buy across numerous ssps but in 1:1 fashion with the publisher. My guess is they consider the ssp irrelevant since they are not using curated marketplaces to access inventory, like others may.",
+      "score": 9,
+      "created_utc": 1733280782.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "MNTN - very good branding, shitty results and traffic.",
+      "score": 9,
+      "created_utc": 1733320649.0
+    },
+    {
+      "author": "ImANobodyWhoAreYou",
+      "body": "They’re full of shit, just ask how their attribution works",
+      "score": 7,
+      "created_utc": 1733317899.0
+    },
+    {
+      "author": "QuesoOverEverything",
+      "body": "They could very well mean that they work directly with Comcast but buy inventory via their supply leg FreeWheel. I’d pretty much guarantee that’s what they mean, but yeah - they’re using an SSP 😂",
+      "score": 5,
+      "created_utc": 1733282667.0
+    },
+    {
+      "author": "Massive_Travel_3856",
+      "body": "Glad im not the only one who thinks they are shady af! Their premium living room quality inventory is only as such because they use text transforms to take the actual inventory identification then rename it to whatever tf they want then display it in a new column field they made up called “Network Name”. They dont reveal app name, app id, deal id, publisher name, or site/url raw data that would be available through TTD’s API or batch reports.  Most of the impression inventory and budget goes to “Network Name” “NBC” which seems like a pretty big catch-all.",
+      "score": 5,
+      "created_utc": 1733369174.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "To my knowledge they white label other DSPs and yes would largely need to activate via SSPs. SSPs aren’t totally necessary as evidenced by TTD and Tubi and soon to be Spotify. But it’s rare not to use them right now",
+      "score": 7,
+      "created_utc": 1733282343.0
+    },
+    {
+      "author": "Jamesatwork16",
+      "body": "Stackadapt and Simplifi can accomplish what MNTN can do with a lot more options as well.  They also have low or no minimums.",
+      "score": 3,
+      "created_utc": 1733328055.0
+    },
+    {
+      "author": "Significant_Design17",
+      "body": "Go for a real dsp, not many out there these days. One or two independents with lower minimums, less bells and whistles and the typical big players with high minimums, more features.",
+      "score": 2,
+      "created_utc": 1733376010.0
+    },
+    {
+      "author": "Ornery_Head_188",
+      "body": "\"MNTN sources its Connected TV (CTV) advertising inventory from over 150 premium streaming TV networks, ensuring that ads are delivered on well-known and trusted platforms.\" is the sales pitch. \n\nMNTN partners with supply-side platforms (SSPs) like Magnite, which provide access to top-tier publishers and premium inventory. [Magnite](https://www.magnite.com/blog/qa-how-mntns-ctv-strategy-tackles-challenges-with-magnite/?utm_source=chatgpt.com) \n\nThat said, what is under the hood, is probably Beeswax, which is now part of FreeWheel which runs it's own CTV marketplace.  In that CTV marketplace TTD drives a significant amount of demand. \n\nWhat makes this interesting, is that FreeWheel is still a hugely popular CTV adserver for CTV publisher.\n\nRegardless they have a team that supports PMP deals, yet doesn't have the meaningful demand-clout to get ROAS impact.",
+      "score": 1,
+      "created_utc": 1733494090.0
+    },
+    {
+      "author": "p_romo",
+      "body": "I know I shouldn't but I keep seeing these Mountain threads so Ima throw out a sales pitch here -- \n\n\n\nWe have a platform that does everything Mtn does: Performance based with lower CPMs, much lower minimums, we do not force you to buy display ads, 100% CTV (or you can choose the mix) Slice and dice the reporting a million different ways. You can even pick your pubs. We don't have Ryan Reynolds though, so there's that.",
+      "score": 1,
+      "created_utc": 1733580934.0
+    },
+    {
+      "author": null,
+      "body": "Because they used big words to confuse the shit out of poor OP. But yeah, it’s Beeswax",
+      "score": 16,
+      "created_utc": 1733284204.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 2,
+      "created_utc": 1733329403.0
+    },
+    {
+      "author": "yeaboiiiiiiiiii213",
+      "body": "Are they just doing pmp’s and preferred deals directly with the pubs?",
+      "score": 1,
+      "created_utc": 1733281308.0
+    },
+    {
+      "author": "Ok_Impression_564",
+      "body": "He tried to explain it, but it didn’t really make sense. They are doing their optimizations off last view attribution correct?",
+      "score": 2,
+      "created_utc": 1733321088.0
+    },
+    {
+      "author": "Ok_Impression_564",
+      "body": "Wow they don’t reveal app name, deal id, or publisher name?\n\nWhat do they report on then?",
+      "score": 3,
+      "created_utc": 1733375808.0
+    },
+    {
+      "author": "Massive_Travel_3856",
+      "body": "Also… they are now about a Billion dollar company with backing from Blackrock. They can pretty much do whatever tf they want and get away with it… including outspend a terrible reputation.",
+      "score": 2,
+      "created_utc": 1733369401.0
+    },
+    {
+      "author": "waltima",
+      "body": "Don’t they white label TTD and thus have direct access to any direct pub deals available to them there?",
+      "score": 2,
+      "created_utc": 1733282614.0
+    },
+    {
+      "author": null,
+      "body": "[deleted]",
+      "score": 1,
+      "created_utc": 1733721476.0
+    },
+    {
+      "author": "mrgoobmanager",
+      "body": "Honestly, there is money in making this more confusing. That is why it is confusing.",
+      "score": 11,
+      "created_utc": 1733285046.0
+    },
+    {
+      "author": "neverbeentoidaho",
+      "body": "That’s my understanding based on publisher conversations I’ve had. At least they are with the big players.",
+      "score": 1,
+      "created_utc": 1733306283.0
+    },
+    {
+      "author": "OrdinaryInside8",
+      "body": "Yes and they spam out a ton of display impressions to the market you’re advertising in, to get coverage and then claim attribution…it’s smoke and mirrors…if you’re impressed with fancy graphs and reporting it will work…if you want real ROI….move on",
+      "score": 9,
+      "created_utc": 1733322088.0
+    },
+    {
+      "author": "Massive_Travel_3856",
+      "body": "Their own made up “network name”, which is a proprietary process that converts that raw data (app/deal/pub) into a recognizeable network category that they can control.",
+      "score": 1,
+      "created_utc": 1733428801.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": " Not sure if they still do or not. Steelhouse, who they acquired IIRC, did for sure.",
+      "score": 1,
+      "created_utc": 1733282719.0
+    },
+    {
+      "author": "p_romo",
+      "body": "Yes. That is available.",
+      "score": 1,
+      "created_utc": 1733754717.0
+    },
+    {
+      "author": "yeaboiiiiiiiiii213",
+      "body": "Lordy so basically just a reseller of pubs inventory but it cuts out all of the middle men fees associated with running through DSP’s",
+      "score": 2,
+      "created_utc": 1733324003.0
+    },
+    {
+      "author": "cordmahl",
+      "body": "By definition a reseller is a middleman.",
+      "score": 1,
+      "created_utc": 1733550897.0
+    }
+  ]
+}

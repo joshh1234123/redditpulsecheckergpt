@@ -1,0 +1,39 @@
+{
+  "id": "1lcuhkb",
+  "title": "Why can CTR most of the time be considered a vanity metric? Does optimizing for CTR lead to serving on junk inventories?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lcuhkb/why_can_ctr_most_of_the_time_be_considered_a/",
+  "created_utc": 1750084617.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "dortenzio1991",
+      "body": "Nobody clicks on ads on purpose",
+      "score": 8,
+      "created_utc": 1750116447.0
+    },
+    {
+      "author": "rgm-na",
+      "body": "I haven’t seen an Advertiser use CTR as an optimization metric in years. I still CPC occasionally.",
+      "score": 5,
+      "created_utc": 1750115553.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Instead of trying to act smart, why not take a look at this article: https://getrecast.com/vanity-metrics/??? It might help you start building a real digital marketing culture...",
+      "score": 0,
+      "created_utc": 1750362590.0
+    },
+    {
+      "author": "Acceptable_Hamster40",
+      "body": "Maybe you do! In my experience, even major brands and agencies sometimes use CTR as their primary metric and optimize campaigns for clicks. The debate between vanity metrics and actionable metrics shouldn't be overlooked. Focusing on actionable metrics takes time and effort, but it's worth the investment.",
+      "score": 0,
+      "created_utc": 1750248764.0
+    },
+    {
+      "author": "rgm-na",
+      "body": "Your points are all valid. What I’m saying is that most clients moved away from CTR years ago after recognizing its flaws. I started making that case when dynamic CPMs became the norm—it was easy to show that if they asked me to optimize for CTR, all I had to do was bid higher on the same inventory that was already performing.",
+      "score": 1,
+      "created_utc": 1755015751.0
+    }
+  ]
+}

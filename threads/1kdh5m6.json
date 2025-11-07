@@ -1,0 +1,33 @@
+{
+  "id": "1kdh5m6",
+  "title": "Line item granularity best practices",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1kdh5m6/line_item_granularity_best_practices/",
+  "created_utc": 1746234978.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "HuskyInfantry",
+      "body": "I mean yeah that’s pretty ridiculous. At this point I don’t even think it matters what DSP you’re using, but that level of granularity would annoy me too. I can only assume you’re doing this to gather more learnings— and if that’s the case, you can pull this from reporting with a more consolidated approach. \n\n  \nBreaking out by audience makes sense. \n\n  \nBreaking out by in-stream vs out-stream *could* make sense.. but it’s mostly unnecessary. Why would anyone prefer outstream? Just bid more on in-stream or exclude out-stream. \n\n  \nSegmenting by device type is purely psychotic unless there’s an extremely specific scenario that warrants it. \n\nThink about it— why do you care which device an ad serves on? We’re chasing an audience, not a device (in most general cases). \n\nLet the banners do their thing across devices. Most DSPs allow for some sort of pre-bid modification about device priority (or at least TTD does). \n\nBut segmenting them out by line item will make reporting an absolute nightmare— again, think about it dude:\n\n  \nPRO: In-stream OLV\n\nPRO: In-stream OLV Mobile\n\nPRO: In-stream OLV Desktop\n\n…\n\nPRO: Out-stream OLV\n\nPRO:  Out-stream OLV Mobile\n\n… \n\n  \nAll for ONE audience lol. I would throw my computer out the window if I was doing reporting for that.",
+      "score": 11,
+      "created_utc": 1746241935.0
+    },
+    {
+      "author": "Narrow_Cup_256",
+      "body": "It really depends on the DSP you are using and the limitations the reporting is inheriting. For instance DV360 has certain limitations in reporting different audiences, which is why I would recommend to split line items on audience-level if that is something you want to report and optimize on.\nBottom line is to just follow the granularity that really helps you in terms of optimization and not confuse it with an urge of overanalyzing.",
+      "score": 2,
+      "created_utc": 1746245506.0
+    },
+    {
+      "author": "Cleopatra435",
+      "body": "What are your goals? We see better reach and CPMs from consolidation and tight frequency settings. Which platform are you using to buy?? Most have features to help prioritize inventory or devices so you can consolidate but still have the ability to optimize using bids and priority settings. \n\nIf you need feasibility for measurement studies, granularity might be necessary. \n\nAll part of the fun of being a media buyer is continually testing and learn the best way to execute campaigns",
+      "score": 1,
+      "created_utc": 1746241261.0
+    },
+    {
+      "author": "GrizzledWizard",
+      "body": "Depends on your DSP, but on most Tier 1 DSP's you should have the ability to optimize, control bids, and view performance on all of those grains within the ad group. So from a performance perspective there isn't any real reason to break them out unless the client has mandated specific budgets for each, since the only real way to dictate spend/budgets is at the ad group level.\n\n  \nGenerally you want channels broken out separately, since creative formats are different and performance can vary widely within each grain. Then you typically will want audiences broken out since you probably want to control spend and optimize more granularly for each audience.\n\nFrom strictly an auto-opt perspective there isn't really any benefit to having fewer line items, but there really isn't any benefit to having more either. I would also pushback for wanting it broken out that way.",
+      "score": 1,
+      "created_utc": 1747088226.0
+    }
+  ]
+}

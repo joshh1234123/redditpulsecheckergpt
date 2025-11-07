@@ -1,733 +1,1057 @@
 {
   "discussions": [
     {
+      "id": "1joy6pp",
       "title": "Google Ad Manager - help with the %%PATTERN:key%% macro",
       "author": "International_You581",
-      "score": 4,
+      "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1joy6pp/google_ad_manager_help_with_the_patternkey_macro/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1joy6pp/google_ad_manager_help_with_the_patternkey_macro/",
       "created_utc": 1743520743.0,
       "content": "Hi everyone,\n\n**Context** \\- I do my media buying in GAM and I work with a third party company for my DCO campaigns. They send me javascript ad tags split per format and per audience segment that I integrate into my campaign. The creatives are adserved on their end. Right now, I tend to have one line item split per format and per audience segment (Line item 1 - Car intent, Line item 2 - Electric cars, Line item 3 - Diesel, and so on) as I have different creatives for each segment. Sometimes the images will change, or the text inside, or both.\n\n**Goal** \\- I am trying to optimise the number of my Line items by not splitting them per audience segment. The goal is to have one Line item for my 300x250 (for example) and put all my audience segments inside.\n\n**Problem** \\- I don't know how I can send the info to the third party company so they know which ad to show to the user. How would they know to show the Car intent creative vs the Electric cars one? Are there any GAM macros that can be used to pass on this information? I saw the %%PATTERN:key%% macro and I think that might be the answer, but I don't quite understand how that works. Any help would be greatly appreciated and sorry if there's information that's missing. Do let me know if you need clarifications 🙏\n\nThanks!",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jp2tem",
       "title": "How to buy CTV inventory without minimum spend requirements?",
       "author": "jomafro",
-      "score": 18,
+      "score": 20,
       "url": "https://www.reddit.com/r/programmatic/comments/1jp2tem/how_to_buy_ctv_inventory_without_minimum_spend/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jp2tem/how_to_buy_ctv_inventory_without_minimum_spend/",
       "created_utc": 1743531840.0,
       "content": "Hi, so I'm new here - sorry if this has been asked before. I work at a medium sized nonprofit and we're looking to place some CTV ad buys. We've been told by the agency we work with (who uses DV360 and TTD) that they won't run anything for us without a $200K minimum ad spend commitment. Obviously, that's a bit steep for us - so is there a platform / DSP I can access on my own (whether paid or unpaid) that I could go around the agency and buy CTV placements on our own? Would there still be minimum spend requirements even in these cases? Would love to learn more. Thanks to any kind programmatic person who knows more about CTV than I do :)",
-      "num_comments": 65
+      "num_comments": 65,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jppe21",
       "title": "What is Troubleshooter in DV360? Also, need a brief explanation of Prebid, Targeting, Creatives, and Audiences.",
       "author": "GladDebate5022",
-      "score": 3,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1jppe21/what_is_troubleshooter_in_dv360_also_need_a_brief/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jppe21/what_is_troubleshooter_in_dv360_also_need_a_brief/",
       "created_utc": 1743602712.0,
       "content": "Hey everyone,\n\nI’m trying to understand more about DV360 and came across different terms like Troubleshooter, Prebid, Targeting, Creatives, and Audiences.\n\t•\tCan someone explain what Troubleshooter is and how it helps in DV360?\n\t•\tAlso, I’d appreciate a brief explanation of Prebid, Targeting, Creatives, and Audiences in the context of DV360.\n\nLooking forward to your insights! Thanks in advance.",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jq6a57",
       "title": "How would a service tariff on the US affect our industry?",
       "author": "Upset_Collar9364",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1jq6a57/how_would_a_service_tariff_on_the_us_affect_our/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jq6a57/how_would_a_service_tariff_on_the_us_affect_our/",
       "created_utc": 1743645283.0,
       "content": "",
-      "num_comments": 19
+      "num_comments": 19,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jqjbnp",
       "title": "DV360/CM360 Macro Issue",
       "author": "mcpapaya",
-      "score": 5,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1jqjbnp/dv360cm360_macro_issue/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jqjbnp/dv360cm360_macro_issue/",
       "created_utc": 1743689108.0,
       "content": "Hey folks,\n\nso we've been using DV360 macros to pull Line Item IDs into our UTMs with Key Value Pairs in CM360 like mentioned here:\nhttps://www.reddit.com/r/programmatic/comments/xq759q/testing_dv360_macros_in_cm360/\n\nWorked fine for months and years, but since a few weeks it pretty much stopped working. Just getting back $%7BCAMPAIGN_ID%7D in Analytics.\n\nAnybody else has similar issues? Anybody with a solution maybe? :-D We didn't make any larger changes that could be responsible for the issue. Maybe it's just Google being Google and they changed something without saying anything again lol.",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jqkx2v",
       "title": "Rant: Ai is just getting started, but I'm sick of hearing about it.",
       "author": "OrdinaryInside8",
-      "score": 38,
+      "score": 36,
       "url": "https://www.reddit.com/r/programmatic/comments/1jqkx2v/rant_ai_is_just_getting_started_but_im_sick_of/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jqkx2v/rant_ai_is_just_getting_started_but_im_sick_of/",
       "created_utc": 1743692900.0,
       "content": "We all know Ai exists...but I'm already sick of seeing every company in this space preach about their platform being Ai driven.....When the news broke that Google was going to do away with Cookies, suddenly every company in this space was offering \"cookie less\" solutions in 6 months (where were they for years before when cookie deprecation was already a prevalent issue). \n\nNow it's transitioned to Ai, Ai, Ai...you look under the hood for 5 seconds and you can see the same hamster running on the wheel....All this does is hurt the marketers because most don't have the bandwidth to differentiate whose offering real innovative technology versus whose just slapping up marketing material. \n\n  \nI know it's been like this for a long time, but I feel like it's getting worse. \n\n  \nrant over, back to work. ",
-      "num_comments": 11
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jqzjbj",
       "title": "DV + Deman Gen Fee",
       "author": "tomgoge",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1jqzjbj/dv_deman_gen_fee/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jqzjbj/dv_deman_gen_fee/",
       "created_utc": 1743728469.0,
       "content": "Hey everyone, we're currently using Xandr ath the place I work at, but there is a small gap of opportunity that we can switch to DV360 and get a reseller seat. \n\nIn order to do that, I need to know if the whole spend of the campaigns have the fee we all know there is. Do the new Deman Gen include that fee as well? Please, if possible, can anyone supply me with some documentation about that? I can't find it.\n\n  \nSo, if there is a small gap is that.",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jr3tie",
       "title": "Anyone own a Programmatic Agency?",
       "author": "WarMinute4152",
-      "score": 24,
+      "score": 23,
       "url": "https://www.reddit.com/r/programmatic/comments/1jr3tie/anyone_own_a_programmatic_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jr3tie/anyone_own_a_programmatic_agency/",
       "created_utc": 1743742253.0,
       "content": "Hey everyone. Just curious if anyone has found any success with running a Programmatic Agency? How do you acquire leads, and how do you manage pricing?\n\nMarket wise, what are your thoughts on the demand for such a service?",
-      "num_comments": 21
+      "num_comments": 21,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jr6av4",
       "title": "Netflix Ads - Invest DSP Deals Disappeared",
       "author": "_Working_Mom_",
-      "score": 14,
+      "score": 13,
       "url": "https://www.reddit.com/r/programmatic/comments/1jr6av4/netflix_ads_invest_dsp_deals_disappeared/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jr6av4/netflix_ads_invest_dsp_deals_disappeared/",
       "created_utc": 1743752196.0,
       "content": "Without notice, the PMP deals for our Netflix campaigns disappeared on 4/1/25. Campaigns stopped. We are scrambling and I am livid!! Why didn’t Microsoft / Invest tell us?? Did they not know either?? We are trying to get in touch with Netflix Ads but don’t have much hope. TTD minimums are too steep. We knew Netflix was working on their own Ad Studio but thought there would be a responsible transition. Anyone else going through this? ",
-      "num_comments": 13
+      "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jrcwwu",
       "title": "Looking for Adx Approval",
       "author": "Consul_parth",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1jrcwwu/looking_for_adx_approval/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jrcwwu/looking_for_adx_approval/",
       "created_utc": 1743776084.0,
       "content": "Hey Guys,\n\nI have a new websites ( adsense approved) and I am looking for  adx approval \n\n",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jrgapl",
       "title": "Decision Power Fluctuation",
       "author": "bobthunicorn",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1jrgapl/decision_power_fluctuation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jrgapl/decision_power_fluctuation/",
       "created_utc": 1743784566.0,
       "content": "Hi guys,\n\nWe recently launched a pretty narrow geo-targeted test with some audiences layered on. Yesterday, our decision power was at 90+. Today, our decision power is at 0 with no changes. My assumption up front is that it has to do with frequency capping, but I'm not certain of this.\n\nI'm not necessarily looking for a specific answer. Rather, is there a specific place I can look in Kokai to understand what specific aspect is currently constraining our ad group?",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jrh6wc",
       "title": "TLDR: Week in Review - Advertising's Top Stories about Bots, AI, SVOD & More!",
       "author": "data_spy",
-      "score": 29,
+      "score": 28,
       "url": "https://www.reddit.com/r/programmatic/comments/1jrh6wc/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jrh6wc/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1743786797.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* Ad verification providers under Congressional scrutiny for failing to filter out bots\n* Amazon offering aggressive DSP pricing incentives to agencies willing to shift spend\n* Spotify launched its first programmatic ad exchange with major DSP integrations\n* AI search revolution threatening traditional search ad inventory and publisher traffic\n* 22% of Netflix users now choosing ad-supported tiers over premium options\n* Several major brands allocating token ad budgets to X despite platform controversies\n* WPP has acquired InfoSum\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-442025)\n\nWhat advertising trends are you watching this week?",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jrwhv1",
       "title": "Boosting Ctr in Dv360",
       "author": "GladDebate5022",
-      "score": 8,
+      "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1jrwhv1/boosting_ctr_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jrwhv1/boosting_ctr_in_dv360/",
       "created_utc": 1743831710.0,
       "content": "Hey guys,\n\nWe’re running a display campaign in DV360 (non-guaranteed deal) and added some extra targeting in the platform. But last month, our CTR goal was 1.25%, and we barely hit 0.25% way off the mark.\n\nAny tips on how to improve this? What’s worked for you in similar situations? Open to any suggestions!",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1js8mi8",
       "title": "How can I get DV360 seat? Any reseller",
       "author": "MasterMinndd",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1js8mi8/how_can_i_get_dv360_seat_any_reseller/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1js8mi8/how_can_i_get_dv360_seat_any_reseller/",
       "created_utc": 1743873906.0,
       "content": "Hi! I’m looking for DV360 reseller for our client campaign. Do let me know if anyone can help me.",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jse8li",
       "title": "Insane that DV360 is removing bid modifiers next month.",
       "author": "Dull-Formal-7976",
-      "score": 34,
+      "score": 35,
       "url": "https://www.reddit.com/r/programmatic/comments/1jse8li/insane_that_dv360_is_removing_bid_modifiers_next/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jse8li/insane_that_dv360_is_removing_bid_modifiers_next/",
       "created_utc": 1743888695.0,
       "content": "https://preview.redd.it/6rbv6y0a43te1.png?width=1226&format=png&auto=webp&s=e0ba8f31dff837a49e8fe22d3e0bbbecd194f855\n\nthey seem hell bent on not offering features that are table stakes in every other DSP",
-      "num_comments": 15
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jseuhu",
       "title": "remote work in programmatic WW",
       "author": "ScaryChampionship708",
-      "score": 5,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1jseuhu/remote_work_in_programmatic_ww/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jseuhu/remote_work_in_programmatic_ww/",
       "created_utc": 1743890419.0,
       "content": "I love working in programmatic or at least in media agencies planning and running campaigns. But it seems that the remote jobs season has ended and companies are heading all workers to office 5 days a week again.\n\nWorking from home for me is a no negotiating benefit, but I lost it when changing towards a new company two months ago.\n\nI'm starting to regret for that and wonder where could I find programmatic traders or similar positions to work from anywhere in Europe.\n\nDo any of you guys have ideas about this?",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jt0lju",
       "title": "Media Plan examples",
       "author": "Bestofottawa",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1jt0lju/media_plan_examples/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jt0lju/media_plan_examples/",
       "created_utc": 1743963388.0,
       "content": "I'm wondering if there's a source of media plan examples to review . Obviously every one is different but it would be great to see some \\*client redacted\\* examples of whats gettiing included what's being left out , etc. without the filter of someone trying to sell you a service\n\n",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jt42vm",
       "title": "Want to gain knowledge about CTV",
       "author": "ProgrammaticNoob",
       "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1jt42vm/want_to_gain_knowledge_about_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jt42vm/want_to_gain_knowledge_about_ctv/",
       "created_utc": 1743972390.0,
       "content": "Hey guys! \n\nStill new to the industry but I was wondering if anybody had any resources/podcasts/newsletters etc where I can learn about CTV\n\nExtra helpful would be insight on how Samsung/LG Ads work",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jt9kvi",
       "title": "Taboola",
       "author": "theBeerWeasel",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1jt9kvi/taboola/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jt9kvi/taboola/",
       "created_utc": 1743988569.0,
       "content": "Hello! I am going to be working with a partner who uses taboola heavily, but I don’t have any experience working with them.\n\nI looked through the website and it looks like they’re doing native kinds of ads across news high quality pubs?\n\nWhat’s cool about Taboola product, what makes what they do with display interesting, and what’s could potentially be challenging?\n\nAppreciate any insight you can share!",
-      "num_comments": 20
+      "num_comments": 20,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jtks07",
       "title": "Any advice before starting out in programmatic?",
       "author": "sirwinsalot60",
       "score": 15,
       "url": "https://www.reddit.com/r/programmatic/comments/1jtks07/any_advice_before_starting_out_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jtks07/any_advice_before_starting_out_in_programmatic/",
       "created_utc": 1744031130.0,
       "content": "Hello Marketers!\n\nI'm a 26 y.o Female, have a master's degree in Digital Marketing. I've been working since I was 19, so i have about 6-7 years of corporate experience. My current role is operations and marketing for a small company owned by a relative of mine. \n\nI want to shift careers and I'm interested in programmatic. I've been applying to these reputable companies like Publicis, GroupM, Omnicom....in Lebanon. The reason is because I'm sick of the lack of professional growth in my current situation. \n\nI've never worked in programmatic, the concept is very fresh to me. But I've been doing some research, and it looks like a fairly easy thing to do but only requires being \n1. Tech savvy with the software \n2. Have an analytical POV for things \n\nWould you be so kind to share some tips/industry wisdom that can help me get a better understanding of programmatic? I hope to gain more knowledge so that I can showcase it confidently in the job interviews I hope to do in the future. Any words will help, thank you!",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jtp6vn",
       "title": "Accessing YouTube TV inventory through Google Ads",
       "author": "MediaBuyStrat",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1jtp6vn/accessing_youtube_tv_inventory_through_google_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jtp6vn/accessing_youtube_tv_inventory_through_google_ads/",
       "created_utc": 1744042587.0,
       "content": "Besides targeting full screen devices, is there any other kind of targeting or settings that would increase the chances of accessing that inventory?",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jtqdcb",
       "title": "‘App’ as a dimension in CM360 should report on CTV apps - right?",
       "author": "Desperate-Eye-2830",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1jtqdcb/app_as_a_dimension_in_cm360_should_report_on_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jtqdcb/app_as_a_dimension_in_cm360_should_report_on_ctv/",
       "created_utc": 1744045465.0,
       "content": "I pulled a report with the ‘App’ column, and I swear it used to show CTV apps where impressions served. It is showing (not set) for everything. Did Google change something? Or is something wrong with our buy?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jtzvdv",
       "title": "Transition from Agency Life",
       "author": "Gullible_Attitude_20",
-      "score": 11,
+      "score": 10,
       "url": "https://www.reddit.com/r/programmatic/comments/1jtzvdv/transition_from_agency_life/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jtzvdv/transition_from_agency_life/",
       "created_utc": 1744069531.0,
       "content": "Reaching out to see if there’s others in my position that could offer some advice / thoughts / guidance on this topic.\n\nI’m 31 (F) who has been agency life the whole time (9 years) and I currently manage the product suite / offerings for our agency. I evaluate our tech / partner stacks, onboard new vendors, apply new industry trends into our buying methodologies, evaluate business margins, etc. I’m a bit of a ‘jack of all trades’ - I understand most aspects of the larger digital landscape, worked in the ad tagging / GTM space for a bit, account management work, oversee programmatic media buys, etc. but the MAIN thing I haven’t done is hands on keyboard buying. Currently my job is to ensure that our agency product suite is profitable, driving results and keeping up with industry changes.\n\nI love my current product role, but I’m trying to work out how I transition my experience into a role that’s outside of agency life in the future. Do I need to have hands on keyboard buying experience to go client / vendor side or can you get roles on media teams with my kind of experience?\n\nAppreciate any help or guidance - feeling a bit ‘lost in the sauce’ at the moment, especially since I don’t want to do the agency life forever.",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jualhe",
       "title": "The Programmatic (Open Market) Future is Allowlists First",
       "author": "mcpapaya",
       "score": 19,
       "url": "https://www.reddit.com/r/programmatic/comments/1jualhe/the_programmatic_open_market_future_is_allowlists/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jualhe/the_programmatic_open_market_future_is_allowlists/",
       "created_utc": 1744109316.0,
       "content": "Blocklists have always been hard to maintain, and AI will only rocket fuel fraudsters by pushing more and more MFA (made-for-advertising) websites and other nonsense into the programmatic ecosystem. No matter how good your safety & quality measures in place are, the bad guys are one step ahead most of the time.\n\nAllowlists allow you to gain substantially more control over:\n\n1️⃣ (True) Inventory Quality\nhand-picked, performance based inventory will push your inventory quality to a new level — moving beyond vanity metrics that can be easily manipulated by bots & fraudsters (like Clicks/CTR) to true business outcomes\n\n2️⃣ Brand Safety/Suitability & Ad Fraud\nyou can’t control the incoming flood with a blocklist approach, once you’ve updated your blocklists there will be new malicious pages on the horizon immediately after — it’s a game you can’t win, not even talking about the time effort here\n\n3️⃣ Carbon Emissions\ntools & services like Scope3 allow you to measure carbon emissions produced by the Apps/URLs within your campaigns (gCO2PM — average grams of carbon per 1000 impressions) — making your programmatic Allowlists greener, normally goes hand in hand with improved performance, since it washes out slow & bloated pages with high ad density & refresh frequency — that’s a win/win\n\n🤔 But aren’t Allowlists limiting my potential reach?\n\nBased on my learnings this shouldn’t be your concern, there is a lot of good quality inventory out there, which is normally way higher than the advertisers’ budget buckets. Don’t get me wrong — the long tail definitely has its raison d’être, but please be aware of the insane amount of bullshit which is still living inside the programmatic ecosystem — don’t fall into this trap.\n\n👀 So, how do I start my Allowlist journey?\n\n1️⃣ Deep-Dive Reports from existing campaigns:\n- which Apps/URLs deliver post-view/click value?\n- which of them do deliver it in a good relation? (CPA/ROAS/Scalability)\n- Clicks/CTR/Viewability/VTR alone are not enough, they can be used as a secondary metric, but bots are trimmed to fake just that as good as possible — focus on true business value\n\n2️⃣ Research:\n- which premium websites/portals/apps are there in my target market?\n- which niche websites/portals/apps are there in my target market?\n- always think locally AND globally\n- leverage AI to support your (deep) research\n\n3️⃣ Manual Checks — you have to form your own opinion for each website:\n- how is the page speed?\n- how many placements are there (ad-density)?\n- how often are those placements refreshing?\n- how is the overall content-/website-quality?\n\nWhat do you think about the future of the open market?",
-      "num_comments": 23
+      "num_comments": 23,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jufekr",
       "title": "Vendors for custom B2C segments",
       "author": "Dull-Formal-7976",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1jufekr/vendors_for_custom_b2c_segments/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jufekr/vendors_for_custom_b2c_segments/",
       "created_utc": 1744123772.0,
       "content": "hi all,\n\n  \nLooking for a vendor to curate a custom segment for competitive conquesting against different vendors on Dv360. Thoughts?\n\n",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jugir0",
       "title": "Anyone here have experience with dataseat mobile dsp?",
       "author": "ryans91",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1jugir0/anyone_here_have_experience_with_dataseat_mobile/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jugir0/anyone_here_have_experience_with_dataseat_mobile/",
       "created_utc": 1744126532.0,
       "content": "Just curious if anyone has any experiences / thoughts on dataseat for performance buys. Is their tech in-house or is it just another WL DSP? How are their fees for self-serve?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jugvmf",
       "title": "Outreach?",
       "author": "Careful_Ad_9057",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1jugvmf/outreach/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jugvmf/outreach/",
       "created_utc": 1744127427.0,
       "content": "If you work with a managed service partner for Programmatic, including CTV- what would make you open and respond to an email from a new vendor?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1juiwp9",
       "title": "DV360 BRAND LIFT STUDIES",
       "author": "GladDebate5022",
-      "score": 6,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1juiwp9/dv360_brand_lift_studies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1juiwp9/dv360_brand_lift_studies/",
       "created_utc": 1744132420.0,
       "content": "Hey everyone,\n\nI’m exploring Brand Lift Studies in DV360, and I’d love some insights. I understand that Brand Lift helps measure the impact of video and display ads on brand awareness, consideration, and ad recall, but I’d like to dig deeper.\n\t1.\tHow exactly does DV360’s Brand Lift Study work?\n\t2.\tWhat are the best practices to ensure accurate results?\n\t3.\tHave you found it useful for optimizing campaigns?\n\t4.\tAny case studies, articles, or video resources you’d recommend?\n\nAppreciate any guidance from those who’ve used it before!",
-      "num_comments": 15
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jus7b5",
       "title": "Agency/Internal POV on DV360 for Audio & Podcast",
       "author": "mmimedia6960",
-      "score": 6,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1jus7b5/agencyinternal_pov_on_dv360_for_audio_podcast/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jus7b5/agencyinternal_pov_on_dv360_for_audio_podcast/",
       "created_utc": 1744156191.0,
       "content": "Hey friends - I’m looking to see if anyone has access to an internal pov / recommendation on the pros/cons of using DV360 to buy audio and video podcasts. \nOutside of knowing that it’s the only way to access that podcast inventory programmatically. Has anybody run audio/video podcast campaigns in DV360 that could shed some light?\n\nTBH I’m not a Google fan in general, but it’s becoming more and more of a must have if we need to access that inventory. \n\nHow’s the targeting and reporting pass back? Can we get series/show/episodic pass back? \nAnyone heard of them trying to mimic DAI/SAI but in video? I’m skeptical about how that would even work. (It’s easy enough in podcast and streaming but not in video). \n\nSo I’m putting this out in the ether in hopes of bringing together the brain trust to assist in creating a POV for our agency. \n\n(I’ll also share the final POV back with you guys, if you’re interested.)\n",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jvb9vg",
       "title": "Programmatic OOH - UK",
       "author": "Don_Scott_92",
-      "score": 7,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1jvb9vg/programmatic_ooh_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jvb9vg/programmatic_ooh_uk/",
       "created_utc": 1744219153.0,
       "content": "Anyone know any good programmatic DOOH companies for the UK market? They have to have at least reasonable inventory availability.",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jvcot8",
       "title": "View-Through Conversion Details (TTD)",
       "author": "bangotraphouse",
-      "score": 3,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1jvcot8/viewthrough_conversion_details_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jvcot8/viewthrough_conversion_details_ttd/",
       "created_utc": 1744222542.0,
       "content": "Hey all - looking for anyone that can help me figure out some reporting inside of The Trade Desk. I am looking to see how to decipher the view-through conversion details on our campaign.\n\nIs there a way to drill down on any sort of IP/User ID to determine total number of people who saw our ad and returned to the website, rather than the total number of page views that we got from people that have seen our ads. \n\nCan anyone with TTD experience help with this? Thanks in advance.",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jvjqrv",
       "title": "Looking for programmatic opportunities",
       "author": "alittledumb0",
-      "score": 9,
+      "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1jvjqrv/looking_for_programmatic_opportunities/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jvjqrv/looking_for_programmatic_opportunities/",
       "created_utc": 1744240691.0,
       "content": "I have an experience of almost 3 years with DSPs like DV360, TTD and Amazon DSP. \nComplete end to end campaign management. \n\nI am planning to switch due to certain circumstances. \n\nPlease let me know if anyone knows of any openings. Would help me a lot. \n\nLocation - India \n\nThank you!",
-      "num_comments": 20
+      "num_comments": 20,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jvs0fq",
       "title": "“By adding layers of complexity, costs, and proprietary systems, TTD is building an ecosystem that’s practically impenetrable unless you play by their rules”",
       "author": "el_tigre_de_mostaza",
-      "score": 29,
+      "score": 28,
       "url": "https://www.reddit.com/r/programmatic/comments/1jvs0fq/by_adding_layers_of_complexity_costs_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jvs0fq/by_adding_layers_of_complexity_costs_and/",
       "created_utc": 1744269421.0,
       "content": "https://www.adotat.com/2024/11/the-ad-tech-racket-how-the-trade-desk-is-taxing-your-campaigns-into-oblivion/ \n\nInteresting article I’d love to hear some commentary on. What are your thoughts on where programmatic is heading? Fees have always been an issue, but has it really improved? Are advertisers truly being ripped off, or does more advanced targeting capabilities make up for this?",
-      "num_comments": 14
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jwadcu",
       "title": "Begin to render dv360 report",
       "author": "linuz14",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1jwadcu/begin_to_render_dv360_report/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jwadcu/begin_to_render_dv360_report/",
       "created_utc": 1744323279.0,
       "content": "Have you ever explore the “begin to render” report on dv? \nIs it possible that yt has a low ratio compared for example to an open market campaign were ratio vs imps delivered is coose to 100%?\nWhat about demand gen? Also there ratio seems low but is it possible that rendering is not counted for native ads?",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jwndnx",
       "title": "Looking for Adx Approval",
       "author": "Consul_parth",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1jwndnx/looking_for_adx_approval/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jwndnx/looking_for_adx_approval/",
       "created_utc": 1744370288.0,
       "content": "Hi,\n\nI am looking for adx approval for my website\n\nThanks\n",
-      "num_comments": 1
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jwrd62",
       "title": "TLDR: Week in Review - Advertising's Top Stories about CTV, AI, Tariffs & More!",
       "author": "data_spy",
-      "score": 19,
+      "score": 18,
       "url": "https://www.reddit.com/r/programmatic/comments/1jwrd62/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jwrd62/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1744382062.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* The Trade Desk offering TV manufacturers a revenue-sharing OS model where manufacturers keep most ad revenue\n* IAB Tech Lab pushing for universal creative ID adoption to close CTV measurement gaps\n* Snap launched interactive \"sponsored AI lenses\" that transform selfies into brand environments\n* Rising tariffs expected to accelerate viewer migration to free ad-supported streaming (FAST)\n* Streaming platforms reached 43.5% of total TV viewing in February, up from 37.7% last year\n* WPP acquired InfoSum for a reported $63 million, completing its data connectivity strategy\n* Meta faces potential $32 billion annual ad revenue loss if FTC prevails in April 14 antitrust trial\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-4112025)\n\nWhat advertising trends are you watching this week?",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jwsr9w",
       "title": "Why do publishers use Taboola/Outbrain if the content looks like clickbait?",
       "author": "Crazy_Cat_Dude2",
       "score": 39,
       "url": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/why_do_publishers_use_taboolaoutbrain_if_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jwsr9w/why_do_publishers_use_taboolaoutbrain_if_the/",
       "created_utc": 1744385638.0,
       "content": "Why do so many premium publishers continue to use Taboola or Outbrain ad units at the bottom of their pages? The content often comes across as low-quality or clickbait, which feels out of place on otherwise reputable sites. Even if these units deliver a high CTR, is the traffic truly valuable? Seems like it’s either bots or accidental clicks. It seems questionable, and I’m struggling to understand why anyone still rely on them. ",
-      "num_comments": 27
+      "num_comments": 27,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jy3ibj",
       "title": "Enanched conversion",
       "author": "linuz14",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1jy3ibj/enanched_conversion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jy3ibj/enanched_conversion/",
       "created_utc": 1744535025.0,
       "content": "Once implemented do I have to flag anything on cm360? Or it could be activated jut at tag manager level? Or does it enanle anything also for floodlight?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jyxqkc",
       "title": "Looking for insights",
       "author": "Unfair-Garlic-3138",
       "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1jyxqkc/looking_for_insights/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jyxqkc/looking_for_insights/",
       "created_utc": 1744634055.0,
       "content": "Hey everyone, I'm doing my graduation research at a digital marketing agency on how to better sell and apply Programmatic Display Advertising. I'm looking for insights from professionals who've worked with it.\n\nHere’s my main question:  \n**What types of companies benefit most from programmatic in your experience?** (e.g. e-commerce, B2B, non-profits)  \nAnd also:  \n**Which marketing goals (like awareness, conversion, retention) does it work best for?**\n\nOther things I’m curious about: minimum budgets, B2B vs. B2C, and which markets still have untapped potential.  \nIf you’ve got thoughts on any of that, I’d love to hear them!\n\nThanks a lot",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jzt9en",
       "title": "What are Flipbook Creatives used for in programmatic advertising?",
       "author": "GladDebate5022",
-      "score": 3,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1jzt9en/what_are_flipbook_creatives_used_for_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jzt9en/what_are_flipbook_creatives_used_for_in/",
       "created_utc": 1744727270.0,
       "content": "Hi everyone,\nI’m currently learning more about creative formats in programmatic advertising, and I came across Flipbook Creatives. I understand they allow multiple images or frames to be shown in sequence, but I’m not fully clear on their actual use case.\n\t•\tWhen should we use a flipbook creative instead of a normal static or rich media creative?\n\t•\tWhat are the main advantages of using it?\n\t•\tIs it commonly used in campaigns, or only for specific scenarios like product showcases or storytelling?\n\nWould love to hear your experiences or insights on this format. Thanks!",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jztrmk",
       "title": "Best DSP provider for Travel company",
       "author": "Tight_Marketing_3359",
-      "score": 16,
+      "score": 18,
       "url": "https://www.reddit.com/r/programmatic/comments/1jztrmk/best_dsp_provider_for_travel_company/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jztrmk/best_dsp_provider_for_travel_company/",
       "created_utc": 1744728517.0,
       "content": "Hi guys,\n\nI work for a travel company selling package holidays and we are shopping around for a DSP and wanted advice in seeking the most suitable provider for a travel company. We are dipping our feet at the moment, so we are unlikely to spend a huge amount initially, but it would be something we would be keen to invest more in.\n\nWe've been using Google Ads Display Network and Demand Gen campaign types but wanted to explore other platforms to see what we can get out of them",
-      "num_comments": 24
+      "num_comments": 24,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jzuxz2",
       "title": "PG Average CPM for 2025",
       "author": "Ok-Efficiency1000",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1jzuxz2/pg_average_cpm_for_2025/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jzuxz2/pg_average_cpm_for_2025/",
       "created_utc": 1744731328.0,
       "content": "Hello, I'm working on trying to put together a rough projection model for a PG strategy within a mobile app. \n\n  \nDoes anyone have an insight on what the 2025 CPM for Mobile Display Ads on PG buy would be? ",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1jzvhv7",
       "title": "Epsilon DMS",
       "author": "Endo129",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1jzvhv7/epsilon_dms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1jzvhv7/epsilon_dms/",
       "created_utc": 1744732672.0,
       "content": "Hey all. Wondering if anyone has any experience or stories with Epsilon DMS performance, specifically in the Display space. Have you used it? How was performance relative to other DSPs? Any highlights or lowlights, places where it shines or seems to lack?\n\nThanks!",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k0pink",
       "title": "Best Connected TV Platforms?",
       "author": "WanderEver",
-      "score": 15,
+      "score": 13,
       "url": "https://www.reddit.com/r/programmatic/comments/1k0pink/best_connected_tv_platforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k0pink/best_connected_tv_platforms/",
       "created_utc": 1744822993.0,
       "content": "Looks like it's been 2+ years since this one was asked, so asking again. \n\nWhich providers (ideally with no minimums) are the best these days for Connected TV buys?  Looking to run off a credit card, ideally would like to target specific programs more than specific audiences. Almost considering a spot/residual standard TV buy. \n\nMNTN has been doing a huge push, but in the industry I keep hearing they're sketchy AF and their measurement model going into your Google Analytics is also a bit sketch. \n\nWho's good out there? ",
-      "num_comments": 20
+      "num_comments": 21,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k0yfh1",
       "title": "Why doesn't Mntn offer Disney or Hulu?",
       "author": "KitchenIngenuity532",
-      "score": 8,
+      "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1k0yfh1/why_doesnt_mntn_offer_disney_or_hulu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k0yfh1/why_doesnt_mntn_offer_disney_or_hulu/",
       "created_utc": 1744845450.0,
       "content": "I keep seeing MNTN ads where they have logos of Disney/ Hulu- but found out they don't offer their inventory?\n\n  \nDoes anyone have the inside scoop on why you can't buy Hulu or Disney ads in their platform? ",
-      "num_comments": 32
+      "num_comments": 32,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k0yojg",
       "title": "Measuring the addressability revenue",
       "author": "Huge_Cantaloupe_7788",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1k0yojg/measuring_the_addressability_revenue/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k0yojg/measuring_the_addressability_revenue/",
       "created_utc": 1744846186.0,
       "content": "How would you do it? How would you measure how much revenue brings each additional 1 percent of identified users ? Let's say you have cookie less environment where 0% of users are addressible. Now we add 1% of identification. Then 5%. Then 10%. How would you measure ?",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k1e0ho",
       "title": "Vevo programmatic - DV360",
       "author": "Chi-biusa2z",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1k1e0ho/vevo_programmatic_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k1e0ho/vevo_programmatic_dv360/",
       "created_utc": 1744899687.0,
       "content": "Hi,\n\nDoes anyone know if we can buy Vevo through YouTube? Is it select? Or is the only option through a PG/PMP deal? \n\nThanks",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k1ephu",
       "title": "Moloco mobile dsp",
       "author": "akunni",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1k1ephu/moloco_mobile_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k1ephu/moloco_mobile_dsp/",
       "created_utc": 1744901467.0,
       "content": "Anyone worked with moloco? What are its limitations and howz it ad frauds",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k1fluv",
       "title": "Google is an Ad Tech Monopoly",
       "author": "JimmyTango",
-      "score": 77,
+      "score": 78,
       "url": "https://www.reuters.com/technology/us-judge-finds-google-holds-illegal-online-ad-tech-monopolies-2025-04-17/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k1fluv/google_is_an_ad_tech_monopoly/",
       "created_utc": 1744903716.0,
       "content": "NSFW if you work at Google ",
-      "num_comments": 59
+      "num_comments": 59,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k1kz9d",
       "title": "US Programmatic Trends April 2025",
       "author": "DataBeat_adtech",
-      "score": 35,
+      "score": 34,
       "url": "https://www.reddit.com/r/programmatic/comments/1k1kz9d/us_programmatic_trends_april_2025/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k1kz9d/us_programmatic_trends_april_2025/",
       "created_utc": 1744916967.0,
       "content": "March data reveals a **17% year-over-year decline in CPMs** from Q1 2024 to Q1 2025, largely driven by **reduced advertiser budgets** and the **absence of political campaign spend** that boosted Q1 2024 CPMs. Seasonal effects also contributed, with a **23% drop from Q4 2024 to Q1 2025**, reflecting typical shifts alongside broader economic concerns such as **rising tariffs** and **recession fears**.\n\nNotably, **Ad Exchange CPMs saw a slight 2% increase** quarter-over-quarter, while Amazon and Index Exchange experienced significant declines of **29%** and **18%**, respectively. Fill rates also softened, falling from 42% to **38%**, indicating more selective buying and stricter ad quality standards.\n\nTo navigate these challenges, **publishers should focus on high-value ad formats**, **leverage first-party data**, **optimize floor prices**, and **strengthen direct deals** to stabilize and grow revenue.\n\n**CPM Trends:**\n\n* **MoM Growth:** Display CPMs ↑7.4%, Video CPMs ↑61.1%, overall CPM increase of 12.1%.\n* **YoY Change:** Display CPMs ↓35.9%, Video CPMs ↑12.3%, overall CPM decrease of 29.6%.\n\n[Check out the full report](https://databeat.io/blog/us-programmatic-trends-april-2025/)",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k259ee",
       "title": "TLDR: Week in Review - Advertising's Top Stories about Google, AI, Agency Earnings & More!",
       "author": "data_spy",
       "score": 18,
       "url": "https://www.reddit.com/r/programmatic/comments/1k259ee/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k259ee/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1744983801.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* A federal judge ruled Google violated antitrust laws by monopolizing publisher ad servers and ad exchanges\n* Google unveiled expanded AI content tools at Cloud Next - Veo 2 for video, Imagen 3 for images, and Lyria for music\n* WFA finds legal and transparency issues are the top barriers to AI adoption among marketers\n* WPP focusing on AI governance infrastructure to control its 28,000 AI agents\n* Publicis posted 4.9% organic revenue growth but warns of client spending caution due to tariff uncertainty\n* Omnicom reported 3.4% organic revenue growth to $3.7B in Q1, securing approvals in 5 of 18 jurisdictions for IPG acquisition\n* Temu completely shut off Google Shopping ads in the US, causing app rankings to plummet\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-4182025)\n\nWhat advertising trends are you watching this week?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k2aunt",
       "title": "Good prompt to learn Programmatic basics quickly",
       "author": "holycow0007",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1k2aunt/good_prompt_to_learn_programmatic_basics_quickly/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k2aunt/good_prompt_to_learn_programmatic_basics_quickly/",
       "created_utc": 1744998055.0,
       "content": "You're a world-class expert in Programmatic Advertising, and I want to learn from the best.\n\nCan you break it down for me through five different lenses, each with a distinct goal and level of depth?\n\n1. **Explain it like I’m in middle school** Give me the core idea of programmatic advertising in simple terms. Break down how the ecosystem works—who’s involved, how ads are bought and sold—using a clear, real-world analogy. Keep it straightforward, no fluff or jargon.\n2. **Teach it like I’m a seasoned industry pro** Let’s get into the advanced stuff: the underlying mechanics, the hidden levers, who the real players are, and how the value chain actually operates from end to end. Where are the bottlenecks or inefficiencies, and what parts of the process are ripe for disruption or improvement?\n3. **Coach me like a mentor** Walk me step-by-step through how to plan, launch, and optimize a successful programmatic campaign. What are the key decisions I need to make? What common mistakes should I avoid? What blind spots do even experienced marketers tend to miss?\n4. **Think like a strategist** Put programmatic in the larger context of media, marketing, and business growth. How does it connect to other channels? Why does it matter more than ever? Where’s it headed next?\n5. **Summarize like a top-tier consultant** Give me a concise, reusable cheat sheet I can use to teach others or revisit when I need clarity—bonus points for frameworks, flowcharts, mental models, or quick-reference principles I can apply right away.\n\nPlease include real-world examples, cite references where useful, and anticipate the confusing parts. I’m looking for clarity, depth, and speed—so I can walk away with both confidence and practical know-how.",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k3iack",
       "title": "Final stage senior BD role - TTD",
       "author": "Working-Trifle-6352",
-      "score": 11,
+      "score": 12,
       "url": "https://www.reddit.com/r/programmatic/comments/1k3iack/final_stage_senior_bd_role_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k3iack/final_stage_senior_bd_role_ttd/",
       "created_utc": 1745138860.0,
       "content": "In interested to hear people's current opinions on TTD given the most recent earnings call. I'm at final stage for a Senior Director role in the Biz Dev team - this will be my 6th round of interviews including the internal recruiter. \n\nPeople still backing Jeff Green? \n\nThanks \n",
-      "num_comments": 22
+      "num_comments": 22,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k3wf9k",
       "title": "Free site/placement assessment tool",
       "author": "One_Librarian_6182",
-      "score": 10,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1k3wf9k/free_siteplacement_assessment_tool/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k3wf9k/free_siteplacement_assessment_tool/",
       "created_utc": 1745182874.0,
       "content": "Hey programmatic ppl, so I recently built and released a free software tool that you (advertisers and agencies) can use to get some cool metadata like ad density % and the avg # of ads per page about the websites where you served your ads and/or where you want to serve your ads. If you use a DSP, then you'll have access to each of your campaigns site report so you can upload that.\n\nAnd there's another feature in the app for you to do more advanced exclusion/inclusion list creation specific to your campaigns. \n\nCheck it out here! [https://app.plobyte.com/register](https://app.plobyte.com/register)\n\nPS - It's supposed to be 100% self-serve but if I did a terrible job, just DM me to rebuke.",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k427xo",
       "title": "Career change",
       "author": "Wonderful-Wish900",
-      "score": 9,
+      "score": 11,
       "url": "https://www.reddit.com/r/programmatic/comments/1k427xo/career_change/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k427xo/career_change/",
       "created_utc": 1745200217.0,
       "content": "Hey there,\n\nI have been in adops/programmatic for over 6 years. Now I'm looking for a career switch, because I'm getting burnt out/tired of activation. Some options I'm considering are account manager or client services. \n\nDoes anyone have any other roles that could be a good fit to pursue?\n\nI'm also highly open to sales, however I have minimal media sales experience (I have worked in banking/customer service before, which have a bit of sales). \n\nTIA!",
-      "num_comments": 12
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k4pm7g",
       "title": "Best self serve for small business",
       "author": "YouFun2187",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1k4pm7g/best_self_serve_for_small_business/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k4pm7g/best_self_serve_for_small_business/",
       "created_utc": 1745271960.0,
       "content": "Hi there,\n\nCurrently doing some freelance work to compliment big agency life. At big agency, our specialists are running a lot of DV360 prog. display. \n\nHowever, a freelance client wants me to look at self serve (health product for older demographic) - we want to test, I am stuck between StackAdapt and Outbrain. \n\nDoes anyone have any knowledge on which will be better for quicker positive iROI?",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k4wsg7",
       "title": "Best Free and Paid AI tools",
       "author": "wickedysplit25",
       "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1k4wsg7/best_free_and_paid_ai_tools/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k4wsg7/best_free_and_paid_ai_tools/",
       "created_utc": 1745292780.0,
       "content": "I am a Media Trader and have been using ChatGpt and Grok 3 to help me create performance and key insights reports for my team, but also the level of detail and ideas for audiences and optimizations has been pretty fantastic. Does anyone have any cool tips or tricks with AI tools they have been using and what kinds of prompts are you giving? I'm trying to get better at explaining opts and the rationale behind it without saying too much.",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k5f58m",
       "title": "Advice on making a lateral AdTech career move",
       "author": "jaxjaxjax95",
-      "score": 6,
+      "score": 5,
       "url": "/r/googleads/comments/1k5f50f/advice_on_making_a_lateral_adtech_career_move/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k5f58m/advice_on_making_a_lateral_adtech_career_move/",
       "created_utc": 1745350043.0,
       "content": "",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k5n6f8",
       "title": "Programmatic News Sources",
       "author": "AdPhilosopher",
-      "score": 22,
+      "score": 23,
       "url": "https://www.reddit.com/r/programmatic/comments/1k5n6f8/programmatic_news_sources/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k5n6f8/programmatic_news_sources/",
       "created_utc": 1745371540.0,
       "content": "For programmatic news which media outlets (including blogs, YT channels) do you follow? Common names are: AdExchanger, Digiday, Adweek – Programmatic, The Drum. \n\n",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k5ww5d",
       "title": "Brainsto - Scaling Ad Creative Customization per Customer Persona?",
       "author": "10mils",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1k5ww5d/brainsto_scaling_ad_creative_customization_per/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k5ww5d/brainsto_scaling_ad_creative_customization_per/",
       "created_utc": 1745408097.0,
       "content": "Hi everyone,\n\n**Context**\n\nOver the last weeks, I worked on a few custom scripts to automaticall generate a \"large amount of ad-copies\" for a couple of friends who own a few small DTC businesses. The main goal was actually to generate ad copies generation according to their customer persona.\n\n**Process & Idea**\n\nTo keep it short here are the main cases we worked on:  \nStep 1 - Build quick customer persona\n\n* Either from scratch\n* From existing purchase data collected from site visit, purchases, etc.\n\nStep 2 - Select Ad format\n\n* Easy format: Search Ad copies\n* \"Hard format\": DIsplay Ad Copies (banners)\n\nStep 3 - Generate Ad Copies Variants\n\n* Generate half a dozen of ad copies per persona\n* Customize headline, core text, CTA and / or background image according to persona characteristics\n\nEventually, we implemented everything (manually) into Google Ads & Meta. We had a single campaign, with one ad group per persona with all the corresponding creatives. Mmaybe we should have had one campaign per persona with a specific targeting? Not sure, sounds like over-engineering.\n\nWe also implemented a campaign with the same set-up but only with a few ad copies and a single ad group (basically what my friends would have done without my help).\n\n**Outcome**\n\nGot +25% CTR, -13% CPA (purchase event), cost of production is almost an estimate but we estimated -50% versus fiverr or upwork freelancers, time of production once the script was ready was like -90%.\n\nGot a few ad groups that performed really well, so that did super bad, hopefully the one performing well compensated for the low performance.\n\n**Question**\n\nSo obviously first results sound very promising for sure. But that's only for a couple of small brands, where the testing set-up might be challengeable.\n\nAnd there are might be more complicated cases to handle.\n\nWhat's your feeling on that? Do you think brands could be interested? Small ones, big ones, agencies? I just feel we had something interesting between our hands, but also super early stage / raw code assets.\n\nNot sure what do with that next and whether it could benefit more media buyers.\n\nHappy to take feedbacks.\n\nCheers",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k66v59",
       "title": "Career in Programmatic advertising.",
       "author": "Acrobatic-Middle7741",
-      "score": 18,
+      "score": 17,
       "url": "https://www.reddit.com/r/programmatic/comments/1k66v59/career_in_programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k66v59/career_in_programmatic_advertising/",
       "created_utc": 1745433710.0,
       "content": "Hello everyone, \n\nI'm feeling really stressed out. I recently resigned from my job in programmatic advertising for an Uber project, where I only gained about 0.6 months of experience. Unfortunately, we were using internal tools, so I didn't have the opportunity to learn much. \n\nNow, I want to gain experience with global programmatic tools like DV360 and CM360 etc. Prior to this, I worked in SEO and Google Ads for two years, but I am now determined to advance my career in programmatic advertising. \n\nThe problem is that none of the companies are hiring without 2-3 years of experience, which is incredibly frustrating. I spend each day applying for jobs, only to be rejected because I lack the necessary experience. \n\nHow am I supposed to gain that experience if no one is willing to hire me? 😭\n\nWhat should I do?",
-      "num_comments": 13
+      "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k6kcrk",
       "title": "Need a huge favor",
       "author": "No-Fisherman3037",
-      "score": 14,
+      "score": 15,
       "url": "https://www.reddit.com/r/programmatic/comments/1k6kcrk/need_a_huge_favor/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k6kcrk/need_a_huge_favor/",
       "created_utc": 1745471717.0,
       "content": "Sorry to bother you folks but I really need a favor. I’ve been applying for some roles lately and keep getting rejected because I don’t have experience with DSP platforms. It’s honestly becoming a bit demotivating because I feel like it’s the one major thing holding me back.\n\nRight now, I’m working on the SSP side so I understand the flow, but I’ve never actually worked hands-on with DSPs. If there’s any chance you could teach me or even just walk me through the basics, I’d genuinely appreciate it so much. Even if there’s someone I could shadow or something I could practice on—I’m willing to put in the time and effort.\n\nReally hoping you can help me out with this. It would mean a lot 🥲",
-      "num_comments": 16
+      "num_comments": 16,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k6q8au",
       "title": "Programmatic Sales",
       "author": "DingleBerry___x",
-      "score": 3,
+      "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1k6q8au/programmatic_sales/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k6q8au/programmatic_sales/",
       "created_utc": 1745495430.0,
       "content": "A little off topic than normal programmatic conversations here, and likely should go into /r/sales but wondering…\n\nSales teams… what’s the best way to find these diamonds in the rough?  We’ve done the indeed / monster / recruiter routes and just nothing really comes of it. Thoughts? Ideas? Trying to find a decent team of 2-3 more producing individuals.",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k6tgs4",
       "title": "Best programatic tool for remarketing Campaigns",
       "author": "gena_fonograma",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1k6tgs4/best_programatic_tool_for_remarketing_campaigns/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k6tgs4/best_programatic_tool_for_remarketing_campaigns/",
       "created_utc": 1745504516.0,
       "content": "Hi, I am starting new job at crypto casino, and main challenge we have is to retarget our customers, there are some companies that offer remarketing all traffic but they are getting huge commission (%). i want to make remarketing campaigns in house is there any good platform for this?",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k6u2ft",
       "title": "Anyone hiring a team member?",
       "author": "Ok_Structure_3018",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1k6u2ft/anyone_hiring_a_team_member/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k6u2ft/anyone_hiring_a_team_member/",
       "created_utc": 1745506039.0,
       "content": "I've been unemployed since February and only doing side gigs that mostly consists of me smiling/helping stuff get done which is far from doing ad ops/programmatic work. I'd be very happy to get a job in the same industry but no luck yet. I can do both buy side/publisher side tasks.\n\nI can't do sales and I don't have a lot of connections since I've only been here since 2021. I can do data analysis but it takes a while, other than those two I can do anything that is within the ad ops/rev ops/tech part of the programmatic/adops role. I can send CV if needed so you can see if its a fit.\n\nI do speak with an accent and sometimes I pronounce words wrong because I learned it from reading and not from hearing but I do know the literal meaning. Example: Sick = Unwell, not sick like awesome or whatever its been. I also don't have a lot of personality or my personality doesn't translate well in American context so might be a bit weird/odd/awkward. Ex says he only understand half of what I'm saying most of the time so I figured that might be for everyone else. English is not my first language so street/slang/pop culture/local reference is almost zero.\n\nHopefully I'll see my future manager in here.",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k6uz5v",
       "title": "Who else is building agentic adtech innovations/helping us all move on from the current adtech world of cookies?",
       "author": "therealkrisho",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1k6uz5v/who_else_is_building_agentic_adtech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k6uz5v/who_else_is_building_agentic_adtech/",
       "created_utc": 1745508274.0,
       "content": "3rd party data, the roadkill sausages of the media world. It's time to think differently and not have AI be the new sausage farm for media.   \n  \n[www.techonomic.co/p/first-part...](https://www.techonomic.co/p/first-party-data-is-alive)  \n  \n[\\#data](https://bsky.app/hashtag/data) [\\#AI](https://bsky.app/hashtag/AI) [\\#identity](https://bsky.app/hashtag/identity) [\\#adtech](https://bsky.app/hashtag/adtech)",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k77prp",
       "title": "Is Show Passed in Bid Request for Podcasts?",
       "author": "untilallarefree",
       "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1k77prp/is_show_passed_in_bid_request_for_podcasts/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k77prp/is_show_passed_in_bid_request_for_podcasts/",
       "created_utc": 1745540596.0,
       "content": "Can anyone with visibility share the typical parameters passed on a bid request for podcast ads? I'm curious if show or episode details are passed? And are there any DSPs that enable targeting at this level of detail? ",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k7kff7",
       "title": "Why does no one understand that everything is essentially bought programmatically?",
       "author": "Future-Leave-9533",
-      "score": 83,
+      "score": 80,
       "url": "https://www.reddit.com/r/programmatic/comments/1k7kff7/why_does_no_one_understand_that_everything_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k7kff7/why_does_no_one_understand_that_everything_is/",
       "created_utc": 1745586254.0,
       "content": "As someone who’s been in the industry and has worked across the big 3 agencies and various brands for 10 years now… It’s insane to me that people still don’t realize everything is being bought programmatically, essentially… I’m sure people will argue this, but if you’ve been in the industry since Programmatic started, I’m sure you get it. \n\nIt’s really annoying when a rep will either go behind our backs or constantly reach out and bombard us with their “latest and greatest0 offerings as if it’s something they can only do… it’s actually comical and the amount of bullshit that is thrown out and then sales reps are wondering why some of us don’t take calls or respond to emails… Stop bullshitting, I get it, you have goals to reach but at the end of the day you guys need to realize the top agency Programmatic decision makers basically started this industry from the ground up 10+ years ago and there is a reason you’re not hearing back… honestly at least do your homework and who you reach out to at least… know that community is tight across the country. It may work for smaller brands or you may get lucky here or there, at the end of the day… You guys end up losing more by doing this. ",
-      "num_comments": 60
+      "num_comments": 60,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k7pqyy",
       "title": "Real-time revenue estimation for Ad Manager / Data Transfer?",
       "author": "x9kh4o6h",
-      "score": 10,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1k7pqyy/realtime_revenue_estimation_for_ad_manager_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k7pqyy/realtime_revenue_estimation_for_ad_manager_data/",
       "created_utc": 1745599812.0,
       "content": "Hey everyone,\n\nWe’re working with Google Ad Manager and currently rely on Ad Manager reports and Data Transfer files to track revenue. As you all probably know, those data sources usually take a few hours to update.\n\nWe’re wondering: is there any product (or workaround) that can estimate Ad Manager revenue in real time, or at least much closer to real time?\n\nWe already store event-level data like adResponse and impressionViewable from the GPT (Google Publisher Tag) API — so we have access to what ads were served and viewed. Has anyone used this data to model or estimate revenue ahead of the official reports?\n\nWould love to hear how others are handling this.",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k7qvkm",
       "title": "How can we prioritize a certain prebid partner over the main prebid line item in GAM?",
       "author": "freakads",
       "score": 3,
       "url": "/r/adops/comments/1k7quu6/how_can_we_prioritize_a_certain_prebid_partner/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k7qvkm/how_can_we_prioritize_a_certain_prebid_partner/",
       "created_utc": 1745602560.0,
       "content": "",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k7uc9i",
       "title": "CM360 Attribution Post Chrome Selloff",
       "author": "Toasted_Waffle99",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1k7uc9i/cm360_attribution_post_chrome_selloff/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k7uc9i/cm360_attribution_post_chrome_selloff/",
       "created_utc": 1745611205.0,
       "content": "Just curious to hear opinions on what alternatives there would be that would be better for wholistic campaign attribution than CM360 and floodlights? \n\nWith Google most likely loosing chrome, they will lose visibility into user actions which will affect the accuracy of attribution.\n\nIs there any better system for wholistic digital marketing attribution?",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k7vw9f",
       "title": "As someone who works exclusively in CM360 (ad server) and hasn't touched a dsp in almost a decade, can someone let me know how close I am to understanding it?",
       "author": "ApplicationRoyal865",
-      "score": 13,
+      "score": 12,
       "url": "https://www.reddit.com/r/programmatic/comments/1k7vw9f/as_someone_who_works_exclusively_in_cm360_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k7vw9f/as_someone_who_works_exclusively_in_cm360_ad/",
       "created_utc": 1745615179.0,
       "content": "Note that I'll be using DV360 terms that I've gleamed as well as cm360 terms.\n\n1. Set up a campaign. You can enter budgets, and set up \"global\" settings that insertion orders will inherit. Budget, global targeting settings, devices, frequency , flight dates etc\n2. Create an insertion order. This is almost like a placement in CM360. This IO will contain targeting that will either inherit from the campaign settings, or you can override or append to it. This will contain additional settings that the campaign doesn't have like site targeting setting, languages,device, bidding etc\n3. Create a line item. This is like an ad (?) in CM360? I think this is meant to group up creatives, probably some settings like frequency, rotation etc.\n4. Attach creatives  to line item (similar to assets and creatives in cm36 ). From here you add the creatives to a line item.\n\nIs this roughly the hierarchy and process?",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k93rvk",
       "title": "Question - how much do you rely on Comscore?",
       "author": "LeapDay22924",
-      "score": 8,
+      "score": 10,
       "url": "https://www.reddit.com/r/programmatic/comments/1k93rvk/question_how_much_do_you_rely_on_comscore/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k93rvk/question_how_much_do_you_rely_on_comscore/",
       "created_utc": 1745759945.0,
       "content": "Hey all, posting from a throwaway and not promoting. \n\nI’m from the publisher side. We’re relatively new in-market (~18 months) but do ~4-4.5 billion impressions/month from our product. The majority of our revenue is through open market programmatic. \n\nWe’re now starting to sell more direct and work more on PMP/PG buys. As we dive deeper, Comscore has come up in conversations with large agencies only once. \n\nI remember from my time agency-side, planners used Comscore and Nielsen but this was 15 years ago at this point—is it still relevant for media planners in today’s day and age? Do you use it to plan buys? If so, what are you looking at/for?\n\nThank you!",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1k9gkqk",
       "title": "Is it a problem to use companies DSP seat for YouTub videos?",
       "author": "v4vendettair",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1k9gkqk/is_it_a_problem_to_use_companies_dsp_seat_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1k9gkqk/is_it_a_problem_to_use_companies_dsp_seat_for/",
       "created_utc": 1745793567.0,
       "content": "I wanna create a set of video for YouTube especially to share the knowledge and give new to industry people an advantage, wondering if it will be a problem to use the DSP of the company i work for? Of course i will hide any confidential or names etc. ",
-      "num_comments": 13
+      "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kaf0vm",
       "title": "Best DSP for Performance Marketers",
       "author": "vullkunn",
       "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kaf0vm/best_dsp_for_performance_marketers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kaf0vm/best_dsp_for_performance_marketers/",
       "created_utc": 1745899208.0,
       "content": "What DSP is recommend for performance marketers, specifically for:\n\n* Low funnel \n* Prospecting \n* Affiliate offers\n* ROAS focused\n\n\nThanks!\n",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1karcaj",
       "title": "Using Google Floodlights to measure site visits from in-app inventory",
       "author": "Long_Dong_Larry",
       "score": 2,
       "url": "/r/adops/comments/1karc1k/using_google_floodlights_to_measure_site_visits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1karcaj/using_google_floodlights_to_measure_site_visits/",
       "created_utc": 1745941992.0,
       "content": "",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kasa7r",
       "title": "Anyone still using BidSwitch?",
       "author": "ME_H0Y_MIN0Y",
-      "score": 7,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kasa7r/anyone_still_using_bidswitch/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kasa7r/anyone_still_using_bidswitch/",
       "created_utc": 1745944294.0,
       "content": "I work for an SSP/publisher platform and we're looking into onboarding our supply onto BidSwitch to access demand from DSPs that aren't currently open to new direct oRTB integrations. The fees, however, are pretty ridiculous so we're trying to decide whether it'll ultimately be beneficial or not. \n\nDo any of you work with DSPs that rely heavily on BidSwitch for your supply? Or does anyone from an SSP have experience/feedback from selling supply via BidSwitch? ",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kb9fji",
       "title": "Flashtalking - Default ad serving",
       "author": "Zkid93",
-      "score": 8,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kb9fji/flashtalking_default_ad_serving/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kb9fji/flashtalking_default_ad_serving/",
       "created_utc": 1745992887.0,
       "content": "Hello folks,\n\nWe've observed a high proportion of default ads being served on Flashtalking—ranging between 33% to 40%. While this is concerning, it's worth noting that the total impressions and clicks reported in Flashtalking are closely aligned with CM360 and DV360.\n\nFor context:\n\n-IAS verification is enabled\n\n-We exclude a significant number people of (1party data via customer match lists)\n\n-The inclusion audience primarily consists of Google audiences and lookalikes\n\nCould there be any underlying reason for this level of default ad serving? \n",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kbjp3v",
       "title": "Amazon.com DCM Click Discrepancy",
       "author": "programmaticjobsrch",
-      "score": 7,
+      "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1kbjp3v/amazoncom_dcm_click_discrepancy/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kbjp3v/amazoncom_dcm_click_discrepancy/",
       "created_utc": 1746027863.0,
       "content": "Noticed that between November through December all our campaigns had served 5k impressions with a little over 100 clicks to the domain \"amazon.com\". In January that started to rise to over 2,200 clicks off of 4,800 impressions. February I'm seeing a massive spike to 40k clicks on 85k impressions. March was 39k clicks on 83k impressions, and so far in April we dropped to 5k impressions with 1,200 clicks. Nothing on our end was changed to serve more ads in this direction and it is really inflating our clickthrough rates. We're running a mix of everything (display, OLV, CTV, etc.) and even on our display-only campaign we're seeing very high click totals from amazon.com. Is this happening to anyone else?",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kbn7hm",
       "title": "Consulting/Programmatic Activation",
       "author": "Upset_Collar9364",
-      "score": 4,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kbn7hm/consultingprogrammatic_activation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kbn7hm/consultingprogrammatic_activation/",
       "created_utc": 1746036541.0,
       "content": "Hey Everyone - Happy Wednesday! I was wondering if anyone has recommendations for programmatic activation/campaign management consulting opportunities? I’ve worked at DSPs, SSPs and high impact partners and I’ve seen a lot of areas most clients could improve. I’m wondering if there are any sites that would be a good place to post my services? Upwork seemed decent but the pay to play system is a bit off putting.\n\nThanks!",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kbnnw7",
       "title": "TTD UI Down",
       "author": "Long_Dong_Larry",
-      "score": 18,
+      "score": 17,
       "url": "https://www.reddit.com/r/programmatic/comments/1kbnnw7/ttd_ui_down/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kbnnw7/ttd_ui_down/",
       "created_utc": 1746037672.0,
       "content": "Is anyone else seeing this? I can't access the UI and I'm getting a 503 error when going to the login page. ",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     }
   ]
 }

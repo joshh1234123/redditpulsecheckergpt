@@ -1,0 +1,15 @@
+{
+  "id": "1hy29vt",
+  "title": "Ads displaying wrong in App",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hy29vt/ads_displaying_wrong_in_app/",
+  "created_utc": 1736508091.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "How are you buying it, via PMP? Likely it's on the SSP/Tinder side messing up the dimensions in the bid request vs what it should be.",
+      "score": 1,
+      "created_utc": 1736589760.0
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "1hlol36",
+  "title": "How volatile is ad revenue?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hlol36/how_volatile_is_ad_revenue/",
+  "created_utc": 1735081150.0,
+  "num_comments": 21,
+  "comments": [
+    {
+      "author": "rjpauloski",
+      "body": "Media spend (demand) follows consumer spending patterns, either overall or by category. \n\nExample: Calendar Q4 has lots of discretionary consumer spending, thus media spend is high. Or there are seasons for certain industries (mortgage, auto, travel) which may have spikes in spend.\n\nRate (price) varies directly with spend (demand).",
+      "score": 10,
+      "created_utc": 1735086703.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Generally, demand will weaken a bit after xmas, then take a dive on Jan 1st. If you have a specific content niche, you may have different revenue cycles\n\nHere’s an index that follows the open market cpm of a cohort of publishers if you’re looking for historical trends - https://adrevenueindex.ezoic.com/",
+      "score": 3,
+      "created_utc": 1735107955.0
+    },
+    {
+      "author": "AdSultans",
+      "body": "Q4 is generally higher, and if its a political season, definitely the highest Q of the year.\n\nQ1 is usually lower as you said, we see dips around summertime, but generally consistent growth from Q1 to Q4.\n\nLook for steady lineat growth and a reset YoY.",
+      "score": 2,
+      "created_utc": 1735085809.0
+    },
+    {
+      "author": "klustura",
+      "body": "Your question can be confusing.\n\n\nIf you're on the demand side, you have valuable insights from other comments.\n\n\nIf you're on the supply side, it gets more complex:\n1- If you're a middleman, it'll depend on the integrations you have\n2- if you're a platform owner (social network, gaming, retail media, etc.), forecasting can be accurate \n3- if you're a news publisher, forecasting might not be accurate because there can be spikes in inventory if there are major events.\n\n\nI wouldn't detail how suppliers try to reach the forecasts they share, but you should challenge them on that.\n\n\nAs for the forecasting models, there are so many. If you have a background in mathematics or data science or AI, then feel free to ask for more details from your partners. It's critical to understand that sampling is always used for forecasting, and that sampling goes beyond inventory sampling (it can also be related to cloud computing).",
+      "score": 2,
+      "created_utc": 1735120273.0
+    },
+    {
+      "author": "Last_Plantain_4660",
+      "body": "Ad revenue can definitely be unpredictable, especially if you’re relying on just a few ad networks..... it can actually amplify CPM swings since different networks have varying inventory volumes and demand. To smooth out those swings, some  devs or publishers whatever turn to ad mediation because it combines multiple networks and optimizes fill rates, which helps stabilize revenue and makes it more consistent overall.\n\nAs for forecasting, they generally work pretty well in standard conditions, and that link shared in the discussion on historical CPM trends is definitely useful. But it’s worth keeping in mind that forecasting accuracy heavily depends on the quality of your input data e.g. traffic volume, audience behavior, and seasonality. Even when trends are well-known (like January dips), their accuracy relies a lot on the stability of your user base. External factors like privacy policy changes (IDFA, for example) or unexpected market shifts can throw those predictions off. To manage these risks, I’d recommend not just relying on historical data but also running regular audits of your inventory and experimenting with new ad formats. For instance, trying out hybrid models (rewarded + native ads) or A/B testing different waterfalls can sometimes uncover unexpected opportunities for growth.",
+      "score": 2,
+      "created_utc": 1735127826.0
+    },
+    {
+      "author": null,
+      "body": "I’ve been in programmatic since I was blessed with a BD role in ‘16 at a reseller/aggregate…\n\nThere has not been a nonvolatile quarter in that time. Acquisitions,  $b bankruptcies, $m clawbacks, seasonal ad budgets, political runup… this industry is the definition of volatile.",
+      "score": 2,
+      "created_utc": 1735162788.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "You can look at TTD revenue, it’s public information, and you’ll see the trend real quick.",
+      "score": 1,
+      "created_utc": 1735095639.0
+    },
+    {
+      "author": "Dependent-Use-3215",
+      "body": ">I’ve heard ad revenue usually spikes in Q4 and drops in Q1, but I’m curious – how accurate are the models that predict this?\n\nFrom what we've seen in the recent years is that this isn't true anymore. There have been drops in the beginning of Q4 and high Q1 Spending. I wouldn't say that this is the case every Year.",
+      "score": 1,
+      "created_utc": 1735155258.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Appreciate the insight – makes sense that spend follows consumer patterns. I was curious, though – how accurately do models forecast ad inventory? I get that trends and seasonality drive some volatility, but I’m wondering how good models are at actually predicting it.  \n\nSay a model projects 1M impressions monthly for the next 3 months – does it ever miss the mark by 20-30%(both sides), or is that rare? based on your experience, how far off do these models usually get, and how much do publishers actually rely on them? \n\nI know no model’s catching a curveball like COVID or geopolitical stuff, but for regular trends, do they hold up over 6+ months or start drifting the longer the horizon?",
+      "score": 1,
+      "created_utc": 1735117693.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "thanks for the link – makes sense that Jan hits hard after the holidays. I just wanted to understand how predictable ad revenues really are, which I think ties closely to how much traffic a site is getting.\n\nEven if we know the dip is coming, how accurately can models **forecast the size of the drop**? for ex, if models project a 40% drop on Jan 1st, how close do they actually get? Does it tend to fall within a predictable range, or does it sometimes swing way off depending on the niche or other factors? Just wondering how much trust publishers put into these forecasts when planning for Q1(or any quarter).",
+      "score": 1,
+      "created_utc": 1735118414.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Appreciate the breakdown – makes a lot of sense with the yearly reset and build-up to Q4. Curious though, even if everyone knows Q1 dips and Q4 spikes, how accurately can models pin down the exact numbers for those trends? \n\nlike if the model predicts a 30% drop in Q1 ad spend vs Q4, how close does it actually get? Are publishers generally able to forecast these dips within a small margin, or does it still swing wider than expected? Just wondering how much trust goes into these models when planning inventory.",
+      "score": 1,
+      "created_utc": 1735118108.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Appreciate the detailed response – makes a lot of sense. It feels like even with solid forecasting and historical CPM data, ad revenue falling short is almost inevitable at times. Based on your experience, how far ahead do you think these forecasting models can predict with reasonable accuracy? And how much variance have you seen between predicted vs. actual revenues during a typical cycle?  \n  \nWhen that happens, and payment cycles stretch out, how do publishers typically handle cash flow? Is it mostly about diversifying and optimising, or do SSPs/ad networks offer early payouts or credit lines to help steady things during those dips?",
+      "score": 1,
+      "created_utc": 1735309421.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Totally hear you – sounds like volatility is just part of the game. Given that ad revenue shortfalls seem almost inevitable at some point, how do publishers typically manage cash flow when things dip unexpectedly? With long payment cycles on top of it, do SSPs/DSPs offer any sort of early payouts or credit lines, or is it mostly up to publishers to weather the storm themselves?",
+      "score": 2,
+      "created_utc": 1735309073.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "i’m curious though, even if the trend is clear, how accurate are models at forecasting the actual shifts in ad revenue? If traffic changes are expected, can models usually predict the size pretty closely, or does it vary a lot? just wondering how much publishers rely on these forecasts when planning ahead.",
+      "score": 1,
+      "created_utc": 1735118554.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "Interesting – why do you think we’re seeing those shifts? Is it more tied to changes in advertiser behaviour, economic uncertainty, or something else?\n\nThis could be a real issue for publishers relying heavily on ad revenue. If traditional seasonal patterns don’t hold, their forecasting models could be way off. How are they managing to stay afloat when revenue doesn’t line up with expectations?",
+      "score": 1,
+      "created_utc": 1735309923.0
+    },
+    {
+      "author": "Last_Plantain_4660",
+      "body": "Usually, even the best forecasting models hit around 80-90% accuracy in standard conditions. But in practice, I’ve seen actual revenues swing  between10-30% in either direction. So yeah, relying on them completely? Not the safest bet.......To minimize risk, a lot of publishers turn to mediation platforms or build custom setups. If you don’t want to deal with everything manually, I’d recommend checking out CAS.AI. They’ve got a strong programmatic stack with hybrid models (mediation + bidding) that optimize fill rates and eCPMs. Since they connect to a ton of ad networks, they fill gaps at the best price. Appodeal’s also worth testing, give it a shot.\n\nAs for managing cash flow, most publishers typically keep a reserve that covers 1-2 months of expenses, like marketing and dev costs. Some SSPs offer early payouts, but they usually take a cut for it. Credit lines? Less common, but it’s case-by-case. If it’s an option, definitely negotiate with your partners directly.",
+      "score": 1,
+      "created_utc": 1735318154.0
+    },
+    {
+      "author": null,
+      "body": "Unfortunately no, largely they don’t. Some pre-pays during “upfront” season but that is mostly for the top 1% of the marketplace.\n\nFurthermore unfortunately, the traditional “publishing” model is no longer viable in the marketplace.\n\nIn today’s market, you will find most publishers are not solely reliant on ad or subscripted revenue from their publishing assets. They have alternative revenue models feeding or complimenting their publishing assets more like an ecosystem.\n\nSee Apple TV+, Amazon, Paramount+. See also, the flip side of the coin (Netflix). One of the last broadcaster holdouts… They’ve struggled to add complimentary revenue models to their publication, games was a failure, no TVOD, investing in original production’s while they started the marketplace implosion has been indeed costly and original production remains a high and ongoing investment.\n\nEverything is random but you kind of go with the ebs and flows of the marketplace if you want to stay in it. New partners, constantly aspiring toward innovation, getting in early with new technology or you simply lateral your way to something else and slowly leave the industry. Crypto, NFT, AI were big industries people from old school media went to.",
+      "score": 1,
+      "created_utc": 1735327426.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Overall trends in ad spend, I 100% trust what they say. If you’re asking for shifts from publisher to publisher, or channel to channel, I’d doubt any model can do that really well. There’s a lot of unknowns that are hard to plan for. An open market will find your price, you might not like the market price.",
+      "score": 2,
+      "created_utc": 1735136426.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "I imagine ad revenues falling short of expectations is a fairly common occurrence. when that happens, especially with the long payment cycles, how do publishers keep things running? Is it mainly through cash reserves, or do SSPs step in with early payouts or financing options to help bridge the gap?",
+      "score": 1,
+      "created_utc": 1735308974.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Why would an SSP pay out early, before you’ve done anything for them ? What is the incentive for them to do that? \n\nYou as the publisher are responsible for driving viewers to your site. If you suddenly stop having interesting or relevant content, the ad money goes away. It’s on you to make sure people want to keep coming to your site all the time.",
+      "score": 1,
+      "created_utc": 1735309279.0
+    },
+    {
+      "author": "Thirty_by_Thirty",
+      "body": "I think you may have mistook my post – sorry for the confusion. I wasn’t referring to SSPs paying upfront before ad placements. What I meant was that publishers typically get paid after a long payout cycle. A Trade Desk rep mentioned they settle invoices on **n120** terms, and I assume SSPs also take some time to process payments after that.\n\nSo during this waiting period, how do publishers manage cash flow and stay afloat? Is it mainly through reserves, or are there mechanisms to ease the strain, like early payout options or financing?",
+      "score": 1,
+      "created_utc": 1735310305.0
+    }
+  ]
+}

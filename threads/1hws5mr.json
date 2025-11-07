@@ -1,0 +1,33 @@
+{
+  "id": "1hws5mr",
+  "title": "A/B Test Evaluation Approaches - Real Value Metric VS Discrete Metric - is Bucketing Really Necessary?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hws5mr/ab_test_evaluation_approaches_real_value_metric/",
+  "created_utc": 1736363383.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "ww_crimson",
+      "body": "I'm probably wrong but it almost feels like the \"transitive\" property of math applies here, and that the results in these scenarios should be roughly the same, with a decent sized audience + a reasonable amount of time. \n\nI suppose it's likely/possible that if you just do a 50/50 split (test/control), that one group might be inadvertently skewed toward some dimension like age>30, but you could kind of go down this rabbit hole infinitely, in terms of bucketing.",
+      "score": 3,
+      "created_utc": 1736365152.0
+    },
+    {
+      "author": "pdp2907",
+      "body": "Hi OP. It all starts with what you are testing for, your null hypothesis and the alternate hypothesis. Then comes the method: \n\nSimple sampling (50 : 50)\n\nStratified sampling ( 25:25:25:25) \nOr whatever proportion you choose.\n\nFirst try the simple sampling with adequate sample size for both.\nCheck the results.\nNow decide based on the results, or on a part of the result which kind of confuses you.\nYou might supplement the online A/B testing with surveys, etc other qualitative methods ( also depends on sample size)\n\nAnd then go in for any other type of sampling.\n\nRandom sampling is preferred by the very nature of it.\n\nYou can also change the audience size for null/ alternate hypothesis.\n\nThe sky is the limit.\n\nHope this helps.",
+      "score": 2,
+      "created_utc": 1736470108.0
+    },
+    {
+      "author": "Acceptable-Ruin-3100",
+      "body": "A and B are theories and not bins. If you testing what age group targeting is more effective it is not A/B testing, it is just testing. If you compare efficiency of two creatives on the same audience it is A/B testing",
+      "score": 1,
+      "created_utc": 1736864854.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "You got all the math but how you split your population and negating each other? You doing a lot of math and calculation but if you are not fencing each group, your data will be less reliable.\n\nAlso, LOL on using chatgpt",
+      "score": 0,
+      "created_utc": 1736367510.0
+    }
+  ]
+}

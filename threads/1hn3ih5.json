@@ -1,0 +1,75 @@
+{
+  "id": "1hn3ih5",
+  "title": "Media Buyer Seeking Hands-On Tips for Mastering The TradeDesk",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hn3ih5/media_buyer_seeking_handson_tips_for_mastering/",
+  "created_utc": 1735262781.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Real life experience is best",
+      "score": 16,
+      "created_utc": 1735264337.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "Beyond  tools that are built into a DSP such as AI and optimization settings I think a lot of what is useful is in reporting, data and what you can do with it in terms of analytics. In order to become good at this you might have to expand your skillset a bit, depending on how much knowledge you have already in these areas. First I would recommend getting really good at exporting data from the platform in various reports, including formats such as CSV. Then how to import this data into various softwares for further analysis, from basic tools such as Excel to more advanced tools. To give you a hands-on example of what I mean. Let's say you work for a customer who sells their product offline or who measures some kind of offline datapoint (so not just online conversions). Let's say you can ask your customer to provide you with daily or weekly measurements of the goal they have (such as offline sales, retail store visits or similar). This data could be put side-by-side with daily ad impression data from your campaigns and then you can run regression analysis to see if there is correlation between your ads and their offline sales or store visits. Looking also into things like for example delays (ad impression in day 1, made a purchase in day 2 etc). Downloaded raw data on conversions or online sales can be used to build prediction models and so forth. So beyond learning the platform and its settings using videos, tutorials etc I would recommend really getting into the data and analytics bit of programmatic as there is a lot of data in there that can be used to improve advertising.",
+      "score": 11,
+      "created_utc": 1735294858.0
+    },
+    {
+      "author": "OverlyCritique",
+      "body": "Keep scrolling and learning. Whenever you set up campaigns, Trade Desk UI gives you quick tips on what happens when you choose a particular setting and whatnot. So please keep scrolling and I learnt that way better than in any other way.",
+      "score": 5,
+      "created_utc": 1735293350.0
+    },
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Go into the UI, see what watch feature/setting does, pull all reports, read the FAQ. Curiosity is gonna be your best teacher other than hands-on keyboard. \n\nSome knowledge is universally shared like audience providers - you need to know which ones are good or bad. Importance of dayparting, etc.\n\nIf you have specific questions, itd easier to guide and help you.",
+      "score": 3,
+      "created_utc": 1735305499.0
+    },
+    {
+      "author": "Crafty-Treat-1747",
+      "body": "Try the quick help button in the different tiles for some ideas, or the Resource Desk articles. These articles can get pretty tactical. This one talks about how to use relevance and decision power: [https://www.thetradedesk.com/us/resource-desk/campaign-performance-tips-decision-power-relevance-metrics-guide](https://www.thetradedesk.com/us/resource-desk/campaign-performance-tips-decision-power-relevance-metrics-guide), this one covers their AI: [https://www.thetradedesk.com/us/resource-desk/how-to-boost-campaign-performance-with-ai-in-kokai](https://www.thetradedesk.com/us/resource-desk/how-to-boost-campaign-performance-with-ai-in-kokai), and this one talks about different ways to use the Sellers and Publishers 500+ alongside various strategies: [https://www.thetradedesk.com/us/resource-desk/sellers-and-publishers-500-best-practices](https://www.thetradedesk.com/us/resource-desk/sellers-and-publishers-500-best-practices)",
+      "score": 1,
+      "created_utc": 1735314394.0
+    },
+    {
+      "author": "workredditaccount555",
+      "body": "how do you normally pick your audience segments now and do you have 1 segment per ad group? what does your typical campaign-ad group structure look like?",
+      "score": 1,
+      "created_utc": 1735592446.0
+    },
+    {
+      "author": "UtmostExplicit",
+      "body": "Commenting for vis",
+      "score": 1,
+      "created_utc": 1735266665.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "I totally agree! I guess what I am saying is maybe I need some new ideas on how to find the best audiences or where to look in the platform. I figure other people would have fresh ideas 💡",
+      "score": 3,
+      "created_utc": 1735265049.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "Thank you! This is good insight. I run the basic performance reports and inventory data and create modifiers and blocklists. I have never performed a regression analysis that's very cool! One thing I have been trying is exporting reporting data and asking  chat gpt to extrapolate which inventory sources are working the best/worst based off main kpi goals. It's been interesting! For some reason, most AI tools don't really seem to like .csv files and prefer pdfs, which is odd. Just a flaw of the tool, I suppose. 😆",
+      "score": 2,
+      "created_utc": 1735305514.0
+    },
+    {
+      "author": "zzz106",
+      "body": "I find their knowledge base to be pretty helpful and nicely organised so that you do stumble upon interesting things you can do/didn't know about. A lot of it also specific to your campaign goals and what you're looking for exactly but worth just looking at the different sections to see if anything is relevant.",
+      "score": 7,
+      "created_utc": 1735290585.0
+    },
+    {
+      "author": "BidTheory",
+      "body": "That's great. Most of the new frontend AI tools have impressive capability to work with different data formats. If you want to for example analyse variable importance (feature importance) in impression and conversion data from your DSP you can use the ML tools in cloud platforms such as Google Cloud or Microsoft Azure. There you can upload data in CSV format. Those services will do a lot of the hard work for you and it's fairly easy to get valuable insights there on what are the key drivers behind conversions or sales for example. You will most likely need to prepare the data a bit before uploading. There's usually quite a lot of asymmetry in the data downloads where you probably have tons of impressions with no conversions and a few with conversions, making it easy for an ML model to predict most impressions won't generate conversions (and be right most of the time..). So making the data set a bit more challenging for the machine learning model to handle will likely make it more useful. The new ML cloud services make using this type of analysis easier than before.\n\nBeyond DSP data downloads I usually look into data from Google Analytics in a similar way but use their API to download data from there into ML models. If your customers really want to get great results they should provide you with what you need such as GA data access. As an example if GA data can tell you that cities with a few thousand inhabitants convert better than larger cities then that could be useful in your DSP targeting later on.",
+      "score": 1,
+      "created_utc": 1735315843.0
+    }
+  ]
+}

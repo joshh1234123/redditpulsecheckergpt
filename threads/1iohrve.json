@@ -1,0 +1,123 @@
+{
+  "id": "1iohrve",
+  "title": "Extremely High Clicks On DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iohrve/extremely_high_clicks_on_dv360/",
+  "created_utc": 1739449043.0,
+  "num_comments": 19,
+  "comments": [
+    {
+      "author": "elchapoguzman",
+      "body": "Smells like incentive traffic + someone earning in CPC",
+      "score": 7,
+      "created_utc": 1739453926.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Fat thumbs clicking your ads. Native always has higher ctrs. Wonder what google analytics time spent on page is from it.",
+      "score": 6,
+      "created_utc": 1739450213.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Even with IAS/DV Bot-traffic pre-bid filters in place you might be serving to bots. Do you have any post-bid reporting from IAS/DV or any post-bid analytics of your clicks actually leading to something? You mentioned you're bidding for maximum conversions, are you actually seeing conversions come through? If so, what's the conversion event associated with your line items? Do you have just 1 floodlight tracking page-views, or are you also tracking downstream activity on site to validate that there's actually something happening?",
+      "score": 3,
+      "created_utc": 1739452947.0
+    },
+    {
+      "author": "10mils",
+      "body": "Despite having IAS & DV, you might still be exposed to bot traffic, this hypothesis shouldn't be excluded.\n\nAnother angle would be how the publisher has set-up its ad-placement, maybe in a way that creates an abnormal click incentive / some kind of MFA business.\n\nInstead of running reports as the exchange level, I'd rather go with a url report, just isolate a few that have abnormal CTR and take a look at the site to see how the ad placements are configured. Should be fairly easy & fast as a first check. \n\nDepending on what you find, we might explore other angles.",
+      "score": 3,
+      "created_utc": 1739459863.0
+    },
+    {
+      "author": "Curly-Girl1110",
+      "body": "We had a major issue with our Demand Gen campaigns seeing 100k clicks of invalid traffic over a 7-10 day period. Our Display camps are all RTG so the belief is that the AI Retargeted the invalid traffic and just crushed out ATC numbers. Google is involved and have pushed back the transition to Demand Gen from Video Action to July because they’re seeing the issue more widespread",
+      "score": 2,
+      "created_utc": 1739459258.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "Does DV360 deduplicate clicks in reports? I don't remember but I have had issues in the past a small amount of something dodgy can hugely inflate clicks.\n\nAlso although you're going for CPA are there enough conversions to drive Optimization? If there isn't enough conversion data DV360 might be working on clicks to then try and get those.",
+      "score": 1,
+      "created_utc": 1739539596.0
+    },
+    {
+      "author": "Appropriate_Shape703",
+      "body": "so you are a personal to used the DV360 right?",
+      "score": 1,
+      "created_utc": 1739671489.0
+    },
+    {
+      "author": "DonSalaam",
+      "body": "Please tell me that I am understanding your question correctly, you are complaining that CTR is too high?",
+      "score": 1,
+      "created_utc": 1739806901.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Basically DV360 has no control over MFA advertising. Leads to a lot of invalid clicks.",
+      "score": 1,
+      "created_utc": 1739452102.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "Don't have any visibility on client's GA. It seems be happening across almost all accounts and we have been using the same best practices in the set up as before. I understad this could happen on mobile and in-app mainly but it is across all devices and almost no in-app delivery.",
+      "score": 2,
+      "created_utc": 1739451510.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "Looked at URL report initially but there isn't just a few sites. There are also some reputable sites with high Click issue. It is not device related, site related or creative size related from what I can see. That's why I ws looking at exchanges.",
+      "score": 1,
+      "created_utc": 1739463242.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "Is the issue still happening in your case? Are you seeing anything on DV360?",
+      "score": 2,
+      "created_utc": 1739464181.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "Historically We haven't had issues with tis as we had precesses in place. But looks like it jumped from the beginning of the year with no apparent reason. I was wondering if it is a general DV360 in the recent months.",
+      "score": 1,
+      "created_utc": 1739456211.0
+    },
+    {
+      "author": "10mils",
+      "body": "Can you give me a practical example of reputable site, the format & device on which you had the abnormal CTR? I'd like to check a few things directly on the site",
+      "score": 1,
+      "created_utc": 1739466828.0
+    },
+    {
+      "author": "Curly-Girl1110",
+      "body": "We switched back to Video Action and saw our invalid traffic drop almost immediately. Will not be testing DG any time soon after that nightmare",
+      "score": 2,
+      "created_utc": 1739521497.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Well I have seen the CTR in general jump up a lot on DV360 lot since start of 2024. \nDo you know if this CTR is driven by a specifc creative size? 480x320 etc?",
+      "score": 1,
+      "created_utc": 1739456335.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "[Thetimes.co.uk](http://Thetimes.co.uk) \\- 1.22% on Phone 300x250 over 85K impressions.  [theguardian.com](http://theguardian.com) \\- 300x600 -  300x250 - 3.76% and 2.26% respectively low delivery on this though.",
+      "score": 1,
+      "created_utc": 1739474575.0
+    },
+    {
+      "author": "aeo1122",
+      "body": "Doesn't look like size, device, or site specific. Although there are sites with normal CTRs but there also some reputable sites with extremely high CTR.",
+      "score": 1,
+      "created_utc": 1739463310.0
+    },
+    {
+      "author": "Lucky-Fan6031",
+      "body": "Have you tried any other DSP? Maybe try a whitelist of those sites from a different DSP?",
+      "score": 2,
+      "created_utc": 1739490258.0
+    }
+  ]
+}

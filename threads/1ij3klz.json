@@ -1,0 +1,21 @@
+{
+  "id": "1ij3klz",
+  "title": "Has Anyone Run a YouTube Audio Campaign in DV360?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ij3klz/has_anyone_run_a_youtube_audio_campaign_in_dv360/",
+  "created_utc": 1738851535.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "msp011581",
+      "body": "Before YouTube Audio Ads can be built within DV360, your Team must work with the Client Team to gain Editor/Manager Permission Rights for the Client’s YouTube Channel and link it within the Advertiser settings in DV360. This is required to push Audio Ads built in DV360 into the Client’s YouTube Channel to generate and obtain the YouTube URL that is needed to build the YouTube Audio Ad within DV360.\n\nOnce the correct permission levels have been granted for the Client’s YouTube Channel and linked within DV360, the following assets are needed to begin the process of creating the YouTube Audio Ad:\n\n-\tMP3 File (15 Sec or 30 Sec, cannot be skippable, 1 GB max file size, cannot use 3rd Party Audio Tag or synced Audio Creative from CM360)\n-\tCompanion Banner (gif/jpg, must be built in 16:9 ratio). Google suggests using a companion with light animation or a static image with a call to action message in the image. If no companion is used, a blank black companion will show.\n-\tTitle Name – Name that will appear in YouTube\n-\tDescription - Information that shows below the YouTube video\n-\tPrivacy Mode – Public or Unlisted\n\nBuild the Audio Ad in DV360\nIn the Creative Details Tab, there is a section named YouTube uploads.\nComplete the process in that section, obtain the YouTube URL\nIn the Ad Group built in the YouTube IO/Line Item, use that YouTube URL for the Ad creation.\n\nHope that helps.",
+      "score": 6,
+      "created_utc": 1738861688.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "My 2 cents: don't have performance expectations",
+      "score": 2,
+      "created_utc": 1739009271.0
+    }
+  ]
+}

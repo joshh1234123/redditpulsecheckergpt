@@ -1,0 +1,75 @@
+{
+  "id": "1lx7qzk",
+  "title": "[DV360/CM360] Dynamic Re-marketing Setup",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lx7qzk/dv360cm360_dynamic_remarketing_setup/",
+  "created_utc": 1752242659.0,
+  "num_comments": 11,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "If you want actual DCO then you'd need to involve Studio too. It's still fairly popular but heavy dependant on 3p cookies.",
+      "score": 3,
+      "created_utc": 1752246626.0
+    },
+    {
+      "author": "someguyinadvertising",
+      "body": "You'll need to run DCO and build a feed etc etc. You can DIY manually or use a platform. Some vendors will do it for ya. Some agencies have internal tools and teams for this as well. (edit: and yes, it's done via platform / vendor and goes through google studio)",
+      "score": 2,
+      "created_utc": 1752361992.0
+    },
+    {
+      "author": "maksym-zakharko",
+      "body": "I am working on exactly same project.\n\nFor this you will need CCM, DV & Studio.\nContacted DV support already regarding pricing.\nGot information that Google won’t charge for DCM code gathering data for DCO, but regarding costs you will have DCM CPM on top on DV media buying \n\nPersonally for me looks a little difficult to start, Criteo looks much easier choice. But have a certain campaign where need to run using DV.",
+      "score": 1,
+      "created_utc": 1752403318.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "What's studio ?",
+      "score": 0,
+      "created_utc": 1752249612.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "Do you mean ads creative studio? I thought this was sunsetted in March this year",
+      "score": 0,
+      "created_utc": 1752250077.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "Have you ever used the shopping feed for this purpose too? Trying not to reinvent the wheel if we have some parts already.",
+      "score": 1,
+      "created_utc": 1752477252.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "What is CCM here?\n\nYeah similar story, we have put a lot of work into Google setup so really have to justify why we would do retargeting elsewhere and implement a new setup for it.",
+      "score": 1,
+      "created_utc": 1752477174.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "Ads Creative Studio was deprecated. Studio is a different application: [https://support.google.com/richmedia/answer/2389093?hl=en](https://support.google.com/richmedia/answer/2389093?hl=en)",
+      "score": 3,
+      "created_utc": 1752256930.0
+    },
+    {
+      "author": "GlobalMediaAgency",
+      "body": "I was going to suggest looking into shopping: it’s a superior product to the DCO/DV360 setup and Google ads tends to be more affordable and higher up in the ad stack (second reason: clients trust clicks, not view through where majority of CM360 / DV360 traction appears). I have a great group that can do custom builds in DCO if you need (really more of a creative discipline than a media one), but with Google Shopping and Criteo on the market (which, btw also wins cheaper inventory because it makes upfront deals with Google), it’s hard to argue that DCO via CM/DV will ever compete. \n\nGoogles agency ad tech is just second rate. I wish they’d invest or spin it off and let it die (bc let’s be real: if it weren’t Google backed, CM would NOT exist).  Good luck and glad to DM.",
+      "score": 2,
+      "created_utc": 1752495859.0
+    },
+    {
+      "author": "maksym-zakharko",
+      "body": "Sorry, misspelled; meant DCM.\n\nI totally agree with you, that\\`s what I am working on too.  \nBut despite that, would be great to test how DV works in this case",
+      "score": 2,
+      "created_utc": 1752521572.0
+    },
+    {
+      "author": "someguyinadvertising",
+      "body": "Curious - any links? Worked with Criteo but more on shopping specific + DCO",
+      "score": 1,
+      "created_utc": 1752582096.0
+    }
+  ]
+}

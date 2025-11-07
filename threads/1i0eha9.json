@@ -1,0 +1,45 @@
+{
+  "id": "1i0eha9",
+  "title": "User retention tracking - help",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i0eha9/user_retention_tracking_help/",
+  "created_utc": 1736776554.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "EarthPrimer",
+      "body": "What platform are you serving videos through? That is going to be your best source for video metrics",
+      "score": 1,
+      "created_utc": 1736779725.0
+    },
+    {
+      "author": "Jeanguy777",
+      "body": "You can add Google Tag Manager to your website to have Google analytics. \nThen create a view-count floodlight !",
+      "score": 1,
+      "created_utc": 1736801116.0
+    },
+    {
+      "author": "Hot_Banana_9547",
+      "body": "We build with wordpress and video.js",
+      "score": 1,
+      "created_utc": 1736791798.0
+    },
+    {
+      "author": "Hot_Banana_9547",
+      "body": "Thank you, sir. Looking this up as soon as I punctuate this sentence.",
+      "score": 1,
+      "created_utc": 1736863179.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "That’s the reporting platform you’re pulling data into - I mean the platform that your media team is using to buy video",
+      "score": 1,
+      "created_utc": 1736793261.0
+    },
+    {
+      "author": "Hot_Banana_9547",
+      "body": "We are actually the publishers and would be using GAM to create our private sale ads, but we need metrics for the sales team.\n\nSorry if I am coming off as confusing or unclear. Trying my best here.",
+      "score": 1,
+      "created_utc": 1736794743.0
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "1nmqaka",
+  "title": "Are DOOH campaigns worth it?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nmqaka/are_dooh_campaigns_worth_it/",
+  "created_utc": 1758456609.0,
+  "num_comments": 32,
+  "comments": [
+    {
+      "author": "Professional-Net-317",
+      "body": "You can approach this from the mindset of a consumer as well. Not only is DOOH traditionally known for brand awareness, but it’s also received a lot better than CTV and other video ads. You’re not interrupting someone’s movie or show 5+ times with the same ad. You’re instead sprinkling your message in front of them during their usual commutes/journeys. Because it’s less intrusive, it’s received better and people tend to have a better perception of the brand/message.\n\nPersonally, I hate getting ads on prime, Hulu, Netflix etc. and it always tends to be the same 2-3 ads. \n\nPlus with DOOH you can amplify it on social media and it makes the brand/message seem more legit.",
+      "score": 14,
+      "created_utc": 1758464163.0
+    },
+    {
+      "author": "thorirhundr",
+      "body": "Out dooh campaigns are killing it for awareness/consideration. You need a lift study partner to help measure success. Look into dynata or mfour.",
+      "score": 11,
+      "created_utc": 1758463528.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "measuring \"success\" for awareness/branding DOOH is tricky because we're looking at soft metrics. In my campaigns, I've used mostly Billboards, Urban Panels, Transit + Bus Shelters, and Taxi Tops.  \n  \nthere are options like brand lift studies (worked with mfour, Adsquare, and another third-party measurement partner, can't remember the name right now). Honestly though, I don't have much faith in these studies. And they are costly.\n\nbetter option: run a DOOH campaign, collect the device IDs from people exposed to your ads, then retarget those same IDs with Display/Video/CTV campaigns. Compare the performance against your regular campaign lines to see if there's any actual difference. Way more reliable than those brand lift surveys IMO.",
+      "score": 7,
+      "created_utc": 1758486785.0
+    },
+    {
+      "author": "Guidosama",
+      "body": "It really really depends on the quality of what you buy. Some billboards are incredible spaces that will get a ton of traffic and eyeballs.\n\nBut other units are awful, waiting room TVs in random retail stores, or small vertical banner units in walkways. So it’s important to be really thoughtful in building the plan.\n\nI’d consider non programmatic partners first who own a lot of the best inventory.",
+      "score": 5,
+      "created_utc": 1758464995.0
+    },
+    {
+      "author": "Consistent_Map_4855",
+      "body": "The tricky question is: How u measure sucess with dooh campaigns?",
+      "score": 4,
+      "created_utc": 1758458297.0
+    },
+    {
+      "author": "NailBite33",
+      "body": "DOOH is a very effective channel in the media mix, especially nowadays as consumers spend more time outside of their homes. I’d say campaigns I ran really well are the ones where the messaging is contextually relevant to the ad, for example a travel brand leveraging weather triggers. If you’re also buying other channels in an omni-channel DSP, OOH is a great way to drive depth and capture more market share based on which zip codes are driving performance on digital channels. Retargeting is also a great tactic, due to as someone mentioned before, receptivity for OOH is higher than TV or Digital and we use OOH to warm up consumers for higher engagement on lower funnel tactics. We’ve seen much shorter conversion windows based on reporting from TTD when OOH is in the path to conversion.\n\nIn terms of measurement, there’s been significant growth in the industry in the last 5 years or so. You can set up pixels on your landing/conversion pages and match deviceIDs of those exposed to OOH for attribution. I’d also recommend including OOH into your MMMs, and geo-lift incrementality tests. \n\nOverall, it isn’t fair to say OOH isn’t measurable and it’s just an awareness play. Tons of research and data out there shows that it’s an effective performance channel in a space that isn’t as saturated as what we’re seeing on CTV, digital and social.",
+      "score": 2,
+      "created_utc": 1758564473.0
+    },
+    {
+      "author": "Lanwel",
+      "body": "How do you make sure that your curreny vdeo campaigns are helping with awareness ? What are your metrics and goals?\n\nDOOH or POOH is pretty much similar with ooh, however you get to choose locations and time precisely. If you already have budget at ooh i would suggest taking budget from there.",
+      "score": 1,
+      "created_utc": 1758458448.0
+    },
+    {
+      "author": "misfitsx138",
+      "body": "Try podcast ads",
+      "score": 1,
+      "created_utc": 1758474683.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "We can't answer this question without understanding your product and how you measure successful lift in awareness.\n\nDOOH as a channel can be very effective, but you have to know how you're going to measure success and what makes the most sense for the product/service you're trying to push",
+      "score": 1,
+      "created_utc": 1758528268.0
+    },
+    {
+      "author": "waltima",
+      "body": "What’s is the appropriate level of reporting expected for DOOH campaigns?",
+      "score": 1,
+      "created_utc": 1758545998.0
+    },
+    {
+      "author": "Kalpana-Rathore",
+      "body": "Absolutely, absolutely, truly, DOOH is a worthwhile investment — but only if you want. If your objective is solely brand awareness, then DOOH shines because nobody fast-forwards it like they would internet ads. You get to see it out in the high-traffic spots — the mall, the airports, the subway stations, the congested streets — so basically, you’re paying for the unbeatable exposure.\n\nThat noted, however, it's not always the cheapest game in town, and the ROI is consistently harder to deliver compared to Amazon DSP or DV360. Where it does shine, however, is when you supplement it with your online campaigns. You’re exposing people online, for example, and then they also get your brand when they’re out walking around and seeing the big screen — the repeat exposure helps a lot for recall.\n\nIn terms of formats, I’ve seen transit screens, large-format billboards, and store DOOH do very well for awareness. The key is to keep the creative robust, simple, and loop-compatible since people only get a glimpse for a few seconds.",
+      "score": 1,
+      "created_utc": 1758607256.0
+    },
+    {
+      "author": "errbodywangchung2nyt",
+      "body": "My answer would be similar to others, in that it’s a top-funnel awareness/branding play, and IMO, a worthwhile inclusion in what should always be a holistic approach to programmatic. You should message exposed user segments with sequential calls to action via display/video/CTV retargeting to drive them further down the funnel, (esp if attempting more of a direct response strategy seeking to drive lower funnel conversions). \n\nDOOH as a standalone tactic is prob not the best way to spend your clients’ budget if it’s small and only provides enough media buying power for a singular channel campaign. But if part of a multi-channel programmatic strategy, it makes a lot of sense as it’s less-intrusive, it’s “breaking a mold” or it’s “different” than other programmatic formats (not only in terms of look and feel, but certainly in terms of planning, etc) and it allows for logical QR code scanning and different types of interaction.\n\nI recommend getting in touch with a Vistar or Place Exchange rep and having them talk through their methodology, planning/forecasting tools, venue/screen types, etc and go from there.",
+      "score": 1,
+      "created_utc": 1758940834.0
+    },
+    {
+      "author": "adv_geek_789",
+      "body": "I’ve run DOOH a few times in iGaming and in broader programmatic campaigns. It can be worth it, but not if you’re chasing direct conversions.   \n  \nThe real value is awareness and brand lift, especially when you run it alongside mobile or display retargeting.Back in 2021, we saw the biggest impact when DOOH was combined with digital follow-ups — brand searches and direct traffic went up during those periods.Programmatic DOOH also makes a big difference compared to old-school OOH. You get dayparting, geofencing around key locations, and frequency controls, which makes the spend more efficient.   \n  \nSo yes, DOOH has value, but I’d treat it as an awareness driver that supports your other channels, not as a stand-alone performance engine.",
+      "score": 1,
+      "created_utc": 1759495071.0
+    },
+    {
+      "author": "im_super_excited",
+      "body": "No.\n\nPricing is inflated due to fictional impression multipliers being used.\n\nScreens keep running ads when the venues know that no one is there. There is zero accountability or validation.\n\nThe measurement sounds like it's out of Minority Report, but it's all based on loose probabilistic matching happening behind the scenes.\n\nThere is no standardization of specs, so you'll need to build lots of creatives in obscure dimensions.",
+      "score": 0,
+      "created_utc": 1758827792.0
+    },
+    {
+      "author": "Consistent_Map_4855",
+      "body": "Ok, but how to measure?",
+      "score": 3,
+      "created_utc": 1758465530.0
+    },
+    {
+      "author": "CSmooth",
+      "body": "How do you collect device id’s from people impressed upon by DOOH displays? Surely the transit authorities aren’t selling a list of device lists by station to advertisers or curious minds?",
+      "score": 2,
+      "created_utc": 1758490867.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Yeah there is a double sided digital billboard on a 2 lane road that is giagantic. I ran an add during commute schedules and after $500-$1000 spent i didnt get any mention that they saw me from that. Where as YouTube and Amazon stuff was within a day or two of running campaign.",
+      "score": 2,
+      "created_utc": 1758466600.0
+    },
+    {
+      "author": "Professional-Net-317",
+      "body": "I don’t think you should completely discredit other kinds of place-based DOOH. I think it’s dependent on the context and the advertiser. For instance, it would be a no-brainer for a CPG brand to buy a screen in a grocery store. \n\nBut yeah the unfortunate thing with buying programmatically on the Open Exchange is you don’t really get the full picture on the inventory you buy and it can sometimes be misrepresented. \n\nI do agree that you’re better off meeting/discussing directly with the media owners to get a sense of what you’re buying.",
+      "score": 1,
+      "created_utc": 1758504994.0
+    },
+    {
+      "author": "KillerKoe",
+      "body": "Work with your partners, plenty of measurement solutions out there.",
+      "score": 3,
+      "created_utc": 1758459156.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Well people walk in and tell us they saw us on TV and that is happening weekly. I did try some digital Billboards and a general mix of stuff but no one told me they saw me any of those places like they did with TV.",
+      "score": 1,
+      "created_utc": 1758459352.0
+    },
+    {
+      "author": "Professional-Net-317",
+      "body": "Depends on what you want to measure. If you want Brand Lift Studies then there are a lot of 3rd party vendors that can do this for you, like MFour for instance. \n\nI can’t speak for Vistar, but we have an agreement with Hivestack where we can offer media buyers Brand Studies on campaigns they run on our screens. There are just minimum requirements you have to meet.",
+      "score": 2,
+      "created_utc": 1758466240.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "DOOH vendors use geofencing - they draw a boundary around the screen location and capture anonymized device IDs from phones that pass through while your ad is running. Platforms like Vistar handle this automatically, and if you're on TTD, those device IDs show up as retargetable segments you can use right away.",
+      "score": 4,
+      "created_utc": 1758503336.0
+    },
+    {
+      "author": "nattyandthecoffee",
+      "body": "The cell companies sell this data - did your phone ping as you walked past it… kind of uncomfortable level of knowledge!",
+      "score": 3,
+      "created_utc": 1758496551.0
+    },
+    {
+      "author": "chockZ",
+      "body": "That is not enough budget to have a meaningful, measurable impact when it comes to OOH investment.",
+      "score": 6,
+      "created_utc": 1758468042.0
+    },
+    {
+      "author": "Consistent_Map_4855",
+      "body": "Would you please show me some?",
+      "score": 0,
+      "created_utc": 1758465693.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "How do you ask ppl? Through Online surveys on particular platforms?",
+      "score": 1,
+      "created_utc": 1758459813.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "OOH and traditional formats worked since the beginning of time.",
+      "score": 1,
+      "created_utc": 1758545285.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "I am running ads for my own business and people come to our office for services. So when they walk in the door I ask them how you heard about us?",
+      "score": 2,
+      "created_utc": 1758460132.0
+    },
+    {
+      "author": "Consistent_Map_4855",
+      "body": "Sure, but they never had a meanigful way to measure. And we still dont",
+      "score": 0,
+      "created_utc": 1758552246.0
+    },
+    {
+      "author": "Nearby-Chair8608",
+      "body": "This is why our jobs are more stressful than they should be. \n \nMarketing has taken the brunt of the blame for results. \n\nAre sales up or down? That's how we should gauge.",
+      "score": 3,
+      "created_utc": 1758552597.0
+    }
+  ]
+}

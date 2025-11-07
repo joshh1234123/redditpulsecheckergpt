@@ -1,0 +1,27 @@
+{
+  "id": "1mkmoec",
+  "title": "Demo targeting",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1mkmoec/demo_targeting/",
+  "created_utc": 1754630409.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "AlDenteDDS",
+      "body": "Don't waste your money on demo audience data especially in ctv - if you care about demos for ctv, treat it like linear and build your publisher and show mix",
+      "score": 2,
+      "created_utc": 1756258486.0
+    },
+    {
+      "author": "CoffeeNerves",
+      "body": "Quantcast.",
+      "score": 1,
+      "created_utc": 1754706426.0
+    },
+    {
+      "author": "Cam_Armstrong",
+      "body": "Cadent Audience Manager is great for custom audience construction (ID-Less, if you want it), and then Ad Manager (DSP) for execution - much more efficient than DV and TTD. DM me on Linkedin if you're curious.",
+      "score": 1,
+      "created_utc": 1754950195.0
+    }
+  ]
+}

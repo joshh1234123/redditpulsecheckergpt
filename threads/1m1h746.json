@@ -1,0 +1,81 @@
+{
+  "id": "1m1h746",
+  "title": "TTD Predictive Clearing",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m1h746/ttd_predictive_clearing/",
+  "created_utc": 1752683249.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "Ok-Disaster-6387",
+      "body": "If you run PMP deals and the floor price is anything above ~$0.10(I don’t know the actual number), predictive clearing will try bid below this to clear at lower bids, however, it won’t scale your campaigns as the publisher/partner has set their clearing price at a minimum. \n\nIf you’re using KoKai, from my experience, I’ve seen the platform have their average bid price towards the max bid, so I’d recommend reducing this as soon as the campaign starts scaling so you’re not over paying for inventory (with predictive clearing off), you’ll see high win rates which indicates KoKai is pushing bids to the max bid price \n\nPredictive clearing is good if used well, like the comment above, if running on OE, always have on. If you’re seeing floor prices, turn off for scale (but limit max bids) & if you can, have it on and reduce max bids too, to reduce the fees",
+      "score": 9,
+      "created_utc": 1752695521.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "For PMPs you should be negotiating the price directly with the supplier, so predictive clearing isn’t a good fit in that scenario. It’s a better tool for open exchange.",
+      "score": 3,
+      "created_utc": 1752728415.0
+    },
+    {
+      "author": "SlimSloane",
+      "body": "I work SSP side and our demand clients always see it hindering scale",
+      "score": 5,
+      "created_utc": 1752735023.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "A TTD rep recommended turning it off? Was your win rate super low? Odd to me that they would ever tell you to turn off a product that helps increase their margin unless it was a set up struggling to deliver and you needed to boost your odds of winning.",
+      "score": 4,
+      "created_utc": 1752684645.0
+    },
+    {
+      "author": "childroid",
+      "body": "Turn it off when you have PMP deals assigned since it'll try bidding below the deal floor price. You wont scale.\n\nAlso, if you're using Kokai, TTD adds their own \"Sellers & Publishers 500\" curated deal *by default.* So you have to go into Inventory Controls and turn that off every time you make a new ad group. If you're running a PMP deal, that's not good. I can't tell you how many times that's bitten me in the ass. I submitted a bug report and asked them to remove that feature.",
+      "score": 2,
+      "created_utc": 1752757592.0
+    },
+    {
+      "author": "wickedysplit25",
+      "body": "I would love if someone could provide some screenshot! I'm still learning",
+      "score": 1,
+      "created_utc": 1752717755.0
+    },
+    {
+      "author": "programmatic_bitch",
+      "body": "In general, I turn it off to minimize extra fees when running against 1P contracts, but may keep it on for any strategies against the open market.",
+      "score": 1,
+      "created_utc": 1752688656.0
+    },
+    {
+      "author": "knights_of_jim",
+      "body": "Is your adgroup targeting a deal that supports multiple publishers and floors? This is more common with curation. Predictive clearing will hurt scale against these types of deals because this feature only pays attention to the LABELED floor on the private contract page, and not the actual floors sent in request data. If you want to avoid turning off predictive clearing, just leave the labeled floor of the deal blank. It’s optional. Don’t enter 0 as this is considered a value, just blank.",
+      "score": 1,
+      "created_utc": 1752695920.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "What's predictive clearing ?",
+      "score": 0,
+      "created_utc": 1752696406.0
+    },
+    {
+      "author": "perry_190",
+      "body": "No the partner I have a PMP with recommended turning it off, while TTD recommends keeping it on",
+      "score": 2,
+      "created_utc": 1752761686.0
+    },
+    {
+      "author": "perry_190",
+      "body": "It’s a feature in the Base and Max Bid tile in TTD",
+      "score": 1,
+      "created_utc": 1752761876.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Ahhhhh that makes more sense. Partner might recommend this to help you increase your win rate or to help their CPM yield. TTD will keep it on to help increase their margin yield. Depends on if you want to win more inventory from this partner or not.",
+      "score": 2,
+      "created_utc": 1752764074.0
+    }
+  ]
+}

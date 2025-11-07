@@ -1,0 +1,69 @@
+{
+  "id": "1ngrzbp",
+  "title": "Anyone run ads during live college sports?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ngrzbp/anyone_run_ads_during_live_college_sports/",
+  "created_utc": 1757858234.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "Litgang",
+      "body": "yes, through deals directly with publishers + dayparting based on time zone in TTD. TTD also just dropped a deal network selection tool that you can use to only target live sports by league",
+      "score": 6,
+      "created_utc": 1757858808.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "TTD’s bidder for live sports is trash (aka spend as fast as you can so you blow out your budget by halftime). Y! and AMZ is decent responsive bidders for live streams to prevent that. Freewheel has an interesting feature which you can pace by stream not based on HH or device.",
+      "score": 3,
+      "created_utc": 1757986391.0
+    },
+    {
+      "author": "lurkerprofile26",
+      "body": "I don’t know what VS is but I would imagine any pubs with live sports avails can just create one for you with those parameters? My account runs live sports lines and we just used off the shelf ones in TTD, but I’m positive you could get a bespoke PMP",
+      "score": 2,
+      "created_utc": 1757858925.0
+    },
+    {
+      "author": "JMDallas137",
+      "body": "StackAdapt has a great live sports offering.",
+      "score": 2,
+      "created_utc": 1758042480.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Yeah it’s possible. Do you mean just ctv? Or display/video also? But really think if it makes sense. If you run a sb paltform then people make more pregame bets but you can tie in-game dynamic odds in as well for display.  Usually data collectors run ads as well",
+      "score": 1,
+      "created_utc": 1757860281.0
+    },
+    {
+      "author": "Rich_Restaurant_3709",
+      "body": "Live sports is one of the few things I still do on a managed service.",
+      "score": 1,
+      "created_utc": 1757894363.0
+    },
+    {
+      "author": "WhaleyWino235",
+      "body": "My company does live sports across all sports and DSP/SSP agnostic. Directly with us is cheaper and transparent reporting. We create PMPs/PGs/Direct IO as well. 100% fraud free inventory that you don’t need to day part - it’s just runs when specific sports are live. \nSorry to sound like a sales rep on a Sunday but if you wanna chat - DM me!",
+      "score": -5,
+      "created_utc": 1757859172.0
+    },
+    {
+      "author": "curioalpaca",
+      "body": "Ya this is how I do it in stackadapt. You need a decent budget to lock in specific games with a publisher (although your DSP can handle this for you). Otherwise, I’d day part live sports on specific channels you know are running that game, and odds are you’ll be where you want",
+      "score": 1,
+      "created_utc": 1757862635.0
+    },
+    {
+      "author": "BobbyDigital1986",
+      "body": "Same- I work on the supply side and IOs are the only way I’m selling live sports. It doesn’t make it down the big stream to purchase programmatically with any real scale IMO from the deals I’ve tried.",
+      "score": 1,
+      "created_utc": 1757897110.0
+    },
+    {
+      "author": "Icy-Author5506",
+      "body": "Outside of RSN (like OTTA) and some Netflix live streams, there is no need go managed IO for most live sports buys.",
+      "score": 1,
+      "created_utc": 1757986535.0
+    }
+  ]
+}

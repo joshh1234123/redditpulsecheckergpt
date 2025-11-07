@@ -1,0 +1,87 @@
+{
+  "id": "1gpetaj",
+  "title": "Tools for tackling ad fraud",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1gpetaj/tools_for_tackling_ad_fraud/",
+  "created_utc": 1731393990.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "alondonkiwi",
+      "body": "Fraud is a game of whack-a-mole and comes in many shapes, some are publishers but some will be driven by infected devices.\n\nHow are you reporting the fraud to know there is an issue? If it's being reported by a specific measurement vendor aligning their prebid feature should help lower fraud being purchased. \n\nPrebid fraud segment should also reduce your manual whack-a-mole, would definitely suggest applying these segments where available (if you don't have a vendor on measurement just pick one for prebid) \n\nAds.txt and app-ads.txt - in the past a lot of fraud was pretending to be a premium publisher, make sure these are enabled on the DSP to only buy authorised inventory and if you have fraud issues I'd consider even being stricter to Direct only if it doesn't kill your scale to also cut out resellers. \n\nUser similarweb or such site to help sense check suspicious sites in reports, this is really helpful if you also want to strip MFA (although they aren't inherently fraud they can be low value) did a site volume suddenly explode? What are their traffic sources?\nMore manual but you might get enough info out the free version.",
+      "score": 3,
+      "created_utc": 1731400624.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "are you buying ads to drive traffic? what types of ads are you buying?",
+      "score": 2,
+      "created_utc": 1731413943.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "If your ad network uses your conversion data to understand what sort of traffic to send you, the best thing you can do is detect and disable bots, so they can't generate fake conversions. Typically this reduces click fraud by 50% - 80% within two months.",
+      "score": 1,
+      "created_utc": 1731408254.0
+    },
+    {
+      "author": "ArchitectofExperienc",
+      "body": "From the marketing perspective, this is where consumer surveys can come in handy. They won't help you identify bots, but they can help you focus your resources on the services/keywords/ that are actually generating conversions. \n\n\nIncentivizing responses is a beast of a problem, though, especially with low-volume sales. If your conversion is 1-5%, then your response rate from those conversions is probably 1-5% or less. I've had a few people recommend giving discount codes for completed surveys, which could help",
+      "score": 1,
+      "created_utc": 1731431916.0
+    },
+    {
+      "author": "Beginning_Window7205",
+      "body": "I would recommend tools like Valid8 by mFilterit because they use AI driven traffic validation, device fingerprinting, behavioral analysis to detect fake clicks and impressions in real time.",
+      "score": 1,
+      "created_utc": 1760609215.0
+    },
+    {
+      "author": "PassageInside4656",
+      "body": "Using prebid doesn’t really help. Since the data at prebid level is self declared by publisher. \nUse a full funnel monitoring solution (like mFilterIt) where you monitor impressions to clicks to visits to actual events and look at how the users journey is. \nAlso this is not a space for manual work and needs automated handling since bots are quick and fast and manual analysis doesn’t help.",
+      "score": 1,
+      "created_utc": 1731551166.0
+    },
+    {
+      "author": "Easy-Purple-1659",
+      "body": "We are buying ads to drive conversion. We are mostly buying display ads",
+      "score": 1,
+      "created_utc": 1731590579.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "how do you disable bots?",
+      "score": 1,
+      "created_utc": 1731413918.0
+    },
+    {
+      "author": "dhiraj-mFilterIt",
+      "body": "thank you.. yes at Mfilterit we have been working on this for long and trying to ensure adFraud is handled across the funnel (whether brand or performance).",
+      "score": 1,
+      "created_utc": 1731565448.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "We prevent the bots from being able to interact with the landing page, so they're effectively stuck in a dead end until they leave the website.",
+      "score": 2,
+      "created_utc": 1731416823.0
+    },
+    {
+      "author": "Easy-Purple-1659",
+      "body": "Is it possible to identify fraud at publisher level in Mfilterit? What actions we can take on the ad plaforms based upon Mfilterit inisights ?",
+      "score": 1,
+      "created_utc": 1731590910.0
+    },
+    {
+      "author": "dhiraj-mFilterIt",
+      "body": "Bots have become very smart and sophisticated. So while these are approaches which were solved by things like captcha etc, it is no longer that easy. Infact most websites now DONT try to block bots but route them to alternate content and pages.",
+      "score": 1,
+      "created_utc": 1731565507.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "You don't block bots using captchas, as that's unreliable. For example, reCaptcha and hCaptcha have had work arounds for about six years. \n\n> Infact most websites now DONT try to block bots but route them to alternate content and pages.\n\nI strongly disagree with this. Most website operators haven't even heard of ad fraud and have no defenses in place.",
+      "score": 1,
+      "created_utc": 1731565811.0
+    }
+  ]
+}

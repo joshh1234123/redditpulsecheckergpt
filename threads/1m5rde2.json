@@ -1,0 +1,105 @@
+{
+  "id": "1m5rde2",
+  "title": "Pitching diversification via multiple DSPs. Top 3 motivators?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1m5rde2/pitching_diversification_via_multiple_dsps_top_3/",
+  "created_utc": 1753123716.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "CostPerMeal",
+      "body": "Disaster for frequency management",
+      "score": 13,
+      "created_utc": 1753148768.0
+    },
+    {
+      "author": "PermissionPositive65",
+      "body": "Inventory is king. As long as one DSP cant cover all, diversification is needed for big players and agencies. \nData is also king. Google and Amazon are sitting on alot of valuable and easily accessable data.",
+      "score": 3,
+      "created_utc": 1753130420.0
+    },
+    {
+      "author": "Order4Zock",
+      "body": "Not sure how large budgets are, but you may want to mindful of cross-bidding/competing with yourself in auctions. Could be mitigated by making clear distinctions in channel mix or inventory targeted in each platform. Just something to keep in mind",
+      "score": 2,
+      "created_utc": 1753131133.0
+    },
+    {
+      "author": "employerGR",
+      "body": "We do this for a few reasons. Sometimes one platforms just performs better for a specific kind of targeting. Sometimes a client has a specific need that one is just better at.  \n\nAlso- it allows us to negotiate terms a little more and have some leverage.  \n\nAND if one line or tactic isn't pacing, you can add a platform to help pace.  \n\nI don't worry about frequency too much as each platform and tactic is going to reach different people.  \n\nBUT the caveat is you have to have the spending power to get reduced rates and specials or else you just end up paying more.   \n\nWe also will go for direct buys with certain vendors bypassing the DSP. So its a lot of moving parts and our hands on keyboard peeps have to be good at it.  \n\nMOST of the time - we have one client campaign in one DSP but it helps to have options. AND some clients seek out agencies that use a specific DSP or have options other than say TTD. So if someone is looking for a team with multiple options- we can fulfill that.",
+      "score": 2,
+      "created_utc": 1753357831.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "Good thread. A few things that help when running across multiple platforms:\n\n1. Split Test by region\nKeeps auctions clean and avoids bidding against yourself. Simple but effective.\n\n2. Assign by channel and publisher\nMobile, CTV, audio, DOOH all behave differently. Some platforms are just better suited for certain formats and inventory exclusivity is a real challenge. Giving each one a lane and a reason helps with pacing, optimization, and creative fit.\n\n3. Cross-channel feedback loops\nWe’ve seen wins in mobile influence how we approach CTV or DOOH. Even if attribution is messy, directional signal from a vendor like northbeam, triple whale or kochava helps guide creative and spend.\n\nI’m the founder of [GetAdLib.com](https://GetAdLib.com) We’re built around this kind of thinking, so a little biased, but we’ve seen it work at scale.",
+      "score": 2,
+      "created_utc": 1753463300.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "What clients do you serve? If you have anyone in controlled areas then some dsp’s drop off.",
+      "score": 1,
+      "created_utc": 1753126906.0
+    },
+    {
+      "author": "GrizzledWizard",
+      "body": "Not suggesting you are going to do this but I would avoid running the same or similar tactics in multiple DSP's. You're competing against yourself, but also adding a ton of unnecessary work for your agency. Consolidate as much as possible. If you're running on both DV360 and TTD it is really easy to run into redundancies, especially as the campaign evolves.\n\nI would personally strongly to prefer to not run on both of these for the same brand at the same time but if you're using specific features that aren't offered on the other platform then it can be justified.",
+      "score": 1,
+      "created_utc": 1753148946.0
+    },
+    {
+      "author": "SaveOurServer",
+      "body": "You seem to be implying that working with more platforms is better than working with fewer platforms. I generally believe the opposite to be true. \n\n  \nYou're going to lose out on potential JBP benefits from consolidation, waste from frequency management, and the operational costs of setting up/integrating a new platform into your mar tech.\n\nWithout knowing any of your specifics, the only thing that makes sense to me from what you've described is testing out TTDs OOH capabilities since both DV360/Amazon don't have that. I'd keep the rest where you have it. If you end up liking TTD, you could consider a bigger shift to your DSP portfolio, such switching your YT to GA and getting rid of DV360.",
+      "score": 1,
+      "created_utc": 1753249221.0
+    },
+    {
+      "author": "angadgrover91",
+      "body": "What kind of reporting is available on TTD for ooh?",
+      "score": 1,
+      "created_utc": 1753341150.0
+    },
+    {
+      "author": "thedpd7",
+      "body": "This is where I start thinking SSP strategy. Which also hurts my brain.",
+      "score": 1,
+      "created_utc": 1753136066.0
+    },
+    {
+      "author": "thedpd7",
+      "body": "Really want to toy around with TTD's REDS for the ultimate multi-dsp analysis at the bid level. As much as it makes my brain hurt, that's where I've heard efficiencies can be found. \n\nBut definitely considering at least different creatives per DSP (probably really only 3, 4 DSPs tops) so that those lower funnel folks don't get annoyed being oversaturated. Probably an unusually strict remarketing frequency too.",
+      "score": 0,
+      "created_utc": 1753136004.0
+    },
+    {
+      "author": "thedpd7",
+      "body": "Working on a single large-scope CPG client. Could you please expand on \"controlled areas?\"",
+      "score": 1,
+      "created_utc": 1753128039.0
+    },
+    {
+      "author": "thedpd7",
+      "body": "Those exposures are included in Path to Conversion",
+      "score": 2,
+      "created_utc": 1753444616.0
+    },
+    {
+      "author": "Such_Paleontologist2",
+      "body": "Wouldn't using multiple dsps to target lower funnel audiences only result in your brand competing against themselves?",
+      "score": 1,
+      "created_utc": 1753218463.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Gambling mostly",
+      "score": 1,
+      "created_utc": 1753128438.0
+    },
+    {
+      "author": "thedpd7",
+      "body": "Ah, nope. No controlled areas here. Pretty viable global brand across the board.",
+      "score": 1,
+      "created_utc": 1753128953.0
+    }
+  ]
+}

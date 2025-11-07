@@ -1,0 +1,201 @@
+{
+  "id": "1i9chrb",
+  "title": "Holding my nose asking this: general CTRs of Taboola/Outbrain?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i9chrb/holding_my_nose_asking_this_general_ctrs_of/",
+  "created_utc": 1737770825.0,
+  "num_comments": 32,
+  "comments": [
+    {
+      "author": "Mitchell-n",
+      "body": "Don’t do it",
+      "score": 11,
+      "created_utc": 1737772140.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "0.2% if you’re lucky once you weed out the fraud.",
+      "score": 7,
+      "created_utc": 1737776918.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "Traffic quality is very bad, but it's cheap, hence why they're so popular with click arbitrage companies - you pay very little and the bots click on your ads.\n\nIf I were you I'd explain this to your manager and change the KPI to something like *clicks from humans*.",
+      "score": 7,
+      "created_utc": 1737787686.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Sad reading this. CTR is still the major KPI everyone cares about on publisher side 😂",
+      "score": 5,
+      "created_utc": 1737778203.0
+    },
+    {
+      "author": "Natural-Maize-6465",
+      "body": "Who cares about CTR if you can just buy clicks.   \nIn my experience, the traffic quality is measly with a bounce rate of approx 60-70%.",
+      "score": 3,
+      "created_utc": 1737771678.0
+    },
+    {
+      "author": "kskbg",
+      "body": "You just need to know how to play the native ads game. Never go on native without an Account Manager. Up to your needs, they apply blocklists on campaign/account/network wide. That way, you can skip all unnecessary traffic.\n\n>!I would recommend you to register on [https://www.native-hub.io/](https://www.native-hub.io/) by Xevio (montly subscription) - They have weekly live calls, where you can ask everything about native ads.!<\n\n>!Native Advertising Gurus on Facebook: [https://www.facebook.com/groups/1548817875413039](https://www.facebook.com/groups/1548817875413039) is good to start and ask quick questions.!<\n\n>!u/Pat_Coyle from Taboola has freshly started a new subreddit: r/nativeadsgurus!<\n\nAfter your AM has applied block lists:\n\n\\~%1 vCTR from good publishers would mean, that your ads are performing well.\n\nYou need to know / study your top publishers, especially how they place native ad units.",
+      "score": 1,
+      "created_utc": 1737807608.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "CTRs are higher than 1%; when you buy the clicks CTR is 100%",
+      "score": 1,
+      "created_utc": 1737812571.0
+    },
+    {
+      "author": "nemtudod",
+      "body": "Qual of traffic basically equals bots",
+      "score": 1,
+      "created_utc": 1737825286.0
+    },
+    {
+      "author": "keep-the-momentum",
+      "body": "0.00000001%",
+      "score": 1,
+      "created_utc": 1737900721.0
+    },
+    {
+      "author": "CautiousWeek5807",
+      "body": "I've found CTRs to be suspiciously high with Taboola and Outbrain in the past. If you aren't able to optimize towards a different KPI, I would make sure you're using an ad verification solution to help monitor for bots/fraud. Related note, Outbrain just announced yesterday that it completed its acquisition of Teads, merging under the Teads brand.",
+      "score": 1,
+      "created_utc": 1738732061.0
+    },
+    {
+      "author": "Perry644",
+      "body": "I do know that many do have okay results with them.   \nBut, an advertiser still has to be very careful when using Taboola. I set my ad up for 25 cents a click. My ad was paused a few days afterwards because, they stated, nobody was clicking on it. So, I was instructed to raise the rate. I knew that was BS. I stopped using them right there on the spot.",
+      "score": 1,
+      "created_utc": 1753618922.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "That’s where my gut is at but I’m trying to make sure I’m not being biased. Thanks for reinforcing.",
+      "score": 2,
+      "created_utc": 1737772175.0
+    },
+    {
+      "author": "One_Librarian_6182",
+      "body": "This 100%. Inverse Nike, Just Don't Do It.",
+      "score": 1,
+      "created_utc": 1739061698.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Normally I could care less and only focus on initiate checkouts and confirmations with a view through conversion. But this is a totally different one off campaign.",
+      "score": 2,
+      "created_utc": 1737778284.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "The most important key figure is the cpm. This results from: vctr x cpc.\n\nHigh cpm = good",
+      "score": 1,
+      "created_utc": 1737808564.0
+    },
+    {
+      "author": "OrganicHearing",
+      "body": "My agency still treats it as kind of a gold standard KPI-in 2025! 😐and I hear this from senior folks too which is sad",
+      "score": 1,
+      "created_utc": 1737815921.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "CPC and CTR are two sides of the same coin. Just depends on how much the coin is worth. Bounce rates make sense. Thanks.",
+      "score": 4,
+      "created_utc": 1737771753.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "Talk to an am, ask for a blocklist. That usually helps a lot.",
+      "score": 2,
+      "created_utc": 1737808499.0
+    },
+    {
+      "author": "nemtudod",
+      "body": "Mine was 90% bounce lol",
+      "score": 1,
+      "created_utc": 1737825326.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "This ⬆️",
+      "score": 2,
+      "created_utc": 1737807750.0
+    },
+    {
+      "author": "Mitchell-n",
+      "body": "Your gut is correct- we block outbrain and taboola agency wide. MFA garbage is still MFA garbage. Native in general is a dead format imo",
+      "score": 9,
+      "created_utc": 1737772244.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "Why would you only optimize toward view through conversions?",
+      "score": 1,
+      "created_utc": 1737790642.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "Correct. Gotta make that money!",
+      "score": 3,
+      "created_utc": 1737810835.0
+    },
+    {
+      "author": "nemtudod",
+      "body": "We did and their placements simply made 0 sense. After applying the block list and clearing up publishers they struggled to spend our budget",
+      "score": 1,
+      "created_utc": 1737825382.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "80% of the accounts I see that were unsuccessful were unsuccessful because errors were made in the campaign setting. I see about 30 a week. This starts with the fact that no blocklists were used, social assets recycled or traffic routed directly to offer pages without e.g. advertorials or listicles. Not to mention budgets that are too low or short runtimes. I don’t even want to start with incorrect tracking or misinterpreted attribution.",
+      "score": 2,
+      "created_utc": 1737808451.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "Because the business is one with a very delayed decision making process by the consumer.",
+      "score": 1,
+      "created_utc": 1737818690.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "The budget is usually not used up if your target group settings are too narrow or your cpc bid is too low. \n\nBlocklist + Max Conversions as bidding system + broad setup would be my recommendation.",
+      "score": 2,
+      "created_utc": 1737825779.0
+    },
+    {
+      "author": "Perry644",
+      "body": "And I wonder what percentage of the advertisers are being told they have to increase their spend rate to have their ads clicked on, when that simply is not the case . . . .",
+      "score": 1,
+      "created_utc": 1753619197.0
+    },
+    {
+      "author": "nemtudod",
+      "body": "My saas product cant do broad setup. Only for specific ppl.",
+      "score": 1,
+      "created_utc": 1737826004.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "Then make sure that your titles are designed so that only the right people click. This is how native traffic is qualified - not via narrow targetings.",
+      "score": 1,
+      "created_utc": 1737826101.0
+    },
+    {
+      "author": "nemtudod",
+      "body": "That lowers ctr. Then my managers freak out.",
+      "score": 1,
+      "created_utc": 1737827120.0
+    },
+    {
+      "author": "Pat_Coyle",
+      "body": "Well, that’s the trick. You will always come across a similar scenario. Not only on native. The right balance between „pre-qualification“ and „clickbait“ has to be found :)",
+      "score": 1,
+      "created_utc": 1737827300.0
+    }
+  ]
+}

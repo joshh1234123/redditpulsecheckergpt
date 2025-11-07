@@ -1,0 +1,33 @@
+{
+  "id": "1iyl5zs",
+  "title": "Adform tracking points via GTM",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1iyl5zs/adform_tracking_points_via_gtm/",
+  "created_utc": 1740568380.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Shouldn't your colleague hand over it to you with some training?\nGenerally speaking you are correct if it's basic page views / visits, but as soon as it gets to a specific event with parameters like order ID or product ID, you need to have a good understanding of GTM to set it up correctly.",
+      "score": 4,
+      "created_utc": 1740573764.0
+    },
+    {
+      "author": "Muted-Television-885",
+      "body": "We use a lot of adform TP's either via GTM, or impleneted in the code of the site itself.\n\nThe easiest way to set up a conversion, if it's a register, or a sign up or whatever, to implement the code on the thank you page.\n\nDon't know if this CTA have a thank you page or what would you like to track, but the most common thing is to use a URL path trigger, where u set the url as the trigger, which is right after the button click.\n\nBut generally speaking, what you did/wanted to do is correct anyway.",
+      "score": 1,
+      "created_utc": 1740600680.0
+    },
+    {
+      "author": "ladyhawk93",
+      "body": "She did, but It was so fast and the tracking implementation wasn't the main topic. On adform we did mostly branding campaigns, so we have just Page view and leads in few cases.\nI'm not sure if the choice of standard custom template Is ok for the implementation via gtm and i'm not sure of the trigger i have tò use in gtm. Online there are a very few information about that :(",
+      "score": 1,
+      "created_utc": 1740597783.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Fair, happy to help upskill if you like",
+      "score": 1,
+      "created_utc": 1740600345.0
+    }
+  ]
+}

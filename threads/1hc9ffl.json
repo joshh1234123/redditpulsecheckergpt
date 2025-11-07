@@ -1,0 +1,153 @@
+{
+  "id": "1hc9ffl",
+  "title": "Anyone here on the pDOOH media owner side?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hc9ffl/anyone_here_on_the_pdooh_media_owner_side/",
+  "created_utc": 1733965873.0,
+  "num_comments": 25,
+  "comments": [
+    {
+      "author": "Nice_Condition8936",
+      "body": "DM me, am at a pDOOH pub",
+      "score": 2,
+      "created_utc": 1733968721.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Dm me",
+      "score": 1,
+      "created_utc": 1733966184.0
+    },
+    {
+      "author": "xriddle",
+      "body": "What country are you in? I'm on the media owner side and work quite a bit with pDOOH in Canada.",
+      "score": 1,
+      "created_utc": 1733966378.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "Hivestack",
+      "score": 1,
+      "created_utc": 1733980133.0
+    },
+    {
+      "author": "ttelle",
+      "body": "Please stop calling it pedo. PrDOOH work better.",
+      "score": 1,
+      "created_utc": 1733980394.0
+    },
+    {
+      "author": "EmitLux",
+      "body": "Yes, Hivestack & Vistar. Happy to answer questions. \n\nBeen doing DOOH for 14 years in NZ.",
+      "score": 1,
+      "created_utc": 1733970137.0
+    },
+    {
+      "author": "Harami98",
+      "body": "Can I dm you ? I few questions.",
+      "score": 1,
+      "created_utc": 1734843284.0
+    },
+    {
+      "author": "Harami98",
+      "body": "Can I dm you I have few questions regarding dooh as media owner",
+      "score": 1,
+      "created_utc": 1734843321.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "I'm in US market right now. Is it reasonable to assume you're working with Hivestack?",
+      "score": 1,
+      "created_utc": 1733966705.0
+    },
+    {
+      "author": "Harami98",
+      "body": "Hi can I dm you I have some questions regarding dooh - media owner",
+      "score": 1,
+      "created_utc": 1734843365.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "Mostly curious about the integration and API with the SSPs and just general thoughts about them.",
+      "score": 1,
+      "created_utc": 1733970221.0
+    },
+    {
+      "author": "Harami98",
+      "body": "Hi i have few questions, can i dm you ?",
+      "score": 1,
+      "created_utc": 1734766674.0
+    },
+    {
+      "author": "DingleBerry___x",
+      "body": "Yup",
+      "score": 1,
+      "created_utc": 1734900213.0
+    },
+    {
+      "author": "xriddle",
+      "body": "Yes. I'm actually working with all the major pDOOH SSPs. Hivestack performs the best for us in Canada.",
+      "score": 1,
+      "created_utc": 1733966869.0
+    },
+    {
+      "author": "EmitLux",
+      "body": "Integration - The variables here are a) what CMS you're using b) how helpful your CMS provider is with integration c) what hardware you are using.\n\nAcross 3 CMS platforms we were using, 1 integration didn't work (a higher-end CMS at that), 1 integration gave us very unreliable ad serves, 1 worked well with appropriate hardware. Overall nice to have worked it out, but it was a pain.\n\nGeneral thoughts - We've booked traditionally on DOOH for about 20 years. Overall sentiment from my team is.. very underwhelmed. Scrappy budgets from traditionally big spenders, really challenging to service a client, risky with any category exclusive buys we might have on the go, the algorithms as to when and where an ad is served is wild. We had a client recently getting most of their plays at 2am-4am for a generic whiteware brand.\n\nIt's early days - we'll see what 2025 brings. But I would worry if we were operating on tight margins as it feels like it has the potential to send a few owners out of business.",
+      "score": 6,
+      "created_utc": 1733974939.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "They're one of my top interests right now. I have yet to actually get a response from them though. Do you guys use their API?",
+      "score": 1,
+      "created_utc": 1733966967.0
+    },
+    {
+      "author": null,
+      "body": "[removed]",
+      "score": 3,
+      "created_utc": 1734023210.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "This is all great info, and I appreciate you taking the time to share. We have our own linux-based CMS that we operate on our network. I wasn't sure how much of an issue that would be moving forward, but having spoke with reps from a few SSPs now, I'm realizing that we're in pretty good shape. \n\nIt's both a blessing and a curse that we are a tech company who accidentally developed an advertising platform. It means we have a lot of development resources, but we didn't know this was going to be the market our product ended up servicing when we started. That left a lot of unknowns for us.",
+      "score": 2,
+      "created_utc": 1734106455.0
+    },
+    {
+      "author": "klustura",
+      "body": "Very insightful. Thanks, mate.",
+      "score": 1,
+      "created_utc": 1733978794.0
+    },
+    {
+      "author": "xriddle",
+      "body": "Yes we have direct intgreations via API. How large is your network?",
+      "score": 1,
+      "created_utc": 1733967049.0
+    },
+    {
+      "author": "EmitLux",
+      "body": "Great insights and understanding, thanks! \n\nI have onboarded us with Hivestack and Vistar, the two bigger players in our region (APAC). \n\nDecided against header bidder / ad exchange from them for now, managing capacity on our CMS who have done well (a 3year old startup) to come up with solutions to avoid paying the extra fees.",
+      "score": 2,
+      "created_utc": 1734033200.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "1900 screens",
+      "score": 1,
+      "created_utc": 1733968145.0
+    },
+    {
+      "author": "xriddle",
+      "body": "That's a good amount they should be reaching out. Feel free to PM me if you need help getting in touch with someone.",
+      "score": 2,
+      "created_utc": 1733968233.0
+    },
+    {
+      "author": "Competitive_Win_438",
+      "body": "Appreciate it, will do!",
+      "score": 1,
+      "created_utc": 1733968374.0
+    }
+  ]
+}

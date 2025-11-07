@@ -1,0 +1,87 @@
+{
+  "id": "1npj7bn",
+  "title": "Affiliate Product Consulting",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1npj7bn/affiliate_product_consulting/",
+  "created_utc": 1758736781.0,
+  "num_comments": 13,
+  "comments": [
+    {
+      "author": "w0rdyeti",
+      "body": "Hm. What is the nature of the affiliate product? Are you designing the back-end tech, or the offers that are going to be used in the campaigns ... or all of the above? The affiliate space used to be red-hot, but as is the case with so many promising technologies, the Bad Guys moved in and quickly overran a lot of the rudimentary anti-fraud safeguards.",
+      "score": 2,
+      "created_utc": 1758754927.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "One thing i'd say to watch out for is the cashback / payout system of Affiliates, it can be pretty horrendous to configure especially if you go beyond a last click model and are active in regions with consent banners in play. Infrastructure is critical also, likely you'd have to maintain some form of 1st party click ID and tie that back to events. This is effectively the approach the big 2 in the Affiliates space (AWIN / Impact) use.",
+      "score": 2,
+      "created_utc": 1758785993.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "I have experience setting up + running different CPA affiliate programs in direct advertiser settings.  Can go lots of different directions based on your model (revshare, pay per sale, pay per lead) and that will dictate internal gates for value threshold, cross-sells, repeat orders etc.\n\nAs other posters mentioned, you will be opening yourself up to a whole new minefield of fraud.  The tech infrastructure side of things is simple in terms of making the tracking + url structure work, plenty of off the shelf solutions there.  The challenge is learning how to outsmart the bad actors with bespoke solutions like CC/IP resolution + hashing, matrix payouts by geo etc",
+      "score": 1,
+      "created_utc": 1758821857.0
+    },
+    {
+      "author": "Obvious_Speaker2043",
+      "body": "What is your location",
+      "score": 1,
+      "created_utc": 1758855752.0
+    },
+    {
+      "author": "Obvious_Speaker2043",
+      "body": "I have a something in mind you could implement & it would be without a doubt be the most successful launch for anyone involved. Since margins would be effectively $0. That is where everything is going, but this is one segment of SaaS that has not been hit by Ai- This is certainly outside the box. \nHappy to chat",
+      "score": 1,
+      "created_utc": 1758893832.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "So we already have an ad server, DSP, SSP, and DMP all built from the ground up.  If you're in the sporting goods ecosystem you know us and use us, if not youve probably never heard of us since it's such a cordoned off ecosystem.\n\nSo I think that helps us (at least partially) buffer against those less than great actors and also helps us from an infrastructure and book of business standpoint to just add it as another feature.\n\nLooking to build the pipes and the business.  But open to be told not to do that and pivot to used existing tech if it makes sense.  Hence the consulting ask.  Want someone to explore the opportunity, guide the strategy and guide the product build",
+      "score": 1,
+      "created_utc": 1758755226.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "Thats helpful thanks!  I think owning both sides of the marketplace will help us dispell some of the downside of fraud, but absolutely undersatnd it can get wild.  We've got pretty solid digital fingerprint resolution on all our data today so i think we're in a good place to mitigate.\n\nCould certainly use someone who has a list of those watchouts and understands how the ecosystem works.",
+      "score": 1,
+      "created_utc": 1758822141.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "Us based, all remote",
+      "score": 1,
+      "created_utc": 1758879330.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "I mean, sounds cool but we're an established startup with traction and growth on our lane so not really going to pivot to something else... is it responsive to my ask above or just a new idea?",
+      "score": 1,
+      "created_utc": 1758896670.0
+    },
+    {
+      "author": "w0rdyeti",
+      "body": "It might make sense to use an already-existing solution, unless you 1) need functionality you can’t find elsewhere or 2) you don’t like the licensing price or revenue split. \n\nIf you’ve got the pubs AND advertisers already on board, then you’re in a great position; the solution you come up with is going to be dependent upon the problem that you’re trying to solve with this affiliate product. Is it to better match the products with the users who want/need them? Is it to be able to surface a much more diverse inventory to the audience where the advertisers don’t get charged for all the exposures unless a product finds traction? \n\nOr is it to better help the publishers monetize their traffic by giving them an opportunity to share in the conversion - this assumes that the pubs have small traffic that doesn’t really drive CPM-based ads, but is very targeted.",
+      "score": 1,
+      "created_utc": 1758762023.0
+    },
+    {
+      "author": "Bulky_Perception_682",
+      "body": "Feel free to shoot me a DM anytime, happy to help",
+      "score": 1,
+      "created_utc": 1758822539.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "We like to build mostly because our industry tends to get the plugged pulled on it (it's the reason we exist since FB, google, etc won't play in it).  Likely want to use our data set (essentially every ecom purchase and intent signal in the entire industry) to predictively place products in front of propense users.  Since we own most of the supply and demand pipes we can also pretty early convince pubs to introduce new ad units to support this.\n\nMostly in looking for someone who can advise on the product side of this.  Do we just clone existing platforms (like we did on the prog side) using existing open source libraries as a starting point?  What features do we need out of the gate and what are the key functions?  What should be our monetization strategy / take rates and such?",
+      "score": 1,
+      "created_utc": 1758765401.0
+    },
+    {
+      "author": "nmorriss",
+      "body": "Just tried chatting but I'm not able to for some reason.  shoot me a chat",
+      "score": 1,
+      "created_utc": 1758823751.0
+    }
+  ]
+}

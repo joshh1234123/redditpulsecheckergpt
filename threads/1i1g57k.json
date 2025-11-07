@@ -1,0 +1,51 @@
+{
+  "id": "1i1g57k",
+  "title": "Do most of you receive the full URL, including the subpath, from the user journey on your DSP?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1i1g57k/do_most_of_you_receive_the_full_url_including_the/",
+  "created_utc": 1736887956.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "Unless your knee deep in log level data, no. But even then it can be tied to a bid request that can be gamed/faked.",
+      "score": 4,
+      "created_utc": 1736892107.0
+    },
+    {
+      "author": "klustura",
+      "body": "Transparent DSPs will only share what they get from SSPs.\nAnd certain SSPs will only share what they get from Ad Servers (or other SSPs).\n\nThe verification solutions have tools to extract the full url at load and/or impression. One can build their own solution but it can quickly become complex.\nObviously, this won't work on app/ctv.",
+      "score": 2,
+      "created_utc": 1737011812.0
+    },
+    {
+      "author": "jlu2010",
+      "body": "Can you explain further? Just trying to understand",
+      "score": 1,
+      "created_utc": 1736911065.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Standard reporting in the majority of DSPs that you access via the UI is either topline domain e.g. [example.com](http://example.com) or sub-domain e.g. [example.com/travel](http://example.com/travel)  \nIf you want the full URL / page level, the only way DSPs would give that away is via log level data.  \nSome DSPs give it for free, others charge for it but requires the ability to handle big data (normally via Cloud services) in order to actually use / work with it (not Excel).\n\n  \nBut also, the majority of DSPs will determine \"Full URL\" based on what they see in the bid request from a relevant publisher / SSP or use their own tracking in some cases. If said publisher / SSP was not explicit or the tracking failed, then its not very accurate. Its the same as instances of when ad verification companies sometimes fail to understand the URL of where an ad is actually served on.",
+      "score": 3,
+      "created_utc": 1736935568.0
+    },
+    {
+      "author": "jlu2010",
+      "body": "Thanks for the breakdown",
+      "score": 1,
+      "created_utc": 1736953848.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "You work with a DSP that is giving you full URL path?",
+      "score": 1,
+      "created_utc": 1736994149.0
+    },
+    {
+      "author": "jlu2010",
+      "body": "Yes",
+      "score": 1,
+      "created_utc": 1737032090.0
+    }
+  ]
+}

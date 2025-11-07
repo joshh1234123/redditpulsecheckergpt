@@ -1,0 +1,135 @@
+{
+  "id": "1nd2kov",
+  "title": "What does it truly take to reach the top 1% in the space?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nd2kov/what_does_it_truly_take_to_reach_the_top_1_in_the/",
+  "created_utc": 1757471704.0,
+  "num_comments": 22,
+  "comments": [
+    {
+      "author": null,
+      "body": "Being semi competent at the actual job while being amazing at kissing ass and internal politics.",
+      "score": 72,
+      "created_utc": 1757471869.0
+    },
+    {
+      "author": "Cleopatra435",
+      "body": "What do you mean by top 1% in the field? Is that a title or a salary, or just being an expert and fluent in all things programmatic, from the nitty gritty technical details to the high level state of the industry??",
+      "score": 5,
+      "created_utc": 1757474598.0
+    },
+    {
+      "author": "JustinDeMaris",
+      "body": "If you have an idea of people that you think are in the top 1% then learn from them. You’ll probably find out that you outgrow them and will find other people to learn from.\n\nBy learn from them it could be following and engaging with their posts on LinkedIn, emailing them with smart questions you are honestly curious to learn (the honest curiosity part matters - experts get bombarded with veiled marketing and generic networking pitches all of the time).\n\nI follow Robert Webster from TAU on LinkedIn and have met him a couple of times in person. If you want to see a cutting edge industry thought leader sharing his ideas, it’s not a bad start.\n\nAlso, working for an agency that gives you the chance to go deep with a variety of significant clients will help you learn a broader view of the industry more quickly than working with a signal one.\n\nAlso, soft skills…. nobody wants to spend discretionary time to talk with someone they don’t vibe with, so learning people and being an effective and empathetic communicator will help make the above happen.",
+      "score": 4,
+      "created_utc": 1757482082.0
+    },
+    {
+      "author": "DistributionOk4643",
+      "body": "Programmatic is fake. Every advertiser is pissing away 95% of their budget. All the platforms reps have no idea what's going on. Agency folks rather retarget already existing customers because it drives down CPAs. Millions and billions of impressions. Data-driven attribution, lmao. Learnings.",
+      "score": 20,
+      "created_utc": 1757475976.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "Depends on the Top 1%\n\n\nI see for people who are on panels and presented as experts, those are all about being good at talking, good at politics, good at sales - sometimes being truly good or having a balance of technical knowledge to those skills - varies massively on the events but typically they're for marketing the  company first experience comes second but some events and companies will put forward good experts but you also need to talk the talk.\n\n\nSalary, doing a job job internally, promotions etc. \nIt's doing a good job and making yourself visible.\n\n\nSome people get to a certain point with bluster and self promotion but you only get so far if you don't back it up.\n\n\nSome people get so far putting in good work, but you'll progress much slower and/or won't get to the top without also self promoting.",
+      "score": 2,
+      "created_utc": 1757500364.0
+    },
+    {
+      "author": "Dull-Formal-7976",
+      "body": "Definitely client skills is way undervalued in this space. Technical prowess is a plenty. The people who stand out are able to communicate this field beyond jargon. \n\nBuilding client relationships makes your hard skills magnify since you connect the levers to business outcomes",
+      "score": 1,
+      "created_utc": 1757647935.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "I also think about this consistently and am learning from some top minds in the space - they truly do live and breathe the oRTB spec and have a pulse on all relevant industry news (and the implications).",
+      "score": 1,
+      "created_utc": 1757671985.0
+    },
+    {
+      "author": "Adtechvet",
+      "body": "Top 1% of skills is hard to measure objectively outside of sales. Top 1% of compensation and/or success is more about who you know, how you know them and when they see you. I’ve reported to incredibly incompetent executives, been paid $70k less than someone at my level just because they came from a FAANG, seen good people fired for pissing off the wrong person, been skipped over for a promo despite good performance, gotten another for absolutely nothing and weasels my way into one because I knew I could. What you need to ask yourself is what does success look like for you. Obtain and market the skills to be awarded those opportunities, network relentlessly and always take the opportunity even if you think you’re not ready.",
+      "score": 1,
+      "created_utc": 1757812592.0
+    },
+    {
+      "author": "glacierfresh2death",
+      "body": "You get laid off a couple times, and find a new trade",
+      "score": 0,
+      "created_utc": 1757479412.0
+    },
+    {
+      "author": "yeayea_yea",
+      "body": "this gets you to top 10%. a twitter account and self marketing gets you to the 1%",
+      "score": 18,
+      "created_utc": 1757475576.0
+    },
+    {
+      "author": "chrstphr__",
+      "body": "You're onto something. From what I've observed, this actually gets folks pretty far...",
+      "score": 6,
+      "created_utc": 1757476194.0
+    },
+    {
+      "author": "AdPhilosopher",
+      "body": "perfect!",
+      "score": 1,
+      "created_utc": 1757475023.0
+    },
+    {
+      "author": "chrstphr__",
+      "body": "I would define top 1% as being the subject matter expert in their given domain of expertise, be it sell-side or buy-side. To me, that means knowing the technical details all the way up to the high level macro trends and industry direction. With that, I'd assume higher compensation follows.  \n  \nI'm open to others' interpretations of top 1% as well!",
+      "score": 0,
+      "created_utc": 1757476153.0
+    },
+    {
+      "author": "HairySprinkles7369",
+      "body": "Live and breathe the OpenRTB spec. It’s the beating heart of programmatic and what allows us all to work together. Give thanks to your IAB Tech Goddess who maintains it (Hi Hilary!). Dig deep into ad server tech, it ultimately is the foundation of everything that occurs in the exchange on both sides. Learn to love JSON data will all your heart, soul, and mind, and learn how to transform it into something readable because fuck evolving 20 year old technology. Open your browser developer tools and watch real time exchange data like it’s your favorite sporting match and cheer for the teams you’ve aligned to. Breathe log level data deeply and hold it in tight until your lungs can’t take it and you have to exhale aggregate transformations. And most importantly be good to each other and have fun. \n\nThis is the way of the Programmatic Jedi. \n\nBut if you want to get rich get lucky by working for the one company that ends up winning that no one could have predicted 10 years ago or like the other poster said kiss ass and smile at anyone with a net worth in the 8 figures or above.",
+      "score": 15,
+      "created_utc": 1757480907.0
+    },
+    {
+      "author": "Vanswers0115",
+      "body": "“SMEs” can be self-dubbed. A former boss of mine was a “digital marketing SME, and an omnichannel strategist,” and that motherfucker never once built, managed, optimized, or even clicked inside a campaign management interface. He also used to make up words to sound “quirky” and original.\n\nHe bullshitted his was into a role at a publicly traded company for 5 years using his improperly attained confidence and his “I make up stupid fucking buzzwords to sound like I’m in the know, but making words is the only thing I really know how to do aside from working a bike-seat-sized butt plug into my ass every morning before work” (metaphorically speaking), gutted the team that he oversaw who were employed for years prior to him fucking up, and also got himself canned after ripping through his team of OGs that were there well before he shat the bed, and advised him not to make certain moves, and were let go because of his piss poor decision making long before he was…\n\nSME only matters if millions of respected professionals in the same vertical consider you to be one… even then, your expertise can only carry so far. Even being a respected mind in the space is limited by the amount of knowledge you can retain…",
+      "score": 4,
+      "created_utc": 1757512531.0
+    },
+    {
+      "author": "hill_from_tech_lab",
+      "body": "You have no idea how much this makes my whole day u/HairySprinkles7369 . \n\n  \nI am biased, but this is SUPER good advice. I also tell everyone to read the trades. Even if you don't subscribe, at least read the headlines so you can see what the industry is talking about and don't be afraid to ask questions about something you see! I can teach anyone to run a scrum, I can't teach anyone to give a shit.",
+      "score": 3,
+      "created_utc": 1757962741.0
+    },
+    {
+      "author": "goku_4110",
+      "body": "Great comment and lol at the IAB shout out",
+      "score": 1,
+      "created_utc": 1757672016.0
+    },
+    {
+      "author": "chrstphr__",
+      "body": "Thanks for the response! I find this comment super interesting, and I'd love to better understand how to start learning about and applying the themes mentioned here.\n\nOn the OpenRTB spec, I'm interpreting this as:\n\n\\- obtaining deep knowledge on the specific objects within bid requests and responses through studying the OpenRTB GitHub\n\nOn learning to love JSON data:\n\n\\- learn to love JSON data because this is the format in which bid requests/responses are formatted\n\n\\- learn how to convert JSON data into actionable insights through dashboarding, sheets, etc.\n\nWhat would the difference be between log level data and the bid request/response data?",
+      "score": 1,
+      "created_utc": 1757869360.0
+    },
+    {
+      "author": "HairySprinkles7369",
+      "body": "Yes to the first point.  The Json thing is only necessary if you want to analyze live exchange data in a browser executing header bidding. To do that you need to transpose it into a more structured format",
+      "score": 2,
+      "created_utc": 1757869455.0
+    },
+    {
+      "author": "hill_from_tech_lab",
+      "body": "To your question about the spec - learn to love it. Also dig deep on what an Object Model is, how it works, and how where something is grouped has a material impact on what it's describing about the inventory. \n\n  \nThere are also roughly eleventy billion courses that'll give you a fantastic primer on how this all works. This is my trade org handle so I can't actually endorse a given company (sorry) but there are a few I really like.",
+      "score": 2,
+      "created_utc": 1757962959.0
+    },
+    {
+      "author": "chrstphr__",
+      "body": "Thanks for the response. I'm trying to figure out the most critical information in the spec, or in other words, what is the most valuable to bidders. I'm thinking about the following objects: user, site, impression, and regs maybe?\n\nAfter that, it's a matter of turning this information into actionable insights.",
+      "score": 1,
+      "created_utc": 1758774084.0
+    }
+  ]
+}

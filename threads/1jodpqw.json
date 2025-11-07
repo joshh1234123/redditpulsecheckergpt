@@ -1,0 +1,39 @@
+{
+  "id": "1jodpqw",
+  "title": "AB testing - Bayesian AB vs frequentist (regular AB testing)?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jodpqw/ab_testing_bayesian_ab_vs_frequentist_regular_ab/",
+  "created_utc": 1743454043.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "klustura",
+      "body": "Confirming a few I know do bayesian, and not only for AB. I won't disclose them because they won't pay me for publicising them. If someone is more generous than I,  I'll give my upvote.\n\nBayesian don't come without challenges. Typically, if there's no historical data (which is unlikely given all the data one can have access to), the results can be misleading.\n\nAnother concern can be the cost, but again with all the cloud computing one can have access to, it shouldn't be a concern.\n\nBig plus for bayesian is that the optimisation can be done on the go, hence why it's useful not only for AB.",
+      "score": 2,
+      "created_utc": 1743456280.0
+    },
+    {
+      "author": "SoundOfRadar",
+      "body": "Hey I am intrigued by your question, it had never occured to me. Why do you think it's better? I am curious.",
+      "score": 1,
+      "created_utc": 1743686874.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "You can DM me their names 🙃",
+      "score": 1,
+      "created_utc": 1743715409.0
+    },
+    {
+      "author": "Huge_Cantaloupe_7788",
+      "body": "Easier to interpret business results. But I can't claim it's better as I don't have experience with bayesian (Thomson sampling)",
+      "score": 1,
+      "created_utc": 1743715385.0
+    },
+    {
+      "author": "klustura",
+      "body": "You know what they say in this sub: \"I'm under NDA\". It happens that I am indeed under NDA with one of them. The other doesn't deserve free publicity, especially that they owe me money.\n\n\nChallenge the ones you know and spam the others. You'll get funny replies.",
+      "score": 1,
+      "created_utc": 1743719179.0
+    }
+  ]
+}

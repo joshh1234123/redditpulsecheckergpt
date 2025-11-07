@@ -1,0 +1,135 @@
+{
+  "id": "1hepbok",
+  "title": "IAS or Doubleverify ",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1hepbok/ias_or_doubleverify/",
+  "created_utc": 1734255854.0,
+  "num_comments": 21,
+  "comments": [
+    {
+      "author": "klustura",
+      "body": "Same same same\nBut different \nBut still the same\n\nI ferociously hate both, but you should know that when it comes to CTV, they can have a different approach.\nI've always seen DV as a better option on CTV.\n\nI think the most critical criteria here is transparency - which both lack, hence my hate. Go with the solution that offers the best level of transparency and reporting granularity. Realtime reporting that'll allow you to do effective optimisation is another criteria.",
+      "score": 12,
+      "created_utc": 1734259633.0
+    },
+    {
+      "author": "Lanwel",
+      "body": "Hi, I had chance to work with most of the third-party verification vendors ( even non mrc acceredited ones). In terms of Brand Safety measurement and labeling both vendor is great. So if you are in between picking a vendor, price point and support team availability is much more important.\n\nJust so you know both of these vendors are not really %100 with non english languages. Its been many occasions some domains labelled as unsafe because mislabeling. \n\nOverall, I would suggest IAS, because it has couple other feautres that you can benefit ( contextual targeting etc). And IAS is much more user friendly. Everytime DV updates their UI, it all goes weird for 3-4 months.",
+      "score": 6,
+      "created_utc": 1734257231.0
+    },
+    {
+      "author": "SirTedyBearRoosevelt",
+      "body": "I find that DV offers much friendlier reporting and setup, making optimizations quick and painless. IAS requires a fair amount of customizations including domain and keyword lists to be uploaded through their support team which can take days to process. From ease of use, I’d highly recommend DV.",
+      "score": 3,
+      "created_utc": 1734345606.0
+    },
+    {
+      "author": "jayfriedman",
+      "body": "Have you not read the adalytics reports?",
+      "score": 6,
+      "created_utc": 1734274356.0
+    },
+    {
+      "author": "twinklepussy",
+      "body": "I've found the results from IAS and DV are similar. And because I work in a large agency, the negotiated rates are pretty much the same. So my comparison is based on UI and customer service. So far I like IAS better. I find their platform far easier to navigate and easier to train with incoming teams. Their reps are more responsive too. Though in fairness, customer service for both platforms has declined over the years. But that seems to be the case for everything.",
+      "score": 2,
+      "created_utc": 1734285780.0
+    },
+    {
+      "author": "Tdnrabelac",
+      "body": "Are you planning on running blocking or monitoring tags? DV has limitations into identifying desktop in-app inventory, which can lead to an artificial spike in block rate. Been burned a few times by this.",
+      "score": 2,
+      "created_utc": 1734292045.0
+    },
+    {
+      "author": "alondonkiwi",
+      "body": "If you're just looking at the off the shelf prebid tools its probably not much difference, have a look at what topics they offer and what price points they offer and see what works best for you. \n\nThere is very limited reports on the DSP targeting features due to how the data integrates into the DSP so the report is all controlled by DV360 (you can drill into the impact on the line item troubleshooting report) \n\nIf you have a decent amount of scale available you might want to reach out to them about their customised segments, which typically offers more categories and setting than available in the DSPs, see what they offer and who gives the best offer on what you care about (eg MFAs a concern? Certain topics would be a bigger issue? How does their custom segment solve)\n\nAdding in measurement (tagging) and/or if you have significant scale of campaigns you might be able to negotiate better rates if you get in touch with them, also if you're interested in anything else they offer to see what deal you get for more features.",
+      "score": 2,
+      "created_utc": 1734317461.0
+    },
+    {
+      "author": "PassageInside4656",
+      "body": "Neither. Waste of money.",
+      "score": 2,
+      "created_utc": 1734331051.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "Dv.",
+      "score": 2,
+      "created_utc": 1734416913.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "That's more an industry thing than a verification thing. Only certain publishers allow program level transparency and that has nothing to do with IAS or DV",
+      "score": 5,
+      "created_utc": 1734264194.0
+    },
+    {
+      "author": "OverlyCritique",
+      "body": "Thank you so much for your insight. And Happy Cake day!",
+      "score": 2,
+      "created_utc": 1734257888.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "IAS is much worse with pre-bid, their solution sucks compared to ABS. Their contextual targets have lost out head to head vs DV constantly. DV's anti-MFA pre-bid is pretty good too, but we use TTD's SP500+ as the base inclusion list. DV's attention product is MRC accredited, IAS is not. IAS is also rumored to be up for sale. I can't say I've had a positive experience with IAS after many years in the industry and they are more expensive. They like to upcharge for every little data feed etc...\n\n  \nAlso scibids is pretty awesome",
+      "score": 5,
+      "created_utc": 1734264155.0
+    },
+    {
+      "author": "OverlyCritique",
+      "body": "Mainly for brand safety. Just to check and block the bad sites to protect the campaigns",
+      "score": 1,
+      "created_utc": 1734292306.0
+    },
+    {
+      "author": "OverlyCritique",
+      "body": "LMAO",
+      "score": 1,
+      "created_utc": 1734331080.0
+    },
+    {
+      "author": "klustura",
+      "body": "That's not correct. Sorry. I've talked to many pubs from different countries and the feedback is the same: they don't get the needed transparency on why part of their content is not monetisable. IAS/DV always say that 1/ they can't disclose why because pubs would be able to gane the system 2/pubs should pay them to have those information.\n\nAnyway, OP's request is for the demand side, and on that side transparency is limited.\n\nI've had a long discussion with IAS (back in 2021) on sharing granular data in realtime to allow real-time optimisation. They first said that they can do it for an extra cpm but they then changed their mind.\n\nDon't get me wrong: I do believe what IAS and DV offer is needed and is even good for the industry, but they do it in a way that benefits their pockets, not the industry, not advertisers, not pubs, and not us users. It's us who eventually ended up paying for the scandalous margins of IAS/DV.",
+      "score": 6,
+      "created_utc": 1734268934.0
+    },
+    {
+      "author": "Tdnrabelac",
+      "body": "I do prefer DV blocking tags in this instance because it will automatically block anything listed on the blueprint rather than just flagging infractions. And then you can set up automated reporting that shows you sites/apps you are serving to and you can manually block anything you don’t want",
+      "score": 3,
+      "created_utc": 1734294451.0
+    },
+    {
+      "author": "RawrRawr83",
+      "body": "It is correct. I am on the brand side spending literally ten of millions on CTV. You can see limited data in TTD reporting but it’s limited by pubs. Even buying directly we don’t get program level data from most publishers",
+      "score": 6,
+      "created_utc": 1734272419.0
+    },
+    {
+      "author": "OverlyCritique",
+      "body": "That makes sense. Thank you!",
+      "score": 2,
+      "created_utc": 1734294992.0
+    },
+    {
+      "author": "stevenchoi24",
+      "body": "This is the best response. Setting up specific site/URL reporting with IAS was always so cumbersome for me",
+      "score": 1,
+      "created_utc": 1734359687.0
+    },
+    {
+      "author": "klustura",
+      "body": "Ah sorry, I misunderstood you.\nOn CTV, I agree with you. I believe DV has a better offer on CTV thanks to the more data about programs that they have access to.",
+      "score": 2,
+      "created_utc": 1734282758.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "Have you considered adding Fou Analytics as an overlay to gain insights? Not necessarily a \"prevent disaster\" brand safety solution. I believe there is a free trial through end of year.",
+      "score": 0,
+      "created_utc": 1734464719.0
+    }
+  ]
+}

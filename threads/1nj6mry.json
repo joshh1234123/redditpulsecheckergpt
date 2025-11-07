@@ -1,0 +1,93 @@
+{
+  "id": "1nj6mry",
+  "title": "DSP feature.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1nj6mry/dsp_feature/",
+  "created_utc": 1758094225.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "slippycrook",
+      "body": "So, you are looking for a reseller of Google adx mobile app inventory via oRTB.\nThey have large spend commitments so it is not a widespread option but I would look at contacting their prebid server buyers such as\n\nhttps://admob.google.com/home/bidding/bidding-partners/",
+      "score": 3,
+      "created_utc": 1758217856.0
+    },
+    {
+      "author": "im_super_excited",
+      "body": "DSP campaigns don't generate bid requests, only responses.\n\n\nYou should be looking build ORTB connections with SSPs like Bidswitch if you want your bidder to receive bid requests.",
+      "score": 5,
+      "created_utc": 1758196959.0
+    },
+    {
+      "author": "LowAir688",
+      "body": "Maybe try Beeswax",
+      "score": 2,
+      "created_utc": 1758145689.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "Hi. You\nLooking for self service or managed ? I may have a solution. \nAlso, for which devices?",
+      "score": 2,
+      "created_utc": 1758175714.0
+    },
+    {
+      "author": "TheLookoutGrey",
+      "body": "Check out AdLib. /u/mikehauptman might be able to help you",
+      "score": 2,
+      "created_utc": 1758373416.0
+    },
+    {
+      "author": "adv_geek_789",
+      "body": "What you need is a DSP that can send all bid requests to your own bidder in real time. [Beeswax](https://www.beeswax.com) (FreeWheel) is one option for this.   \nSome white-label stacks like [Epom](https://epom.com/dsp) can also do it, but you should check if they really forward requests live and not just give you log files.Prepayment is normal — most will ask for a deposit and limit how many requests you get per second. If you want full control, you can also plug straight into supply through BidSwitch, but that takes more contracts and heavier ops.",
+      "score": 1,
+      "created_utc": 1759494906.0
+    },
+    {
+      "author": "badoo900",
+      "body": "thank you but it's tough to work with them directly due to high commitments as you mentioned. i'm looking for reseller of these guys. dsp's like kayzen, smadex, liftoff etc.",
+      "score": 0,
+      "created_utc": 1758271215.0
+    },
+    {
+      "author": "badoo900",
+      "body": "for building rtb connection i need to commit high spend. thats why i'm looking for dsp with seat on exchange and they anyway have bid logs and ability to send bid requests",
+      "score": 0,
+      "created_utc": 1758199084.0
+    },
+    {
+      "author": "badoo900",
+      "body": "they don't support it unfortunately",
+      "score": 0,
+      "created_utc": 1758171478.0
+    },
+    {
+      "author": "badoo900",
+      "body": "no matter selfe or managed. inapp Google Adx only",
+      "score": 1,
+      "created_utc": 1758176640.0
+    },
+    {
+      "author": "badoo900",
+      "body": "thank you, will check with him",
+      "score": 1,
+      "created_utc": 1758873465.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "Why not using an ad server for this?",
+      "score": 2,
+      "created_utc": 1758179562.0
+    },
+    {
+      "author": "badoo900",
+      "body": "we have an ad server. that's not an issue. the issue DSP that will be able to send us all bid requests that our campaigns have generated.",
+      "score": 1,
+      "created_utc": 1758180990.0
+    },
+    {
+      "author": "No-Lifeguard4690",
+      "body": "we have a dsp, we may be able to help. PM me",
+      "score": 1,
+      "created_utc": 1758196082.0
+    }
+  ]
+}

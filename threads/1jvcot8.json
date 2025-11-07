@@ -1,0 +1,27 @@
+{
+  "id": "1jvcot8",
+  "title": "View-Through Conversion Details (TTD)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1jvcot8/viewthrough_conversion_details_ttd/",
+  "created_utc": 1744222542.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Thechief343",
+      "body": "Yep! Both the conversion details and path to conversion report contain a field called TDID which is an anonymized device identifier. That'll get you a number of unique users.",
+      "score": 5,
+      "created_utc": 1744261452.0
+    },
+    {
+      "author": "CostPerMeal",
+      "body": "TTD vet here.  Yes, as long as you have a universal pixel down, pull a conversion details report.",
+      "score": 3,
+      "created_utc": 1744345651.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "great question, commenting so I can keep track of the answers here",
+      "score": 2,
+      "created_utc": 1744233828.0
+    }
+  ]
+}

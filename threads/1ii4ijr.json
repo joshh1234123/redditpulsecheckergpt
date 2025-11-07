@@ -1,0 +1,207 @@
+{
+  "id": "1ii4ijr",
+  "title": "DSP traders, what are your biggest pain points?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ii4ijr/dsp_traders_what_are_your_biggest_pain_points/",
+  "created_utc": 1738739486.0,
+  "num_comments": 34,
+  "comments": [
+    {
+      "author": "mithr4el",
+      "body": "The navigation in DV360…\nYou know when you are in the reporting Space and you wanna to back, and clicking that damnes arrow is useless !",
+      "score": 17,
+      "created_utc": 1738758555.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "Transparent fees, more customized reporting capabilities, more easily access log-level reporting files, too much focus on algorithmic optimizations over human supported by AI/Algorithms.",
+      "score": 15,
+      "created_utc": 1738747191.0
+    },
+    {
+      "author": "cuteman",
+      "body": "Martech companies astroturfing with \"what are your biggest pain point\" posts",
+      "score": 8,
+      "created_utc": 1738784941.0
+    },
+    {
+      "author": "klustura",
+      "body": "Transparent fees.",
+      "score": 8,
+      "created_utc": 1738743681.0
+    },
+    {
+      "author": "childroid",
+      "body": "Reporting UI is a big one for me. DV360 used to be the best: color-coded, quick, intuitive, and very simple. Now it behaves more like GDA reporting, which is god-awful but not quite as bad as GA's \"explorations.\"\n\nIf everyone adopted the legacy DV360 reporting interface I'd be happy.",
+      "score": 3,
+      "created_utc": 1738766786.0
+    },
+    {
+      "author": "One_Librarian_6182",
+      "body": "Fee transparency is a big one. Also, site/placement reports are almost always useless when trying to create custom block or inclusion lists because most data are so basic.",
+      "score": 2,
+      "created_utc": 1738793617.0
+    },
+    {
+      "author": "big_picture_2021",
+      "body": "Ridiculous monopoly from the big player",
+      "score": 3,
+      "created_utc": 1738746308.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "The sdf in dv 360 is a big pain as most of the time it doesn't clearly point out or explain the cause of declining the sdf",
+      "score": 1,
+      "created_utc": 1738940859.0
+    },
+    {
+      "author": "Habanero-88",
+      "body": "TTD is the worst... that periodic table makes navigation complicated, not very intuitive",
+      "score": 1,
+      "created_utc": 1739027419.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "Any DSPs in particular that lack when it comes to fee transparency? I'm trying to educate a couple of clients on what to expect, including fees and pros/cons of SaaS vs. managed service. Appreciate any thoughts here or via DM. Thanks!",
+      "score": 1,
+      "created_utc": 1738851238.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "Any vendors in particular? Curious what delivery model you are leveraging, SaaS or self-service?",
+      "score": 1,
+      "created_utc": 1738850962.0
+    },
+    {
+      "author": "jaxjaxjax95",
+      "body": "What’s the difference between DV360 and Trade Desk?",
+      "score": 1,
+      "created_utc": 1738770745.0
+    },
+    {
+      "author": "TurnoverDramatic1004",
+      "body": "What exactly, in your opinion, is poor data, and what should a good DSP have to be considered a good/rich one?",
+      "score": 1,
+      "created_utc": 1738809666.0
+    },
+    {
+      "author": "VSadGurl",
+      "body": "this is their newest feature as far as I've heard  \nand it is the second flop with the UI update",
+      "score": 1,
+      "created_utc": 1748950245.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I'd say most of the DSPs have mostly transparent fee structures for the fundamentals i.e., data cost structures, tech-fees, additional fees for services etc.\n\nWhat I meant is more transparency on fees across the ecosystem. We once did a transparency analysis for a large advertisers partnering with our preferred DSP, SSP and a limited number of publishers. Even when full understanding of the fees taken by all parties you can't match every dollar across the ecosystem, which for an industry as large as ad-tech/programmatic should be unacceptable like in any other industry. However, in programmatic we all just kinda accept these things which is bonkers.\n\nThat being said, I think the level of transparency with managed service will always be even worse and with that you also lose a lot of control to even do these types of analyses so DSPs at least have that as a +1",
+      "score": 3,
+      "created_utc": 1738852019.0
+    },
+    {
+      "author": "Key-Boat-7519",
+      "body": "Fee transparency can be a headache! I remember dealing with some DSPs where hidden costs just piled up, like an avalanche. Explanation-wise, try comparing Trade Desk, which offers more clarity, to others. Using Reddit tools like Pulse also helps sift through discussions and insights.",
+      "score": 2,
+      "created_utc": 1738857184.0
+    },
+    {
+      "author": "klustura",
+      "body": "Saas and self-serv are two faces of the same coin.\n\nSelf-serv is vs managed.\n\nNo issue with manage being not transparent, otherwise I'd hire consultants and pay them per hour to do self-serv.\n\nNo dsp gives you transparent fees in self-serv, and that's an issue. I'm under the impression that Beeswax was transparent, but never had the chance to try it.\n\nSsps should also be transparent with pubs as long as there's no min commitment.",
+      "score": 1,
+      "created_utc": 1738851678.0
+    },
+    {
+      "author": "childroid",
+      "body": "Can you be more specific?",
+      "score": 1,
+      "created_utc": 1738773513.0
+    },
+    {
+      "author": "One_Librarian_6182",
+      "body": "I don't think that's the right question to ask because you can't just dive right into the very narrow aspect (data quality). Try to first understand why advertisers and agencies want to evaluate the sites where their ads are served. Is it for quality verification? Is it for performance optimization? Then you can see where the gaps are in the out-of-the-box data that DSPs provide. \n\nIf you've run any campaigns yourself on these DSPs, you should know. If you're a product guy trying to understand the user pain points, the single best approach is to grab some test budget and run the a campaign yourself.",
+      "score": 1,
+      "created_utc": 1738851006.0
+    },
+    {
+      "author": "SkyHighShortGuy",
+      "body": "Ah, I mistyped. SaaS vs. managed service. More java needed ;)",
+      "score": 1,
+      "created_utc": 1738853913.0
+    },
+    {
+      "author": "Key-Boat-7519",
+      "body": "Oh, the eternal DSP transparency issue! Been there, done that. It’s amusing how transparent these non-transparent services claim to be. With self-service, it's like you're paying to be your own consultant without even knowing where your funds go. Trying out different platforms like Beeswax and Pulse for Reddit, I've seen how they engage users with a self-service tool, blending cost-effectiveness and ingenuity. Oh, and NoiseAware is another worth considering if transparency’s your thing. DSPs, if you’re listening, we need fees that don’t resemble a cryptic puzzle!",
+      "score": 1,
+      "created_utc": 1738856954.0
+    },
+    {
+      "author": "jaxjaxjax95",
+      "body": "Just high level differences in general knowing both are DSPs",
+      "score": -1,
+      "created_utc": 1738774838.0
+    },
+    {
+      "author": "klustura",
+      "body": "Amen",
+      "score": 1,
+      "created_utc": 1738862745.0
+    },
+    {
+      "author": "childroid",
+      "body": "DV360 can access free Google 1P audiences (Affinity, Custom Affinity, InMarket, Intent, Custom Intent) and certain Google O&O inventory (YouTube, YT Shorts, YTTV) that other DSPs cannot access. Pretty simplistic UI that's relatively easy to learn. It was my first DSP.\n\nTTD cannot access YouTube inventory or those free Google audiences. It's also incredibly manual, where every feature has an associated cost. You can do just about anything on TTD, but you'd be better served by already having DSP knowledge before you spin up a campaign there. TTD is incredibly neutral in terms of attribution credit. Google tends to put its thumb on lots of scales considering how much of the programmatic landscape they own.\n\nTTD also goes through more major changes than DV360, in my experience. I've had to learn and relearn how to use TTD three times since I started using it in 2021. From legacy to Solimar to Kokai.",
+      "score": 8,
+      "created_utc": 1738775449.0
+    },
+    {
+      "author": "jaxjaxjax95",
+      "body": "Helpful, thank you!",
+      "score": 2,
+      "created_utc": 1738778505.0
+    },
+    {
+      "author": "jmissle",
+      "body": "Those Google audiences are free? As you stack audiences the costs go up quite quickly. Also would you consider Google 1p audiences 3p data providers? Not sure",
+      "score": 1,
+      "created_utc": 1738801709.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Does dv 360 got second party audience, can u give an example? Ig Google audience is considered 2nd party on dv360. It's first party for Google but second party for us",
+      "score": 1,
+      "created_utc": 1738942084.0
+    },
+    {
+      "author": "childroid",
+      "body": "Happy to help!",
+      "score": 1,
+      "created_utc": 1738779743.0
+    },
+    {
+      "author": "childroid",
+      "body": "The affinity audiences are free, but if you're adding audiences as AND statements, your addressable audience will shrink rapidly and this would make it more expensive to reach them.\n\nFor example, \"business professionals\" versus \"business professionals who are also dog lovers and 18-34 years old and live in Montana.\"\n\nIf you're layering audiences as OR statements then there may be other factors increasing your CPMs. Worth an audit to find out...\n\nAnd I consider those Affinity audiences *1P Google* audiences. They're 3P to you and me, but 1P to Google and exclusive to DV360 (and Google Ads). I guess the distinction isn't that important, but in my experience it is there.\n\nIf you're seeing other 3P company names describing the audience (for example something like `BlueKai > Lifestyle > Employment > Business Professionals`), it's not an Affinity audience and isn't free.",
+      "score": 3,
+      "created_utc": 1738814272.0
+    },
+    {
+      "author": "childroid",
+      "body": "It's not 2P data to us, it's 3P. 2P data is like if Apple shared its CRM data with Samsung. That's not what those Affinity audiences are; they're 1P audiences Google maintains and allows anyone to use. That's 3P.\n\nI could be wrong, of course, but I'm pretty confident that's the nuance.",
+      "score": 1,
+      "created_utc": 1738943549.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Then by your logic what's the second party audience in dv360? Our seniors at work told that Google audience is second party on dv360, second party is basically when you use someone's first party audience directly from them. Third party is more like the audience from the data management platforms that they've collected.",
+      "score": 1,
+      "created_utc": 1739012222.0
+    },
+    {
+      "author": "childroid",
+      "body": "Forgive me, but your seniors at work are mistaken. Your description of 2P and 3P data is incomplete. See the **bolded** portion below.\n\n1P data is data you collect directly from your users, like CRM lists or site visitor data. 2P data is when you use another company's 1P data **under the terms of some kind of direct partnership**. 3P data is when you use data that's been aggregated and provided by an external source.\n\n1P data is you make yourself a cake. 2P data is someone makes a cake just for you. 3P data is you go to the store to get a cake off the shelf.\n\nIf *only* your agency could use Google's 1P Affinity audiences, then they'd be considered 2P. But since *any* agency can use them, they're 3P.\n\nLike I said: the distinction isn't that important, but it does exist.",
+      "score": 1,
+      "created_utc": 1739024844.0
+    },
+    {
+      "author": "Maleficent_Ad_4095",
+      "body": "Ig you didn't read my previous comment properly, I also said the same, 2 P is when you use someone else's first party audience, obvio with the terms and permissions been granted, 3rd party I said it's from the data management platforms (that's the external sources ) like oracle, blue kai etc. 1P is the one that we collect from own website. \n\nNo way google is a third party as google itself isn't a third party data provider. You can even Google that no result will say google audience is a third party audience. You are only using Google's audience on dv 360 and Google ads that's their own platform, it isn't like you can use that anywhere.",
+      "score": 0,
+      "created_utc": 1739464082.0
+    }
+  ]
+}

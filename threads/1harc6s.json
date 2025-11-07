@@ -1,0 +1,15 @@
+{
+  "id": "1harc6s",
+  "title": "CTV measurement ",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1harc6s/ctv_measurement/",
+  "created_utc": 1733797597.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Silent_Ad_3255",
+      "body": "It all comes down to if the client is on board with your tracking solution. I recommend using a DSP that has the ability to customize the tracking. When setting up tracking, append data pass backs for order ID, User ID, Lead ID or any unique identifier that is passed back when the conversion is made. In addition, include order value if it's a purchase. \n\nThen, if your DSP has it, export a pixel fire report that shows the conversions that occurred, when, the device, the campaign, the creative, along with the unique ID. This will allow you to match it with the clients reporting to gain confidence. I use Stackadapt. It's pretty user friendly and allows customization in the tracking.",
+      "score": 2,
+      "created_utc": 1733927495.0
+    }
+  ]
+}

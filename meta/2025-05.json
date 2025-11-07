@@ -1,859 +1,1239 @@
 {
   "discussions": [
     {
+      "id": "1kc6dp4",
       "title": "YouTube ad formats",
       "author": "Chi-biusa2z",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kc6dp4/youtube_ad_formats/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kc6dp4/youtube_ad_formats/",
       "created_utc": 1746098863.0,
       "content": "Hi\n\nI’m looking at the most recent summary of all the available YouTube ad formats (single and multi formats) and what are the benefits and best practices.\n\nDoes anyone have this?\n\nI’m looking at it from a global pov, so even the beta products (paused ads etc) across DV360 and Google Ads.\n\nThanks a lot",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kd0owl",
       "title": "TLDR: Week in Review - Advertising's Top Stories about Google DOJ & PMax; OpenAI, TTD fees, and More!",
       "author": "data_spy",
       "score": 20,
       "url": "https://www.reddit.com/r/programmatic/comments/1kd0owl/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kd0owl/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1746191764.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* DOJ's court battle to potentially force Google to sell Chrome represents a significant escalation beyond the company's cookie delays\n* Google rolling out channel-level reporting for Performance Max, allowing advertisers to see campaign performance across platforms\n* OpenAI unveiled a new AI-powered shopping experience within ChatGPT with shoppable links to retailers\n* The Trade Desk faces pressure on its 20% take rate as CTV competitors like Amazon DSP offer significantly lower fees\n* Meta reported 16% YoY increase in Q1 revenue to $42.3B, driven by AI advertising tools\n* Amazon's advertising services revenue jumped 18% to $13.9B in Q1, outpacing overall growth\n* NBCU and GroupM demonstrated a breakthrough in cross-platform measurement with standardized Ad-IDs\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-522025)\n\nWhat advertising trends are you watching this week?\n",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kdbezx",
       "title": "Salary Transparency Chain",
       "author": "LateMathematician280",
-      "score": 28,
+      "score": 29,
       "url": "https://www.reddit.com/r/programmatic/comments/1kdbezx/salary_transparency_chain/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kdbezx/salary_transparency_chain/",
       "created_utc": 1746218832.0,
       "content": "What are we getting paid in this field?\n\nField of Industry (DSP, Agency, Sales, etc.) / Role or Level / Base / Commission (if applicable) / Equity (if applicable) / Location",
-      "num_comments": 53
+      "num_comments": 51,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kdh5m6",
       "title": "Line item granularity best practices",
       "author": "Working_Ad_3833",
-      "score": 10,
+      "score": 11,
       "url": "https://www.reddit.com/r/programmatic/comments/1kdh5m6/line_item_granularity_best_practices/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kdh5m6/line_item_granularity_best_practices/",
       "created_utc": 1746234978.0,
       "content": "How granularly are y'all typically breaking out your line items? I feel like platforms and traders often advocate for consolidation, but in my mind the fewer you have the less opportunities for optimization, and different supply has inherently different value that you would be bidding the same price for if not broken out. \n\nI'm getting pushback for wanting online video line items broken out by audience (2), instream vs. outstream (2), and mobile web/mobile app/desktop (3) for a total of 12 line items. I understand not having budget spread too thin across many line items, but that's not a risk here as the budget is significant. I would think separate line items for instream vs. outstream should be default for any advertiser so that bids can be assigned based on their objectively disparate value. \n\n I'm curious if there is any *actual* benefit from an auto-optimization perspective to have fewer line items with less restrictions, or if it really doesn't make a difference since the campaign will optimize between all the line items anyway.",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kdmyzq",
       "title": "Netflix Ads Inventory",
       "author": "_Working_Mom_",
-      "score": 17,
+      "score": 19,
       "url": "https://www.reddit.com/r/programmatic/comments/1kdmyzq/netflix_ads_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kdmyzq/netflix_ads_inventory/",
       "created_utc": 1746255857.0,
       "content": "How is everyone accessing Netflix Ads inventory? Invest DSP PMPs suddenly stopped with no notice. TTD and DV360 minimums are too high. Need agency 1:many PMPs and Netflix direct only offering 1:1 currently. Decent budgets out of agency for multiple clients. Frustrating. ",
-      "num_comments": 27
+      "num_comments": 27,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ke0vfj",
       "title": "Need help, testing a combination of 15s and 30s non-skip for YouTube",
       "author": "Maleficent_Ad_4095",
-      "score": 8,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1ke0vfj/need_help_testing_a_combination_of_15s_and_30s/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ke0vfj/need_help_testing_a_combination_of_15s_and_30s/",
       "created_utc": 1746300024.0,
       "content": "Hey, so my team has been contemplating to have both the 15s non-skip line item (all devices)and the 30s non-skip CTV line item under same insertion order for YouTube. Has anyone tried it? and if so, would u recommend having both under the same IO? Does it affect performance compared to having separate IOs for both the formats? \nIn regards to the test, we've proposed the test and given one budget under insertion order level. How about splitting the budget 50/50 between the two video lengths on different line items? We also want to run a brand study to measure success. \n\nAny suggestions are appreciated.\n\n\n",
-      "num_comments": 16
+      "num_comments": 16,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kfiknq",
       "title": "TTD - audio cpm estimates?",
       "author": "No-Investigator-8007",
-      "score": 6,
+      "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1kfiknq/ttd_audio_cpm_estimates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kfiknq/ttd_audio_cpm_estimates/",
       "created_utc": 1746468682.0,
       "content": "hi everyone, im looking to run audio directly through TTD, but need to put together a plan first. My TTD reps suck and never answer my emails so I'm hoping you can help\n\nI'm looking for estimated audio CPM and measurable metrics? does it operate on a completion rate? or just impressions?\n\nthanks in advance",
-      "num_comments": 24
+      "num_comments": 24,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kftga4",
       "title": "Key Differences Between Account Management vs Trading in programmatic - what does success look like in each role?",
       "author": "MentionWise7065",
-      "score": 6,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kftga4/key_differences_between_account_management_vs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kftga4/key_differences_between_account_management_vs/",
       "created_utc": 1746497330.0,
       "content": "I'm trying to determine whether I'm a better fit for the Account Management side or the Trading side at a DSP. Rather than relying solely on job descriptions, I'd love a clearer picture of how the roles differ in terms of real-life deliverables, responsibilities, and day-to-day projects. I'm also trying to better understand the core strengths and skill sets that make someone successful in each of these roles. Any help would be greatly appreciated",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kfufo8",
       "title": "[Career Advice] Looking to break into programmatic advertising — beginner with some hands-on experience (NYC area)",
       "author": "InternationalToday80",
-      "score": 4,
+      "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1kfufo8/career_advice_looking_to_break_into_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kfufo8/career_advice_looking_to_break_into_programmatic/",
       "created_utc": 1746500408.0,
       "content": "Hey everyone,\n\nI’m trying to get my foot in the door in programmatic advertising and would really appreciate any advice, resources, or job leads.\n\nI graduated about last summer with a degree in finance and co-founded a small html5 gaming company. Through that, I had the chance to work directly with Google to set up Google Ad Manager (GAM) and Google AdX for monetizing some of our websites. So I’ve got some basic hands-on experience with GAM, but I haven’t worked with platforms like The Trade Desk (TTD), DV360, or other DSPs yet.\n\nIn addition, I interned at a confectionery company where I worked in both accounting and marketing, which helped me build a solid foundation in business operations and campaign strategy from a brand-side perspective.\n\nI’m based near New York City and can easily commute. I’m looking for entry-level roles, internships, or even contract work where I can get real experience and grow. I’m also open to remote opportunities.\n\nIf anyone has:\n\t•\tSuggestions on certifications worth taking (TTD Edge Academy, Google Skillshop, etc.)\n\t•\tCompanies/agencies in NYC that are open to beginners\n\t•\tAny tips on breaking into the space without a traditional ad tech background\n\nI’d really appreciate it. I’m motivated, a fast learner, and ready to dive in.\n\nThanks a ton in advance!\n",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kgb399",
       "title": "Programmatic Advertising",
       "author": "Inside-Valuable2645",
       "score": 25,
       "url": "https://www.reddit.com/r/programmatic/comments/1kgb399/programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kgb399/programmatic_advertising/",
       "created_utc": 1746554256.0,
       "content": "I’m currently working in Programmatic Advertising In Dentsu and have 2.5 years of experience. I’m 27 years old and currently working as a Senior Analyst Programmatic Advertising primarily on the DSP side using platforms like DV360.\n\nI’m exploring the possibility of working abroad, particularly in Canada, USA, or European countries. I’m a bit confused about the best path to take and would really appreciate some guidance:\n\t•\tIs it possible to get a job in Programmatic Advertising directly from India?\n\t•\tShould I apply for a visit visa, leave my current job, and try to find a job abroad on the spot In abroad\n\t•\tOr would it be better to pursue a Master’s degree abroad and then look for job opportunities afterward?\n\nAlso, are there any Master’s programs specifically focused on Programmatic Advertising or Digital Marketing that would help improve my chances of landing a role in these countries?\n\nAny advice from people who’ve been through a similar path or are currently working abroad in this field would be super helpful.\n",
-      "num_comments": 26
+      "num_comments": 26,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kgee4b",
       "title": "TTD worldwide access?",
       "author": "ScaryChampionship708",
-      "score": 6,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kgee4b/ttd_worldwide_access/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kgee4b/ttd_worldwide_access/",
       "created_utc": 1746562252.0,
       "content": "hello i work in a big six agency as a trader. I want to work from other continent a pair of weeks in summer.\n\nDo you know if the admin of the seats in TTD could deny me access from other locations? ",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kgf26y",
       "title": "How do you all describe programmatic to your friends and family?",
       "author": "thecookiesmonster",
       "score": 26,
       "url": "https://www.reddit.com/r/programmatic/comments/1kgf26y/how_do_you_all_describe_programmatic_to_your/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kgf26y/how_do_you_all_describe_programmatic_to_your/",
       "created_utc": 1746563867.0,
       "content": "Pretty sure my parents are always gonna tell people that I “make ads” for a living lol",
-      "num_comments": 30
+      "num_comments": 30,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kgtmkm",
       "title": "AI Custom Bidding Algorithms",
       "author": "Available-Pea6521",
-      "score": 4,
+      "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1kgtmkm/ai_custom_bidding_algorithms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kgtmkm/ai_custom_bidding_algorithms/",
       "created_utc": 1746612285.0,
       "content": "Hi,\n\nWe are currently looking for solution that help us improve efficiencies in my company. We are an internal trading desk for an independent agency. \n\n  \nWe tested Scibids in the past but weren't happy with the results. I was wondering if there are other partners that this community can recommend? \n\n  \nWe are looking for a solution which can be used in both TTD and DV360. It can optimise towards a specific CPA goal while maintaining target CPM and able shift budgets between line items. I know most of these can be done on the DSP's native algorithms and settings but we want to see if there are any other players out there other than their own Algorithms and Scibids. \n\n  \nThanks for your suggestions in advance.",
-      "num_comments": 15
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kh3hdn",
       "title": "Apple Eyes Move to AI Search, Ending Era Defined by Google",
       "author": "JimmyTango",
       "score": 9,
       "url": "https://www.bloomberg.com/news/articles/2025-05-07/apple-working-to-move-to-ai-search-in-browser-amid-google-fallout",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kh3hdn/apple_eyes_move_to_ai_search_ending_era_defined/",
       "created_utc": 1746639593.0,
       "content": "Apple is making a bigger move into the ad tech space. Gotta wonder how far away a DSP acquisition is for them if they see this venture succeed. ",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1khbta6",
       "title": "Job switch?",
       "author": "confusedbuddhaok",
-      "score": 10,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1khbta6/job_switch/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1khbta6/job_switch/",
       "created_utc": 1746660482.0,
       "content": "Has anyone transitioned from a programmatic manager role to more project manager? I’m burnt out on running campaigns, I’ve been doing it for 4 years now. Would love any advice on switching roles (or anyone know any open roles would be even better)!",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kho4d6",
       "title": "Google Ads YouTube Ads",
       "author": "Chi-biusa2z",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1kho4d6/google_ads_youtube_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kho4d6/google_ads_youtube_ads/",
       "created_utc": 1746705014.0,
       "content": "Hi, does anyone have any guides on building YouTube campaigns on Google Ads? Specifically with the brand safety settings and exclusions?\n\nThanks in advance ",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ki5ps3",
       "title": "NewFronts announcements",
       "author": "sixwaystop313",
-      "score": 7,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1ki5ps3/newfronts_announcements/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ki5ps3/newfronts_announcements/",
       "created_utc": 1746750811.0,
       "content": "Has anyone been following the news of the NewFronts, looking for highlights and announcements that have taken place over the last week. ",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kiep5g",
       "title": "Want to move into programmatic advertising – need advice!",
       "author": "Foreign_Capital_3075",
-      "score": 7,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1kiep5g/want_to_move_into_programmatic_advertising_need/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kiep5g/want_to_move_into_programmatic_advertising_need/",
       "created_utc": 1746784589.0,
       "content": "Hi folks,  \nI'm a digital marketer with 5 years of experience, currently working at a medium-sized agency in India. My work mainly revolves around social media management, paid ads (Meta, Google), e-commerce marketing, and some marketing automation.\n\nFor the past year, I’ve been really interested in programmatic advertising. Been watching tons of YouTube videos, reading blogs, following Reddit threads, etc. But as you all know, nothing beats real hands-on experience.\n\nProblem is—my agency doesn’t deal with programmatic at all. So I have zero actual exposure to DSPs, ad ops, or trading desks.\n\nSo I have a few questions:\n\n* How do I *actually* get started in a programmatic ops role?\n* Are there any good learning platforms or certs that recruiters care about?\n* Can someone switch from performance marketing to programmatic easily?\n* Any companies you know hiring entry-level or junior roles in programmatic (remote or India-based)?\n\nWould love to hear from people who’ve made a similar switch. Thanks in advance 🙌",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kii3q6",
       "title": "TLDR: Week in Review - Advertising's Top Stories about Earnings, WPP, AI, and More!",
       "author": "data_spy",
-      "score": 24,
+      "score": 25,
       "url": "https://www.reddit.com/r/programmatic/comments/1kii3q6/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kii3q6/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1746796198.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* Magnite sees Google's legal troubles as a potential $50M revenue opportunity per market share point gained\n* The Trade Desk reported 25% revenue growth to $616M, but faces growing tensions with agency partners over alleged hidden fees\n* AppLovin shares surged 15% after beating revenue expectations and announcing sale of its mobile gaming business for $400M\n* AI search engines dramatically reducing publisher traffic - Google's AI Overviews appear in 13% of searches with 34.5% lower clickthrough rates\n* WPP plans to retire the 20-year-old GroupM brand and transition to a \"single operating model\" under WPP Media, with layoffs expected as part of the restructuring\n* Uber's advertising business reached a $1.5B annual run rate, a 60% year-over-year increase\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-592025)\n\nWhat advertising trends are you watching this week?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kijr8n",
       "title": "IP Targeting in airports?",
       "author": "Affectionate_Star559",
-      "score": 9,
+      "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1kijr8n/ip_targeting_in_airports/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kijr8n/ip_targeting_in_airports/",
       "created_utc": 1746800654.0,
       "content": "Hi. anyone knows of any data providers, SSPs or ad tech that is plugged in to DV360 or ADSP, that allows me to target people on airport wifis? Should be based on IP-targeting, not Zip-codes, as this would be too broad. Want to run a campaigns for passengers across plenty of international airports.  Thanks for any hint.",
-      "num_comments": 32
+      "num_comments": 32,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kilnl5",
       "title": "AdRoll experience?",
       "author": "VioletStumble",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1kilnl5/adroll_experience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kilnl5/adroll_experience/",
       "created_utc": 1746805395.0,
       "content": "Does anyone have AdRoll experience? We're a small agency and my boss asked me to evaluate it but I  haven't worked with it before.  Does anyone have feedback?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kir2eo",
       "title": "Pharma advertising in Canada - Programmatic - What's possible ?",
       "author": "Present-Society-5972",
       "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kir2eo/pharma_advertising_in_canada_programmatic_whats/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kir2eo/pharma_advertising_in_canada_programmatic_whats/",
       "created_utc": 1746818949.0,
       "content": "Hey all, looking for some feedback related to running programmatic ads for Pharma brands in Canada. What DSPs do you recommend, what can we really do from a targeting perspective, etc. Is 1st party data actually useable? \n\n\n\nSeems like some of the DSPs pretty much block any & all targeting, outside of broad contextual categories. \n\nSo what are some actual opportunities to reach users or content related to specific medical conditions and what options are there for targeting / reaching healthcare practitioner? ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kjg2kw",
       "title": "Does working at a DSP makes you the most money?",
       "author": "LateMathematician280",
       "score": 11,
       "url": "https://www.reddit.com/r/programmatic/comments/1kjg2kw/does_working_at_a_dsp_makes_you_the_most_money/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kjg2kw/does_working_at_a_dsp_makes_you_the_most_money/",
       "created_utc": 1746899477.0,
       "content": "Want to learn more on how compensation differs across firms in the industry (DSP, SSP, Agency, Brand-Side, etc.) Is there a tier list?",
-      "num_comments": 28
+      "num_comments": 28,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kkut1i",
       "title": "Has anyone worked in P&G here?",
       "author": "alittledumb0",
-      "score": 8,
+      "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1kkut1i/has_anyone_worked_in_pg_here/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kkut1i/has_anyone_worked_in_pg_here/",
       "created_utc": 1747062277.0,
       "content": "If anyone here has worked or is currently working with P&G - for any programmatic role. Please let me know. \nI have a few queries. \nThanks! ",
-      "num_comments": 19
+      "num_comments": 19,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1klh8ol",
       "title": "Curation - Whats the Deal?",
       "author": "SabreDobeDelta",
-      "score": 9,
+      "score": 10,
       "url": "https://www.reddit.com/r/programmatic/comments/1klh8ol/curation_whats_the_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1klh8ol/curation_whats_the_deal/",
       "created_utc": 1747126923.0,
       "content": "I’ve been working with a mix of CTV, OLV, and Display auction packages for the past three months, running some RON deals alongside those with curated third-party audiences. We’re partnering with large agencies via platforms like TTD and DV360, and all our deals come with active budgets. However, regardless of the hype and the promising talk around platforms such as Magnite, Pubmatic, Equativ Maestro, and Xandr, our daily revenue rarely exceeds $50 on average per deal (some even less.)\n\nI’m reaching out to see if anyone with experience in setting up deals via these curation platforms is seeing different results or if I’m missing something crucial in our strategy. Is it an industry-wide challenge at the moment, or should we be tweaking our approach to drive more significant revenue numbers? Any tips, insights, or experiences would be greatly appreciated!\n\nHow on earth is curation commercially viable given the amount of back forth needed just to get an agency to take a meeting, agree to set up and deal…for $50 gross revenue a day?\n\nLooking forward to hearing your thoughts.\nWhat are your strategies for making the juice worth the squeeze in these deals?",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1klk44w",
       "title": "Stock Exchange",
       "author": "palacesfacew",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1klk44w/stock_exchange/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1klk44w/stock_exchange/",
       "created_utc": 1747137686.0,
       "content": "Hi everyone,\n\nDoes a stock exchange exist that shows the hourly evolution of the CPM price, like the stock exchange on the financial markets?",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1klmiaj",
       "title": "Looking for Insights & Resources: DV360 Demand Gen Campaign (CPV) – Case Study in Progress",
       "author": "GladDebate5022",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1klmiaj/looking_for_insights_resources_dv360_demand_gen/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1klmiaj/looking_for_insights_resources_dv360_demand_gen/",
       "created_utc": 1747144401.0,
       "content": "Hey everyone,\n\nI’m currently working on a case study for a DV360 Demand Gen campaign we’re running with a Cost-Per-View (CPV) bidding strategy, and I’d love to gather some insights or resources from those who’ve run similar campaigns.\n\nHere’s a quick context:\n\t•\tWe’re focusing on brand awareness and engagement using video creatives.\n\t•\tThe goal is to analyze viewability, engagement rates, and CPV performance across different audience segments.\n\t•\tWe’re experimenting with targeting options (affinity, custom intent, in-market) and creative variations.\n\nWhat I’m looking for:\n\t1.\tBest practices or optimization tips for DV360 CPV campaigns.\n\t2.\tAny benchmarks or KPIs you’ve tracked that helped measure success.\n\t3.\tCase studies or blog posts you’ve found helpful.\n\t4.\tAny pitfalls or issues to watch out for—especially related to audience overlap or frequency capping.\n\t5.\tSuggestions on how to structure the case study itself—what metrics or formats worked best for you?\n\nWould appreciate any help or links. Thanks in advance!",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1klx4dv",
       "title": "Google Ads YouTube VCR Optimizations",
       "author": "perry_190",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1klx4dv/google_ads_youtube_vcr_optimizations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1klx4dv/google_ads_youtube_vcr_optimizations/",
       "created_utc": 1747169636.0,
       "content": "Does anyone have any insight into best ways to optimize for VCR on YT in Google Ads? For Context I’m running a skippable 15s campaign. Currently I’m looking at insights and reports, when and where ads showed section, and excluding and channels with low view rates. Curious if anyone has other optimizations I can make to bring up VCR (Videos played to 100% in GA reporting)",
-      "num_comments": 4
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmky1w",
       "title": "Xandr invest shutting down :(",
       "author": "Dull-Formal-7976",
-      "score": 99,
+      "score": 100,
       "url": "https://i.redd.it/raiiy2mf7s0f1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmky1w/xandr_invest_shutting_down/",
       "created_utc": 1747243313.0,
       "content": "Long time coming but very bad!",
-      "num_comments": 43
+      "num_comments": 43,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmmo1a",
       "title": "Third Party Reporting Tool Recommendations",
       "author": "Any_Lawfulness4277",
       "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmmo1a/third_party_reporting_tool_recommendations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmmo1a/third_party_reporting_tool_recommendations/",
       "created_utc": 1747247391.0,
       "content": "My team currently uses [Adriel](https://www.adriel.com/) for client-facing programmatic reporting, but we’ve been underwhelmed by its functionality, flexibility and support. We went with Adriel given their lower price point (get what you pay for). \n\nWe’re exploring other third-party reporting tools that integrate well with The Trade Desk, as well as the other major ad platforms (Google, Meta, etc...). \n\nI'm curious as to what tools others are using? Any recommendations for platforms that offer strong TTD integration, solid visualization, and reliable support? Also open to more well recommendations such as TapClicks, [Funnel.io](http://Funnel.io), etc...",
-      "num_comments": 11
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmmw8a",
       "title": "is tvscientific a dsp?",
       "author": "True_Link4011",
-      "score": 5,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmmw8a/is_tvscientific_a_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmmw8a/is_tvscientific_a_dsp/",
       "created_utc": 1747247927.0,
       "content": "or does it sit on another dsp",
-      "num_comments": 21
+      "num_comments": 21,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmqrvl",
       "title": "Programmatic in Dentsu",
       "author": "Inside-Valuable2645",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmqrvl/programmatic_in_dentsu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmqrvl/programmatic_in_dentsu/",
       "created_utc": 1747257331.0,
       "content": "Is there anyone working in Programmatic at Dentsu who is part of EMEA or APAC shift in India? I have a few queries and would like to  connect with them.",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmr0ah",
       "title": "Programmatic salary in Groupm",
       "author": "Inside-Valuable2645",
-      "score": 9,
+      "score": 10,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmr0ah/programmatic_salary_in_groupm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmr0ah/programmatic_salary_in_groupm/",
       "created_utc": 1747257906.0,
       "content": "Any idea, what’s the maximum salary package for a Senior Executive Programmatic role at GroupM in India? ",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmtkmj",
       "title": "Click to landing page conversion rate",
       "author": "linuz14",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmtkmj/click_to_landing_page_conversion_rate/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmtkmj/click_to_landing_page_conversion_rate/",
       "created_utc": 1747264773.0,
       "content": "Have you ever measured click/landing page ratio based on cm360 floodlight tracking?\nAnd vs ga4?  ",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kmw3tf",
       "title": "Pharma campaigns in EU",
       "author": "Used_Morning_1791",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1kmw3tf/pharma_campaigns_in_eu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kmw3tf/pharma_campaigns_in_eu/",
       "created_utc": 1747272354.0,
       "content": "A client wants to run an unbranded disease education campaign reaching specific doctors in the EU, I’m struggling to find any data partners for self serve or managed service partners to help run this - any suggestions? ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kn0yhy",
       "title": "Real-world use of MRSS feeds — who’s doing it?",
       "author": "Axlon",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1kn0yhy/realworld_use_of_mrss_feeds_whos_doing_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kn0yhy/realworld_use_of_mrss_feeds_whos_doing_it/",
       "created_utc": 1747288699.0,
       "content": "I’m curious to hear from others in the industry: which publishers or saleshouses are actively using MRSS feeds to deliver metadata for video content — things like titles, descriptions, categories — but especially for delivering midroll cuepoints?\n\nWe’re currently rethinking our setup and aiming to make MRSS the single source of truth for metadata delivery, instead of injecting everything into the ad request. It feels like a more stable and scalable approach, especially across multiple publishers.\n\nSo I have a few questions:\n\t•\tWho’s already doing this successfully?\n\t•\tAre there other use cases for MRSS feeds we might not have thought of?\n\t•\tAnd importantly: what limitations have you run into when working with MRSS in production environments?\n\nWould love to hear your experiences — good or bad. Thanks in advance!",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kn1xid",
       "title": "Automatic Rules for blacklisting",
       "author": "Get_Win",
       "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kn1xid/automatic_rules_for_blacklisting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kn1xid/automatic_rules_for_blacklisting/",
       "created_utc": 1747292635.0,
       "content": "Several platforms like Taboola and ExoClick offer an **Automatic Rules** feature that helps with blacklisting poor-quality traffic sources.  \nDo you personally find this feature helpful?  \nWhat best practices would you recommend for using it effectively?",
-      "num_comments": 15
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kn60s4",
       "title": "The new DV360 brand suitability",
       "author": "Chi-biusa2z",
-      "score": 3,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kn60s4/the_new_dv360_brand_suitability/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kn60s4/the_new_dv360_brand_suitability/",
       "created_utc": 1747309222.0,
       "content": "Hi, is anyone aware of the DV360 brand suitability? What steps are you taking ahead of June? ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kn9ogy",
       "title": "Anyone using a QA checklist or peer review process before launching campaigns?",
       "author": "javier_marlega",
       "score": 10,
       "url": "https://www.reddit.com/r/programmatic/comments/1kn9ogy/anyone_using_a_qa_checklist_or_peer_review/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kn9ogy/anyone_using_a_qa_checklist_or_peer_review/",
       "created_utc": 1747319482.0,
       "content": "Hey everyone, I’m relatively early in my programmatic career, and I’ve been thinking a lot about how to QA campaigns before launch.\n\nRight now, most of it feels super manual, checking line items one by one, making sure targeting is correct etc. It’s easy to miss something, especially when you’re juggling multiple accounts or platforms like DV360 and TTD.\n\nI’m wondering how other teams handle this. Do you use any kind of QA checklist? Do you get someone else to double-check things before launch? Any tools or templates you’ve found helpful?\n\nTrying to figure out a smoother process, would love to learn what others are doing.\n\nEdit: I contacted AtomicAds, and they gave me a 14-day trial. I'll let you guys know how it goes.",
-      "num_comments": 14
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1knc4c1",
       "title": "\"San Francisco Bay Area,California,United States\" appearing as a US state in DV360 reporting?",
       "author": "nklim",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1knc4c1/san_francisco_bay_areacaliforniaunited_states/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1knc4c1/san_francisco_bay_areacaliforniaunited_states/",
       "created_utc": 1747325439.0,
       "content": "All other US regions in DV360 are states, except for \"San Francisco Bay Area,California,United States\", which is split out from the rest of California for some reason.\n\nI'm seeing it in all advertisers, first appearing in September.\n\nAnyone else seeing this in their reporting? ",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1knf26o",
       "title": "April 2025 Sellers Report: Trends & Movers in Ads.txt",
       "author": "DataBeat_adtech",
-      "score": 10,
+      "score": 11,
       "url": "https://www.reddit.com/r/programmatic/comments/1knf26o/april_2025_sellers_report_trends_movers_in_adstxt/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1knf26o/april_2025_sellers_report_trends_movers_in_adstxt/",
       "created_utc": 1747332493.0,
       "content": "Hey everyone, We just wrapped up our latest Sellers Report, and there are some eye-opening shifts in the ads.txt landscape this April:\n\n* 70,000+ new ads.txt lines added, 58,000+ removed - the biggest net positive change (+11.4K)  the highest positive change this year\n* Emerging SSPs are leading the charge, with a net increase of 7,700+ lines.\n* Zeno-Media partnered with 1,000+ new publishers (plus a big partnership with NumberEight), while Critro, Smaato continue their steady climb, and Blis onboarding 600+ more..\n* On the publisher side, Sharethrough, Freewheel, Criteo, TrustX, and Magnite are all showing strong new connections.\n* Blis and Gumgum made major gains in both Emerging and Established categories, especially in digital out-of-home.\n* Verve jumped 200+ spots on the Emerging leaderboard - a huge leap\n\n Drop your thoughts or questions below! 👇",
-      "num_comments": 11
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kni3ba",
       "title": "Budgeting for programmatic",
       "author": "domin_noodles",
-      "score": 6,
+      "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1kni3ba/budgeting_for_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kni3ba/budgeting_for_programmatic/",
       "created_utc": 1747339959.0,
       "content": "So I am trying to determine a budget for programmatic ads which the company has not done before. \nI would like to know how to figure out what the budget should be and the thought process behind that. \nBasically, how do you know what to spend on programmatic?",
-      "num_comments": 22
+      "num_comments": 22,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1knzo5t",
       "title": "TLDR: Week in Review - Advertising's Top Stories about AI, Microsoft shutting its DSP,  & More!",
       "author": "data_spy",
       "score": 20,
       "url": "https://www.reddit.com/r/programmatic/comments/1knzo5t/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1knzo5t/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1747398743.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* ChatGPT launched direct product purchase functionality, bypassing traditional search and e-commerce platforms\n* Microsoft to discontinue its Invest DSP by February 2026, focusing instead on AI-driven advertising experiences\n* Belgian appeals court ruled on IAB Europe's TCF, confirming a €250,000 fine while narrowing ad tech liability scope\n* Gartner reports marketing budgets remain flat at 7.7% of company revenue, with 39% of CMOs seeking to reduce labor costs via AI\n* Amazon Ads unveiled three new CTV formats, including AI-powered pause ads and interactive shoppable formats\n* Netflix's ad-supported tier reaches 94 million monthly active users globally, up from 70 million in November\n* CFPB withdrew a proposed rule that would have required data brokers to obtain consent before selling personal data\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-5162025)\n\nWhat advertising trends are you watching this week?\n",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ko4i2x",
       "title": "What do you use the sincera dashboard for?",
       "author": "cpmgalore",
-      "score": 11,
+      "score": 12,
       "url": "https://www.reddit.com/r/programmatic/comments/1ko4i2x/what_do_you_use_the_sincera_dashboard_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ko4i2x/what_do_you_use_the_sincera_dashboard_for/",
       "created_utc": 1747411244.0,
       "content": "I signed up to check out [https://open.sincera.io/](https://open.sincera.io/) at the free level. I'm kind of lost. I feel like I've gotten a whole bunch of ingredients, but I'm not sure what to do with them. \n\n  \nHow are others using this dashboard? ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ko8iyq",
       "title": "Ad preview for mocks / replacement for DV360 previewer?",
       "author": "Dull-Formal-7976",
-      "score": 5,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1ko8iyq/ad_preview_for_mocks_replacement_for_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ko8iyq/ad_preview_for_mocks_replacement_for_dv360/",
       "created_utc": 1747421073.0,
       "content": "Hi all,\n\nDV360 used to have this handy tool where you could preview an ad on any site and the ad would render in the ad slots on that page -- useful I know!\n\n  \nUnfortunately, as is often the case, they deprecated it..\n\n  \nAnyone know of replacements for this?\n\n  \nTYIA!",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1koa9pp",
       "title": "Netflix",
       "author": "ToughRevolutionary81",
-      "score": 7,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1koa9pp/netflix/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1koa9pp/netflix/",
       "created_utc": 1747425518.0,
       "content": "What is Netflix doing programmatically? Is it a good place to be in or work? Or a mess?",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kob0v9",
       "title": "Hiring? - US Programmatic Campaign Specialist",
       "author": "NewOrleansSpeed",
       "score": 23,
       "url": "https://www.reddit.com/r/programmatic/comments/1kob0v9/hiring_us_programmatic_campaign_specialist/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kob0v9/hiring_us_programmatic_campaign_specialist/",
       "created_utc": 1747427415.0,
       "content": "In US - looking just to set up campaigns and optimize.\n\nI have 6+ years experience in Programmatic and Digital Media. From Startups to Large corpos spending $100Ms. From GTM, to DCO, to strategy and launch, whatever you need baby. \n\nDV360, TTD, Yahoo, GA, Xandr, Ive used them all. if you need something activated - I hate my job.\n\nFull or part-time. I don't care.\n\nDM me and save me from myself.",
-      "num_comments": 14
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kojhe8",
       "title": "Life360 monetization",
       "author": "Formal-Change1579",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kojhe8/life360_monetization/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kojhe8/life360_monetization/",
       "created_utc": 1747452492.0,
       "content": "What should LIfe360 be able to monetise at. Have 84m MAU's with 44% DAU's and the average Life360 user opens the app 5x per day.",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kp123f",
       "title": "DSP Free Hands on experience",
       "author": "Jolly-Active1962",
-      "score": 11,
+      "score": 12,
       "url": "https://www.reddit.com/r/programmatic/comments/1kp123f/dsp_free_hands_on_experience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kp123f/dsp_free_hands_on_experience/",
       "created_utc": 1747509884.0,
       "content": "1. Is there any way to have couple of dsp hands on experience for free such as TTD, criteo, Amazon DSP?\n\n2.could any please share best optimisation tips and tricks documents for dsp such as dv360, amazon dsp etc., anything works, YouTube channels also works. \n\nThanks in advance!",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kpg768",
       "title": "Can I land a job in the adtech industry with my current skills?",
       "author": "Effective_Tap_9786",
-      "score": 8,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kpg768/can_i_land_a_job_in_the_adtech_industry_with_my/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kpg768/can_i_land_a_job_in_the_adtech_industry_with_my/",
       "created_utc": 1747561336.0,
       "content": "Hi everyone,\n\nI’m looking to break into the AdTech industry and wanted to get some feedback on whether my current skill set is enough to land a role. Here’s a summary of my experience and what I can bring to the table:\n\n\t•\tExperience with Google Analytics, AdSense, Google Ad Manager (GAM), Google AdX, Open Bidding, and Header Bidding.\n\t•\tCan build a Prebid wrapper from scratch and configure any Prebid bidder adapter and module.\n\t•\tCan setup Prebid integrated with Google AdX.\n\t•\tCan automate line item creation in Google Ad Manager through scripting or API.\n\t•\tCan build custom Prebid analytics APIs to track bidding performance.\n\t•\tFull-stack web developer:\n\t•\tFrontend: Vue.js / Nuxt\n\t•\tBackend: Golang (Fiber)\n\t•\tDatabases: PostgreSQL, MySQL, Cloudflare D1\n\t•\tDevOps: Some Docker and deployment experience.\n\t•\tSkilled in integrating and debugging ad scripts, including on Single Page Applications (SPA) and infinite scroll setups — with a focus on best practices and performance.\n\t•\tHave knowlege in Google Ad policies and compliance; I can assist others in resolving policy violations.\n\t•\tPreviously worked as a publisher and have direct relationships with some SSPs like Magnite, so I’m familiar with onboarding and signing processes.\n\nWould love to hear your thoughts — do you think this skill set is enough to land a job in Adtech? Any advice or insight is appreciated!",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kr84db",
       "title": "TTD Kokai/KOA honest opinions",
       "author": "Sav4geMode",
       "score": 22,
       "url": "https://www.reddit.com/r/programmatic/comments/1kr84db/ttd_kokaikoa_honest_opinions/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kr84db/ttd_kokaikoa_honest_opinions/",
       "created_utc": 1747755836.0,
       "content": "As the title suggests, I’m curious for brutally honest opinions on TTD’s AI offering. Are the automations good enough, is it still too black-boxy? My company is evaluating onboarding them as a first choice DSP, but I’m wondering what the real world experience is. ",
-      "num_comments": 21
+      "num_comments": 21,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kranpw",
       "title": "Audience Sharing Platforms",
       "author": "Jagnolee",
-      "score": 6,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kranpw/audience_sharing_platforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kranpw/audience_sharing_platforms/",
       "created_utc": 1747761824.0,
       "content": "I was wondering if there was a service out there that would allow us to share our audiences with a client to use in programmatic advertising using services like The Trade Desk or simpli.fi.\n\nWhere it is tricky is we wanted to make sure that the client would not have access to the raw data so similar for Meta audience sharing, where they have access to the audience to use in ads, but they cannot go and look at the raw data. \n\nOne of my sales reps mentioned that a client has used Bombora in the past but I could not get a hold of them in any way to confirm.\n\nWe have used liveramp for our email list to match and connect directly with [simpli.fi](http://simpli.fi) which I could see be a possibility for sharing that audience. The liveramp account we have is with a vendor so I don't want to mess around with the account, but can we do this with physical addresses as well?\n\nIf anyone has done this in the past with success it would mean the WORLD to me, I have spent hours looking at different services and none of them seem to have that, upload an audience and connect it to The Trade Desk...\n\nThank you all for the time to read this :)",
-      "num_comments": 11
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krdxvi",
       "title": "AdTech Roundtable: Join Practitioners for a No-BS Discussion on Key Challenges",
       "author": "DataBeat_adtech",
       "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1krdxvi/adtech_roundtable_join_practitioners_for_a_nobs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krdxvi/adtech_roundtable_join_practitioners_for_a_nobs/",
       "created_utc": 1747769601.0,
       "content": "Hey folks! 👋\n\nWe’re bringing back the AdTech Roundtable, a space for candid, no-BS conversations among AdTech practitioners.\n\nThis time, we’re diving into hot topics like AI’s impact on organic traffic (think Gemini overviews), Traffic Shaping & supply path optimization, bot prevention, and making the most of non-monetized inventory.\n\nIf you’re up for real unfiltered discussion with peers who get it and sharp insights, please join us: [**Click**](https://lu.ma/js19ndsl)\n\nWould love to see some familiar faces (and strong opinions) in the mix! :)",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krh4gr",
       "title": "Is it common for international agencies to hire foreign media buyers?",
       "author": "RiotPointsFree",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1krh4gr/is_it_common_for_international_agencies_to_hire/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krh4gr/is_it_common_for_international_agencies_to_hire/",
       "created_utc": 1747777472.0,
       "content": "Hey everyone! Hope you're doing well.\n\nI'm a 20-year-old media buyer from Brazil, and I've been thinking a lot about taking my career international in the future. So far, I’ve managed over **$1 million in ad spend**, mostly on Meta Ads for e-commerce, info products, and raffle campaigns.\n\nI’m curious:  \n👉 **Is it common for agencies (US, Europe, etc.) to hire foreign media buyers?**  \n👉 **Has anyone here worked with a media buyer from another country before?**  \n👉 Is that something normal, or is it rare/difficult due to things like language, time zone, or cultural differences?\n\nI speak advanced English and have professional-level experience setting up and optimizing high-performing campaigns, but I’m unsure if the international market tends to open up to foreign talent.\n\nWould love to hear your thoughts or experiences!\n\nThanks a lot 🙌",
-      "num_comments": 13
+      "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krj4gm",
       "title": "How Do Indie Agencies Think? What Really Matters to Them in Digital Marketing?",
-      "author": "[deleted]",
+      "author": null,
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1krj4gm/how_do_indie_agencies_think_what_really_matters/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krj4gm/how_do_indie_agencies_think_what_really_matters/",
       "created_utc": 1747782795.0,
       "content": "Hey Reddit,\n\nI’ve been working in the digital marketing/programmatic space for a while now, mostly dealing with bigger holding groups like GroupM, Dentsu, and IPG. But lately, I’ve been getting curious about independent (indie) agencies — the smaller, more agile teams doing creative and performance marketing without the big corporate baggage.\n\nI’d love to understand:\n\nWhat really matters to indie agencies when it comes to digital marketing and programmatic campaigns?\n\nAre they more performance-driven, client-relationship-focused, or innovation-led?\n\nHow do their priorities differ from holding company agencies?\n\nWhich channels do indie agencies lean on the most — is it social (Meta, Insta, LinkedIn), programmatic display/video, search, influencer collabs, or something else?\n\nHow do they typically approach budgets and campaign strategy? Are they more experimental or cautious?\n\n\nIf anyone here has worked with or inside an indie agency, or collaborated with one on the brand/vendor side — your insights would mean a lot. Would love to hear what makes them tick, what frustrates them, and what kind of partners or platforms they vibe with the most.\n\nDrop your thoughts below — appreciate you in advance!",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krtbn9",
       "title": "How do you estimate CPM",
-      "author": "[deleted]",
+      "author": null,
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1krtbn9/how_do_you_estimate_cpm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krtbn9/how_do_you_estimate_cpm/",
       "created_utc": 1747818662.0,
       "content": "Hi, i have to make a proposal for a CTV only campaign targeting only United Kingdom, but i never had a campaign of this sort, so i don't know how to estimate the pricing, i use Equativ Deal Builder to know Median CPM and DV360 Plan tool, but the two have different numbers as the screenshots, can you please help me if you have historical data for a campaign of this type or you know how can i estimate more or less the CPM\n\nhttps://preview.redd.it/j3fs1gt7q32f1.png?width=669&format=png&auto=webp&s=b474344f606717ecbf05de12d8eabd25048abfe8\n\nhttps://preview.redd.it/d9hzouf8q32f1.png?width=1435&format=png&auto=webp&s=e0694acd0ff2b24ffdcbfdf7a48df2f4feaf48a7\n\n",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krtsoc",
       "title": "What’s considered a good weekly impressions reach for a programmatic campaign?",
-      "author": "[deleted]",
+      "author": null,
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1krtsoc/whats_considered_a_good_weekly_impressions_reach/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krtsoc/whats_considered_a_good_weekly_impressions_reach/",
       "created_utc": 1747820665.0,
       "content": "Hey everyone! I know this might be a bit of a weird question, but I’m trying to get a sense of what’s considered a \"good\" amount of weekly impressions reach for a programmatic campaign.\n\nObviously, I imagine it varies depending on the campaign objective (awareness, performance, etc.) and the format (display, video, native…), but I’m curious if there’s a rough benchmark or range people typically see or aim for.\n\nWould love to hear how others think about this — do you have any rules of thumb or reference numbers?\n\nThanks in advance!",
-      "num_comments": 6
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krxpp7",
       "title": "Deals and publisher agreements",
       "author": "linuz14",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1krxpp7/deals_and_publisher_agreements/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krxpp7/deals_and_publisher_agreements/",
       "created_utc": 1747833765.0,
       "content": "Do you sign any contract with single publisher when you run pmp o pg? Or just agree on dsp terms?",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krxtvw",
       "title": "Deals and publisher agreements",
       "author": "linuz14",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1krxtvw/deals_and_publisher_agreements/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krxtvw/deals_and_publisher_agreements/",
       "created_utc": 1747834081.0,
       "content": "Do you sign any contract with single publisher when you run pmp o pg? \nOr do you just rely  on dsp terms that gou sign to open the account? ",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kry5ub",
       "title": "Dv360 YouTube",
       "author": "PublicProcess9379",
       "score": 3,
       "url": "https://www.reddit.com/r/programmatic/comments/1kry5ub/dv360_youtube/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kry5ub/dv360_youtube/",
       "created_utc": 1747834982.0,
       "content": "Hi there, have been running some YouTube campaigns over the last few months and wondering if there are any free courses / certifications for YouTube through DV360? Haven’t seen any googling them. Thanks!",
-      "num_comments": 2
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1krzerr",
       "title": "Programmatic Career Path/Progressions",
       "author": "Honzapo",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1krzerr/programmatic_career_pathprogressions/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1krzerr/programmatic_career_pathprogressions/",
       "created_utc": 1747838172.0,
       "content": "Hello, \n\nI was wondering, is there any experienced RTB Ad Buyer / Programmatic Specialist, who would be willing to share his/her career path and progressions? \n\nI have been working as a RTB specialist for almost one year now, it is my first full time job after graduation. I would like to see what's possible, what can I expect, if I persist and stay in this role etc. I am wondering if I should stay or try something different in the realm of digital marketing.\n\nThank you and have a nice day,\n\n\nPoll: How much experience do you have in programmatic/RTB role?\n\n[View Poll](https://www.reddit.com/poll/1krzerr)",
-      "num_comments": 1
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ks2405",
       "title": "How to run ad’s on English premier league matches?",
       "author": "Prestigious-Sea7536",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1ks2405/how_to_run_ads_on_english_premier_league_matches/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ks2405/how_to_run_ads_on_english_premier_league_matches/",
       "created_utc": 1747844681.0,
       "content": "I’m relatively new to programmatic advertising, having worked mostly with search ad’s and social media campaigns. We’re exploring ways to show our ads during English Premier League (EPL) soccer matches — I’d really appreciate any advice on how to approach this",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kskmjt",
       "title": "Top CTV Publisher UK",
-      "author": "[deleted]",
-      "score": 3,
+      "author": null,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kskmjt/top_ctv_publisher_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kskmjt/top_ctv_publisher_uk/",
       "created_utc": 1747898188.0,
       "content": "Hi all, i'm scouting a CTV UK Campaign and i would like to know what are the most premium publisher, like maybe BBC, Channale 4 if they have availabilities in programmatic CTV",
-      "num_comments": 3
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ksotk2",
       "title": "Survey (3 min): How painful is bulk setup in Google Ad Manager?",
       "author": "wworks_dev",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1ksotk2/survey_3_min_how_painful_is_bulk_setup_in_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ksotk2/survey_3_min_how_painful_is_bulk_setup_in_google/",
       "created_utc": 1747915023.0,
       "content": "Hey folks,\n\nI’m putting together a tiny side-project and could use your input.\n\n**Who am I?**  \nI spent several years in an ad-tech agency building AdOps solutions; these days I run AdOps for a small publisher (6 sites across 2 countries in Central Europe). Living in GAM every day, I still waste a shocking amount of time bulk-creating line items, creatives, and the like—so I’m exploring a *very* lightweight tool to fix that pain.\n\n**Why this post?**  \nBefore I write a single line of code I’d love to sanity-check the idea with real practitioners. I made a **6-question Google Form** (takes \\~3 minutes, completely anonymous). It covers:\n\n* how many campaigns/line items you set up\n* how you currently handle bulk edits\n* what frustrates you most\n* whether you’d ever pay for a no-frills bulk-editor\n\n👉 **Form link**: [https://forms.gle/Pr5C9LgjijNBZBb19](https://forms.gle/Pr5C9LgjijNBZBb19)\n\nNo sales pitch, no follow-up calls—unless you *want* to chat in writing later (optional field at the end).\n\n**What you get:**  \nI’ll share an aggregated summary of the results with the subreddit next week so we all see whether this is a widespread pain or just my personal nightmare.\n\nHuge thanks in advance! Feel free to roast the idea or drop additional thoughts in the comments.\n\n*(Mods: if this type of survey isn’t allowed, please let me know and I’ll take it down.)*",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ksrdd4",
       "title": "Brand Lift Survey Outside of YouTube – Is It Possible?",
-      "author": "[deleted]",
-      "score": 7,
+      "author": null,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1ksrdd4/brand_lift_survey_outside_of_youtube_is_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ksrdd4/brand_lift_survey_outside_of_youtube_is_it/",
       "created_utc": 1747922236.0,
       "content": "Hi everyone,  \nI'm looking to understand whether it's possible to run a **brand lift survey** outside of YouTube within a programmatic campaign.\n\nI know that YouTube offers native brand lift studies, but I'm wondering if there are other solutions to implement something similar through regular line items with publishers (not via YouTube inventory).  \nAre there any third-party tools, DSP-native features, or publisher-specific options that support brand lift measurement across display or video?\n\nWould really appreciate any insights or experiences you've had with this!\n\nThanks in advance 🙏",
-      "num_comments": 20
+      "num_comments": 20,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kstzpt",
       "title": "Using API's for Campaign Management",
       "author": "Just_Here_For_Work",
       "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kstzpt/using_apis_for_campaign_management/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kstzpt/using_apis_for_campaign_management/",
       "created_utc": 1747928688.0,
       "content": "So, I've been looking into utilizing API's to manage campaigns across various platforms more efficiently. Does anyone have experience doing this and what recommendations would you have to make this as effective as possible? As far as I know, my agency doesn't use API's at all outside of what the dev team has created to make their lives easier. Things like campaign setup, creative builds/updates, and reporting are all manual processes. I want to work with our dev team to build a dashboard that we can use to manage all of this and more across multiple platforms, but I don't have any experience or reference for the idea.  Any help, advice, and examples would be helpful. Thanks in advance.  ",
-      "num_comments": 14
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ksw2fs",
       "title": "Is anyone seeing improvement in Unity Ads",
       "author": "aen3as",
-      "score": 8,
+      "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1ksw2fs/is_anyone_seeing_improvement_in_unity_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ksw2fs/is_anyone_seeing_improvement_in_unity_ads/",
       "created_utc": 1747933649.0,
       "content": "Unity ads rolled out an \"AI\" ad network (similar to applovin). Curious if performance is improving for anyone? Mobile gaming especially.",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ksz5b9",
       "title": "Looking For Advice - Just Starting in Programmatic Advertising",
       "author": "Professional-Rip4835",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1ksz5b9/looking_for_advice_just_starting_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ksz5b9/looking_for_advice_just_starting_in_programmatic/",
       "created_utc": 1747941070.0,
       "content": "I work at a very niche b2b SaaS company as the PPC manager. Our target audience are high level IT individuals. I've been trying to come up with more creative ways for us to do more targeted advertising to our audience outside of Google, Bing and LinkedIn.\n\nGoogle is our big winner, LinkedIn is too expensive and Bing works great when spend is low. But we need more, so I'm looking into Programmatic.\n\nI just got off the phone with The Trade Desk, we're looking at their Choozle plan now.\n\nHowever, I would love some advice on whether to move forward or stay away from them, what other options are out there, and if a $5k/m testing budget is worth breaking out into programmatic.\n\nI think I would like to use programmatic as a force to push remarketing and expand brand awareness.",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ktz9ps",
       "title": "Need help to crush my interview for Account Manager at a programmatic company",
       "author": "Valuable-Wrangler-41",
       "score": 7,
       "url": "https://www.reddit.com/r/programmatic/comments/1ktz9ps/need_help_to_crush_my_interview_for_account/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ktz9ps/need_help_to_crush_my_interview_for_account/",
       "created_utc": 1748047743.0,
       "content": "I'm interviewing with a programmatic company for the position of account manager. I need help/tips on how to position myself and taliking points. The role is building client relationship , growing the business, being the bridge between client and ad ops and tech teams, ensure smooth delivery of campaigns, reporting and sharing insights.\nI come from an agency sales background and have sold programmatic services to multiple clients, primarily a lot of DV360, but also other DSPs like mediamath, Amazon ads , digital out of home , CTV etc. I know how to pitch a programmatic solution but I have never been in the execution side so don't have too much in depth knowledge on the tools and account management level. I'm currently preparing for the interview and want to nail it. Any suggestions would help\nWanna know how about average day looks like for an account manager\nWhat are the most important/popular DSPs currently\nAny new trends\nAny details on how to make a media plan \nMain KPIs to monitor\nDeriving at insights\nAnticipation tech issues and problem solving\nSetting up campaings \nReporting structure\n\n\nI wanna lap it all up ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kueewq",
       "title": "Struggling to align my top 3 skills with UK expectations in Programmatic interviews – need advice",
       "author": "Valuable_Big_4868",
       "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kueewq/struggling_to_align_my_top_3_skills_with_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kueewq/struggling_to_align_my_top_3_skills_with_uk/",
       "created_utc": 1748100941.0,
       "content": "Hi everyone,\n\n  \nI’m a programmatic advertising professional with 3+ years of experience at big4 agencies. I’ve recently been interviewing for Programmatic AM/Strategy roles in the UK, but I keep getting mixed feedback about my top 3 skills.\n\nIn one interview, I said my top strengths were **Strategy, Planning, and Empathy**. The feedback was that they’re a fast-paced environment and need someone more **agile and adaptable**.\n\nIn another interview, I adjusted and mentioned **Agility, Flexibility, and Strategic Thinking**, but then got told that my skillset might not align with the role.\n\nI’m now confused – what are the top 3 skills UK companies are *actually* expecting from candidates in programmatic roles, especially for AM or strategist positions? And how can I tailor my answer without sounding too generic or trying too hard?\n\nWould really appreciate insights from anyone who’s hiring, recently hired, or has cracked this in the UK market.\n\nThanks in advance!",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kulqol",
       "title": "Site traffic optimizarion",
       "author": "linuz14",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1kulqol/site_traffic_optimizarion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kulqol/site_traffic_optimizarion/",
       "created_utc": 1748120490.0,
       "content": "\nEhich is your site traffic strategy?\nIf stick to click converion rate the best performing is search, other chnnels have much lower redemption… bubpossibly better cost per landing: which is your experience and how would you optimize? For example I’m excludong app traffick…",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kultb7",
       "title": "Job move related quesion",
       "author": "Ill_Ad_695",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1kultb7/job_move_related_quesion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kultb7/job_move_related_quesion/",
       "created_utc": 1748120691.0,
       "content": "Hello all,\n\nI wanted to ask the community regarding the applicability of my ad ops skill set as I've started to explore. \n\nI've worked in a sports related publishing in which 99% of our inventory is sold to direct buyers via sponsorship deals. As such, I have minimal programmatic experience. In addition to dig. ad ops(GAM360, inventory tracking, pacing, reporting, QA, YT monitozatipn, etc.), I have traditional linear trafficking experience(pandemic experience to help a a team), some meta social buy experience as of late, biling and reconciliation, and plenty of client facing experience. However, A lot of the job postings are programmatic and I've started to worry about my potential to move.  \n\nFirst, would any of these openings even consider my experience as a candidate? Two, if not, is there a way to learn gain programmatic experience in a non-work environment? Three, are you hiring anyone with my skill set(direct buy) in NYC?\n\nAny input would be great. Thank you all in advance. ",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kuquer",
       "title": "Incremental conversions advice",
       "author": "theBeerWeasel",
-      "score": 7,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kuquer/incremental_conversions_advice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kuquer/incremental_conversions_advice/",
       "created_utc": 1748136010.0,
       "content": "Hi there,\n\nI just moved accounts, and my new client prioritizes incremental conversions via CAPI above all else. \n\nWhat advice can you give me about driving incrementality performance across DV360, TTD and ADSP? \n\nI’m still new to partners asking for incrementality studies, so trying to learn 1/ how to drive performance, 2/ any gotchas to be aware of and 3/ any difference in incrementality methodology across these partners (their top 3 DSP partners).",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kuspkp",
       "title": "MBA in this industry - worth it?",
       "author": "LateMathematician280",
-      "score": 1,
+      "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kuspkp/mba_in_this_industry_worth_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kuspkp/mba_in_this_industry_worth_it/",
       "created_utc": 1748142382.0,
       "content": "Out of pure curiosity, how would getting an MBA in this industry benefit someone? I’m personally very interested in management/leadership, and with that, I believe an MBA can help open such doors for me. But can anyone fact check me, but also add if there’s anything else that an MBA could do for someone in this industry?",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kvn8ih",
       "title": "Looking web Monetization Options",
       "author": "Parth_Consul",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kvn8ih/looking_web_monetization_options/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kvn8ih/looking_web_monetization_options/",
       "created_utc": 1748239834.0,
       "content": "I have traffic of 8 to 10k per day from US and India.\n\nSource - Social \n\nI am using [Adhub.media](http://adhub.media/) and their support, performance and reporting both are shit looking for better alternatives",
-      "num_comments": 4
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kvujxj",
       "title": "Debate |Big difference between Xandr Clicks and GA4 Sessions | Atribution discrepancies-",
       "author": "tomgoge",
       "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kvujxj/debate_big_difference_between_xandr_clicks_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kvujxj/debate_big_difference_between_xandr_clicks_and/",
       "created_utc": 1748266628.0,
       "content": "Hey all, with the intention to open a debate, I'll share a case im struggling with.\n\n  \nMy **CLIENT A** has been running programmatic campaigns in Xandr invest DSP (I know its closing in Feb 26) for the last monht, and a weird thing is happening. I have literally 8k clicks in Xandr, but only 2k sessions in Ga4. Plus, the bounce rate is so low, at 5%. \n\n\n\nMy suggestions are 2:\n\n* Ga4 is considering them users that already have interacted with my client's website, so thats why it doesnt atribute the other 6k (so high anyways) users. \n* Ga4 is literally stealing from Xandr\n   * I spoke with my microsoft representative already, says a clicks on  xandr is a clicks, and the % of discrepancy is not normal.\n   * UTMS are well set also.\n\n\n\n  \nWhat do you guys think!?\n\nApart form obvious aspects, i think such a big discrepancy is not normal. Im literally reporting clicks for them since the difference betwees DSP and Ga4 makes it imposible to work otherwise.\n\n\n\nHappy to read y'all",
-      "num_comments": 22
+      "num_comments": 22,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kvz7h1",
       "title": "Starting an entry level programmatic role at an agency, any advice on how to make a strong impression?",
       "author": "JayJayDavis",
-      "score": 5,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kvz7h1/starting_an_entry_level_programmatic_role_at_an/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kvz7h1/starting_an_entry_level_programmatic_role_at_an/",
       "created_utc": 1748278148.0,
       "content": "Hey there,\n\nAs the title suggests, this week I’m starting my new role as a programmatic account executive.\n\nI’ve had no prior marketing/programmatic experience before this role. I secured it after completing a digital marketing bootcamp specialising in running a paid social campaign on meta for a small business. We covered programmatic briefly on the course and I did some brief research on it for the interview process.\n\nDespite my manager insisting I didn’t need to do any courses or training before I started, I want to make a good first impression during my first couple of weeks whilst being trained for the role.\n\nIf anyone has any advice on ideas on how I could do this, please feel free to share.\n\nThanks so much for reading!",
-      "num_comments": 12
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kw10d2",
       "title": "Sales pet peeves?",
       "author": "mp1952",
-      "score": 7,
+      "score": 8,
       "url": "https://www.reddit.com/r/programmatic/comments/1kw10d2/sales_pet_peeves/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kw10d2/sales_pet_peeves/",
       "created_utc": 1748282425.0,
       "content": "What’s one thing adtech/DSP sales reps do that drives you insane and makes you want to invest less with them? ",
-      "num_comments": 15
+      "num_comments": 15,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kx1oll",
       "title": "Site Visit Conversions VS clicks",
       "author": "MicroSofty88",
       "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kx1oll/site_visit_conversions_vs_clicks/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kx1oll/site_visit_conversions_vs_clicks/",
       "created_utc": 1748387113.0,
       "content": "Hey there 👋 Does any know why reporting for a floodlight for site visits would be completely different than clicks? We’re currently getting like 2k clicks per day, but only 10 “site visits”",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kx1v26",
       "title": "Anyone using amazon api for adv?",
       "author": "linuz14",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kx1v26/anyone_using_amazon_api_for_adv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kx1v26/anyone_using_amazon_api_for_adv/",
       "created_utc": 1748387613.0,
       "content": "If anyone is using amazon api or aws and other connected services to dsp and amazonadv account, could you explain me main benefits and features that I may get by each product?",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kx365a",
       "title": "DV360 vs. TTD",
       "author": "jampavey",
-      "score": 19,
+      "score": 18,
       "url": "https://www.reddit.com/r/programmatic/comments/1kx365a/dv360_vs_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kx365a/dv360_vs_ttd/",
       "created_utc": 1748391288.0,
       "content": "I have an interview coming up for an account manager in activation where I will be trading on TTD as well as DV360.\n\nI have 2 years in DV360 and know my way around but no exposure on TTD. What help and advice can you give me about trading on TTD?\n\nI’m looking for defining features and capabilities, as well as the point of difference\n\nTIA",
-      "num_comments": 10
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kx4slh",
       "title": "Frequency targeting in DV360",
       "author": "ocean-mother-fitness",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1kx4slh/frequency_targeting_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kx4slh/frequency_targeting_in_dv360/",
       "created_utc": 1748396078.0,
       "content": "Is anyone having success using frequency targeting for YouTube campaigns in dv360? We ran one month successfully but now are not able to spend the full budget and I’m not entirely sure where the choke point is",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kx7ke4",
       "title": "Thoughts on Walmart Connect",
       "author": "Sav4geMode",
-      "score": 5,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1kx7ke4/thoughts_on_walmart_connect/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kx7ke4/thoughts_on_walmart_connect/",
       "created_utc": 1748404615.0,
       "content": "Anyone use Walmart Connect for their CPG clients? Have a client who’s pushing us to meet with a rep and we don’t want to onboard another DSP unless it’s something groundbreaking. Curious if they offer anything apart from retail data. If you have used it or heard about it, would love thoughts or general comments about how it stacks up vs TTD and Amazon. ",
-      "num_comments": 7
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kxep1y",
       "title": "Pg and freq capping",
       "author": "linuz14",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1kxep1y/pg_and_freq_capping/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kxep1y/pg_and_freq_capping/",
       "created_utc": 1748431839.0,
       "content": "If I set a freq cap in pg what happens? I’m supposed to reapond to all bid requesto so basically the deal will keep deliverong not caring about it?\nAnd I set it at campaign level with a mix of pg and pmp?",
-      "num_comments": 19
+      "num_comments": 19,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kxfvk8",
       "title": "Any of you interested in offering a DV360 masterclass?",
       "author": "Slight_Face9622",
       "score": 0,
       "url": "https://www.reddit.com/r/programmatic/comments/1kxfvk8/any_of_you_interested_in_offering_a_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kxfvk8/any_of_you_interested_in_offering_a_dv360/",
       "created_utc": 1748435518.0,
       "content": "I need to do the set up for a client a couple of days from now and I have never used this DSP.\n\nI have previous experiences with various DSPs, so I kinda just need to know where everything is, and ask a couple of questions on how you do XYZ.\n\nI think it wont take longer than 2 hours.\nIf anyone is interested be sure to DM me and we can decide the price.\n\nThank you and sorry if this is not the right subreddit to ask",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kxptxs",
       "title": "Looking for a ssp",
       "author": "linuz14",
-      "score": 3,
+      "score": 4,
       "url": "https://www.reddit.com/r/programmatic/comments/1kxptxs/looking_for_a_ssp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kxptxs/looking_for_a_ssp/",
       "created_utc": 1748459870.0,
       "content": "As publisher I’m looking for some advices for a good ssp.\n\nAs far as I’ve understood, ad manager by google is allowing also to plug publisher dmp to monetize our data into programmatic deals (both pg and pmp) is this correct? What about other options like magnite?\n\nAnd which other ssp do allow advertiser to use their first party data into pg?\nThansk",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ky32vg",
       "title": "Freelance programmatic buyers",
       "author": "WorldFun8776",
-      "score": 5,
+      "score": 6,
       "url": "https://www.reddit.com/r/programmatic/comments/1ky32vg/freelance_programmatic_buyers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ky32vg/freelance_programmatic_buyers/",
       "created_utc": 1748497368.0,
       "content": "\nHi! Our agency may be needing some freelance help to get through a few campaigns / workload and to cover vacations. Do any of you freelance? If so please drop me a line. Absolutely must be US based. Thank you! ",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1ky5gt8",
       "title": "Thoughts on Kokai?? Personal opinion - it’s made things worse in terms of user experience.",
       "author": "EstateTerrible4807",
       "score": 59,
       "url": "https://www.reddit.com/r/programmatic/comments/1ky5gt8/thoughts_on_kokai_personal_opinion_its_made/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ky5gt8/thoughts_on_kokai_personal_opinion_its_made/",
       "created_utc": 1748506928.0,
       "content": "",
-      "num_comments": 46
+      "num_comments": 46,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kydwj2",
       "title": "How To Progress In AdOps?",
       "author": "Just_Here_For_Work",
-      "score": 8,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1kydwj2/how_to_progress_in_adops/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kydwj2/how_to_progress_in_adops/",
       "created_utc": 1748532981.0,
       "content": "**NOTE:** *I originally posted this in* r/adops *but I don't get answers from that subreddit* *because all of my posts are stuck awaiting moderator approval. I don't think the mods are looking at my posts because I've got one that's been awaiting approval for a year. Anyway...*\n\n\n\nSo, I've officially been the only Ad Operations Specialist at my agency for 3 or 4 years now. As far as I know, I'm the first person to hold that title, and it's a role I'd never heard of until my manager at the time told me that's where I would be doing going forward (started as a Junior SEO Specialist). I'm mostly self taught, but I think I'm pretty solid relative to what's asked of me. The problem I'm seeing is that I have no direction in terms of how to improve. As mentioned, I'm the only ad operations specialist, so there's nobody to really learn from. So my questions to you all:\n\n1. Generally speaking, what should I know/be learning?\n2. What is something ad ops isn't technically expected to do that's still good to at least understand?\n3. How much of what you know/understand depends on what's been asked of you in your role?\n4. What would you consider junior level, mid level, and senior level in terms of ad ops?",
-      "num_comments": 5
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kyfrcr",
       "title": "multiple desks/platforms?",
       "author": "nolafilm",
       "score": 2,
       "url": "https://www.reddit.com/r/programmatic/comments/1kyfrcr/multiple_desksplatforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kyfrcr/multiple_desksplatforms/",
       "created_utc": 1748537404.0,
       "content": "currently buying media through one programmatic partner. are there inherent benefits to working with multiple ones simultaneously instead of just one?",
-      "num_comments": 11
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kyg286",
       "title": "Programmatic + Social Job Roles",
       "author": "Flipdoc_",
-      "score": 12,
+      "score": 13,
       "url": "https://www.reddit.com/r/programmatic/comments/1kyg286/programmatic_social_job_roles/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kyg286/programmatic_social_job_roles/",
       "created_utc": 1748538107.0,
       "content": "I've been seeing an increased amount of \"hybrid\" job posts looking for experienced professionals in both Programmatic and Social Media, usually involving hands-on experience on DV360, TTD, Amazon, Meta, TikTok, LinkedIn...\n\nI've only worked on agencies where roles are overly sectorized, e.g. you're either hired as a programmatic specialist or a paid social specialist.\n\nI had to turn down a lot of interesting posts due to lack of experience on social, although I'm looking forward to do some self-learning on social.\n\nWhat do you think of these hybrid jobs?\nWouldn't it be a headache to manage a portfolio of clients running tactics on both ecosystems, with different goals?",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kyhz6t",
       "title": "US Programmatic Trends May 2025",
       "author": "DataBeat_adtech",
-      "score": 16,
+      "score": 15,
       "url": "https://www.reddit.com/r/programmatic/comments/1kyhz6t/us_programmatic_trends_may_2025/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kyhz6t/us_programmatic_trends_may_2025/",
       "created_utc": 1748542625.0,
       "content": "April 2025 saw overall CPMs remain flat month-over-month, with display CPMs up 3.9% and video CPMs down 31.1%. Year-over-year, CPMs declined 25%, reflecting a post-election dip in political ad spend and ongoing economic uncertainty. **Fill rates also dropped from** **42% to 38%**. Notably, **AdX saw a slight QoQ CPM lift**, bucking the trend, while **Amazon (-29%)** and **IX (-18%)** experienced the **biggest declines**.\n\nEarly in the month, lighter advertiser demand led to higher win rates, but bidding intensified mid- to late-month as budgets ramped up, peaking in the final days. To adapt, publishers should **adjust floor prices dynamically**, lowering them at the start of the month and increasing as demand surges, especially in the last 10 days. Leveraging **real-time optimization** and **diversifying demand sources** will be key to stabilizing revenue as market volatility continues.\n\n**CPM Trends:**\n\n* **MoM Growth:** Display CPMs ↑3.9%, Video CPMs ↓31.1%, Overall CPM flat\n* **YoY Change:** YoY: Display CPMs ↓29.7%, Video CPMs ↓13.3%, Overall CPM ↓25%\n\n[check out the full report](https://databeat.io/blog/us-programmatic-trends-april-25/) ",
-      "num_comments": 0
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kyjdnu",
       "title": "Thoughts on Teads as a platform to run full budget campaigns!? Seems like they’ve got a clean inventory and also some good tools to measure Attention, Brand lift etc.",
       "author": "EstateTerrible4807",
-      "score": 4,
+      "score": 5,
       "url": "https://www.reddit.com/r/programmatic/comments/1kyjdnu/thoughts_on_teads_as_a_platform_to_run_full/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kyjdnu/thoughts_on_teads_as_a_platform_to_run_full/",
       "created_utc": 1748545915.0,
       "content": "How does it fare vs TTD since they also provide bespoke creative support? ",
-      "num_comments": 9
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kyrxzf",
       "title": "Best MTA/ Attribution/Optimization Solution",
       "author": "ExactExplanation8603",
       "score": 1,
       "url": "https://www.reddit.com/r/programmatic/comments/1kyrxzf/best_mta_attributionoptimization_solution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kyrxzf/best_mta_attributionoptimization_solution/",
       "created_utc": 1748568558.0,
       "content": "Just started with a new company and they are 80% search, 20% paid social, a little affiliate. \n\nMy job is to drive top of funnel in order to improve down funnel CPL and KPI improve ROAS and drive growth etc.\n\nProblem is, there's no martech stack, everything is last touch attribution.\n\nTarget audience is more SMB/side hustle consumers not ABM.\n\nWhat tool can I get them to use in order to show my worth? Or am I screwed from the beginning?\n\nI've used things like HockeyStack before but not sure it's a fit here.",
-      "num_comments": 8
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
     },
     {
+      "id": "1kze7w7",
       "title": "DSP for Small Business Recommendation",
       "author": "Ill_Ad_695",
-      "score": 8,
+      "score": 9,
       "url": "https://www.reddit.com/r/programmatic/comments/1kze7w7/dsp_for_small_business_recommendation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1kze7w7/dsp_for_small_business_recommendation/",
       "created_utc": 1748636029.0,
       "content": "Hello,\n\n  \nI'm doing a two pronged search in which I want hands on programmatic advertising and at the same time, help a friend of mine with programmatic advertising for his small electronic product. business. This advertising will likely be contextual and look-alike/retargeting based.   \n  \nI'm an ad trafficker by trade(creative, campaign, pacing management) but don't do programmatic(I only do direct sold) and hoping to get recommendations on DSP's suited for my friend's small business. I've read up on StackAdapt, [Simpli.fi](http://Simpli.fi), and Basis and was wondering if other ones I should check out. Also if there are any qualities I should look out for in a DSP from a small business perspective, that'll be greatly appreciated.\n\nThanks again in advance!  \n  \nBest,    ",
-      "num_comments": 30
+      "num_comments": 31,
+      "over_18": false,
+      "link_flair_text": null
     }
   ]
 }

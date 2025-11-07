@@ -1,0 +1,39 @@
+{
+  "id": "1krxtvw",
+  "title": "Deals and publisher agreements",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1krxtvw/deals_and_publisher_agreements/",
+  "created_utc": 1747834081.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "You agree to the publishers terms on the IO / order. They typically follow IAB standards, but you will be sent an IO of the buy and the terms will be on the order for you to agree to and sign.",
+      "score": 1,
+      "created_utc": 1747839427.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Wich IO or order? I usually accept just terms on the deal sent on the dsp",
+      "score": 1,
+      "created_utc": 1747856794.0
+    },
+    {
+      "author": "Gullible_Attitude_20",
+      "body": "I do the negotiations via email and then are sent an IO to review sign before the DID gets pushed into DSP for acceptance.",
+      "score": 1,
+      "created_utc": 1747856885.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Ah so in addition to the dsp deal you sign also a contract offline? Contract is by publisher botg for pmp and pg? Funny because neither big companies like netflix ever asked for it to me…",
+      "score": 1,
+      "created_utc": 1747856974.0
+    },
+    {
+      "author": "linuz14",
+      "body": "Any feedback on this?",
+      "score": 1,
+      "created_utc": 1748120599.0
+    }
+  ]
+}

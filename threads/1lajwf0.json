@@ -1,0 +1,39 @@
+{
+  "id": "1lajwf0",
+  "title": "ADSP Traffic Quality Filters on CTV",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1lajwf0/adsp_traffic_quality_filters_on_ctv/",
+  "created_utc": 1749831062.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Bulky_Perception_682",
+      "body": "\\>RON  \n\\>Quality avails\n\npick one",
+      "score": 2,
+      "created_utc": 1749835417.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Most of these aren’t publishers, but supply side partners. Basically curators of inventory.",
+      "score": 2,
+      "created_utc": 1749863206.0
+    },
+    {
+      "author": "AugustineFou",
+      "body": "the earliest CTV fraud case was where Grindr (mobile app) was fabricating fake CTV bid requests and getting paid for CTV ads even though it was a mobile app; big name publishers also do \"audience extension\" which means fraudulent sites and apps are siphoning off CTV ad revenue even when ads never ran. So 25 - 50% filter rates is very low for an average. Far higher filter rates should be the case. There are some more targeting parameters you can use to lock this down further, so you are actually getting CTV ads instead of RON crap.",
+      "score": 2,
+      "created_utc": 1749904522.0
+    },
+    {
+      "author": null,
+      "body": "Seems good enough way to buy for 99% of the industry",
+      "score": 1,
+      "created_utc": 1749852047.0
+    },
+    {
+      "author": "1toremember",
+      "body": "This 👆 to guarantee quality CTV you need to go to publishers direct. In networks or resellers it's easy to mix in bad inventory, so seems like ADSP traffic quality filter is probably working well in this case.",
+      "score": 1,
+      "created_utc": 1750240989.0
+    }
+  ]
+}
