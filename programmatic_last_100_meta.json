@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o60hvn",
-      "title": "Self Curation Platform",
-      "author": "Less-Selection1127",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o60hvn/self_curation_platform/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o60hvn/self_curation_platform/",
-      "created_utc": 1760400127.0,
-      "content": "Hi there! I’ve been experimenting with a few curation platforms like Equativ and LoopMe. Do you have any other recommendations for video (rewarded), CTV, or in-app inventory?\n\nAny recommendation will be much appreciated ! ",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1o64thl",
-      "title": "AI Data & performance reports",
-      "author": "wickedysplit25",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o64thl/ai_data_performance_reports/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o64thl/ai_data_performance_reports/",
-      "created_utc": 1760412415.0,
-      "content": "Playing with different LLMs and report types from multiples DSPs. Has anyone else been able to find or create awesome AI  prompts that garner great performance insights MoM?  Curious how other traders are using this and for what and what's working at saving you time?",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o65lmr",
       "title": "Looking for help in adding my direct ads.txt lines on premium CTV & In-App publishers",
       "author": "YogurtclosetSmart650",
@@ -1302,6 +1276,32 @@
       "created_utc": 1762655200.0,
       "content": "Hey folks,\n\nI’m currently a Senior Paid Media Specialist (programmatic, social, search) with around 5 years of experience (mainly programmatic)working across multiple DSPs and full-funnel campaigns. I’ll be moving to India soon and was wondering what the remote landscape looks like there.\n\nAre there many remote programmatic roles (either India-based or global companies hiring talent working remotely from India)? Also curious — what’s the average pay range like for someone with ~5 years of experience in programmatic?\n\nWould love to hear from anyone currently working remotely from India or who’s made a similar move. Any insights on salary expectations, job boards, or how to position yourself for global remote roles while based in India would be super helpful.\n\nThanks in advance for any real-world info or advice!\n",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ossoky",
+      "title": "Frequency cap cross deal",
+      "author": "linuz14",
+      "score": 1,
+      "url": "/r/u_linuz14/comments/1osso3i/frequency_cap_cross_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ossoky/frequency_cap_cross_deal/",
+      "created_utc": 1762717410.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1osspc5",
+      "title": "Frequency cap cross deal",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1osspc5/frequency_cap_cross_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1osspc5/frequency_cap_cross_deal/",
+      "created_utc": 1762717461.0,
+      "content": "\nIf I want to miximize reach, capping is it working just on cross pmp or also if i apply it to a pmp and pg? Google account is telling me that if i set cap on ctv preroll + neflix pg I’ll be able to macimize reach even because capping is appied also if limited due to pg… it doesn’t sound 100%correct…",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
