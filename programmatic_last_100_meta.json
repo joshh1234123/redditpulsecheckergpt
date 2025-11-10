@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o6tjex",
-      "title": "Gclid vs utm",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o6tjex/gclid_vs_utm/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o6tjex/gclid_vs_utm/",
-      "created_utc": 1760480067.0,
-      "content": "Is better to rely on gclid or kepp on usong utms for traffic attribution in ga4?",
-      "num_comments": 10,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o6vnc4",
       "title": "3P data for targeting 1st Responders needed...",
       "author": "Unique-Focus-2352",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1otk192/youtube_buying_and_activity/",
       "created_utc": 1762795741.0,
       "content": "Hi,\n\nDoes anyone know what are the main differences and benefits in running YouTube via DV360 and GA? Reserve is now available via GA so trying to to compare both and see what’s best here ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1otqq5f",
+      "title": "Advanced DSP Tips: Amazon, Yahoo, and Google Optimization Wins",
+      "author": "Amazing_Chemical7681",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1otqq5f/advanced_dsp_tips_amazon_yahoo_and_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1otqq5f/advanced_dsp_tips_amazon_yahoo_and_google/",
+      "created_utc": 1762810428.0,
+      "content": "Hey everyone,\n\nFor those who’ve managed campaigns across Amazon, Yahoo, or Google’s DSPs what are your go-to optimizations or lesser-known levers that consistently drive performance? Always interested in hearing how others are fine-tuning their setups, any tips/tricks will be appreciated. Thank yall in advance!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
