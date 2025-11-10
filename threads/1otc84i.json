@@ -1,0 +1,16 @@
+{
+  "id": "1otc84i",
+  "thread_id": "1otc84i",
+  "title": "How do you select a contextual data provider?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1otc84i/how_do_you_select_a_contextual_data_provider/",
+  "created_utc": 1762777027.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "Great question - I think contextual is a lot like 3P targeting. Works maybe 30% - 50% of the time but costs are low enough for it to get by as an efficient reach tactic. \n\nA lot of them are veering more algo-based lately, which is where I’m (personally) veering towards. Usually test a few partners (peer39, 1P publisher, SSP, media.net/captify) and see where performance nets out. Make sure you have guardrails in place before setting them up across the Open Exchange. Make sure their segments are compatible across the supply you’re using too.",
+      "score": 1,
+      "created_utc": 1762779668.0
+    }
+  ]
+}
