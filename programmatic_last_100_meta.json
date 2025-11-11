@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o80rrn",
-      "title": "9 App Monetization Strategies (2025)",
-      "author": "sevioadmanager",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o80rrn/9_app_monetization_strategies_2025/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o80rrn/9_app_monetization_strategies_2025/",
-      "created_utc": 1760603685.0,
-      "content": "Full Article: [https://blog.sevio.com/app-monetization-strategies/](https://blog.sevio.com/app-monetization-strategies/) \\> In this guide, you’ll discover practical ways to mix and match monetization methods, with real-world examples and tips you can apply to your app.\n\n**5.7M+ apps** are competing for attention.  \nStrong apps monetize across multiple paths.  \n**Top 1%** of apps earn **80%+** of total revenue.\n\n**1. In-App Advertising:** Best for > High-traffic apps *(games, utilities, media).*  \n**2. Subscription Models:** Best for > Fitness, productivity, education, and streaming.  \n**3. Affiliate Marketing:** Best for > Travel, shopping, lifestyle, and finance apps.  \n**4. In-App Purchases:** Best for > Games, creative tools, and personalization apps.   \n**5. Premium Content and Paywalls:** Best for > Media, education, and professional knowledge apps.   \n**6. Rewarded Ads:** Best use cases > Gaming, wellness, and finance.   \n**7. Sponsorships and Native Brand Deals:** Best for > Niche apps with loyal audiences in fitness, parenting, travel, or finance.   \n**8. Ethical Data Monetization:** Best for > Navigation, weather, lifestyle.   \n**9. Hybrid Monetization Models:**\n\n* Ads + IAP (common in gaming). \n* Free tier with ads + premium subscription (productivity). \n* Paywalls + sponsorships (media).\n\n**10. How to Choose the Right Monetization Strategy for Your App**",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1o81eaw",
-      "title": "AdCP - Open Standard for Agentic Advertising Debuts",
-      "author": "goodgoaj",
-      "score": 10,
-      "url": "https://adcontextprotocol.org/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o81eaw/adcp_open_standard_for_agentic_advertising_debuts/",
-      "created_utc": 1760606206.0,
-      "content": "I imagine this will get some mixed opinions in the industry for sure! But the era of using Agentic Agents to simplify / automate elements of programmatic is well underway. \n\nIAB Tech Lab confirms they are not part of this also which is intriguing.",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o8j79p",
       "title": "DV360 Marketplace packages",
       "author": "ScaryChampionship708",
@@ -1302,6 +1276,32 @@
       "created_utc": 1762873850.0,
       "content": "Hello all, Can anyone explain what is happening with Microsoft Invest? Is it now Amazon DSP? I am confused if Microsoft is truly getting out of the DSP business.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1oug5hy",
+      "title": "budget settings in DV360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oug5hy/budget_settings_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oug5hy/budget_settings_in_dv360/",
+      "created_utc": 1762883302.0,
+      "content": "If I set 10k budget in IO this is = to revenue = billed amount = to media + tech + roc/surcharge?\n\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ougk6k",
+      "title": "Amazon Unboxed 2025 Announcements",
+      "author": "goodgoaj",
+      "score": 2,
+      "url": "https://advertising.amazon.com/library/news/unboxed-2025-recap",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ougk6k/amazon_unboxed_2025_announcements/",
+      "created_utc": 1762884181.0,
+      "content": "AI of course at the heart of it, AI agent for Sponsored Ads / DSP / AMC and an unified Campaign Manager UI, both of which has been in beta for a while.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
