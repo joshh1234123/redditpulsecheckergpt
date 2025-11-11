@@ -554,6 +554,21 @@
       "link_flair_text": null,
       "thread_id": "1otthoq",
       "thread_path": "1otthoq.json"
+    },
+    {
+      "id": "1oty7v3",
+      "title": "What's wrong with DV360 API in 2025?",
+      "author": "skyreaver06",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oty7v3/whats_wrong_with_dv360_api_in_2025/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oty7v3/whats_wrong_with_dv360_api_in_2025/",
+      "created_utc": 1762829617.0,
+      "content": "I am in a entry level data analysis position and I am trying to get scheduled reports on GCP buckets because basically nobody else know how to do it in the organization and management is pressuring the whole team, but I am running into so much trouble to get anything from DV360 API... I don't know even where to start since documentation has changed a lot in recent years and no AI can troubleshoot. Any recommendations ?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1oty7v3",
+      "thread_path": "1oty7v3.json"
     }
   ]
 }
