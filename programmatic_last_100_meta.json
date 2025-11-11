@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o7ldx0",
-      "title": "Building weekly frequency on CTV (DV360)",
-      "author": "alexgoestowork",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o7ldx0/building_weekly_frequency_on_ctv_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o7ldx0/building_weekly_frequency_on_ctv_dv360/",
-      "created_utc": 1760558203.0,
-      "content": "Hey guys,\n\nBeen working with a client who's been investing decent amounts in Connected TV video to build brand / product awareness, and we've been trying to increase weekly average frequency as a way to generate better recall, naturally sacrificing some total reach / reach %. We are exclusively on select premium publishers / partners via PMP/PD/PG deals, and on YouTube (Canada). We've tried YouTube target frequency, but we don't like the restriction in YT channel targeting with that buy type. \n\nWe are using DV360 as a DSP for the most part. Has anyone been through that thinking and have any inputs? \n\nWe use Amazon Ads for some activations around Prime Video and Twitch, and that DSP has a great target frequency function, that unfortunately DV360 doesn't have. ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o80rrn",
       "title": "9 App Monetization Strategies (2025)",
       "author": "sevioadmanager",
@@ -1302,6 +1289,19 @@
       "created_utc": 1762829617.0,
       "content": "I am in a entry level data analysis position and I am trying to get scheduled reports on GCP buckets because basically nobody else know how to do it in the organization and management is pressuring the whole team, but I am running into so much trouble to get anything from DV360 API... I don't know even where to start since documentation has changed a lot in recent years and no AI can troubleshoot. Any recommendations ?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1oubwdk",
+      "title": "Microsoft Invest",
+      "author": "Majestic-End7402",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oubwdk/microsoft_invest/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oubwdk/microsoft_invest/",
+      "created_utc": 1762873850.0,
+      "content": "Hello all, Can anyone explain what is happening with Microsoft Invest? Is it now Amazon DSP? I am confused if Microsoft is truly getting out of the DSP business.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
