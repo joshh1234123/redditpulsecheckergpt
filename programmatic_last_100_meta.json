@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o8kgzy",
-      "title": "Best medium-easy prog monetization for a low traffic niche pub? Global traffic",
-      "author": "adsalesgirl",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o8kgzy/best_mediumeasy_prog_monetization_for_a_low/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o8kgzy/best_mediumeasy_prog_monetization_for_a_low/",
-      "created_utc": 1760654125.0,
-      "content": "Hi all,\n\nWhat's the best easy (and maybe as a second option) slightly harder option for fairly niche pubs with constant north American traffic but low low compared to any major pubs.  Sites are fully unmonetized currently.\n\nDo I need prebid wrappers and all of this stuff as I just want to add standard IAB units and maybe outstream (Teadz style scrolling through articles).\n\nNorth American traffic primarily.  What will get the highest eCPM?",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o90n9a",
       "title": "Is imginn.com a clickfarm domain?",
       "author": "Automatic_Low3434",
@@ -1302,6 +1289,19 @@
       "created_utc": 1762977517.0,
       "content": "Home Instead's \"**Home But Not Alone**\" campaign brought Macaulay Culkin back as an adult Kevin McCallister, turning a 35-year-old Christmas classic into a festive reminder that, eventually, love needs backup. We loved how a nostalgia play is turned into something that actually earned its emotional weight, proving you can sell in-home care without making people feel guilty or sad about it. ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ovk6mg",
+      "title": "Key things to know about Netflix ads",
+      "author": "Designer_Refuse_5506",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ovk6mg/key_things_to_know_about_netflix_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ovk6mg/key_things_to_know_about_netflix_ads/",
+      "created_utc": 1762987699.0,
+      "content": "I'm interviewing for a sales role at Netflix and while I have a media agency leadership & planning background, I haven't worked as a buyer before. I understand the process at a high level, but I'm concerned some may try and trip me up on technical points. For anyone who has worked in buying on the agency or platform side, what are some things to know/respond to that will be helpful given the fact that I'm not necessarily a shoe-in for the role?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
