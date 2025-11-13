@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o94hr8",
-      "title": "DSPs with Food Delivery Integrations",
-      "author": "lifesizeisunderrated",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o94hr8/dsps_with_food_delivery_integrations/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o94hr8/dsps_with_food_delivery_integrations/",
-      "created_utc": 1760715061.0,
-      "content": "Which (if any) DSPs or social/search platforms have the ability to serve ads on DoorDash, UberEats, etc. and do those delivery apps send audiences that can be used on other programmatic inventory?",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1oat4zh",
-      "title": "Common mistakes when working with DV360? (also seeing duplicate clicks)",
-      "author": "kirajeee",
-      "score": 8,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oat4zh/common_mistakes_when_working_with_dv360_also/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oat4zh/common_mistakes_when_working_with_dv360_also/",
-      "created_utc": 1760889221.0,
-      "content": "Hi everyone,\n\n\n\nI recently got the chance to work with **DV360**, and I’m realizing it’s quite different from **Google Ads / GDN** in how campaigns are structured and reported.\n\n\n\nRight now I’m only running **standard display campaigns with optimized creatives**, just to get familiar with the platform. But I’ve already noticed something odd — I’m getting **duplicate clicks or requests from the same IP address at the same time**. Not sure if that’s expected (maybe from verification systems or retries) or if there’s something wrong with how my setup is configured.\n\n\n\nSo I wanted to ask:\n\n\n\n* What are some **common mistakes** people make when managing campaigns in DV360?\n* Has anyone else experienced **duplicate clicks or impressions** from the same user/IP?\n* Any tips on getting **cleaner and more insightful reporting**?\n\n\n\n\n\nWould appreciate any insights or best practices from people who’ve spent more time with DV360. Thanks!",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oatot7",
       "title": "Looking for offline DSP / programmatic auction data for testing",
       "author": "Huge_Cantaloupe_7788",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ow87o5/does_anyone_have_any_good_templates_for_creative/",
       "created_utc": 1763057139.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1owbrr7",
+      "title": "Transparency in contextual segments?",
+      "author": "MX-2000",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1owbrr7/transparency_in_contextual_segments/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1owbrr7/transparency_in_contextual_segments/",
+      "created_utc": 1763065130.0,
+      "content": "After the Adalytics report from earlier this year, do any contextual providers (incl. brand safety) offer lists of specific pages they index as a part of a data segment? As far as I can find, the only one providing that level of transparency is [Aeterna Labs](https://aeternalabs.ai/) but maybe there are more?\n\nTrying to understand what steps people are taking in the aftermath of that report.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1owc4wm",
+      "title": "Programmatic Specialist (3 YOE) Looking for Remote/Hybrid Opportunities",
+      "author": "Inside-Valuable2645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1owc4wm/programmatic_specialist_3_yoe_looking_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1owc4wm/programmatic_specialist_3_yoe_looking_for/",
+      "created_utc": 1763065962.0,
+      "content": "Hi everyone,\n\nI have 3 years of experience in Programmatic Advertising with hands on experience in Amazon DSP, TTD, DV360, and CM360.\n\nI’m currently looking for programmatic job opportunities in India, open to remote or hybrid preferably with UK or APAC shifts.\n\nSince I’m already working in US night shift, I don’t want to work in night shift, I’m only considering UK or APAC shifts\n\nIf anyone knows of openings or referrals, please drop a comment or DM would really Helpful ! ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
