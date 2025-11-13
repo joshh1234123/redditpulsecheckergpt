@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1o921qu",
-      "title": "Is there a standard term for multi-campaign structures in DSPs?",
-      "author": "Plane-Environment538",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1o921qu/is_there_a_standard_term_for_multicampaign/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1o921qu/is_there_a_standard_term_for_multicampaign/",
-      "created_utc": 1760709484.0,
-      "content": "In a DSP, what do you call the **layer above individual campaigns**—i.e., **a container of multiple campaigns that share a common purpose**?\n\n* Do you have a preference for how a certain DSP names this layer?\n* How important is this layer in your workflow vs. just something the platform forces?\n* Do advertisers *think* in this layer, or is it mainly a platform abstraction?",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1o93mjj",
       "title": "Case studies in the cv. Yay or nay?",
       "author": "CoffeeWithMilkPlease",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ovt4aq/agency_to_in_house/",
       "created_utc": 1763012506.0,
       "content": "Hi everyone!\n\nI’ve been working at an agency for the past 4 years. Last year, I moved to another agency that’s fully remote with flexible hours. I can basically work whenever I want as long as I attend my meetings. The workload isn’t bad, and I have a lot of free time for myself.\n\nRecently, I applied to a few new jobs just to see what’s out there, and I got an offer for an in house position that requires going into the office 4 days a week. I’m trying to negotiate it down to 3 days. The offer comes with a $10k salary increase, but the team is extremely small, a bit disorganized, and I’d have to wear many hats. The office is about a 30 minute drive with no traffic.\n\nHonestly, I don’t think I’m going to accept it, what do you guys think?\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ow3qf4",
+      "title": "Anyone experimenting with Amazon’s new DSP beta for STV & Audio?",
+      "author": "mitchellhill02",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ow3qf4/anyone_experimenting_with_amazons_new_dsp_beta/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ow3qf4/anyone_experimenting_with_amazons_new_dsp_beta/",
+      "created_utc": 1763047009.0,
+      "content": "Hey everyone,\n\nMy digital agency (an Amazon Ads Partner) just got early access to Amazon’s DSP beta for Streaming TV and Audio, and it’s pretty exciting.\n\nThere are new features aimed at making campaign management smoother, plus some creative tools that feel like a glimpse at the future of targeted ads.\n\nWe’re testing it with a few brands now and curious if anyone else here has had early access or is exploring similar strategies. How are you thinking about integrating Amazon STV or Audio into your campaigns?\n\nWould love to swap insights.",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
