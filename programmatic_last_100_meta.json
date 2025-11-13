@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oatot7",
-      "title": "Looking for offline DSP / programmatic auction data for testing",
-      "author": "Huge_Cantaloupe_7788",
-      "score": 7,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oatot7/looking_for_offline_dsp_programmatic_auction_data/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oatot7/looking_for_offline_dsp_programmatic_auction_data/",
-      "created_utc": 1760890525.0,
-      "content": "Hey everyone,\nI’m working on some DSP bidding experiments  playing with bid shading, margin optimization, pacing, that kind of stuff.\n\nI’d like to test things offline, so I’m looking for any anonymized bidstream or auction datasets  even small samples are fine. Basically something with timestamps, floor prices, site/app IDs, auction type, winning price, maybe a few bid responses. Doesn’t have to be real-time, just realistic enough to simulate auctions and test strategies.\n\nIf anyone knows public sources, synthetic generators, or has their own sample logs (sanitized, no PII) they can share or sell  please drop a link or DM me.\nAlso curious how others usually simulate this — do you use open datasets, generate synthetic logs, or record real traffic and strip IDs?\n\nThanks in advance 🙌",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oaxf6m",
       "title": "Best Whitelabel DSP?",
       "author": "ryans91",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763065962.0,
       "content": "Hi everyone,\n\nI have 3 years of experience in Programmatic Advertising with hands on experience in Amazon DSP, TTD, DV360, and CM360.\n\nI’m currently looking for programmatic job opportunities in India, open to remote or hybrid preferably with UK or APAC shifts.\n\nSince I’m already working in US night shift, I don’t want to work in night shift, I’m only considering UK or APAC shifts\n\nIf anyone knows of openings or referrals, please drop a comment or DM would really Helpful ! ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1owchdy",
+      "title": "Managed Service DSPs?",
+      "author": "Strict-Equipment-963",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1owchdy/managed_service_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1owchdy/managed_service_dsps/",
+      "created_utc": 1763066788.0,
+      "content": "Are there any DSPs that are exclusively managed service? I am vetting options for a client and wanted to list options that specialize in managed service. Thanks in advance. ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
