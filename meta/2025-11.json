@@ -734,6 +734,21 @@
       "link_flair_text": null,
       "thread_id": "1owchdy",
       "thread_path": "1owchdy.json"
+    },
+    {
+      "id": "1owhr5p",
+      "title": "DV360 Reporting",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1owhr5p/dv360_reporting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1owhr5p/dv360_reporting/",
+      "created_utc": 1763079673.0,
+      "content": "Any help? I noticed when I pull reports from this page for \"todays\" info. I often can easily pull a report any time during the day. However like after 5pm EST, I noticed I cannot pull reporting info until the next day. I usually can pull App/URL view ability report almost entire day except for after 5pm.\n\nhttps://preview.redd.it/nfqf7htv841g1.png?width=2414&format=png&auto=webp&s=3beef96e66332d9fba3e5a6d69e0a7e84b10aa54\n\nhttps://preview.redd.it/o80t8eaz841g1.png?width=1326&format=png&auto=webp&s=28baed8676f35c7d759d0e22bbd57c37b0d9978f\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1owhr5p",
+      "thread_path": "1owhr5p.json"
     }
   ]
 }
