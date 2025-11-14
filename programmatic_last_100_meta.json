@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oayhrr",
-      "title": "\"Ad tech bros” try to make it right this time with AdCP. Will they fix the mistakes of the programmatic past?",
-      "author": "u_of_digital",
-      "score": 20,
-      "url": "https://i.redd.it/d2jwgtyv14wf1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oayhrr/ad_tech_bros_try_to_make_it_right_this_time_with/",
-      "created_utc": 1760901713.0,
-      "content": "Clearly, all of ad tech is moving toward agentic workflows. The next step? A shared language for the agents themselves, and that’s what AdCP (Ad Context Protocol) is trying to be. A new open protocol has been launched to define a machine-readable framework for AI agents across the ad ecosystem to exchange data, negotiate deals, and coordinate campaign actions autonomously.\n\n  \nFounding members are PubMatic, Scope3, Triton Digital, Yahoo, Optable, and Swivel (IAB Tech Lab has not been involved yet 👀).\n\nIf it works, it could clean up a lot of programmatic mess, but it also raises some big questions:  \n  \n*How realistic is adoption anytime soon?*  \n*What happens when agents “hallucinate” or make bad calls?*  \n*What’s the real incentive for major platforms to integrate with it?*  \n*Does an agent-to-agent protocol like this reduce the need for traditional ad tech layers (UIs, curation tools, yield management, audience segmentation, bid management, etc)?*  \n*And… what happens to all the people doing manual ops work?*\n\n  \nInterested to hear from others working in DSPs/SSPs. Do you see this as logical progress or just a distraction while real problems remain unsolved?",
-      "num_comments": 9,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1obiel1",
       "title": "Is anyone currently advertising on Netflix?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763079673.0,
       "content": "Any help? I noticed when I pull reports from this page for \"todays\" info. I often can easily pull a report any time during the day. However like after 5pm EST, I noticed I cannot pull reporting info until the next day. I usually can pull App/URL view ability report almost entire day except for after 5pm.\n\nhttps://preview.redd.it/nfqf7htv841g1.png?width=2414&format=png&auto=webp&s=3beef96e66332d9fba3e5a6d69e0a7e84b10aa54\n\nhttps://preview.redd.it/o80t8eaz841g1.png?width=1326&format=png&auto=webp&s=28baed8676f35c7d759d0e22bbd57c37b0d9978f\n\n",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1owxc2t",
+      "title": "TLDR: Week in Review - Google & Amazon Launch AI Ad Agents",
+      "author": "data_spy",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1owxc2t/tldr_week_in_review_google_amazon_launch_ai_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1owxc2t/tldr_week_in_review_google_amazon_launch_ai_ad/",
+      "created_utc": 1763129031.0,
+      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n* **Google launches AI ad agents** - Ads Advisor and Analytics Advisor chatbots turn briefs into executable media plans for 1M+ Performance Max advertisers\n* **Amazon follows with unified platform** - Merges DSP and Sponsored Ads into Campaign Manager with AI planning and creative agents\n* **Publicis CEO calls out Omnicom** - Arthur Sadoun challenges gross vs. net revenue reporting ahead of IPG merger, warns of distorted industry comparisons\n\n**Quick Hits:**\n\n* PubMatic Q3 revenue down 5% to $68M after Trade Desk's Kokai impact, betting on AI to recover\n* Daily Mail CTR plummets 80-90% when Google AI Overviews appear, but minimal overall traffic impact\n* IAB Tech Lab's Agentic RTB Framework cuts programmatic auction times from 600ms to a fraction\n* Life360 acquiring Nativo for ~$120M to combine location data with premium publisher network\n* Amazon launches geo-targeted interactive video ads on Prime Video for local businesses\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-11142025)\n\nAnyone test these AI agents yet?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
