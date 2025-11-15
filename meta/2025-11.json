@@ -764,6 +764,21 @@
       "link_flair_text": null,
       "thread_id": "1owxc2t",
       "thread_path": "1owxc2t.json"
+    },
+    {
+      "id": "1oxcacd",
+      "title": "[CM360] What value does it offer anymore?",
+      "author": "LeadingWall",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oxcacd/cm360_what_value_does_it_offer_anymore/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oxcacd/cm360_what_value_does_it_offer_anymore/",
+      "created_utc": 1763163417.0,
+      "content": "A while ago I was on a project to integrate the whole GMP setup and have one source of truth to measure the value of all the marketing blah blah…\n\nNowadays when people talk about using CM360 I struggle to see value in anything attribution related. It seems the main use cases are just to setup tracking, traffic some creatives and link to some other google tools and that’s it..!?\n\nWould be interested to hear what others think and if anything meaningful is happening from a measurement/attribution perspective anymore? Or has that ship sailed now?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1oxcacd",
+      "thread_path": "1oxcacd.json"
     }
   ]
 }

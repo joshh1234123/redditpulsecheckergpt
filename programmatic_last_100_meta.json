@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1obiel1",
-      "title": "Is anyone currently advertising on Netflix?",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1obiel1/is_anyone_currently_advertising_on_netflix/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1obiel1/is_anyone_currently_advertising_on_netflix/",
-      "created_utc": 1760965295.0,
-      "content": "Curious how do you get on Netflix and was it worth the premium cost?",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1obmlfa",
       "title": "Who is hiring?",
       "author": "dimtone",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763129031.0,
       "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n* **Google launches AI ad agents** - Ads Advisor and Analytics Advisor chatbots turn briefs into executable media plans for 1M+ Performance Max advertisers\n* **Amazon follows with unified platform** - Merges DSP and Sponsored Ads into Campaign Manager with AI planning and creative agents\n* **Publicis CEO calls out Omnicom** - Arthur Sadoun challenges gross vs. net revenue reporting ahead of IPG merger, warns of distorted industry comparisons\n\n**Quick Hits:**\n\n* PubMatic Q3 revenue down 5% to $68M after Trade Desk's Kokai impact, betting on AI to recover\n* Daily Mail CTR plummets 80-90% when Google AI Overviews appear, but minimal overall traffic impact\n* IAB Tech Lab's Agentic RTB Framework cuts programmatic auction times from 600ms to a fraction\n* Life360 acquiring Nativo for ~$120M to combine location data with premium publisher network\n* Amazon launches geo-targeted interactive video ads on Prime Video for local businesses\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-11142025)\n\nAnyone test these AI agents yet?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1oxcacd",
+      "title": "[CM360] What value does it offer anymore?",
+      "author": "LeadingWall",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oxcacd/cm360_what_value_does_it_offer_anymore/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oxcacd/cm360_what_value_does_it_offer_anymore/",
+      "created_utc": 1763163417.0,
+      "content": "A while ago I was on a project to integrate the whole GMP setup and have one source of truth to measure the value of all the marketing blah blah…\n\nNowadays when people talk about using CM360 I struggle to see value in anything attribution related. It seems the main use cases are just to setup tracking, traffic some creatives and link to some other google tools and that’s it..!?\n\nWould be interested to hear what others think and if anything meaningful is happening from a measurement/attribution perspective anymore? Or has that ship sailed now?",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }

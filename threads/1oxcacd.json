@@ -1,0 +1,34 @@
+{
+  "id": "1oxcacd",
+  "thread_id": "1oxcacd",
+  "title": "[CM360] What value does it offer anymore?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1oxcacd/cm360_what_value_does_it_offer_anymore/",
+  "created_utc": 1763163417.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "tahadharamsi",
+      "body": "There’s no real alternative at scale right now, and that’s part of the challenge. Advertisers often rely on CM as the holy grail source of truth, without fully understanding its limitations, especially once you step outside the Google ecosystem.\n\nCM was built to work seamlessly *within* Google’s walls, so accuracy naturally drops when measuring activity across third-party platforms, external DSPs, non-Google tags, or non- Google delivery paths. You end up with gaps in measurement, tracking breaks on CTV and audio, inconsistent attribution logic, and an overall bias toward Google-served media. Yet, because CM has been around for so long and agencies are comfortable with it, many teams treat the numbers as absolute instead of directional.\n\nThis creates the perception that everything else is “wrong” when in reality CM simply isn’t designed for the full omnichannel world advertisers operate in today. Without a widely adopted, independent alternative, the industry defaults to CM even if it overlooks a large portion of real exposure and engagement.",
+      "score": 8,
+      "created_utc": 1763163934.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "That’s the extent I’ve mostly used it. Helps keep most delivery data in a single place making reporting generally easier.",
+      "score": 2,
+      "created_utc": 1763167724.0
+    },
+    {
+      "author": "LeadingWall",
+      "body": "That’s fair, advertisers don’t really have many alternatives. \n\nBut when I speak with clients they are using a variety of channels in their media mix to reach their audiences and sell their products or services. Very few i know of commit everything to GMP. \n\nYou quite rightly point out that CM only offers a look into the google side of things as well. But what’s the point in putting in all this work to get a small glimpse into attribution? I feel using this takeaway for all media actually does more harm than good. Anyway I’ll be waiting for pigs to start flying before we see a widely industry adopted alternative.",
+      "score": 2,
+      "created_utc": 1763164736.0
+    },
+    {
+      "author": "tahadharamsi",
+      "body": "Yeah exactly, you don’t want to be using Google exclusively. Advertisers then optimize towards CM vs what actually performs. \n\nHard problem to solve in an easy way, you could build a custom solution using cleanroom, warehouses etc…",
+      "score": 2,
+      "created_utc": 1763171009.0
+    }
+  ]
+}
