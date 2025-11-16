@@ -794,6 +794,21 @@
       "link_flair_text": null,
       "thread_id": "1oxu58b",
       "thread_path": "1oxu58b.json"
+    },
+    {
+      "id": "1oycwbp",
+      "title": "SPO and Supply Clean up in programmatic with platform reporting",
+      "author": "ProblemNo161",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1oycwbp/spo_and_supply_clean_up_in_programmatic_with/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1oycwbp/spo_and_supply_clean_up_in_programmatic_with/",
+      "created_utc": 1763268963.0,
+      "content": "Curious - the industry has been ripe with LinkedIn posts , comments and quotes where there is an agreed upon notion that the supply chain is murky in programmatic and transparency and effeciecy with minimal “hops/fees” has been all the hype.\n\nHas anyone ever laid out a strategy or notes on how to use data to validate this? If I work within a DSP- let’s call it TTD - I would like to know which reports I would need to pull, what metrics to look at - and what to do with the results.\n\nI understand the basics of win rate - but bid rate is also important. In the action mechanic themselves - is it easy to spot bid duplication or overbidding based on media costs\n\nThe talk is plenty but doesn’t seem like anyone has put a uniformed point of data or support on how to measure metrics that matter to help provide a solution.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1oycwbp",
+      "thread_path": "1oycwbp.json"
     }
   ]
 }
