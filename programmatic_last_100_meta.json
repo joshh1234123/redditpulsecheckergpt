@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1obvs27",
-      "title": "CTV socio demo data",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1obvs27/ctv_socio_demo_data/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1obvs27/ctv_socio_demo_data/",
-      "created_utc": 1760999029.0,
-      "content": "CTV provider like Netflix and Disney use account owner data , corrrect? so this kind of targeting might be misleading, correct?\n\nI believe that social socio demo might be reliable as navigation is through more \"personal\" devices but in front of CTV this doesn't make sense... do you agree?\n\nSocio demo is obsolete, maybe relevant just for social... also publisher 1st party sociao demo are all fake to me as comparing publisher data pool probably you'll find out that you don't have consistent profiles....",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oce9ya",
       "title": "YouTube Curated Channel List",
       "author": "_Working_Mom_",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763268963.0,
       "content": "Curious - the industry has been ripe with LinkedIn posts , comments and quotes where there is an agreed upon notion that the supply chain is murky in programmatic and transparency and effeciecy with minimal “hops/fees” has been all the hype.\n\nHas anyone ever laid out a strategy or notes on how to use data to validate this? If I work within a DSP- let’s call it TTD - I would like to know which reports I would need to pull, what metrics to look at - and what to do with the results.\n\nI understand the basics of win rate - but bid rate is also important. In the action mechanic themselves - is it easy to spot bid duplication or overbidding based on media costs\n\nThe talk is plenty but doesn’t seem like anyone has put a uniformed point of data or support on how to measure metrics that matter to help provide a solution.\n\n",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ozd4lt",
+      "title": "Do Publishers Still Need Multiple SSPs in 2025-2026?",
+      "author": "Appropriate-Bag-2415",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozd4lt/do_publishers_still_need_multiple_ssps_in_20252026/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozd4lt/do_publishers_still_need_multiple_ssps_in_20252026/",
+      "created_utc": 1763376351.0,
+      "content": "Any insights over having multiple SSPs? I need to know your suggestions, experiences, challenges, or positive impact it may have had.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
