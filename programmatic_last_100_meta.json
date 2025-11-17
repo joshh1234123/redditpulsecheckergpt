@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oce9ya",
-      "title": "YouTube Curated Channel List",
-      "author": "_Working_Mom_",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oce9ya/youtube_curated_channel_list/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oce9ya/youtube_curated_channel_list/",
-      "created_utc": 1761056443.0,
-      "content": "Seeking a list of YouTube channels in the Holiday genre, like 500-1,000 of the most popular channels. Think Magnolia Farms, Michael Buble Christmas, Food & Wine, etc. Anyone have a credible list they’re willing to sell? ",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ocgbm7",
       "title": "YouTube Pause Ad - Channel level reporting",
       "author": "alexgoestowork",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763376351.0,
       "content": "Any insights over having multiple SSPs? I need to know your suggestions, experiences, challenges, or positive impact it may have had.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ozfsn9",
+      "title": "How could a DSP support non-disclosed models better?",
+      "author": "Working-Trifle-6352",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozfsn9/how_could_a_dsp_support_nondisclosed_models_better/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozfsn9/how_could_a_dsp_support_nondisclosed_models_better/",
+      "created_utc": 1763384842.0,
+      "content": "I'm currently exploring some opportunities for a DSP to build custom solutions for holdco agencies to better support their non-disclosed buying services, such as Nexus and Apex. Is there anything currently lacking in this space that you thing could be improved - for example anything within the DSP UI that could be built to make it easier to run campaigns in the non-disclosed model?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
