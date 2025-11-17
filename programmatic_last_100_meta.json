@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1octk6y",
-      "title": "Floor Prices for Inventory",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1octk6y/floor_prices_for_inventory/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1octk6y/floor_prices_for_inventory/",
-      "created_utc": 1761092117.0,
-      "content": "New to Programmatic. When I see deals with Floors Starting at $25 CPM for decent publishers, towards end of the week and weekends I notice my fixed bid of $30 in DV360 gets me impressions.\n\nHowever I notices Monday night and so far tonight I am getting 0 impressions, assuming the price of CPM is a lot higher.\n\nIs there a tool or way to see what the current bid is \"needed\" to get impressions? I Know in google adwords when I ran text ads it would say X bid to be top of Google. etc",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ocvmog",
       "title": "OOH doesn’t need disruption. It needs definition.",
       "author": "sanjeevrc",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ozj4re/programmatic_inhouse_roles_open_and_opening/",
       "created_utc": 1763393085.0,
       "content": "Hi all, I'm the global head of programmatic at the LEGO Group and I'm hiring an in-housed programmatic team over the next few years. My hiring is starting in Boston and Copenhagen with two roles currently being open. You can find the roles on the LEGO careers site. Search for \"Programmatic\" on the site and you'll see them.\n\nThe Boston role is manager level and the salary range is $100,906.00 - $151,360.00. The Copenhagen role is senior manager level and the salary band is likely to be 680,000-770,000 DKK. Both roles will require you to be in the office a minimum of three days a week.\n\nOver the next month or so there will be additional roles opening in both Boston and Copenhagen, ranging from entry level up to manager. Send me a DM if you have any questions.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ozjyjl",
+      "title": "Bid shading TTD",
+      "author": "Chi-biusa2z",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozjyjl/bid_shading_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozjyjl/bid_shading_ttd/",
+      "created_utc": 1763395011.0,
+      "content": "Hi all, what are your thoughts on TTD’s predictive clearing? Would you recommend it and for what use case? Could it be better than a custom algo plugged into TTD for cost compression or similar? \n\nJust trying to wrap my head around its pros and cons ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

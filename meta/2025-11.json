@@ -854,6 +854,21 @@
       "link_flair_text": null,
       "thread_id": "1ozj4re",
       "thread_path": "1ozj4re.json"
+    },
+    {
+      "id": "1ozjyjl",
+      "title": "Bid shading TTD",
+      "author": "Chi-biusa2z",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozjyjl/bid_shading_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozjyjl/bid_shading_ttd/",
+      "created_utc": 1763395011.0,
+      "content": "Hi all, what are your thoughts on TTD’s predictive clearing? Would you recommend it and for what use case? Could it be better than a custom algo plugged into TTD for cost compression or similar? \n\nJust trying to wrap my head around its pros and cons ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ozjyjl",
+      "thread_path": "1ozjyjl.json"
     }
   ]
 }
