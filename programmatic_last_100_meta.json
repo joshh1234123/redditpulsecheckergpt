@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ocgbm7",
-      "title": "YouTube Pause Ad - Channel level reporting",
-      "author": "alexgoestowork",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ocgbm7/youtube_pause_ad_channel_level_reporting/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ocgbm7/youtube_pause_ad_channel_level_reporting/",
-      "created_utc": 1761061198.0,
-      "content": "Anyone here has run YouTube pause ads and can confirm if DV360 provides channel-level reporting for where ads ran within Google's YouTube select network?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1octk6y",
       "title": "Floor Prices for Inventory",
       "author": "Enviromental1001",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ozfsn9/how_could_a_dsp_support_nondisclosed_models_better/",
       "created_utc": 1763384842.0,
       "content": "I'm currently exploring some opportunities for a DSP to build custom solutions for holdco agencies to better support their non-disclosed buying services, such as Nexus and Apex. Is there anything currently lacking in this space that you thing could be improved - for example anything within the DSP UI that could be built to make it easier to run campaigns in the non-disclosed model?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ozj4re",
+      "title": "Programmatic In-House Roles Open and Opening",
+      "author": "One-Owl9723",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozj4re/programmatic_inhouse_roles_open_and_opening/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozj4re/programmatic_inhouse_roles_open_and_opening/",
+      "created_utc": 1763393085.0,
+      "content": "Hi all, I'm the global head of programmatic at the LEGO Group and I'm hiring an in-housed programmatic team over the next few years. My hiring is starting in Boston and Copenhagen with two roles currently being open. You can find the roles on the LEGO careers site. Search for \"Programmatic\" on the site and you'll see them.\n\nThe Boston role is manager level and the salary range is $100,906.00 - $151,360.00. The Copenhagen role is senior manager level and the salary band is likely to be 680,000-770,000 DKK. Both roles will require you to be in the office a minimum of three days a week.\n\nOver the next month or so there will be additional roles opening in both Boston and Copenhagen, ranging from entry level up to manager. Send me a DM if you have any questions.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
