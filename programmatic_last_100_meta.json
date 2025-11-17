@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1od6fgd",
-      "title": "Pg and brand safety (Netflix example)",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1od6fgd/pg_and_brand_safety_netflix_example/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1od6fgd/pg_and_brand_safety_netflix_example/",
-      "created_utc": 1761134836.0,
-      "content": "Do dv360 standard brand safety, keyword filters still apply in pg? \nFor example i see that neflix require an additional upcharge for brand safety: is it worth? My filters are bypassed in pg?\nWhat about other publishers?",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1od9841",
       "title": "DOOH in programmatic DSPs",
       "author": "Chi-biusa2z",
@@ -1302,6 +1289,19 @@
       "created_utc": 1763410685.0,
       "content": "Looking for support / guidance as I’m struggling to identify my next career move and salary expectations. Here a summary.\n\nBeen in the programmatic game since late 2000s and have experience across various aspects of the industry; ad network, DSP, DMP/identity, agency, client side x2, retail media.\n\nCareer growth was going well, in the early 2010s (thank you VC money and a supportive manager), but after a couple of career hiccups (redundancy and manager fallout), my salary peaked around 2023 but redundancy ended in 2024. \n\nSince then I took a 15% pay cut to get back in the market but the role took a turn for the worst and I left. Despite being a role somewhat unfamiliar to me, yet performing well, I love where I’m at present but it comes with a further 10% paycut. Effectively I’m on the same salary as I was back 2013 but now with family, mortgage, inflation it feels a lot worse. \n\nThe job market looks tough at the moment. I’m too long out of the game for hands-on-keyboard trading experience, and I’m not convinced agency sales is for me (I’m too old and don’t have the day to day media buyer network tech companies are seeking). \n\nI don’t have the senior commercial experience of running a P&L or man management experience for that matter as typically I’ve operated as a IC for the most part. That said I know I have good partnership experience and having some retail experience (both client and tech) feels like a good fit. But no idea where to start. ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ozu6g9",
+      "title": "Can you still run brand lift studies for Display in DV360?",
+      "author": "Unique_Self_5797",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ozu6g9/can_you_still_run_brand_lift_studies_for_display/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozu6g9/can_you_still_run_brand_lift_studies_for_display/",
+      "created_utc": 1763417688.0,
+      "content": "I'm in the experiments section, but I only see youtube. Is this something I need to reach out to a rep for?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
