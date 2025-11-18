@@ -914,6 +914,21 @@
       "link_flair_text": null,
       "thread_id": "1ozy4z5",
       "thread_path": "1ozy4z5.json"
+    },
+    {
+      "id": "1p00ghd",
+      "title": "Thoughts on Supply Side curated PMP Deals",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
+      "created_utc": 1763433949.0,
+      "content": "Would love to hear opinions on anyone using SSP Curation partners to setup and distribute PMP deals curated with inventory + publisher (or 3P) audience segments\n\nWhat metrics /reporting helps validate success? \n\nWhat would an ideal test scenario look like vs applying decisioning on the buy side?\n\nAnyone have success with self serve curation platforms?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p00ghd",
+      "thread_path": "1p00ghd.json"
     }
   ]
 }

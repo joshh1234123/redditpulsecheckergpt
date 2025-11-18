@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1odaskr",
-      "title": "Reach Metrics",
-      "author": "shadyk17",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1odaskr/reach_metrics/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1odaskr/reach_metrics/",
-      "created_utc": 1761145509.0,
-      "content": "I want to build a reach reporting dashboard for my clients but I an unsure which reach metrics to use. Dv360 has reach and co-view reach. I am not too familiar with reach reporting on other DSPs like Trade Desk and Amazon but I think they have household reach and reach. Do they also have c-view reach? Any suggestions so that I can build one dashboard across these DSPs for my clients?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1odekxh",
       "title": "Learning Programmatic, need help",
       "author": "cutietestosterone",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ozy4z5/looking_for_senior_programatic_trader_7080k/",
       "created_utc": 1763427591.0,
       "content": "Hello. We’re looking to expand our agency trading team. The agency is based in LA, but the role is remote but please be located in North America (US, Mexico, or Canada). \n\nShould be trained and certified in TTD + one more DSP, ideal. This role will not only act as Senior Trader but will assist with supply path optimization, deal negotiation, campaign planning and activation. \n\nAudio experience, preferred but not mandatory. \n\nThe ability to analyze and draw insights from campaign data, optimize (including bid factoring) understanding the biddable/RTB ecosystem & relationship between DSP, SSP, Publisher - mandatory. \n\nBonus points if you’re able to navigate the supply path and understand deal id (PMP and PH) deal structures. \n\nPlease respond to this post and I’ll be in touch to send your resume. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p00ghd",
+      "title": "Thoughts on Supply Side curated PMP Deals",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
+      "created_utc": 1763433949.0,
+      "content": "Would love to hear opinions on anyone using SSP Curation partners to setup and distribute PMP deals curated with inventory + publisher (or 3P) audience segments\n\nWhat metrics /reporting helps validate success? \n\nWhat would an ideal test scenario look like vs applying decisioning on the buy side?\n\nAnyone have success with self serve curation platforms?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
