@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1odi6u6",
-      "title": "CPMs are down 35% YoY - Q3’s “rebound” might not be what it looks like",
-      "author": "DataBeat_adtech",
-      "score": 20,
-      "url": "https://www.reddit.com/r/programmatic/comments/1odi6u6/cpms_are_down_35_yoy_q3s_rebound_might_not_be/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1odi6u6/cpms_are_down_35_yoy_q3s_rebound_might_not_be/",
-      "created_utc": 1761161804.0,
-      "content": "Our latest US Programmatic Trends Report (September 2025) digs into Q3 data, and the signals are… mixed.\n\nCPMs are down 35% YoY, but somehow up 6% QoQ for display and +5% overall. Looks like a rebound - but dig a little deeper, and it’s really just seasonal pre-holiday spend kicking in.\n\n\\- Video CPMs flat (-2%)  \n\\- Mobile still tanking (-36% YoY)  \n\\- CTV quietly holding the line (+7% YoY)  \n\\- AdX (+10%) and OpenX (+33%) are the only SSPs showing real lift\n\nFeels like the market’s still in a holding pattern - not quite panic, but definitely cautious. Most publishers we talk to are testing new formats and leaning hard into first-party + contextual just to offset the softness.\n\nFull data + breakdowns are here if you want to see who’s trending up or flat:[ **Click here** ](https://databeat.io/blog/us-programmatic-trends-september-2025/?utm_source=linkedin&&utm_medium=organic_social&&utm_campaign=us+programmatic+trends+sept+2025)\n\nCurious - are others here still seeing Q4 optimism from buyers, or is this just a temporary blip before things tighten again?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1odmnnw",
       "title": "Adjusting to a Big 6 agency — feeling a bit overwhelmed and curious about others’ experiences",
       "author": "LegBubbly1592",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p1120h/can_i_get_dv360_selfserve_account_for_my_company/",
       "created_utc": 1763536830.0,
       "content": "Hi, my boss is seeking a DV360 self-serve account for the company, but Google is redirecting us to the partners. My boss want us to create our own account. Is it possible? If yes, what are the steps? Google says minimum 5 users are needed. Could it be more than that? Is interview compulsory? Any insights are helpful. Thanks",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p1dffj",
+      "title": "Yahoo is testing six AI agents that will live within Yahoo’s DSP, where advertisers can also plug in their own custom AI tools.",
+      "author": "u_of_digital",
+      "score": 1,
+      "url": "https://i.redd.it/yelq2sbkx82g1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p1dffj/yahoo_is_testing_six_ai_agents_that_will_live/",
+      "created_utc": 1763572242.0,
+      "content": "Google: launching agents.  \nAmazon: launching agents.  \nYahoo: launching SIX agents.\n\nThe Trade Desk: 🕳🏃‍♂️",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
