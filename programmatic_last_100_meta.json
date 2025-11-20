@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oebaqq",
-      "title": "Reliable data leading to bad matches (?) and poor results in Stackadapt",
-      "author": "NX__74205",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oebaqq/reliable_data_leading_to_bad_matches_and_poor/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oebaqq/reliable_data_leading_to_bad_matches_and_poor/",
-      "created_utc": 1761244569.0,
-      "content": "I'm consulting their team, but I thought the internet might have an opinion too. I'm setting up some campaigns using NGPVAN voter file data uploaded to Stackadapt. I'm targeting specific people in a specific locality in Minnesota, and the list I have is active voter registrations with full names, full addresses, and phone numbers. This has been reliable data in both other ad platforms like Meta as well as off-line.\n\nWhen I upload to Stackadapt, however, it shows people as being all over the country (and the world) to an extent that VPNs or people moving can't explain. Only about half of the matched audience is showing as actually in the state of MN, let alone the municipality I'm interested in. When I use the forecasting tool and target only that municipality, only a fraction of those people are in the city the data says they should be. I tried running a campaign to see if was just a glitch with these previewing tools, but the results have been a slow trickle which indicates to me that the large majority people who are on my list are not getting targeted.\n\nAny idea what is going wrong? I've double checked the file requirements, compared my uploaded list to the data in NGPVAN to see if things somehow got jumbled, made sure my bids are competitive, but no luck so far.\n\n[Stackadapt's geo placements for my all-MN audience.](https://preview.redd.it/zp4cjrsulwwf1.png?width=1526&format=png&auto=webp&s=10628c97c7948fd1011c60a2bf55d641ad7ba595)\n\n",
-      "num_comments": 11,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1oedhj0",
-      "title": "Good riddance, Privacy Sandbox, the biggest act of privacy theater in ad tech!",
-      "author": "u_of_digital",
-      "score": 25,
-      "url": "https://i.redd.it/3hcshx862xwf1.gif",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oedhj0/good_riddance_privacy_sandbox_the_biggest_act_of/",
-      "created_utc": 1761249623.0,
-      "content": "\\- Apple used ATT to kneecap Meta and Google while quietly building its own ad business.  \n\\- Google tried to make Privacy Sandbox sound like a noble effort to protect users… but really, it was just about tightening control.  \n\\- The industry burned billions preparing for a “cookieless future” that was never really about cookies.  \n\\- Data clean rooms are losing relevance: too expensive, too limited, and not worth the effort now that the pressure’s off.  \n\\- Alt IDs that were once “the future of targeting” are being downgraded to “nice-to-have” status.  \n\\- Marketers are suddenly free to be way more aggressive with data again.  \n\\- Regulators might chill for a bit, but once someone screws up (and they will), we’ll see another wave of panic and new restrictions.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oex66d",
       "title": "TLDR: Week in Review - Omnicom, WPP, Google, and AI browsers",
       "author": "data_spy",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p2fy99/trying_to_level_up_in_programmatic_what_skills/",
       "created_utc": 1763674698.0,
       "content": "Hey folks, looking for some advice from people deeper in the programmatic space. \n\nQuick background: I’ve got about 4 years’ experience in paid media (mostly across social + Google), and around a year in helping out on executional things in programmatic (mainly setting up Demand Gen, Video and Display IOs,LIs and ads in CM360 + DV360, when I'm given an outline of what is needed). I really want to keep upskilling on the programmatic side, but I’m not totally sure *how* to frame that ask at work or what areas I should be pushing to get more exposure to.\n\nI saw a post here the other day, advertising a job, that mentioned skill areas like:\n\n* Supply path optimization\n* Deal negotiation\n* Campaign planning + activation\n* Pulling insights from campaign data\n* Bid optimization / bid factoring\n* Understanding the biddable/RTB ecosystem\n* Knowing how DSPs, SSPs, and publishers actually work together\n* Navigating supply paths + Deal ID structures (PMP, PG, PH)\n\n\n\nThat list helped me get more specific details/framing about what I’d like to learn, and I’ve already had a conversation with my team about wanting to grow in programmatic — but I’m sure there are other gaps that aren't mentioned above, and that I’m not thinking about.\n\n\n\nSo for anyone working in programmatic at a more senior level:\n\n* What other skills, responsibilities, or technical foundations should I be aiming for?\n* Are there things you wish more mid-level traders/strategists understood earlier in their careers?\n* And how would you phrase this kind of development request so it doesn’t just sound like “hey I wanna learn more,” but actually shows intent and direction?\n\n\n\nAny input would be super appreciated 🙏 ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2hohk",
+      "title": "想帮中国的网站站长们把 Google Ad Manager 设好一点（免费提供 MA 邀请）",
+      "author": "mendampremkumar",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2hohk/想帮中国的网站站长们把_google_ad_manager_设好一点免费提供_ma_邀请/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2hohk/想帮中国的网站站长们把_google_ad_manager_设好一点免费提供_ma_邀请/",
+      "created_utc": 1763678702.0,
+      "content": "最近跟很多中国的站长、博主、内容网站聊了一圈，发现一个共同问题——\nGoogle Ad Manager 真的是太难弄了。\n设置一乱，广告收入直接掉一大截。\n\n其实很多人不知道，GAM 里只要有一点设置不对，比如：\n\t•\t广告位结构不清晰\n\t•\tline item 配置错了\n\t•\t价格梯度不合理\n\t•\t广告标签乱\n这些都会让 CPM 掉得很夸张。\n\n所以我想提供一个简单的帮助：\n\n我可以给你 Google Ad Manager 的 MA（代理管理）邀请，不需要你给主账号权限。\n你还是完全控制你的账号，我们只是从外部帮你把结构理顺。\n\n我能帮你做的事情包括：\n\t•\t优化你的 GAM 结构\n\t•\t修复或重新整理广告位\n\t•\t提升 CPM 和整体变现能力\n\t•\t设置/优化广告代码（ad tags）\n\t•\t帮你排查卡了很久的问题\n\n简单说：\n如果你觉得你的网站广告收入比预期低，或者 GAM 看着就头疼，我可以帮你把它变清晰、变赚钱。\n\n如果你是新闻站、博客、娱乐站、工具站，或者任何内容网站，欢迎留言或私信。\n我很乐意帮忙，一点压力都没有。\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2htdf",
+      "title": "Helping Chinese publishers fix Google Ad Manager setups + boost ad revenue (free MA invite)",
+      "author": "mendampremkumar",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2htdf/helping_chinese_publishers_fix_google_ad_manager/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2htdf/helping_chinese_publishers_fix_google_ad_manager/",
+      "created_utc": 1763679052.0,
+      "content": "I’ve been talking to a lot of publishers and website owners in China lately, and the same issue keeps coming up — Google Ad Manager is confusing, the setup isn’t clear, and the ad revenue ends up way lower than it should be.\n\nA lot of people don’t realize this, but even small mistakes in GAM (wrong ad units, missing line items, bad price settings, messy code, etc.) can drop your CPMs a lot.\n\nSo I’m offering something simple:\n\nA Google Ad Manager “Manage Account” (MA) invite — without touching your main login.\nYou keep full control. We just help fix the structure from the outside.\n\nHere’s what I can help with:\n\t•\tCleaning up your GAM setup\n\t•\tFixing ad units and inventory mapping\n\t•\tImproving CPMs and overall yield\n\t•\tSetting up or optimizing your ad tags\n\t•\tTroubleshooting issues you’ve been stuck with\n\nBasically: if your site’s ad revenue feels lower than it should be, or GAM feels overwhelming, I can help make things clearer and more profitable.\n\nIf you’re running a blog, news site, entertainment page, or any niche site in China and want better monetization, just comment or DM me.\nHappy to guide or answer questions — no pressure.\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
