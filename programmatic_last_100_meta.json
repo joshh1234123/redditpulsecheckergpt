@@ -6,45 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oex66d",
-      "title": "TLDR: Week in Review - Omnicom, WPP, Google, and AI browsers",
-      "author": "data_spy",
-      "score": 19,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oex66d/tldr_week_in_review_omnicom_wpp_google_and_ai/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oex66d/tldr_week_in_review_omnicom_wpp_google_and_ai/",
-      "created_utc": 1761310996.0,
-      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n* **Omnicom absorbs IPG costs** - $99M in deal expenses hit Q3 earnings, merger closing next month to create \"world's leading marketing company\"\n* **WPP goes self-service** - Launches AI platform targeting smaller clients, first major holding company to offer DIY campaign tools\n* **OpenAI launches browser** - ChatGPT Atlas for macOS threatens publisher traffic with integrated AI summaries\n\n**Quick Hits:**\n\n* Samsung integrates Perplexity AI into smart TVs alongside Microsoft Copilot\n* Google breaks tradition: Offering post-auction discounts to agencies spending $50M+ on AdX amid antitrust pressure\n* Comcast opens linear TV inventory to real-time programmatic bidding via FreeWheel\n* AppLovin faces SEC investigation over user tracking allegations\n* AI search referrals under 1% of publisher traffic with near-zero conversions\n* VML (WPP) wins Pizza Hut global creative from Deutsch (IPG)\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-10242025)\n\nWhat's your take on AI moving into browsers and TVs - game changer or overhyped?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1oexhj0",
-      "title": "Is this a good CPM for YouTube Instant Deal?",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oexhj0/is_this_a_good_cpm_for_youtube_instant_deal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oexhj0/is_this_a_good_cpm_for_youtube_instant_deal/",
-      "created_utc": 1761311799.0,
-      "content": "I was quoted $6-$7 CPM  for Skippable Ads - YouTube Instant deal \"Guaranteed\"included Day parting, includes one county in New Jersey. Select Age Group and only a few categories for Placement. Also excludes cellphones.\n\nI know for me to go directly YouTube via Google Adwords CPM usually $15-$20.",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1of1t9f",
-      "title": "WPP Open just became the Salesforce of advertising — and Cindy Rose’s hire was the harbinger",
-      "author": "u_of_digital",
-      "score": 40,
-      "url": "https://i.redd.it/uablevnn13xf1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1of1t9f/wpp_open_just_became_the_salesforce_of/",
-      "created_utc": 1761322028.0,
-      "content": "WPP launched Open Pro, basically a self-serve version of its WPP Open platform. It’s designed to let marketers plan campaigns, create branded content, and launch ads, all without going through an agency.\n\nAccording to their announcement, Open Pro has three parts:\n\n* Plan: Use AI trained on WPP’s data to build campaign strategies and audience insights.\n* Create: Auto-generate brand-safe creative using tools like Google’s Veo, OpenAI’s Sora, and Adobe Firefly \n* Publish: Either push content straight to ad platforms or route through WPP’s Open Media Studio.\n\nPricing is usage-based after an initial access fee, so it’s structured more like a software platform than an agency engagement.\n\n  \nWhen WPP hired Cindy Rose from Microsoft earlier this year, it signaled a shift from services to platforms. Rose helped lead Microsoft’s transition from a product company to a full-fledged platform business, and it seems she’s now trying to apply the same strategy at WPP.\n\nWPP Open is starting to look like Salesforce for advertising:\n\n* Smaller brands and in-house teams can pay for access to WPP’s AI tools.\n* Agencies might license their data clean room or creative automation features.\n* WPP stops competing for smaller clients and starts extracting value from the entire ad supply chain.\n\nThis could mark a major turning point for holding companies. Instead of acting as service providers, they’re evolving into infrastructure that others in the industry depend on.\n\nIn some ways, it’s a new approach, but also a familiar one. We’ve seen similar attempts before, back when trading desks first appeared in the early 2010s.\n\nSo I’ve got a few questions:  \n\\- Could WPP really pull off a Microsoft-style transformation?  \n\\- Will it eat into the potential income of smaller independent agencies?",
-      "num_comments": 13,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1of2shy",
       "title": "The real gap in OOH isn’t technology. It’s collaboration.",
       "author": "sanjeevrc",
@@ -1302,6 +1263,45 @@
       "created_utc": 1763679052.0,
       "content": "I’ve been talking to a lot of publishers and website owners in China lately, and the same issue keeps coming up — Google Ad Manager is confusing, the setup isn’t clear, and the ad revenue ends up way lower than it should be.\n\nA lot of people don’t realize this, but even small mistakes in GAM (wrong ad units, missing line items, bad price settings, messy code, etc.) can drop your CPMs a lot.\n\nSo I’m offering something simple:\n\nA Google Ad Manager “Manage Account” (MA) invite — without touching your main login.\nYou keep full control. We just help fix the structure from the outside.\n\nHere’s what I can help with:\n\t•\tCleaning up your GAM setup\n\t•\tFixing ad units and inventory mapping\n\t•\tImproving CPMs and overall yield\n\t•\tSetting up or optimizing your ad tags\n\t•\tTroubleshooting issues you’ve been stuck with\n\nBasically: if your site’s ad revenue feels lower than it should be, or GAM feels overwhelming, I can help make things clearer and more profitable.\n\nIf you’re running a blog, news site, entertainment page, or any niche site in China and want better monetization, just comment or DM me.\nHappy to guide or answer questions — no pressure.\n",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2jkr3",
+      "title": "Any Amazon DSP experts?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2jkr3/any_amazon_dsp_experts/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2jkr3/any_amazon_dsp_experts/",
+      "created_utc": 1763683536.0,
+      "content": "How do you run ads during their Prime Sports events? What is the options I need to select to get a chance to run during those.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2jqez",
+      "title": "Adobe traffic attribution",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
+      "created_utc": 1763683957.0,
+      "content": "I’m jnable to find all campaigns in adobe… anyone facing the same issue? In some cases I’ve noticed that google utm are read also by adobe even if it’s supposed tonise other parameters….",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2kb8h",
+      "title": "Amazon Ads as a no brainer",
+      "author": "Less-Selection1127",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2kb8h/amazon_ads_as_a_no_brainer/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2kb8h/amazon_ads_as_a_no_brainer/",
+      "created_utc": 1763685482.0,
+      "content": "Hey folks! 👋  \nWe’re checking out DV360 because a client wants to use it, but we’re trying to convince them to move to The Trade Desk since it has no minimums and feels way more flexible and less restrictive.\n\nBut then an Amazon partner told us **Amazon DSP actually gives even more flexibility than DV360**.\n\nSo now I'm curious — **has anyone here actually run campaigns on Amazon DSP? We only ran for Amazon Stores, PPC.**\n\n  \nWe are considering amazon",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

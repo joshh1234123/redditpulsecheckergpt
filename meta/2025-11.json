@@ -1049,6 +1049,51 @@
       "link_flair_text": null,
       "thread_id": "1p2htdf",
       "thread_path": "1p2htdf.json"
+    },
+    {
+      "id": "1p2jkr3",
+      "title": "Any Amazon DSP experts?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2jkr3/any_amazon_dsp_experts/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2jkr3/any_amazon_dsp_experts/",
+      "created_utc": 1763683536.0,
+      "content": "How do you run ads during their Prime Sports events? What is the options I need to select to get a chance to run during those.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p2jkr3",
+      "thread_path": "1p2jkr3.json"
+    },
+    {
+      "id": "1p2jqez",
+      "title": "Adobe traffic attribution",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
+      "created_utc": 1763683957.0,
+      "content": "I’m jnable to find all campaigns in adobe… anyone facing the same issue? In some cases I’ve noticed that google utm are read also by adobe even if it’s supposed tonise other parameters….",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p2jqez",
+      "thread_path": "1p2jqez.json"
+    },
+    {
+      "id": "1p2kb8h",
+      "title": "Amazon Ads as a no brainer",
+      "author": "Less-Selection1127",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2kb8h/amazon_ads_as_a_no_brainer/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2kb8h/amazon_ads_as_a_no_brainer/",
+      "created_utc": 1763685482.0,
+      "content": "Hey folks! 👋  \nWe’re checking out DV360 because a client wants to use it, but we’re trying to convince them to move to The Trade Desk since it has no minimums and feels way more flexible and less restrictive.\n\nBut then an Amazon partner told us **Amazon DSP actually gives even more flexibility than DV360**.\n\nSo now I'm curious — **has anyone here actually run campaigns on Amazon DSP? We only ran for Amazon Stores, PPC.**\n\n  \nWe are considering amazon",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p2kb8h",
+      "thread_path": "1p2kb8h.json"
     }
   ]
 }
