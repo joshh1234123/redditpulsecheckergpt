@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ogj4br",
-      "title": "YouTube Instant Deals - What criteria do you use?",
-      "author": "Enviromental1001",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ogj4br/youtube_instant_deals_what_criteria_do_you_use/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ogj4br/youtube_instant_deals_what_criteria_do_you_use/",
-      "created_utc": 1761480879.0,
-      "content": "The other day I kept modifying criteria and I was able to get CPM as low as $7. Now that $7 campaign ended trying to copy it and now it says $33 CPM. Anyone found a combination that works often to get the instant quote to show a lower CPM?\n\nhttps://preview.redd.it/qy2ply407gxf1.png?width=796&format=png&auto=webp&s=2f83c4a2c5723d02c6b776a78fa9e338d1860acc\n\n",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ogkffg",
       "title": "DV360 and VOZ Integration",
       "author": "Maleficent_Ad_4095",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p2ulr9/november_flat_so_far/",
       "created_utc": 1763718737.0,
       "content": "Anyone else at the big publishers seeing Nov so far flat on October performance? Spend feels down. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2xemx",
+      "title": "TLDR: Week in Review - Omnicom shifts to Amazon, WPP's breakup math, and Target joins ChatGPT",
+      "author": "data_spy",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2xemx/tldr_week_in_review_omnicom_shifts_to_amazon_wpps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2xemx/tldr_week_in_review_omnicom_shifts_to_amazon_wpps/",
+      "created_utc": 1763728348.0,
+      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n * **Omnicom pivots to Amazon** - Reportedly shifted a double-digit percentage of Q3 programmatic spend from The Trade Desk to Amazon DSP, utilizing Amazon's lower fees and retail data.\n * **WPP's valuation crisis** - Market value has dropped to £3.3B while its media buying unit alone is estimated at £8B, fueling speculation that new CEO Cindy Rose may break up the company to unlock value.\n * **Target enters ChatGPT** - Launching a dedicated shopping app within the AI platform for Thanksgiving, allowing users to browse, build baskets, and checkout via conversational AI.\n\n**Quick Hits:**\n\n * **Amazon's Rufus Ads**: Sponsored prompts are now being tested within Amazon’s AI shopping assistant.\n * **Agentio raises $40M\"**: The creator ad marketplace is expanding beyond YouTube to Meta and other platforms.\n * **Synthetic Audiences**: Agencies like Dentsu are deploying AI-generated personas to replace traditional focus groups for faster market research.\n * **Albertsons + NBCU**: Launched a clean room tool linking CTV ads to in-store sales (a Chobani pilot saw $4.22 ROAS).\n * **The Atlantic vs AI**: Implementing a scorecard system to block AI crawlers that don't drive meaningful traffic or subscriptions.\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-11212025)\n\nWhat's your take on the rumored Omnicom shift away from The Trade Desk?\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
