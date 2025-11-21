@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1of2shy",
-      "title": "The real gap in OOH isn’t technology. It’s collaboration.",
-      "author": "sanjeevrc",
-      "score": 4,
-      "url": "https://i.redd.it/iqrho15n83xf1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1of2shy/the_real_gap_in_ooh_isnt_technology_its/",
-      "created_utc": 1761324298.0,
-      "content": "",
-      "num_comments": 23,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ogeo7h",
       "title": "Career trajectory",
       "author": "Pitiful_Camel6790",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p2kb8h/amazon_ads_as_a_no_brainer/",
       "created_utc": 1763685482.0,
       "content": "Hey folks! 👋  \nWe’re checking out DV360 because a client wants to use it, but we’re trying to convince them to move to The Trade Desk since it has no minimums and feels way more flexible and less restrictive.\n\nBut then an Amazon partner told us **Amazon DSP actually gives even more flexibility than DV360**.\n\nSo now I'm curious — **has anyone here actually run campaigns on Amazon DSP? We only ran for Amazon Stores, PPC.**\n\n  \nWe are considering amazon",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p2skb6",
+      "title": "End of Xande ssp, what now ? (France based agency)",
+      "author": "Malgeth",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p2skb6/end_of_xande_ssp_what_now_france_based_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2skb6/end_of_xande_ssp_what_now_france_based_agency/",
+      "created_utc": 1763710815.0,
+      "content": "Hey,\n\nWith the end of Xande SSP next year, we are testing multiple ssp on the market.\n\nWe already have a DV360 account for our YouTube ads campaign.\nWe need something for our TV, display and audio campaigns\n\nAmazon DSP seems to be fine and pretty cheap, and it gives us access to Amazon reach and data.\n\nWe are in discussion with adform and hawk too.\n\nAnyone one with some insights on those platforms ? I read that Amazon tend to reach a lot of bots (honestly, I suspect Xandr to do the same), how can we be sure about that ?",
       "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
