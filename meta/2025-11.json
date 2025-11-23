@@ -1214,6 +1214,21 @@
       "link_flair_text": null,
       "thread_id": "1p3s6ka",
       "thread_path": "1p3s6ka.json"
+    },
+    {
+      "id": "1p4lt2t",
+      "title": "Amazon Reporting",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p4lt2t/amazon_reporting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p4lt2t/amazon_reporting/",
+      "created_utc": 1763901783.0,
+      "content": "I am doing a reach style campaign for Amazon Prime TV. Targeting a large county in New Jersey. Is there anyway with their reports to pull a report daily that shows me the impressions each city got within the county? I know how to do that in DV360 with other campaigns but with Amazon I do not see a report that would show me this.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p4lt2t",
+      "thread_path": "1p4lt2t.json"
     }
   ]
 }
