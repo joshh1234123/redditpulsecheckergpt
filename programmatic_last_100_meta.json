@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oimqiz",
-      "title": "Has anyone had issue receiving deals today into DV360?",
-      "author": "Enviromental1001",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oimqiz/has_anyone_had_issue_receiving_deals_today_into/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oimqiz/has_anyone_had_issue_receiving_deals_today_into/",
-      "created_utc": 1761688537.0,
-      "content": "FreeWheel claims to have sent me a deal but in My Inventory not showing. Google had to submit a ticket to their DV360 team to see where the deal is. Curious is there a platform issue today?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1oiob8s",
-      "title": "Conversion Attribution and inaccurate Data signals",
-      "author": "Akajdrod",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oiob8s/conversion_attribution_and_inaccurate_data_signals/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oiob8s/conversion_attribution_and_inaccurate_data_signals/",
-      "created_utc": 1761692381.0,
-      "content": "Hi community, \n\nSince April, was running 2 simultaneous campaigns for a streaming platform client that offers subscription to stream NHL and MLB. \n\nThe landing page and checkout flow is the same for both campaigns; creatives in each campaign are sport-specific.\n\nOn a floodlight level, i track the type of membership purchased via custom variables, but there is no data piece to indicate whether the subscription was purchased to watch hockey or baseball specifically. \n\nThis past spring, NHL campaign (Stanley cup finals) had much larger budgets and much higher paid& organic volume of subscriptions. \n\nWhile Hockey was on, the MLB campaign was attributing conversions as well through retargeting, contextual sports targeting, affinity segments tactics. I imagine that for DV360, it could be that theres not much difference between baseball and hockey fans. \n\nCPA in MLB campaign was great until the day after the Stanley Cup was over. subscriptions idried up the day after - and for the next 3 months I could not make the campaign perform. Tactics that worked well while hockey was on, had a 10x increase in CPA. \n\nIn my opinion, the volume of Hockey-skewed data messed up the bidder in the Baseball campaign since: \n\n* large volume hockey visitors converted and got attributed to baseball campaign via retargeting/broad sports targeting \n\n* algos/bidder kept intaking audience and placement signals that worked while Hockey was on and trying to find users similar to those that converted in April-May. \n\n\n\nSo, my questions are: \n\n* how do you think i can go about minimizing cross attribution given that the client wont build separate landing pages per sport and 90% of conversions are post-view\n\n* how do you feel about my theory of feeding wrong data signals to the bidder for 3 months, which made it basically impossible to recover and find a new audience (baseball audience) after? \n\n\nCurious to hear your answers! ",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oj8sk8",
       "title": "Moving Away From Agency Role",
       "author": "MichaelsMotorcycle",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p5q1z4/mentally_exhausted_after_3_years_in_a_toxic_job/",
       "created_utc": 1764011367.0,
       "content": "Hey everyone,\n\nI’ve been stuck in a very toxic work environment for the last three years, and it has drained me mentally and physically. I finally have a chance to move out, I’m preparing for an interview with Publicis Groupe for Associate Manager: Programmatic (India).\n\nI would truly appreciate any help with:\n\t•\tWhat to expect in the interview\n\t•\tTopics/skills they usually focus on\n\t•\tCommon programmatic questions asked\n\t•\tYour interview experience with Publicis\n\t•\tAny tips to stand out as a candidate\n\t•\tReferrals or people I can reach out to\n\t•\tAnything else you think could help me prepare\n\nMy DMs are open if you prefer messaging privately.\n\nI desperately need this change, and even a small piece of guidance would mean a lot.\nThank you for reading and for any help you can share. 🙏",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p5q3fz",
+      "title": "Mentally exhausted after 3 years in a toxic job, need help preparing for Publicis interview (Assoc. Manager, Programmatic), India",
+      "author": "Julius_Sneezerr",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p5q3fz/mentally_exhausted_after_3_years_in_a_toxic_job/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5q3fz/mentally_exhausted_after_3_years_in_a_toxic_job/",
+      "created_utc": 1764011459.0,
+      "content": "Hey everyone,\n\nI’ve been stuck in a very toxic work environment for the last three years, and it has drained me mentally and physically. I finally have a chance to move out — I’m preparing for an interview with Publicis Groupe for Associate Manager – Programmatic.\n\nI would truly appreciate any help with:\n\n\t•\tWhat to expect in the interview\n\t•\tTopics/skills they usually focus on\n\t•\tCommon programmatic questions asked\n\t•\tYour interview experience with Publicis\n\t•\tAny tips to stand out as a candidate\n\t•\tReferrals or people I can reach out to\n\t•\tAnything else you think could help me prepare\n\nMy DMs are open if you prefer messaging privately.\n\nI desperately need this change, and even a small piece of guidance would mean a lot.\nThank you for reading and for any help you can share. 🙏",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p5qo0s",
+      "title": "Looking for referrals in programmatic field!",
+      "author": "akunni",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p5qo0s/looking_for_referrals_in_programmatic_field/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5qo0s/looking_for_referrals_in_programmatic_field/",
+      "created_utc": 1764012731.0,
+      "content": "Hi everyone,\n\nI'm actively exploring new opportunities/referrals  in Programmatic Account Management or AdOps roles . With 9 years of experience in Client Success, Account Management, and hands-on AdOps, I bring a well-rounded skillset to the table.\n\nI have deep hands-on experience with key DSPs including Amazon DSP, DV360, Adform, and The Trade Desk.\n\nAm based in Dubai since 2024, I am eager to connect with opportunities here. If you know of any open roles or have connections in the region or outside, I would be very grateful for your support. My inbox is always open. I have experience in India, US, Europe and now MENA market.\n\nThank you in advance for any leads or advice!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
