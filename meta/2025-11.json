@@ -1379,6 +1379,21 @@
       "link_flair_text": null,
       "thread_id": "1p5s1ma",
       "thread_path": "1p5s1ma.json"
+    },
+    {
+      "id": "1p5vbyr",
+      "title": "Desmistificando o AdX: Por que seu CPM cai e como otimizar de verdade",
+      "author": "Electrical_Win_2308",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p5vbyr/desmistificando_o_adx_por_que_seu_cpm_cai_e_como/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5vbyr/desmistificando_o_adx_por_que_seu_cpm_cai_e_como/",
+      "created_utc": 1764023358.0,
+      "content": "Olá, pessoal\n\nSempre vejo discussões sobre MCM, AdX, e a eterna montanha-russa do CPM. Muitos tratam todas as redes como se fossem a mesma coisa, sob o lema: “É tudo AdX, então tanto faz onde plugar.”\n\nMas quem já operou arbitragem a sério sabe que a realidade é bem diferente.\n\nA maioria das redes oferece uma solução “plug and play”: conectam seu site e deixam tudo no automático. O resultado? Um setup genérico que ignora as particularidades do seu inventário:\n\n•Mesmo piso de lance para todos os países, sem distinção.\n\n•Nenhuma análise por URL para identificar as que geram mais receita.\n\n•Zero controle de latência, um dos maiores vilões do leilão.\n\n•Nenhuma estrutura de teste de cobertura ou fill rate.\n\nE quando o CPM despenca, a justificativa é sempre a mesma: “demanda baixa”. Como se essa fosse a única variável em um ecossistema tão complexo.\n\n**A verdade sobre o que move a receita**\n\nQuando você começa a analisar o inventário de verdade, percebe rapidamente o que realmente impacta seus ganhos:\n\n•Cada país tem um comportamento de compra único.\n\n•Algumas URLs carregam o inventário nas costas, enquanto outras o derrubam.\n\n•Pisos de lance mal aplicados matam o fill rate e a receita.\n\n•Latência acumulada por camadas desnecessárias estrangula o leilão antes mesmo que o AdX possa competir.\n\n•Inventário desorganizado destrói o CPM de forma silenciosa.\n\nO ponto mais ignorado é, sem dúvida, a latência. Existem redes que adicionam tantas camadas que, quando o AdX finalmente entra na disputa, o timing ideal já passou. Nenhum CPM sobrevive a isso.\n\n**Minha jornada e o que aprendi**\n\nQuase ninguém sabe disso, mas eu venho do mercado de arbitragem, onde operei uma rede própria com mais de 50 sites. Foi testando, estudando a demanda e desenhando estratégias país a país que recebi do Google o status AdX 360 — o nível mais alto de acesso e suporte no ecossistema AdX. Isso me deu acesso a ferramentas e processos que a maioria das redes nem sonha que existem.\n\n**Abrindo para novos parceiros: uma proposta de ganha-ganha**\n\nAgora, estou abrindo espaço para novos parceiros por um motivo simples: quero oferecer a mesma estrutura, tecnologia e metodologia que uso na minha própria rede.\n\nO que eu ofereço não é mágica, e sim operação técnica, limpa e acompanhada.\n\nSe você já tem sua licença aprovada ou está em outra rede e busca um setup mais estruturado, minha equipe pode auxiliar na organização do inventário, aumento de volume, estabilização de CPM e otimização diária.\n\nA lógica é simples: quanto mais forte e organizado o inventário, mais todos crescem.\n\nSe você se identifica com essa abordagem e quer levar sua operação para o próximo nível, me chame para conversar. Vamos falar sobre como aplicar uma gestão técnica de verdade ao seu inventário.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p5vbyr",
+      "thread_path": "1p5vbyr.json"
     }
   ]
 }
