@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oib3r2",
-      "title": "Product ID breakdown in META not showing results",
-      "author": "International_You581",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oib3r2/product_id_breakdown_in_meta_not_showing_results/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oib3r2/product_id_breakdown_in_meta_not_showing_results/",
-      "created_utc": 1761662219.0,
-      "content": "Hey everyone,\n\nI've recently launched a Travel ads campaign in META with a connected catalog for a client of mine. My catalog has over 800 destinations and I am able to see the impressions, spend and clicks per destination using the Product ID breakdown (which is a miracle on its own, since this is my first Travel ads campaign and I was scared shitless 🥹).\n\nHowever, the results and cost per result metrics remain empty. **I am seeing the total for both**, but I cannot see the results per Product ID.\n\nHas anyone had this issue? Do you know how to fix it? Is it fixable?\n\nAfter doing some digging in Commerce Manager, I noticed the Events tab for my catalog and saw that my client's pixel is not connected. Would that be the cause? I'll try to upload some screen caps to show you what I mean.\n\nThanks everyone and let me know if you need more info!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oiijlg",
       "title": "PG order setup: agency flow",
       "author": "linuz14",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p5kq4t/remote_freelanceparttime_work_in_programmatic/",
       "created_utc": 1763999847.0,
       "content": "I'm a programmatic trader, with 5 years of combined supply and demand experience. In one of the big agency but work here is currently slow, have couple of hours I can give everyday. Most recently I've been working hands-on TTD Kokai since the past year, managed campaigns worth $20M.  \nWhere I can look for remote opportunities? I would appreciate any leads.\n\nWould also love to connect with you if you're already doing this and willing to share how you found such work.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p5l8u1",
+      "title": "Amobee/Unruly - Nexxen",
+      "author": "Ok-Composer-3035",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p5l8u1/amobeeunruly_nexxen/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5l8u1/amobeeunruly_nexxen/",
+      "created_utc": 1764000973.0,
+      "content": "Does anyone have experience working at Nexxen (Amobee/Unruly)? I’m trying to get a realistic sense of what the day to day, culture, and growth opportunities are like there.\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
