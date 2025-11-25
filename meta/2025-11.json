@@ -1394,6 +1394,21 @@
       "link_flair_text": null,
       "thread_id": "1p5vbyr",
       "thread_path": "1p5vbyr.json"
+    },
+    {
+      "id": "1p6eb4e",
+      "title": "Is this a clear way to report channel performance when programmatic is part of the mix?",
+      "author": "madman3007",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
+      "created_utc": 1764082081.0,
+      "content": "For businesses that run multiple marketing channels at once, I’m curious how you’ve seen **financial performance** reported when **programmatic** is in the overall mix.\n\nDo you usually:\n\n* Break out individual programmatic channels (e.g., CTV, display, native, audio, etc.)?\n* Lump everything together under one “programmatic” bucket?\n* Or use some other structure?\n\nI’m trying to figure out what reporting approach makes the most sense.  \n**What has worked best in your experience?**",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p6eb4e",
+      "thread_path": "1p6eb4e.json"
     }
   ]
 }

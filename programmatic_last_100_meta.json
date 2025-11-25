@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ojd08v",
-      "title": "Now hiring: Chief Ad Officer at X. Must enjoy chaos, lawsuits, and occasional ‘go [bleep] yourself’ feedback from leadership",
-      "author": "u_of_digital",
-      "score": 7,
-      "url": "https://i.redd.it/cofwdpysi3yf1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ojd08v/now_hiring_chief_ad_officer_at_x_must_enjoy_chaos/",
-      "created_utc": 1761763708.0,
-      "content": "John Nitti, X’s head of advertising and revenue operations, has left the company after just 10 months. His departure adds to a string of recent high-level exits, including the CFO and several other executives. Many within the company have reportedly grown frustrated with Elon Musk’s abrupt strategy changes and unilateral decision-making, such as sudden policy shifts made without consulting the team. Apparently, “innovation” at X now includes a built-in revolving door.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ojlq6g",
       "title": "Explaining my job is not an easy task",
       "author": "Mindless-Hair688",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764023358.0,
       "content": "Olá, pessoal\n\nSempre vejo discussões sobre MCM, AdX, e a eterna montanha-russa do CPM. Muitos tratam todas as redes como se fossem a mesma coisa, sob o lema: “É tudo AdX, então tanto faz onde plugar.”\n\nMas quem já operou arbitragem a sério sabe que a realidade é bem diferente.\n\nA maioria das redes oferece uma solução “plug and play”: conectam seu site e deixam tudo no automático. O resultado? Um setup genérico que ignora as particularidades do seu inventário:\n\n•Mesmo piso de lance para todos os países, sem distinção.\n\n•Nenhuma análise por URL para identificar as que geram mais receita.\n\n•Zero controle de latência, um dos maiores vilões do leilão.\n\n•Nenhuma estrutura de teste de cobertura ou fill rate.\n\nE quando o CPM despenca, a justificativa é sempre a mesma: “demanda baixa”. Como se essa fosse a única variável em um ecossistema tão complexo.\n\n**A verdade sobre o que move a receita**\n\nQuando você começa a analisar o inventário de verdade, percebe rapidamente o que realmente impacta seus ganhos:\n\n•Cada país tem um comportamento de compra único.\n\n•Algumas URLs carregam o inventário nas costas, enquanto outras o derrubam.\n\n•Pisos de lance mal aplicados matam o fill rate e a receita.\n\n•Latência acumulada por camadas desnecessárias estrangula o leilão antes mesmo que o AdX possa competir.\n\n•Inventário desorganizado destrói o CPM de forma silenciosa.\n\nO ponto mais ignorado é, sem dúvida, a latência. Existem redes que adicionam tantas camadas que, quando o AdX finalmente entra na disputa, o timing ideal já passou. Nenhum CPM sobrevive a isso.\n\n**Minha jornada e o que aprendi**\n\nQuase ninguém sabe disso, mas eu venho do mercado de arbitragem, onde operei uma rede própria com mais de 50 sites. Foi testando, estudando a demanda e desenhando estratégias país a país que recebi do Google o status AdX 360 — o nível mais alto de acesso e suporte no ecossistema AdX. Isso me deu acesso a ferramentas e processos que a maioria das redes nem sonha que existem.\n\n**Abrindo para novos parceiros: uma proposta de ganha-ganha**\n\nAgora, estou abrindo espaço para novos parceiros por um motivo simples: quero oferecer a mesma estrutura, tecnologia e metodologia que uso na minha própria rede.\n\nO que eu ofereço não é mágica, e sim operação técnica, limpa e acompanhada.\n\nSe você já tem sua licença aprovada ou está em outra rede e busca um setup mais estruturado, minha equipe pode auxiliar na organização do inventário, aumento de volume, estabilização de CPM e otimização diária.\n\nA lógica é simples: quanto mais forte e organizado o inventário, mais todos crescem.\n\nSe você se identifica com essa abordagem e quer levar sua operação para o próximo nível, me chame para conversar. Vamos falar sobre como aplicar uma gestão técnica de verdade ao seu inventário.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p6eb4e",
+      "title": "Is this a clear way to report channel performance when programmatic is part of the mix?",
+      "author": "madman3007",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
+      "created_utc": 1764082081.0,
+      "content": "For businesses that run multiple marketing channels at once, I’m curious how you’ve seen **financial performance** reported when **programmatic** is in the overall mix.\n\nDo you usually:\n\n* Break out individual programmatic channels (e.g., CTV, display, native, audio, etc.)?\n* Lump everything together under one “programmatic” bucket?\n* Or use some other structure?\n\nI’m trying to figure out what reporting approach makes the most sense.  \n**What has worked best in your experience?**",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

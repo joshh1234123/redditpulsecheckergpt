@@ -1,0 +1,22 @@
+{
+  "id": "1p6eb4e",
+  "thread_id": "1p6eb4e",
+  "title": "Is this a clear way to report channel performance when programmatic is part of the mix?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
+  "created_utc": 1764082081.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "jp182",
+      "body": "Smart people break things out by channel.  Lumping everything under programmatic tells me that my agency is not very strong or forward thinking.\n\n\nWho's the report for and what are they using the data for?  That should guide how you create the report?",
+      "score": 2,
+      "created_utc": 1764082802.0
+    },
+    {
+      "author": "drkingsize",
+      "body": "From a purely financial standpoint, hard to argue against keeping it simple - imps, cpm, spend. If your audience is looking at this from a billing POV what will matter is breaking down your data in a way that closely mirrors outgoing/incoming payments. In my experience they dgaf about much else in terms of vanity metrics. \n\nIf we’re talking about a non-billing POV - I’d start by working backwards from the KPIs of your programmatic buy. Was it to drive awareness at low CPMs? Highlight total delivery & low rates to achieve it. Cherry pick some top sites/media types to showcase where it delivered. \n\nPerformance programmatic / high engagement tactics? Highlight strong CPAs etc. Break out media types that performed better than others. ",
+      "score": 1,
+      "created_utc": 1764082787.0
+    }
+  ]
+}
