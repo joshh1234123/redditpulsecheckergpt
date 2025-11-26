@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1okgkk3",
-      "title": "Any DOOH tools similar to CAASie?",
-      "author": "Enviromental1001",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1okgkk3/any_dooh_tools_similar_to_caasie/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1okgkk3/any_dooh_tools_similar_to_caasie/",
-      "created_utc": 1761870793.0,
-      "content": "CAASie for DOOH shows you locations and examples of images of what the display looks like.\n\nIs there any tools out there that is that in-depth?  \n",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1okud89",
       "title": "The Trade Desk CSA Program",
       "author": "MotorLawyer4774",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764119730.0,
       "content": "With the talk about SPO and transparency- Loglevel data has been mentioned in being a valuable tool to be able to get insights throughout the supply chain (among other things)\n\nLooking for some thoughts on how people actually use this data. What metrics should an agency be looking for and what’s the best way to analyze or visualize. I feel like I know and understand the value in theory but in practice not sure I’ve ever known what to look for within the data.\n\nAny insights/ support helpful from what people have experienced ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p7gyun",
+      "title": "Is it hard to learn DV360 when you have 4+ years exp in Google Ads",
+      "author": "Nice_Artist1636",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p7gyun/is_it_hard_to_learn_dv360_when_you_have_4_years/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p7gyun/is_it_hard_to_learn_dv360_when_you_have_4_years/",
+      "created_utc": 1764185212.0,
+      "content": "Hi, I am looking for a new job but it says that it requires experience with DV360. I have never worked with DV360, but have worked 4+ years in display and video via Google Ads in a agency for 30+ clients. How long will it take to adapt to DV360 or is there barely any difference?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
