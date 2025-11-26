@@ -1484,6 +1484,21 @@
       "link_flair_text": null,
       "thread_id": "1p7gyun",
       "thread_path": "1p7gyun.json"
+    },
+    {
+      "id": "1p7mvjr",
+      "title": "Vibe just figured out what everyone else learned years ago about CTV supply",
+      "author": "papuuu024",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p7mvjr/vibe_just_figured_out_what_everyone_else_learned/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p7mvjr/vibe_just_figured_out_what_everyone_else_learned/",
+      "created_utc": 1764199506.0,
+      "content": "Vibe's announcement about \"banning all resellers\" reads less like innovation and more like a new player realizing (the hard way) what most of the industry has known for years: programmatic CTV bought through resellers is a measurement and attribution nightmare. Traders I've spoken with said the same thing: if you're buying $3 \"ESPN\" CPMs, you're not buying ESPN CTV, you're buying non-ctv devices or resold web video, and your outcomes will be underwhelming. Direct supply isn't groundbreaking; it's table stakes if you want clean paths, stable IDs, and measurement that actually works.\n\nThe bigger discussion here isn't about Vibe, it's about how fragile CTV measurement becomes once you add intermediaries, device graph hops, and inconsistent household IDs. So I'm curious to hear from this group: what do you look for from vendors to evaluate whether their CTV supply path is actually clean and transparent?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p7mvjr",
+      "thread_path": "1p7mvjr.json"
     }
   ]
 }

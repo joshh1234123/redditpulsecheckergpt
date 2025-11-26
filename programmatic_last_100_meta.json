@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1okud89",
-      "title": "The Trade Desk CSA Program",
-      "author": "MotorLawyer4774",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1okud89/the_trade_desk_csa_program/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1okud89/the_trade_desk_csa_program/",
-      "created_utc": 1761916694.0,
-      "content": "Hi programmatic sub, I’m new here but wanted to ask a question regarding The Trade Desk. \n\nHas anyone here interviewed for The Trade Desk, specifically for their Client Service Associate program or for an account coordinator role? Just wrapped up a round one screening with a recruiter and the next steps are a data presentation with a Q & A after. Apparently they give us a client, some data from said client, and then we present about it?? Idk, just trying to prepare myself!\n\nBasically just looking for some insight on if anyone has gone through this process ",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1omi5ea",
       "title": "What kind of programmatic ads have you found to be most effective for local business?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764185212.0,
       "content": "Hi, I am looking for a new job but it says that it requires experience with DV360. I have never worked with DV360, but have worked 4+ years in display and video via Google Ads in a agency for 30+ clients. How long will it take to adapt to DV360 or is there barely any difference?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p7mvjr",
+      "title": "Vibe just figured out what everyone else learned years ago about CTV supply",
+      "author": "papuuu024",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p7mvjr/vibe_just_figured_out_what_everyone_else_learned/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p7mvjr/vibe_just_figured_out_what_everyone_else_learned/",
+      "created_utc": 1764199506.0,
+      "content": "Vibe's announcement about \"banning all resellers\" reads less like innovation and more like a new player realizing (the hard way) what most of the industry has known for years: programmatic CTV bought through resellers is a measurement and attribution nightmare. Traders I've spoken with said the same thing: if you're buying $3 \"ESPN\" CPMs, you're not buying ESPN CTV, you're buying non-ctv devices or resold web video, and your outcomes will be underwhelming. Direct supply isn't groundbreaking; it's table stakes if you want clean paths, stable IDs, and measurement that actually works.\n\nThe bigger discussion here isn't about Vibe, it's about how fragile CTV measurement becomes once you add intermediaries, device graph hops, and inconsistent household IDs. So I'm curious to hear from this group: what do you look for from vendors to evaluate whether their CTV supply path is actually clean and transparent?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
