@@ -1454,6 +1454,21 @@
       "link_flair_text": null,
       "thread_id": "1p6tawh",
       "thread_path": "1p6tawh.json"
+    },
+    {
+      "id": "1p6ug13",
+      "title": "Log File analysis from DSP /SSP",
+      "author": "ProblemNo161",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p6ug13/log_file_analysis_from_dsp_ssp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6ug13/log_file_analysis_from_dsp_ssp/",
+      "created_utc": 1764119730.0,
+      "content": "With the talk about SPO and transparency- Loglevel data has been mentioned in being a valuable tool to be able to get insights throughout the supply chain (among other things)\n\nLooking for some thoughts on how people actually use this data. What metrics should an agency be looking for and what’s the best way to analyze or visualize. I feel like I know and understand the value in theory but in practice not sure I’ve ever known what to look for within the data.\n\nAny insights/ support helpful from what people have experienced ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p6ug13",
+      "thread_path": "1p6ug13.json"
     }
   ]
 }

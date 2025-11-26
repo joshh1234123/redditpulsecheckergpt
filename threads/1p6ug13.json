@@ -1,0 +1,16 @@
+{
+  "id": "1p6ug13",
+  "thread_id": "1p6ug13",
+  "title": "Log File analysis from DSP /SSP",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1p6ug13/log_file_analysis_from_dsp_ssp/",
+  "created_utc": 1764119730.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "mrgoobmanager",
+      "body": "In theory you should be able to use the auction id to match the logs between the two. That would allow you to define the entire supply chain which is a sign you have control of what you’re doing. When used correctly you can evaluate pricing changes by every variable and that can improve your bidding strategy.",
+      "score": 1,
+      "created_utc": 1764120658.0
+    }
+  ]
+}

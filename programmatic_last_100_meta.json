@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1okcwqh",
-      "title": "DV360 Reseller",
-      "author": "Less-Selection1127",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1okcwqh/dv360_reseller/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1okcwqh/dv360_reseller/",
-      "created_utc": 1761861294.0,
-      "content": "We’ve recently had a client constantly asking for access to a DV360 seat, so we’re exploring the possibility of obtaining our own so we can offer this to a few clients. \n\nAre there any honest resellers here who could help or share some guidance? \n\n",
-      "num_comments": 20,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1okgkk3",
       "title": "Any DOOH tools similar to CAASie?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764116608.0,
       "content": "What kind of frequency are you using when running Amazon Prime TV ads?\n\nCurious if anyone found a unique # that seem to utilize budget better and help with reach as well. I was thinking I want the AD to show 2 times a day but capping it at 3 days a week. That way I am getting more unique households viewing it but enough repetition during the day it plays that if someone missed the first ad they may have seen it the second time.\n\nIm going after a county with approx 600,000 people, not sure how many have Prime TV but trying to see how many impressions I can get uniquely over a month. So far I was avg 4,000 impressions at $50 a day ad spend with Watch for Free Prime TV for Set-top, TV - Day Part 6pm-11pm..\n\nWould be interested if during the month I can run \"out\" of people to show to for Watch for Free and hit every single household that is watching that content and have the campaign stop a week early during the month would be interesting to see what that total cost is to hit everyone.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p6ug13",
+      "title": "Log File analysis from DSP /SSP",
+      "author": "ProblemNo161",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p6ug13/log_file_analysis_from_dsp_ssp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6ug13/log_file_analysis_from_dsp_ssp/",
+      "created_utc": 1764119730.0,
+      "content": "With the talk about SPO and transparency- Loglevel data has been mentioned in being a valuable tool to be able to get insights throughout the supply chain (among other things)\n\nLooking for some thoughts on how people actually use this data. What metrics should an agency be looking for and what’s the best way to analyze or visualize. I feel like I know and understand the value in theory but in practice not sure I’ve ever known what to look for within the data.\n\nAny insights/ support helpful from what people have experienced ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
