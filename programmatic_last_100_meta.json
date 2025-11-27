@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1omr7px",
-      "title": "Viewability benchmark",
-      "author": "linuz14",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1omr7px/viewability_benchmark/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1omr7px/viewability_benchmark/",
-      "created_utc": 1762113632.0,
-      "content": "Which is your benchmark for disply, video and ctv?\nOther breackdonwns?\nDo you apply dofferent ones by country?\nAny gap between dv360 and ias or other dsp like amazon?",
-      "num_comments": 9,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1on8gvh",
       "title": "Need Blogs Suggestions for AdTech",
       "author": "Appropriate-Bag-2415",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764203851.0,
       "content": "Trying to edit subject to Pause *Screen* Ads but can’t. Oops!\n\nAre there any programmatic platforms, self-serve options or companies with “approachable” minimums for buying pause screen ads?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p7xa60",
+      "title": "Amazon DSP excluding 100 percent of conversion events",
+      "author": "tttigerb",
+      "score": 1,
+      "url": "https://i.redd.it/wk8sa2nyhr3g1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p7xa60/amazon_dsp_excluding_100_percent_of_conversion/",
+      "created_utc": 1764232848.0,
+      "content": "Hi everyone,\n\nI’m running a DSP campaign for an advertiser in the finance and banking loans sector, and since November 22 Amazon DSP has started excluding 100 percent of all conversion events. Until the 21st everything was normal.\n\nAll three mapped events (PageView, Presentation, Lead) show full event counts but zero valid conversions, with the “Excluded events” column at 100 percent for each. The tooltip says exclusions can happen due to timestamp issues, clientDedupId deduplication, count method logic, opt outs or limited data use settings.\n\nNo tracking changes were made on our side on or around the 22nd, and everything was working before. I already opened a ticket with Amazon Support, but I wanted to check with the community in case someone has experienced something similar, especially in sensitive verticals like finance.\n\nCould this be related to a new privacy filter, a stricter timestamp validation, a region specific data use restriction, or something else entirely?\n\nAny insights or past experiences would be super helpful. I’m attaching a screenshot of the DSP view.\n\nThanks in advance!\n\n  \n",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
