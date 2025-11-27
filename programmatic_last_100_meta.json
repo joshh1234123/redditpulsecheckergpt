@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1on8gvh",
-      "title": "Need Blogs Suggestions for AdTech",
-      "author": "Appropriate-Bag-2415",
-      "score": 1,
-      "url": "/r/adops/comments/1on8gou/need_blogs_suggestions_for_adtech/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1on8gvh/need_blogs_suggestions_for_adtech/",
-      "created_utc": 1762166482.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oninaf",
       "title": "At what point does the tail stop wagging the dog? Amazon & YouTube bet on AI over humans.",
       "author": "u_of_digital",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p7xa60/amazon_dsp_excluding_100_percent_of_conversion/",
       "created_utc": 1764232848.0,
       "content": "Hi everyone,\n\nI’m running a DSP campaign for an advertiser in the finance and banking loans sector, and since November 22 Amazon DSP has started excluding 100 percent of all conversion events. Until the 21st everything was normal.\n\nAll three mapped events (PageView, Presentation, Lead) show full event counts but zero valid conversions, with the “Excluded events” column at 100 percent for each. The tooltip says exclusions can happen due to timestamp issues, clientDedupId deduplication, count method logic, opt outs or limited data use settings.\n\nNo tracking changes were made on our side on or around the 22nd, and everything was working before. I already opened a ticket with Amazon Support, but I wanted to check with the community in case someone has experienced something similar, especially in sensitive verticals like finance.\n\nCould this be related to a new privacy filter, a stricter timestamp validation, a region specific data use restriction, or something else entirely?\n\nAny insights or past experiences would be super helpful. I’m attaching a screenshot of the DSP view.\n\nThanks in advance!\n\n  \n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p87ys8",
+      "title": "Multi-size placements vs multi-calling the same SSP (in-video overlay setup)",
+      "author": "NeedleworkerNo9234",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
+      "created_utc": 1764264533.0,
+      "content": "Hey all,\n\nI’d love some opinions from the community on where the line really is between *legit multi-size* and *auction duplication* in this kind of setup:\n\n* I have **one in-video display slot** (side of the video).\n* The **layout changes based on the creative size**: e.g. a 300x250 shrinks the video more, a 200x200 shrinks it less, etc. Still only **one ad shown at a time** in that area.\n* In Prebid I can run it as a **multi-size ad unit** (300x250, 200x200, 320x50, etc.).\n* For some SSPs, I currently have **multiple placements (one per size)**, so the same SSP may get multiple bid requests for what is essentially the same visual slot in that moment.\n\nI know the textbook guidance is “one auction per impression per SSP”, but given that the layout and user experience *do* change with size, I’m trying to understand how strict people are about this in practice.\n\n**Questions:**\n\n1. Would you consider “one slot, multiple SSP placements per size, all called for the same impression” a clear case of auction duplication, even if only one ad ultimately renders?\n2. Is the strongly preferred best practice here just **one multi-size placement per SSP**, and then let my own layout logic decide how much the video shrinks based on the winning size?\n3. Has anyone successfully defended a multi-placement setup like this with SSPs, or is it a non-starter from a policy / traffic-quality standpoint?\n\nIf you want to see the kind of layout I’m talking about, here’s an example page. Just play the video in full screen and the viewport will shrink and an ad appears:  \n[https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12](https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12)\n\n**Disclaimer:** This post was drafted with the help of AI to describe the setup clearly; the underlying questions and concerns are mine.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

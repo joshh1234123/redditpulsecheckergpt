@@ -1529,6 +1529,21 @@
       "link_flair_text": null,
       "thread_id": "1p7xa60",
       "thread_path": "1p7xa60.json"
+    },
+    {
+      "id": "1p87ys8",
+      "title": "Multi-size placements vs multi-calling the same SSP (in-video overlay setup)",
+      "author": "NeedleworkerNo9234",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
+      "created_utc": 1764264533.0,
+      "content": "Hey all,\n\nI’d love some opinions from the community on where the line really is between *legit multi-size* and *auction duplication* in this kind of setup:\n\n* I have **one in-video display slot** (side of the video).\n* The **layout changes based on the creative size**: e.g. a 300x250 shrinks the video more, a 200x200 shrinks it less, etc. Still only **one ad shown at a time** in that area.\n* In Prebid I can run it as a **multi-size ad unit** (300x250, 200x200, 320x50, etc.).\n* For some SSPs, I currently have **multiple placements (one per size)**, so the same SSP may get multiple bid requests for what is essentially the same visual slot in that moment.\n\nI know the textbook guidance is “one auction per impression per SSP”, but given that the layout and user experience *do* change with size, I’m trying to understand how strict people are about this in practice.\n\n**Questions:**\n\n1. Would you consider “one slot, multiple SSP placements per size, all called for the same impression” a clear case of auction duplication, even if only one ad ultimately renders?\n2. Is the strongly preferred best practice here just **one multi-size placement per SSP**, and then let my own layout logic decide how much the video shrinks based on the winning size?\n3. Has anyone successfully defended a multi-placement setup like this with SSPs, or is it a non-starter from a policy / traffic-quality standpoint?\n\nIf you want to see the kind of layout I’m talking about, here’s an example page. Just play the video in full screen and the viewport will shrink and an ad appears:  \n[https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12](https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12)\n\n**Disclaimer:** This post was drafted with the help of AI to describe the setup clearly; the underlying questions and concerns are mine.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p87ys8",
+      "thread_path": "1p87ys8.json"
     }
   ]
 }
