@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1omi5ea",
-      "title": "What kind of programmatic ads have you found to be most effective for local business?",
-      "author": "Enviromental1001",
-      "score": 11,
-      "url": "https://www.reddit.com/r/programmatic/comments/1omi5ea/what_kind_of_programmatic_ads_have_you_found_to/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1omi5ea/what_kind_of_programmatic_ads_have_you_found_to/",
-      "created_utc": 1762092413.0,
-      "content": "I’m curious to hear others’ experiences with what types of media ads have worked best for local businesses.\n\nI own a small IT services company and have been experimenting with different DSPs and platforms to see what actually moves the needle. So far, I’ve had the best response through **Amazon DSP** and **DV360**, running campaigns between **6–11pm**. I even got tagged in a few local Facebook groups where residents mentioned seeing my streaming TV ad which was great to see. Honestly, I think I might be one of the only small businesses in my area (or maybe even the state) doing any kind of programmatic advertising.\n\nI’ve also tested **DOOH**, including **in-theater ads** (about 20 theaters for two weeks — zero response), **screens in gyms, grocery stores, and retail** (also zero), and **digital billboards** via **Admatx (The Trade Desk)** targeting two local Lamar signs. The signs were impossible to miss — one-lane each way, 40mph road — but after a month (5pm–7pm rotation), I saw no measurable response.\n\n**YouTube Instant Guaranteed** got plenty of views but no noticeable leads. \n\nI also ran an **audio campaign** on Admatx across multiple platforms for two weeks, again zero response.\n\nAt this point, it really seems like **streaming TV** is the clear winner for local brand recognition. People notice it, comment on it, and we get actual leads from it. Sure, I could keep testing DOOH or audio for a few more months, but if one channel is delivering consistent awareness and results, it makes sense to double down there.\n\nThat said, I’m really curious, for those who work with **local businesses**, what ad types or strategies have you found to be most effective in generating real leads/sales?\n\nHappy to share more about all the tools and DSPs I’ve used if anyone’s interested. ",
-      "num_comments": 10,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1omr7px",
       "title": "Viewability benchmark",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764199506.0,
       "content": "Vibe's announcement about \"banning all resellers\" reads less like innovation and more like a new player realizing (the hard way) what most of the industry has known for years: programmatic CTV bought through resellers is a measurement and attribution nightmare. Traders I've spoken with said the same thing: if you're buying $3 \"ESPN\" CPMs, you're not buying ESPN CTV, you're buying non-ctv devices or resold web video, and your outcomes will be underwhelming. Direct supply isn't groundbreaking; it's table stakes if you want clean paths, stable IDs, and measurement that actually works.\n\nThe bigger discussion here isn't about Vibe, it's about how fragile CTV measurement becomes once you add intermediaries, device graph hops, and inconsistent household IDs. So I'm curious to hear from this group: what do you look for from vendors to evaluate whether their CTV supply path is actually clean and transparent?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p7ofmw",
+      "title": "CTV Pause Ads",
+      "author": "chiguy09",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p7ofmw/ctv_pause_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p7ofmw/ctv_pause_ads/",
+      "created_utc": 1764203851.0,
+      "content": "Trying to edit subject to Pause *Screen* Ads but can’t. Oops!\n\nAre there any programmatic platforms, self-serve options or companies with “approachable” minimums for buying pause screen ads?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
