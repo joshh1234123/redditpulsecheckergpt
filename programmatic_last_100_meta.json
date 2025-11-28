@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oninaf",
-      "title": "At what point does the tail stop wagging the dog? Amazon & YouTube bet on AI over humans.",
-      "author": "u_of_digital",
-      "score": 25,
-      "url": "https://i.redd.it/6p35zax0y2zf1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oninaf/at_what_point_does_the_tail_stop_wagging_the_dog/",
-      "created_utc": 1762192234.0,
-      "content": "Amazon is cutting 14,000 corporate roles ( potentially up to 30,000 in the coming weeks) about 4% of its workforce, as it streamlines operations and reallocates resources toward AI. Just a day later, YouTube announced an AI-driven reorganization offering voluntary exit packages for U.S. employees, though the company says no current roles are being eliminated. YouTube’s growing subscription business also plays a key role, with a new senior leader set to oversee the unit.\n\nAI’s promise to transform how we work is no longer theoretical; it’s unfolding in real time across major tech companies. The human toll is significant, but the strategic move for professionals now is to become AI-savvy managers of tools, not the ones replaced by them.",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1onnosp",
       "title": "Open Sincera Fetcher on GitHub",
       "author": "mcpapaya",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
       "created_utc": 1764264533.0,
       "content": "Hey all,\n\nI’d love some opinions from the community on where the line really is between *legit multi-size* and *auction duplication* in this kind of setup:\n\n* I have **one in-video display slot** (side of the video).\n* The **layout changes based on the creative size**: e.g. a 300x250 shrinks the video more, a 200x200 shrinks it less, etc. Still only **one ad shown at a time** in that area.\n* In Prebid I can run it as a **multi-size ad unit** (300x250, 200x200, 320x50, etc.).\n* For some SSPs, I currently have **multiple placements (one per size)**, so the same SSP may get multiple bid requests for what is essentially the same visual slot in that moment.\n\nI know the textbook guidance is “one auction per impression per SSP”, but given that the layout and user experience *do* change with size, I’m trying to understand how strict people are about this in practice.\n\n**Questions:**\n\n1. Would you consider “one slot, multiple SSP placements per size, all called for the same impression” a clear case of auction duplication, even if only one ad ultimately renders?\n2. Is the strongly preferred best practice here just **one multi-size placement per SSP**, and then let my own layout logic decide how much the video shrinks based on the winning size?\n3. Has anyone successfully defended a multi-placement setup like this with SSPs, or is it a non-starter from a policy / traffic-quality standpoint?\n\nIf you want to see the kind of layout I’m talking about, here’s an example page. Just play the video in full screen and the viewport will shrink and an ad appears:  \n[https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12](https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12)\n\n**Disclaimer:** This post was drafted with the help of AI to describe the setup clearly; the underlying questions and concerns are mine.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p8xj0q",
+      "title": "eCPM: a verdade sobre a qual ninguém fala",
+      "author": "Savings-Ad6188",
+      "score": 1,
+      "url": "/r/admob/comments/1p8k24v/ecpm_the_truth_no_one_talks_about/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p8xj0q/ecpm_a_verdade_sobre_a_qual_ninguém_fala/",
+      "created_utc": 1764343455.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
