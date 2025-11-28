@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1onnosp",
-      "title": "Open Sincera Fetcher on GitHub",
-      "author": "mcpapaya",
-      "score": 22,
-      "url": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1onnosp/open_sincera_fetcher_on_github/",
-      "created_utc": 1762203233.0,
-      "content": "So I just made my first release on GitHub! :-D For now, it's just a simple python script that allows you to use your Open Sincera API Key combined with a list of domains in a .txt file to batch-query the Open Sincera API - all returned data-points get saved into a new CSV for further analysis. Nothing more, nothing less. Just learning and playing around here, trying to provide some value. \n\nPotential Use Cases:\n\n* Analyze URL Lists of your campaigns/accounts for certain quality params received via the Open Sincera API\n* Analyze/Enrich your Allowlists\n\n[https://github.com/guedietz/open-sincera-fetcher](https://github.com/guedietz/open-sincera-fetcher)\n\nHappy to receive feedback, if that's useful! :-)\n\nWhat could be potential ways to enhance the script? What would be a nice feature to you?",
-      "num_comments": 16,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oo4wb6",
       "title": "Discrepancies in viewabilty stats in DSP side and Magnite",
       "author": "Motor_Worldliness559",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p8xj0q/ecpm_a_verdade_sobre_a_qual_ninguém_fala/",
       "created_utc": 1764343455.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p91k6u",
+      "title": "User access",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
+      "created_utc": 1764352951.0,
+      "content": "If I delete a user access in dv360 do I have any effect on related campaigns? What about amazon?\nThansk",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

@@ -1559,6 +1559,21 @@
       "link_flair_text": null,
       "thread_id": "1p8xj0q",
       "thread_path": "1p8xj0q.json"
+    },
+    {
+      "id": "1p91k6u",
+      "title": "User access",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
+      "created_utc": 1764352951.0,
+      "content": "If I delete a user access in dv360 do I have any effect on related campaigns? What about amazon?\nThansk",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1p91k6u",
+      "thread_path": "1p91k6u.json"
     }
   ]
 }
