@@ -1,0 +1,16 @@
+{
+  "id": "1p9wm53",
+  "thread_id": "1p9wm53",
+  "title": "AdCP & ARTF",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1p9wm53/adcp_artf/",
+  "created_utc": 1764442339.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "JimmyTango",
+      "body": "AdCP: MCP based protocol to allow AI Agents to transact\n\nARTF: Protocol framework to allow custom algorithm companies to standardize how container services are build on ad tech. Has nothing to do with AI agents. Don’t ask me why it got the word agent in its name.",
+      "score": 1,
+      "created_utc": 1764442463.0
+    }
+  ]
+}

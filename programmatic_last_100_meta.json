@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oo4wb6",
-      "title": "Discrepancies in viewabilty stats in DSP side and Magnite",
-      "author": "Motor_Worldliness559",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oo4wb6/discrepancies_in_viewabilty_stats_in_dsp_side_and/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo4wb6/discrepancies_in_viewabilty_stats_in_dsp_side_and/",
-      "created_utc": 1762255458.0,
-      "content": " For a programmatic campaign, the campaign has just been signed off and will run on display activity on an curated Deal by magnite.\r\n\r\n\nAlso on  campaign i see a huge discrepancy in viewability between our figures and clients figures on the DSP, how do you handle the situation? What do you suggest?\r\n",
-      "num_comments": 9,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oo7rbb",
       "title": "What is the most effective \"video\" duration for targeting in DV360 that have lead to best results?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764352951.0,
       "content": "If I delete a user access in dv360 do I have any effect on related campaigns? What about amazon?\nThansk",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1p9wm53",
+      "title": "AdCP & ARTF",
+      "author": "travislusk",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1p9wm53/adcp_artf/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1p9wm53/adcp_artf/",
+      "created_utc": 1764442339.0,
+      "content": "To clear up what AdCP does vs ARTF, and who should care about each.\n\n[https://www.adlingo.org/artf-adcp-what-advertisers-need-to-know/](https://www.adlingo.org/artf-adcp-what-advertisers-need-to-know/)",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
