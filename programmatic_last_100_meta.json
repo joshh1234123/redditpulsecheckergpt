@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oo7rbb",
-      "title": "What is the most effective \"video\" duration for targeting in DV360 that have lead to best results?",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oo7rbb/what_is_the_most_effective_video_duration_for/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo7rbb/what_is_the_most_effective_video_duration_for/",
-      "created_utc": 1762264526.0,
-      "content": "What are you selecting/de-selecting for this setting in targeting?\n\nhttps://preview.redd.it/0x42pbv3x8zf1.png?width=668&format=png&auto=webp&s=6b2c30cf4c50726651018bc7c02fc1ec69ad02d8\n\n",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oo8bi3",
       "title": "No minimum/free dsp?",
       "author": "No-Investigator-8007",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1p9wm53/adcp_artf/",
       "created_utc": 1764442339.0,
       "content": "To clear up what AdCP does vs ARTF, and who should care about each.\n\n[https://www.adlingo.org/artf-adcp-what-advertisers-need-to-know/](https://www.adlingo.org/artf-adcp-what-advertisers-need-to-know/)",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pa4q2r",
+      "title": "Amazon DSP Performance+ Remarketing",
+      "author": "SinFaPersonal",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
+      "created_utc": 1764463554.0,
+      "content": "Hi Reddit!\n\nGot a questions about signals/data used for Performance+ line items, specifically remarketing.\n\nDoes the algo optimize solely based on data from other line items in the same campaign or product, or does it also take organic traffic signals/data for that product?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

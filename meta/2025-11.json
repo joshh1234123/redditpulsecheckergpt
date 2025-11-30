@@ -1589,6 +1589,21 @@
       "link_flair_text": null,
       "thread_id": "1p9wm53",
       "thread_path": "1p9wm53.json"
+    },
+    {
+      "id": "1pa4q2r",
+      "title": "Amazon DSP Performance+ Remarketing",
+      "author": "SinFaPersonal",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
+      "created_utc": 1764463554.0,
+      "content": "Hi Reddit!\n\nGot a questions about signals/data used for Performance+ line items, specifically remarketing.\n\nDoes the algo optimize solely based on data from other line items in the same campaign or product, or does it also take organic traffic signals/data for that product?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pa4q2r",
+      "thread_path": "1pa4q2r.json"
     }
   ]
 }
