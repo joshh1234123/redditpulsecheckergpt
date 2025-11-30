@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oo8bi3",
-      "title": "No minimum/free dsp?",
-      "author": "No-Investigator-8007",
-      "score": 5,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oo8bi3/no_minimumfree_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oo8bi3/no_minimumfree_dsp/",
-      "created_utc": 1762265875.0,
-      "content": "I do some freelance work and have a client who's looking to run programmatic ads but I'm trying to find a platform that has no spend minimums or is free? Budget is small but the wanna get some ads out there!",
-      "num_comments": 19,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oosl61",
       "title": "Cross reach: how to set it",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764463554.0,
       "content": "Hi Reddit!\n\nGot a questions about signals/data used for Performance+ line items, specifically remarketing.\n\nDoes the algo optimize solely based on data from other line items in the same campaign or product, or does it also take organic traffic signals/data for that product?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pajozx",
+      "title": "Amazon DSP - Online Video VS Streaming TV?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pajozx/amazon_dsp_online_video_vs_streaming_tv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pajozx/amazon_dsp_online_video_vs_streaming_tv/",
+      "created_utc": 1764513220.0,
+      "content": "I am still new to Amazon DSP, so far only run Streaming TV.\n\n  \nCurious anyone found Amazon Online Video better than doing YouTube Ads? \n\n  \nLike can you reach more people with a lower CPM vs running a YouTube ad using DV360?\n\n  \nWould like to hear your overall experience with Online Video campaign vs Streaming TV.\n\n  \n",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
