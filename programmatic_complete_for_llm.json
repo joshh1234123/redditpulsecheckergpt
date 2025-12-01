@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-01T18:23:03.767454+00:00",
-    "total_posts": 1082,
+    "scrape_date": "2025-12-01T18:55:18.748480+00:00",
+    "total_posts": 1083,
     "total_comments": 9298
   },
   "discussions": [
@@ -71868,6 +71868,20 @@
           "created_utc": 1764593984.0
         }
       ]
+    },
+    {
+      "id": "1pbky9k",
+      "title": "Ad Scanners were too expensive so I built my own",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "https://i.redd.it/7q91h2cwzm4g1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pbky9k/ad_scanners_were_too_expensive_so_i_built_my_own/",
+      "created_utc": 1764614478.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
