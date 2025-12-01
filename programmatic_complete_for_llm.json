@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-01T12:29:52.653517+00:00",
-    "total_posts": 1081,
-    "total_comments": 9297
+    "scrape_date": "2025-12-01T13:12:08.291261+00:00",
+    "total_posts": 1082,
+    "total_comments": 9298
   },
   "discussions": [
     {
@@ -71847,6 +71847,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pbbkld",
+      "title": "Is programmatic the next right career option for me?",
+      "author": "GayaIRL",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pbbkld/is_programmatic_the_next_right_career_option_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pbbkld/is_programmatic_the_next_right_career_option_for/",
+      "created_utc": 1764592339.0,
+      "content": "Hey chat! I have around 3 years work experience on content strategy and social media. I was on purely organic side and I feel like I've hit my ceiling in this part of digital marketing. I'm on a break right now (it's been around 5 months now) and researching on which speciality would be best for me to concentrate, that'd result in my career longevity and area to grow more. I've been looking into programmatic analyst role recently and I believe it feels interesting and challenging in a good way. I person who feels comfortable working with data and numbers. But the problem is I'm not quite sure where to begin. I've been looking for trainee or junior analyst roles on LinkedIn, but the job opportunities is non existent, only mid-level or senior level roles are available. Is there any openings for junior roles in your company or in your network available? Also, to get hired, should I do a certified course? Any lead would be super valuable to me. Thanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "RHThree",
+          "body": "Hey there! First off it’s great to see you thinking about your next move thoughtfully, especially when it might involve programmatic which can take you in a myriad of directions. Programmatic roles are special as you can find them in nearly all corners of the ad ecosystem: platforms (Trade Desk/Google/Amazon/etc), Publishers (CNN/WashingtonPost/Weather Channel/PGA/etc), Agencies (Big/Medium/Indy) and even client direct.\nIn my experience if you’re looking to get started in Programmatic the quickest (and sometimes most demanding) would be to search for small or Indy (independent I.e not part of a Holding Company like WPP) agencies that are geographically near you or hiring remotely for key terms like:trader, programmatic, media buyer, ad operations, or deal lead.\nFinally to answer your question about certifications and knowledge, if your looking to get an entry level position then being able to differentiate yourself from another candidate with a certification might be a good idea but I wouldn’t bend over backwards or pay any unreasonable amount of money to acquire one. There are plenty of free ones through Google’s Ads Academy and I believe Trade Desk might have something similar(??).\nWhen it’s all said and done Programmatic roles aren’t just about numbers and data, they’re about understanding the tech that powers the ad ecosystem and being able to articulate it to a client or a sales person clearly. It’s about being able to identify key trends in performance data and optimizing towards or away from those signals. Ideating with Media Planners or clients on where their $ would go the furthest to maximize their goals such as Unique Reach, Viewability, Performance Goals, etc.",
+          "score": 1,
+          "created_utc": 1764593984.0
+        }
+      ]
     }
   ]
 }
