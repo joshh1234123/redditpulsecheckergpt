@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-01T11:37:31.848350+00:00",
-    "total_posts": 1080,
+    "scrape_date": "2025-12-01T12:29:52.653517+00:00",
+    "total_posts": 1081,
     "total_comments": 9297
   },
   "discussions": [
@@ -71829,6 +71829,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pajozx/amazon_dsp_online_video_vs_streaming_tv/",
       "created_utc": 1764513220.0,
       "content": "I am still new to Amazon DSP, so far only run Streaming TV.\n\n  \nCurious anyone found Amazon Online Video better than doing YouTube Ads? \n\n  \nLike can you reach more people with a lower CPM vs running a YouTube ad using DV360?\n\n  \nWould like to hear your overall experience with Online Video campaign vs Streaming TV.\n\n  \n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pbani4",
+      "title": "What would you like to see in a monthly newsletter for publishers?",
+      "author": "Worth_Mongoose_5205",
+      "score": 1,
+      "url": "/r/adops/comments/1pbamvq/what_would_you_like_to_see_in_a_monthly/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pbani4/what_would_you_like_to_see_in_a_monthly/",
+      "created_utc": 1764589408.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
