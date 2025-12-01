@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-01T19:16:26.273775+00:00",
-    "total_posts": 1083,
+    "scrape_date": "2025-12-01T19:39:36.418459+00:00",
+    "total_posts": 1084,
     "total_comments": 9298
   },
   "discussions": [
@@ -71878,6 +71878,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pbky9k/ad_scanners_were_too_expensive_so_i_built_my_own/",
       "created_utc": 1764614478.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pbm3q1",
+      "title": "The Trade Desk  - \"System Auto For Win Rate Exclusion optimization list was dissociated from the ad group.\" error",
+      "author": "enuqie",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pbm3q1/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pbm3q1/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "created_utc": 1764616972.0,
+      "content": "Hello all,\n\nRecently, I got this update on Activity logs of my Trade Desk campaign, and since then, my delivery has stopped. Has anyone seen this before?\n\n\"System Auto For Win Rate Exclusion optimization list was dissociated from the ad group.\"",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
