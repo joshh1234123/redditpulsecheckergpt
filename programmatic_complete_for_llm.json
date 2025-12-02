@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-02T18:22:22.276475+00:00",
-    "total_posts": 1087,
-    "total_comments": 9299
+    "scrape_date": "2025-12-02T18:54:01.393995+00:00",
+    "total_posts": 1088,
+    "total_comments": 9300
   },
   "discussions": [
     {
@@ -71945,6 +71945,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pcgiyy",
+      "title": "Targeting options in Amazon DSP for financial advertiser?",
+      "author": "Beginning_Paint1479",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pcgiyy/targeting_options_in_amazon_dsp_for_financial/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pcgiyy/targeting_options_in_amazon_dsp_for_financial/",
+      "created_utc": 1764700682.0,
+      "content": "Does anyone have experience with targeting financial segments in Amazon? Is 3rd party data a decent option?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Use yahoo dsp and get all their financial data from 100m people that go to that site each month",
+          "score": 1,
+          "created_utc": 1764701050.0
+        }
+      ]
     }
   ]
 }

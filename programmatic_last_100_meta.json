@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oq1pld",
-      "title": "TTD x DV360 x ADSP: Which gets you best results?",
-      "author": "Affectionate_Star559",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oq1pld/ttd_x_dv360_x_adsp_which_gets_you_best_results/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq1pld/ttd_x_dv360_x_adsp_which_gets_you_best_results/",
-      "created_utc": 1762442450.0,
-      "content": "After reading this (obv biased) article [https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive](https://matthewatsycamore.substack.com/p/understanding-the-trade-desks-competitive)  \nI'm curious to hear from TTD buyers: Do you really see better results, than if you'd run the same campaigns on DV360 or ADSP? Or you just use TTD, coz your HoldCo wants you to? No judging, just curious if their value is as they claim it is vs. the other 2, that represent sell-side and their own inventory too. TIA\n\nEDIT: To clarify, I'm thinking of \"open internet\" inventory (display, video), that is accessable to all players and where TTD claims to be superior in term sof output. Also comparison makes only sense based on the same audiences, so let's say based on simple 1P retargeting data the advertiser brings to the table. Anyone ever compared those platform head to head in such or similar scenarios?",
-      "num_comments": 10,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oq2hl9",
       "title": "Alternative to Basis",
       "author": "Glass-Independent-51",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764688460.0,
       "content": "On CTV media partners that offer inventory across different streaming platforms, The Roku Channel seems to ALWAYS show up at the very very top in avails and delivery on my campaigns. And my audience targeting is super broad. Does America really watch content on The Roku Channel THAT much? Part of me is telling me this can't be real...",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pcgiyy",
+      "title": "Targeting options in Amazon DSP for financial advertiser?",
+      "author": "Beginning_Paint1479",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pcgiyy/targeting_options_in_amazon_dsp_for_financial/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pcgiyy/targeting_options_in_amazon_dsp_for_financial/",
+      "created_utc": 1764700682.0,
+      "content": "Does anyone have experience with targeting financial segments in Amazon? Is 3rd party data a decent option?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
