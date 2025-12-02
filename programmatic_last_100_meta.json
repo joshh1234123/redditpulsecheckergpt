@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oq1gag",
-      "title": "Last year, Sam Altman: “Ads are unsettling.” This year, SA: “Well, actually… Instagram ads are kinda nice. Also, we’re doing ecommerce. Maybe travel too.”\nNext year, SA: “Okay, fine, we’re running ads in ChatGPT.”",
-      "author": "u_of_digital",
-      "score": 6,
-      "url": "https://www.reddit.com/gallery/1oq1gag",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq1gag/last_year_sam_altman_ads_are_unsettling_this_year/",
-      "created_utc": 1762441854.0,
-      "content": "He went from “ads with AI are uniquely disturbing” → to “some ads are actually cool if they’re tasteful” → to “we’re exploring affiliate commerce models and maybe booking hotels through ChatGPT.”\n\nNo shade, I get why. Trust + UX is clearly his obsession. He really doesn’t want ChatGPT recommending a worse hotel just because someone paid for placement.\n\nBut once you’re recommending products, taking a cut, and embedding transactions…  \n  \nYou’re basically one step away from ads at that point.\n\nSo:  \nWhat’s the ideal, non-gross AI-native ad format for ChatGPT?\n\nContextual? Non-skippable interstitial? display insertions, a la Google Shopping Ads?  ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oq1pld",
       "title": "TTD x DV360 x ADSP: Which gets you best results?",
       "author": "Affectionate_Star559",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764680435.0,
       "content": "If you wanted to target specific URLs, is there a tool that can be used to see what available sites/URLs you can select?\n\nSeems like I can add a random URL but would be helpful to know which sites are accepting bids from DV360.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pcazfp",
+      "title": "How many people REALLY watch the Roku channel?",
+      "author": "MediaDoofus1234",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pcazfp/how_many_people_really_watch_the_roku_channel/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pcazfp/how_many_people_really_watch_the_roku_channel/",
+      "created_utc": 1764688460.0,
+      "content": "On CTV media partners that offer inventory across different streaming platforms, The Roku Channel seems to ALWAYS show up at the very very top in avails and delivery on my campaigns. And my audience targeting is super broad. Does America really watch content on The Roku Channel THAT much? Part of me is telling me this can't be real...",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

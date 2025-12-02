@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-02T14:46:59.697536+00:00",
-    "total_posts": 1086,
+    "scrape_date": "2025-12-02T15:16:07.847524+00:00",
+    "total_posts": 1087,
     "total_comments": 9299
   },
   "discussions": [
@@ -71931,6 +71931,20 @@
           "created_utc": 1764680990.0
         }
       ]
+    },
+    {
+      "id": "1pcazfp",
+      "title": "How many people REALLY watch the Roku channel?",
+      "author": "MediaDoofus1234",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pcazfp/how_many_people_really_watch_the_roku_channel/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pcazfp/how_many_people_really_watch_the_roku_channel/",
+      "created_utc": 1764688460.0,
+      "content": "On CTV media partners that offer inventory across different streaming platforms, The Roku Channel seems to ALWAYS show up at the very very top in avails and delivery on my campaigns. And my audience targeting is super broad. Does America really watch content on The Roku Channel THAT much? Part of me is telling me this can't be real...",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
