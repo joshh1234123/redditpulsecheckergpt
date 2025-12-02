@@ -74,6 +74,21 @@
       "link_flair_text": null,
       "thread_id": "1pbqw0h",
       "thread_path": "1pbqw0h.json"
+    },
+    {
+      "id": "1pc7tas",
+      "title": "APPS & URLS - Targeting in DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "created_utc": 1764680435.0,
+      "content": "If you wanted to target specific URLs, is there a tool that can be used to see what available sites/URLs you can select?\n\nSeems like I can add a random URL but would be helpful to know which sites are accepting bids from DV360.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pc7tas",
+      "thread_path": "1pc7tas.json"
     }
   ]
 }

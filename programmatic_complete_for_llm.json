@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-02T12:30:12.114770+00:00",
-    "total_posts": 1085,
-    "total_comments": 9298
+    "scrape_date": "2025-12-02T13:12:21.063336+00:00",
+    "total_posts": 1086,
+    "total_comments": 9299
   },
   "discussions": [
     {
@@ -71910,6 +71910,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pc7tas",
+      "title": "APPS & URLS - Targeting in DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "created_utc": 1764680435.0,
+      "content": "If you wanted to target specific URLs, is there a tool that can be used to see what available sites/URLs you can select?\n\nSeems like I can add a random URL but would be helpful to know which sites are accepting bids from DV360.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Shakthikanth_01_08",
+          "body": "I can help you in the above one if you are ok to use quantcast dsp",
+          "score": 1,
+          "created_utc": 1764680990.0
+        }
+      ]
     }
   ]
 }

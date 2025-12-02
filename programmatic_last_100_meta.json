@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1opv081",
-      "title": "Gambling - Fill Rate",
-      "author": "Feisty-Assumption622",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1opv081/gambling_fill_rate/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1opv081/gambling_fill_rate/",
-      "created_utc": 1762423410.0,
-      "content": "Hi all, I hope this post is okay. I have worked in engineering for 5 or so years building ad servers and other ad tech related products. I have recently found myself in a company that has 0 understanding of programmatic and only do direct deals for their gambling affiliated display content. As part of my new remit they want me to prove the value of programmatic by capitalising on around 270 million unfilled impressions worldwide. \n\nI have been able to set up an ad server / SSP (GAM), implemented some fairly standard ad sizes, mobile banner, top leaderboard, MPU's etc and have also implemented some KVP's for ATF/BTF and ad placement. However the fill rate currently is still very low around 5% with a £0.90 floor price. As I have never really worked in optimising delivery, I am asking if anyone has some helpful advice that could aid in filling the inventory space more consistently (was hoping for 50-60%)? I have a vague understanding of yield groups and could potentially look at utilising other SSP's to open up to more advertising traffic. Any and all advice would be greatly appreciated for a newbie in this space!",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oq1gag",
       "title": "Last year, Sam Altman: “Ads are unsettling.” This year, SA: “Well, actually… Instagram ads are kinda nice. Also, we’re doing ecommerce. Maybe travel too.”\nNext year, SA: “Okay, fine, we’re running ads in ChatGPT.”",
       "author": "u_of_digital",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764627884.0,
       "content": "Hi all does anyone know how this ACTUALLY works and how you only pay based on a conversion? I just think it’s a lot of fluff so need to know the real real on this solution before I spend with them. Thx.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pc7tas",
+      "title": "APPS & URLS - Targeting in DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pc7tas/apps_urls_targeting_in_dv360/",
+      "created_utc": 1764680435.0,
+      "content": "If you wanted to target specific URLs, is there a tool that can be used to see what available sites/URLs you can select?\n\nSeems like I can add a random URL but would be helpful to know which sites are accepting bids from DV360.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
