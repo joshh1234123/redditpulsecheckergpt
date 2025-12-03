@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-03T22:14:51.341775+00:00",
-    "total_posts": 1090,
+    "scrape_date": "2025-12-03T22:42:09.214637+00:00",
+    "total_posts": 1091,
     "total_comments": 9301
   },
   "discussions": [
@@ -71997,6 +71997,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pd9zm1/youtube_audio_reservation_vs_auction/",
       "created_utc": 1764781756.0,
       "content": "Is there a way to reserve YouTube Audio inventory in Google Ads instead of buying in the open auction? If not, is there a way to do this in DV360?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pdiqd6",
+      "title": "StackAdapt log files",
+      "author": "LeopardMotor5069",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pdiqd6/stackadapt_log_files/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pdiqd6/stackadapt_log_files/",
+      "created_utc": 1764801201.0,
+      "content": "Does anyone know what kind of log data StackAdapt provides?  Media cost, data cost, total cost? Or just total cost?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
