@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oq2hl9",
-      "title": "Alternative to Basis",
-      "author": "Glass-Independent-51",
-      "score": 11,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq2hl9/alternative_to_basis/",
-      "created_utc": 1762444223.0,
-      "content": "This is probably the wrong question to ask in this group, since everyone seems to be pretty passionate about their platforms, but which platform would be a better alternative to Basis for 2026?\n\nI like most of their exchanges and their private marketplace deals are great, and its fairly easy for me and my team to use.  However, their APIs are having a lot of issues with 3rd party integrations, which creates a nightmare for us and our clients, and their account management is getting pretty poor.\n\nI am planning to make a decision for 2026 in the next few weeks!\n\n  \n\\*edit\\* We also use Amazon DSP, and aren't planning on changing that, but we really want an alternative just for our Basis clients.",
-      "num_comments": 24,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oq9us4",
       "title": "Is Meta in “last days, extract everything” mode? Or do they just know some users will always click?",
       "author": "u_of_digital",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pcgiyy/targeting_options_in_amazon_dsp_for_financial/",
       "created_utc": 1764700682.0,
       "content": "Does anyone have experience with targeting financial segments in Amazon? Is 3rd party data a decent option?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pcq8n9",
+      "title": "Every now and then I ask myself",
+      "author": "miniprogrammatic",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pcq8n9/every_now_and_then_i_ask_myself/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pcq8n9/every_now_and_then_i_ask_myself/",
+      "created_utc": 1764723637.0,
+      "content": "How could the clicks from DV360 max click bid possibly be real..who are clicking hundred of thousands of times from the solitaire app? \nHow could the “conversion” (on-site engagement type of conversions like pdf download, click to apply, outbound link clicks, video start) from dv360 max conversion bid possibly be real? \nI know they’re fake 😩and I know you know too..",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
