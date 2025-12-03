@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oq9us4",
-      "title": "Is Meta in “last days, extract everything” mode? Or do they just know some users will always click?",
-      "author": "u_of_digital",
-      "score": 4,
-      "url": "https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oq9us4/is_meta_in_last_days_extract_everything_mode_or/",
-      "created_utc": 1762460651.0,
-      "content": "",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oqamb5",
       "title": "What you think of Hatch's “Goodnight, Phone” ad?",
       "author": "tvScientific",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764723637.0,
       "content": "How could the clicks from DV360 max click bid possibly be real..who are clicking hundred of thousands of times from the solitaire app? \nHow could the “conversion” (on-site engagement type of conversions like pdf download, click to apply, outbound link clicks, video start) from dv360 max conversion bid possibly be real? \nI know they’re fake 😩and I know you know too..",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pd9zm1",
+      "title": "YouTube Audio Reservation vs. Auction",
+      "author": "angeleren",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pd9zm1/youtube_audio_reservation_vs_auction/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pd9zm1/youtube_audio_reservation_vs_auction/",
+      "created_utc": 1764781756.0,
+      "content": "Is there a way to reserve YouTube Audio inventory in Google Ads instead of buying in the open auction? If not, is there a way to do this in DV360?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
