@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-04T07:39:46.791649+00:00",
-    "total_posts": 1091,
+    "scrape_date": "2025-12-04T08:20:53.369929+00:00",
+    "total_posts": 1092,
     "total_comments": 9301
   },
   "discussions": [
@@ -72011,6 +72011,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pdiqd6/stackadapt_log_files/",
       "created_utc": 1764801201.0,
       "content": "Does anyone know what kind of log data StackAdapt provides?  Media cost, data cost, total cost? Or just total cost?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pdukri",
+      "title": "Interview process/experience with The Trade Desk",
+      "author": "trashbirb_pigeons",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pdukri/interview_processexperience_with_the_trade_desk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pdukri/interview_processexperience_with_the_trade_desk/",
+      "created_utc": 1764835985.0,
+      "content": "I’m beginning the interview process with TTD for a Programmatic Trading Specialist role and wanted to know what to expect! I’m meeting with the recruiter this Friday and wanted clarity on what I should do to prepare for this/questions that were asked during this stage. Any help is appreciated!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
