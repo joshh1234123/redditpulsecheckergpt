@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oqd0dm",
-      "title": "DV360 Bid Strategy Advice",
-      "author": "BlogsDogsClogsBih",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oqd0dm/dv360_bid_strategy_advice/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oqd0dm/dv360_bid_strategy_advice/",
-      "created_utc": 1762467982.0,
-      "content": "We're running evergreen upper funnel campaigns as well as retargeting campaigns via DV360 and are having some issues with many line items delivering. When looking at the troubleshooter, it looks like nearly all of our bid responses are  either bidding below the floor (even though we're running on open exchange?), losing the internal auction or losing the external auction. \n\n\n\nWe don't have set CPM goals and can afford to bid higher if that will help, but we're using DV360s automated bidding optimizer that decides where and how much to bid. I'm not sure if running a fixed bid would be beneficial as we'd like a more dynamic bid tailored to performance. What's also frustrating though is we're not winning the best inventory. For pre-roll video our avg. CPM is less than $3 when previously we've typically seen pre-roll CPMs closer to $10-$15. So we're losing bids, and the ones we are winning are not great inventory.\n\n  \nHas anyone run in to a similar issue in DV360 and found something that works for you? Is fixed bid the only way to go? If so, how much do you usually bid? DV360 used to have a bid multiplier but it looks like it no longer has that feature.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oqs4og",
       "title": "Need help with DV 360 study material for an interview scheduled next week.",
       "author": "bookmarktheif",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pdukri/interview_processexperience_with_the_trade_desk/",
       "created_utc": 1764835985.0,
       "content": "I’m beginning the interview process with TTD for a Programmatic Trading Specialist role and wanted to know what to expect! I’m meeting with the recruiter this Friday and wanted clarity on what I should do to prepare for this/questions that were asked during this stage. Any help is appreciated!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pdzhdu",
+      "title": "Review on Anymind Group",
+      "author": "YogurtclosetSmart650",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pdzhdu/review_on_anymind_group/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pdzhdu/review_on_anymind_group/",
+      "created_utc": 1764853465.0,
+      "content": "Hey everyone, I wanted some reviews on Anymind Group. Have anyone worked with them? If yes, how are they? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
