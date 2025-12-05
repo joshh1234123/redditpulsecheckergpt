@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oqx2ci",
-      "title": "Adding All Users GA4 audience to DV360",
-      "author": "Mission_Spray2896",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oqx2ci/adding_all_users_ga4_audience_to_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oqx2ci/adding_all_users_ga4_audience_to_dv360/",
-      "created_utc": 1762528557.0,
-      "content": "I’m currently struggling to add the default all users audience from GA4 into DV360. I have connected the GA4 property and DV360 advertiser (audience sharing turned on) and can see other GA4 audiences pulling through. I have tried disconnecting and reconnecting but no change. \n\nIs there a particular setting in either platform that could be preventing the all users audience from displaying or anything I should be aware of that would prevent this?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1or5lwl",
       "title": "Geo-Fence and Radius Precision",
       "author": "Accomplished_Echo376",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pey0c9/anyone_using_samsung_dsp/",
       "created_utc": 1764948601.0,
       "content": "Is there any value of that VS DV360 or Amazon Ads for TV?\n\nAny first hand experience with Samsung DSP?\n\n  \nThanks..",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1peyjrk",
+      "title": "How is Vistar Media?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1peyjrk/how_is_vistar_media/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1peyjrk/how_is_vistar_media/",
+      "created_utc": 1764949879.0,
+      "content": "Anyone using their tool currently? Is it way better to use for DOOH than trying to do it via DV360.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
