@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-05T11:37:05.558022+00:00",
-    "total_posts": 1093,
-    "total_comments": 9301
+    "scrape_date": "2025-12-05T12:28:57.926495+00:00",
+    "total_posts": 1094,
+    "total_comments": 9303
   },
   "discussions": [
     {
@@ -72043,6 +72043,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pesyoh",
+      "title": "APS.Amazon - SSPs here reseller or direct?",
+      "author": "TinasOwner23",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "created_utc": 1764935028.0,
+      "content": "Looking at publishers ads.txt lines, I see that some pubs list the SSPs under Amazon (aps.amazon.com) as all Reseller, whilst others list them all as Direct.\n\n  \nWhat's the correct practice here?\n\n",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "slippycrook",
+          "body": "Those seats are owned by Amazon who in this case is an intermediary  so reseller is to proper practice \n\nBut, by setting this to direct one might “trick” buyers that set spo or direct only settings in dsp’s to buy.\n\nAs always, the correct practice is not necessarily the most lucrative one for short term revenue at least.",
+          "score": 5,
+          "created_utc": 1764936118.0
+        },
+        {
+          "author": "jp182",
+          "body": "Right! As a buyer I block any source that I find that is tricking the system by setting Amazon as direct.",
+          "score": 2,
+          "created_utc": 1764937175.0
+        }
+      ]
     }
   ]
 }

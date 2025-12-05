@@ -194,6 +194,21 @@
       "link_flair_text": null,
       "thread_id": "1pdzhdu",
       "thread_path": "1pdzhdu.json"
+    },
+    {
+      "id": "1pesyoh",
+      "title": "APS.Amazon - SSPs here reseller or direct?",
+      "author": "TinasOwner23",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "created_utc": 1764935028.0,
+      "content": "Looking at publishers ads.txt lines, I see that some pubs list the SSPs under Amazon (aps.amazon.com) as all Reseller, whilst others list them all as Direct.\n\n  \nWhat's the correct practice here?\n\n",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pesyoh",
+      "thread_path": "1pesyoh.json"
     }
   ]
 }

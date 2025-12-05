@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1oqs4og",
-      "title": "Need help with DV 360 study material for an interview scheduled next week.",
-      "author": "bookmarktheif",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1oqs4og/need_help_with_dv_360_study_material_for_an/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1oqs4og/need_help_with_dv_360_study_material_for_an/",
-      "created_utc": 1762515548.0,
-      "content": "Hey everyone\n\nI could really use some help... I have an interview scheduled next week that requires knowledge of DV360, but I am currently experienced only in publisher side campaign management. I currently don’t have the budget to buy any paid courses or materials... Things are a bit tight right now, so I’m trying to make the best use of free resources... I tried searching for it on YouTube but there is very minimal knowledge available there on the tool.\n\nIf anyone here has any DV360 study material, notes, or personal summaries that you’ve created and can share, I’d be really, really grateful... It would mean a lot and help me prepare better for this opportunity...\n\nThanks in advance to anyone who can help...\n\n",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oqs6fj",
       "title": "Looking to connect with brands or agencies for direct programmatic deals",
       "author": "MrBilal34",
@@ -1302,6 +1289,19 @@
       "created_utc": 1764853465.0,
       "content": "Hey everyone, I wanted some reviews on Anymind Group. Have anyone worked with them? If yes, how are they? ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pesyoh",
+      "title": "APS.Amazon - SSPs here reseller or direct?",
+      "author": "TinasOwner23",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
+      "created_utc": 1764935028.0,
+      "content": "Looking at publishers ads.txt lines, I see that some pubs list the SSPs under Amazon (aps.amazon.com) as all Reseller, whilst others list them all as Direct.\n\n  \nWhat's the correct practice here?\n\n",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
