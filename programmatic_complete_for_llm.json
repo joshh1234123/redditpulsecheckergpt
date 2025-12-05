@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-05T15:15:20.967828+00:00",
-    "total_posts": 1095,
+    "scrape_date": "2025-12-05T15:42:55.557581+00:00",
+    "total_posts": 1096,
     "total_comments": 9303
   },
   "discussions": [
@@ -72080,6 +72080,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pexcfo/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1764947009.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* Omnicom completed $13.5B acquisition of IPG, creating world's largest ad agency and immediately announcing 4,000 layoffs\n* Paramount sweetened its Warner Bros. Discovery bid with Saudi backing, while Comcast and Netflix also pursue the $70B deal\n* OpenAI paused plans to introduce advertising into ChatGPT to focus on product improvements and competition from Google\n* Teads cutting less than 10% of workforce following Outbrain merger as stock declined 90% this year\n* WPP dropped from London's FTSE 100 after nearly 30 years as market value collapsed from £24B to £3.1B\n* The Trade Desk lost longtime engineering lead Jud Spencer, marking latest in wave of executive exits\n* IAB Tech Lab launching Programmatic Governance Council to address bid duplication and transparency issues\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-1252025)\n\nAnyone hear about any other companies going through layoffs? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pey0c9",
+      "title": "Anyone using Samsung DSP?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pey0c9/anyone_using_samsung_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pey0c9/anyone_using_samsung_dsp/",
+      "created_utc": 1764948601.0,
+      "content": "Is there any value of that VS DV360 or Amazon Ads for TV?\n\nAny first hand experience with Samsung DSP?\n\n  \nThanks..",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
