@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-05T17:13:38.866766+00:00",
-    "total_posts": 1097,
-    "total_comments": 9303
+    "scrape_date": "2025-12-05T17:40:32.538627+00:00",
+    "total_posts": 1098,
+    "total_comments": 9304
   },
   "discussions": [
     {
@@ -72112,6 +72112,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pf13vy",
+      "title": "Programmatic advertising is unexplored in my country",
+      "author": "PresidenteDiversion",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pf13vy/programmatic_advertising_is_unexplored_in_my/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pf13vy/programmatic_advertising_is_unexplored_in_my/",
+      "created_utc": 1764955678.0,
+      "content": "Normally, agencies just buy programmatic ads in here to steal from clients, but I want to innovate with actual ad delivery. I have two main objectives:\n\n  \n1.- I need to make sure programmatic ads increase ROI for my beer brands, but CTV and Display are really expensive. Right now, CTV is a proven great window for increasing memorability, but we are underspending. \n\n2.- Develop Ad Tech for Performance Marketing (completely unexplored in here)\n\nAssume I am a complete junior. Could you help me build a learning route to reach my objectives? There is so much potential in this market",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "What country, what budget, what dsp? Also how is display expensive?",
+          "score": 1,
+          "created_utc": 1764956047.0
+        }
+      ]
     }
   ]
 }
