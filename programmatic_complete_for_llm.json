@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-05T18:48:17.286829+00:00",
-    "total_posts": 1098,
+    "scrape_date": "2025-12-05T19:11:34.109654+00:00",
+    "total_posts": 1099,
     "total_comments": 9304
   },
   "discussions": [
@@ -72133,6 +72133,20 @@
           "created_utc": 1764956047.0
         }
       ]
+    },
+    {
+      "id": "1pf393f",
+      "title": "Anyone know anyone on the JPM In-house team? Super interested in one of their roles",
+      "author": "lurkerprofile26",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pf393f/anyone_know_anyone_on_the_jpm_inhouse_team_super/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pf393f/anyone_know_anyone_on_the_jpm_inhouse_team_super/",
+      "created_utc": 1764960605.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
