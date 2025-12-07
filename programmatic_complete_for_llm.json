@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-07T07:13:25.617780+00:00",
-    "total_posts": 1099,
-    "total_comments": 9304
+    "scrape_date": "2025-12-07T07:35:06.440557+00:00",
+    "total_posts": 1100,
+    "total_comments": 9307
   },
   "discussions": [
     {
@@ -72147,6 +72147,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pgc9bm",
+      "title": "Open Auction Demand For CTV",
+      "author": "Voyager0719",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pgc9bm/open_auction_demand_for_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pgc9bm/open_auction_demand_for_ctv/",
+      "created_utc": 1765091783.0,
+      "content": "Hello,\n\nWe are 6 months old in the CTV business where we procure digital space from direct CTV publishers which can be from Roku, Samsung, LG, Android et cetera with SSAI integration. \n\nWe have been trying to get a demand partner who operates in Open Auction but we always stumble upon Google. \n\nThey have been giving the best fill rates and CPM but also comes back after couple of months stating everything is IVT. 😵‍💫\n\nMy question,\n1. Are there any real open auction players left apart from Google?\n2. Why Google operates in such black box?🗃️ \n3. How are people currently monetising CTV in open auction?\n\nBottom line - What can I do to grow my business on CTV side?\n\nTIA. ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "doogsieman",
+          "body": "Dm me. May be Pubmatic can help. We operate in open market",
+          "score": 2,
+          "created_utc": 1765091913.0
+        },
+        {
+          "author": "QuesoOverEverything",
+          "body": "Very few knowledgeable buyers will activate open market CTV. It’s honestly not worth it. PubMatic and Index maybe worth talking to.",
+          "score": 1,
+          "created_utc": 1765092610.0
+        },
+        {
+          "author": "trenhard",
+          "body": "Because open market has very high fraud rates and its not surprising Google flagged as IVT.",
+          "score": 1,
+          "created_utc": 1765092786.0
+        }
+      ]
     }
   ]
 }
