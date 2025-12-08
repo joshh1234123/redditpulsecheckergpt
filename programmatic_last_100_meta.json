@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1osspc5",
-      "title": "Frequency cap cross deal",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1osspc5/frequency_cap_cross_deal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1osspc5/frequency_cap_cross_deal/",
-      "created_utc": 1762717461.0,
-      "content": "\nIf I want to miximize reach, capping is it working just on cross pmp or also if i apply it to a pmp and pg? Google account is telling me that if i set cap on ctv preroll + neflix pg I’ll be able to macimize reach even because capping is appied also if limited due to pg… it doesn’t sound 100%correct…",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1otc84i",
       "title": "How do you select a contextual data provider?",
       "author": "MX-2000",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ph9tv6/struggling_with_2_fill_rate_on_ortb_nativebanner/",
       "created_utc": 1765192439.0,
       "content": "Hi everyone,\n\nI work for a Media tech company (similar model to Taboola). Apps integrate our API, and we monetize that specific inventory via oRTB connections with partner ad networks on a revenue-share basis.\n\n**The Context:**\n\n* **Traffic:** Currently 1M daily impressions in Bangladesh. We are about to launch apps with \\~10M daily impressions in the EU and US.\n* **Integration:** oRTB (supporting Native and Banner ads).\n* **Compliance:** We are declared as `INVENTORYPARTNERDOMAIN` in the publisher’s `app-ads.txt`. We have also implemented `RESELLER` lines for our demand partners in the publisher’s file.\n* **Environment:** We own this specific ad unit/feature, but the publishers also monetize other spaces in their apps directly with their own partners.\n\n**The Issue:** Despite setting very low bid floors and integrating networks that promised strong performance in Bangladesh, our **fill rate is stuck at roughly 2%**.\n\nHas anyone experienced similar fill issues with this specific setup or geo? Are there specific `app-ads.txt` configurations or OpenRTB parameters we might be missing that cause demand partners to pass on the bid requests?\n\nAny insights are appreciated!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1phbkhe",
+      "title": "Anyone else seeing gaps in holiday CTV/linear reach or frequency control?",
+      "author": "adsdottxt",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1phbkhe/anyone_else_seeing_gaps_in_holiday_ctvlinear/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1phbkhe/anyone_else_seeing_gaps_in_holiday_ctvlinear/",
+      "created_utc": 1765198175.0,
+      "content": "Has anyone run into challenges this holiday season with cross-screen reach or frequency on CTV + linear?\n\nA few planners I work with have been flagging things like:\n- Hard-to-find audiences needing more sophisticated modeling than simple demo buys\n- CTV getting too pricey in some markets\n- Linear surprisingly still outperforming for efficient reach\n- Frequency capping becoming tricky across publishers\n\nI’ve been experimenting with some cross-screen strategies that seem to be smoothing things out, especially for short holiday windows, but I’m curious whether others are seeing the same thing.\n\nIf anyone’s open to comparing notes or wants to see what’s been working on my end. Curious what everyone else is running into as the season ramps.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

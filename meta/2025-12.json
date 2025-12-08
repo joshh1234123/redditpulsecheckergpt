@@ -329,6 +329,21 @@
       "link_flair_text": null,
       "thread_id": "1ph9tv6",
       "thread_path": "1ph9tv6.json"
+    },
+    {
+      "id": "1phbkhe",
+      "title": "Anyone else seeing gaps in holiday CTV/linear reach or frequency control?",
+      "author": "adsdottxt",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1phbkhe/anyone_else_seeing_gaps_in_holiday_ctvlinear/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1phbkhe/anyone_else_seeing_gaps_in_holiday_ctvlinear/",
+      "created_utc": 1765198175.0,
+      "content": "Has anyone run into challenges this holiday season with cross-screen reach or frequency on CTV + linear?\n\nA few planners I work with have been flagging things like:\n- Hard-to-find audiences needing more sophisticated modeling than simple demo buys\n- CTV getting too pricey in some markets\n- Linear surprisingly still outperforming for efficient reach\n- Frequency capping becoming tricky across publishers\n\nI’ve been experimenting with some cross-screen strategies that seem to be smoothing things out, especially for short holiday windows, but I’m curious whether others are seeing the same thing.\n\nIf anyone’s open to comparing notes or wants to see what’s been working on my end. Curious what everyone else is running into as the season ramps.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1phbkhe",
+      "thread_path": "1phbkhe.json"
     }
   ]
 }
