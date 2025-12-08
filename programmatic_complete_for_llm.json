@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-08T21:12:40.307256+00:00",
-    "total_posts": 1104,
+    "scrape_date": "2025-12-08T21:36:17.243449+00:00",
+    "total_posts": 1105,
     "total_comments": 9307
   },
   "discussions": [
@@ -72232,6 +72232,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pheo9b/who_are_the_best_ssps_exchanges_in_the_current/",
       "created_utc": 1765206309.0,
       "content": "An",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1phote1",
+      "title": "Interview tips where they provide the data set during the interview!",
+      "author": "Practical-Monitor288",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1phote1/interview_tips_where_they_provide_the_data_set/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1phote1/interview_tips_where_they_provide_the_data_set/",
+      "created_utc": 1765229076.0,
+      "content": "I’ve got a final interview where they will provide me with a dataset and some questions to understand my reasoning for answers at the start of the interview. I assume we’ll join back on the call after my time is up and then I present. How can I prepare for an interview like this. In total it will last an hour. \n\nI understand it’s hard to prepare when I don’t know what type of data they’ll provide or what their main KPIs are, also worried there will be other KPIs I don’t use/work with in my current role. \n\nThanks!\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
