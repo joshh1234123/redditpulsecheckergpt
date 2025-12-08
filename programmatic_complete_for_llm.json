@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-08T05:43:54.628712+00:00",
-    "total_posts": 1100,
+    "scrape_date": "2025-12-08T06:24:45.355333+00:00",
+    "total_posts": 1101,
     "total_comments": 9307
   },
   "discussions": [
@@ -72180,6 +72180,20 @@
           "created_utc": 1765092786.0
         }
       ]
+    },
+    {
+      "id": "1ph4osb",
+      "title": "Business Screening Interview process/experience with The Trade Desk",
+      "author": "trashbirb_pigeons",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ph4osb/business_screening_interview_processexperience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ph4osb/business_screening_interview_processexperience/",
+      "created_utc": 1765172881.0,
+      "content": "I’m beginning the interview process with TTD for a Programmatic Trading Specialist role and wanted to know what to expect! I met with the recruiter and passed to move on to the Business Screening interview and wanted clarity on what I should do to prepare for this/questions that were asked during this stage. Any help is appreciated!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
