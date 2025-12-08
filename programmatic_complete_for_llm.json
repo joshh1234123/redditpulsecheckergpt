@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-08T11:13:35.064829+00:00",
-    "total_posts": 1101,
+    "scrape_date": "2025-12-08T11:38:07.588101+00:00",
+    "total_posts": 1102,
     "total_comments": 9307
   },
   "discussions": [
@@ -72190,6 +72190,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ph4osb/business_screening_interview_processexperience/",
       "created_utc": 1765172881.0,
       "content": "I’m beginning the interview process with TTD for a Programmatic Trading Specialist role and wanted to know what to expect! I met with the recruiter and passed to move on to the Business Screening interview and wanted clarity on what I should do to prepare for this/questions that were asked during this stage. Any help is appreciated!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ph9tv6",
+      "title": "Struggling with 2% Fill Rate on oRTB Native/Banner Integration",
+      "author": "gkhachik",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ph9tv6/struggling_with_2_fill_rate_on_ortb_nativebanner/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ph9tv6/struggling_with_2_fill_rate_on_ortb_nativebanner/",
+      "created_utc": 1765192439.0,
+      "content": "Hi everyone,\n\nI work for a Media tech company (similar model to Taboola). Apps integrate our API, and we monetize that specific inventory via oRTB connections with partner ad networks on a revenue-share basis.\n\n**The Context:**\n\n* **Traffic:** Currently 1M daily impressions in Bangladesh. We are about to launch apps with \\~10M daily impressions in the EU and US.\n* **Integration:** oRTB (supporting Native and Banner ads).\n* **Compliance:** We are declared as `INVENTORYPARTNERDOMAIN` in the publisher’s `app-ads.txt`. We have also implemented `RESELLER` lines for our demand partners in the publisher’s file.\n* **Environment:** We own this specific ad unit/feature, but the publishers also monetize other spaces in their apps directly with their own partners.\n\n**The Issue:** Despite setting very low bid floors and integrating networks that promised strong performance in Bangladesh, our **fill rate is stuck at roughly 2%**.\n\nHas anyone experienced similar fill issues with this specific setup or geo? Are there specific `app-ads.txt` configurations or OpenRTB parameters we might be missing that cause demand partners to pass on the bid requests?\n\nAny insights are appreciated!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
