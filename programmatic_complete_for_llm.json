@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-09T09:43:31.001164+00:00",
-    "total_posts": 1106,
+    "scrape_date": "2025-12-09T10:17:08.751536+00:00",
+    "total_posts": 1107,
     "total_comments": 9307
   },
   "discussions": [
@@ -72260,6 +72260,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pht921/how_im_generating_100_seo_landing_pages/",
       "created_utc": 1765240016.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pi3q4n",
+      "title": "I built a free, privacy-focused calculator for Ad Benchmarks & Agency Rates (No signup)",
+      "author": "Soil-Crafty",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pi3q4n/i_built_a_free_privacyfocused_calculator_for_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pi3q4n/i_built_a_free_privacyfocused_calculator_for_ad/",
+      "created_utc": 1765274698.0,
+      "content": "Hey r/programmatic,\n\nI got tired of opening a new Excel sheet every time I needed to check a quick CPM benchmark or calculate a retainer-vs-commission fee structure for a client.\n\nSo, I spent the last few days building a simple web tool to do it instantly in the browser.\n\n**What it does:**\n\n* **Platform Benchmarks:** Compare Google vs. FB vs. LinkedIn costs (based on 2025 avg data).\n* **Agency Pricing:** Calculates the math difference between Flat Retainer and % of Spend models.\n* **Ad Math:** Standard CPM/CPC/CPA calculators.\n* **Influencer Check:** Audits engagement rates to spot fake followers.\n\nIt’s completely free, has no ads (yet), and doesn't ask for your email. Just a simple utility tool I wanted to share with the community.\n\nYou can check it out here:[https://calculateapp.org](https://calculateapp.org)\n\nLet me know if you find any bugs or if there are other calculators you'd like me to add!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
