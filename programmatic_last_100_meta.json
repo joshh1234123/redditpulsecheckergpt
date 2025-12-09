@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1otthoq",
-      "title": "What devices do you block on DV360?",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1otthoq/what_devices_do_you_block_on_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1otthoq/what_devices_do_you_block_on_dv360/",
-      "created_utc": 1762816951.0,
-      "content": "Trying to go after more affluent/mid-high income. I see on reports a lot of Roku, I started blocking those and Vizio. Once I did block those a lot of free tv app views went away.\n\nI was going to try only allowing Apple TV and see what kind of views I could get.\n\nAnyone find out what devices bring in more free app views?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oty7v3",
       "title": "What's wrong with DV360 API in 2025?",
       "author": "skyreaver06",
@@ -1302,6 +1289,19 @@
       "created_utc": 1765302286.0,
       "content": "We use APS to monetize our OLV and display inventory, and I’m trying to figure out whether APS is now working for in-stream CTV as well.\n\nIn the inventory approval section I only see domains, yet several of our CTV partners are showing Amazon entries in their app-ads.txt. On top of that, we’re seeing Amazon bid through a few SSPs in our programmatic setup.\n\nCurious whether anyone here has APS running on CTV, and if so, whether the integration (vast? Prebid?) actually drives material demand. Any real-world experience would help.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pil513",
+      "title": "Non-sales jobs? What next after agency life",
+      "author": "MichaelsMotorcycle",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pil513/nonsales_jobs_what_next_after_agency_life/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pil513/nonsales_jobs_what_next_after_agency_life/",
+      "created_utc": 1765318774.0,
+      "content": "I’ve been working about 8 years on the agency side and I feel like it’s time for something new. \n\nI’ve enjoyed the digital/programmatic space and wanted to start a conversation here to see if anyone has any recommendations on career path or roles to look into outside of a media agency? Ideally outside of the whole sales rep situation as that’s likely not the best fit for me. \n\nThank you!",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

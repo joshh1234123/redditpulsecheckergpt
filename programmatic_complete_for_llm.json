@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-09T22:14:37.565079+00:00",
-    "total_posts": 1108,
+    "scrape_date": "2025-12-09T22:39:36.814569+00:00",
+    "total_posts": 1109,
     "total_comments": 9308
   },
   "discussions": [
@@ -72299,6 +72299,20 @@
           "created_utc": 1765303741.0
         }
       ]
+    },
+    {
+      "id": "1pil513",
+      "title": "Non-sales jobs? What next after agency life",
+      "author": "MichaelsMotorcycle",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pil513/nonsales_jobs_what_next_after_agency_life/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pil513/nonsales_jobs_what_next_after_agency_life/",
+      "created_utc": 1765318774.0,
+      "content": "I’ve been working about 8 years on the agency side and I feel like it’s time for something new. \n\nI’ve enjoyed the digital/programmatic space and wanted to start a conversation here to see if anyone has any recommendations on career path or roles to look into outside of a media agency? Ideally outside of the whole sales rep situation as that’s likely not the best fit for me. \n\nThank you!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
