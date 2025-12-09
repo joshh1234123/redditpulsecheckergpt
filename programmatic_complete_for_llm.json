@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-08T23:37:55.933713+00:00",
-    "total_posts": 1105,
+    "scrape_date": "2025-12-09T01:05:47.203397+00:00",
+    "total_posts": 1106,
     "total_comments": 9307
   },
   "discussions": [
@@ -72246,6 +72246,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1phote1/interview_tips_where_they_provide_the_data_set/",
       "created_utc": 1765229076.0,
       "content": "I’ve got a final interview where they will provide me with a dataset and some questions to understand my reasoning for answers at the start of the interview. I assume we’ll join back on the call after my time is up and then I present. How can I prepare for an interview like this. In total it will last an hour. \n\nI understand it’s hard to prepare when I don’t know what type of data they’ll provide or what their main KPIs are, also worried there will be other KPIs I don’t use/work with in my current role. \n\nThanks!\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pht921",
+      "title": "How I’m generating 100 SEO landing pages automatically from one dataset",
+      "author": "blue2020_0",
+      "score": 1,
+      "url": "/r/IMadeThis/comments/1phoe0s/how_im_generating_100_seo_landing_pages/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pht921/how_im_generating_100_seo_landing_pages/",
+      "created_utc": 1765240016.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
