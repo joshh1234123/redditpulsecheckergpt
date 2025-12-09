@@ -404,6 +404,21 @@
       "link_flair_text": null,
       "thread_id": "1pi3q4n",
       "thread_path": "1pi3q4n.json"
+    },
+    {
+      "id": "1pidywz",
+      "title": "Amazon APS : Anyone Getting Real Demand on CTV Yet?",
+      "author": "slippycrook",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pidywz/amazon_aps_anyone_getting_real_demand_on_ctv_yet/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pidywz/amazon_aps_anyone_getting_real_demand_on_ctv_yet/",
+      "created_utc": 1765302286.0,
+      "content": "We use APS to monetize our OLV and display inventory, and I’m trying to figure out whether APS is now working for in-stream CTV as well.\n\nIn the inventory approval section I only see domains, yet several of our CTV partners are showing Amazon entries in their app-ads.txt. On top of that, we’re seeing Amazon bid through a few SSPs in our programmatic setup.\n\nCurious whether anyone here has APS running on CTV, and if so, whether the integration (vast? Prebid?) actually drives material demand. Any real-world experience would help.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pidywz",
+      "thread_path": "1pidywz.json"
     }
   ]
 }

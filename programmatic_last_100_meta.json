@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1otqq5f",
-      "title": "Advanced DSP Tips: Amazon, Yahoo, and Google Optimization Wins",
-      "author": "Amazing_Chemical7681",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1otqq5f/advanced_dsp_tips_amazon_yahoo_and_google/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1otqq5f/advanced_dsp_tips_amazon_yahoo_and_google/",
-      "created_utc": 1762810428.0,
-      "content": "Hey everyone,\n\nFor those who’ve managed campaigns across Amazon, Yahoo, or Google’s DSPs what are your go-to optimizations or lesser-known levers that consistently drive performance? Always interested in hearing how others are fine-tuning their setups, any tips/tricks will be appreciated. Thank yall in advance!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1otthoq",
       "title": "What devices do you block on DV360?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1765274698.0,
       "content": "Hey r/programmatic,\n\nI got tired of opening a new Excel sheet every time I needed to check a quick CPM benchmark or calculate a retainer-vs-commission fee structure for a client.\n\nSo, I spent the last few days building a simple web tool to do it instantly in the browser.\n\n**What it does:**\n\n* **Platform Benchmarks:** Compare Google vs. FB vs. LinkedIn costs (based on 2025 avg data).\n* **Agency Pricing:** Calculates the math difference between Flat Retainer and % of Spend models.\n* **Ad Math:** Standard CPM/CPC/CPA calculators.\n* **Influencer Check:** Audits engagement rates to spot fake followers.\n\nIt’s completely free, has no ads (yet), and doesn't ask for your email. Just a simple utility tool I wanted to share with the community.\n\nYou can check it out here:[https://calculateapp.org](https://calculateapp.org)\n\nLet me know if you find any bugs or if there are other calculators you'd like me to add!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pidywz",
+      "title": "Amazon APS : Anyone Getting Real Demand on CTV Yet?",
+      "author": "slippycrook",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pidywz/amazon_aps_anyone_getting_real_demand_on_ctv_yet/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pidywz/amazon_aps_anyone_getting_real_demand_on_ctv_yet/",
+      "created_utc": 1765302286.0,
+      "content": "We use APS to monetize our OLV and display inventory, and I’m trying to figure out whether APS is now working for in-stream CTV as well.\n\nIn the inventory approval section I only see domains, yet several of our CTV partners are showing Amazon entries in their app-ads.txt. On top of that, we’re seeing Amazon bid through a few SSPs in our programmatic setup.\n\nCurious whether anyone here has APS running on CTV, and if so, whether the integration (vast? Prebid?) actually drives material demand. Any real-world experience would help.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
