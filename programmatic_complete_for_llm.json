@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-10T08:20:40.334349+00:00",
-    "total_posts": 1111,
-    "total_comments": 9308
+    "scrape_date": "2025-12-10T08:50:00.323271+00:00",
+    "total_posts": 1112,
+    "total_comments": 9310
   },
   "discussions": [
     {
@@ -72341,6 +72341,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pixe1o",
+      "title": "Just got fired from a job I really liked and I don’t know what to do/think now",
+      "author": "Hop3less-Romantic",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pixe1o/just_got_fired_from_a_job_i_really_liked_and_i/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pixe1o/just_got_fired_from_a_job_i_really_liked_and_i/",
+      "created_utc": 1765355070.0,
+      "content": "I was on probation in a mid size DSP. Everything seems to be pretty much fine, I never had any negative feedback, or issues with clients or coworkers, and i was finally happy. Which suprise me, when my manager said they wouldn’t be offering me the full time position and decides to end my provation due to performance… I asked for more details because i was too surpreised and the HR lady just answer (it is a performance issue, if you have any questions feel free to follow up on e-mail”… \n\nThis is the first time this happens to me and i am totally shocked, specially because I don’t think I have done anything wrong. Any tips to deal with this horrible feeling?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Pitiful_Nobody_9926",
+          "body": "Just don’t take it personal! \n\nThis shit will happen every once in a while as it mostly says it’s dynamic . \n\nEveryone is replaceable therefore don’t waste to much time in reflecting to much and find something that appreciates you, will take some time but you will notice .",
+          "score": 2,
+          "created_utc": 1765356187.0
+        },
+        {
+          "author": "Worth_Mongoose_5205",
+          "body": "Sorry to hear that, it sounds really tough. Sometimes places make decisions that don’t reflect your actual value. So the best thing to do is to keep your head up and use your experience gained to leverage yourself into another position. Good luck!",
+          "score": 1,
+          "created_utc": 1765356407.0
+        }
+      ]
     }
   ]
 }
