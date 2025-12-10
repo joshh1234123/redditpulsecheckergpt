@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-10T20:45:20.727590+00:00",
-    "total_posts": 1114,
-    "total_comments": 9311
+    "scrape_date": "2025-12-10T21:15:38.043999+00:00",
+    "total_posts": 1115,
+    "total_comments": 9312
   },
   "discussions": [
     {
@@ -72403,6 +72403,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pjeeyo",
+      "title": "How to get yahoo inventory?",
+      "author": "No-Investigator-8007",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pjeeyo/how_to_get_yahoo_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pjeeyo/how_to_get_yahoo_inventory/",
+      "created_utc": 1765400454.0,
+      "content": "I have a client who wants to target on yahoo.com. Is the only way through the yahoo dsp?\n\nFor context. I am an agency who uses TTD as my main dsp. But I know TTD doesn't offer yahoo inventory anymore ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "mrgoobmanager",
+          "body": "They don’t!? That’s crazy. Yahoo.com is popular though most dsps",
+          "score": 1,
+          "created_utc": 1765400908.0
+        }
+      ]
     }
   ]
 }
