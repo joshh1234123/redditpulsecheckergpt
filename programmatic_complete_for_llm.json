@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-10T14:47:39.148509+00:00",
-    "total_posts": 1112,
-    "total_comments": 9310
+    "scrape_date": "2025-12-10T15:17:48.199676+00:00",
+    "total_posts": 1113,
+    "total_comments": 9311
   },
   "discussions": [
     {
@@ -72366,6 +72366,27 @@
           "body": "Sorry to hear that, it sounds really tough. Sometimes places make decisions that don’t reflect your actual value. So the best thing to do is to keep your head up and use your experience gained to leverage yourself into another position. Good luck!",
           "score": 1,
           "created_utc": 1765356407.0
+        }
+      ]
+    },
+    {
+      "id": "1pj4wub",
+      "title": "Best coding languages to learn for someone on the Investment team?",
+      "author": "OkStatement8573",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pj4wub/best_coding_languages_to_learn_for_someone_on_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pj4wub/best_coding_languages_to_learn_for_someone_on_the/",
+      "created_utc": 1765379219.0,
+      "content": "Hi there! So to give a bit of context, I've been working at an OMG agency for a little over a year now, graduating from college in May of 2024. So far, things have been pretty great, but throughout my time here, I've become increasingly fascinated by programmatic. Something about it, not sure what though, just has kind of drawn me in. I'm nowhere near a programmatic expert, but I would like to be one! \n\nSo as the title says, what language should I learn, if any? Python? SQL? Java? \n\nI have begun learning a bit of Python for Excel purposes, and do know a bit of R studio, but should I learn any other languages to further my understanding of programmatic?\n\nThanks so much!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "SQL for advanced analytics / data clean rooms. Python for automation.\n\nThough whether you'd get to truly use it in a holdco environment is another thing, definitely more something to futureproof your own skillset.",
+          "score": 1,
+          "created_utc": 1765379448.0
         }
       ]
     }

@@ -1,0 +1,16 @@
+{
+  "id": "1pj4wub",
+  "thread_id": "1pj4wub",
+  "title": "Best coding languages to learn for someone on the Investment team?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1pj4wub/best_coding_languages_to_learn_for_someone_on_the/",
+  "created_utc": 1765379219.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "goodgoaj",
+      "body": "SQL for advanced analytics / data clean rooms. Python for automation.\n\nThough whether you'd get to truly use it in a holdco environment is another thing, definitely more something to futureproof your own skillset.",
+      "score": 1,
+      "created_utc": 1765379448.0
+    }
+  ]
+}
