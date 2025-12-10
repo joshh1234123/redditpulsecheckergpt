@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-10T16:21:02.374641+00:00",
-    "total_posts": 1113,
+    "scrape_date": "2025-12-10T16:50:31.152135+00:00",
+    "total_posts": 1114,
     "total_comments": 9311
   },
   "discussions": [
@@ -72389,6 +72389,20 @@
           "created_utc": 1765379448.0
         }
       ]
+    },
+    {
+      "id": "1pj7ef2",
+      "title": "Pay rates in India",
+      "author": "Ok-Disaster-6387",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pj7ef2/pay_rates_in_india/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pj7ef2/pay_rates_in_india/",
+      "created_utc": 1765384954.0,
+      "content": "Hey all, we’re a UK based agency and we have an offshore team, which are based in India. This goes through an agency but we have no visibility on how much they actually get paid. We want to ensure they’re actually getting paid close to what we’re paying. \n\nWhat are the salary ranges (yearly) that is given for account managers & DSP traders? We mainly have managers, but any insights into executives, managers & directors would be hugely appreciated \n\nFeel free to DM if you don’t want to discuss earnings publicly too. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
