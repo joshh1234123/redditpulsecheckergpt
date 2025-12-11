@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-11T07:42:07.065988+00:00",
-    "total_posts": 1117,
+    "scrape_date": "2025-12-11T08:21:41.247023+00:00",
+    "total_posts": 1118,
     "total_comments": 9312
   },
   "discussions": [
@@ -72448,6 +72448,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pjihfl/i_build_agents_for_marketing_agencies_and_the/",
       "created_utc": 1765410398.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pjrts2",
+      "title": "Programmatic consultant x campaign manager/specialist",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pjrts2/programmatic_consultant_x_campaign/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pjrts2/programmatic_consultant_x_campaign/",
+      "created_utc": 1765439139.0,
+      "content": "Is there a difference between those two roles or is it how agencies decide to breakdown the positions? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
