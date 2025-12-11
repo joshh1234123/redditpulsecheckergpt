@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-11T11:14:03.323802+00:00",
-    "total_posts": 1118,
+    "scrape_date": "2025-12-11T11:38:49.081042+00:00",
+    "total_posts": 1119,
     "total_comments": 9312
   },
   "discussions": [
@@ -72462,6 +72462,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pjrts2/programmatic_consultant_x_campaign/",
       "created_utc": 1765439139.0,
       "content": "Is there a difference between those two roles or is it how agencies decide to breakdown the positions? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pjvcqp",
+      "title": "programmatic in hiring ads space",
+      "author": "Forward_Tackle_6487",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pjvcqp/programmatic_in_hiring_ads_space/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pjvcqp/programmatic_in_hiring_ads_space/",
+      "created_utc": 1765452955.0,
+      "content": "do you have experience in HR Tech space. whats your 2025 learning?\n\nwhats working for you and whats next for 2026? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
