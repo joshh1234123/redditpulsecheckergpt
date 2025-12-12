@@ -584,6 +584,36 @@
       "link_flair_text": null,
       "thread_id": "1pjvcqp",
       "thread_path": "1pjvcqp.json"
+    },
+    {
+      "id": "1pkdmnj",
+      "title": "pDOOH + mobile retargeting: a quick foot-traffic win",
+      "author": "KissyyyDoll",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pkdmnj/pdooh_mobile_retargeting_a_quick_foottraffic_win/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkdmnj/pdooh_mobile_retargeting_a_quick_foottraffic_win/",
+      "created_utc": 1765499085.0,
+      "content": "Ran a six-week retail push that blended programmatic digital OOH screens with mobile retargeting. Evening-commute windows only, same creative in three countries.\n\nScreens came through Hivestack; mobile retargeting on DV360.\n\nExcite OOH handled the OOH planning and already had screen-level data for the smaller markets, which kept our test simple.\n\nNet result: stores within \\~500 m of the booked screens saw a 17 % traffic lift (Google Store Visits) without touching the rest of the media mix.\n\nNice reminder that marrying out-of-home with mobile doesn’t need to be a big production to move the needle. Anybody else tried something similar lately?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pkdmnj",
+      "thread_path": "1pkdmnj.json"
+    },
+    {
+      "id": "1pkdr5t",
+      "title": "Is this common with DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pkdr5t/is_this_common_with_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkdr5t/is_this_common_with_dv360/",
+      "created_utc": 1765499430.0,
+      "content": "I got a deal setup with FreeWheel and they told me what to bid for the package.\n\nI am bidding at the highest number, but so far tonight, my campaign has 0 impressions.\n\nIt does day part running 6pm-11pm, but yesterday by 6:30 I had over 500 impressions.\n\nI have made 0 changes as well. \n\n\\--Even with \"deals\" created can I be out bidded by a lot? or is this a normal fluke with DV360?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pkdr5t",
+      "thread_path": "1pkdr5t.json"
     }
   ]
 }
