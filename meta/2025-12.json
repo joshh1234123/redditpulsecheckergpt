@@ -659,6 +659,21 @@
       "link_flair_text": null,
       "thread_id": "1pkqomj",
       "thread_path": "1pkqomj.json"
+    },
+    {
+      "id": "1pktgq3",
+      "title": "What's the best way to target more premium apps on DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pktgq3/whats_the_best_way_to_target_more_premium_apps_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pktgq3/whats_the_best_way_to_target_more_premium_apps_on/",
+      "created_utc": 1765550251.0,
+      "content": "When I’ve run FreeWheel deals labeled as *Premium*, I noticed in reporting that a large portion of delivery was still coming from apps like Tubi, LG Channels, Plex, and Pluto.\n\nMy goal, however, was to focus on what I personally define as more “premium” inventory: Hulu, Disney+, Max (HBO), TV provider apps (Xfinity Stream, DirecTV, Dish), AMC+, Peacock, and Discovery+.\n\nTo get there, I eventually went into targeting and manually added those apps. Once I did that, delivery shifted almost entirely to those environments.\n\nMy question is: are there FreeWheel (or similar SSP) deal types that allow you to maintain a **reasonable bid range** while *natively restricting delivery* to those higher-end apps without having to manually exclude broad categories like “Watch Free TV,” FrndlyTV, etc.?\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pktgq3",
+      "thread_path": "1pktgq3.json"
     }
   ]
 }

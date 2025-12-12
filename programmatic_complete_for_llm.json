@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-12T14:14:17.359628+00:00",
-    "total_posts": 1124,
+    "scrape_date": "2025-12-12T14:39:33.715783+00:00",
+    "total_posts": 1125,
     "total_comments": 9316
   },
   "discussions": [
@@ -72572,6 +72572,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pkqomj/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1765542584.0,
       "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* Paramount Skydance's $108B all-cash bid for Warner Bros. Discovery overshadowed Netflix's $82.7B offer\n* PubMatic partnered with Kontext to bring programmatic advertising into AI chatbots, with pilot campaigns showing 70% higher ROAS\n* Black Friday and Cyber Monday generated record $79B globally, with shoppers using AI tools that drove 805% surge in retail site traffic\n* Agencies demanding greater transparency from SSPs after discovering gaps as wide as 65% between their bids and publisher payouts\n* Pinterest acquiring CTV ad platform tvScientific in deal exceeding $125M to merge shoppers with performance TV advertising\n* Shopify launched a product network that natively integrates items from other merchants into individual store pages\n* IBM launched review of $330M global media account with incumbent WPP Media declining to defend the business\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-12122025)\n\nWhat advertising trends are you watching this week?\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pktgq3",
+      "title": "What's the best way to target more premium apps on DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pktgq3/whats_the_best_way_to_target_more_premium_apps_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pktgq3/whats_the_best_way_to_target_more_premium_apps_on/",
+      "created_utc": 1765550251.0,
+      "content": "When I’ve run FreeWheel deals labeled as *Premium*, I noticed in reporting that a large portion of delivery was still coming from apps like Tubi, LG Channels, Plex, and Pluto.\n\nMy goal, however, was to focus on what I personally define as more “premium” inventory: Hulu, Disney+, Max (HBO), TV provider apps (Xfinity Stream, DirecTV, Dish), AMC+, Peacock, and Discovery+.\n\nTo get there, I eventually went into targeting and manually added those apps. Once I did that, delivery shifted almost entirely to those environments.\n\nMy question is: are there FreeWheel (or similar SSP) deal types that allow you to maintain a **reasonable bid range** while *natively restricting delivery* to those higher-end apps without having to manually exclude broad categories like “Watch Free TV,” FrndlyTV, etc.?\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
