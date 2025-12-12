@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-12T17:41:57.195200+00:00",
-    "total_posts": 1125,
-    "total_comments": 9316
+    "scrape_date": "2025-12-12T18:21:47.005180+00:00",
+    "total_posts": 1126,
+    "total_comments": 9318
   },
   "discussions": [
     {
@@ -72590,6 +72590,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pkyhbk",
+      "title": "Anyone heard of Primer / PDi?",
+      "author": "MayoColoredBenz18",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pkyhbk/anyone_heard_of_primer_pdi/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkyhbk/anyone_heard_of_primer_pdi/",
+      "created_utc": 1765562164.0,
+      "content": "Hello, first time posting here. Currently working as an AE at a DSP and a 3rd party recruiter messaged me about an AE role at PDi (https://www.pdistack.com/). Tried doing some research but they are a startup and I can’t find much about them beyond their website. \n\nComp seemed pretty attractive and competitive - would love any insight if anyone has anything to offer. Thank in advance!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "sooooted",
+          "body": "I had a recruiter for them reach out earlier this year, from our discussion I left not interested.",
+          "score": 2,
+          "created_utc": 1765563342.0
+        },
+        {
+          "author": "MayoColoredBenz18",
+          "body": "Any particular reason?",
+          "score": 1,
+          "created_utc": 1765563465.0
+        }
+      ]
     }
   ]
 }
