@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1owxc2t",
-      "title": "TLDR: Week in Review - Google & Amazon Launch AI Ad Agents",
-      "author": "data_spy",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1owxc2t/tldr_week_in_review_google_amazon_launch_ai_ad/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1owxc2t/tldr_week_in_review_google_amazon_launch_ai_ad/",
-      "created_utc": 1763129031.0,
-      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n* **Google launches AI ad agents** - Ads Advisor and Analytics Advisor chatbots turn briefs into executable media plans for 1M+ Performance Max advertisers\n* **Amazon follows with unified platform** - Merges DSP and Sponsored Ads into Campaign Manager with AI planning and creative agents\n* **Publicis CEO calls out Omnicom** - Arthur Sadoun challenges gross vs. net revenue reporting ahead of IPG merger, warns of distorted industry comparisons\n\n**Quick Hits:**\n\n* PubMatic Q3 revenue down 5% to $68M after Trade Desk's Kokai impact, betting on AI to recover\n* Daily Mail CTR plummets 80-90% when Google AI Overviews appear, but minimal overall traffic impact\n* IAB Tech Lab's Agentic RTB Framework cuts programmatic auction times from 600ms to a fraction\n* Life360 acquiring Nativo for ~$120M to combine location data with premium publisher network\n* Amazon launches geo-targeted interactive video ads on Prime Video for local businesses\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-11142025)\n\nAnyone test these AI agents yet?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1oxcacd",
       "title": "[CM360] What value does it offer anymore?",
       "author": "LeadingWall",
@@ -1302,6 +1289,19 @@
       "created_utc": 1765503443.0,
       "content": "Specifically interested in Sling, Tubi, Pluto, Xumo, and Plex. We're looking to access these at the lowest rates possible. First, where should we be buying for the lowest CPMs and lowest fees? What actual floor CPMs should we be able to get for these?\n\n[](https://www.reddit.com/submit/?source_id=t3_1pkebfz)",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pkmvg6",
+      "title": "Pinterest to Acquire tvScientific, Expanding Performance Advertising to Connected TV",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://newsroom.pinterest.com/en-gb/news/pinterest-tvscientific/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkmvg6/pinterest_to_acquire_tvscientific_expanding/",
+      "created_utc": 1765528244.0,
+      "content": "Pretty interesting move for the US market especially, does feel like the social platforms need to extend a bit now as TikTok have done with Search / OOH & LinkedIn to some extend with CTV.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

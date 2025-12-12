@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-12T08:21:11.568337+00:00",
-    "total_posts": 1122,
+    "scrape_date": "2025-12-12T08:51:28.854660+00:00",
+    "total_posts": 1123,
     "total_comments": 9316
   },
   "discussions": [
@@ -72548,6 +72548,20 @@
           "created_utc": 1765505490.0
         }
       ]
+    },
+    {
+      "id": "1pkmvg6",
+      "title": "Pinterest to Acquire tvScientific, Expanding Performance Advertising to Connected TV",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://newsroom.pinterest.com/en-gb/news/pinterest-tvscientific/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkmvg6/pinterest_to_acquire_tvscientific_expanding/",
+      "created_utc": 1765528244.0,
+      "content": "Pretty interesting move for the US market especially, does feel like the social platforms need to extend a bit now as TikTok have done with Search / OOH & LinkedIn to some extend with CTV.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
