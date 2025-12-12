@@ -614,6 +614,21 @@
       "link_flair_text": null,
       "thread_id": "1pkdr5t",
       "thread_path": "1pkdr5t.json"
+    },
+    {
+      "id": "1pkf74r",
+      "title": "What's the cheapest / most efficient way to access CTV inventory?",
+      "author": "ryans91",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pkf74r/whats_the_cheapest_most_efficient_way_to_access/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkf74r/whats_the_cheapest_most_efficient_way_to_access/",
+      "created_utc": 1765503443.0,
+      "content": "Specifically interested in Sling, Tubi, Pluto, Xumo, and Plex. We're looking to access these at the lowest rates possible. First, where should we be buying for the lowest CPMs and lowest fees? What actual floor CPMs should we be able to get for these?\n\n[](https://www.reddit.com/submit/?source_id=t3_1pkebfz)",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pkf74r",
+      "thread_path": "1pkf74r.json"
     }
   ]
 }

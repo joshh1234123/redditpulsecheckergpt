@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1owhr5p",
-      "title": "DV360 Reporting",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1owhr5p/dv360_reporting/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1owhr5p/dv360_reporting/",
-      "created_utc": 1763079673.0,
-      "content": "Any help? I noticed when I pull reports from this page for \"todays\" info. I often can easily pull a report any time during the day. However like after 5pm EST, I noticed I cannot pull reporting info until the next day. I usually can pull App/URL view ability report almost entire day except for after 5pm.\n\nhttps://preview.redd.it/nfqf7htv841g1.png?width=2414&format=png&auto=webp&s=3beef96e66332d9fba3e5a6d69e0a7e84b10aa54\n\nhttps://preview.redd.it/o80t8eaz841g1.png?width=1326&format=png&auto=webp&s=28baed8676f35c7d759d0e22bbd57c37b0d9978f\n\n",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1owxc2t",
       "title": "TLDR: Week in Review - Google & Amazon Launch AI Ad Agents",
       "author": "data_spy",
@@ -1302,6 +1289,19 @@
       "created_utc": 1765499430.0,
       "content": "I got a deal setup with FreeWheel and they told me what to bid for the package.\n\nI am bidding at the highest number, but so far tonight, my campaign has 0 impressions.\n\nIt does day part running 6pm-11pm, but yesterday by 6:30 I had over 500 impressions.\n\nI have made 0 changes as well. \n\n\\--Even with \"deals\" created can I be out bidded by a lot? or is this a normal fluke with DV360?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pkf74r",
+      "title": "What's the cheapest / most efficient way to access CTV inventory?",
+      "author": "ryans91",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pkf74r/whats_the_cheapest_most_efficient_way_to_access/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkf74r/whats_the_cheapest_most_efficient_way_to_access/",
+      "created_utc": 1765503443.0,
+      "content": "Specifically interested in Sling, Tubi, Pluto, Xumo, and Plex. We're looking to access these at the lowest rates possible. First, where should we be buying for the lowest CPMs and lowest fees? What actual floor CPMs should we be able to get for these?\n\n[](https://www.reddit.com/submit/?source_id=t3_1pkebfz)",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
