@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-13T20:14:39.626199+00:00",
-    "total_posts": 1127,
+    "scrape_date": "2025-12-13T20:39:40.143381+00:00",
+    "total_posts": 1128,
     "total_comments": 9318
   },
   "discussions": [
@@ -72627,6 +72627,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1plpu8w/anyone_used_the_platform_from_itn_networks/",
       "created_utc": 1765644326.0,
       "content": "Apparently ITN Networks has a platform that you can run linear campaigns to local tv networks. Has anyone tried ITN?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pluws4",
+      "title": "Things I Wonder About Programmatic HTML5 Ads",
+      "author": "gokhan_plt",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pluws4/things_i_wonder_about_programmatic_html5_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pluws4/things_i_wonder_about_programmatic_html5_ads/",
+      "created_utc": 1765657038.0,
+      "content": "Do you run HTML5 campaigns? I know there are tons of standard banner tools out there.\n\nWhat I mean, richer creatives like interactive playables and gamified ads instead of basic animations.\n\nI've noticed a common gap: programmatic agencies often struggle to maximize performance due to creative and technical limits when working with traditional creative teams.\n\nThat's why I started an AdTech startup building HTML5 banners and Playables for Display Networks and Mobile Networks. We aim to bridge the gap between programmatic and creative agencies. \n\n\n\n**My questions are:**\n\n1. Who typically makes the call on creative partners, programmatic agencies, digital/creative agencies, or brands directly? For clarity, who is the decision maker?\n2. Do programmatic teams actively look for specialized creative tech partners to improve campaign results?\n3. As an early-stage startup, should we target brands directly or go through agencies?\n\nCurious to hear your experiences. Thanks",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
