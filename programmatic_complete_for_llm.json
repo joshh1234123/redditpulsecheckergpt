@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-15T07:43:11.843587+00:00",
-    "total_posts": 1129,
+    "scrape_date": "2025-12-15T08:22:48.331353+00:00",
+    "total_posts": 1130,
     "total_comments": 9318
   },
   "discussions": [
@@ -72654,6 +72654,20 @@
       "url": "https://www.reddit.com/r/programmatic/comments/1pmajz4/hearing_a_lot_about_adtech_coming_from_china_with/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pmajz4/hearing_a_lot_about_adtech_coming_from_china_with/",
       "created_utc": 1765706456.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pn1tf5",
+      "title": "Learning PMPs",
+      "author": "Voyager0719",
+      "score": 1,
+      "url": "/r/adtech/comments/1pn1tav/learning_pmps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pn1tf5/learning_pmps/",
+      "created_utc": 1765784981.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
