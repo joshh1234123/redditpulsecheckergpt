@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-16T08:21:45.838692+00:00",
-    "total_posts": 1131,
+    "scrape_date": "2025-12-16T08:52:14.840663+00:00",
+    "total_posts": 1132,
     "total_comments": 9318
   },
   "discussions": [
@@ -72683,6 +72683,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pn8bxm/european_programmatic_market_status/",
       "created_utc": 1765807936.0,
       "content": "A bit personal question, but have UK colleagues noticed a switch of programmatic jobs and budgets from London (which was the programmatic capital of EMEA) to mainland Europe like Madrid, Amsterdam, and Paris? Although the current UK job market is a mess so any comparison could be biased. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pnx75g",
+      "title": "PubMatic and Butler/Till Launch AdCP-Enabled Agentic AI Campaign Across CTV",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://pubmatic.com/news/pubmatic-and-butler-till-launch-adcp-enabled-agentic-ai-campaign-across-ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pnx75g/pubmatic_and_butlertill_launch_adcpenabled/",
+      "created_utc": 1765875102.0,
+      "content": "AdCP is for sure getting a lot of attention good & bad. Personally I think in the long term, it will a role to play but in the current state of what it is trying to achieve, a lot of the planning piece is not that groundbreaking for a savvy media agency or advertiser. \n\nAnd if there was one medium where a human led approach wouldn't be so different, it is CTV. I look forward to the day it takes on performance programmatic for planning / activating / measurement, which remains the hardest thing to crack and arguably more suited to a custom algo approach.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
