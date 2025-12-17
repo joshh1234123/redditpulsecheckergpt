@@ -779,6 +779,21 @@
       "link_flair_text": null,
       "thread_id": "1pnx75g",
       "thread_path": "1pnx75g.json"
+    },
+    {
+      "id": "1pp5fa1",
+      "title": "December 2025 ads.txt snapshot – momentum picked up more than expected..",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pp5fa1/december_2025_adstxt_snapshot_momentum_picked_up/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pp5fa1/december_2025_adstxt_snapshot_momentum_picked_up/",
+      "created_utc": 1765999245.0,
+      "content": "Been tracking ads.txt churn month-over-month, and December closed with a stronger positive shift than we’ve seen in the last few months.\n\nIn December:\n\n* \\~456K new ads.txt lines were added\n* \\~399K lines were removed\n* Net change: **\\~58K new connections**, continuing the positive momentum we’ve seen since November\n\nNot a spike driven by one-off events - this looks more like steady onboarding outweighing cleanup, which hasn’t been the case consistently this year.\n\nA few ecosystem observations from this month’s data:\n\n* **PubMatic and Index Exchange** showed the largest ads.txt growth, largely from steady onboarding across mid- and long-tail publishers\n* **Rubicon and OpenX** also saw consistent gains tied to stable publisher additions\n* **TripleLift** maintained balanced adoption across publisher tiers, suggesting sustained integration rather than spikes\n\nWe also expanded data coverage this month with **ProgrammaticX joining as a contributing data partner**, improving visibility into publisher-side supply paths, particularly across mid- and high-traffic domains.\n\nFull [December report ](https://databeat.io/blog/sellers-report-december-2025/?utm_source=reddit&&utm_medium=organic_social&&utm_campaign=sellers+report+december2025)(for anyone who wants the deeper cut)\n\nDecember suggests a shift back toward **measured growth**, not volume-for-volume’s sake. Fewer extreme swings, more controlled expansion - which may be a healthier signal heading into 2026 planning.\n\nIf you’re adjusting SSP stacks or evaluating reseller exposure, this month’s data is worth a look alongside November’s trends.\n\nCurious if others are seeing similar stabilization on the buy or sell side.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1pp5fa1",
+      "thread_path": "1pp5fa1.json"
     }
   ]
 }

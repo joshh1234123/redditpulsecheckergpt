@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ozy4z5",
-      "title": "Looking for Senior Programatic Trader - $70-80k (Remote) - US-based",
-      "author": "Aplusj6969",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ozy4z5/looking_for_senior_programatic_trader_7080k/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ozy4z5/looking_for_senior_programatic_trader_7080k/",
-      "created_utc": 1763427591.0,
-      "content": "Hello. We’re looking to expand our agency trading team. The agency is based in LA, but the role is remote but please be located in North America (US, Mexico, or Canada). \n\nShould be trained and certified in TTD + one more DSP, ideal. This role will not only act as Senior Trader but will assist with supply path optimization, deal negotiation, campaign planning and activation. \n\nAudio experience, preferred but not mandatory. \n\nThe ability to analyze and draw insights from campaign data, optimize (including bid factoring) understanding the biddable/RTB ecosystem & relationship between DSP, SSP, Publisher - mandatory. \n\nBonus points if you’re able to navigate the supply path and understand deal id (PMP and PH) deal structures. \n\nPlease respond to this post and I’ll be in touch to send your resume. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p00ghd",
       "title": "Thoughts on Supply Side curated PMP Deals",
       "author": "ProblemNo161",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pnx75g/pubmatic_and_butlertill_launch_adcpenabled/",
       "created_utc": 1765875102.0,
       "content": "AdCP is for sure getting a lot of attention good & bad. Personally I think in the long term, it will a role to play but in the current state of what it is trying to achieve, a lot of the planning piece is not that groundbreaking for a savvy media agency or advertiser. \n\nAnd if there was one medium where a human led approach wouldn't be so different, it is CTV. I look forward to the day it takes on performance programmatic for planning / activating / measurement, which remains the hardest thing to crack and arguably more suited to a custom algo approach.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pp5fa1",
+      "title": "December 2025 ads.txt snapshot – momentum picked up more than expected..",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pp5fa1/december_2025_adstxt_snapshot_momentum_picked_up/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pp5fa1/december_2025_adstxt_snapshot_momentum_picked_up/",
+      "created_utc": 1765999245.0,
+      "content": "Been tracking ads.txt churn month-over-month, and December closed with a stronger positive shift than we’ve seen in the last few months.\n\nIn December:\n\n* \\~456K new ads.txt lines were added\n* \\~399K lines were removed\n* Net change: **\\~58K new connections**, continuing the positive momentum we’ve seen since November\n\nNot a spike driven by one-off events - this looks more like steady onboarding outweighing cleanup, which hasn’t been the case consistently this year.\n\nA few ecosystem observations from this month’s data:\n\n* **PubMatic and Index Exchange** showed the largest ads.txt growth, largely from steady onboarding across mid- and long-tail publishers\n* **Rubicon and OpenX** also saw consistent gains tied to stable publisher additions\n* **TripleLift** maintained balanced adoption across publisher tiers, suggesting sustained integration rather than spikes\n\nWe also expanded data coverage this month with **ProgrammaticX joining as a contributing data partner**, improving visibility into publisher-side supply paths, particularly across mid- and high-traffic domains.\n\nFull [December report ](https://databeat.io/blog/sellers-report-december-2025/?utm_source=reddit&&utm_medium=organic_social&&utm_campaign=sellers+report+december2025)(for anyone who wants the deeper cut)\n\nDecember suggests a shift back toward **measured growth**, not volume-for-volume’s sake. Fewer extreme swings, more controlled expansion - which may be a healthier signal heading into 2026 planning.\n\nIf you’re adjusting SSP stacks or evaluating reseller exposure, this month’s data is worth a look alongside November’s trends.\n\nCurious if others are seeing similar stabilization on the buy or sell side.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
