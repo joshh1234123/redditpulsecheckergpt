@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-18T15:43:53.977359+00:00",
-    "total_posts": 1134,
+    "scrape_date": "2025-12-18T16:20:24.388959+00:00",
+    "total_posts": 1136,
     "total_comments": 9320
   },
   "discussions": [
@@ -72742,6 +72742,34 @@
           "created_utc": 1766025741.0
         }
       ]
+    },
+    {
+      "id": "1ppuj9w",
+      "title": "Small To Mid Sized Business Objections to Programmatic",
+      "author": "Impressive-Teach7336",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ppuj9w/small_to_mid_sized_business_objections_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ppuj9w/small_to_mid_sized_business_objections_to/",
+      "created_utc": 1766073902.0,
+      "content": "I am consistently running into hesitation or simply skepticism when it comes to Programmatic. We deliver strong results against the KPIs, but constantly hear: Sales numbers don't back this up or that another channel could be the one driving this impact, and of course the View Through vs Click conversion conversation is especially tough as of late.\n\nSince I am at a smaller sized agency, we don't have tool integrations like MTA or MMM yet, and are struggling to keep the budgets necessary to fund those tools. I have been pitching incremental testing in markets, but there hasn't been a lot of traction.\n\nJust curious if others in the Programmatic world are running into this as much and how you maybe switched your strategy to prove out these channels in a more impactful way for smaller sized accounts that don't have as much budget flexibility. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ppuujv",
+      "title": "I got hired, and I think I'm SCREWED!!!",
+      "author": "GayaIRL",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ppuujv/i_got_hired_and_i_think_im_screwed/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ppuujv/i_got_hired_and_i_think_im_screwed/",
+      "created_utc": 1766074648.0,
+      "content": "Hey Chat, I wanted to switch domains from content strategy for social media (3 years of work experience) to programmatic advertising. So, I enrolled in a programmatic course where the basic concepts were taught and the DV360 interface was introduced.\n\nI was recently hired for a Senior Executive – Programmatic role (apparently due to an immediate hiring requirement following a new client onboarding, thank god!) at a reputable agency, and I’ll be starting in two days. While I have theoretical knowledge of how programmatic works, I’m not very confident about the application side yet.\n\nAre there any tips, advice, or resources you could suggest to help me prepare and make sure I’m aware of the essentials? I genuinely want to build a career in programmatic, and this role feels like a solid starting point for me. Any help would be immensely appreciated.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
