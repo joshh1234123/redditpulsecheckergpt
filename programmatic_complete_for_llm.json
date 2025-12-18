@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-18T01:04:55.695126+00:00",
-    "total_posts": 1133,
-    "total_comments": 9318
+    "scrape_date": "2025-12-18T03:01:58.837427+00:00",
+    "total_posts": 1134,
+    "total_comments": 9320
   },
   "discussions": [
     {
@@ -72715,6 +72715,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ppdz5f",
+      "title": "I built a simple website that shows Jack in the Box menu items and prices in one clean place.",
+      "author": "Turbulent-Monitor478",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "created_utc": 1766020652.0,
+      "content": "I realized half the time I overspend at Jack in the Box simply because I don’t know what’s actually on the menu anymore. They update it way more often than people think.\n\nI made a small site that puts everything in one place. Mainly for quick checks before ordering or comparing items. Pls be nice\n\n[https://jack-inthebox-menu.com/](https://jack-inthebox-menu.com/)",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MashMeister",
+          "body": "The only thing programmatic about this is the giant f-ing ad you have at the top lol. You must really love Jack in the Box. Aside from this not being related to the subreddit it’s nice to see prices upfront and wish more food business did that but they won’t. They like to get the customer at the checkout where they’re more inclined to move forward with a higher price since they already put in the work to get there",
+          "score": 2,
+          "created_utc": 1766023270.0
+        },
+        {
+          "author": "-Accession-",
+          "body": "This would be useful if it displayed ONLY curly fry prices",
+          "score": 1,
+          "created_utc": 1766025741.0
+        }
+      ]
     }
   ]
 }

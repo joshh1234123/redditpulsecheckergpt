@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p00ghd",
-      "title": "Thoughts on Supply Side curated PMP Deals",
-      "author": "ProblemNo161",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p00ghd/thoughts_on_supply_side_curated_pmp_deals/",
-      "created_utc": 1763433949.0,
-      "content": "Would love to hear opinions on anyone using SSP Curation partners to setup and distribute PMP deals curated with inventory + publisher (or 3P) audience segments\n\nWhat metrics /reporting helps validate success? \n\nWhat would an ideal test scenario look like vs applying decisioning on the buy side?\n\nAnyone have success with self serve curation platforms?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p0ph1u",
       "title": "How safe is Google right now?",
       "author": "LateMathematician280",
@@ -1302,6 +1289,19 @@
       "created_utc": 1765999245.0,
       "content": "Been tracking ads.txt churn month-over-month, and December closed with a stronger positive shift than we’ve seen in the last few months.\n\nIn December:\n\n* \\~456K new ads.txt lines were added\n* \\~399K lines were removed\n* Net change: **\\~58K new connections**, continuing the positive momentum we’ve seen since November\n\nNot a spike driven by one-off events - this looks more like steady onboarding outweighing cleanup, which hasn’t been the case consistently this year.\n\nA few ecosystem observations from this month’s data:\n\n* **PubMatic and Index Exchange** showed the largest ads.txt growth, largely from steady onboarding across mid- and long-tail publishers\n* **Rubicon and OpenX** also saw consistent gains tied to stable publisher additions\n* **TripleLift** maintained balanced adoption across publisher tiers, suggesting sustained integration rather than spikes\n\nWe also expanded data coverage this month with **ProgrammaticX joining as a contributing data partner**, improving visibility into publisher-side supply paths, particularly across mid- and high-traffic domains.\n\nFull [December report ](https://databeat.io/blog/sellers-report-december-2025/?utm_source=reddit&&utm_medium=organic_social&&utm_campaign=sellers+report+december2025)(for anyone who wants the deeper cut)\n\nDecember suggests a shift back toward **measured growth**, not volume-for-volume’s sake. Fewer extreme swings, more controlled expansion - which may be a healthier signal heading into 2026 planning.\n\nIf you’re adjusting SSP stacks or evaluating reseller exposure, this month’s data is worth a look alongside November’s trends.\n\nCurious if others are seeing similar stabilization on the buy or sell side.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ppdz5f",
+      "title": "I built a simple website that shows Jack in the Box menu items and prices in one clean place.",
+      "author": "Turbulent-Monitor478",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "created_utc": 1766020652.0,
+      "content": "I realized half the time I overspend at Jack in the Box simply because I don’t know what’s actually on the menu anymore. They update it way more often than people think.\n\nI made a small site that puts everything in one place. Mainly for quick checks before ordering or comparing items. Pls be nice\n\n[https://jack-inthebox-menu.com/](https://jack-inthebox-menu.com/)",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

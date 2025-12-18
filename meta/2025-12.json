@@ -794,6 +794,21 @@
       "link_flair_text": null,
       "thread_id": "1pp5fa1",
       "thread_path": "1pp5fa1.json"
+    },
+    {
+      "id": "1ppdz5f",
+      "title": "I built a simple website that shows Jack in the Box menu items and prices in one clean place.",
+      "author": "Turbulent-Monitor478",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ppdz5f/i_built_a_simple_website_that_shows_jack_in_the/",
+      "created_utc": 1766020652.0,
+      "content": "I realized half the time I overspend at Jack in the Box simply because I don’t know what’s actually on the menu anymore. They update it way more often than people think.\n\nI made a small site that puts everything in one place. Mainly for quick checks before ordering or comparing items. Pls be nice\n\n[https://jack-inthebox-menu.com/](https://jack-inthebox-menu.com/)",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ppdz5f",
+      "thread_path": "1ppdz5f.json"
     }
   ]
 }
