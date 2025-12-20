@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p2htdf",
-      "title": "Helping Chinese publishers fix Google Ad Manager setups + boost ad revenue (free MA invite)",
-      "author": "mendampremkumar",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p2htdf/helping_chinese_publishers_fix_google_ad_manager/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2htdf/helping_chinese_publishers_fix_google_ad_manager/",
-      "created_utc": 1763679052.0,
-      "content": "I’ve been talking to a lot of publishers and website owners in China lately, and the same issue keeps coming up — Google Ad Manager is confusing, the setup isn’t clear, and the ad revenue ends up way lower than it should be.\n\nA lot of people don’t realize this, but even small mistakes in GAM (wrong ad units, missing line items, bad price settings, messy code, etc.) can drop your CPMs a lot.\n\nSo I’m offering something simple:\n\nA Google Ad Manager “Manage Account” (MA) invite — without touching your main login.\nYou keep full control. We just help fix the structure from the outside.\n\nHere’s what I can help with:\n\t•\tCleaning up your GAM setup\n\t•\tFixing ad units and inventory mapping\n\t•\tImproving CPMs and overall yield\n\t•\tSetting up or optimizing your ad tags\n\t•\tTroubleshooting issues you’ve been stuck with\n\nBasically: if your site’s ad revenue feels lower than it should be, or GAM feels overwhelming, I can help make things clearer and more profitable.\n\nIf you’re running a blog, news site, entertainment page, or any niche site in China and want better monetization, just comment or DM me.\nHappy to guide or answer questions — no pressure.\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p2jkr3",
       "title": "Any Amazon DSP experts?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1766188958.0,
       "content": "How much should CPMs be set at for a new retail media network connecting small to mid-size businesses who publish ads on their checkout pages with other small-mid size businesses placing advertisements?  Advertisements are post-XO page and can be masonry layout (3 ads in 1) or a hero placement (1 premium ad).  I am guessing its somewhere around $20-$30 per CPM for normal ads, a bit more for premium placements.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pr4rpg",
+      "title": "Need Guidance - Trying to understand ad network / reseller dynamics",
+      "author": "YogurtclosetSmart650",
+      "score": 1,
+      "url": "/r/adops/comments/1ppffrb/need_guidance_trying_to_understand_ad_network/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pr4rpg/need_guidance_trying_to_understand_ad_network/",
+      "created_utc": 1766202592.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
