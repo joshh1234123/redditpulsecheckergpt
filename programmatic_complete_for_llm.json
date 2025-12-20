@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-19T23:37:26.697999+00:00",
-    "total_posts": 1140,
-    "total_comments": 9321
+    "scrape_date": "2025-12-20T01:03:48.597526+00:00",
+    "total_posts": 1141,
+    "total_comments": 9322
   },
   "discussions": [
     {
@@ -72833,6 +72833,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pr06iq",
+      "title": "How much should CPMs cost for new retail media network?",
+      "author": "No-Sun-2086",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pr06iq/how_much_should_cpms_cost_for_new_retail_media/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pr06iq/how_much_should_cpms_cost_for_new_retail_media/",
+      "created_utc": 1766188958.0,
+      "content": "How much should CPMs be set at for a new retail media network connecting small to mid-size businesses who publish ads on their checkout pages with other small-mid size businesses placing advertisements?  Advertisements are post-XO page and can be masonry layout (3 ads in 1) or a hero placement (1 premium ad).  I am guessing its somewhere around $20-$30 per CPM for normal ads, a bit more for premium placements.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MikeGrunt",
+          "body": "Exactly one golden doubloon! Argh! 🏴‍☠️",
+          "score": 2,
+          "created_utc": 1766189712.0
+        }
+      ]
     }
   ]
 }
