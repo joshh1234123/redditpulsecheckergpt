@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-20T17:11:42.370228+00:00",
-    "total_posts": 1142,
+    "scrape_date": "2025-12-20T17:37:30.678780+00:00",
+    "total_posts": 1143,
     "total_comments": 9322
   },
   "discussions": [
@@ -72864,6 +72864,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pr4rpg/need_guidance_trying_to_understand_ad_network/",
       "created_utc": 1766202592.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1prjs09",
+      "title": "How to Start an Ad Network / SSP Setup With No Advertisers or Publishers — Only an SSP Source",
+      "author": "Beneficial_Alps2605",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1prjs09/how_to_start_an_ad_network_ssp_setup_with_no/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1prjs09/how_to_start_an_ad_network_ssp_setup_with_no/",
+      "created_utc": 1766251804.0,
+      "content": "Hello everyone,\n\nI’m building an ad network platform but I’m starting from scratch — I don’t have advertisers yet, and I don’t have publishers either. The only thing I currently have is an SSP source \n\nI want to learn from the community:\n\nWhat is the best white label ad server / ad exchange platform to start with?\n\nWhich platforms offer reasonable pricing and fair revenue share models?\n\nWhat should I consider when choosing a white label solution as a beginner with no demand and no supply yet?\n\nMy goals are:\n• To start monetizing traffic once I have publishers\n• To gradually add demand (DSPs / advertisers)\n• To build a scalable and profitable ad network\n\nI’d appreciate recommendations and personal experiences with different white label platforms, especially in terms of:\n• Pricing stricture \n• Revenue share deals\n• Ease of setup\n• Support for RTB + Direct campaigns\n\nThanks in advance",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
