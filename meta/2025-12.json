@@ -959,6 +959,21 @@
       "link_flair_text": null,
       "thread_id": "1pru074",
       "thread_path": "1pru074.json"
+    },
+    {
+      "id": "1ps163n",
+      "title": "API for OOH DSP",
+      "author": "nattyandthecoffee",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ps163n/api_for_ooh_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ps163n/api_for_ooh_dsp/",
+      "created_utc": 1766303637.0,
+      "content": "Looking for a DSP that can we used for programmatic Dooh that is API based. Any suggestions?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ps163n",
+      "thread_path": "1ps163n.json"
     }
   ]
 }
