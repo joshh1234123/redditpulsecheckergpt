@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-21T01:12:25.080562+00:00",
-    "total_posts": 1143,
-    "total_comments": 9322
+    "scrape_date": "2025-12-21T03:12:08.736004+00:00",
+    "total_posts": 1144,
+    "total_comments": 9323
   },
   "discussions": [
     {
@@ -72882,6 +72882,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1pru074",
+      "title": "Amazon DSP",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pru074/amazon_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pru074/amazon_dsp/",
+      "created_utc": 1766279779.0,
+      "content": "Anyone running Prime Auction 15 - 30 that has $14/floor. Are you getting any impressions at 22 CPM? - Curious how high need to go up, seems like a lot of competition this week or low inventory.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "wickedysplit25",
+          "body": "It is the holidays. I always see cpms go up EoY",
+          "score": 1,
+          "created_utc": 1766282173.0
+        }
+      ]
     }
   ]
 }

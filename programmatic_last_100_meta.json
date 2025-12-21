@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p2jqez",
-      "title": "Adobe traffic attribution",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p2jqez/adobe_traffic_attribution/",
-      "created_utc": 1763683957.0,
-      "content": "I’m jnable to find all campaigns in adobe… anyone facing the same issue? In some cases I’ve noticed that google utm are read also by adobe even if it’s supposed tonise other parameters….",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p2kb8h",
       "title": "Amazon Ads as a no brainer",
       "author": "Less-Selection1127",
@@ -1302,6 +1289,19 @@
       "created_utc": 1766251804.0,
       "content": "Hello everyone,\n\nI’m building an ad network platform but I’m starting from scratch — I don’t have advertisers yet, and I don’t have publishers either. The only thing I currently have is an SSP source \n\nI want to learn from the community:\n\nWhat is the best white label ad server / ad exchange platform to start with?\n\nWhich platforms offer reasonable pricing and fair revenue share models?\n\nWhat should I consider when choosing a white label solution as a beginner with no demand and no supply yet?\n\nMy goals are:\n• To start monetizing traffic once I have publishers\n• To gradually add demand (DSPs / advertisers)\n• To build a scalable and profitable ad network\n\nI’d appreciate recommendations and personal experiences with different white label platforms, especially in terms of:\n• Pricing stricture \n• Revenue share deals\n• Ease of setup\n• Support for RTB + Direct campaigns\n\nThanks in advance",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1pru074",
+      "title": "Amazon DSP",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pru074/amazon_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pru074/amazon_dsp/",
+      "created_utc": 1766279779.0,
+      "content": "Anyone running Prime Auction 15 - 30 that has $14/floor. Are you getting any impressions at 22 CPM? - Curious how high need to go up, seems like a lot of competition this week or low inventory.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
