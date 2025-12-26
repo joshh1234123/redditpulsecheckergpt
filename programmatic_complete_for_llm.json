@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-26T10:44:10.339587+00:00",
-    "total_posts": 1148,
+    "scrape_date": "2025-12-26T11:13:23.035707+00:00",
+    "total_posts": 1149,
     "total_comments": 9324
   },
   "discussions": [
@@ -72966,6 +72966,20 @@
           "created_utc": 1766672767.0
         }
       ]
+    },
+    {
+      "id": "1pw1php",
+      "title": "What if you could finally combine programmatic print and programmatic web in a GDPR-compliant way? Would you use it?",
+      "author": "_SYS64738",
+      "score": 1,
+      "url": "https://youtu.be/WUn-tpE2EcM?si=W4lXnzee3zTtUxLy",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pw1php/what_if_you_could_finally_combine_programmatic/",
+      "created_utc": 1766746723.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
