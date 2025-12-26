@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-26T17:12:41.818177+00:00",
-    "total_posts": 1149,
+    "scrape_date": "2025-12-26T17:39:14.899793+00:00",
+    "total_posts": 1150,
     "total_comments": 9324
   },
   "discussions": [
@@ -72975,6 +72975,20 @@
       "url": "https://youtu.be/WUn-tpE2EcM?si=W4lXnzee3zTtUxLy",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pw1php/what_if_you_could_finally_combine_programmatic/",
       "created_utc": 1766746723.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pw9vf3",
+      "title": "Job Alert: AdOps Manager (UK, Ireland & Remote)",
+      "author": "ContentaAI",
+      "score": 1,
+      "url": "/r/adops/comments/1pw9uru/job_alert_adops_manager_uk_ireland_remote/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pw9vf3/job_alert_adops_manager_uk_ireland_remote/",
+      "created_utc": 1766770356.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
