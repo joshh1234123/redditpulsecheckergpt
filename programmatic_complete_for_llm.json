@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-30T17:42:25.633524+00:00",
-    "total_posts": 1154,
-    "total_comments": 9327
+    "scrape_date": "2025-12-30T18:21:56.321729+00:00",
+    "total_posts": 1156,
+    "total_comments": 9329
   },
   "discussions": [
     {
@@ -73065,6 +73065,47 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pzo9d2/best_dsp/",
       "created_utc": 1767116087.0,
       "content": "As iam working in small agency and our agency is searching for an good whitelabel dsp. And when we searching we have come across teqblaze whitelabel dsp and what is your opinion on this DSP guys have anyone used this dsp before and can you suggest any other good whitelablelling dsp that you have got good performance on that. My recent shortlist are astrad , admixer and adkernal and teqblaze. As our main focus will be with increasing app installs signups and FTD s for client. \n\nLooking forward for your suggestions.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pzoonm",
+      "title": "Looking for a DSP",
+      "author": "bennnyboy121",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pzoonm/looking_for_a_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pzoonm/looking_for_a_dsp/",
+      "created_utc": 1767117040.0,
+      "content": "Hey everyone, looking for some suggestions for a DSP with no minimums or a good place to get a TV 360 reseller seat. Wanted to hear everyone’s opinion. Please do not say Simplifi 🤣",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "HurricaneKim",
+          "body": "StackAdapt",
+          "score": 0,
+          "created_utc": 1767118242.0
+        },
+        {
+          "author": "Shakthikanth_01_08",
+          "body": "If you are interested on quantcast let me know happy to take you an demo as it does not require any minimum spend and equal performance of what you get in dv360",
+          "score": -1,
+          "created_utc": 1767118281.0
+        }
+      ]
+    },
+    {
+      "id": "1pzoqra",
+      "title": "Looking for Budget-Friendly SSAI + VAST Video Ad Server + Player Solutions",
+      "author": "waldenschmidt07",
+      "score": 1,
+      "url": "/r/adops/comments/1pzonr0/looking_for_budgetfriendly_ssai_vast_video_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pzoqra/looking_for_budgetfriendly_ssai_vast_video_ad/",
+      "created_utc": 1767117173.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
