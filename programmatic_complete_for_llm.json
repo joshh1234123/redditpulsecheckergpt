@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-30T14:15:31.272426+00:00",
-    "total_posts": 1152,
+    "scrape_date": "2025-12-30T14:44:29.178749+00:00",
+    "total_posts": 1153,
     "total_comments": 9327
   },
   "discussions": [
@@ -73037,6 +73037,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1pz2rz0/getting_into_aitech/",
       "created_utc": 1767053495.0,
       "content": "Does anyone have experience working in a programmatic role at an agency and have moved to an AI/tech company? What is your experience like? What companies are hiring with this kind of background? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1pzj8dp",
+      "title": "How effective are Display Campaigns via DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pzj8dp/how_effective_are_display_campaigns_via_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pzj8dp/how_effective_are_display_campaigns_via_dv360/",
+      "created_utc": 1767104247.0,
+      "content": "Curious how effective have your campaigns been using DV360 vs using Adwords? I stopped doing display ads a few years ago when I used Adwords but curious to hear benefits of display ads with DV360. Is the reach a lot better at a lower cost? How is access to premium placements? Any feedback appreciated.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
