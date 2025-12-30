@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2025-12-29T23:38:25.833294+00:00",
-    "total_posts": 1151,
+    "scrape_date": "2025-12-30T01:08:34.386713+00:00",
+    "total_posts": 1152,
     "total_comments": 9327
   },
   "discussions": [
@@ -73027,6 +73027,20 @@
           "created_utc": 1767022851.0
         }
       ]
+    },
+    {
+      "id": "1pz2rz0",
+      "title": "Getting into AI/Tech",
+      "author": "bdubz1999",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1pz2rz0/getting_into_aitech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1pz2rz0/getting_into_aitech/",
+      "created_utc": 1767053495.0,
+      "content": "Does anyone have experience working in a programmatic role at an agency and have moved to an AI/tech company? What is your experience like? What companies are hiring with this kind of background? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
