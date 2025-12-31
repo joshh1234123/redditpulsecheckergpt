@@ -1139,6 +1139,21 @@
       "link_flair_text": null,
       "thread_id": "1pzoqra",
       "thread_path": "1pzoqra.json"
+    },
+    {
+      "id": "1q033w8",
+      "title": "Most efficient way to access display inventory",
+      "author": "ryans91",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q033w8/most_efficient_way_to_access_display_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q033w8/most_efficient_way_to_access_display_inventory/",
+      "created_utc": 1767153265.0,
+      "content": "This Q4 we spent a lot more on display traffic than ever before, all on GDN. Most of the spend and performance was driven by a few large publishers, along with a long-tail filling it out.\n\nObviously I know I can check their ads.txt and see who's running ads on the websites, but would I be able to get this sort of traffic for less than I'm paying via GDN? I have no clue what fees google takes or whether they have any preferential treatment. \n\nIf possible, I'd be looking for an SSP that allows direct buyers in order to get the lowest tech fees. Any suggestions or would I probably not be able to do any better than I am via google already?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1q033w8",
+      "thread_path": "1q033w8.json"
     }
   ]
 }
