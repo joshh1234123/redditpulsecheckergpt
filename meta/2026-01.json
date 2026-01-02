@@ -1,0 +1,19 @@
+{
+  "discussions": [
+    {
+      "id": "1q1vyyo",
+      "title": "DMP data",
+      "author": "Twnc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q1vyyo/dmp_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q1vyyo/dmp_data/",
+      "created_utc": 1767352204.0,
+      "content": "I am researching the domain of programmatic advertising and am intrigued by the DMP side of the process.\n\nI am looking at learning more about audience classification and how the current visitor is classified, what are the certainties in this process, uncertainties, etc.\n\nFurther more, I'm curious how the DSP gets to interpret such information.\n\nAnyone can point me in the right directions?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1q1vyyo",
+      "thread_path": "1q1vyyo.json"
+    }
+  ]
+}

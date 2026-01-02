@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p5k8ye",
-      "title": "Amazon DSP account manager",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p5k8ye/amazon_dsp_account_manager/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5k8ye/amazon_dsp_account_manager/",
-      "created_utc": 1763998745.0,
-      "content": "Hi guys,\n\nI got an interview for this position and my question is, is this more of a sales position? \n\nI currently work in programmatic and dislike agency life but not sure if sales is better. \n\nWhat do you think and what's your advice? \n\nCheers",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p5kq4t",
       "title": "Remote freelance/part-time work in Programmatic?",
       "author": "naamtosunahoga2",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q033w8/most_efficient_way_to_access_display_inventory/",
       "created_utc": 1767153265.0,
       "content": "This Q4 we spent a lot more on display traffic than ever before, all on GDN. Most of the spend and performance was driven by a few large publishers, along with a long-tail filling it out.\n\nObviously I know I can check their ads.txt and see who's running ads on the websites, but would I be able to get this sort of traffic for less than I'm paying via GDN? I have no clue what fees google takes or whether they have any preferential treatment. \n\nIf possible, I'd be looking for an SSP that allows direct buyers in order to get the lowest tech fees. Any suggestions or would I probably not be able to do any better than I am via google already?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q1vyyo",
+      "title": "DMP data",
+      "author": "Twnc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q1vyyo/dmp_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q1vyyo/dmp_data/",
+      "created_utc": 1767352204.0,
+      "content": "I am researching the domain of programmatic advertising and am intrigued by the DMP side of the process.\n\nI am looking at learning more about audience classification and how the current visitor is classified, what are the certainties in this process, uncertainties, etc.\n\nFurther more, I'm curious how the DSP gets to interpret such information.\n\nAnyone can point me in the right directions?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
