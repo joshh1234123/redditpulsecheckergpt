@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p5kq4t",
-      "title": "Remote freelance/part-time work in Programmatic?",
-      "author": "naamtosunahoga2",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p5kq4t/remote_freelanceparttime_work_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5kq4t/remote_freelanceparttime_work_in_programmatic/",
-      "created_utc": 1763999847.0,
-      "content": "I'm a programmatic trader, with 5 years of combined supply and demand experience. In one of the big agency but work here is currently slow, have couple of hours I can give everyday. Most recently I've been working hands-on TTD Kokai since the past year, managed campaigns worth $20M.  \nWhere I can look for remote opportunities? I would appreciate any leads.\n\nWould also love to connect with you if you're already doing this and willing to share how you found such work.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p5l8u1",
       "title": "Amobee/Unruly - Nexxen",
       "author": "Ok-Composer-3035",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q1vyyo/dmp_data/",
       "created_utc": 1767352204.0,
       "content": "I am researching the domain of programmatic advertising and am intrigued by the DMP side of the process.\n\nI am looking at learning more about audience classification and how the current visitor is classified, what are the certainties in this process, uncertainties, etc.\n\nFurther more, I'm curious how the DSP gets to interpret such information.\n\nAnyone can point me in the right directions?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q3u3fu",
+      "title": "Question for open-web buyers: Are we actually able to explain where programmatic value is lost today?",
+      "author": "ziom_1045",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q3u3fu/question_for_openweb_buyers_are_we_actually_able/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q3u3fu/question_for_openweb_buyers_are_we_actually_able/",
+      "created_utc": 1767543792.0,
+      "content": "I’m trying to sanity-check a way of looking at open-web programmatic that feels slightly different from how most tools approach it today.\n\nMost SPO, verification, and quality solutions seem to focus on **individual symptoms** — MFA lists, preferred SSPs, viewability/fraud metrics, DSP-level SPO recommendations. All useful, but they still leave a gap when it comes to understanding **how a campaign dollar actually moves through the supply chain end-to-end**, and which hops add real value versus just cost, latency, and compute.\n\nThe angle I’m exploring is more *forensic* than real-time:  \nreconstructing post-campaign **supply paths at the impression level** (direct vs reseller depth, repeated SSP patterns, inefficient routing), layering in **inventory quality signals**, and looking at the **infrastructure side** as well (unnecessary auctions, duplicated bidding, carbon/compute overhead). Not trying to replace DSPs or verification vendors, but to create a **neutral decision layer** that sits outside platform-biased reporting.\n\nThe interesting part (at least conceptually) is what this enables *after* the analysis — if certain paths consistently show lower waste and better efficiency, those insights could be used to **inform more deliberate buying decisions** (e.g., prioritizing specific paths or curated deals), rather than relying purely on broad SSP preferences or blacklists.\n\nGenuine questions for people hands-on with open-market buying/selling:\n\n* Do current SPO + verification stacks give you enough clarity on **where value is actually lost**, or do you mostly accept some level of opacity?\n* When MFA or inefficiency shows up, do you usually know **which supply paths caused it**, or just which domains/SSPs were involved?\n* Would an **independent, post-campaign supply-chain audit** be useful in practice, or is this already solved better than it looks from the outside?\n\nTrying to understand if this gap is real or if the industry has already moved past it. Curious to hear practitioner perspectives.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
