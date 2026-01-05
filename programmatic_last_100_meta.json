@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p5l8u1",
-      "title": "Amobee/Unruly - Nexxen",
-      "author": "Ok-Composer-3035",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p5l8u1/amobeeunruly_nexxen/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p5l8u1/amobeeunruly_nexxen/",
-      "created_utc": 1764000973.0,
-      "content": "Does anyone have experience working at Nexxen (Amobee/Unruly)? I’m trying to get a realistic sense of what the day to day, culture, and growth opportunities are like there.\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p5q1z4",
       "title": "Mentally exhausted after 3 years in a toxic job, need help preparing for Publicis interview (Assoc. Manager, Programmatic) | India",
       "author": "Julius_Sneezerr",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q3u3fu/question_for_openweb_buyers_are_we_actually_able/",
       "created_utc": 1767543792.0,
       "content": "I’m trying to sanity-check a way of looking at open-web programmatic that feels slightly different from how most tools approach it today.\n\nMost SPO, verification, and quality solutions seem to focus on **individual symptoms** — MFA lists, preferred SSPs, viewability/fraud metrics, DSP-level SPO recommendations. All useful, but they still leave a gap when it comes to understanding **how a campaign dollar actually moves through the supply chain end-to-end**, and which hops add real value versus just cost, latency, and compute.\n\nThe angle I’m exploring is more *forensic* than real-time:  \nreconstructing post-campaign **supply paths at the impression level** (direct vs reseller depth, repeated SSP patterns, inefficient routing), layering in **inventory quality signals**, and looking at the **infrastructure side** as well (unnecessary auctions, duplicated bidding, carbon/compute overhead). Not trying to replace DSPs or verification vendors, but to create a **neutral decision layer** that sits outside platform-biased reporting.\n\nThe interesting part (at least conceptually) is what this enables *after* the analysis — if certain paths consistently show lower waste and better efficiency, those insights could be used to **inform more deliberate buying decisions** (e.g., prioritizing specific paths or curated deals), rather than relying purely on broad SSP preferences or blacklists.\n\nGenuine questions for people hands-on with open-market buying/selling:\n\n* Do current SPO + verification stacks give you enough clarity on **where value is actually lost**, or do you mostly accept some level of opacity?\n* When MFA or inefficiency shows up, do you usually know **which supply paths caused it**, or just which domains/SSPs were involved?\n* Would an **independent, post-campaign supply-chain audit** be useful in practice, or is this already solved better than it looks from the outside?\n\nTrying to understand if this gap is real or if the industry has already moved past it. Curious to hear practitioner perspectives.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q4gpaa",
+      "title": "Looking for Websites to Learn DSP Ads & Traffic Analysis?",
+      "author": "Pleasant-Winner4605",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q4gpaa/looking_for_websites_to_learn_dsp_ads_traffic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q4gpaa/looking_for_websites_to_learn_dsp_ads_traffic/",
+      "created_utc": 1767603197.0,
+      "content": "I’m a beginner with DSP ads. Can anyone share some websites where I can learn what DSPs are, how they work, and how to analyze traffic or placements properly? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
