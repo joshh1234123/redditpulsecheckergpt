@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-06T20:16:36.577444+00:00",
-    "total_posts": 1162,
+    "scrape_date": "2026-01-06T20:43:41.283961+00:00",
+    "total_posts": 1163,
     "total_comments": 9329
   },
   "discussions": [
@@ -73190,6 +73190,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q5pdcb/new_ooh_programmatic_dsp_wanting_feedback/",
       "created_utc": 1767721460.0,
       "content": "Hey guys!\n\nWe recently launched a new programmatic DSP for OOH inventory and would love some feedback from other media buyers! Happy to give a demo (PM me) - but you can also explore yourself at [https://vuebillboards.com](https://vuebillboards.com)\n\nWe recently connected Perion's SSP. Looking forward to improving the product!\n\n  \nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1q5u7mg",
+      "title": "Anyone out there really using agentic buying and other AI automations?",
+      "author": "MX-2000",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q5u7mg/anyone_out_there_really_using_agentic_buying_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q5u7mg/anyone_out_there_really_using_agentic_buying_and/",
+      "created_utc": 1767731776.0,
+      "content": "It seems everyone's talking about it, but are any of you actually using agents or other AI automation tools to set up, buy and optimize your media? If so, very interested to know more about what you're doing and how it's working for you.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
