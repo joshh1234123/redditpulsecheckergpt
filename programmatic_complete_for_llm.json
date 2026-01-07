@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-07T19:39:40.449510+00:00",
-    "total_posts": 1167,
+    "scrape_date": "2026-01-07T20:17:47.931562+00:00",
+    "total_posts": 1168,
     "total_comments": 9337
   },
   "discussions": [
@@ -73314,6 +73314,20 @@
           "created_utc": 1767802662.0
         }
       ]
+    },
+    {
+      "id": "1q6pvsv",
+      "title": "CTV Campaigns in DV360",
+      "author": "Inside-Valuable2645",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q6pvsv/ctv_campaigns_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6pvsv/ctv_campaigns_in_dv360/",
+      "created_utc": 1767815965.0,
+      "content": "How to measure and optimise CTV campaigns? I never worked on CTV campaigns, can someone tell me, what are all the checklist to be followed while creating CTV campaign in DV360? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
