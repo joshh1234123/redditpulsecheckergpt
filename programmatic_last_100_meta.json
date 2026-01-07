@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p6sgga",
-      "title": "Walmart exploring ads in their LLM?",
-      "author": "Moist-Visit-6892",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p6sgga/walmart_exploring_ads_in_their_llm/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6sgga/walmart_exploring_ads_in_their_llm/",
-      "created_utc": 1764114374.0,
-      "content": "[https://www.wsj.com/business/retail/walmart-is-exploring-bringing-ads-to-sparky-its-new-ai-shopping-agent-83e45344](https://www.wsj.com/business/retail/walmart-is-exploring-bringing-ads-to-sparky-its-new-ai-shopping-agent-83e45344)\n\n  \nWhat the heck does this mean for programmatic?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p6spyg",
       "title": "Looking for Freelance/Contract Roles",
       "author": "Amazing_Chemical7681",
@@ -1302,6 +1289,19 @@
       "created_utc": 1767796716.0,
       "content": "Saw another post similar to this so I hope this is okay, and to be clear, this is not live yet and a serious MVP (unless a ten-thousand of you sign up today. If so I’ll waltz into CES tonight and make an announcement…kidding, or am I?).\n\nSo what am I working on, a consumer facing LLM where consumers own their data and are paid for it in every way possible- A majority cut of ad spend, data broker/marketplace profit, referrals, even identity verification for ID res solutions. Sky is the limit. Why now?\n\n1.) In a multi-trillion dollar a year industry. Consumers should have control and get paid for their identity. Beyond the value exchange of ‘open web’, although reading 33 pages about the authors missing finger and cranky stepdad, to get to a ‘free’ recipe on NYT is pretty sweet. I prefer my ChatGPT recipe, even if it’s just pulled from NYT (I get the irony).\n\n2.) There has been no better time for a value exchange trade then now, with AI search capturing so much contextual data and being a one stop shop for consumer search.\n\nYou have a million questions and are probably thinking 1.) Why would anyone use yours over another LLM? 2.) Value exchange is already happening on open web, that’s the point. 3.) OpenAI will do this in the next year - you watch!\n\nFair points and I do have answers. On point three if someone from OpenAI sees this I’ll come work for you or even better, sell you my MVP for a billion. \n\nThank you for joining my TED Talk.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q6j0lq",
+      "title": "DV360 Device Targeting Question..",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q6j0lq/dv360_device_targeting_question/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6j0lq/dv360_device_targeting_question/",
+      "created_utc": 1767801212.0,
+      "content": "You can select these options:\n\nhttps://preview.redd.it/vhx04kof8ybg1.png?width=454&format=png&auto=webp&s=1814a5c346b034d06e5faaae04a2ff0c49647a07\n\nHowever when I run a report \"Set-top Box\" shows up as a device type.\n\nHow do you target \"set-top box\", the weird part that only showed up at least what I think showed up when I had selected \"computer & connected tv\"",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

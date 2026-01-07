@@ -1,0 +1,22 @@
+{
+  "id": "1q6j0lq",
+  "thread_id": "1q6j0lq",
+  "title": "DV360 Device Targeting Question..",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1q6j0lq/dv360_device_targeting_question/",
+  "created_utc": 1767801212.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Diligent_Interview98",
+      "body": "Are you able to target only device type by ORTB number? 7 would be for “set top box”. Could be that your budget is getting gobbled up by a supplier under “CTV” that has only set top box inventory",
+      "score": 1,
+      "created_utc": 1767802206.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "That's not an option in DV360",
+      "score": 1,
+      "created_utc": 1767802662.0
+    }
+  ]
+}
