@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p6eb4e",
-      "title": "Is this a clear way to report channel performance when programmatic is part of the mix?",
-      "author": "madman3007",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p6eb4e/is_this_a_clear_way_to_report_channel_performance/",
-      "created_utc": 1764082081.0,
-      "content": "For businesses that run multiple marketing channels at once, I’m curious how you’ve seen **financial performance** reported when **programmatic** is in the overall mix.\n\nDo you usually:\n\n* Break out individual programmatic channels (e.g., CTV, display, native, audio, etc.)?\n* Lump everything together under one “programmatic” bucket?\n* Or use some other structure?\n\nI’m trying to figure out what reporting approach makes the most sense.  \n**What has worked best in your experience?**",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p6sgga",
       "title": "Walmart exploring ads in their LLM?",
       "author": "Moist-Visit-6892",
@@ -1302,6 +1289,19 @@
       "created_utc": 1767789814.0,
       "content": "All BOK ever focuses on now is agentic. AI is an insane energy footprint.",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q6h180",
+      "title": "Anyone Willing To Test",
+      "author": "New_Independent9015",
+      "score": 0,
+      "url": "https://exodusgpt.com",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6h180/anyone_willing_to_test/",
+      "created_utc": 1767796716.0,
+      "content": "Saw another post similar to this so I hope this is okay, and to be clear, this is not live yet and a serious MVP (unless a ten-thousand of you sign up today. If so I’ll waltz into CES tonight and make an announcement…kidding, or am I?).\n\nSo what am I working on, a consumer facing LLM where consumers own their data and are paid for it in every way possible- A majority cut of ad spend, data broker/marketplace profit, referrals, even identity verification for ID res solutions. Sky is the limit. Why now?\n\n1.) In a multi-trillion dollar a year industry. Consumers should have control and get paid for their identity. Beyond the value exchange of ‘open web’, although reading 33 pages about the authors missing finger and cranky stepdad, to get to a ‘free’ recipe on NYT is pretty sweet. I prefer my ChatGPT recipe, even if it’s just pulled from NYT (I get the irony).\n\n2.) There has been no better time for a value exchange trade then now, with AI search capturing so much contextual data and being a one stop shop for consumer search.\n\nYou have a million questions and are probably thinking 1.) Why would anyone use yours over another LLM? 2.) Value exchange is already happening on open web, that’s the point. 3.) OpenAI will do this in the next year - you watch!\n\nFair points and I do have answers. On point three if someone from OpenAI sees this I’ll come work for you or even better, sell you my MVP for a billion. \n\nThank you for joining my TED Talk.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
