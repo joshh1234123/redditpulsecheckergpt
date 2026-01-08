@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-08T15:18:48.416352+00:00",
-    "total_posts": 1170,
+    "scrape_date": "2026-01-08T15:47:55.005328+00:00",
+    "total_posts": 1171,
     "total_comments": 9337
   },
   "discussions": [
@@ -73352,6 +73352,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q79555/sharing_a_best_practice_ive_integrated_ryze_ai/",
       "created_utc": 1767870835.0,
       "content": "I've found Ryze AI useful for pulling reports across all my accounts at once and catching stuff I'd miss - like broken tracking after a client updated their site.  \nNow I just check it every morning and fix what it flags. Consistently catches things before they become problems.  \nAnyone else using it this way? Or any other AI tools for managing ads? Curious to hear what's working",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1q7ej4l",
+      "title": "Any feedback how to make adjustment in DV360?",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q7ej4l/any_feedback_how_to_make_adjustment_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q7ej4l/any_feedback_how_to_make_adjustment_in_dv360/",
+      "created_utc": 1767885663.0,
+      "content": "I have a few deals with FreeWheel they told me:\n\nWe see your win rate is currently 60% which is fairly competitive, with bids being filtered due to competition failure which can be expected. \n\nWe'd recommend increasing the amount of bids (not necessarily CPMs) if you'd like to see more traction.\n\n  \n\\--How do I increase the amount of bids? I am new to DV360 so not sure what I should be changing if not necessarily CPMs.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
