@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-08T16:20:51.489405+00:00",
-    "total_posts": 1171,
-    "total_comments": 9337
+    "scrape_date": "2026-01-08T16:54:33.707041+00:00",
+    "total_posts": 1172,
+    "total_comments": 9340
   },
   "discussions": [
     {
@@ -73370,6 +73370,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1q7g6ha",
+      "title": "Do you believe Amazon connected TV reach claims?",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://i.redd.it/cky7ivlri5cg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q7g6ha/do_you_believe_amazon_connected_tv_reach_claims/",
+      "created_utc": 1767889402.0,
+      "content": "I see some skepticism with Amazon\n\nAmazon claims to lead ad-supported streaming reach in every major Western market except Australia. Do you believe their numbers? What is your experience comparing to Netflix?\n\nHere are USA, but happy to share others.  I wish they would release monthly or weekly numbers.\n\nI'd also like to know Roku's, but they only release global figures.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MalcolmButlersTruck",
+          "body": "Yes because this is really just their Amazon prime membership reach. Highly doubt this is active monthly users but does represent their hypothetical reach.",
+          "score": 3,
+          "created_utc": 1767889563.0
+        },
+        {
+          "author": "Diligent_Interview98",
+          "body": "Some content on prime video’s ad free membership still contains ads so it’s likely they’re just using all prime members",
+          "score": 1,
+          "created_utc": 1767890660.0
+        },
+        {
+          "author": "hdiggyh",
+          "body": "Stats have shown prime is less than 3% or total viewed minutes on streaming",
+          "score": 1,
+          "created_utc": 1767890712.0
+        }
+      ]
     }
   ]
 }
