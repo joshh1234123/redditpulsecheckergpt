@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-08T10:48:15.227068+00:00",
-    "total_posts": 1169,
+    "scrape_date": "2026-01-08T11:15:17.655540+00:00",
+    "total_posts": 1170,
     "total_comments": 9337
   },
   "discussions": [
@@ -73338,6 +73338,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q6tlba/today_i_regained_my_strength/",
       "created_utc": 1767824387.0,
       "content": "Despite some negative comments from a few people, I completely understand their points of view.\nIn fact, it made me stronger and more aware — even tough feedback can carry valuable truth.\n\nWhat truly motivated me were the responses from those who advised caution and wished me success.\nThat kind of honest, thoughtful support really makes a difference.\n\nThank you, my friends 🙏\nI’ve decided to share everything about my journey with you, step by step.\nI’m looking forward to your prayers, feedback, and constructive criticism\n\nDid you know that because of \"\"this image\"\" someone once told me:\n“You can’t compete on Fiverr.”\n\nI shared this image with him, and his response afterward was:\n“You are a fighter.”\n\nMaybe the path isn’t easy, and maybe the competition is tough,\nbut persistence and consistent effort always make the difference.\n\nI truly believe that hard work overcomes doubt,\nand that a humble beginning does not mean a weak ending.\n\nStill moving forward — and the best is yet to come 💪\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1q79555",
+      "title": "Sharing a best practice: I've integrated Ryze AI into how I manage 23 ad accounts",
+      "author": "Far-Panic3458",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q79555/sharing_a_best_practice_ive_integrated_ryze_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q79555/sharing_a_best_practice_ive_integrated_ryze_ai/",
+      "created_utc": 1767870835.0,
+      "content": "I've found Ryze AI useful for pulling reports across all my accounts at once and catching stuff I'd miss - like broken tracking after a client updated their site.  \nNow I just check it every morning and fix what it flags. Consistently catches things before they become problems.  \nAnyone else using it this way? Or any other AI tools for managing ads? Curious to hear what's working",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
