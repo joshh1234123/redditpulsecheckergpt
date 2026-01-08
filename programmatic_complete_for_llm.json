@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-08T21:15:07.773888+00:00",
-    "total_posts": 1173,
+    "scrape_date": "2026-01-08T21:41:27.102035+00:00",
+    "total_posts": 1174,
     "total_comments": 9340
   },
   "discussions": [
@@ -73413,6 +73413,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q7m7d3/need_help_with_amazon_dsp/",
       "created_utc": 1767902351.0,
       "content": "Hello everyone!  \n  \nI am looking to connect with Amazon DSP specialists, managers, or agencies.   \n  \n  \nThanks.  \n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1q7ocq9",
+      "title": "Anyone run those Hulu deals on market place for DV360? The ones in the 40s?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q7ocq9/anyone_run_those_hulu_deals_on_market_place_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q7ocq9/anyone_run_those_hulu_deals_on_market_place_for/",
+      "created_utc": 1767907112.0,
+      "content": "Curious the Hulu Deals at $40 CPM, on market place, what kind of shows does that get you VS like FreeWheel or Disney Drax at around $25 CPM? \n\nWould be interesting to know what other \"premium\" deals exist and is the shows really that much better?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
