@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p87ys8",
-      "title": "Multi-size placements vs multi-calling the same SSP (in-video overlay setup)",
-      "author": "NeedleworkerNo9234",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p87ys8/multisize_placements_vs_multicalling_the_same_ssp/",
-      "created_utc": 1764264533.0,
-      "content": "Hey all,\n\nI’d love some opinions from the community on where the line really is between *legit multi-size* and *auction duplication* in this kind of setup:\n\n* I have **one in-video display slot** (side of the video).\n* The **layout changes based on the creative size**: e.g. a 300x250 shrinks the video more, a 200x200 shrinks it less, etc. Still only **one ad shown at a time** in that area.\n* In Prebid I can run it as a **multi-size ad unit** (300x250, 200x200, 320x50, etc.).\n* For some SSPs, I currently have **multiple placements (one per size)**, so the same SSP may get multiple bid requests for what is essentially the same visual slot in that moment.\n\nI know the textbook guidance is “one auction per impression per SSP”, but given that the layout and user experience *do* change with size, I’m trying to understand how strict people are about this in practice.\n\n**Questions:**\n\n1. Would you consider “one slot, multiple SSP placements per size, all called for the same impression” a clear case of auction duplication, even if only one ad ultimately renders?\n2. Is the strongly preferred best practice here just **one multi-size placement per SSP**, and then let my own layout logic decide how much the video shrinks based on the winning size?\n3. Has anyone successfully defended a multi-placement setup like this with SSPs, or is it a non-starter from a policy / traffic-quality standpoint?\n\nIf you want to see the kind of layout I’m talking about, here’s an example page. Just play the video in full screen and the viewport will shrink and an ad appears:  \n[https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12](https://golo.afatv.pt/pt/watch/j12-oliveira-bairro-sc-vs-sc-esmoriz?playlist=jornada-12)\n\n**Disclaimer:** This post was drafted with the help of AI to describe the setup clearly; the underlying questions and concerns are mine.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p8xj0q",
       "title": "eCPM: a verdade sobre a qual ninguém fala",
       "author": "Savings-Ad6188",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q7ocq9/anyone_run_those_hulu_deals_on_market_place_for/",
       "created_utc": 1767907112.0,
       "content": "Curious the Hulu Deals at $40 CPM, on market place, what kind of shows does that get you VS like FreeWheel or Disney Drax at around $25 CPM? \n\nWould be interesting to know what other \"premium\" deals exist and is the shows really that much better?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q86z4o",
+      "title": "TLDR: Week in Review - Amazon's Measurement Play, Omnicom's bets, and More",
+      "author": "data_spy",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q86z4o/tldr_week_in_review_amazons_measurement_play/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q86z4o/tldr_week_in_review_amazons_measurement_play/",
+      "created_utc": 1767961653.0,
+      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n\\- Amazon positions itself as TV's new measurement standard - Pitching authenticated household reach and closed-loop attribution with programmatic access to 90% of U.S. households\n\n\\- Omnicom links Walmart data to Instagram influencers - New partnership identifies creators based on what their followers actually buy, not just follower counts\n\n\\- Adtech braces for AI disruption - Chatbots threatening web traffic while industry bets on AI agents advertising to other AI agents\n\n**Quick Hits:**\n\n\\- Privacy shifts accelerating: New state youth privacy laws and AI content metadata rules catching marketers off guard\n\n\\- Sports ad boom continues: WPP launches dedicated sports practice, NBCU sells out Winter Olympics inventory a month early\n\n\\- Cloudflare CEO becomes unlikely publisher ally after discovering Google scrapes 18 pages per visitor sent back, OpenAI takes 1,500\n\n\\- Reddit launches Max Campaigns: AI-powered ad tool promising more transparency than Google and Meta\n\n\\- WPP hires Angela Steele from Publicis as US chief client officer after major account losses\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-192026) \n\nWhat's your take on Amazon's push to become the measurement standard for TV advertising?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
