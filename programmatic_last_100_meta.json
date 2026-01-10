@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1p91k6u",
-      "title": "User access",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1p91k6u/user_access/",
-      "created_utc": 1764352951.0,
-      "content": "If I delete a user access in dv360 do I have any effect on related campaigns? What about amazon?\nThansk",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1p9wm53",
       "title": "AdCP & ARTF",
       "author": "travislusk",
@@ -1302,6 +1289,19 @@
       "created_utc": 1768045787.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q92xjn",
+      "title": "Any places offering seat at The Trade Desk?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q92xjn/any_places_offering_seat_at_the_trade_desk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q92xjn/any_places_offering_seat_at_the_trade_desk/",
+      "created_utc": 1768048338.0,
+      "content": "The ad tech partner I was working with said I had to spend $5k-$7k a month to get a seat there. \n\nAre there any other places that offer seat that have no \"monthly\" minimum just take a % of your monthly ad spend?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

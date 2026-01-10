@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-10T12:27:10.599745+00:00",
-    "total_posts": 1176,
-    "total_comments": 9340
+    "scrape_date": "2026-01-10T13:06:15.463444+00:00",
+    "total_posts": 1177,
+    "total_comments": 9342
   },
   "discussions": [
     {
@@ -73459,6 +73459,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1q92xjn",
+      "title": "Any places offering seat at The Trade Desk?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q92xjn/any_places_offering_seat_at_the_trade_desk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q92xjn/any_places_offering_seat_at_the_trade_desk/",
+      "created_utc": 1768048338.0,
+      "content": "The ad tech partner I was working with said I had to spend $5k-$7k a month to get a seat there. \n\nAre there any other places that offer seat that have no \"monthly\" minimum just take a % of your monthly ad spend?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "If you have that amount of money why are you going with the most expensive option?",
+          "score": 1,
+          "created_utc": 1768049631.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "All the feedback received via DM on reddit keep saying how deals run better via TTD vs DV360",
+          "score": 1,
+          "created_utc": 1768049988.0
+        }
+      ]
     }
   ]
 }
