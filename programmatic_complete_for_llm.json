@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-10T16:45:39.846166+00:00",
-    "total_posts": 1177,
-    "total_comments": 9342
+    "scrape_date": "2026-01-10T17:12:24.803527+00:00",
+    "total_posts": 1178,
+    "total_comments": 9343
   },
   "discussions": [
     {
@@ -73484,6 +73484,27 @@
           "body": "All the feedback received via DM on reddit keep saying how deals run better via TTD vs DV360",
           "score": 1,
           "created_utc": 1768049988.0
+        }
+      ]
+    },
+    {
+      "id": "1q98x8c",
+      "title": "THC content",
+      "author": "Diligent_Interview98",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q98x8c/thc_content/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q98x8c/thc_content/",
+      "created_utc": 1768063662.0,
+      "content": "Curious if advertisers are buying this type of video pre-roll content? or will DSP’s just not bid on it? Are there any SSP’s that would on board it?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "solidshaikh",
+          "body": "What is THC content?",
+          "score": 1,
+          "created_utc": 1768065025.0
         }
       ]
     }
