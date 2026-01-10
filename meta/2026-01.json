@@ -329,6 +329,21 @@
       "link_flair_text": null,
       "thread_id": "1q9cw5r",
       "thread_path": "1q9cw5r.json"
+    },
+    {
+      "id": "1q9dlyd",
+      "title": "Any recommendations?",
+      "author": "ViolinistBest7035",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q9dlyd/any_recommendations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q9dlyd/any_recommendations/",
+      "created_utc": 1768074428.0,
+      "content": "The company I work for targets healthcare professionals (HCPs) and sell digital products. We're looking to launch programmatic ads (managed or hiring a buyer to run self-serve) to test it out and my current marketer says that The Trade Desk \"TTD\" is the gold standard but we'd need a white labeled group to access it since our spend us not high enough for the TDD minimum (like Choozle or something?). The goal would be to supplement what we're already doing successfully on Google, Microsoft and Meta. \n\n  \nI'm new to this space. For targeting HCPs, is working with a group like choozle or similar to access TTD the best approach? AI recommends stuff like Stackadapt but its rationale doesn't make a ton of sense to me. I know there is stuff like DeepIntent or Pulsepoint but with our AoV being around $50-$70, I don't know if those may be too expensive CPM or CPC.  ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1q9dlyd",
+      "thread_path": "1q9dlyd.json"
     }
   ]
 }
