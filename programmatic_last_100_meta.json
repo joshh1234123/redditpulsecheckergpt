@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pa4q2r",
-      "title": "Amazon DSP Performance+ Remarketing",
-      "author": "SinFaPersonal",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pa4q2r/amazon_dsp_performance_remarketing/",
-      "created_utc": 1764463554.0,
-      "content": "Hi Reddit!\n\nGot a questions about signals/data used for Performance+ line items, specifically remarketing.\n\nDoes the algo optimize solely based on data from other line items in the same campaign or product, or does it also take organic traffic signals/data for that product?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pajozx",
       "title": "Amazon DSP - Online Video VS Streaming TV?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1768063662.0,
       "content": "Curious if advertisers are buying this type of video pre-roll content? or will DSP’s just not bid on it? Are there any SSP’s that would on board it?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q9cw5r",
+      "title": "Repost: New OOH Programmatic DSP Wanting Feedback",
+      "author": "brian_becker",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q9cw5r/repost_new_ooh_programmatic_dsp_wanting_feedback/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q9cw5r/repost_new_ooh_programmatic_dsp_wanting_feedback/",
+      "created_utc": 1768072782.0,
+      "content": "Hey guys!\n\nWe recently launched a new programmatic DSP for OOH inventory and would love some feedback from other media buyers! Happy to give a demo (PM me) - but you can also explore yourself at [https://vuebillboards.com](https://vuebillboards.com/)\n\nWe recently connected Perion's SSP. Looking forward to improving the product! Please do let me know any features you think we should add / change. \n\n  \nThanks!",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
