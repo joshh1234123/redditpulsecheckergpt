@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-11T17:39:40.277944+00:00",
-    "total_posts": 1181,
+    "scrape_date": "2026-01-11T18:20:09.799862+00:00",
+    "total_posts": 1182,
     "total_comments": 9345
   },
   "discussions": [
@@ -73558,6 +73558,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1q9tbqp/pg_pmp_campaigns/",
       "created_utc": 1768117109.0,
       "content": "Hey guys, l've been running Display campaigns in DV360 with open auctions where IO's targeting custom intent based and third party audiences\n\nI have a doubt, \n\nIf I run PG or PMP deal does targeting work the same way? Can we still use affinity or in market audiences or even third party data while running PG or PMP deals? Is that possible?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qa67xn",
+      "title": "Ad Ops Specialist here - stuck",
+      "author": "the_world_is_minee",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qa67xn/ad_ops_specialist_here_stuck/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qa67xn/ad_ops_specialist_here_stuck/",
+      "created_utc": 1768154615.0,
+      "content": "Hey everyone,\n\nI’ve been a Senior Ad Ops Specialist at a major iGaming company for the past 3 years. While I’ve mastered the current stack, I feel I’ve hit a ceiling in terms of both salary and technical growth. I’m looking for a new challenge, specifically moving deeper into the **Programmatic** space. I’m currently completing my Google Marketing Platform certifications (CM360 & DV360).  \n  \nAd ops is really fun but there is no way i can do this for next 20 years :)...  \n  \nCan anyone hook me up in the right direction? Is there anything I should be doing right now to advance?  \n  \nIf you’re hiring or have advice on making the jump from pure Ad Ops to Programmatic, I’d love to hear from you :) ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
