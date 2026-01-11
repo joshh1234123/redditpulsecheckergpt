@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pbani4",
-      "title": "What would you like to see in a monthly newsletter for publishers?",
-      "author": "Worth_Mongoose_5205",
-      "score": 1,
-      "url": "/r/adops/comments/1pbamvq/what_would_you_like_to_see_in_a_monthly/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pbani4/what_would_you_like_to_see_in_a_monthly/",
-      "created_utc": 1764589408.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pbbkld",
       "title": "Is programmatic the next right career option for me?",
       "author": "GayaIRL",
@@ -1302,6 +1289,19 @@
       "created_utc": 1768074428.0,
       "content": "The company I work for targets healthcare professionals (HCPs) and sell digital products. We're looking to launch programmatic ads (managed or hiring a buyer to run self-serve) to test it out and my current marketer says that The Trade Desk \"TTD\" is the gold standard but we'd need a white labeled group to access it since our spend us not high enough for the TDD minimum (like Choozle or something?). The goal would be to supplement what we're already doing successfully on Google, Microsoft and Meta. \n\n  \nI'm new to this space. For targeting HCPs, is working with a group like choozle or similar to access TTD the best approach? AI recommends stuff like Stackadapt but its rationale doesn't make a ton of sense to me. I know there is stuff like DeepIntent or Pulsepoint but with our AoV being around $50-$70, I don't know if those may be too expensive CPM or CPC.  ",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1q9tbqp",
+      "title": "PG & PMP Campaigns",
+      "author": "Inside-Valuable2645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q9tbqp/pg_pmp_campaigns/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q9tbqp/pg_pmp_campaigns/",
+      "created_utc": 1768117109.0,
+      "content": "Hey guys, l've been running Display campaigns in DV360 with open auctions where IO's targeting custom intent based and third party audiences\n\nI have a doubt, \n\nIf I run PG or PMP deal does targeting work the same way? Can we still use affinity or in market audiences or even third party data while running PG or PMP deals? Is that possible?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

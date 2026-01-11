@@ -344,6 +344,21 @@
       "link_flair_text": null,
       "thread_id": "1q9dlyd",
       "thread_path": "1q9dlyd.json"
+    },
+    {
+      "id": "1q9tbqp",
+      "title": "PG & PMP Campaigns",
+      "author": "Inside-Valuable2645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1q9tbqp/pg_pmp_campaigns/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1q9tbqp/pg_pmp_campaigns/",
+      "created_utc": 1768117109.0,
+      "content": "Hey guys, l've been running Display campaigns in DV360 with open auctions where IO's targeting custom intent based and third party audiences\n\nI have a doubt, \n\nIf I run PG or PMP deal does targeting work the same way? Can we still use affinity or in market audiences or even third party data while running PG or PMP deals? Is that possible?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1q9tbqp",
+      "thread_path": "1q9tbqp.json"
     }
   ]
 }
