@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-12T07:00:29.384351+00:00",
-    "total_posts": 1182,
+    "scrape_date": "2026-01-12T07:45:21.172777+00:00",
+    "total_posts": 1183,
     "total_comments": 9345
   },
   "discussions": [
@@ -73572,6 +73572,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qa67xn/ad_ops_specialist_here_stuck/",
       "created_utc": 1768154615.0,
       "content": "Hey everyone,\n\nI’ve been a Senior Ad Ops Specialist at a major iGaming company for the past 3 years. While I’ve mastered the current stack, I feel I’ve hit a ceiling in terms of both salary and technical growth. I’m looking for a new challenge, specifically moving deeper into the **Programmatic** space. I’m currently completing my Google Marketing Platform certifications (CM360 & DV360).  \n  \nAd ops is really fun but there is no way i can do this for next 20 years :)...  \n  \nCan anyone hook me up in the right direction? Is there anything I should be doing right now to advance?  \n  \nIf you’re hiring or have advice on making the jump from pure Ad Ops to Programmatic, I’d love to hear from you :) ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qaor92",
+      "title": "Title: UK Market Check: Is anyone else seeing TTD minimums spike for 2026?",
+      "author": "jackfredellis",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qaor92/title_uk_market_check_is_anyone_else_seeing_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qaor92/title_uk_market_check_is_anyone_else_seeing_ttd/",
+      "created_utc": 1768203475.0,
+      "content": "I’ve been talking to a few UK-based traders lately and it feels like the entry point for a direct TTD seat has become unreachable for anyone not spending £100k+ a month.\n\nA lot of mid-sized teams have the talent for hands-on-keyboard trading but are being forced onto \"lite\" DSPs or managed services with hidden margins just because they don't hit those enterprise spend thresholds.\n\nI’ve actually found a way to bypass these minimums while still getting a full, direct seat (identical to going direct to TTD). It’s been a game changer for keeping autonomy without the massive overhead.\n\nIf anyone else in the UK is hitting this wall and wants to know how to set it up, drop me a DM or leave a comment - happy to share what worked for us.\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
