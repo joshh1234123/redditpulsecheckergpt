@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-12T15:19:17.512621+00:00",
-    "total_posts": 1184,
+    "scrape_date": "2026-01-12T15:48:13.367660+00:00",
+    "total_posts": 1185,
     "total_comments": 9345
   },
   "discussions": [
@@ -73600,6 +73600,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qauk11/skill_swap_i_offer_9_years_of_adtech_engineering/",
       "created_utc": 1768223671.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qaxnsn",
+      "title": "(Recap list) Challenges switching from The Trade Desk to Amazon DSP",
+      "author": "NiceRecognition9603",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qaxnsn/recap_list_challenges_switching_from_the_trade/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qaxnsn/recap_list_challenges_switching_from_the_trade/",
+      "created_utc": 1768231235.0,
+      "content": "I have a product that I wont mention here and I've been digging into this topic lately. I wanted to share what I found about switching from The Trade Desk to Amazon DSP. I'm exAmazon and I never used TTD, so I can't offer support about TTD migration issues, not selling. Jut sharing knowledge I collected. If someone has more blockers or ideas I would love to hear them.\n\n**Why you might want to try Amazon it if you're on TTD:**\n\n* You have a product that sells on Amazon and want their attribution data\n* You actually need Amazon's exclusive inventory, like Prime video.\n* Sometimes you can get free Amazon impressions depending on timing, your reseller, or if amazon launched a new ad product\n* It's not too hard to pick up (Not saying it has good UI)\n* They've added inventory from places like Netflix, so it's getting closer to what TTD offers\n* You can build audiences from Amazon shopping data, which is pretty unique\n\n**The good stuff:**\n\n* Platform fees are reasonable\n\n**The not so good stuff:**\n\n* They're pushing new advertisers toward resellers or their basic Sponsored Ads products fake limited DSP. Nothing really new vs TTD as I understand it, but a shared complain.\n* Getting ads approved is a pain, especially for healthcare, legal, or anything remotely sensitive (I dealt with this firsthand when I worked on Amazon's ad policy team, so confirming, happy to don't have to deal with that anymore)\n* You can't set impression level caps or targets, it's all budget based\n* The system and resellers keeps suggesting Amazon inventory even when you're not selling Amazon products/ need it. In their defense, everyone is trying to get used to you might not be on amazon DSP for their exclusive inventory :D\n* The interface, while not difficult, it is confusing to get around (There are improvements, but also bugs)\n* Reporting isn't as good as TTD **(I would love to learn more here)**\n* They hide Digital Services Taxes from your ROAS numbers (TTD hides many more fees too, just differently)\n* Fewer choices for third party measurement\n* Amazon's ad tag is harder to work with than others, and most teams don't know how to set it up, so conversion tracking gets messy if you're not selling on Amazon\n* Prime Video inventory disappears or gets expensive during holidays and Prime Day\n* Amazon support gets bad in peak season\n* Digital out of home options are very limited",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
