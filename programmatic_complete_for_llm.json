@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-13T05:47:05.159005+00:00",
-    "total_posts": 1187,
+    "scrape_date": "2026-01-13T06:24:26.531279+00:00",
+    "total_posts": 1188,
     "total_comments": 9351
   },
   "discussions": [
@@ -73683,6 +73683,20 @@
           "created_utc": 1768265898.0
         }
       ]
+    },
+    {
+      "id": "1qbjnlo",
+      "title": "DSPs / AdNetworks with free API integrations?",
+      "author": "Full_Steak_9965",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qbjnlo/dsps_adnetworks_with_free_api_integrations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qbjnlo/dsps_adnetworks_with_free_api_integrations/",
+      "created_utc": 1768284230.0,
+      "content": "Doing some research to discover what ad networks and DSPs are allowing access to their APIs without any spend minimums.  TTD is simply out of reach and I'm already plugged in to a few direct pubs like Snap, X, GA, and Amazon Ads.  Trying to get into more CTV and DOOH as well.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
