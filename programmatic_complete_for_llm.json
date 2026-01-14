@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-13T23:37:58.579291+00:00",
-    "total_posts": 1189,
+    "scrape_date": "2026-01-14T01:12:55.253255+00:00",
+    "total_posts": 1190,
     "total_comments": 9351
   },
   "discussions": [
@@ -73707,6 +73707,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qbnsuy/struggling_in_programmatic_dv360_need_clear/",
       "created_utc": 1768299662.0,
       "content": "Hey everyone,  \nI’ve been working in programmatic advertising for about **1.5 years**, mainly on **DV360**, and until recently I genuinely enjoyed the work.\n\nOver the last few months, things have started to feel overwhelming. I work at a **startup in India**, where there’s no structured learning or mentorship. Most things are learned through **trial and error**, but at the same time, there’s pressure to ensure **no impact on client revenue**. Everyone around me is either equally clueless or too busy handling their own accounts to help.\n\nBecause of this, I often feel anxious - especially when new concepts come up and I don’t have anyone to guide me or sanity-check my understanding. Reporting, deriving insights, and strategic media planning have become particularly stressful, and I feel stuck at an intermediate level.\n\nI want to improve and actually **understand advanced DV360 reporting, insight generation, and media strategy**, but I’m not sure:\n\n* *What to focus on first*\n* *How to learn without breaking live campaigns*\n* *What “good” looks like at the next level*\n\nIf anyone has been in a similar situation:\n\n* How did you upskill in programmatic without proper mentorship?\n* Any resources, learning paths, or practical advice you’d recommend?\n* Or even a reality check, is this phase normal in this field?\n\nAppreciate any guidance. I’m honestly feeling a bit burnt out and directionless right now.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qc7j64",
+      "title": "Anyone have experience using Simulmedia/Skybeam?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qc7j64/anyone_have_experience_using_simulmediaskybeam/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qc7j64/anyone_have_experience_using_simulmediaskybeam/",
+      "created_utc": 1768348100.0,
+      "content": "Curious if anyone used it for a few months and has a general opinion about that platform. I see they have a local linear option but its limited just wondering how your campaign performed VS using like DV360 to target same streaming apps.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
