@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-14T07:44:20.464783+00:00",
-    "total_posts": 1190,
+    "scrape_date": "2026-01-14T08:21:46.636315+00:00",
+    "total_posts": 1191,
     "total_comments": 9351
   },
   "discussions": [
@@ -73721,6 +73721,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qc7j64/anyone_have_experience_using_simulmediaskybeam/",
       "created_utc": 1768348100.0,
       "content": "Curious if anyone used it for a few months and has a general opinion about that platform. I see they have a local linear option but its limited just wondering how your campaign performed VS using like DV360 to target same streaming apps.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qchn1o",
+      "title": "CTV buyers: procurement question",
+      "author": "Itchy_Algae_4590",
+      "score": 1,
+      "url": "/r/adops/comments/1qbusik/guidance_needed_ctv_procurement/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qchn1o/ctv_buyers_procurement_question/",
+      "created_utc": 1768377877.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
