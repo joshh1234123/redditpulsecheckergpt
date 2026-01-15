@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-15T11:39:57.819520+00:00",
-    "total_posts": 1194,
+    "scrape_date": "2026-01-15T12:30:51.501392+00:00",
+    "total_posts": 1195,
     "total_comments": 9351
   },
   "discussions": [
@@ -73776,6 +73776,20 @@
       "url": "/r/adops/comments/1qdg9sn/ctv_content_metadata_what_actually_works_in_the/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qdgach/ctv_content_metadata_what_actually_works_in_the/",
       "created_utc": 1768473721.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qdi3c6",
+      "title": "Late payment The Moneytizer",
+      "author": "Historical-Good-6353",
+      "score": 1,
+      "url": "/r/adops/comments/1qdhzmh/late_payment_the_moneytizer/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdi3c6/late_payment_the_moneytizer/",
+      "created_utc": 1768479780.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
