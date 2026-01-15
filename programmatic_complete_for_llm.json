@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-15T12:30:51.501392+00:00",
-    "total_posts": 1195,
+    "scrape_date": "2026-01-15T13:35:25.869871+00:00",
+    "total_posts": 1196,
     "total_comments": 9351
   },
   "discussions": [
@@ -73790,6 +73790,20 @@
       "url": "/r/adops/comments/1qdhzmh/late_payment_the_moneytizer/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qdi3c6/late_payment_the_moneytizer/",
       "created_utc": 1768479780.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qdimou",
+      "title": "Scale without standards isn’t real growth in DOOH",
+      "author": "sanjeevrc",
+      "score": 1,
+      "url": "https://i.redd.it/67zg02mteidg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdimou/scale_without_standards_isnt_real_growth_in_dooh/",
+      "created_utc": 1768481357.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
