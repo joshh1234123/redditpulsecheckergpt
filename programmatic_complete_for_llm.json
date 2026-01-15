@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-15T10:16:59.011086+00:00",
-    "total_posts": 1192,
+    "scrape_date": "2026-01-15T10:48:15.944248+00:00",
+    "total_posts": 1194,
     "total_comments": 9351
   },
   "discussions": [
@@ -73749,6 +73749,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qcmy3e/anyone_use_freewheels_buyers_cloud/",
       "created_utc": 1768396459.0,
       "content": "Any first hand experience using that platform? Curious how it compares to using DV360 or alternative?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qdfzoq",
+      "title": "DV 360",
+      "author": "Far-Possession-7314",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "created_utc": 1768472622.0,
+      "content": "Hi everyone,\n\nMy advertiser is currently working with DV360. I’ve personally never used this platform before\nFor those of you who have made the switch or use both:\n\nWhat are the biggest differences or \"gotchas\" you’ve noticed compared to standard platforms?\n\nHas anyone here run tests on it or knows if it's possible to get a sandbox/test account for learning purposes?\n\nWhat’s the best way to get an advertiser account set up if you aren't a huge agency?\n\nAppreciate any insights!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qdgach",
+      "title": "CTV content metadata: what actually works in the wild (besides IRIS)?",
+      "author": "Itchy_Algae_4590",
+      "score": 1,
+      "url": "/r/adops/comments/1qdg9sn/ctv_content_metadata_what_actually_works_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdgach/ctv_content_metadata_what_actually_works_in_the/",
+      "created_utc": 1768473721.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

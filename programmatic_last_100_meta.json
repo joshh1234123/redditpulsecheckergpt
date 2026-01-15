@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pdzhdu",
-      "title": "Review on Anymind Group",
-      "author": "YogurtclosetSmart650",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pdzhdu/review_on_anymind_group/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pdzhdu/review_on_anymind_group/",
-      "created_utc": 1764853465.0,
-      "content": "Hey everyone, I wanted some reviews on Anymind Group. Have anyone worked with them? If yes, how are they? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1pesyoh",
-      "title": "APS.Amazon - SSPs here reseller or direct?",
-      "author": "TinasOwner23",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pesyoh/apsamazon_ssps_here_reseller_or_direct/",
-      "created_utc": 1764935028.0,
-      "content": "Looking at publishers ads.txt lines, I see that some pubs list the SSPs under Amazon (aps.amazon.com) as all Reseller, whilst others list them all as Direct.\n\n  \nWhat's the correct practice here?\n\n",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pexcfo",
       "title": "TLDR: Week in Review - Advertising's Top Stories about Omnicom-IPG merger, Warner Bros bids, OpenAI delays ads, and more",
       "author": "data_spy",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qcmy3e/anyone_use_freewheels_buyers_cloud/",
       "created_utc": 1768396459.0,
       "content": "Any first hand experience using that platform? Curious how it compares to using DV360 or alternative?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qdfzoq",
+      "title": "DV 360",
+      "author": "Far-Possession-7314",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "created_utc": 1768472622.0,
+      "content": "Hi everyone,\n\nMy advertiser is currently working with DV360. I’ve personally never used this platform before\nFor those of you who have made the switch or use both:\n\nWhat are the biggest differences or \"gotchas\" you’ve noticed compared to standard platforms?\n\nHas anyone here run tests on it or knows if it's possible to get a sandbox/test account for learning purposes?\n\nWhat’s the best way to get an advertiser account set up if you aren't a huge agency?\n\nAppreciate any insights!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qdgach",
+      "title": "CTV content metadata: what actually works in the wild (besides IRIS)?",
+      "author": "Itchy_Algae_4590",
+      "score": 1,
+      "url": "/r/adops/comments/1qdg9sn/ctv_content_metadata_what_actually_works_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdgach/ctv_content_metadata_what_actually_works_in_the/",
+      "created_utc": 1768473721.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

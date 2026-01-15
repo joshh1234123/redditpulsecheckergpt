@@ -524,6 +524,36 @@
       "link_flair_text": null,
       "thread_id": "1qcmy3e",
       "thread_path": "1qcmy3e.json"
+    },
+    {
+      "id": "1qdfzoq",
+      "title": "DV 360",
+      "author": "Far-Possession-7314",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdfzoq/dv_360/",
+      "created_utc": 1768472622.0,
+      "content": "Hi everyone,\n\nMy advertiser is currently working with DV360. I’ve personally never used this platform before\nFor those of you who have made the switch or use both:\n\nWhat are the biggest differences or \"gotchas\" you’ve noticed compared to standard platforms?\n\nHas anyone here run tests on it or knows if it's possible to get a sandbox/test account for learning purposes?\n\nWhat’s the best way to get an advertiser account set up if you aren't a huge agency?\n\nAppreciate any insights!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qdfzoq",
+      "thread_path": "1qdfzoq.json"
+    },
+    {
+      "id": "1qdgach",
+      "title": "CTV content metadata: what actually works in the wild (besides IRIS)?",
+      "author": "Itchy_Algae_4590",
+      "score": 1,
+      "url": "/r/adops/comments/1qdg9sn/ctv_content_metadata_what_actually_works_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qdgach/ctv_content_metadata_what_actually_works_in_the/",
+      "created_utc": 1768473721.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qdgach",
+      "thread_path": "1qdgach.json"
     }
   ]
 }
