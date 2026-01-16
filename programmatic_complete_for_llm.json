@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-16T07:20:32.982279+00:00",
-    "total_posts": 1196,
+    "scrape_date": "2026-01-16T07:43:28.030974+00:00",
+    "total_posts": 1197,
     "total_comments": 9351
   },
   "discussions": [
@@ -73805,6 +73805,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qdimou/scale_without_standards_isnt_real_growth_in_dooh/",
       "created_utc": 1768481357.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qe9im5",
+      "title": "Whose Adaptor Solution is better for client side? Adkernel, PLL, Aniview or any other.",
+      "author": "Voyager0719",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qe9im5/whose_adaptor_solution_is_better_for_client_side/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qe9im5/whose_adaptor_solution_is_better_for_client_side/",
+      "created_utc": 1768548249.0,
+      "content": "Hello Everyone\n\nSince I am expanding my business into websites this year I figured that having an adaptor solution is very crucial to integrate with web publishers. Not interested in building my own solution as of now therefore looking for some suggestion here. \n\nCame across Adkernel, PLL and Aniview so I need a feedback if anyone has already used it or knows about any better company. \n\nFeel free to be critical and supportive at the same time. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
