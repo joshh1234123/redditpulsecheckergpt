@@ -599,6 +599,36 @@
       "link_flair_text": null,
       "thread_id": "1qe9im5",
       "thread_path": "1qe9im5.json"
+    },
+    {
+      "id": "1qed6cw",
+      "title": "Ad Revenue Management Platforms",
+      "author": "DG_London9",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qed6cw/ad_revenue_management_platforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qed6cw/ad_revenue_management_platforms/",
+      "created_utc": 1768561643.0,
+      "content": "We’re currently running an RFP to evaluate **ad revenue management / yield tooling** (think analytics, pricing insights, workflow, decision support rather than ad serving itself).\n\nWe’re looking at platforms like **Pubstack**, **Assertive Yield**, and a few others in that category.\n\nKeen to hear from people on the **publisher or monetisation side**. \n\nWould love to hear real-world experiences, pros/cons, or even general frameworks for how people assess these tools rather than vendor-specific takes.\n\n  \nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qed6cw",
+      "thread_path": "1qed6cw.json"
+    },
+    {
+      "id": "1qed8px",
+      "title": "I've worked with amazon DSP ads since 2018. AMA.",
+      "author": "LeatherDudes",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qed8px/ive_worked_with_amazon_dsp_ads_since_2018_ama/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qed8px/ive_worked_with_amazon_dsp_ads_since_2018_ama/",
+      "created_utc": 1768561871.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qed8px",
+      "thread_path": "1qed8px.json"
     }
   ]
 }
