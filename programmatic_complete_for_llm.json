@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-16T20:41:12.458273+00:00",
-    "total_posts": 1201,
+    "scrape_date": "2026-01-16T21:14:52.984714+00:00",
+    "total_posts": 1202,
     "total_comments": 9351
   },
   "discussions": [
@@ -73875,6 +73875,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qej0mp/tldr_week_in_review_googles_ai_payoff_and_more/",
       "created_utc": 1768577390.0,
       "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Google hits $4 trillion** \\- Apple deal brings Gemini to Siri, personalized AI shopping ads launch for 650M monthly users\n\n**Independent agencies vs holdcos** \\- Tech-first shops betting open platforms beat legacy systems, pitches up 5x against holdcos\n\n**Ad industry resists AI autonomy** \\- Using LLMs for workflows but won't let AI spend ad dollars due to flawed data and accountability concerns\n\n***Quick Hits:***\n\n\\- Major publishers sue Google: Atlantic, Penske, and Vox seek damages from ad tech monopoly ruling\n\n\\- Dentsu sale collapses after Apollo and Bain walk away from $4.5B international unit deal\n\n\\- X claims nearly all top 100 advertisers returned, but spending is half pre-Musk levels\n\n\\- WPP wins Norwegian Cruise Lines $100M account from Publicis\n\n\\- NVIDIA hires first CMO: Google Cloud's Alison Wagonfeld joins as chipmaker formalizes marketing\n\n\\- Brands accelerate first-party data push as AI tools promise faster processing\n\n\\- SPINS acquires MikMak to unify in-store tracking with online campaign delivery\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-1162026)\n\nWhat's your take on Google's aggressive AI advertising push while OpenAI holds back?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qertvj",
+      "title": "Requesting Advice on Interviewing For a Programmatic Job",
+      "author": "EM_maybe",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qertvj/requesting_advice_on_interviewing_for_a/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qertvj/requesting_advice_on_interviewing_for_a/",
+      "created_utc": 1768596699.0,
+      "content": "Hello,\n\nMy partner (doesn’t use reddit) is a senior digital planner at a large advertising company and is currently interviewing for a programmatic position somewhere else. They only have direct IO experience but are really interested in moving to the programmatic space as they have worked closely with the programmatic team at their company but haven’t gotten the chance to work in it themself. Is there any advice I can pass on to them regarding things like resources for learning it or like what they should maybe mention in an interview to show their interest, or basically to help convince the company to give an offer? TIA!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
