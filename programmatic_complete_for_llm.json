@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-16T21:40:54.086311+00:00",
-    "total_posts": 1202,
+    "scrape_date": "2026-01-16T22:14:53.321117+00:00",
+    "total_posts": 1203,
     "total_comments": 9351
   },
   "discussions": [
@@ -73889,6 +73889,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qertvj/requesting_advice_on_interviewing_for_a/",
       "created_utc": 1768596699.0,
       "content": "Hello,\n\nMy partner (doesn’t use reddit) is a senior digital planner at a large advertising company and is currently interviewing for a programmatic position somewhere else. They only have direct IO experience but are really interested in moving to the programmatic space as they have worked closely with the programmatic team at their company but haven’t gotten the chance to work in it themself. Is there any advice I can pass on to them regarding things like resources for learning it or like what they should maybe mention in an interview to show their interest, or basically to help convince the company to give an offer? TIA!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qetoxz",
+      "title": "DV360 Seat",
+      "author": "Responsible-Brick881",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qetoxz/dv360_seat/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qetoxz/dv360_seat/",
+      "created_utc": 1768601048.0,
+      "content": "Hi folks,\n\nAnyone able to share any insights around resellers for DV?\nSpecifically interested in what minimums are required to get one - early days exploring the possibility. I'm familiar with most of the main resellers, functionality, etc. but would be great to get any insight. \n\nThanks",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
