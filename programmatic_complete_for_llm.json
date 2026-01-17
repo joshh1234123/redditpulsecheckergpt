@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-17T18:48:46.810907+00:00",
-    "total_posts": 1204,
+    "scrape_date": "2026-01-17T19:10:59.563989+00:00",
+    "total_posts": 1205,
     "total_comments": 9351
   },
   "discussions": [
@@ -73917,6 +73917,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qfa86f/help_request_production_planning_with_machine_and/",
       "created_utc": 1768646981.0,
       "content": "Hi everyone,\n\nI’m a student doing an internship in a medium-to-large pharmaceutical company, and I’m currently working on production planning.\n\n \n\nAt the moment, planning is done almost entirely based on experience: there are no standard times or historical data, and workload decisions are made based on the knowledge of the planner and the department manager. My goal is to start putting this knowledge into writing, in a simple way, to make workloads more visible and comparable.\n\n \n\nWe currently use Sage X3 connected to Cybertec to receive production requests from the packaging department. Weekly capacity is estimated in a very simplified way (number of operators × working days), which implicitly assumes that one operator performs only one operation per day. In practice, this is not always true: some operations can be performed on the same day by the same operator.\n\n \n\nSince there is no historical data, I’m thinking of starting with fixed (rough) times based on product and machine, temporarily neglecting kilograms (which have little impact) and the operator variable. The idea is to build a deliberately simple first version, more useful for highlighting overloads than for true optimization.\n\n \n\nMore specifically, I was thinking of:\n\n•               a time table with levels (1 = one operation per day, 0.5 = two operations, 0.25 = four operations);\n\n•                using these values to calculate daily/weekly machine load (max 1 = full working day);\n\n•               introducing a separate operator load constraint, since we have more machines than operators (e.g. 10 machines and 7 operators).\n\n \n\nSome complexities remain:\n\n•               not all operations can be performed consecutively without machine cleaning, so in the future I was thinking of a classification or compatibility matrix;\n\n•                I’m considering starting with a simple Excel model, without complex automation, to test the logic before moving to something more structured.\n\n \n\nMy questions are:\n\n•      does it make sense to start with a deliberately simple model to transform experience into written data?\n\n•               is it correct to initially separate machine load and operator load?\n\n•                how would you set up a first “acceptable” version with no historical data at all?\n\n•               what mistakes would you avoid at such an early stage?\n\n \n\nI’m quite left on my own and I’m looking for a pragmatic approach that won’t create resistance on the shop floor.\n\nAny advice or similar experiences would be greatly appreciated. Thank you!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qflet8",
+      "title": "How to media plan in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qflet8/how_to_media_plan_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qflet8/how_to_media_plan_in_programmatic/",
+      "created_utc": 1768675828.0,
+      "content": "For example, when using YouTube it's pretty straight forward and you can also use reach planner among other tools. But is there a tool to assist when planning programmatic? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
