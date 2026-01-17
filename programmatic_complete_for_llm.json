@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-17T21:37:06.291057+00:00",
-    "total_posts": 1205,
+    "scrape_date": "2026-01-17T22:13:52.602624+00:00",
+    "total_posts": 1206,
     "total_comments": 9351
   },
   "discussions": [
@@ -73931,6 +73931,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qflet8/how_to_media_plan_in_programmatic/",
       "created_utc": 1768675828.0,
       "content": "For example, when using YouTube it's pretty straight forward and you can also use reach planner among other tools. But is there a tool to assist when planning programmatic? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qfpp03",
+      "title": "Bidding on Hulu/Disney on Weekend via DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qfpp03/bidding_on_huludisney_on_weekend_via_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qfpp03/bidding_on_huludisney_on_weekend_via_dv360/",
+      "created_utc": 1768686001.0,
+      "content": "Do bids go way up vs what you were paying Monday-Friday. My campaign initially was going to run Saturday from 6pm-11pm, however, at 6am this morning I updated Saturday to start running 6am-11pm. So far I have received 0 impressions. Floor is $21 ..Bidding $28. With Daily budget of $80.\n\nAny comments?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
