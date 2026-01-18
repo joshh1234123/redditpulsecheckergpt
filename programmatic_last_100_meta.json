@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pi3q4n",
-      "title": "I built a free, privacy-focused calculator for Ad Benchmarks & Agency Rates (No signup)",
-      "author": "Soil-Crafty",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pi3q4n/i_built_a_free_privacyfocused_calculator_for_ad/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pi3q4n/i_built_a_free_privacyfocused_calculator_for_ad/",
-      "created_utc": 1765274698.0,
-      "content": "Hey r/programmatic,\n\nI got tired of opening a new Excel sheet every time I needed to check a quick CPM benchmark or calculate a retainer-vs-commission fee structure for a client.\n\nSo, I spent the last few days building a simple web tool to do it instantly in the browser.\n\n**What it does:**\n\n* **Platform Benchmarks:** Compare Google vs. FB vs. LinkedIn costs (based on 2025 avg data).\n* **Agency Pricing:** Calculates the math difference between Flat Retainer and % of Spend models.\n* **Ad Math:** Standard CPM/CPC/CPA calculators.\n* **Influencer Check:** Audits engagement rates to spot fake followers.\n\nIt’s completely free, has no ads (yet), and doesn't ask for your email. Just a simple utility tool I wanted to share with the community.\n\nYou can check it out here:[https://calculateapp.org](https://calculateapp.org)\n\nLet me know if you find any bugs or if there are other calculators you'd like me to add!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pidywz",
       "title": "Amazon APS : Anyone Getting Real Demand on CTV Yet?",
       "author": "slippycrook",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qfpp03/bidding_on_huludisney_on_weekend_via_dv360/",
       "created_utc": 1768686001.0,
       "content": "Do bids go way up vs what you were paying Monday-Friday. My campaign initially was going to run Saturday from 6pm-11pm, however, at 6am this morning I updated Saturday to start running 6am-11pm. So far I have received 0 impressions. Floor is $21 ..Bidding $28. With Daily budget of $80.\n\nAny comments?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qgk645",
+      "title": "Anyone using NBot AI to follow specific tech topics?",
+      "author": "Fearless-Stress7240",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qgk645/anyone_using_nbot_ai_to_follow_specific_tech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qgk645/anyone_using_nbot_ai_to_follow_specific_tech/",
+      "created_utc": 1768770028.0,
+      "content": " I keep seeing ads for NBot. They say it’s an AI research assistant that remembers things over time, not just one-off answers. I want to track \"open source AI models\" and \"quantum computing news.\"\n\nHas anyone used it for a few months? Not interested in sponsored reviews. How good is the filtering? How much setup does it need? Does it find things you wouldn’t see on normal RSS or Hacker News feeds?  \nWhat do you use for this kind of tracking? Any tips or experiences?\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
