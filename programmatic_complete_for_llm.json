@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-19T17:18:53.114276+00:00",
-    "total_posts": 1207,
+    "scrape_date": "2026-01-19T17:46:01.780402+00:00",
+    "total_posts": 1208,
     "total_comments": 9351
   },
   "discussions": [
@@ -73959,6 +73959,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qgk645/anyone_using_nbot_ai_to_follow_specific_tech/",
       "created_utc": 1768770028.0,
       "content": " I keep seeing ads for NBot. They say it’s an AI research assistant that remembers things over time, not just one-off answers. I want to track \"open source AI models\" and \"quantum computing news.\"\n\nHas anyone used it for a few months? Not interested in sponsored reviews. How good is the filtering? How much setup does it need? Does it find things you wouldn’t see on normal RSS or Hacker News feeds?  \nWhat do you use for this kind of tracking? Any tips or experiences?\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qhal4s",
+      "title": "Any feedback on doing reach campaign via DV360?",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qhal4s/any_feedback_on_doing_reach_campaign_via_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qhal4s/any_feedback_on_doing_reach_campaign_via_dv360/",
+      "created_utc": 1768843726.0,
+      "content": "Trying to hit everyone in my county who watch Disney/Hulu/Espn but enough times they recall it. But want to get as many unique views as I can.\n\nDo you think for frequency I am good with 3 or 5 impressions a week OR should it be a lot more?\n\nI am running a campaign for 2 weeks just trying to avoid the same people/household seeing the Ad daily so I get more new impressions.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
