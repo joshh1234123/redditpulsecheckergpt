@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-20T16:26:48.641034+00:00",
-    "total_posts": 1211,
+    "scrape_date": "2026-01-20T16:59:16.375391+00:00",
+    "total_posts": 1212,
     "total_comments": 9352
   },
   "discussions": [
@@ -74022,6 +74022,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qi13j9/anyone_have_email_contact_at_magnite/",
       "created_utc": 1768915711.0,
       "content": "With FreeWheel I have contact to two reps who provide me with curated deals to apply within DV360 for various kind of inventory.\n\nAre there any Magnite reps that do the same, will give you curated deals OR is magnite a ghost town unless you drop $20k a month?\n\nI tried reaching out to Magnite in the past and only could get someone on Linkedin.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qi6hgm",
+      "title": "Creative troubleshooting : \"Creatives with unidentified third party vendors are not allowed.\"",
+      "author": "hazelmond",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qi6hgm/creative_troubleshooting_creatives_with/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qi6hgm/creative_troubleshooting_creatives_with/",
+      "created_utc": 1768928130.0,
+      "content": "Hey guys, have you ever faced this error message \"Creatives with unidentified third party vendors are not allowed.\"? This almost stops completely the pacing of certain of my lines in DV360, and i can't find a way to fix it, nor the google support... It's like if my client website is identified as an ad technology providers. Anyone knows what to do?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
