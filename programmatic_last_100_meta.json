@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pj4wub",
-      "title": "Best coding languages to learn for someone on the Investment team?",
-      "author": "OkStatement8573",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pj4wub/best_coding_languages_to_learn_for_someone_on_the/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pj4wub/best_coding_languages_to_learn_for_someone_on_the/",
-      "created_utc": 1765379219.0,
-      "content": "Hi there! So to give a bit of context, I've been working at an OMG agency for a little over a year now, graduating from college in May of 2024. So far, things have been pretty great, but throughout my time here, I've become increasingly fascinated by programmatic. Something about it, not sure what though, just has kind of drawn me in. I'm nowhere near a programmatic expert, but I would like to be one! \n\nSo as the title says, what language should I learn, if any? Python? SQL? Java? \n\nI have begun learning a bit of Python for Excel purposes, and do know a bit of R studio, but should I learn any other languages to further my understanding of programmatic?\n\nThanks so much!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pj7ef2",
       "title": "Pay rates in India",
       "author": "Ok-Disaster-6387",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qi6hgm/creative_troubleshooting_creatives_with/",
       "created_utc": 1768928130.0,
       "content": "Hey guys, have you ever faced this error message \"Creatives with unidentified third party vendors are not allowed.\"? This almost stops completely the pacing of certain of my lines in DV360, and i can't find a way to fix it, nor the google support... It's like if my client website is identified as an ad technology providers. Anyone knows what to do?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qig6fd",
+      "title": "Creative Hosting - DSP vs Ad Server",
+      "author": "thedpd7",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
+      "created_utc": 1768949105.0,
+      "content": "Hey Programmatic Ninjas,\n\nLooking for advice from folks on best practices for creative hosting with multiple DSPs. DV360, ADSP and introducing TTD soon using CM360 for a large CPG brand. \n\nThe main goal is to streamline reporting and trafficking so that both processes are straightforward and remove as much human error as possible. Naming Conventions are intrinsically connected to these setups but are secondary to activation based on being able to add this data within other reporting fields/labels like Content Category and Placement Strategy in order to connect with our internal reporting database, Datorama in this case.\n\nDV is straightforward enough with its direct connection to CM. Where I'm stuck is how you're able to assign multiple ads to a CM placement to take advantage of the ad server's creative rotation options. While sequential, weighted, and optimized rotations are valuable, it seems like ADSP and TTD won't be able to optimize towards specific creatives that give within one placement. Since the placement is where the tags are derived, the non-Google DSPs won't be able to identify or choose which creatives to serve within that placement. \n\nAre we doomed to have a single creative per placement to have potentially hundreds of placements per year? \n\nAnother option is to have click and impression tracking assigned to ADSP and TTD hosted creatives in order to link them with CM360. This seems less scalable than the single creative per placement. \n\nAm I missing any scenarios? Am I making any sense? What are large scale programmatic teams doing? Are there any tricks of the trade that make large volumes of creatives more manageable? \n\nAppreciate the support, ninjas!\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

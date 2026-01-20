@@ -824,6 +824,21 @@
       "link_flair_text": null,
       "thread_id": "1qi6hgm",
       "thread_path": "1qi6hgm.json"
+    },
+    {
+      "id": "1qig6fd",
+      "title": "Creative Hosting - DSP vs Ad Server",
+      "author": "thedpd7",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
+      "created_utc": 1768949105.0,
+      "content": "Hey Programmatic Ninjas,\n\nLooking for advice from folks on best practices for creative hosting with multiple DSPs. DV360, ADSP and introducing TTD soon using CM360 for a large CPG brand. \n\nThe main goal is to streamline reporting and trafficking so that both processes are straightforward and remove as much human error as possible. Naming Conventions are intrinsically connected to these setups but are secondary to activation based on being able to add this data within other reporting fields/labels like Content Category and Placement Strategy in order to connect with our internal reporting database, Datorama in this case.\n\nDV is straightforward enough with its direct connection to CM. Where I'm stuck is how you're able to assign multiple ads to a CM placement to take advantage of the ad server's creative rotation options. While sequential, weighted, and optimized rotations are valuable, it seems like ADSP and TTD won't be able to optimize towards specific creatives that give within one placement. Since the placement is where the tags are derived, the non-Google DSPs won't be able to identify or choose which creatives to serve within that placement. \n\nAre we doomed to have a single creative per placement to have potentially hundreds of placements per year? \n\nAnother option is to have click and impression tracking assigned to ADSP and TTD hosted creatives in order to link them with CM360. This seems less scalable than the single creative per placement. \n\nAm I missing any scenarios? Am I making any sense? What are large scale programmatic teams doing? Are there any tricks of the trade that make large volumes of creatives more manageable? \n\nAppreciate the support, ninjas!\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qig6fd",
+      "thread_path": "1qig6fd.json"
     }
   ]
 }
