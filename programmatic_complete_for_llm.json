@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-20T01:09:37.061006+00:00",
-    "total_posts": 1209,
-    "total_comments": 9351
+    "scrape_date": "2026-01-20T03:16:11.576019+00:00",
+    "total_posts": 1210,
+    "total_comments": 9352
   },
   "discussions": [
     {
@@ -73991,6 +73991,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1qhodue",
+      "title": "Better Career at Google - Account Manager vs. Analytical Lead",
+      "author": "LateMathematician280",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qhodue/better_career_at_google_account_manager_vs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qhodue/better_career_at_google_account_manager_vs/",
+      "created_utc": 1768875402.0,
+      "content": "I know within the advertising department there are Account Managers (or Programmatic Account Managers), but also the Analytical Leads who are the measurement folks. I don’t mind doing either work, both sound very interesting.\n\nWhich do y’all think is a better career in terms of compensation, growth, and stability?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Take whatever one you can.",
+          "score": 1,
+          "created_utc": 1768878576.0
+        }
+      ]
     }
   ]
 }
