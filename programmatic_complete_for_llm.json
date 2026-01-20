@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-20T12:34:41.213943+00:00",
-    "total_posts": 1210,
+    "scrape_date": "2026-01-20T13:41:09.780185+00:00",
+    "total_posts": 1211,
     "total_comments": 9352
   },
   "discussions": [
@@ -74012,6 +74012,20 @@
           "created_utc": 1768878576.0
         }
       ]
+    },
+    {
+      "id": "1qi13j9",
+      "title": "Anyone have email contact at Magnite?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qi13j9/anyone_have_email_contact_at_magnite/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qi13j9/anyone_have_email_contact_at_magnite/",
+      "created_utc": 1768915711.0,
+      "content": "With FreeWheel I have contact to two reps who provide me with curated deals to apply within DV360 for various kind of inventory.\n\nAre there any Magnite reps that do the same, will give you curated deals OR is magnite a ghost town unless you drop $20k a month?\n\nI tried reaching out to Magnite in the past and only could get someone on Linkedin.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
