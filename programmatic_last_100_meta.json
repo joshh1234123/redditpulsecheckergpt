@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pj7ef2",
-      "title": "Pay rates in India",
-      "author": "Ok-Disaster-6387",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pj7ef2/pay_rates_in_india/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pj7ef2/pay_rates_in_india/",
-      "created_utc": 1765384954.0,
-      "content": "Hey all, we’re a UK based agency and we have an offshore team, which are based in India. This goes through an agency but we have no visibility on how much they actually get paid. We want to ensure they’re actually getting paid close to what we’re paying. \n\nWhat are the salary ranges (yearly) that is given for account managers & DSP traders? We mainly have managers, but any insights into executives, managers & directors would be hugely appreciated \n\nFeel free to DM if you don’t want to discuss earnings publicly too. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pjeeyo",
       "title": "How to get yahoo inventory?",
       "author": "No-Investigator-8007",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
       "created_utc": 1768949105.0,
       "content": "Hey Programmatic Ninjas,\n\nLooking for advice from folks on best practices for creative hosting with multiple DSPs. DV360, ADSP and introducing TTD soon using CM360 for a large CPG brand. \n\nThe main goal is to streamline reporting and trafficking so that both processes are straightforward and remove as much human error as possible. Naming Conventions are intrinsically connected to these setups but are secondary to activation based on being able to add this data within other reporting fields/labels like Content Category and Placement Strategy in order to connect with our internal reporting database, Datorama in this case.\n\nDV is straightforward enough with its direct connection to CM. Where I'm stuck is how you're able to assign multiple ads to a CM placement to take advantage of the ad server's creative rotation options. While sequential, weighted, and optimized rotations are valuable, it seems like ADSP and TTD won't be able to optimize towards specific creatives that give within one placement. Since the placement is where the tags are derived, the non-Google DSPs won't be able to identify or choose which creatives to serve within that placement. \n\nAre we doomed to have a single creative per placement to have potentially hundreds of placements per year? \n\nAnother option is to have click and impression tracking assigned to ADSP and TTD hosted creatives in order to link them with CM360. This seems less scalable than the single creative per placement. \n\nAm I missing any scenarios? Am I making any sense? What are large scale programmatic teams doing? Are there any tricks of the trade that make large volumes of creatives more manageable? \n\nAppreciate the support, ninjas!\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qivbye",
+      "title": "Hiring New Boston-Based Programmatic Roles in the US",
+      "author": "One-Owl9723",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qivbye/hiring_new_bostonbased_programmatic_roles_in_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qivbye/hiring_new_bostonbased_programmatic_roles_in_the/",
+      "created_utc": 1768994553.0,
+      "content": "Hi all, I'm back again to share four new roles that I'm hiring at the LEGO Group US in our Boston Hub office. These are totally new roles for the company and they will be co-responsible for activating our programmatic media campaigns in the US, CA, BR and MX.\n\n  \n[2x Senior Programmatic Media Associates](https://www.lego.com/en-us/careers/job/senior-programmatic-media-associate-c7a84b017a0a10012e3ebd8413500000) (one job ad, two roles available), salary range  $84,488.00 - $126,732.00\n\n  \n[2x Programmatic Media Associates](https://www.lego.com/en-us/careers/job/programmatic-media-associate-c7a84b017a0a10018a451032ec500000) (one job ad, two roles available), salary range $68,330.00 - $102,494.00\n\nFor the associate level role I am willing to hire people new to programmatic media, so this is an opportunity for someone looking to get into this industry.\n\n  \nI've already made a job offer to one person who applied after seeing my last r/programmatic post, so I'm hoping that the same calibre of people will apply for this one. To prove that this isn't a weird scam, you can see me (and even add me!) on LinkedIn [here](https://www.linkedin.com/in/kate-crowley-a0a4069/).",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
