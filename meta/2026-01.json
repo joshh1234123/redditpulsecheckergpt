@@ -914,6 +914,21 @@
       "link_flair_text": null,
       "thread_id": "1qk5ash",
       "thread_path": "1qk5ash.json"
+    },
+    {
+      "id": "1qk9dr5",
+      "title": "Monetization is turning into an operations problem for publishers",
+      "author": "Striking_Ratio_2630",
+      "score": 0,
+      "url": "https://i.redd.it/vrc47w2bczeg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qk9dr5/monetization_is_turning_into_an_operations/",
+      "created_utc": 1769122150.0,
+      "content": "Hi all,\n\nSomething we’ve been seeing more often on the supply side: monetization is becoming less of a “commercial setup” and more of an operational system to manage.\n\nA lot of publisher stacks today weren’t really designed — they evolved:\n\n* SSPs added over time\n* resellers layered in\n* inconsistent floor strategies\n* wrappers getting heavier\n* reporting becoming fragmented\n* demand getting more selective\n\nOn the surface, everything still runs. But underneath, revenue becomes harder to explain and harder to stabilize.\n\nAt the same time, DSPs are clearly optimizing more aggressively around:\n\n* supply path transparency\n* IVT probability\n* domain history\n* session quality\n* predictability of traffic\n\nSo even when traffic is stable, yield often isn’t.\n\nWe’ve started to treat monetization more like infrastructure:\n\n* fewer but audited SSPs\n* controlled header bidding logic\n* predictable GAM setups\n* continuous floor calibration\n* and tighter monitoring of inventory quality\n\nNot sharing this to sell anything — just curious how others on the publisher / ad ops side are thinking about this shift.\n\nAre you seeing monetization move closer to “operations” than “sales” in your org?\n\nIf this is something you’re working on as well, let’s get in touch.\n\n— Open G Scale",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qk9dr5",
+      "thread_path": "1qk9dr5.json"
     }
   ]
 }
