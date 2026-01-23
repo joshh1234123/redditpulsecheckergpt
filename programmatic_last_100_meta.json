@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pkdmnj",
-      "title": "pDOOH + mobile retargeting: a quick foot-traffic win",
-      "author": "KissyyyDoll",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pkdmnj/pdooh_mobile_retargeting_a_quick_foottraffic_win/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pkdmnj/pdooh_mobile_retargeting_a_quick_foottraffic_win/",
-      "created_utc": 1765499085.0,
-      "content": "Ran a six-week retail push that blended programmatic digital OOH screens with mobile retargeting. Evening-commute windows only, same creative in three countries.\n\nScreens came through Hivestack; mobile retargeting on DV360.\n\nExcite OOH handled the OOH planning and already had screen-level data for the smaller markets, which kept our test simple.\n\nNet result: stores within \\~500 m of the booked screens saw a 17 % traffic lift (Google Store Visits) without touching the rest of the media mix.\n\nNice reminder that marrying out-of-home with mobile doesn’t need to be a big production to move the needle. Anybody else tried something similar lately?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pkdr5t",
       "title": "Is this common with DV360?",
       "author": "Enviromental1001",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qk9dr5/monetization_is_turning_into_an_operations/",
       "created_utc": 1769122150.0,
       "content": "Hi all,\n\nSomething we’ve been seeing more often on the supply side: monetization is becoming less of a “commercial setup” and more of an operational system to manage.\n\nA lot of publisher stacks today weren’t really designed — they evolved:\n\n* SSPs added over time\n* resellers layered in\n* inconsistent floor strategies\n* wrappers getting heavier\n* reporting becoming fragmented\n* demand getting more selective\n\nOn the surface, everything still runs. But underneath, revenue becomes harder to explain and harder to stabilize.\n\nAt the same time, DSPs are clearly optimizing more aggressively around:\n\n* supply path transparency\n* IVT probability\n* domain history\n* session quality\n* predictability of traffic\n\nSo even when traffic is stable, yield often isn’t.\n\nWe’ve started to treat monetization more like infrastructure:\n\n* fewer but audited SSPs\n* controlled header bidding logic\n* predictable GAM setups\n* continuous floor calibration\n* and tighter monitoring of inventory quality\n\nNot sharing this to sell anything — just curious how others on the publisher / ad ops side are thinking about this shift.\n\nAre you seeing monetization move closer to “operations” than “sales” in your org?\n\nIf this is something you’re working on as well, let’s get in touch.\n\n— Open G Scale",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qkcjyp",
+      "title": "YouTube Instant Deals",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qkcjyp/youtube_instant_deals/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qkcjyp/youtube_instant_deals/",
+      "created_utc": 1769130117.0,
+      "content": "With an upcoming Snow Storm, I thought I check YouTube Instant deals. put together a targeted 3 day campaign for Guaranteed Views for 3 large counties. 3 Counties = 1.3 million people roughly.\n\nEven selected \"show\" Ad first position before video. Got this low rate, made sure to hit accept incase system glitched out.\n\nhttps://preview.redd.it/ocxcqlj400fg1.png?width=3126&format=png&auto=webp&s=761736a0c32497956356e2affbb596f187a41dc8\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
