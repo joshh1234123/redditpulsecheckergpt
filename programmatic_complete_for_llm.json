@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-23T17:45:29.803504+00:00",
-    "total_posts": 1222,
+    "scrape_date": "2026-01-23T18:23:37.312804+00:00",
+    "total_posts": 1223,
     "total_comments": 9352
   },
   "discussions": [
@@ -74176,6 +74176,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qkpml7/if_you_are_a_dv360_user_check_out_market_place/",
       "created_utc": 1769171688.0,
       "content": "They just refreshed the page and added a lot of new options.\n\n  \nCheck it out..\n\nhttps://reddit.com/link/1qkpml7/video/az63mw8qf3fg1/player\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qkyagp",
+      "title": "Buy live sports and shoulder programmatically?",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qkyagp/buy_live_sports_and_shoulder_programmatically/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qkyagp/buy_live_sports_and_shoulder_programmatically/",
+      "created_utc": 1769191946.0,
+      "content": "Can anyone here share their insight on buying experiences for live sports or shoulder content programmatically?\n\nIf live in game, do you go to the programmer direct paying like $60-80 for PG?\n\nIf shoulder content like replay or highlight, do you go to exchanges like FW or Magnite or GAM striking up non guaranteed for lower cpm?\n\nJust want to understand when I should go to broadcaster direct va when I should go to exchanges. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
