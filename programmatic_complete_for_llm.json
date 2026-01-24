@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-24T03:09:20.875503+00:00",
-    "total_posts": 1223,
-    "total_comments": 9352
+    "scrape_date": "2026-01-24T04:09:48.839264+00:00",
+    "total_posts": 1224,
+    "total_comments": 9353
   },
   "discussions": [
     {
@@ -74194,6 +74194,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1qlcjkw",
+      "title": "Startup idea - programmatic buying for medium sized companies",
+      "author": "strouki",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qlcjkw/startup_idea_programmatic_buying_for_medium_sized/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qlcjkw/startup_idea_programmatic_buying_for_medium_sized/",
+      "created_utc": 1769226850.0,
+      "content": "I’m 20yo and have had some experience in a huge adtech company. Have a very close person who is huge in the industry, in my country. \n\nIn my country programmatic is still a new thing, except in the big agencies of course. However adspend is one of the biggest in the world. \n\nThought of partnering up with someone who’s very technical and I would do more the commercial side. Idea is to sell campaigns for small/medium businesses using technology from a third party. \n\nThis businesses still only use meta and google gdn. \n\nWHAT ARE THE BIGGEST LIABILITIES and CHALLEGES? \n\nWould love to hear some experts’s perspectives ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "onlyonepersimmon",
+          "body": "What country?",
+          "score": 1,
+          "created_utc": 1769227564.0
+        }
+      ]
     }
   ]
 }
