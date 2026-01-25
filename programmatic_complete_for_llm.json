@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-25T07:40:00.090452+00:00",
-    "total_posts": 1225,
+    "scrape_date": "2026-01-25T08:19:34.347160+00:00",
+    "total_posts": 1226,
     "total_comments": 9353
   },
   "discussions": [
@@ -74225,6 +74225,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qleklu/can_a_publisher_block_my_ads_if_i_choose_not_to/",
       "created_utc": 1769232878.0,
       "content": "We’re currently buying inventory on a publisher through open auction.\n\nThe publisher has reached out saying they’re seeing a high volume of our ads and are pushing for a PMP deal.\n\nIs PMP actually worth it here, or is it fine to stay on open auction?\n\nAlso, can a publisher block me if I don’t agree to a PMP?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qmd9v2",
+      "title": "Pacing Issue due to No eligible creatives",
+      "author": "IntroductionLazy9793",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qmd9v2/pacing_issue_due_to_no_eligible_creatives/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qmd9v2/pacing_issue_due_to_no_eligible_creatives/",
+      "created_utc": 1769328341.0,
+      "content": "https://preview.redd.it/lyo7jv0wcgfg1.png?width=399&format=png&auto=webp&s=0a076c325a58eb3114bbf89b920fd54ea3368ff8\n\nHello team \n\nYT campaign is struggling to pace despite having approved YouTube creatives and status is active.\n\nDashboard shows \"No eligible creatives\" as the issue. Could you please advise on how to troubleshoot or  resolve this?\n\nThanks ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
