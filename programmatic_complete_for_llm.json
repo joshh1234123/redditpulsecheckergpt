@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-26T21:17:36.430825+00:00",
-    "total_posts": 1228,
+    "scrape_date": "2026-01-26T21:44:39.102527+00:00",
+    "total_posts": 1229,
     "total_comments": 9354
   },
   "discussions": [
@@ -74278,6 +74278,20 @@
           "created_utc": 1769420460.0
         }
       ]
+    },
+    {
+      "id": "1qntr6m",
+      "title": "Is Olympic Inventory worth it?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qntr6m/is_olympic_inventory_worth_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qntr6m/is_olympic_inventory_worth_it/",
+      "created_utc": 1769463289.0,
+      "content": "Saw this pop-up - Based on the floor prices is it worth it or think better off with like other inventory. Never did an event like this thought it would be interesting. Just if the floor is $40 how high you need to go?\n\nhttps://preview.redd.it/vihjivfoirfg1.png?width=1592&format=png&auto=webp&s=5b179be013aed58e58be791bd0171e0e3aae14c6\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
