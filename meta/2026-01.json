@@ -1049,6 +1049,21 @@
       "link_flair_text": null,
       "thread_id": "1qmjmt9",
       "thread_path": "1qmjmt9.json"
+    },
+    {
+      "id": "1qnbkr2",
+      "title": "Researched on why so many programmatic ad campaigns (mainly run on google ads) fail. What do you guys think?",
+      "author": "Ok_Pollution3165",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qnbkr2/researched_on_why_so_many_programmatic_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qnbkr2/researched_on_why_so_many_programmatic_ad/",
+      "created_utc": 1769420055.0,
+      "content": "We've done 1000+ Google Ads audits at this point so I pulled the data on something I was curious about.  \nHow long does each error actually survive before someone finds it?  \nChart attached.  \nBroken tracking was the worst one. Like two months on average before anyone notices. Which is wild because the whole time you're \"optimizing\" toward data that means nothing. Dashboard looks totally normal though so why would you check.  \nThe thing I keep seeing: if Google doesn't yell at you about it, it just sits there.  \nSearch terms? People check that. It's right there. But stuff like tracking breaking or campaigns bidding against each other? You gotta go looking. And when you're juggling a bunch of accounts you're not doing that on a random Tuesday.  \nAnyway not trying to call anyone out. We see this in accounts run by people who definitely know what they're doing. It's just how it goes.  \nWhat's the longest something went unfixed in one of your accounts?\n\n[https://imgur.com/84FNnWP](https://imgur.com/84FNnWP)",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qnbkr2",
+      "thread_path": "1qnbkr2.json"
     }
   ]
 }
