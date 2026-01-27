@@ -1079,6 +1079,21 @@
       "link_flair_text": null,
       "thread_id": "1qntr6m",
       "thread_path": "1qntr6m.json"
+    },
+    {
+      "id": "1qom334",
+      "title": "How do you handle marketing attribution across multiple channels?",
+      "author": "InevitableImpress850",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qom334/how_do_you_handle_marketing_attribution_across/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qom334/how_do_you_handle_marketing_attribution_across/",
+      "created_utc": 1769538450.0,
+      "content": "Running a mid-size company. We're spending across Meta, Google, some programmatic, and testing CTV but honestly can't tell what's actually driving conversions vs just getting credit when it comes to programmatic and CTV.\n\nOur CMO wants to expand into TV but I'm hesitant without clear measurement. How do other enterprise owners handle this? Do you rely on MMM, incrementality tests, or just accept some uncertainty?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qom334",
+      "thread_path": "1qom334.json"
     }
   ]
 }
