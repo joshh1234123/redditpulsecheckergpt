@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-28T05:01:29.344961+00:00",
-    "total_posts": 1232,
+    "scrape_date": "2026-01-28T05:50:27.829652+00:00",
+    "total_posts": 1233,
     "total_comments": 9354
   },
   "discussions": [
@@ -74330,6 +74330,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qovw6f/aesales_interview_at_stackadapt/",
       "created_utc": 1769560133.0,
       "content": "Hi all. I’m interviewing for the Account Executive role at StackAdapt next week. Do you have any suggestions? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qp2gd7",
+      "title": "Ispot unified measurement",
+      "author": "NMDigitaNinja",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qp2gd7/ispot_unified_measurement/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qp2gd7/ispot_unified_measurement/",
+      "created_utc": 1769577651.0,
+      "content": "have a direct partner offering to leverage ispot unified measurement to track effectiveness of ctv buys against our programmatic buys. has anyone done this? would expect this to be against DSP policies / MSA as that direct partner would be able to compare their performance against other platforms",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

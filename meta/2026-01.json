@@ -1124,6 +1124,21 @@
       "link_flair_text": null,
       "thread_id": "1qovw6f",
       "thread_path": "1qovw6f.json"
+    },
+    {
+      "id": "1qp2gd7",
+      "title": "Ispot unified measurement",
+      "author": "NMDigitaNinja",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qp2gd7/ispot_unified_measurement/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qp2gd7/ispot_unified_measurement/",
+      "created_utc": 1769577651.0,
+      "content": "have a direct partner offering to leverage ispot unified measurement to track effectiveness of ctv buys against our programmatic buys. has anyone done this? would expect this to be against DSP policies / MSA as that direct partner would be able to compare their performance against other platforms",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qp2gd7",
+      "thread_path": "1qp2gd7.json"
     }
   ]
 }
