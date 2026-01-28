@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-28T20:21:43.314402+00:00",
-    "total_posts": 1236,
-    "total_comments": 9354
+    "scrape_date": "2026-01-28T20:55:03.895414+00:00",
+    "total_posts": 1237,
+    "total_comments": 9355
   },
   "discussions": [
     {
@@ -74390,6 +74390,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1qpmyqb",
+      "title": "At a crossroads in my media career",
+      "author": "ImpressiveRich1466",
+      "score": 1,
+      "url": "/r/AskMarketing/comments/1qpmi3l/at_a_crossroads_in_my_media_career/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qpmyqb/at_a_crossroads_in_my_media_career/",
+      "created_utc": 1769632056.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "GreenFlyingSauce",
+          "body": "Without a diploma, it’s going to be hard",
+          "score": 1,
+          "created_utc": 1769633691.0
+        }
+      ]
     }
   ]
 }
