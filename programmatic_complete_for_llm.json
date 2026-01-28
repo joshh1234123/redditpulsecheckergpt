@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-28T16:35:07.720269+00:00",
-    "total_posts": 1235,
+    "scrape_date": "2026-01-28T17:27:01.361212+00:00",
+    "total_posts": 1236,
     "total_comments": 9354
   },
   "discussions": [
@@ -74372,6 +74372,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qpecqz/what_is_your_goto_approach_when_media_planning/",
       "created_utc": 1769613977.0,
       "content": "Basically what the title says, I'd like to hear some personal opinions on how you guys do the media planning process and what else you take into account.\n\nCould be budget splits, channel and vendor definition/selection, forecasting etc. \n\nI'd like to get some inspiration, thanks in advance!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qpgziu",
+      "title": "FYI - Netflix on Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qpgziu/fyi_netflix_on_amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qpgziu/fyi_netflix_on_amazon_ads/",
+      "created_utc": 1769619596.0,
+      "content": "To run Netflix on Amazon Ads minimum budget:\n\n  \nADSP Self Serve PMP: $15,000\n\nADSP Managed Service: $18,750\n\n  \nJust found out from rep. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
