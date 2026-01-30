@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-30T12:38:09.818755+00:00",
-    "total_posts": 1241,
+    "scrape_date": "2026-01-30T13:50:55.029142+00:00",
+    "total_posts": 1243,
     "total_comments": 9357
   },
   "discussions": [
@@ -74480,6 +74480,34 @@
           "created_utc": 1769734227.0
         }
       ]
+    },
+    {
+      "id": "1qr4noe",
+      "title": "Career guidance",
+      "author": "Adorable_Sundae_9400",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
+      "created_utc": 1769777629.0,
+      "content": "I work in media only  but has little experience  in programmatic just know how to setup campaigns are there any media companies where they hire fresher  for programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qr4nog",
+      "title": "Career guidance",
+      "author": "Adorable_Sundae_9400",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qr4nog/career_guidance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qr4nog/career_guidance/",
+      "created_utc": 1769777630.0,
+      "content": "I work in media only  but has little experience  in programmatic just know how to setup campaigns are there any media companies where they hire fresher  for programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

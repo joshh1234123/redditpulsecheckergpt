@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pr4rpg",
-      "title": "Need Guidance - Trying to understand ad network / reseller dynamics",
-      "author": "YogurtclosetSmart650",
-      "score": 1,
-      "url": "/r/adops/comments/1ppffrb/need_guidance_trying_to_understand_ad_network/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pr4rpg/need_guidance_trying_to_understand_ad_network/",
-      "created_utc": 1766202592.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1prjs09",
-      "title": "How to Start an Ad Network / SSP Setup With No Advertisers or Publishers — Only an SSP Source",
-      "author": "Beneficial_Alps2605",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1prjs09/how_to_start_an_ad_network_ssp_setup_with_no/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1prjs09/how_to_start_an_ad_network_ssp_setup_with_no/",
-      "created_utc": 1766251804.0,
-      "content": "Hello everyone,\n\nI’m building an ad network platform but I’m starting from scratch — I don’t have advertisers yet, and I don’t have publishers either. The only thing I currently have is an SSP source \n\nI want to learn from the community:\n\nWhat is the best white label ad server / ad exchange platform to start with?\n\nWhich platforms offer reasonable pricing and fair revenue share models?\n\nWhat should I consider when choosing a white label solution as a beginner with no demand and no supply yet?\n\nMy goals are:\n• To start monetizing traffic once I have publishers\n• To gradually add demand (DSPs / advertisers)\n• To build a scalable and profitable ad network\n\nI’d appreciate recommendations and personal experiences with different white label platforms, especially in terms of:\n• Pricing stricture \n• Revenue share deals\n• Ease of setup\n• Support for RTB + Direct campaigns\n\nThanks in advance",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pru074",
       "title": "Amazon DSP",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1769732505.0,
       "content": "We previously allocated a budget of $100K–$180K for this Canadian publisher through Programmatic Guaranteed and Preferred Deals. However, following a strategic shift this year toward Open Market and PMP executions, the publisher rep had pushbacked aggressively—threatening to blacklist our seat and advertiser. It’s a baffling sale rep response given that the spend remains on the table; they seem unwilling to accept any transaction method that doesn't provide the fixed-volume security of a PG deal. Anyone else had this issue before? Can they actually black list me if I buy on Open?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qr4noe",
+      "title": "Career guidance",
+      "author": "Adorable_Sundae_9400",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
+      "created_utc": 1769777629.0,
+      "content": "I work in media only  but has little experience  in programmatic just know how to setup campaigns are there any media companies where they hire fresher  for programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qr4nog",
+      "title": "Career guidance",
+      "author": "Adorable_Sundae_9400",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qr4nog/career_guidance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qr4nog/career_guidance/",
+      "created_utc": 1769777630.0,
+      "content": "I work in media only  but has little experience  in programmatic just know how to setup campaigns are there any media companies where they hire fresher  for programmatic?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
