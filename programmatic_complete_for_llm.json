@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-29T23:47:15.747247+00:00",
-    "total_posts": 1240,
-    "total_comments": 9355
+    "scrape_date": "2026-01-30T01:21:20.518690+00:00",
+    "total_posts": 1241,
+    "total_comments": 9357
   },
   "discussions": [
     {
@@ -74453,6 +74453,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1qqq0xc",
+      "title": "Publisher blocking me",
+      "author": "Programmatic-Dude",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
+      "created_utc": 1769732505.0,
+      "content": "We previously allocated a budget of $100K–$180K for this Canadian publisher through Programmatic Guaranteed and Preferred Deals. However, following a strategic shift this year toward Open Market and PMP executions, the publisher rep had pushbacked aggressively—threatening to blacklist our seat and advertiser. It’s a baffling sale rep response given that the spend remains on the table; they seem unwilling to accept any transaction method that doesn't provide the fixed-volume security of a PG deal. Anyone else had this issue before? Can they actually black list me if I buy on Open?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "adtech2019",
+          "body": "Find their CRO on LinkedIn and ask if this is standard policy for them. The sales rep is likely  trying to get comped for a sale.",
+          "score": 3,
+          "created_utc": 1769732922.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "The sales rep likely gets the commission from PG and less or nothing for other. Rep is bluffing. There’s usually approval process internally for adding advertisers to block list.\n\nEdit: Must be a bad Q1 for this rep. Can smell the desperation 😆",
+          "score": 1,
+          "created_utc": 1769734227.0
+        }
+      ]
     }
   ]
 }

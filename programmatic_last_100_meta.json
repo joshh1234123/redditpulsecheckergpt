@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pr06iq",
-      "title": "How much should CPMs cost for new retail media network?",
-      "author": "No-Sun-2086",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pr06iq/how_much_should_cpms_cost_for_new_retail_media/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pr06iq/how_much_should_cpms_cost_for_new_retail_media/",
-      "created_utc": 1766188958.0,
-      "content": "How much should CPMs be set at for a new retail media network connecting small to mid-size businesses who publish ads on their checkout pages with other small-mid size businesses placing advertisements?  Advertisements are post-XO page and can be masonry layout (3 ads in 1) or a hero placement (1 premium ad).  I am guessing its somewhere around $20-$30 per CPM for normal ads, a bit more for premium placements.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pr4rpg",
       "title": "Need Guidance - Trying to understand ad network / reseller dynamics",
       "author": "YogurtclosetSmart650",
@@ -1302,6 +1289,19 @@
       "created_utc": 1769694418.0,
       "content": "We are working on some hyper-localized campaigns for a handful of clients. I was curious if anyone had any experience with them and had any feedback (good/bad/or indifferent). Thanks! ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qqq0xc",
+      "title": "Publisher blocking me",
+      "author": "Programmatic-Dude",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
+      "created_utc": 1769732505.0,
+      "content": "We previously allocated a budget of $100K–$180K for this Canadian publisher through Programmatic Guaranteed and Preferred Deals. However, following a strategic shift this year toward Open Market and PMP executions, the publisher rep had pushbacked aggressively—threatening to blacklist our seat and advertiser. It’s a baffling sale rep response given that the spend remains on the table; they seem unwilling to accept any transaction method that doesn't provide the fixed-volume security of a PG deal. Anyone else had this issue before? Can they actually black list me if I buy on Open?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
