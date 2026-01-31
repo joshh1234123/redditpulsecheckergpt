@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ps163n",
-      "title": "API for OOH DSP",
-      "author": "nattyandthecoffee",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ps163n/api_for_ooh_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ps163n/api_for_ooh_dsp/",
-      "created_utc": 1766303637.0,
-      "content": "Looking for a DSP that can we used for programmatic Dooh that is API based. Any suggestions?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pswdid",
       "title": "I Built a 100% Algerian Delivery — Map-Based, No Phone Calls",
       "author": "dhxx7",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qrg6kd/any_orgdepartment_within_agency_offering_remote/",
       "created_utc": 1769803069.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qseuab",
+      "title": "MediaMath: the problem wasn't not paying people, it was we didn't have AI!",
+      "author": "data_spy",
+      "score": 2,
+      "url": "https://i.redd.it/gwl7z1ue5rgg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qseuab/mediamath_the_problem_wasnt_not_paying_people_it/",
+      "created_utc": 1769894903.0,
+      "content": "Pretty sure MediaMath had a different limiter...",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

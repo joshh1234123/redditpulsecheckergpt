@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-01-31T21:14:58.142549+00:00",
-    "total_posts": 1244,
+    "scrape_date": "2026-01-31T21:42:37.379652+00:00",
+    "total_posts": 1245,
     "total_comments": 9357
   },
   "discussions": [
@@ -74518,6 +74518,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qrg6kd/any_orgdepartment_within_agency_offering_remote/",
       "created_utc": 1769803069.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qseuab",
+      "title": "MediaMath: the problem wasn't not paying people, it was we didn't have AI!",
+      "author": "data_spy",
+      "score": 2,
+      "url": "https://i.redd.it/gwl7z1ue5rgg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qseuab/mediamath_the_problem_wasnt_not_paying_people_it/",
+      "created_utc": 1769894903.0,
+      "content": "Pretty sure MediaMath had a different limiter...",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
