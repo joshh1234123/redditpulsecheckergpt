@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-02T17:10:44.110273+00:00",
-    "total_posts": 1246,
+    "scrape_date": "2026-02-02T18:03:07.697724+00:00",
+    "total_posts": 1247,
     "total_comments": 9357
   },
   "discussions": [
@@ -74546,6 +74546,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qtu001/scibids_custom_algorithm/",
       "created_utc": 1770036120.0,
       "content": "Hi does anyone have any guidance/playbook on scibids and its use on programmatic platforms for cost saving and efficiency? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qu2ee7",
+      "title": "I built a free tool that scans your site for GDPR consent issues that break Google Ads conversions",
+      "author": "aristomenisgeo",
+      "score": 1,
+      "url": "/r/adops/comments/1qq32pt/i_built_a_free_tool_that_scans_your_site_for_gdpr/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qu2ee7/i_built_a_free_tool_that_scans_your_site_for_gdpr/",
+      "created_utc": 1770055233.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
