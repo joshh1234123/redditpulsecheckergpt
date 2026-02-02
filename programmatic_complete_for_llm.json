@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-02T12:40:53.275410+00:00",
-    "total_posts": 1245,
+    "scrape_date": "2026-02-02T13:57:46.038378+00:00",
+    "total_posts": 1246,
     "total_comments": 9357
   },
   "discussions": [
@@ -74532,6 +74532,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qseuab/mediamath_the_problem_wasnt_not_paying_people_it/",
       "created_utc": 1769894903.0,
       "content": "Pretty sure MediaMath had a different limiter...",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qtu001",
+      "title": "Scibids custom algorithm",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qtu001/scibids_custom_algorithm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qtu001/scibids_custom_algorithm/",
+      "created_utc": 1770036120.0,
+      "content": "Hi does anyone have any guidance/playbook on scibids and its use on programmatic platforms for cost saving and efficiency? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
