@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-03T16:10:05.297503+00:00",
-    "total_posts": 1250,
-    "total_comments": 9358
+    "scrape_date": "2026-02-03T17:26:43.138230+00:00",
+    "total_posts": 1251,
+    "total_comments": 9359
   },
   "discussions": [
     {
@@ -74613,6 +74613,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1quwgwo",
+      "title": "Amazon Interview - what can to expect?",
+      "author": "ZJXXI",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1quwgwo/amazon_interview_what_can_to_expect/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1quwgwo/amazon_interview_what_can_to_expect/",
+      "created_utc": 1770135922.0,
+      "content": "A friend of mine applied for a Sr. Ad Tech Executive role, what kinda questions can they expect? Will have to be aligned to the leadership principles but can anyone provide granular examples of the kind of questions - just curious to what have others experienced for similar roles.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Capital-Prize4764",
+          "body": "I built an AI mock interview tool that runs full interview simulations with camera-based body language analysis, role-specific questions from your resume + JD, stress interviews, interruptions, and detailed feedback on speech, pacing, and filler words and how long you took to answer. Its shows your progress over time. Use this to crack your interview. It has company specific training too! [www.simulinterview.com](http://www.simulinterview.com)",
+          "score": -4,
+          "created_utc": 1770136285.0
+        }
+      ]
     }
   ]
 }
