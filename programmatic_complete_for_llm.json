@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-03T21:27:37.013717+00:00",
-    "total_posts": 1251,
+    "scrape_date": "2026-02-03T21:57:23.900674+00:00",
+    "total_posts": 1252,
     "total_comments": 9359
   },
   "discussions": [
@@ -74634,6 +74634,20 @@
           "created_utc": 1770136285.0
         }
       ]
+    },
+    {
+      "id": "1qv5m8b",
+      "title": "Anyone use Adomik?",
+      "author": "VoidDeer1234",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qv5m8b/anyone_use_adomik/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qv5m8b/anyone_use_adomik/",
+      "created_utc": 1770155827.0,
+      "content": "Been kicking the tires on Adomik. It seems interesting for monitoring, forecasting and lead generation. Curious to hear people’s thoughts on their product and how good is it?\n\nStill don’t know the price tag either to understand its value.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
