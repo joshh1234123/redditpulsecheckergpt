@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pw9vf3",
-      "title": "Job Alert: AdOps Manager (UK, Ireland & Remote)",
-      "author": "ContentaAI",
-      "score": 1,
-      "url": "/r/adops/comments/1pw9uru/job_alert_adops_manager_uk_ireland_remote/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pw9vf3/job_alert_adops_manager_uk_ireland_remote/",
-      "created_utc": 1766770356.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pyp5nj",
       "title": "Vibe just figured out what everyone else learned years ago about CTV supply",
       "author": "Light-Blue-Star",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1quqk46/amazon_dsp_planner_here_what_do_you_call_flights/",
       "created_utc": 1770121487.0,
       "content": "Hey everyone,\n\nI'm building a planning tool for Amazon DSP and I'm trying to understand how other DSPs, especially The Trade Desk, handle the language and structure around budget distribution and pacing.\n\nFor context, on Amazon DSP we use \"flights\" to define how budget gets distributed across time periods in a campaign. Flights can be different types. For example a \"bursting\" or \"peak\" flight concentrates spend into a short intense period, while a \"pulsing\" flight maintains a base level of spend with periodic increases.\n\nI'm familiar with how Amazon DSP handles this, but I want my tool to make sense to people coming from other platforms too. If you've worked with The Trade Desk or others, I'd love to hear what terminology you use internally and with your clients\n\nThanks in advance!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qutk0r",
+      "title": "Campaign screen display and CTV",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qutk0r/campaign_screen_display_and_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qutk0r/campaign_screen_display_and_ctv/",
+      "created_utc": 1770129349.0,
+      "content": "Have you ever been required to provide campaign screen alsoo from CTV camapign? how poossible? due to targeting i might be also excluded from delivery....",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
