@@ -119,6 +119,21 @@
       "link_flair_text": null,
       "thread_id": "1qvanbp",
       "thread_path": "1qvanbp.json"
+    },
+    {
+      "id": "1qvo1fk",
+      "title": "Buyer Direct",
+      "author": "babyfootstink",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvo1fk/buyer_direct/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvo1fk/buyer_direct/",
+      "created_utc": 1770210315.0,
+      "content": "Publisher here. Our Google rep just enabled “Buyer Direct” deal types on our network. \n\nHave any of you on the buy-side successfully set up a Buyer Direct deal? \n\nFrom what I understand the buyer is able to cut out the DSP and directly buy inventory through the Authorized Buyer portal. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qvo1fk",
+      "thread_path": "1qvo1fk.json"
     }
   ]
 }
