@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-04T01:21:29.459957+00:00",
-    "total_posts": 1252,
-    "total_comments": 9359
+    "scrape_date": "2026-02-04T03:43:24.383701+00:00",
+    "total_posts": 1253,
+    "total_comments": 9361
   },
   "discussions": [
     {
@@ -74648,6 +74648,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1qvanbp",
+      "title": "Any of the SMB CTV platforms have good added value?",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvanbp/any_of_the_smb_ctv_platforms_have_good_added_value/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvanbp/any_of_the_smb_ctv_platforms_have_good_added_value/",
+      "created_utc": 1770168116.0,
+      "content": "I saw paramount is doing $5k - $25k media match. Are there any other ones offering similar like TVsci or vibe?\n\nAlso which ui is easier to use and which platform has better supply that’s not obscure bs?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "AdPhilosopher",
+          "body": "i didn't know paramount is doing match, how to get this? is this for direct buy or PGs?",
+          "score": 1,
+          "created_utc": 1770168485.0
+        },
+        {
+          "author": "Available_Plant3712",
+          "body": "Look up\nParamount ads manager.",
+          "score": 1,
+          "created_utc": 1770169162.0
+        }
+      ]
     }
   ]
 }
