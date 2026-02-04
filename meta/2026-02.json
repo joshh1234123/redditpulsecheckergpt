@@ -134,6 +134,21 @@
       "link_flair_text": null,
       "thread_id": "1qvo1fk",
       "thread_path": "1qvo1fk.json"
+    },
+    {
+      "id": "1qvq7qb",
+      "title": "Retargeting on multiple DSPs with audience list",
+      "author": "New_Top_9225",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvq7qb/retargeting_on_multiple_dsps_with_audience_list/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvq7qb/retargeting_on_multiple_dsps_with_audience_list/",
+      "created_utc": 1770215843.0,
+      "content": "Hey guys, i work in a sensitive vertical (gambling) in a still unregulated geo, so it's not legal, but not illegal either, hence why targeting is somewhat easy on smaller DSPs. \n\n  \ncan you tell me if it's possible to install only one tag on my site and then use this to retarget on multiple DSPs or I would need a separate tag for each one? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qvq7qb",
+      "thread_path": "1qvq7qb.json"
     }
   ]
 }

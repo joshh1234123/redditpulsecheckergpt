@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pzoonm",
-      "title": "Looking for a DSP",
-      "author": "bennnyboy121",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1pzoonm/looking_for_a_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pzoonm/looking_for_a_dsp/",
-      "created_utc": 1767117040.0,
-      "content": "Hey everyone, looking for some suggestions for a DSP with no minimums or a good place to get a TV 360 reseller seat. Wanted to hear everyone’s opinion. Please do not say Simplifi 🤣",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1pzoqra",
       "title": "Looking for Budget-Friendly SSAI + VAST Video Ad Server + Player Solutions",
       "author": "waldenschmidt07",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qvo1fk/buyer_direct/",
       "created_utc": 1770210315.0,
       "content": "Publisher here. Our Google rep just enabled “Buyer Direct” deal types on our network. \n\nHave any of you on the buy-side successfully set up a Buyer Direct deal? \n\nFrom what I understand the buyer is able to cut out the DSP and directly buy inventory through the Authorized Buyer portal. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qvq7qb",
+      "title": "Retargeting on multiple DSPs with audience list",
+      "author": "New_Top_9225",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvq7qb/retargeting_on_multiple_dsps_with_audience_list/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvq7qb/retargeting_on_multiple_dsps_with_audience_list/",
+      "created_utc": 1770215843.0,
+      "content": "Hey guys, i work in a sensitive vertical (gambling) in a still unregulated geo, so it's not legal, but not illegal either, hence why targeting is somewhat easy on smaller DSPs. \n\n  \ncan you tell me if it's possible to install only one tag on my site and then use this to retarget on multiple DSPs or I would need a separate tag for each one? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
