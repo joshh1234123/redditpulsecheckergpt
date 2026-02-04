@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-04T18:38:56.363898+00:00",
-    "total_posts": 1256,
+    "scrape_date": "2026-02-04T19:34:43.587794+00:00",
+    "total_posts": 1257,
     "total_comments": 9361
   },
   "discussions": [
@@ -74713,6 +74713,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qvsywg/i_set_up_amazons_new_ai_ad_tool_for_dsp_ads_so/",
       "created_utc": 1770222061.0,
       "content": "Amazon just released a way for AI tools like Claude or ChatGPT to connect directly to your ad account. You ask questions in normal language and it pulls real data. Campaigns, budgets, performance, all through a conversation. You can also tell it to create or change campaigns.\n\nThe catch: the setup requires developer experience. This is not something you can just download and start using as a seller or marketer yet.\n\nI have it installed and running on a real account so I figured I would offer to test it for anyone who wants to see what it actually does. Give me a scenario you care about and I will run it on video and reply in commnets. \n\nWhat would you want an AI to do inside our ad account?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qvy4r4",
+      "title": "Anyone worked for a govt client ad account - what are the pros and cons?",
+      "author": "Commercial-Zombie136",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
+      "created_utc": 1770233041.0,
+      "content": "Anyone working in a media agency or in-house on a Government client account?\n\nI would like to know what are the pros and cons? What things do you get to learn? What are some challenges? What is the possible impact on my career from this experience if it is my first job in ad media? How much commercial acumen it needs, what are the general KPIs?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

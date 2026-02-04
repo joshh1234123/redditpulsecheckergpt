@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q033w8",
-      "title": "Most efficient way to access display inventory",
-      "author": "ryans91",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q033w8/most_efficient_way_to_access_display_inventory/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q033w8/most_efficient_way_to_access_display_inventory/",
-      "created_utc": 1767153265.0,
-      "content": "This Q4 we spent a lot more on display traffic than ever before, all on GDN. Most of the spend and performance was driven by a few large publishers, along with a long-tail filling it out.\n\nObviously I know I can check their ads.txt and see who's running ads on the websites, but would I be able to get this sort of traffic for less than I'm paying via GDN? I have no clue what fees google takes or whether they have any preferential treatment. \n\nIf possible, I'd be looking for an SSP that allows direct buyers in order to get the lowest tech fees. Any suggestions or would I probably not be able to do any better than I am via google already?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q1vyyo",
       "title": "DMP data",
       "author": "Twnc",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qvsywg/i_set_up_amazons_new_ai_ad_tool_for_dsp_ads_so/",
       "created_utc": 1770222061.0,
       "content": "Amazon just released a way for AI tools like Claude or ChatGPT to connect directly to your ad account. You ask questions in normal language and it pulls real data. Campaigns, budgets, performance, all through a conversation. You can also tell it to create or change campaigns.\n\nThe catch: the setup requires developer experience. This is not something you can just download and start using as a seller or marketer yet.\n\nI have it installed and running on a real account so I figured I would offer to test it for anyone who wants to see what it actually does. Give me a scenario you care about and I will run it on video and reply in commnets. \n\nWhat would you want an AI to do inside our ad account?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qvy4r4",
+      "title": "Anyone worked for a govt client ad account - what are the pros and cons?",
+      "author": "Commercial-Zombie136",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
+      "created_utc": 1770233041.0,
+      "content": "Anyone working in a media agency or in-house on a Government client account?\n\nI would like to know what are the pros and cons? What things do you get to learn? What are some challenges? What is the possible impact on my career from this experience if it is my first job in ad media? How much commercial acumen it needs, what are the general KPIs?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
