@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1pzoqra",
-      "title": "Looking for Budget-Friendly SSAI + VAST Video Ad Server + Player Solutions",
-      "author": "waldenschmidt07",
-      "score": 1,
-      "url": "/r/adops/comments/1pzonr0/looking_for_budgetfriendly_ssai_vast_video_ad/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1pzoqra/looking_for_budgetfriendly_ssai_vast_video_ad/",
-      "created_utc": 1767117173.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q033w8",
       "title": "Most efficient way to access display inventory",
       "author": "ryans91",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qvq7qb/retargeting_on_multiple_dsps_with_audience_list/",
       "created_utc": 1770215843.0,
       "content": "Hey guys, i work in a sensitive vertical (gambling) in a still unregulated geo, so it's not legal, but not illegal either, hence why targeting is somewhat easy on smaller DSPs. \n\n  \ncan you tell me if it's possible to install only one tag on my site and then use this to retarget on multiple DSPs or I would need a separate tag for each one? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qvsywg",
+      "title": "I set up Amazon's new AI ad tool for DSP Ads so you don't have to. What do you want tested?",
+      "author": "NiceRecognition9603",
+      "score": 0,
+      "url": "https://i.redd.it/gznsxy7x6ihg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvsywg/i_set_up_amazons_new_ai_ad_tool_for_dsp_ads_so/",
+      "created_utc": 1770222061.0,
+      "content": "Amazon just released a way for AI tools like Claude or ChatGPT to connect directly to your ad account. You ask questions in normal language and it pulls real data. Campaigns, budgets, performance, all through a conversation. You can also tell it to create or change campaigns.\n\nThe catch: the setup requires developer experience. This is not something you can just download and start using as a seller or marketer yet.\n\nI have it installed and running on a real account so I figured I would offer to test it for anyone who wants to see what it actually does. Give me a scenario you care about and I will run it on video and reply in commnets. \n\nWhat would you want an AI to do inside our ad account?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

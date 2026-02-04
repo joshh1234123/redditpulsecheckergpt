@@ -149,6 +149,21 @@
       "link_flair_text": null,
       "thread_id": "1qvq7qb",
       "thread_path": "1qvq7qb.json"
+    },
+    {
+      "id": "1qvsywg",
+      "title": "I set up Amazon's new AI ad tool for DSP Ads so you don't have to. What do you want tested?",
+      "author": "NiceRecognition9603",
+      "score": 0,
+      "url": "https://i.redd.it/gznsxy7x6ihg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvsywg/i_set_up_amazons_new_ai_ad_tool_for_dsp_ads_so/",
+      "created_utc": 1770222061.0,
+      "content": "Amazon just released a way for AI tools like Claude or ChatGPT to connect directly to your ad account. You ask questions in normal language and it pulls real data. Campaigns, budgets, performance, all through a conversation. You can also tell it to create or change campaigns.\n\nThe catch: the setup requires developer experience. This is not something you can just download and start using as a seller or marketer yet.\n\nI have it installed and running on a real account so I figured I would offer to test it for anyone who wants to see what it actually does. Give me a scenario you care about and I will run it on video and reply in commnets. \n\nWhat would you want an AI to do inside our ad account?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qvsywg",
+      "thread_path": "1qvsywg.json"
     }
   ]
 }
