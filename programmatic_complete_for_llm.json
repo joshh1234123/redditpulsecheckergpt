@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-05T15:08:28.166387+00:00",
-    "total_posts": 1257,
+    "scrape_date": "2026-02-05T16:04:01.396057+00:00",
+    "total_posts": 1258,
     "total_comments": 9361
   },
   "discussions": [
@@ -74727,6 +74727,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
       "created_utc": 1770233041.0,
       "content": "Anyone working in a media agency or in-house on a Government client account?\n\nI would like to know what are the pros and cons? What things do you get to learn? What are some challenges? What is the possible impact on my career from this experience if it is my first job in ad media? How much commercial acumen it needs, what are the general KPIs?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qwoyuh",
+      "title": "Amazon DSP: new Advertisers pending approval (EMEA)",
+      "author": "tttigerb",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qwoyuh/amazon_dsp_new_advertisers_pending_approval_emea/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qwoyuh/amazon_dsp_new_advertisers_pending_approval_emea/",
+      "created_utc": 1770306867.0,
+      "content": "Hey everyone,\n\nI’m wondering if anyone else here is dealing with this or has some inside scoop.\n\nLately, getting new advertisers approved on Amazon DSP in the **EMEA region** has been a total nightmare. We’re talking days, sometimes even weeks, just to get the green light. And usually, nothing happens until you manually open a support ticket. That is, if you’re lucky enough to dodge the AI chatbot and actually reach a human.\n\nFor comparison, I just set up a new advertiser in the **Americas region** for a US client and, no joke, it was approved instantly.\n\nIs anyone else seeing this massive lag in EMEA? Honestly, Amazon should start picking up my therapy tabs at this point, because my clients won't stop blowing up my phone asking if their campaigns are live yet. ha ha.\n\nThanks! :)",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
