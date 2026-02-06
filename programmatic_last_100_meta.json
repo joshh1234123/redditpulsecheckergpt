@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q5h6kg",
-      "title": "DV360 Modular Training",
-      "author": "goodgoaj",
-      "score": 1,
-      "url": "https://jonathandsouzarauto.com/courses-dv360?utm_source=reddit.com&utm_medium=organic&utm_campaign=dv360-jdsplus",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q5h6kg/dv360_modular_training/",
-      "created_utc": 1767702272.0,
-      "content": "Dropping some new free training for all things DV360 that covers the basics & the more advanced elements. Happy learning!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1q5pdcb",
-      "title": "New OOH Programmatic DSP Wanting Feedback",
-      "author": "brian_becker",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q5pdcb/new_ooh_programmatic_dsp_wanting_feedback/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q5pdcb/new_ooh_programmatic_dsp_wanting_feedback/",
-      "created_utc": 1767721460.0,
-      "content": "Hey guys!\n\nWe recently launched a new programmatic DSP for OOH inventory and would love some feedback from other media buyers! Happy to give a demo (PM me) - but you can also explore yourself at [https://vuebillboards.com](https://vuebillboards.com)\n\nWe recently connected Perion's SSP. Looking forward to improving the product!\n\n  \nThanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q5u7mg",
       "title": "Anyone out there really using agentic buying and other AI automations?",
       "author": "MX-2000",
@@ -1302,6 +1276,32 @@
       "created_utc": 1770353037.0,
       "content": "Does anyone have a job in programmatic with a good work life balance? With all the layoffs, feels like those of us left are getting our butts kicked. On a related note, has anyone in programmatic sales successfully moved onto something else in the industry? ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qxglx4",
+      "title": "This game is a decade long project to make quantum computing intuitive for software engineers",
+      "author": "QuantumOdysseyGame",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qxglx4/this_game_is_a_decade_long_project_to_make/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxglx4/this_game_is_a_decade_long_project_to_make/",
+      "created_utc": 1770381812.0,
+      "content": "Hi,\n\nI am the indie dev behind [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/) (AMA! I love taking qs) - the goal was to make a super immersive space for anyone to learn quantum computing through zachlike (open-ended) logic puzzles and compete on leaderboards and lots of community made content on finding the most optimal quantum algorithms. The game has a unique set of visuals capable to represent any sort of quantum dynamics for any number of qubits and this is pretty much what makes it now possible for anybody 12yo+ to actually learn quantum logic without having to worry at all about the mathematics behind.\n\nThis is a game super different than what you'd normally expect in a programming/ logic puzzle game, so try it with an open mind. Now holds over 150hs of content, just the encyclopedia is 300p long (written pre-gpt era too..)\n\n# Stuff you'll play & learn a ton about\n\n* **Boolean Logic** – bits, operators (NAND, OR, XOR, AND…), and classical arithmetic (adders). Learn how these can combine to build anything classical. You will learn to port these to a quantum computer.\n* **Quantum Logic** – qubits, the math behind them (linear algebra, SU(2), complex numbers), all Turing-complete gates (beyond Clifford set), and make tensors to evolve systems. Freely combine or create your own gates to build anything you can imagine using polar or complex numbers.\n* **Quantum Phenomena** – storing and retrieving information in the X, Y, Z bases; superposition (pure and mixed states), interference, entanglement, the no-cloning rule, reversibility, and how the measurement basis changes what you see.\n* **Core Quantum Tricks** – phase kickback, amplitude amplification, storing information in phase and retrieving it through interference, build custom gates and tensors, and define any entanglement scenario. (Control logic is handled separately from other gates.)\n* **Famous Quantum Algorithms** – learn Deutsch–Jozsa, Grover’s search, quantum Fourier transforms, Bernstein–Vazirani, and more.\n* **Build & See Quantum Algorithms in Action** – instead of just writing/ reading equations, make & watch algorithms unfold step by step so they become clear, visual, and unforgettable. Quantum Odyssey is built to grow into a full universal quantum computing learning platform. If a universal quantum computer can do it, we aim to bring it into the game, so your quantum journey never ends.\n\nStreams:\n\nA physics teacher with over 400hs in streaming the game consistently:  [https://www.twitch.tv/beardhero](https://www.twitch.tv/beardhero)\n\nKhan academy style tutorials in physics and computing using the game, enjoy over 50hs of content on his YT channel here: [https://www.youtube.com/@MackAttackx](https://www.youtube.com/@MackAttackx)",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qxgzmd",
+      "title": "More Scope3 Layoffs",
+      "author": "FlamincoMinco",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qxgzmd/more_scope3_layoffs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxgzmd/more_scope3_layoffs/",
+      "created_utc": 1770382874.0,
+      "content": "https://www.adweek.com/programmatic/scope3-layoffs-engineers-sales/",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
