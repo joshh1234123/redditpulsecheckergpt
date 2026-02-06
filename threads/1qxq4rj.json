@@ -1,0 +1,46 @@
+{
+  "id": "1qxq4rj",
+  "thread_id": "1qxq4rj",
+  "title": "TTD Campaign Seed Size",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
+  "created_utc": 1770403487.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "ninja-squirrel",
+      "body": "What is the seed built from? Is it potentially a situation where the data has become stale and needs to be uploaded again? If you’re matching from email to UID2? \n\nActive ID’s for TTD are ones that have been seen in the last 3 days (I think), so there could be a lot of variation day to day.",
+      "score": 1,
+      "created_utc": 1770404558.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Does the client have only one pixel? There isn't much to do - either add 3rd party data (if it's a big brand then there may be quite good data out there) or add more pixels from other funnel steps.",
+      "score": 1,
+      "created_utc": 1770406160.0
+    },
+    {
+      "author": "thtgrljme",
+      "body": "It looks to be first-party data from one of our pixels. At this point I'm assuming that due to the nature of this particular client having a \"slow season\" we're just seeing less data on this pixel.",
+      "score": 2,
+      "created_utc": 1770405018.0
+    },
+    {
+      "author": "thtgrljme",
+      "body": "No, they have quite a few, but for some reason want to focus on this one specific pixel for the campaign seed. We've been holding off on suggesting adding additional pixels until the active ID size grows, but I don't really see it getting much bigger at this time of year.",
+      "score": 1,
+      "created_utc": 1770406259.0
+    },
+    {
+      "author": "ninja-squirrel",
+      "body": "Yup, gotta bump that up that traffic! I don’t believe there’s any way to change the definition of “active ID” but maybe look into the page fires per day and browser settings. If it’s lots of noncookieble traffic, you may just be sol.",
+      "score": 1,
+      "created_utc": 1770405316.0
+    },
+    {
+      "author": "thtgrljme",
+      "body": "Currently less than 1k 🥴",
+      "score": 1,
+      "created_utc": 1770405765.0
+    }
+  ]
+}

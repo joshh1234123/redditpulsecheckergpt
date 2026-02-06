@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q6edvn",
-      "title": "Does Scope3 even care about the environment anymore?",
-      "author": "FlexSaurStar",
-      "score": 8,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q6edvn/does_scope3_even_care_about_the_environment/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6edvn/does_scope3_even_care_about_the_environment/",
-      "created_utc": 1767789814.0,
-      "content": "All BOK ever focuses on now is agentic. AI is an insane energy footprint.",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1q6h180",
-      "title": "Anyone Willing To Test",
-      "author": "New_Independent9015",
-      "score": 0,
-      "url": "https://exodusgpt.com",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6h180/anyone_willing_to_test/",
-      "created_utc": 1767796716.0,
-      "content": "Saw another post similar to this so I hope this is okay, and to be clear, this is not live yet and a serious MVP (unless a ten-thousand of you sign up today. If so I’ll waltz into CES tonight and make an announcement…kidding, or am I?).\n\nSo what am I working on, a consumer facing LLM where consumers own their data and are paid for it in every way possible- A majority cut of ad spend, data broker/marketplace profit, referrals, even identity verification for ID res solutions. Sky is the limit. Why now?\n\n1.) In a multi-trillion dollar a year industry. Consumers should have control and get paid for their identity. Beyond the value exchange of ‘open web’, although reading 33 pages about the authors missing finger and cranky stepdad, to get to a ‘free’ recipe on NYT is pretty sweet. I prefer my ChatGPT recipe, even if it’s just pulled from NYT (I get the irony).\n\n2.) There has been no better time for a value exchange trade then now, with AI search capturing so much contextual data and being a one stop shop for consumer search.\n\nYou have a million questions and are probably thinking 1.) Why would anyone use yours over another LLM? 2.) Value exchange is already happening on open web, that’s the point. 3.) OpenAI will do this in the next year - you watch!\n\nFair points and I do have answers. On point three if someone from OpenAI sees this I’ll come work for you or even better, sell you my MVP for a billion. \n\nThank you for joining my TED Talk.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q6j0lq",
       "title": "DV360 Device Targeting Question..",
       "author": "Enviromental1001",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qxny76/campaign_auditoroptimizer/",
       "created_utc": 1770398858.0,
       "content": "Hey, you marketing person, are your ad campaigns a mess? Unclear on set-up? Think your agency is giving you the run around in Programmatic, Search or Social?\n\nWell please god give me something to do other than my day job. 10+ of programmatic setup and scrutiny. Let me help you save money and time by doing it right once. Highest yearly spend managed was - $200+M, fluent across B2C, B2B, most acronym.\n\nDM me for good time. Central US based",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qxq4rj",
+      "title": "TTD Campaign Seed Size",
+      "author": "thtgrljme",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
+      "created_utc": 1770403487.0,
+      "content": "I've been going back and forth with our TTD reps on this and haven't been able to really get a clear answer.\n\nWe've been using the same seed across all of our campaigns since at least 2025 if not earlier. I noticed after launching Q1 2026 campaigns that the campaign seed was being flagged with not enough active IDs. I had never had this flag before within the campaign to the point where the flag was stating we needed to add additional data sources to the seed to expand it.\n\nCurrently at the campaign level it looks like the seed has 5,000+ active IDs, but in the seed library it's still showing under 5k. I'm curious if the active IDs in a seed ebb & flow, sometimes being more, sometimes being less? TTD can't answer that question, I've searched the knowledge portal and TTD resources and am just having trouble making sense of this.\n\nI've yet to bring this up to our digital team because I know the client isn't going to want to add additional data sources due to their KPI.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qxr6a4",
+      "title": "CM360 reporting more impressions than DSPs (video) — anyone else?",
+      "author": "soledademe",
+      "score": 1,
+      "url": "/r/adops/comments/1qxr5wl/cm360_reporting_more_impressions_than_dsps_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxr6a4/cm360_reporting_more_impressions_than_dsps_video/",
+      "created_utc": 1770405756.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

@@ -284,6 +284,36 @@
       "link_flair_text": null,
       "thread_id": "1qxny76",
       "thread_path": "1qxny76.json"
+    },
+    {
+      "id": "1qxq4rj",
+      "title": "TTD Campaign Seed Size",
+      "author": "thtgrljme",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
+      "created_utc": 1770403487.0,
+      "content": "I've been going back and forth with our TTD reps on this and haven't been able to really get a clear answer.\n\nWe've been using the same seed across all of our campaigns since at least 2025 if not earlier. I noticed after launching Q1 2026 campaigns that the campaign seed was being flagged with not enough active IDs. I had never had this flag before within the campaign to the point where the flag was stating we needed to add additional data sources to the seed to expand it.\n\nCurrently at the campaign level it looks like the seed has 5,000+ active IDs, but in the seed library it's still showing under 5k. I'm curious if the active IDs in a seed ebb & flow, sometimes being more, sometimes being less? TTD can't answer that question, I've searched the knowledge portal and TTD resources and am just having trouble making sense of this.\n\nI've yet to bring this up to our digital team because I know the client isn't going to want to add additional data sources due to their KPI.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qxq4rj",
+      "thread_path": "1qxq4rj.json"
+    },
+    {
+      "id": "1qxr6a4",
+      "title": "CM360 reporting more impressions than DSPs (video) — anyone else?",
+      "author": "soledademe",
+      "score": 1,
+      "url": "/r/adops/comments/1qxr5wl/cm360_reporting_more_impressions_than_dsps_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxr6a4/cm360_reporting_more_impressions_than_dsps_video/",
+      "created_utc": 1770405756.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1qxr6a4",
+      "thread_path": "1qxr6a4.json"
     }
   ]
 }
