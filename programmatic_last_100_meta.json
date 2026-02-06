@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q3u3fu",
-      "title": "Question for open-web buyers: Are we actually able to explain where programmatic value is lost today?",
-      "author": "ziom_1045",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q3u3fu/question_for_openweb_buyers_are_we_actually_able/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q3u3fu/question_for_openweb_buyers_are_we_actually_able/",
-      "created_utc": 1767543792.0,
-      "content": "I’m trying to sanity-check a way of looking at open-web programmatic that feels slightly different from how most tools approach it today.\n\nMost SPO, verification, and quality solutions seem to focus on **individual symptoms** — MFA lists, preferred SSPs, viewability/fraud metrics, DSP-level SPO recommendations. All useful, but they still leave a gap when it comes to understanding **how a campaign dollar actually moves through the supply chain end-to-end**, and which hops add real value versus just cost, latency, and compute.\n\nThe angle I’m exploring is more *forensic* than real-time:  \nreconstructing post-campaign **supply paths at the impression level** (direct vs reseller depth, repeated SSP patterns, inefficient routing), layering in **inventory quality signals**, and looking at the **infrastructure side** as well (unnecessary auctions, duplicated bidding, carbon/compute overhead). Not trying to replace DSPs or verification vendors, but to create a **neutral decision layer** that sits outside platform-biased reporting.\n\nThe interesting part (at least conceptually) is what this enables *after* the analysis — if certain paths consistently show lower waste and better efficiency, those insights could be used to **inform more deliberate buying decisions** (e.g., prioritizing specific paths or curated deals), rather than relying purely on broad SSP preferences or blacklists.\n\nGenuine questions for people hands-on with open-market buying/selling:\n\n* Do current SPO + verification stacks give you enough clarity on **where value is actually lost**, or do you mostly accept some level of opacity?\n* When MFA or inefficiency shows up, do you usually know **which supply paths caused it**, or just which domains/SSPs were involved?\n* Would an **independent, post-campaign supply-chain audit** be useful in practice, or is this already solved better than it looks from the outside?\n\nTrying to understand if this gap is real or if the industry has already moved past it. Curious to hear practitioner perspectives.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1q4gpaa",
-      "title": "Looking for Websites to Learn DSP Ads & Traffic Analysis?",
-      "author": "Pleasant-Winner4605",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q4gpaa/looking_for_websites_to_learn_dsp_ads_traffic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q4gpaa/looking_for_websites_to_learn_dsp_ads_traffic/",
-      "created_utc": 1767603197.0,
-      "content": "I’m a beginner with DSP ads. Can anyone share some websites where I can learn what DSPs are, how they work, and how to analyze traffic or placements properly? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q5h6kg",
       "title": "DV360 Modular Training",
       "author": "goodgoaj",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qwoyuh/amazon_dsp_new_advertisers_pending_approval_emea/",
       "created_utc": 1770306867.0,
       "content": "Hey everyone,\n\nI’m wondering if anyone else here is dealing with this or has some inside scoop.\n\nLately, getting new advertisers approved on Amazon DSP in the **EMEA region** has been a total nightmare. We’re talking days, sometimes even weeks, just to get the green light. And usually, nothing happens until you manually open a support ticket. That is, if you’re lucky enough to dodge the AI chatbot and actually reach a human.\n\nFor comparison, I just set up a new advertiser in the **Americas region** for a US client and, no joke, it was approved instantly.\n\nIs anyone else seeing this massive lag in EMEA? Honestly, Amazon should start picking up my therapy tabs at this point, because my clients won't stop blowing up my phone asking if their campaigns are live yet. ha ha.\n\nThanks! :)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qx79tf",
+      "title": "WPP Media Interview Process",
+      "author": "trashbirb_pigeons",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
+      "created_utc": 1770350309.0,
+      "content": "Hello! I recently talked with a recruiter about an opportunity at WPP media for an account manager/senior specialist position and was wondering if anyone can share what the interview process was like and how it is working at WPP!\n\nAny info is appreciated!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qx86lp",
+      "title": "Work Life Balance",
+      "author": "Ilovepastasomuch",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
+      "created_utc": 1770353037.0,
+      "content": "Does anyone have a job in programmatic with a good work life balance? With all the layoffs, feels like those of us left are getting our butts kicked. On a related note, has anyone in programmatic sales successfully moved onto something else in the industry? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

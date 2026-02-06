@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-06T03:44:00.445477+00:00",
-    "total_posts": 1258,
-    "total_comments": 9361
+    "scrape_date": "2026-02-06T05:12:19.326974+00:00",
+    "total_posts": 1260,
+    "total_comments": 9363
   },
   "discussions": [
     {
@@ -74741,6 +74741,47 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qwoyuh/amazon_dsp_new_advertisers_pending_approval_emea/",
       "created_utc": 1770306867.0,
       "content": "Hey everyone,\n\nI’m wondering if anyone else here is dealing with this or has some inside scoop.\n\nLately, getting new advertisers approved on Amazon DSP in the **EMEA region** has been a total nightmare. We’re talking days, sometimes even weeks, just to get the green light. And usually, nothing happens until you manually open a support ticket. That is, if you’re lucky enough to dodge the AI chatbot and actually reach a human.\n\nFor comparison, I just set up a new advertiser in the **Americas region** for a US client and, no joke, it was approved instantly.\n\nIs anyone else seeing this massive lag in EMEA? Honestly, Amazon should start picking up my therapy tabs at this point, because my clients won't stop blowing up my phone asking if their campaigns are live yet. ha ha.\n\nThanks! :)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qx79tf",
+      "title": "WPP Media Interview Process",
+      "author": "trashbirb_pigeons",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
+      "created_utc": 1770350309.0,
+      "content": "Hello! I recently talked with a recruiter about an opportunity at WPP media for an account manager/senior specialist position and was wondering if anyone can share what the interview process was like and how it is working at WPP!\n\nAny info is appreciated!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "broadstreetrambler",
+          "body": "Run",
+          "score": 2,
+          "created_utc": 1770351707.0
+        },
+        {
+          "author": "trashbirb_pigeons",
+          "body": "Can you explain why 😭?",
+          "score": 1,
+          "created_utc": 1770354174.0
+        }
+      ]
+    },
+    {
+      "id": "1qx86lp",
+      "title": "Work Life Balance",
+      "author": "Ilovepastasomuch",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
+      "created_utc": 1770353037.0,
+      "content": "Does anyone have a job in programmatic with a good work life balance? With all the layoffs, feels like those of us left are getting our butts kicked. On a related note, has anyone in programmatic sales successfully moved onto something else in the industry? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
