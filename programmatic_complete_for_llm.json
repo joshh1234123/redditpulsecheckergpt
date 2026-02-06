@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-06T14:38:52.683267+00:00",
-    "total_posts": 1262,
+    "scrape_date": "2026-02-06T15:33:46.170561+00:00",
+    "total_posts": 1263,
     "total_comments": 9365
   },
   "discussions": [
@@ -74828,6 +74828,20 @@
           "created_utc": 1770383137.0
         }
       ]
+    },
+    {
+      "id": "1qxkq9a",
+      "title": "DV360 CTV deals for “business owners”: what actually worked for you?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qxkq9a/dv360_ctv_deals_for_business_owners_what_actually/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxkq9a/dv360_ctv_deals_for_business_owners_what_actually/",
+      "created_utc": 1770391893.0,
+      "content": "Running DV360 CTV with a business owner / decision-maker goal. **Not asking about audience targeting** , asking about **apps/deals/supply**.\n\nBesides the usual (Bloomberg/finance/news + broad streamers):\n\nwhat market place deals have you used in DV360 that performed well for this kind of market?\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
