@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q6j0lq",
-      "title": "DV360 Device Targeting Question..",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q6j0lq/dv360_device_targeting_question/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q6j0lq/dv360_device_targeting_question/",
-      "created_utc": 1767801212.0,
-      "content": "You can select these options:\n\nhttps://preview.redd.it/vhx04kof8ybg1.png?width=454&format=png&auto=webp&s=1814a5c346b034d06e5faaae04a2ff0c49647a07\n\nHowever when I run a report \"Set-top Box\" shows up as a device type.\n\nHow do you target \"set-top box\", the weird part that only showed up at least what I think showed up when I had selected \"computer & connected tv\"",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q6pvsv",
       "title": "CTV Campaigns in DV360",
       "author": "Inside-Valuable2645",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qxr6a4/cm360_reporting_more_impressions_than_dsps_video/",
       "created_utc": 1770405756.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1qynegz",
+      "title": "How to grow in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qynegz/how_to_grow_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qynegz/how_to_grow_in_programmatic/",
+      "created_utc": 1770493584.0,
+      "content": "I've mainly had experience with YouTube, video, display and a bit of audio. I know some basic DOOH, CTV but haven't run many campaigns there.\n\n I've only used Dv360 and Google ads and mostly focused on top/mid funnel campaigns. \n\nAny advice? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

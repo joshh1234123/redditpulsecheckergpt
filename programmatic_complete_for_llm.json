@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-07T19:44:53.876999+00:00",
-    "total_posts": 1266,
+    "scrape_date": "2026-02-07T20:18:43.064141+00:00",
+    "total_posts": 1267,
     "total_comments": 9371
   },
   "discussions": [
@@ -74917,6 +74917,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1qxr6a4/cm360_reporting_more_impressions_than_dsps_video/",
       "created_utc": 1770405756.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1qynegz",
+      "title": "How to grow in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qynegz/how_to_grow_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qynegz/how_to_grow_in_programmatic/",
+      "created_utc": 1770493584.0,
+      "content": "I've mainly had experience with YouTube, video, display and a bit of audio. I know some basic DOOH, CTV but haven't run many campaigns there.\n\n I've only used Dv360 and Google ads and mostly focused on top/mid funnel campaigns. \n\nAny advice? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
