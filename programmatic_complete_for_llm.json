@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-09T05:50:45.141238+00:00",
-    "total_posts": 1268,
+    "scrape_date": "2026-02-09T06:57:24.884273+00:00",
+    "total_posts": 1269,
     "total_comments": 9372
   },
   "discussions": [
@@ -74956,6 +74956,20 @@
           "created_utc": 1770524014.0
         }
       ]
+    },
+    {
+      "id": "1qzxbv1",
+      "title": "Starting my agency soon. Would love to know if there's a tool that i can use that can help me streamline my tasks so i can devote tasks elsewhere",
+      "author": "Healthy_Video_956",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1qzxbv1/starting_my_agency_soon_would_love_to_know_if/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1qzxbv1/starting_my_agency_soon_would_love_to_know_if/",
+      "created_utc": 1770620086.0,
+      "content": "What are some underrated tools that you use? The ones that can really smoothen your workflow and replace mundane tasks? Can be AI, extensions, apps, service subscriptions? Rn i feel i am going to be very overworked when it comes to monitoring client ads (as i am planning to take on a lot of client ads) and it would really help if someone tools could take over some of my more mundane tasks? I have been reading about Blobr AI, so if anyone's using that, i would love to know",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
