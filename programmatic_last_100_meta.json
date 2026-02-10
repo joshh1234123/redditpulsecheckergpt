@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q7g6ha",
-      "title": "Do you believe Amazon connected TV reach claims?",
-      "author": "NiceRecognition9603",
-      "score": 2,
-      "url": "https://i.redd.it/cky7ivlri5cg1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q7g6ha/do_you_believe_amazon_connected_tv_reach_claims/",
-      "created_utc": 1767889402.0,
-      "content": "I see some skepticism with Amazon\n\nAmazon claims to lead ad-supported streaming reach in every major Western market except Australia. Do you believe their numbers? What is your experience comparing to Netflix?\n\nHere are USA, but happy to share others.  I wish they would release monthly or weekly numbers.\n\nI'd also like to know Roku's, but they only release global figures.",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q7m7d3",
       "title": "Need help With Amazon DSP !!",
       "author": "No_Zone_794",
@@ -1302,6 +1289,19 @@
       "created_utc": 1770754914.0,
       "content": "Hi all, reaching out in search of your favorite programmatic CTV partners. If managed service, reps are timely/accommodating. Absolute must haves: ease of audience integration & premium site inventory (YouTube TV, Netflix, HBO, etc etc.)\n\nWould also be great to provide show/movie level reporting and strong performance (duh lol). Client's product does not focus on ROAS/is not necessarily shoppable, so any other attribution is great. Thank you in advance!!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r1g4m3",
+      "title": "Digital TAMS EU",
+      "author": "Think-Shift-469",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r1g4m3/digital_tams_eu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1g4m3/digital_tams_eu/",
+      "created_utc": 1770764286.0,
+      "content": "Looking to support digital monetization plans in EU. Anyone had seen a good data source of digital TAMS by company that covers display olv and ctv? Nielsen seems to be quite off on gross/net and missing ctv in many cases. Any advice?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
