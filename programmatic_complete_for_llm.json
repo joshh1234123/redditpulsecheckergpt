@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-11T06:07:44.582698+00:00",
-    "total_posts": 1273,
-    "total_comments": 9373
+    "scrape_date": "2026-02-11T07:33:52.753329+00:00",
+    "total_posts": 1274,
+    "total_comments": 9376
   },
   "discussions": [
     {
@@ -75033,6 +75033,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r1qcqh",
+      "title": "I just realized most marketers are wasting 60% of their programmatic ad budget — and no one talks about it",
+      "author": "TapMind",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
+      "created_utc": 1770792882.0,
+      "content": "**I’ve been diving deep into programmatic advertising lately, and something shocking came up: most campaigns barely use first-party data effectively, rely too much on default targeting, and end up paying a fortune for inefficient impressions.**\n\n**A few things I noticed:**\n\n***Many brands still bid blindly on RTB auctions without segmenting properly.***\n\nFraudulent traffic and bots are quietly eating up ad spend.\n\nCreative fatigue happens way faster than most teams anticipate.\n\n**I’m curious, Reddit:**\n\n1)How do you ensure your programmatic campaigns actually reach real humans?\n\n2)Do you measure viewability and engagement, or just clicks and conversions?\n\n3)What’s the one change that gave you the biggest ROI improvement in programmatic campaigns?\n\nI think sharing real experiences can save a lot of marketers from wasting thousands. Let’s start a thread of honest programmatic wins and fails.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "slippycrook",
+          "body": "Recently everyone is talking about things “no one talk about”…",
+          "score": 1,
+          "created_utc": 1770793700.0
+        },
+        {
+          "author": "klustura",
+          "body": "> I just realised...\n\n2 questions:\n- What year are you still in?\n- What are you trying to sell? (I've been seeing your recent posts).\n\n\n> no one talks about it\n\nThis is an insult to the whistle blowers who risked their careers and wasted years of research and analysis so that you and I pay the right price for products and services instead of enriching tax optimised monopoly oligarchs.",
+          "score": 1,
+          "created_utc": 1770793946.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Data man, give your data. You shit out llm generated text and I guess you want to sell something. What is it?",
+          "score": 1,
+          "created_utc": 1770794446.0
+        }
+      ]
     }
   ]
 }

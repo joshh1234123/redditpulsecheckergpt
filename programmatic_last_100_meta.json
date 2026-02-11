@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q7ocq9",
-      "title": "Anyone run those Hulu deals on market place for DV360? The ones in the 40s?",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q7ocq9/anyone_run_those_hulu_deals_on_market_place_for/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q7ocq9/anyone_run_those_hulu_deals_on_market_place_for/",
-      "created_utc": 1767907112.0,
-      "content": "Curious the Hulu Deals at $40 CPM, on market place, what kind of shows does that get you VS like FreeWheel or Disney Drax at around $25 CPM? \n\nWould be interesting to know what other \"premium\" deals exist and is the shows really that much better?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q86z4o",
       "title": "TLDR: Week in Review - Amazon's Measurement Play, Omnicom's bets, and More",
       "author": "data_spy",
@@ -1302,6 +1289,19 @@
       "created_utc": 1770766064.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r1qcqh",
+      "title": "I just realized most marketers are wasting 60% of their programmatic ad budget — and no one talks about it",
+      "author": "TapMind",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
+      "created_utc": 1770792882.0,
+      "content": "**I’ve been diving deep into programmatic advertising lately, and something shocking came up: most campaigns barely use first-party data effectively, rely too much on default targeting, and end up paying a fortune for inefficient impressions.**\n\n**A few things I noticed:**\n\n***Many brands still bid blindly on RTB auctions without segmenting properly.***\n\nFraudulent traffic and bots are quietly eating up ad spend.\n\nCreative fatigue happens way faster than most teams anticipate.\n\n**I’m curious, Reddit:**\n\n1)How do you ensure your programmatic campaigns actually reach real humans?\n\n2)Do you measure viewability and engagement, or just clicks and conversions?\n\n3)What’s the one change that gave you the biggest ROI improvement in programmatic campaigns?\n\nI think sharing real experiences can save a lot of marketers from wasting thousands. Let’s start a thread of honest programmatic wins and fails.",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
