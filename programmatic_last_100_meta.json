@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1q86z4o",
-      "title": "TLDR: Week in Review - Amazon's Measurement Play, Omnicom's bets, and More",
-      "author": "data_spy",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1q86z4o/tldr_week_in_review_amazons_measurement_play/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1q86z4o/tldr_week_in_review_amazons_measurement_play/",
-      "created_utc": 1767961653.0,
-      "content": "Hey everyone, here's the biggest marketing and advertising news from this week. Let me know if you like this.\n\n**Top Stories:**\n\n\\- Amazon positions itself as TV's new measurement standard - Pitching authenticated household reach and closed-loop attribution with programmatic access to 90% of U.S. households\n\n\\- Omnicom links Walmart data to Instagram influencers - New partnership identifies creators based on what their followers actually buy, not just follower counts\n\n\\- Adtech braces for AI disruption - Chatbots threatening web traffic while industry bets on AI agents advertising to other AI agents\n\n**Quick Hits:**\n\n\\- Privacy shifts accelerating: New state youth privacy laws and AI content metadata rules catching marketers off guard\n\n\\- Sports ad boom continues: WPP launches dedicated sports practice, NBCU sells out Winter Olympics inventory a month early\n\n\\- Cloudflare CEO becomes unlikely publisher ally after discovering Google scrapes 18 pages per visitor sent back, OpenAI takes 1,500\n\n\\- Reddit launches Max Campaigns: AI-powered ad tool promising more transparency than Google and Meta\n\n\\- WPP hires Angela Steele from Publicis as US chief client officer after major account losses\n\nFor full details on these stories check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-192026) \n\nWhat's your take on Amazon's push to become the measurement standard for TV advertising?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1q9260k",
       "title": "themoneytizer",
       "author": "Historical-Good-6353",
@@ -1302,6 +1289,19 @@
       "created_utc": 1770792882.0,
       "content": "**I’ve been diving deep into programmatic advertising lately, and something shocking came up: most campaigns barely use first-party data effectively, rely too much on default targeting, and end up paying a fortune for inefficient impressions.**\n\n**A few things I noticed:**\n\n***Many brands still bid blindly on RTB auctions without segmenting properly.***\n\nFraudulent traffic and bots are quietly eating up ad spend.\n\nCreative fatigue happens way faster than most teams anticipate.\n\n**I’m curious, Reddit:**\n\n1)How do you ensure your programmatic campaigns actually reach real humans?\n\n2)Do you measure viewability and engagement, or just clicks and conversions?\n\n3)What’s the one change that gave you the biggest ROI improvement in programmatic campaigns?\n\nI think sharing real experiences can save a lot of marketers from wasting thousands. Let’s start a thread of honest programmatic wins and fails.",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r1we3h",
+      "title": "Anyone here interviewed for Account Manager at DoubleVerify? What’s the process like and do they give an assessment?",
+      "author": "Jirekshun",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r1we3h/anyone_here_interviewed_for_account_manager_at/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1we3h/anyone_here_interviewed_for_account_manager_at/",
+      "created_utc": 1770813845.0,
+      "content": "Hey everyone,\n\nI’ve been approached for an Account Manager role at DoubleVerify and wanted to understand what the interview process looks like.\n\nHow many rounds did you go through? Was it mostly behavioral and client facing scenario questions, or did they also give a case study or written assessment?\n\nI’ve heard mixed things. Some say it’s just conversational with hiring managers, others mentioned a small assignment or email writing task.\n\nWould really appreciate any insights on:\n\n• What kind of assessment, if any, they gave\n\n• How technical the questions get, like viewability, IVT, discrepancies etc.\n\n• Anything that caught you off guard\n\nThanks in advance! ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
