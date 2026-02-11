@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-11T14:12:43.723872+00:00",
-    "total_posts": 1275,
-    "total_comments": 9376
+    "scrape_date": "2026-02-11T15:31:24.709084+00:00",
+    "total_posts": 1276,
+    "total_comments": 9377
   },
   "discussions": [
     {
@@ -75080,6 +75080,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r1yyrd",
+      "title": "Openpath TTD",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r1yyrd/openpath_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1yyrd/openpath_ttd/",
+      "created_utc": 1770820433.0,
+      "content": "Hi\n\nDoes anyone have information around openpath from TTD? \n\nIs it an extra cost? What are the advantages? Does it improve SPO? How does it work with PMPs/deals etc? \n\nI’m just trying to understand it",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Ttd is overpriced and offers nothing unique other than Walmart.",
+          "score": 1,
+          "created_utc": 1770821953.0
+        }
+      ]
     }
   ]
 }
