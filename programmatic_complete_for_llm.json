@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-12T06:54:14.581378+00:00",
-    "total_posts": 1276,
-    "total_comments": 9377
+    "scrape_date": "2026-02-12T07:46:07.820820+00:00",
+    "total_posts": 1277,
+    "total_comments": 9378
   },
   "discussions": [
     {
@@ -75099,6 +75099,27 @@
           "body": "Ttd is overpriced and offers nothing unique other than Walmart.",
           "score": 1,
           "created_utc": 1770821953.0
+        }
+      ]
+    },
+    {
+      "id": "1r2mm9z",
+      "title": "Let me know if anyone knows",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r2mm9z/let_me_know_if_anyone_knows/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r2mm9z/let_me_know_if_anyone_knows/",
+      "created_utc": 1770879423.0,
+      "content": "  \n**What's the best** **programmatic** **advertising** **platform?**",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Xandr",
+          "score": 2,
+          "created_utc": 1770880203.0
         }
       ]
     }
