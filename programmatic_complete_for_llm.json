@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-12T10:37:50.780492+00:00",
-    "total_posts": 1277,
+    "scrape_date": "2026-02-12T11:34:57.696303+00:00",
+    "total_posts": 1278,
     "total_comments": 9378
   },
   "discussions": [
@@ -75122,6 +75122,20 @@
           "created_utc": 1770880203.0
         }
       ]
+    },
+    {
+      "id": "1r2q98s",
+      "title": "Job Alert: Senior Product Manager for a CTV platform",
+      "author": "slippycrook",
+      "score": 2,
+      "url": "/r/adops/comments/1r2ns38/job_alert_senior_product_manager_for_a_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r2q98s/job_alert_senior_product_manager_for_a_ctv/",
+      "created_utc": 1770893098.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
