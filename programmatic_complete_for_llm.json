@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-12T19:45:30.651259+00:00",
-    "total_posts": 1278,
+    "scrape_date": "2026-02-12T20:27:26.070674+00:00",
+    "total_posts": 1279,
     "total_comments": 9378
   },
   "discussions": [
@@ -75132,6 +75132,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r2q98s/job_alert_senior_product_manager_for_a_ctv/",
       "created_utc": 1770893098.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r33l90",
+      "title": "Career Question - Expanding Beyond Programmatic",
+      "author": "lurkerprofile26",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r33l90/career_question_expanding_beyond_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r33l90/career_question_expanding_beyond_programmatic/",
+      "created_utc": 1770926071.0,
+      "content": "Hello my fellow traders! I have 6 years of programmatic experience and have been managing my own line of business (overseeing the work of two other traders) for about a year. 1.5 years at an agency, 4.5 in-house.\n\nWhile I’d love to grow within my current company, that is not looking likely in the near future due to our financial performance. I’m really, really looking to stay in-house and have been seeing roles for “paid media” managers, which span planning more channels than just prog (radio, OOH, social, TV, etc). While I’d prefer to stay doing prog, I’m open to the idea of more planning rather than do other hands on keys biddable (social, affiliate, search), to be a sort of all-around performance marketer.\n\nThose kinds of roles are more available in-house so I’m thinking of applying, but has anyone successfully managed to snag a broader media role with a programmatic background? I work closely with our agency planning team and also manage a lot of SSP partnerships/relationships so I am confident I have the soft skills, but I can’t in good faith say I have direct media planning experience beyond programmatic.\n\nLooking for any guidance, tips, ways to learn how to do media planning outside of my company (since we are fairly siloed from our in-house media strategy team - they interface more with the agency planning team than with us).\n\nThank you so much in advance!!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
