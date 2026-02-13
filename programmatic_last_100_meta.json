@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qaor92",
-      "title": "Title: UK Market Check: Is anyone else seeing TTD minimums spike for 2026?",
-      "author": "jackfredellis",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qaor92/title_uk_market_check_is_anyone_else_seeing_ttd/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qaor92/title_uk_market_check_is_anyone_else_seeing_ttd/",
-      "created_utc": 1768203475.0,
-      "content": "I’ve been talking to a few UK-based traders lately and it feels like the entry point for a direct TTD seat has become unreachable for anyone not spending £100k+ a month.\n\nA lot of mid-sized teams have the talent for hands-on-keyboard trading but are being forced onto \"lite\" DSPs or managed services with hidden margins just because they don't hit those enterprise spend thresholds.\n\nI’ve actually found a way to bypass these minimums while still getting a full, direct seat (identical to going direct to TTD). It’s been a game changer for keeping autonomy without the massive overhead.\n\nIf anyone else in the UK is hitting this wall and wants to know how to set it up, drop me a DM or leave a comment - happy to share what worked for us.\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1qauk11",
-      "title": "Skill Swap: I offer 9+ years of AdTech Engineering (Full-stack/AI). You offer real-world AdOps \"battleground\" context.",
-      "author": "Psychological-Art834",
-      "score": 1,
-      "url": "/r/adops/comments/1q8zqeb/skill_swap_i_offer_9_years_of_adtech_engineering/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qauk11/skill_swap_i_offer_9_years_of_adtech_engineering/",
-      "created_utc": 1768223671.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qaxnsn",
       "title": "(Recap list) Challenges switching from The Trade Desk to Amazon DSP",
       "author": "NiceRecognition9603",
@@ -1302,6 +1276,32 @@
       "created_utc": 1770991438.0,
       "content": "Hi everyone,\n\nI’m planning to start my own ad server business, focusing on US and EU traffic (display ads only).\n\nBased on your experience:\n\n• Which DSPs/SSPs are relatively easy to integrate via OpenRTB or XML?\n\n• Which platforms are more difficult (strict approval, high requirements, long integration process)?\n\n• Do you have any recommendations for beginners in the ad tech space?\n\nI appreciate any advice from those with real experience in this field. Thank you!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r3sl8h",
+      "title": "Phone call tracking and optimization",
+      "author": "Sav4geMode",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r3sl8h/phone_call_tracking_and_optimization/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3sl8h/phone_call_tracking_and_optimization/",
+      "created_utc": 1770997539.0,
+      "content": "Does anyone know of a company that can track phone calls to impressions and also optimize? Google search hints at Invoca and CallRail but curious if anyone has worked with them or know of any other tech that can achieve this.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r3tgj3",
+      "title": "Automating HTML5 Ad Validation: A local-first approach to reduce Creative-to-Ops friction",
+      "author": "AdPreflight-Dev",
+      "score": 1,
+      "url": "/r/adtech/comments/1qzz92t/automating_html5_ad_validation_a_localfirst/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3tgj3/automating_html5_ad_validation_a_localfirst/",
+      "created_utc": 1770999436.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

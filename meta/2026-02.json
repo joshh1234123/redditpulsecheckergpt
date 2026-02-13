@@ -554,6 +554,36 @@
       "link_flair_text": null,
       "thread_id": "1r3pzxt",
       "thread_path": "1r3pzxt.json"
+    },
+    {
+      "id": "1r3sl8h",
+      "title": "Phone call tracking and optimization",
+      "author": "Sav4geMode",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r3sl8h/phone_call_tracking_and_optimization/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3sl8h/phone_call_tracking_and_optimization/",
+      "created_utc": 1770997539.0,
+      "content": "Does anyone know of a company that can track phone calls to impressions and also optimize? Google search hints at Invoca and CallRail but curious if anyone has worked with them or know of any other tech that can achieve this.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1r3sl8h",
+      "thread_path": "1r3sl8h.json"
+    },
+    {
+      "id": "1r3tgj3",
+      "title": "Automating HTML5 Ad Validation: A local-first approach to reduce Creative-to-Ops friction",
+      "author": "AdPreflight-Dev",
+      "score": 1,
+      "url": "/r/adtech/comments/1qzz92t/automating_html5_ad_validation_a_localfirst/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3tgj3/automating_html5_ad_validation_a_localfirst/",
+      "created_utc": 1770999436.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1r3tgj3",
+      "thread_path": "1r3tgj3.json"
     }
   ]
 }
