@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qa67xn",
-      "title": "Ad Ops Specialist here - stuck",
-      "author": "the_world_is_minee",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qa67xn/ad_ops_specialist_here_stuck/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qa67xn/ad_ops_specialist_here_stuck/",
-      "created_utc": 1768154615.0,
-      "content": "Hey everyone,\n\nI’ve been a Senior Ad Ops Specialist at a major iGaming company for the past 3 years. While I’ve mastered the current stack, I feel I’ve hit a ceiling in terms of both salary and technical growth. I’m looking for a new challenge, specifically moving deeper into the **Programmatic** space. I’m currently completing my Google Marketing Platform certifications (CM360 & DV360).  \n  \nAd ops is really fun but there is no way i can do this for next 20 years :)...  \n  \nCan anyone hook me up in the right direction? Is there anything I should be doing right now to advance?  \n  \nIf you’re hiring or have advice on making the jump from pure Ad Ops to Programmatic, I’d love to hear from you :) ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qaor92",
       "title": "Title: UK Market Check: Is anyone else seeing TTD minimums spike for 2026?",
       "author": "jackfredellis",
@@ -1302,6 +1289,19 @@
       "created_utc": 1770935043.0,
       "content": "I have an advertiser seat in TTD that is tied to my agency’s partner account. Is there a way to transfer the seat to a different partner account? AKA the client is switching to a new agency, but would like to keep everything that’s already been created in their seat. Wondering if this is possible or a complicated process. ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r3pzxt",
+      "title": "Starting My Own Ad Server (USA/EU – Display Ads) – Which DSP/SSP Are Easiest to Connect?",
+      "author": "Beneficial_Alps2605",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r3pzxt/starting_my_own_ad_server_usaeu_display_ads_which/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3pzxt/starting_my_own_ad_server_usaeu_display_ads_which/",
+      "created_utc": 1770991438.0,
+      "content": "Hi everyone,\n\nI’m planning to start my own ad server business, focusing on US and EU traffic (display ads only).\n\nBased on your experience:\n\n• Which DSPs/SSPs are relatively easy to integrate via OpenRTB or XML?\n\n• Which platforms are more difficult (strict approval, high requirements, long integration process)?\n\n• Do you have any recommendations for beginners in the ad tech space?\n\nI appreciate any advice from those with real experience in this field. Thank you!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
