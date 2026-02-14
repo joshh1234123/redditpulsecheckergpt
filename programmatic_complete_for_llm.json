@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-14T01:22:03.688452+00:00",
-    "total_posts": 1284,
-    "total_comments": 9380
+    "scrape_date": "2026-02-14T03:40:51.298150+00:00",
+    "total_posts": 1285,
+    "total_comments": 9381
   },
   "discussions": [
     {
@@ -75234,6 +75234,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r48at2",
+      "title": "What are your top tips and tricks for running Connected TV (CTV) campaigns?",
+      "author": "DonSalaam",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r48at2/what_are_your_top_tips_and_tricks_for_running/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r48at2/what_are_your_top_tips_and_tricks_for_running/",
+      "created_utc": 1771035225.0,
+      "content": "I would love to hear what DSP use, what locations/regions you target, and what your top tips are for running successful CTV campaigns?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "wickedysplit25",
+          "body": "Turning on cross device attribution when running ctv or audio and other tactics. That way you can see how the funnel is working.",
+          "score": 1,
+          "created_utc": 1771035744.0
+        }
+      ]
     }
   ]
 }
