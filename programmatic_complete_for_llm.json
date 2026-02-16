@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-16T19:52:57.267777+00:00",
-    "total_posts": 1291,
+    "scrape_date": "2026-02-16T20:22:08.245545+00:00",
+    "total_posts": 1292,
     "total_comments": 9381
   },
   "discussions": [
@@ -75335,6 +75335,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r68mq8/insertion_order_line_item_settings/",
       "created_utc": 1771245792.0,
       "content": "Hi everyone,\n\nA bit confused as to what settings can a LI override from IO level.What are the best practices of settings at each level here?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r6ke2d",
+      "title": "Has anyone tried out Genius Sports’ FANHub platform?",
+      "author": "That_Kaleidoscope512",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r6ke2d/has_anyone_tried_out_genius_sports_fanhub_platform/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r6ke2d/has_anyone_tried_out_genius_sports_fanhub_platform/",
+      "created_utc": 1771272503.0,
+      "content": "Has anyone given their DSP a shot? What’s the ad inventory like? Looking to potentially advertise.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
