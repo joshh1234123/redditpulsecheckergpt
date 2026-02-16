@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-16T09:44:53.547619+00:00",
-    "total_posts": 1288,
+    "scrape_date": "2026-02-16T10:41:55.484447+00:00",
+    "total_posts": 1289,
     "total_comments": 9381
   },
   "discussions": [
@@ -75293,6 +75293,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r6387y/having_no_clue_finding_good_and_reliable_traffic/",
       "created_utc": 1771226962.0,
       "content": "I've been working in the programmatic ad space for the last 2-3 years. Is it just me, or are the traffic sources reducing? If it's just me, can you guys help a brother out by sharing some insights on the same matter? I just can't find reliable traffic sources and I'm not fulfilling my targets, and it's stressing me out everyday. Any help or leads are appreciated. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r65w1p",
+      "title": "Ad Serving Limited on AdSense",
+      "author": "Sea-Rub-7139",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r65w1p/ad_serving_limited_on_adsense/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r65w1p/ad_serving_limited_on_adsense/",
+      "created_utc": 1771236782.0,
+      "content": "After going through this subreddit, I’ve noticed many publishers are struggling with Ad Serving Limited issues due to invalid traffic, even when their traffic is fully organic and legitimate.\n\nOne common trigger is a sudden traffic spike. Sometimes it’s positive (SEO growth, viral content), sometimes not, but either way, it can negatively impact ad serving and revenue.\n\nI’ve worked with multiple publishers who faced the same issue, and in most cases, the invalid traffic signals reduce over time once the right steps are taken and traffic stabilizes.\n\nIf you’re still facing Ad Serving Limited and not sure what’s causing it, feel free to DM me with your site details. I’ll try to guide you as best as I can and share what’s worked for others.\n\nHope this helps someone here 👍",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
