@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-16T11:35:27.474250+00:00",
-    "total_posts": 1289,
+    "scrape_date": "2026-02-16T12:45:02.996943+00:00",
+    "total_posts": 1291,
     "total_comments": 9381
   },
   "discussions": [
@@ -75307,6 +75307,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r65w1p/ad_serving_limited_on_adsense/",
       "created_utc": 1771236782.0,
       "content": "After going through this subreddit, I’ve noticed many publishers are struggling with Ad Serving Limited issues due to invalid traffic, even when their traffic is fully organic and legitimate.\n\nOne common trigger is a sudden traffic spike. Sometimes it’s positive (SEO growth, viral content), sometimes not, but either way, it can negatively impact ad serving and revenue.\n\nI’ve worked with multiple publishers who faced the same issue, and in most cases, the invalid traffic signals reduce over time once the right steps are taken and traffic stabilizes.\n\nIf you’re still facing Ad Serving Limited and not sure what’s causing it, feel free to DM me with your site details. I’ll try to guide you as best as I can and share what’s worked for others.\n\nHope this helps someone here 👍",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r68cbw",
+      "title": "Has programmatic delivery always been this broken?",
+      "author": "Kipchack123",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r68cbw/has_programmatic_delivery_always_been_this_broken/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r68cbw/has_programmatic_delivery_always_been_this_broken/",
+      "created_utc": 1771244929.0,
+      "content": "Serious question for anyone in AdOps, trading, planning, or client strategy.\n\nWe all joke about programmatic being chaos, but I’m trying to figure out whether the chaos is actually normal, or if we’ve all just been gaslit by the ecosystem into thinking unpredictable delivery is fine.\n\nNot selling anything, just trying to understand how bad it really is for the people who live in the trenches.\n\nFor anyone who deals with this stuff:\n\n1) How often does pacing completely lose its mind for no reason?\n\n2) Do you get impression drops that feel like the campaign just decided to take a personal day?\n\n3) How often does CPM swing 20–50% and everyone shrugs like “yeah that’s programmatic”?\n\n4) Do certain SSPs behave like they’re running on a potato server?\n\n5) How many fire drills do you deal with in a typical week?\n\n6) On a scale of 1–10, how big of a problem is delivery unpredictability for you personally?  \n(1 = “lol idc”, 10 = “this job is actively shortening my lifespan”)\n\n7) And honestly — is there any real way to predict or measure stability today, or is it just vibes, panic, and dashboards?\n\nTrying to figure out if this is truly “the industry\" or if we’ve all normalized something that shouldn’t be normal.\n\nWould love the unfiltered truth.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r68mq8",
+      "title": "Insertion Order - Line Item settings",
+      "author": "Maleficent_Score_242",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r68mq8/insertion_order_line_item_settings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r68mq8/insertion_order_line_item_settings/",
+      "created_utc": 1771245792.0,
+      "content": "Hi everyone,\n\nA bit confused as to what settings can a LI override from IO level.What are the best practices of settings at each level here?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
