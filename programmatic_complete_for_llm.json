@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-17T10:38:36.148212+00:00",
-    "total_posts": 1293,
-    "total_comments": 9382
+    "scrape_date": "2026-02-17T11:34:58.388294+00:00",
+    "total_posts": 1296,
+    "total_comments": 9383
   },
   "discussions": [
     {
@@ -75374,6 +75374,55 @@
           "created_utc": 1771280079.0
         }
       ]
+    },
+    {
+      "id": "1r733gw",
+      "title": "Best AI services or custom prompts to resize banners?",
+      "author": "jberts",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r733gw/best_ai_services_or_custom_prompts_to_resize/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r733gw/best_ai_services_or_custom_prompts_to_resize/",
+      "created_utc": 1771326229.0,
+      "content": "Has anyone used a service / plugin or built their own custom prompt or web-app utilising AI models to easily but effectively resize imagery for all banner sizes? It seems like this is something that should work well and at very low cost with advancements in image models.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "calben99",
+          "body": "For banner resizing specifically, Ideogram is the best option right now. It handles aspect ratio changes better than Midjourney or DALL-E because it was built with design workflows in mind. You can upload your existing banner and use the remix feature to resize while keeping the core composition intact. The key is using their structure reference feature so it doesnt completely redesign the layout when you change dimensions.",
+          "score": 1,
+          "created_utc": 1771327830.0
+        }
+      ]
+    },
+    {
+      "id": "1r73amy",
+      "title": "Drop your website link or DM email to talk",
+      "author": "AdEither8881",
+      "score": 0,
+      "url": "https://i.redd.it/zop06bmzf1kg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r73amy/drop_your_website_link_or_dm_email_to_talk/",
+      "created_utc": 1771326920.0,
+      "content": "Advertiser looking for **banner (web +inapp) tier 1 traffic**",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r73i40",
+      "title": "How do I determine burnout?",
+      "author": "HeyItsAmisha",
+      "score": 1,
+      "url": "/r/careerguidance/comments/1r73gzf/hhiw_do_i_determine_burnout/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r73i40/how_do_i_determine_burnout/",
+      "created_utc": 1771327602.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

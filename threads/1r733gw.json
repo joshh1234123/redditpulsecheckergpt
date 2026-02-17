@@ -1,0 +1,16 @@
+{
+  "id": "1r733gw",
+  "thread_id": "1r733gw",
+  "title": "Best AI services or custom prompts to resize banners?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1r733gw/best_ai_services_or_custom_prompts_to_resize/",
+  "created_utc": 1771326229.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "calben99",
+      "body": "For banner resizing specifically, Ideogram is the best option right now. It handles aspect ratio changes better than Midjourney or DALL-E because it was built with design workflows in mind. You can upload your existing banner and use the remix feature to resize while keeping the core composition intact. The key is using their structure reference feature so it doesnt completely redesign the layout when you change dimensions.",
+      "score": 1,
+      "created_utc": 1771327830.0
+    }
+  ]
+}
