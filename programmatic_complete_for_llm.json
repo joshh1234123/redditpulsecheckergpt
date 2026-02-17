@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-17T11:34:58.388294+00:00",
-    "total_posts": 1296,
+    "scrape_date": "2026-02-17T12:44:53.243907+00:00",
+    "total_posts": 1297,
     "total_comments": 9383
   },
   "discussions": [
@@ -75419,6 +75419,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r73i40/how_do_i_determine_burnout/",
       "created_utc": 1771327602.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r74qsi",
+      "title": "Volatility isn’t “normal” — we’ve just normalized it.",
+      "author": "Kipchack123",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r74qsi/volatility_isnt_normal_weve_just_normalized_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r74qsi/volatility_isnt_normal_weve_just_normalized_it/",
+      "created_utc": 1771331447.0,
+      "content": "I posted two threads yesterday that pulled \\~7K views in less than a day (roughly 50% and 40% reach), and the responses had a clear pattern:\n\nInternally we say:  \n“Volatility is normal.”  \n“It’s just auction dynamics.”  \n“It’s noise.”\n\nBut when CPMs swing 30–40% for no visible reason, when supply paths shift mid‑flight, when floors jump intraday — is that really “normal”?  \nOr have we just adapted to a system that doesn’t show us what’s actually happening?\n\nAnd here’s the part I keep coming back to:  \nIf clients churn or in‑house because the swings are unexplainable, is that really just “noise”?  \nOr is it a sign that we’ve normalized instability instead of measuring and managing it?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
