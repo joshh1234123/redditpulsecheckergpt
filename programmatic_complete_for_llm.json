@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-17T19:42:16.598353+00:00",
-    "total_posts": 1298,
-    "total_comments": 9383
+    "scrape_date": "2026-02-17T20:29:29.916782+00:00",
+    "total_posts": 1299,
+    "total_comments": 9387
   },
   "discussions": [
     {
@@ -75451,6 +75451,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r7gkwo",
+      "title": "IPG Omnicom",
+      "author": "TheGrandLeveler",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r7gkwo/ipg_omnicom/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r7gkwo/ipg_omnicom/",
+      "created_utc": 1771357632.0,
+      "content": "If it was proposed to you, would you join this agency?\n\nOn one hand they are doing layoffs on the other hand theyre looking to hire people too.\n\nIs it a good idea to join them at this timing or not? ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Hell no.",
+          "score": 7,
+          "created_utc": 1771357852.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "There hr team keeps reaching out about senior positions. No way I’d even consider this and go into an office",
+          "score": 3,
+          "created_utc": 1771357995.0
+        },
+        {
+          "author": "Far_Argument5470",
+          "body": "It'd have to be really bad, for me to join",
+          "score": 2,
+          "created_utc": 1771357948.0
+        },
+        {
+          "author": "moonvaporeon",
+          "body": "If I already had a programmatic job somewhere else, I definitely wouldn’t quit to join them. \n\nIf I didn’t have a job or I worked in a completely different industry currently and really wanted to switch to programmatic, then yes I would join them. \n\nBasically “Yes but not if I had better options” lol",
+          "score": 2,
+          "created_utc": 1771359775.0
+        }
+      ]
     }
   ]
 }
