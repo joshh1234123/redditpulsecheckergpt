@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-17T21:04:01.724779+00:00",
-    "total_posts": 1299,
+    "scrape_date": "2026-02-17T21:53:13.703931+00:00",
+    "total_posts": 1300,
     "total_comments": 9387
   },
   "discussions": [
@@ -75490,6 +75490,20 @@
           "created_utc": 1771359775.0
         }
       ]
+    },
+    {
+      "id": "1r7j9tv",
+      "title": "Medical Emergency During Vacation - How to Handle Extended Leave?",
+      "author": "tech_matic",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r7j9tv/medical_emergency_during_vacation_how_to_handle/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r7j9tv/medical_emergency_during_vacation_how_to_handle/",
+      "created_utc": 1771363492.0,
+      "content": "I work at one of the top 5 media agencies(Canada)  in a\ncoordinator role and have been with the company for about a year. I'm currently in my hometown using my 3 weeks of paid vacation together. However, I now need an emergency dental operation here. \n\nThe treatment will take about 21 days plus 3 days for follow-up, and my doctor has advised no travel for at least 25 days. This means my total time away from work could add up to nearly 50 days (including weekends and my existing vacation days). \n\nMy company doesn't allow international remote work due to policy, so working from here isn't an option. Has anyone been in a similar situation? Would companies typically approve an additional 25 days of unpaid leave in cases like this? Could this affect my job or performance review? Any advice on how to handle this conversation with HR or\nmy manager would be really helpful.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
