@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qed6cw",
-      "title": "Ad Revenue Management Platforms",
-      "author": "DG_London9",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qed6cw/ad_revenue_management_platforms/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qed6cw/ad_revenue_management_platforms/",
-      "created_utc": 1768561643.0,
-      "content": "We’re currently running an RFP to evaluate **ad revenue management / yield tooling** (think analytics, pricing insights, workflow, decision support rather than ad serving itself).\n\nWe’re looking at platforms like **Pubstack**, **Assertive Yield**, and a few others in that category.\n\nKeen to hear from people on the **publisher or monetisation side**. \n\nWould love to hear real-world experiences, pros/cons, or even general frameworks for how people assess these tools rather than vendor-specific takes.\n\n  \nThanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qed8px",
       "title": "I've worked with amazon DSP ads since 2018. AMA.",
       "author": "LeatherDudes",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r74qsi/volatility_isnt_normal_weve_just_normalized_it/",
       "created_utc": 1771331447.0,
       "content": "I posted two threads yesterday that pulled \\~7K views in less than a day (roughly 50% and 40% reach), and the responses had a clear pattern:\n\nInternally we say:  \n“Volatility is normal.”  \n“It’s just auction dynamics.”  \n“It’s noise.”\n\nBut when CPMs swing 30–40% for no visible reason, when supply paths shift mid‑flight, when floors jump intraday — is that really “normal”?  \nOr have we just adapted to a system that doesn’t show us what’s actually happening?\n\nAnd here’s the part I keep coming back to:  \nIf clients churn or in‑house because the swings are unexplainable, is that really just “noise”?  \nOr is it a sign that we’ve normalized instability instead of measuring and managing it?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r7cd3l",
+      "title": "Programmatic Account Manager w/ 5 year experience looking to get into consultancy work (London UK based)",
+      "author": "DistributionSelect74",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r7cd3l/programmatic_account_manager_w_5_year_experience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r7cd3l/programmatic_account_manager_w_5_year_experience/",
+      "created_utc": 1771348872.0,
+      "content": "Hey everyone, does anyone have recommendations for programmatic activation/campaign management consulting opportunities? I’m well versed across major DSPs (DV360, TTD, Amazon, GAM, etc.) Are there any sites that would be a good place to check out? Or if anyone here has any opportunities happy to chat/share my CV. \n\nThank you in advance!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
