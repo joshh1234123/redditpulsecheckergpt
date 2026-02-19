@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-19T20:24:37.498377+00:00",
-    "total_posts": 1305,
-    "total_comments": 9387
+    "scrape_date": "2026-02-19T20:56:21.546356+00:00",
+    "total_posts": 1306,
+    "total_comments": 9389
   },
   "discussions": [
     {
@@ -75574,6 +75574,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r9ac9d",
+      "title": "Mid-market brand struggling with incrementality testing: Where do I start?",
+      "author": "Far_Argument5470",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9ac9d/midmarket_brand_struggling_with_incrementality/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9ac9d/midmarket_brand_struggling_with_incrementality/",
+      "created_utc": 1771532775.0,
+      "content": "I work for a D@C brand doing about $2M ARR. We've been scaling Meta/Google but CAC doesn't make sense anymore. Leadership is pushing for CTV and other channels but the question of knowing whether its actually incremental vs just stealing credit  from existing channels keeps coming up alot.   \nI know we need proper incrementality testing but I have no clue where to start. The options seem overwhelming and kinda off-budget but knowing where to start would be really helpful",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Former_Tea1131",
+          "body": "Honestly, at 2M ARR, you possibly can't afford proper incrementality testing yet. Consider starting with basic attribution windows and look for view-through conversions. If CTV drives 20%+ incremental revenue after 30 days, that'll be worth scaling even without perfect measurement.",
+          "score": 1,
+          "created_utc": 1771533634.0
+        },
+        {
+          "author": "jefftak7",
+          "body": "IMO you are far from being ready for an upper funnel channel like CTV. If you must, choose a few DMAs and test CTV there. Could also try TVScientific which is CTV built off the affiliate model so lower risk",
+          "score": 1,
+          "created_utc": 1771533823.0
+        }
+      ]
     }
   ]
 }

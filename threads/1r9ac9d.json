@@ -1,0 +1,22 @@
+{
+  "id": "1r9ac9d",
+  "thread_id": "1r9ac9d",
+  "title": "Mid-market brand struggling with incrementality testing: Where do I start?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1r9ac9d/midmarket_brand_struggling_with_incrementality/",
+  "created_utc": 1771532775.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Former_Tea1131",
+      "body": "Honestly, at 2M ARR, you possibly can't afford proper incrementality testing yet. Consider starting with basic attribution windows and look for view-through conversions. If CTV drives 20%+ incremental revenue after 30 days, that'll be worth scaling even without perfect measurement.",
+      "score": 1,
+      "created_utc": 1771533634.0
+    },
+    {
+      "author": "jefftak7",
+      "body": "IMO you are far from being ready for an upper funnel channel like CTV. If you must, choose a few DMAs and test CTV there. Could also try TVScientific which is CTV built off the affiliate model so lower risk",
+      "score": 1,
+      "created_utc": 1771533823.0
+    }
+  ]
+}
