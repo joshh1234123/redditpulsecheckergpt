@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qfa86f",
-      "title": "Help request: production planning with machine and labor constraints in Excel",
-      "author": "No-Scientist-419",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qfa86f/help_request_production_planning_with_machine_and/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qfa86f/help_request_production_planning_with_machine_and/",
-      "created_utc": 1768646981.0,
-      "content": "Hi everyone,\n\nI’m a student doing an internship in a medium-to-large pharmaceutical company, and I’m currently working on production planning.\n\n \n\nAt the moment, planning is done almost entirely based on experience: there are no standard times or historical data, and workload decisions are made based on the knowledge of the planner and the department manager. My goal is to start putting this knowledge into writing, in a simple way, to make workloads more visible and comparable.\n\n \n\nWe currently use Sage X3 connected to Cybertec to receive production requests from the packaging department. Weekly capacity is estimated in a very simplified way (number of operators × working days), which implicitly assumes that one operator performs only one operation per day. In practice, this is not always true: some operations can be performed on the same day by the same operator.\n\n \n\nSince there is no historical data, I’m thinking of starting with fixed (rough) times based on product and machine, temporarily neglecting kilograms (which have little impact) and the operator variable. The idea is to build a deliberately simple first version, more useful for highlighting overloads than for true optimization.\n\n \n\nMore specifically, I was thinking of:\n\n•               a time table with levels (1 = one operation per day, 0.5 = two operations, 0.25 = four operations);\n\n•                using these values to calculate daily/weekly machine load (max 1 = full working day);\n\n•               introducing a separate operator load constraint, since we have more machines than operators (e.g. 10 machines and 7 operators).\n\n \n\nSome complexities remain:\n\n•               not all operations can be performed consecutively without machine cleaning, so in the future I was thinking of a classification or compatibility matrix;\n\n•                I’m considering starting with a simple Excel model, without complex automation, to test the logic before moving to something more structured.\n\n \n\nMy questions are:\n\n•      does it make sense to start with a deliberately simple model to transform experience into written data?\n\n•               is it correct to initially separate machine load and operator load?\n\n•                how would you set up a first “acceptable” version with no historical data at all?\n\n•               what mistakes would you avoid at such an early stage?\n\n \n\nI’m quite left on my own and I’m looking for a pragmatic approach that won’t create resistance on the shop floor.\n\nAny advice or similar experiences would be greatly appreciated. Thank you!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1qflet8",
-      "title": "How to media plan in programmatic?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qflet8/how_to_media_plan_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qflet8/how_to_media_plan_in_programmatic/",
-      "created_utc": 1768675828.0,
-      "content": "For example, when using YouTube it's pretty straight forward and you can also use reach planner among other tools. But is there a tool to assist when planning programmatic? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qfpp03",
       "title": "Bidding on Hulu/Disney on Weekend via DV360",
       "author": "Enviromental1001",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r8u5nm/what_saas_tools_should_every_startup_have/",
       "created_utc": 1771490999.0,
       "content": "Startups don’t need dozens of tools — they need the right ones that save time and keep operations smooth. The best SaaS stack helps teams communicate clearly, stay organized, track performance, and manage money without chaos. When your systems run efficiently, you can focus more on building the product and growing the business.\n\n\n\n**Key tools to consider:**\n\nCommunication – Slack for team coordination\n\nProject Management – Asana to track tasks\n\nAnalytics – Google Analytics for data insights\n\nPayments – Stripe for billing\n\nAccounting – QuickBooks for financial management.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r94asl",
+      "title": "[CM360 API Issues] Automating HTML5 Creative uploads using Google Apps Script via Google Drive",
+      "author": "LeadingWall",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r94asl/cm360_api_issues_automating_html5_creative/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r94asl/cm360_api_issues_automating_html5_creative/",
+      "created_utc": 1771519677.0,
+      "content": "I am trying to automate HTML5 creative uploads from Google Drive to CM360 using Apps Script. But I keep getting this error: \"8169 : A reporting name is required.\" \n\nI cant find any info in the API documentation on this, and spent hour troubleshooting it.  I also wrote a Discovery Script in Google Apps Script to GET an existing creative and log every single field in the object. The API is strict on creation but show nothing on retrieval. You must include reportingName when you insert a new creative, even though the API won't show it to you later.\n\nAny one encountered this error before or got any ideas how to fix it?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r94e2c",
+      "title": "How to offer additional value to my clients or team?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r94e2c/how_to_offer_additional_value_to_my_clients_or/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r94e2c/how_to_offer_additional_value_to_my_clients_or/",
+      "created_utc": 1771519877.0,
+      "content": "I'm looking for ideas and inspiration on this context:\n\n1) delivering weekly customized reports on campaign performance\n \n2) selling products in bundles (that perhaps wouldn't be sold stand alone) \n\n3) leveraging high quality 1st and 3rd party data or inclusion lists\n\nWhat could be some similar ideas of adding extra value and benefits? Not just the average execution and consultation but more. \n\nWould be happy to hear from you and get inspired :) ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
