@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qi6hgm",
-      "title": "Creative troubleshooting : \"Creatives with unidentified third party vendors are not allowed.\"",
-      "author": "hazelmond",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qi6hgm/creative_troubleshooting_creatives_with/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qi6hgm/creative_troubleshooting_creatives_with/",
-      "created_utc": 1768928130.0,
-      "content": "Hey guys, have you ever faced this error message \"Creatives with unidentified third party vendors are not allowed.\"? This almost stops completely the pacing of certain of my lines in DV360, and i can't find a way to fix it, nor the google support... It's like if my client website is identified as an ad technology providers. Anyone knows what to do?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qig6fd",
       "title": "Creative Hosting - DSP vs Ad Server",
       "author": "thedpd7",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r9u10m/views_on_ctv/",
       "created_utc": 1771590407.0,
       "content": "Hi folks,\n\nWondering what everyone's perspective is on CTV at the moment. \n\nI've been a couple of articles lately that are pretty damning, but also just confirm what a lot of us may already be thinking/know.\n\nBasically, the levels of garbage inventory are astronomical. If you're working directly with Amazon, Disney, etc. then you're not getting impacted by this.\n\nBut specifically looking at the vast majority of advertisers/agencies accessing via one of the many DSPs. Everyone can slap the Disney logo on the slide deck, but the reality is you're just buying some complete random arbitrage in the darkest corners of Hulu for example.\n\nMy view - there's so much waste out there that  mid market type client who's either managing this themselves via a platform like MNTN (just an example), or an a manager service doesn't really know the levels of waste that are going on - mainly because they don't get told about it, and/or because us in adtech are great at making everything sound ridiculously complicated.\n\nInterested to hear people's opinion.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r9vcsg",
+      "title": "A love letter to the 47 minutes I spent reconciling why two platforms reported completely different numbers for the same campaign",
+      "author": "Easy-Purple-1659",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9vcsg/a_love_letter_to_the_47_minutes_i_spent/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9vcsg/a_love_letter_to_the_47_minutes_i_spent/",
+      "created_utc": 1771594109.0,
+      "content": "Dear Tuesday afternoon,\n\nI just want to say thank you. Thank you for the gift of 47 minutes — minutes that could have gone toward literally anything strategic — instead spent discovering that:\n\n- Platform A attributed the conversion at the click\n- Platform B attributed it at the view\n- Platform C technically also claimed it, via a 30-day post-view window that I had apparently agreed to in a contract somewhere\n\nThree platforms. One conversion. Three different owners. A philosophical crisis about the nature of causality.\n\nI drew a Venn diagram. It did not help.\n\nThe real punchline is that once I figured out the discrepancy, the actual *decision* took about 90 seconds. The other 45 minutes and 30 seconds was pure data janitorial work.\n\nI'm not complaining exactly. I understand why the fragmentation exists. Each platform has every incentive to make their numbers look as good as possible, and zero incentive to make it easy to compare them to competitors.\n\nBut I am genuinely curious: how do people here handle cross-platform reporting sanity? Custom scripts? A specific BI setup? Sheer force of will and a very large monitor?\n\nOr do we all just silently accept that \"the numbers won't match\" is a permanent fact of life in this industry?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

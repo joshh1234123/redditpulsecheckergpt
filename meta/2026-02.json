@@ -989,6 +989,21 @@
       "link_flair_text": null,
       "thread_id": "1r9u10m",
       "thread_path": "1r9u10m.json"
+    },
+    {
+      "id": "1r9vcsg",
+      "title": "A love letter to the 47 minutes I spent reconciling why two platforms reported completely different numbers for the same campaign",
+      "author": "Easy-Purple-1659",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9vcsg/a_love_letter_to_the_47_minutes_i_spent/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9vcsg/a_love_letter_to_the_47_minutes_i_spent/",
+      "created_utc": 1771594109.0,
+      "content": "Dear Tuesday afternoon,\n\nI just want to say thank you. Thank you for the gift of 47 minutes — minutes that could have gone toward literally anything strategic — instead spent discovering that:\n\n- Platform A attributed the conversion at the click\n- Platform B attributed it at the view\n- Platform C technically also claimed it, via a 30-day post-view window that I had apparently agreed to in a contract somewhere\n\nThree platforms. One conversion. Three different owners. A philosophical crisis about the nature of causality.\n\nI drew a Venn diagram. It did not help.\n\nThe real punchline is that once I figured out the discrepancy, the actual *decision* took about 90 seconds. The other 45 minutes and 30 seconds was pure data janitorial work.\n\nI'm not complaining exactly. I understand why the fragmentation exists. Each platform has every incentive to make their numbers look as good as possible, and zero incentive to make it easy to compare them to competitors.\n\nBut I am genuinely curious: how do people here handle cross-platform reporting sanity? Custom scripts? A specific BI setup? Sheer force of will and a very large monitor?\n\nOr do we all just silently accept that \"the numbers won't match\" is a permanent fact of life in this industry?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1r9vcsg",
+      "thread_path": "1r9vcsg.json"
     }
   ]
 }
