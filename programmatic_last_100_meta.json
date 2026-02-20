@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qig6fd",
-      "title": "Creative Hosting - DSP vs Ad Server",
-      "author": "thedpd7",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qig6fd/creative_hosting_dsp_vs_ad_server/",
-      "created_utc": 1768949105.0,
-      "content": "Hey Programmatic Ninjas,\n\nLooking for advice from folks on best practices for creative hosting with multiple DSPs. DV360, ADSP and introducing TTD soon using CM360 for a large CPG brand. \n\nThe main goal is to streamline reporting and trafficking so that both processes are straightforward and remove as much human error as possible. Naming Conventions are intrinsically connected to these setups but are secondary to activation based on being able to add this data within other reporting fields/labels like Content Category and Placement Strategy in order to connect with our internal reporting database, Datorama in this case.\n\nDV is straightforward enough with its direct connection to CM. Where I'm stuck is how you're able to assign multiple ads to a CM placement to take advantage of the ad server's creative rotation options. While sequential, weighted, and optimized rotations are valuable, it seems like ADSP and TTD won't be able to optimize towards specific creatives that give within one placement. Since the placement is where the tags are derived, the non-Google DSPs won't be able to identify or choose which creatives to serve within that placement. \n\nAre we doomed to have a single creative per placement to have potentially hundreds of placements per year? \n\nAnother option is to have click and impression tracking assigned to ADSP and TTD hosted creatives in order to link them with CM360. This seems less scalable than the single creative per placement. \n\nAm I missing any scenarios? Am I making any sense? What are large scale programmatic teams doing? Are there any tricks of the trade that make large volumes of creatives more manageable? \n\nAppreciate the support, ninjas!\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qivbye",
       "title": "Hiring New Boston-Based Programmatic Roles in the US",
       "author": "One-Owl9723",
@@ -1302,6 +1289,19 @@
       "created_utc": 1771594109.0,
       "content": "Dear Tuesday afternoon,\n\nI just want to say thank you. Thank you for the gift of 47 minutes — minutes that could have gone toward literally anything strategic — instead spent discovering that:\n\n- Platform A attributed the conversion at the click\n- Platform B attributed it at the view\n- Platform C technically also claimed it, via a 30-day post-view window that I had apparently agreed to in a contract somewhere\n\nThree platforms. One conversion. Three different owners. A philosophical crisis about the nature of causality.\n\nI drew a Venn diagram. It did not help.\n\nThe real punchline is that once I figured out the discrepancy, the actual *decision* took about 90 seconds. The other 45 minutes and 30 seconds was pure data janitorial work.\n\nI'm not complaining exactly. I understand why the fragmentation exists. Each platform has every incentive to make their numbers look as good as possible, and zero incentive to make it easy to compare them to competitors.\n\nBut I am genuinely curious: how do people here handle cross-platform reporting sanity? Custom scripts? A specific BI setup? Sheer force of will and a very large monitor?\n\nOr do we all just silently accept that \"the numbers won't match\" is a permanent fact of life in this industry?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1r9y9i3",
+      "title": "CTV measurement challenge across DSPs",
+      "author": "DonkeyShotz",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9y9i3/ctv_measurement_challenge_across_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9y9i3/ctv_measurement_challenge_across_dsps/",
+      "created_utc": 1771601117.0,
+      "content": "Hey all!\n\nSo a challenge I’m facing is deduplicating reach in 2 different scenarios:\n\n**Scenario 1:** I’m using Amazon DSP (ADSP) only to buy inventory from Prime Video, Netflix, and Disney+. The problem is that Amazon DSP can’t measure/report on reach for Disney & Netflix. So I end up with reach reports being shared by Netflix and Disney separately. Of course then there’s no way to calculate unique reach across the 3 publishers.\n\n  \n**Scenario 2:** I buy Prime Video via ADSP, and Netflix+Disney via DV360/TTD. Now I can see unique reach in ADSP for Prime Video, and the same for Netflix+Disney on the other DSP. However again I can’t deduplicate reach across the 3 publishers.\n\n  \nDo you have any solutions that work? Would adding a DCM impression pixel across the 3 campaigns allow me to see unique reach in DCM?\n\n  \nOr should I rely on a measurement vendor like Innovid, Claritas, etc… for this?\n\n  \nAppreciate if you can let me know in your response if you have actually solved this problem, and if so how exactly did you do it.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

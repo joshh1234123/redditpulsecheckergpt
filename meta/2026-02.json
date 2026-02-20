@@ -1004,6 +1004,21 @@
       "link_flair_text": null,
       "thread_id": "1r9vcsg",
       "thread_path": "1r9vcsg.json"
+    },
+    {
+      "id": "1r9y9i3",
+      "title": "CTV measurement challenge across DSPs",
+      "author": "DonkeyShotz",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9y9i3/ctv_measurement_challenge_across_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9y9i3/ctv_measurement_challenge_across_dsps/",
+      "created_utc": 1771601117.0,
+      "content": "Hey all!\n\nSo a challenge I’m facing is deduplicating reach in 2 different scenarios:\n\n**Scenario 1:** I’m using Amazon DSP (ADSP) only to buy inventory from Prime Video, Netflix, and Disney+. The problem is that Amazon DSP can’t measure/report on reach for Disney & Netflix. So I end up with reach reports being shared by Netflix and Disney separately. Of course then there’s no way to calculate unique reach across the 3 publishers.\n\n  \n**Scenario 2:** I buy Prime Video via ADSP, and Netflix+Disney via DV360/TTD. Now I can see unique reach in ADSP for Prime Video, and the same for Netflix+Disney on the other DSP. However again I can’t deduplicate reach across the 3 publishers.\n\n  \nDo you have any solutions that work? Would adding a DCM impression pixel across the 3 campaigns allow me to see unique reach in DCM?\n\n  \nOr should I rely on a measurement vendor like Innovid, Claritas, etc… for this?\n\n  \nAppreciate if you can let me know in your response if you have actually solved this problem, and if so how exactly did you do it.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1r9y9i3",
+      "thread_path": "1r9y9i3.json"
     }
   ]
 }
