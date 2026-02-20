@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-19T23:35:58.017679+00:00",
-    "total_posts": 1307,
+    "scrape_date": "2026-02-20T01:22:50.708939+00:00",
+    "total_posts": 1308,
     "total_comments": 9389
   },
   "discussions": [
@@ -75611,6 +75611,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r9bh1f/how_to_scale_and_upsell/",
       "created_utc": 1771535318.0,
       "content": "I deal with a client (e commerce app android) in Saudi Arabia market. We are doing decently well. What are the ways to scale or cross sell? iOS launch? PMP/CTV? , or expansion to UAE/Egypt/Qatar ? I want to see if audio ads can be pitched? I want to upsell along with maintaining the KSA campaigns ! Any suggestions?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r9gizj",
+      "title": "Agency rebates",
+      "author": "AngleApart4424",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9gizj/agency_rebates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9gizj/agency_rebates/",
+      "created_utc": 1771547369.0,
+      "content": "Does anyone else think this guy is full of shit? https://www.adweek.com/agencies/why-i-returned-six-figures-in-media-rebates-to-clients-in-2025/",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
