@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qivbye",
-      "title": "Hiring New Boston-Based Programmatic Roles in the US",
-      "author": "One-Owl9723",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qivbye/hiring_new_bostonbased_programmatic_roles_in_the/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qivbye/hiring_new_bostonbased_programmatic_roles_in_the/",
-      "created_utc": 1768994553.0,
-      "content": "Hi all, I'm back again to share four new roles that I'm hiring at the LEGO Group US in our Boston Hub office. These are totally new roles for the company and they will be co-responsible for activating our programmatic media campaigns in the US, CA, BR and MX.\n\n  \n[2x Senior Programmatic Media Associates](https://www.lego.com/en-us/careers/job/senior-programmatic-media-associate-c7a84b017a0a10012e3ebd8413500000) (one job ad, two roles available), salary range  $84,488.00 - $126,732.00\n\n  \n[2x Programmatic Media Associates](https://www.lego.com/en-us/careers/job/programmatic-media-associate-c7a84b017a0a10018a451032ec500000) (one job ad, two roles available), salary range $68,330.00 - $102,494.00\n\nFor the associate level role I am willing to hire people new to programmatic media, so this is an opportunity for someone looking to get into this industry.\n\n  \nI've already made a job offer to one person who applied after seeing my last r/programmatic post, so I'm hoping that the same calibre of people will apply for this one. To prove that this isn't a weird scam, you can see me (and even add me!) on LinkedIn [here](https://www.linkedin.com/in/kate-crowley-a0a4069/).",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qix3b2",
       "title": "Customer Success Manager roles at ad tech firms in Toronto",
       "author": "ExpensiveIndication8",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1r9y9i3/ctv_measurement_challenge_across_dsps/",
       "created_utc": 1771601117.0,
       "content": "Hey all!\n\nSo a challenge I’m facing is deduplicating reach in 2 different scenarios:\n\n**Scenario 1:** I’m using Amazon DSP (ADSP) only to buy inventory from Prime Video, Netflix, and Disney+. The problem is that Amazon DSP can’t measure/report on reach for Disney & Netflix. So I end up with reach reports being shared by Netflix and Disney separately. Of course then there’s no way to calculate unique reach across the 3 publishers.\n\n  \n**Scenario 2:** I buy Prime Video via ADSP, and Netflix+Disney via DV360/TTD. Now I can see unique reach in ADSP for Prime Video, and the same for Netflix+Disney on the other DSP. However again I can’t deduplicate reach across the 3 publishers.\n\n  \nDo you have any solutions that work? Would adding a DCM impression pixel across the 3 campaigns allow me to see unique reach in DCM?\n\n  \nOr should I rely on a measurement vendor like Innovid, Claritas, etc… for this?\n\n  \nAppreciate if you can let me know in your response if you have actually solved this problem, and if so how exactly did you do it.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ra38o7",
+      "title": "Data clean rooms and Microsoft Ads paid user research (Feb 23- Mar 6)",
+      "author": "Unlucky-Book-2421",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ra38o7/data_clean_rooms_and_microsoft_ads_paid_user/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ra38o7/data_clean_rooms_and_microsoft_ads_paid_user/",
+      "created_utc": 1771611949.0,
+      "content": "Hello programmatic specialists! I am a user experience (UX) researcher working on advertising platforms at Microsoft.   \n\nI am running user interviews over the next 2 weeks about **Microsoft Ads** **and data clean rooms (DCRs)**. I’m looking for hands-on DCR users in the US or EMEA, as well as roles that leverage DCR audiences or performance insights in Microsoft Ads (but may not be writing SQL).  \n\n* **February 23-March 6** \n* **60-minute**, one-on-one, **remote interview** via Microsoft Teams with a user researcher \n* Share your experiences using Microsoft Advertising \n* Provide feedback on early design concepts \n* Receive a **$150 thank-you incentive** for your time \n\nI am primarily looking for **managed users** (i.e., you have **dedicated Microsoft Ads sales support** for your business, can be agency or direct adv). I am having a hard time coordinating a recruit through sales right now, but digital advertising subreddits have LONG been terrific resources for me to learn about our users (and their pain points -- I previously worked on DV3 and CM3) – so I’m hoping it can also help me with this study recruit. \n\n**If you're interested in participating, you can use the form link below to share availability -- or DM me** if you have trouble accessing it. I know Msft Ads users may be in a different search vs. programmatic team, so please feel free to share this with your colleagues if they might be a better fit for this study topic. \n\n[Microsoft Advertising | Data Clean Room User Research (February 23-March 6, 2026) – Fill out form](https://forms.office.com/r/bEEAeD4Pwr)\n\nThanks so much!  \n\nKate, Principal UX Researcher",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
