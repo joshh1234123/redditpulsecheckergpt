@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-20T11:51:49.838357+00:00",
-    "total_posts": 1309,
-    "total_comments": 9389
+    "scrape_date": "2026-02-20T12:41:16.925673+00:00",
+    "total_posts": 1311,
+    "total_comments": 9390
   },
   "discussions": [
     {
@@ -75643,6 +75643,41 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1r9tscj",
+      "title": "TTD best practice",
+      "author": "Chi-biusa2z",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9tscj/ttd_best_practice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9tscj/ttd_best_practice/",
+      "created_utc": 1771589685.0,
+      "content": "Hi All does anyone have best practices on TTD? I’m using a brand safety partner for pre and post bid, but keen to hear how other people set up their campaigns on TTD.\n\nDo you use any additional brand safety settings in TTD? Like contextual/category exclusions? Any other exclusions or settings you ensure are enabled? \n\nThank you ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1r9u10m",
+      "title": "Views on CTV",
+      "author": "Responsible-Brick881",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1r9u10m/views_on_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9u10m/views_on_ctv/",
+      "created_utc": 1771590407.0,
+      "content": "Hi folks,\n\nWondering what everyone's perspective is on CTV at the moment. \n\nI've been a couple of articles lately that are pretty damning, but also just confirm what a lot of us may already be thinking/know.\n\nBasically, the levels of garbage inventory are astronomical. If you're working directly with Amazon, Disney, etc. then you're not getting impacted by this.\n\nBut specifically looking at the vast majority of advertisers/agencies accessing via one of the many DSPs. Everyone can slap the Disney logo on the slide deck, but the reality is you're just buying some complete random arbitrage in the darkest corners of Hulu for example.\n\nMy view - there's so much waste out there that  mid market type client who's either managing this themselves via a platform like MNTN (just an example), or an a manager service doesn't really know the levels of waste that are going on - mainly because they don't get told about it, and/or because us in adtech are great at making everything sound ridiculously complicated.\n\nInterested to hear people's opinion.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Just get deals.",
+          "score": 1,
+          "created_utc": 1771590996.0
+        }
+      ]
     }
   ]
 }
