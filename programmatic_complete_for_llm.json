@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-21T14:19:58.300530+00:00",
-    "total_posts": 1315,
+    "scrape_date": "2026-02-21T14:50:52.966282+00:00",
+    "total_posts": 1316,
     "total_comments": 9395
   },
   "discussions": [
@@ -75766,6 +75766,20 @@
           "created_utc": 1771673622.0
         }
       ]
+    },
+    {
+      "id": "1rasw7g",
+      "title": "Deals Desks",
+      "author": "SabreDobeDelta",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rasw7g/deals_desks/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rasw7g/deals_desks/",
+      "created_utc": 1771685191.0,
+      "content": "Is there much demand from agencies to hand over the brief response, building, creation, optimization and management of Deal ID’s and PMP’s across multiple SSP’s simultaneously? Fees would just be baked in as a curation fee so effectively costs them nothing upfront.\n\nI ask, as I am increasingly wondering into conversations with agencies where I am hearing this is potentially of interest, but I wonder if this is super niche perhaps.\n\nBasically is there a business model here, or is it worth sticking to the core day job?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
