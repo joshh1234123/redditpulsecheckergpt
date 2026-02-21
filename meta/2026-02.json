@@ -1064,6 +1064,21 @@
       "link_flair_text": null,
       "thread_id": "1rasw7g",
       "thread_path": "1rasw7g.json"
+    },
+    {
+      "id": "1rav681",
+      "title": "CTV vs OLV",
+      "author": "Responsible-Brick881",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rav681/ctv_vs_olv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rav681/ctv_vs_olv/",
+      "created_utc": 1771690716.0,
+      "content": "Anyone have any real data to show h2h results of CTV vs OLV.\n\nMore specifically, has anyone had a client running MNTN vs OLV. On the OLV side, I'm talking Curated, premium publishers only, pre and mid roll, no in banner. \n\nBe great to get anyones perspective here. Client has a multi touch attribution solution. \nUsing MNTN including their display retargeting (I can handle this end of things as thats where their conversions will be coming from). Client is seeing diminishing returns on MNTN fot all the reasons we'll all know. \n\nI'm considering putting premium OLV in front of them as an alternative (split budget 50/50). I can potentially look at a retargeting element of they plan to keep that running with MNTN.\n\nAny thoughts from anyone here? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rav681",
+      "thread_path": "1rav681.json"
     }
   ]
 }
