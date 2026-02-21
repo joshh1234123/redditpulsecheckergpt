@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-21T11:16:56.281156+00:00",
-    "total_posts": 1314,
-    "total_comments": 9391
+    "scrape_date": "2026-02-21T11:42:45.751835+00:00",
+    "total_posts": 1315,
+    "total_comments": 9395
   },
   "discussions": [
     {
@@ -75727,6 +75727,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1raos9x",
+      "title": "Need advice on salary negotiation in Programmatic (India)",
+      "author": "HeyItsAmisha",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1raos9x/need_advice_on_salary_negotiation_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1raos9x/need_advice_on_salary_negotiation_in_programmatic/",
+      "created_utc": 1771672938.0,
+      "content": "Hi everyone,\n\nI work in the programmatic advertising field in India and am currently exploring a job switch through an internal referral. I’ve been interviewing for an Account Manager / Associate Account Manager role.\n\nI was given a rough compensation range of ₹11–12 LPA fixed (with minor variable component). The recruiter mentioned that this range is “good” for me since it keeps me under a higher tax bracket and therefore I should consider it positively.\n\nFor context, my current CTC is ₹9.55 LPA (fixed + variable), and I’m currently working remotely. The new role would require relocation to Pune and working from office.\n\nThe hike feels relatively small considering:\n\n* Company switch\n* Role upgrade\n* Location change (WFH to onsite)\n* Market standards in programmatic\n\nHowever, I find myself getting convinced by their tax-related argument, even though I feel I should aim higher.\n\nMy questions:\n\n1. Is ₹11–12 LPA fixed reasonable for 4+ years of experience in programmatic (DV360/Amazon DSP) in Pune?\n2. How should I logically counter the “tax bracket” argument during negotiation?\n3. What would be a realistic number to negotiate toward in this field?\n\nWould really appreciate practical advice from people in the Indian digital marketing / programmatic space.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jirekshun",
+          "body": "Which company did you interview with? And is the role aligned to a global client or an India-based client?",
+          "score": 1,
+          "created_utc": 1771673396.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "I think it's okay not good not bad but okay. But ask as much as you can without thinking much of the tax bracket. 12 is good tbh. And pune is not that expensive.",
+          "score": 1,
+          "created_utc": 1771673583.0
+        },
+        {
+          "author": "HeyItsAmisha",
+          "body": "It's for an agency and clients would be indians",
+          "score": 1,
+          "created_utc": 1771673461.0
+        },
+        {
+          "author": "Jirekshun",
+          "body": "Since you mentioned it’s based in Pune, is it with IPG or Cybage by any chance? If it’s IPG, salary negotiation shouldn’t really be an issue, as they generally offer competitive pay.",
+          "score": 1,
+          "created_utc": 1771673622.0
+        }
+      ]
     }
   ]
 }
