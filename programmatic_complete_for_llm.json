@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-22T17:20:12.726337+00:00",
-    "total_posts": 1319,
-    "total_comments": 9395
+    "scrape_date": "2026-02-22T17:49:10.327169+00:00",
+    "total_posts": 1320,
+    "total_comments": 9396
   },
   "discussions": [
     {
@@ -75822,6 +75822,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rbs05p",
+      "title": "MNTN and TTD history",
+      "author": "No_Can_2087",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rbs05p/mntn_and_ttd_history/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rbs05p/mntn_and_ttd_history/",
+      "created_utc": 1771781800.0,
+      "content": "I heard that MNTN used to use TTD instead of Beeswax. I think they transitioned in 2022. Any sense of why? Is it economics related? I don't normally hear of people moving off of TTD pipes.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "drg2574",
+          "body": "Likely cheaper/more direct to use Beeswax, but I thought I heard they were building their own bidder.",
+          "score": 1,
+          "created_utc": 1771782526.0
+        }
+      ]
     }
   ]
 }
