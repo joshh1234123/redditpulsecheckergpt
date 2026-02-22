@@ -1124,6 +1124,21 @@
       "link_flair_text": null,
       "thread_id": "1rbs05p",
       "thread_path": "1rbs05p.json"
+    },
+    {
+      "id": "1rbtso9",
+      "title": "Built a game that shows what happens to a bid after you hit go",
+      "author": "mikehauptman",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rbtso9/built_a_game_that_shows_what_happens_to_a_bid/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rbtso9/built_a_game_that_shows_what_happens_to_a_bid/",
+      "created_utc": 1771785759.0,
+      "content": "How do you explain programmatic to someone who doesn't live in it?\n\nI've tried decks, analogies, walking people through a campaign setup. Nothing really sticks.\n\nSo we built a game. You drop a bid through the supply chain, dodge fraud, land on premium placements. It's called Bid Drop and it's surprisingly addicting. Best explanation I've found.\n\nWhat's the most ridiculous thing you've done to try explaining it?\n\nAnd if you want to try it: [playbiddrop.com](http://playbiddrop.com)",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rbtso9",
+      "thread_path": "1rbtso9.json"
     }
   ]
 }

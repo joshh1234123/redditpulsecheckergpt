@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-22T18:25:52.644676+00:00",
-    "total_posts": 1320,
-    "total_comments": 9396
+    "scrape_date": "2026-02-22T18:59:34.178648+00:00",
+    "total_posts": 1321,
+    "total_comments": 9398
   },
   "discussions": [
     {
@@ -75841,6 +75841,33 @@
           "body": "Likely cheaper/more direct to use Beeswax, but I thought I heard they were building their own bidder.",
           "score": 1,
           "created_utc": 1771782526.0
+        }
+      ]
+    },
+    {
+      "id": "1rbtso9",
+      "title": "Built a game that shows what happens to a bid after you hit go",
+      "author": "mikehauptman",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rbtso9/built_a_game_that_shows_what_happens_to_a_bid/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rbtso9/built_a_game_that_shows_what_happens_to_a_bid/",
+      "created_utc": 1771785759.0,
+      "content": "How do you explain programmatic to someone who doesn't live in it?\n\nI've tried decks, analogies, walking people through a campaign setup. Nothing really sticks.\n\nSo we built a game. You drop a bid through the supply chain, dodge fraud, land on premium placements. It's called Bid Drop and it's surprisingly addicting. Best explanation I've found.\n\nWhat's the most ridiculous thing you've done to try explaining it?\n\nAnd if you want to try it: [playbiddrop.com](http://playbiddrop.com)",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Available_Plant3712",
+          "body": "Very good game",
+          "score": 2,
+          "created_utc": 1771786025.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "Thanks!",
+          "score": 1,
+          "created_utc": 1771786418.0
         }
       ]
     }
