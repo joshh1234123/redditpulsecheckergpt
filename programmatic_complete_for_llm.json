@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-22T22:48:55.735264+00:00",
-    "total_posts": 1321,
+    "scrape_date": "2026-02-22T23:18:51.267010+00:00",
+    "total_posts": 1322,
     "total_comments": 9398
   },
   "discussions": [
@@ -75870,6 +75870,20 @@
           "created_utc": 1771786418.0
         }
       ]
+    },
+    {
+      "id": "1rc0wya",
+      "title": "First roadside digital screen going live soon – any advice?",
+      "author": "Aggravating_Road5288",
+      "score": 1,
+      "url": "/r/digitalsignage/comments/1rc0vtx/first_roadside_digital_screen_going_live_soon_any/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rc0wya/first_roadside_digital_screen_going_live_soon_any/",
+      "created_utc": 1771802146.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
