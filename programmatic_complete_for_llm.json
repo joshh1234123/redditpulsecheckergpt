@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-22T10:50:04.391368+00:00",
-    "total_posts": 1318,
+    "scrape_date": "2026-02-22T11:16:08.089632+00:00",
+    "total_posts": 1319,
     "total_comments": 9395
   },
   "discussions": [
@@ -75804,6 +75804,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rawz6o/as_display_and_search_decline_due_to_llm_where_is/",
       "created_utc": 1771694862.0,
       "content": "CTV or retail media or social?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rbj234",
+      "title": "I'm hyper-targeting medium to high intent online shoppers using reliable coop data so why should I pay $20-$25 cpm for premium ctv inventory when I can get my videos in front of them for $10 to $12 cpm? The only potential issue I'm currently encountering is reach!",
+      "author": "GrowthMarketer2024",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rbj234/im_hypertargeting_medium_to_high_intent_online/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rbj234/im_hypertargeting_medium_to_high_intent_online/",
+      "created_utc": 1771758066.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
