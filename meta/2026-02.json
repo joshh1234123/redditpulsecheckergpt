@@ -1169,6 +1169,21 @@
       "link_flair_text": null,
       "thread_id": "1rci7qm",
       "thread_path": "1rci7qm.json"
+    },
+    {
+      "id": "1rcn42b",
+      "title": "Amazon Ads Report issue",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rcn42b/amazon_ads_report_issue/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rcn42b/amazon_ads_report_issue/",
+      "created_utc": 1771866281.0,
+      "content": "Anyone having issues with reports since yesterday? When I run a report its \"blank\" but the same settings worked for weeks and nothing has changed. Also campaign did run past few days as well. Curious if Amazon is having reporting issues?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rcn42b",
+      "thread_path": "1rcn42b.json"
     }
   ]
 }
