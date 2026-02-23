@@ -1154,6 +1154,21 @@
       "link_flair_text": null,
       "thread_id": "1rc0wya",
       "thread_path": "1rc0wya.json"
+    },
+    {
+      "id": "1rci7qm",
+      "title": "Do PMPs actually perform better than open exchange inventory?",
+      "author": "TapMind",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rci7qm/do_pmps_actually_perform_better_than_open/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rci7qm/do_pmps_actually_perform_better_than_open/",
+      "created_utc": 1771855281.0,
+      "content": "In many cases yes, especially for brand campaigns.\n\nPrivate marketplaces usually give:\n\nHigher viewability\n\nBetter placements\n\nLower fraud\n\nBut performance campaigns sometimes still win on the open exchange simply because of cheap scale.\n\nMany buyers split budgets across both using SSPs like Magnite and PubMatic.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rci7qm",
+      "thread_path": "1rci7qm.json"
     }
   ]
 }
