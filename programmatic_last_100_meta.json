@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qmjmt9",
-      "title": "How do you identify patterns early instead of always reacting?",
-      "author": "Foreign-Lecture6904",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qmjmt9/how_do_you_identify_patterns_early_instead_of/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qmjmt9/how_do_you_identify_patterns_early_instead_of/",
-      "created_utc": 1769349086.0,
-      "content": "I work in a space where trends and performance signals shift quickly (programmatic, data, and market dynamics change week to week). By the time I fully digest what’s happening, it often feels like others have already moved. Even though I spend hours reading updates, reports, and discussions, I’m usually reacting rather than anticipating.\n\nOver time I realized the real issue wasn’t a lack of information, but fragmentation. Signals are spread across too many sources, and it’s hard to maintain continuity or see how things evolve. To experiment, I started using nbot ai which tracks topics over time, summarizes changes, and keeps a cumulative context. It’s helped me see developing patterns instead of isolated updates, which has made decision-making feel more proactive.\n\nI’m curious how others here approach this.  \nWhat systems or workflows do you use to spot emerging patterns early without constantly monitoring dozens of sources every day?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qnbkr2",
       "title": "Researched on why so many programmatic ad campaigns (mainly run on google ads) fail. What do you guys think?",
       "author": "Ok_Pollution3165",
@@ -1302,6 +1289,19 @@
       "created_utc": 1771951289.0,
       "content": "Hi folks, I was wondering if someone could help me. I will have an interview with a hiring manager of a very well-known DSP for a Trading Specialist position (UK). I've never worked as a trader before, but I have 3+ years of experience in the AdTech industry in similar roles. What kind of question could I expect from this interview? Could someone tell me their experience? Thanks a lot. ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rdowh8",
+      "title": "Anyone working in programmatic in UAE? Need real insights 🙏",
+      "author": "Possible_Eggplant_79",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rdowh8/anyone_working_in_programmatic_in_uae_need_real/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdowh8/anyone_working_in_programmatic_in_uae_need_real/",
+      "created_utc": 1771958992.0,
+      "content": "# Hey Programmatic folks 👋\n\nI’m exploring opportunities in the UAE programmatic advertising market and would love to hear directly from people currently working there or with recent experience.\n\nLooking for honest, ground-level insights on 👇\n\n🔹 Market reality - Is programmatic hiring growing or slowing down? Agency vs brand vs publisher side?\n\n🔹 Skills in demand - Which platforms actually matter in UAE right now?\n\n   • DV360 / TTD / Amazon DSP\n\n   • Ad Ops, Measurement, Data, PMP, CTV\n\n   • Any niche skills giving an edge?\n\n🔹Compensation - Realistic monthly / annual pay ranges for roles like:\n\n   • Programmatic Specialist / Manager\n\n   • Ad Ops / Campaign Manager\n\n   • In-house vs agency roles\n\n🔹 Expat perspective - How hard is it to break in from another region (India/Europe/etc.)? Any advice?\n\nIf you’re in Dubai or Abu Dhabi, your input would be extremely valuable. Even brief replies help 🙏\n\nThanks in advance looking forward to learning from the community.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
