@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-24T16:34:57.665386+00:00",
-    "total_posts": 1325,
-    "total_comments": 9399
+    "scrape_date": "2026-02-24T17:52:31.786844+00:00",
+    "total_posts": 1326,
+    "total_comments": 9400
   },
   "discussions": [
     {
@@ -75931,6 +75931,27 @@
           "body": "What makes it investable is whether or not the client sees value in investing it. You can have all the data points on your side and they can still go with what channels they deem to have value. ",
           "score": 2,
           "created_utc": 1771944006.0
+        }
+      ]
+    },
+    {
+      "id": "1rdl9cq",
+      "title": "Trading Specialist Interview Questions.",
+      "author": "OutlandishnessOwn791",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rdl9cq/trading_specialist_interview_questions/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdl9cq/trading_specialist_interview_questions/",
+      "created_utc": 1771951289.0,
+      "content": "Hi folks, I was wondering if someone could help me. I will have an interview with a hiring manager of a very well-known DSP for a Trading Specialist position (UK). I've never worked as a trader before, but I have 3+ years of experience in the AdTech industry in similar roles. What kind of question could I expect from this interview? Could someone tell me their experience? Thanks a lot. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "describe_one",
+          "body": "They will likely ask about certifications, hands-on-keys experience within DSPs, and general knowledge checks on campaign setup/best practices.",
+          "score": 2,
+          "created_utc": 1771952530.0
         }
       ]
     }
