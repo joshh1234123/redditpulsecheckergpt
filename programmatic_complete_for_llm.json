@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-24T15:15:19.928653+00:00",
-    "total_posts": 1324,
-    "total_comments": 9398
+    "scrape_date": "2026-02-24T16:34:57.665386+00:00",
+    "total_posts": 1325,
+    "total_comments": 9399
   },
   "discussions": [
     {
@@ -75912,6 +75912,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rdhr66",
+      "title": "What makes DOOH “investable” vs just “inventory”?",
+      "author": "sanjeevrc",
+      "score": 0,
+      "url": "https://i.redd.it/qkhysfclz8lg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdhr66/what_makes_dooh_investable_vs_just_inventory/",
+      "created_utc": 1771943461.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Altruistic-Guard1982",
+          "body": "What makes it investable is whether or not the client sees value in investing it. You can have all the data points on your side and they can still go with what channels they deem to have value. ",
+          "score": 2,
+          "created_utc": 1771944006.0
+        }
+      ]
     }
   ]
 }
