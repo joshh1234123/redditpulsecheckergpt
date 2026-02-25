@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-25T17:52:53.492231+00:00",
-    "total_posts": 1333,
-    "total_comments": 9400
+    "scrape_date": "2026-02-25T18:56:00.771120+00:00",
+    "total_posts": 1334,
+    "total_comments": 9401
   },
   "discussions": [
     {
@@ -76052,6 +76052,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1relrfm",
+      "title": "Basis vs. DV360/TTD/Amazon",
+      "author": "bhparke",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1relrfm/basis_vs_dv360ttdamazon/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1relrfm/basis_vs_dv360ttdamazon/",
+      "created_utc": 1772044745.0,
+      "content": "Our agency uses Basis for DSP. Our client structure is mainly all non e-commerce with heavy in-store traffic (think QSR) or clients that drive conversions on website (think signing up for membership). For DSPs, we mainly only use CTV (\\~60%), Audio (\\~20%), DOOH (\\~10%), and display (\\~10%). Is it worth moving/learning one of the top-3 or should I stay as is for those who use tier-2 dsps (basis, simplifi, etc). We currently have no minimum spend needed and moving to something like TTD would be minimum $100K and a new DSP to learn. Open to moving if drastically better but hesitant to make a switch if only slightly better. Based on smaller staff, I would only want a main DSP vs. having multiple. Side note, for most CTV we are doing PMP deals (ex: Hulu/Disney+) but still purchasing open inventory too. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Lumiafan",
+          "body": "Stick with Basis DSP. It's maybe not an industry leader in any category, but you're not going to see \"drastically\" better performance by moving to any of the big 3. You might see incrementally better performance by moving, but the performance is more based on what levers you're pulling in Basis rather than the tool itself. \n\nOne side note: If you're not buying YouTube inventory through Google Ads already, though, that'd be the only reason to consider DV360. YouTube is important enough in the mix for most digital advertisers, so make sure you're buying there somehow, but you don't absolutely need DV360 for that.",
+          "score": 3,
+          "created_utc": 1772045074.0
+        }
+      ]
     }
   ]
 }

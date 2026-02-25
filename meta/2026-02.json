@@ -1319,6 +1319,21 @@
       "link_flair_text": null,
       "thread_id": "1regocs",
       "thread_path": "1regocs.json"
+    },
+    {
+      "id": "1relrfm",
+      "title": "Basis vs. DV360/TTD/Amazon",
+      "author": "bhparke",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1relrfm/basis_vs_dv360ttdamazon/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1relrfm/basis_vs_dv360ttdamazon/",
+      "created_utc": 1772044745.0,
+      "content": "Our agency uses Basis for DSP. Our client structure is mainly all non e-commerce with heavy in-store traffic (think QSR) or clients that drive conversions on website (think signing up for membership). For DSPs, we mainly only use CTV (\\~60%), Audio (\\~20%), DOOH (\\~10%), and display (\\~10%). Is it worth moving/learning one of the top-3 or should I stay as is for those who use tier-2 dsps (basis, simplifi, etc). We currently have no minimum spend needed and moving to something like TTD would be minimum $100K and a new DSP to learn. Open to moving if drastically better but hesitant to make a switch if only slightly better. Based on smaller staff, I would only want a main DSP vs. having multiple. Side note, for most CTV we are doing PMP deals (ex: Hulu/Disney+) but still purchasing open inventory too. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1relrfm",
+      "thread_path": "1relrfm.json"
     }
   ]
 }
