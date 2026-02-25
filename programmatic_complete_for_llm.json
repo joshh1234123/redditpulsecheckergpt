@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-25T11:36:04.583858+00:00",
-    "total_posts": 1329,
+    "scrape_date": "2026-02-25T12:45:44.250389+00:00",
+    "total_posts": 1330,
     "total_comments": 9400
   },
   "discussions": [
@@ -75992,6 +75992,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rdsj2n/what_to_watch_out_for_when_choosing_publishers/",
       "created_utc": 1771966773.0,
       "content": "What are some steps you always take to make sure you are buying quality inventory and aren't getting scammed by any publisher or reseller? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rebzs6",
+      "title": "Something interesting keeps coming up in conversations about sales agents and agentic workflows...",
+      "author": "Relevant-Ad-8461",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rebzs6/something_interesting_keeps_coming_up_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rebzs6/something_interesting_keeps_coming_up_in/",
+      "created_utc": 1772022836.0,
+      "content": "Most discussions focus on automation itself, but the real bottleneck on the sell side often sits elsewhere fragmented ownership, manual coordination between teams, and decisions spread across too many systems.  \n  \nWe started seeing this more clearly while working with teams testing our open free of charge sales-agent AdCP setup: automation doesn’t remove unclear workflows, it exposes them. The more automation layers appear, the more obvious it becomes that vague goals and fragmented ownership don’t disappear - they just scale faster.  \n  \nWhat part of sell-side work is still hardest to automate in practice, and where does automation actually create value today? Curious how others see this and happy to discuss",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
