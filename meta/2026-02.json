@@ -1274,6 +1274,36 @@
       "link_flair_text": null,
       "thread_id": "1rebzs6",
       "thread_path": "1rebzs6.json"
+    },
+    {
+      "id": "1refb6f",
+      "title": "Eu administro um funil de arbitragem financeira (empréstimos) (tráfego pago → questionário → monetização programática + geração de leads).",
+      "author": "Infinite-Mall7540",
+      "score": 1,
+      "url": "/r/adops/comments/1refasm/i_run_a_finance_loans_arbitrage_funnel_paid/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1refb6f/eu_administro_um_funil_de_arbitragem_financeira/",
+      "created_utc": 1772031147.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1refb6f",
+      "thread_path": "1refb6f.json"
+    },
+    {
+      "id": "1refxtr",
+      "title": "CTV Pause Ads: Tip, Tricks and Available Reporting Metrics?",
+      "author": "iBarbo",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1refxtr/ctv_pause_ads_tip_tricks_and_available_reporting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1refxtr/ctv_pause_ads_tip_tricks_and_available_reporting/",
+      "created_utc": 1772032546.0,
+      "content": "We recently launched our first CTV Pause Ad campaign. Aside from QR code scans, I'm wondering what metrics might be the most pivotal to report back to the client? The goal is to understand length of pause/dwell time of each pause ad since that is the closest equivalent to a live CTV ad VCR, but that seems like it's not available in the DSP we are using.\n\nWhat do you report back on and how do you capture dwell time, if at all?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1refxtr",
+      "thread_path": "1refxtr.json"
     }
   ]
 }
