@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-25T15:30:24.370330+00:00",
-    "total_posts": 1332,
+    "scrape_date": "2026-02-25T16:42:59.599155+00:00",
+    "total_posts": 1333,
     "total_comments": 9400
   },
   "discussions": [
@@ -76034,6 +76034,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1refxtr/ctv_pause_ads_tip_tricks_and_available_reporting/",
       "created_utc": 1772032546.0,
       "content": "We recently launched our first CTV Pause Ad campaign. Aside from QR code scans, I'm wondering what metrics might be the most pivotal to report back to the client? The goal is to understand length of pause/dwell time of each pause ad since that is the closest equivalent to a live CTV ad VCR, but that seems like it's not available in the DSP we are using.\n\nWhat do you report back on and how do you capture dwell time, if at all?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1regocs",
+      "title": "Need Information - COgnizant Hyderabad - Digital Marketing",
+      "author": "krishna739113",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1regocs/need_information_cognizant_hyderabad_digital/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1regocs/need_information_cognizant_hyderabad_digital/",
+      "created_utc": 1772034189.0,
+      "content": "Any one from Cognizant Hyderabad working on Digital Marketing related projects. Please respond.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
