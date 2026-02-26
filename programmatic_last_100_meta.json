@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qpecqz",
-      "title": "What is your go-to approach when Media Planning?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qpecqz/what_is_your_goto_approach_when_media_planning/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qpecqz/what_is_your_goto_approach_when_media_planning/",
-      "created_utc": 1769613977.0,
-      "content": "Basically what the title says, I'd like to hear some personal opinions on how you guys do the media planning process and what else you take into account.\n\nCould be budget splits, channel and vendor definition/selection, forecasting etc. \n\nI'd like to get some inspiration, thanks in advance!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qpgziu",
       "title": "FYI - Netflix on Amazon Ads",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1772044745.0,
       "content": "Our agency uses Basis for DSP. Our client structure is mainly all non e-commerce with heavy in-store traffic (think QSR) or clients that drive conversions on website (think signing up for membership). For DSPs, we mainly only use CTV (\\~60%), Audio (\\~20%), DOOH (\\~10%), and display (\\~10%). Is it worth moving/learning one of the top-3 or should I stay as is for those who use tier-2 dsps (basis, simplifi, etc). We currently have no minimum spend needed and moving to something like TTD would be minimum $100K and a new DSP to learn. Open to moving if drastically better but hesitant to make a switch if only slightly better. Based on smaller staff, I would only want a main DSP vs. having multiple. Side note, for most CTV we are doing PMP deals (ex: Hulu/Disney+) but still purchasing open inventory too. ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rf2sqp",
+      "title": "Is mobile traffic becoming harder to monetize programmatically?",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rf2sqp/is_mobile_traffic_becoming_harder_to_monetize/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rf2sqp/is_mobile_traffic_becoming_harder_to_monetize/",
+      "created_utc": 1772087365.0,
+      "content": "Desktop RPM still feels stable. Mobile seems pressured.\n\nAre you adjusting density differently by device?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

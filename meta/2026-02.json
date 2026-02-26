@@ -1334,6 +1334,21 @@
       "link_flair_text": null,
       "thread_id": "1relrfm",
       "thread_path": "1relrfm.json"
+    },
+    {
+      "id": "1rf2sqp",
+      "title": "Is mobile traffic becoming harder to monetize programmatically?",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rf2sqp/is_mobile_traffic_becoming_harder_to_monetize/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rf2sqp/is_mobile_traffic_becoming_harder_to_monetize/",
+      "created_utc": 1772087365.0,
+      "content": "Desktop RPM still feels stable. Mobile seems pressured.\n\nAre you adjusting density differently by device?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rf2sqp",
+      "thread_path": "1rf2sqp.json"
     }
   ]
 }
