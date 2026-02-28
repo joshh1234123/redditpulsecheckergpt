@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-28T15:42:02.585434+00:00",
-    "total_posts": 1340,
+    "scrape_date": "2026-02-28T16:18:34.487534+00:00",
+    "total_posts": 1341,
     "total_comments": 9405
   },
   "discussions": [
@@ -76179,6 +76179,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rh3lkc/pause_or_doubledown_or_stay_the_course/",
       "created_utc": 1772287818.0,
       "content": "A normal news cycle doesn’t change my behavior as an advertiser. This, however, isn’t a normal news cycle. \n\nAre any of y’all reviewing your ad strategy, tactics or budget? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rh6n9p",
+      "title": "I Created an Adnetwork that Caters for Small to Large Publishers and Helps Bypass AdBlockers",
+      "author": "Emorintine",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "created_utc": 1772295407.0,
+      "content": "Hello everyone,\n\n I decided to create my own ad network with a custom header bidding platform that not only has flexible requirements (we work with publishers of all sizes, no strict traffic minimums), but also has adblocker recovery built directly into the wrapper.\n\nThis means that publishers have no need to install or work with any other adblocking network, it's all in one dashboard. I'd love to hear your thoughts and feedback.\n\nCheck it out at https://adplunge.com and \n\nhere's an example site using our ads: https://tempumail.com",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

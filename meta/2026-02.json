@@ -1424,6 +1424,21 @@
       "link_flair_text": null,
       "thread_id": "1rh3lkc",
       "thread_path": "1rh3lkc.json"
+    },
+    {
+      "id": "1rh6n9p",
+      "title": "I Created an Adnetwork that Caters for Small to Large Publishers and Helps Bypass AdBlockers",
+      "author": "Emorintine",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "created_utc": 1772295407.0,
+      "content": "Hello everyone,\n\n I decided to create my own ad network with a custom header bidding platform that not only has flexible requirements (we work with publishers of all sizes, no strict traffic minimums), but also has adblocker recovery built directly into the wrapper.\n\nThis means that publishers have no need to install or work with any other adblocking network, it's all in one dashboard. I'd love to hear your thoughts and feedback.\n\nCheck it out at https://adplunge.com and \n\nhere's an example site using our ads: https://tempumail.com",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rh6n9p",
+      "thread_path": "1rh6n9p.json"
     }
   ]
 }

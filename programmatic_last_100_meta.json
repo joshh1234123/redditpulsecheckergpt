@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qqq0xc",
-      "title": "Publisher blocking me",
-      "author": "Programmatic-Dude",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qqq0xc/publisher_blocking_me/",
-      "created_utc": 1769732505.0,
-      "content": "We previously allocated a budget of $100K–$180K for this Canadian publisher through Programmatic Guaranteed and Preferred Deals. However, following a strategic shift this year toward Open Market and PMP executions, the publisher rep had pushbacked aggressively—threatening to blacklist our seat and advertiser. It’s a baffling sale rep response given that the spend remains on the table; they seem unwilling to accept any transaction method that doesn't provide the fixed-volume security of a PG deal. Anyone else had this issue before? Can they actually black list me if I buy on Open?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qr4noe",
       "title": "Career guidance",
       "author": "Adorable_Sundae_9400",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rh3lkc/pause_or_doubledown_or_stay_the_course/",
       "created_utc": 1772287818.0,
       "content": "A normal news cycle doesn’t change my behavior as an advertiser. This, however, isn’t a normal news cycle. \n\nAre any of y’all reviewing your ad strategy, tactics or budget? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rh6n9p",
+      "title": "I Created an Adnetwork that Caters for Small to Large Publishers and Helps Bypass AdBlockers",
+      "author": "Emorintine",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rh6n9p/i_created_an_adnetwork_that_caters_for_small_to/",
+      "created_utc": 1772295407.0,
+      "content": "Hello everyone,\n\n I decided to create my own ad network with a custom header bidding platform that not only has flexible requirements (we work with publishers of all sizes, no strict traffic minimums), but also has adblocker recovery built directly into the wrapper.\n\nThis means that publishers have no need to install or work with any other adblocking network, it's all in one dashboard. I'd love to hear your thoughts and feedback.\n\nCheck it out at https://adplunge.com and \n\nhere's an example site using our ads: https://tempumail.com",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
