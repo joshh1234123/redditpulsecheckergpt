@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-02-28T13:32:25.923299+00:00",
-    "total_posts": 1339,
+    "scrape_date": "2026-02-28T14:15:50.993056+00:00",
+    "total_posts": 1340,
     "total_comments": 9405
   },
   "discussions": [
@@ -76169,6 +76169,20 @@
           "created_utc": 1772258854.0
         }
       ]
+    },
+    {
+      "id": "1rh3lkc",
+      "title": "Pause or double-down or stay the course?",
+      "author": "Search-Bill",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rh3lkc/pause_or_doubledown_or_stay_the_course/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rh3lkc/pause_or_doubledown_or_stay_the_course/",
+      "created_utc": 1772287818.0,
+      "content": "A normal news cycle doesn’t change my behavior as an advertiser. This, however, isn’t a normal news cycle. \n\nAre any of y’all reviewing your ad strategy, tactics or budget? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
