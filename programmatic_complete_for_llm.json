@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-01T14:18:44.618462+00:00",
-    "total_posts": 1341,
-    "total_comments": 9405
+    "scrape_date": "2026-03-01T14:47:12.956275+00:00",
+    "total_posts": 1342,
+    "total_comments": 9406
   },
   "discussions": [
     {
@@ -76197,6 +76197,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rhynoz",
+      "title": "Is Amazon Prime the only destination that reports what shows the ad played on?",
+      "author": "Enviromental1001",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rhynoz/is_amazon_prime_the_only_destination_that_reports/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rhynoz/is_amazon_prime_the_only_destination_that_reports/",
+      "created_utc": 1772375394.0,
+      "content": "I see when I run reports on Amazon Ads, I can see what shows my ad played on.\n\n  \nSeems like DV360 doesn't have the ability to tell me that. Is there any other options besides Prime Video that report back to \"us\" which show the ad showed an impression on?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "GreenFlyingSauce",
+          "body": "Amazon owns all parts of the supply chain that’s why they can report back on Prime, similar to how dv can report back on all the yt videos your ad was served on.\n\nYou’d need to potentially work with ctv publishers to see if they have that capability through pmps or pg deals",
+          "score": 2,
+          "created_utc": 1772376292.0
+        }
+      ]
     }
   ]
 }

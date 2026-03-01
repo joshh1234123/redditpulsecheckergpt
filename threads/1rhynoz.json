@@ -1,0 +1,16 @@
+{
+  "id": "1rhynoz",
+  "thread_id": "1rhynoz",
+  "title": "Is Amazon Prime the only destination that reports what shows the ad played on?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rhynoz/is_amazon_prime_the_only_destination_that_reports/",
+  "created_utc": 1772375394.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "GreenFlyingSauce",
+      "body": "Amazon owns all parts of the supply chain that’s why they can report back on Prime, similar to how dv can report back on all the yt videos your ad was served on.\n\nYou’d need to potentially work with ctv publishers to see if they have that capability through pmps or pg deals",
+      "score": 2,
+      "created_utc": 1772376292.0
+    }
+  ]
+}

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qr4noe",
-      "title": "Career guidance",
-      "author": "Adorable_Sundae_9400",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qr4noe/career_guidance/",
-      "created_utc": 1769777629.0,
-      "content": "I work in media only  but has little experience  in programmatic just know how to setup campaigns are there any media companies where they hire fresher  for programmatic?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qr4nog",
       "title": "Career guidance",
       "author": "Adorable_Sundae_9400",
@@ -1302,6 +1289,19 @@
       "created_utc": 1772295407.0,
       "content": "Hello everyone,\n\n I decided to create my own ad network with a custom header bidding platform that not only has flexible requirements (we work with publishers of all sizes, no strict traffic minimums), but also has adblocker recovery built directly into the wrapper.\n\nThis means that publishers have no need to install or work with any other adblocking network, it's all in one dashboard. I'd love to hear your thoughts and feedback.\n\nCheck it out at https://adplunge.com and \n\nhere's an example site using our ads: https://tempumail.com",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rhynoz",
+      "title": "Is Amazon Prime the only destination that reports what shows the ad played on?",
+      "author": "Enviromental1001",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rhynoz/is_amazon_prime_the_only_destination_that_reports/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rhynoz/is_amazon_prime_the_only_destination_that_reports/",
+      "created_utc": 1772375394.0,
+      "content": "I see when I run reports on Amazon Ads, I can see what shows my ad played on.\n\n  \nSeems like DV360 doesn't have the ability to tell me that. Is there any other options besides Prime Video that report back to \"us\" which show the ad showed an impression on?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
