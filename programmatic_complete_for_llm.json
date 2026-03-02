@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-02T18:36:33.433930+00:00",
-    "total_posts": 1343,
-    "total_comments": 9406
+    "scrape_date": "2026-03-02T19:33:05.668101+00:00",
+    "total_posts": 1344,
+    "total_comments": 9407
   },
   "discussions": [
     {
@@ -76232,6 +76232,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rj2egk",
+      "title": "Anyone actively advertise on Twitch?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rj2egk/anyone_actively_advertise_on_twitch/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rj2egk/anyone_actively_advertise_on_twitch/",
+      "created_utc": 1772479406.0,
+      "content": "I made a campaign on Sunday made my bid high just to get impressions coming in. Even chatted with Amazon Ads support and their feedback was useless. Getting 0 impressions have it set to run 24/7 as well.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "AngleApart4424",
+          "body": "It’s like throwing away money into oblivion - too high a cost compares to where you can reach other gamers and younger audiences",
+          "score": 1,
+          "created_utc": 1772479743.0
+        }
+      ]
     }
   ]
 }
