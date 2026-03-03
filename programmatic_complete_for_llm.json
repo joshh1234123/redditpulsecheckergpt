@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-03T17:37:31.752290+00:00",
-    "total_posts": 1345,
-    "total_comments": 9407
+    "scrape_date": "2026-03-03T18:38:20.505858+00:00",
+    "total_posts": 1347,
+    "total_comments": 9412
   },
   "discussions": [
     {
@@ -76263,6 +76263,65 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rjnobr/ids_in_bidstream/",
       "created_utc": 1772539822.0,
       "content": "Hey all, \n\nJust curious - we now see more than 20 IDs in a bid stream. As the payload keeps increasing, how do the DSPs decide which ID to decrypt in an open marketplace?\n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rjvydm",
+      "title": "How measurable is programmatic DOOH compared to paid social?",
+      "author": "ToastGaming99",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
+      "created_utc": 1772559857.0,
+      "content": "I am testing programmatic DOOH in a few cities this quarter and comparing it against paid social. I care more about lift in branded search and site visits than just impressions. I am layering retargeting to see if exposed users convert later. Trying to see if it actually lowers blended CAC",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "im_super_excited",
+          "body": "Write down a bunch of numbers that sound nice on a piece of paper\n\nCut up all the numbers into their own little pieces of paper\n\nPut them in a hat\n\nLight the hat on fire\n\nDOOH has its uses, but every metric other than ad renders is either meaningless or fictional, and it's impossible to compare it against other strategies",
+          "score": 4,
+          "created_utc": 1772561649.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "If you got a dashboard that showed you …\n\nWould you believe it?",
+          "score": 1,
+          "created_utc": 1772561215.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Who is your measuring partner who does cross platform lift studies? How do you seperate lift on branded search from social vs dooh? And also having a non exposed audience somewhere... I mean you could do geo exclusion or incremental and then switch around but it already sounds very messy.",
+          "score": 1,
+          "created_utc": 1772561248.0
+        },
+        {
+          "author": "Bulky_Perception_682",
+          "body": "You're not going to get what you're looking for in a 1:1 way that you can directly compare to paid social...completely functions in the funnel.\n\nA decent vendor will help you with proof of play reports.  Everything beyond that in terms of mapping pools of users to geopath IDs, foot traffic studies, lift/exposure and impact on incrementality will have to be rolled custom in-house ",
+          "score": 1,
+          "created_utc": 1772562009.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "So true",
+          "score": 1,
+          "created_utc": 1772561866.0
+        }
+      ]
+    },
+    {
+      "id": "1rjwzlc",
+      "title": "I was fired from my previous job, and how do I prevent it from happening again?",
+      "author": "OrganicStar1198",
+      "score": 1,
+      "url": "/r/careerguidance/comments/1rjvyc2/i_was_fired_from_my_previous_job_and_how_do_i/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjwzlc/i_was_fired_from_my_previous_job_and_how_do_i/",
+      "created_utc": 1772562050.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

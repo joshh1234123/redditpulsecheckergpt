@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qtu001",
-      "title": "Scibids custom algorithm",
-      "author": "Chi-biusa2z",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qtu001/scibids_custom_algorithm/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qtu001/scibids_custom_algorithm/",
-      "created_utc": 1770036120.0,
-      "content": "Hi does anyone have any guidance/playbook on scibids and its use on programmatic platforms for cost saving and efficiency? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1qu2ee7",
-      "title": "I built a free tool that scans your site for GDPR consent issues that break Google Ads conversions",
-      "author": "aristomenisgeo",
-      "score": 1,
-      "url": "/r/adops/comments/1qq32pt/i_built_a_free_tool_that_scans_your_site_for_gdpr/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qu2ee7/i_built_a_free_tool_that_scans_your_site_for_gdpr/",
-      "created_utc": 1770055233.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qujquu",
       "title": "Career advice",
       "author": "ProgrammaticNoob",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rjnobr/ids_in_bidstream/",
       "created_utc": 1772539822.0,
       "content": "Hey all, \n\nJust curious - we now see more than 20 IDs in a bid stream. As the payload keeps increasing, how do the DSPs decide which ID to decrypt in an open marketplace?\n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rjvydm",
+      "title": "How measurable is programmatic DOOH compared to paid social?",
+      "author": "ToastGaming99",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
+      "created_utc": 1772559857.0,
+      "content": "I am testing programmatic DOOH in a few cities this quarter and comparing it against paid social. I care more about lift in branded search and site visits than just impressions. I am layering retargeting to see if exposed users convert later. Trying to see if it actually lowers blended CAC",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rjwzlc",
+      "title": "I was fired from my previous job, and how do I prevent it from happening again?",
+      "author": "OrganicStar1198",
+      "score": 1,
+      "url": "/r/careerguidance/comments/1rjvyc2/i_was_fired_from_my_previous_job_and_how_do_i/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjwzlc/i_was_fired_from_my_previous_job_and_how_do_i/",
+      "created_utc": 1772562050.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
