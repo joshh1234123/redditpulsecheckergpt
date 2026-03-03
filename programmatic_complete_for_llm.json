@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-03T20:25:53.356293+00:00",
-    "total_posts": 1347,
+    "scrape_date": "2026-03-03T20:55:10.631077+00:00",
+    "total_posts": 1348,
     "total_comments": 9412
   },
   "discussions": [
@@ -76322,6 +76322,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rjwzlc/i_was_fired_from_my_previous_job_and_how_do_i/",
       "created_utc": 1772562050.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rk160f",
+      "title": "Struggling with TTD offline call postbacks",
+      "author": "Realistic-Focus-8254",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rk160f/struggling_with_ttd_offline_call_postbacks/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rk160f/struggling_with_ttd_offline_call_postbacks/",
+      "created_utc": 1772571151.0,
+      "content": "Hey all - hoping someone in here has wrestled with this before, because I’m hitting a wall.\n\nWe’re running a campaign in The Trade Desk where our client uses Ringba to track inbound calls. The goal is to pass those offline conversions back into TTD using the click ID + TDID so we can actually optimize toward call quality, not just site activity.\n\n**Here’s the problem:**  \nEvery single call so far is coming through with blank ttd\\_click\\_id and ttd\\_tdid values.  \nThe landing page URL *does* include the macros:\n\nCode\n\n    ttd_click_id=%%TTD_CLK%%\n    ttd_tdid=%%TTD_TDID%%\n\n…but Ringba is receiving them literally as `%%TTD_CLK%%` and `%%TTD_TDID%%`, meaning the macros never resolved on click.\n\n**What we’ve ruled out / or are unsure about:**\n\n* The URL *looks* correct, but I’m not convinced TTD is actually trafficking the version with macros (we’re a small agency and don’t have dedicated ad ops to sanity‑check this).\n* Not sure if a redirect or landing page rule is stripping parameters.\n* Not sure if Ringba needs explicit mapping to capture custom parameters.\n* Not sure if TTD macros only resolve under certain conditions (live traffic vs. test clicks, certain creative types, etc.).\n\nhttps://preview.redd.it/yhyttha68wmg1.png?width=1204&format=png&auto=webp&s=3954928e536c1f08e854238d8d7cb44d5186963e\n\n**What we need:**  \nSome guidance from anyone who has successfully passed offline call conversions back into TTD (via Aircall, Ringba etc.)  \nIs this a macro‑placement issue? A trafficking issue? A redirect issue? A Ringba config issue?  \nOr is this just a cursed use case?\n\nI know this is a bit of a niche setup, but if any savvy ad ops folks can weigh in, it would be genuinely life‑saving. I’m piecing this together without internal support and could really use a sanity check from people who’ve been in the trenches.\n\nThanks in advance!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
