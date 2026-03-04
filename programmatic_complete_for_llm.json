@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-04T18:38:22.127213+00:00",
-    "total_posts": 1351,
+    "scrape_date": "2026-03-04T19:33:14.963926+00:00",
+    "total_posts": 1352,
     "total_comments": 9415
   },
   "discussions": [
@@ -76403,6 +76403,20 @@
           "created_utc": 1772646750.0
         }
       ]
+    },
+    {
+      "id": "1rku4ga",
+      "title": "Stackadapt support?",
+      "author": "Recent_Decision5479",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rku4ga/stackadapt_support/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rku4ga/stackadapt_support/",
+      "created_utc": 1772650621.0,
+      "content": "I was wondering if anyone here uses stackadapt, and if so if there is truth that if you spend a certain amount on ads monthly, they will run everything for you on their end?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
