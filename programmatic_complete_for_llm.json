@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-03T23:47:58.151231+00:00",
-    "total_posts": 1348,
-    "total_comments": 9412
+    "scrape_date": "2026-03-04T01:21:49.960414+00:00",
+    "total_posts": 1349,
+    "total_comments": 9413
   },
   "discussions": [
     {
@@ -76340,6 +76340,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rk6ykc",
+      "title": "Internship in media planning",
+      "author": "idntgvfckx",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rk6ykc/internship_in_media_planning/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rk6ykc/internship_in_media_planning/",
+      "created_utc": 1772584968.0,
+      "content": "hello, i’m starting my internship in Media Planning (both online and offline, and data report) at the end of March. This is a very important internship and I want to start as ready as I can, though I had a few classes but I just want to be able to give my best and really add value to the team.\n\nCurrently learning Excel and re-reading all my classes about Media Planning. Would you have any few ideas or certification I could try to do to learn as much as I can before I enter? \n\nThank you a lot!! ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Just go in ready to learn. Most of what you’ll learn will be on the job.",
+          "score": 1,
+          "created_utc": 1772585541.0
+        }
+      ]
     }
   ]
 }

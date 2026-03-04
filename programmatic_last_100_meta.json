@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1quqk46",
-      "title": "Amazon DSP planner here: what do you call flights and budget pacing in your DSP/with your clients?",
-      "author": "NiceRecognition9603",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1quqk46/amazon_dsp_planner_here_what_do_you_call_flights/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1quqk46/amazon_dsp_planner_here_what_do_you_call_flights/",
-      "created_utc": 1770121487.0,
-      "content": "Hey everyone,\n\nI'm building a planning tool for Amazon DSP and I'm trying to understand how other DSPs, especially The Trade Desk, handle the language and structure around budget distribution and pacing.\n\nFor context, on Amazon DSP we use \"flights\" to define how budget gets distributed across time periods in a campaign. Flights can be different types. For example a \"bursting\" or \"peak\" flight concentrates spend into a short intense period, while a \"pulsing\" flight maintains a base level of spend with periodic increases.\n\nI'm familiar with how Amazon DSP handles this, but I want my tool to make sense to people coming from other platforms too. If you've worked with The Trade Desk or others, I'd love to hear what terminology you use internally and with your clients\n\nThanks in advance!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qutk0r",
       "title": "Campaign screen display and CTV",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1772571151.0,
       "content": "Hey all - hoping someone in here has wrestled with this before, because I’m hitting a wall.\n\nWe’re running a campaign in The Trade Desk where our client uses Ringba to track inbound calls. The goal is to pass those offline conversions back into TTD using the click ID + TDID so we can actually optimize toward call quality, not just site activity.\n\n**Here’s the problem:**  \nEvery single call so far is coming through with blank ttd\\_click\\_id and ttd\\_tdid values.  \nThe landing page URL *does* include the macros:\n\nCode\n\n    ttd_click_id=%%TTD_CLK%%\n    ttd_tdid=%%TTD_TDID%%\n\n…but Ringba is receiving them literally as `%%TTD_CLK%%` and `%%TTD_TDID%%`, meaning the macros never resolved on click.\n\n**What we’ve ruled out / or are unsure about:**\n\n* The URL *looks* correct, but I’m not convinced TTD is actually trafficking the version with macros (we’re a small agency and don’t have dedicated ad ops to sanity‑check this).\n* Not sure if a redirect or landing page rule is stripping parameters.\n* Not sure if Ringba needs explicit mapping to capture custom parameters.\n* Not sure if TTD macros only resolve under certain conditions (live traffic vs. test clicks, certain creative types, etc.).\n\nhttps://preview.redd.it/yhyttha68wmg1.png?width=1204&format=png&auto=webp&s=3954928e536c1f08e854238d8d7cb44d5186963e\n\n**What we need:**  \nSome guidance from anyone who has successfully passed offline call conversions back into TTD (via Aircall, Ringba etc.)  \nIs this a macro‑placement issue? A trafficking issue? A redirect issue? A Ringba config issue?  \nOr is this just a cursed use case?\n\nI know this is a bit of a niche setup, but if any savvy ad ops folks can weigh in, it would be genuinely life‑saving. I’m piecing this together without internal support and could really use a sanity check from people who’ve been in the trenches.\n\nThanks in advance!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rk6ykc",
+      "title": "Internship in media planning",
+      "author": "idntgvfckx",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rk6ykc/internship_in_media_planning/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rk6ykc/internship_in_media_planning/",
+      "created_utc": 1772584968.0,
+      "content": "hello, i’m starting my internship in Media Planning (both online and offline, and data report) at the end of March. This is a very important internship and I want to start as ready as I can, though I had a few classes but I just want to be able to give my best and really add value to the team.\n\nCurrently learning Excel and re-reading all my classes about Media Planning. Would you have any few ideas or certification I could try to do to learn as much as I can before I enter? \n\nThank you a lot!! ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
