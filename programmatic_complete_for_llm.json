@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-04T07:55:56.641317+00:00",
-    "total_posts": 1349,
-    "total_comments": 9413
+    "scrape_date": "2026-03-04T08:32:26.862165+00:00",
+    "total_posts": 1350,
+    "total_comments": 9414
   },
   "discussions": [
     {
@@ -76359,6 +76359,27 @@
           "body": "Just go in ready to learn. Most of what you’ll learn will be on the job.",
           "score": 1,
           "created_utc": 1772585541.0
+        }
+      ]
+    },
+    {
+      "id": "1rkfnph",
+      "title": "Retail Media curation",
+      "author": "Monkeyjuggler82",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rkfnph/retail_media_curation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rkfnph/retail_media_curation/",
+      "created_utc": 1772611277.0,
+      "content": "15+ year adtech ‘veteran’ here, but has now lost all HoK skills many moons ago.\n\nI have an idea that I need to sound out. \n\nI’m now publisher side and have a pretty unique cross retailer audience with SKU level transaction data. Size wise, you could consider it similar to a panel ie. 30-100k shoppers per month. \n\nPractically, I’m exploring how we might establish a media curation play and if brands might be interested. Internally, there is reluctance so I need to build out a business plan. \n\nHas anyone set up a curation play?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "ran a small curation desk for a grocery co-op a few years back, 30k shoppers is honestly enough if your SKU data is clean and you can prove incrementality. the hard sell internally was always \"why give DSPs the margin\" but once we showed a 4x CPM lift over unstructured audience deals, finance got quiet real fast",
+          "score": 1,
+          "created_utc": 1772612002.0
         }
       ]
     }
