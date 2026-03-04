@@ -1,0 +1,16 @@
+{
+  "id": "1rks2u3",
+  "thread_id": "1rks2u3",
+  "title": "Has anyone here seen measurable performance improvement after aggressive SPO cleanup, or is it mostly margin redistribution across SSPs?”",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rks2u3/has_anyone_here_seen_measurable_performance/",
+  "created_utc": 1772646268.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Federal_Standard5917",
+      "body": "ran a hard SPO cut last year, dropped from 22 SSPs to 6, win rates actually dropped 15% for the first 3 weeks then recovered AND we picked up \\~8% more unique inventory that wasn't duplicated garbage. the stabilization you're seeing is real but give it a full month before drawing conclusions",
+      "score": 2,
+      "created_utc": 1772646750.0
+    }
+  ]
+}

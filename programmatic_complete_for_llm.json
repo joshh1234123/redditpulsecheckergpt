@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-04T17:33:49.841942+00:00",
-    "total_posts": 1350,
-    "total_comments": 9414
+    "scrape_date": "2026-03-04T18:38:22.127213+00:00",
+    "total_posts": 1351,
+    "total_comments": 9415
   },
   "discussions": [
     {
@@ -76380,6 +76380,27 @@
           "body": "ran a small curation desk for a grocery co-op a few years back, 30k shoppers is honestly enough if your SKU data is clean and you can prove incrementality. the hard sell internally was always \"why give DSPs the margin\" but once we showed a 4x CPM lift over unstructured audience deals, finance got quiet real fast",
           "score": 1,
           "created_utc": 1772612002.0
+        }
+      ]
+    },
+    {
+      "id": "1rks2u3",
+      "title": "Has anyone here seen measurable performance improvement after aggressive SPO cleanup, or is it mostly margin redistribution across SSPs?”",
+      "author": "TapMind",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rks2u3/has_anyone_here_seen_measurable_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rks2u3/has_anyone_here_seen_measurable_performance/",
+      "created_utc": 1772646268.0,
+      "content": "We tested SPO consolidation across a few campaigns and saw CPM stabilization but mixed impact on win rates.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "ran a hard SPO cut last year, dropped from 22 SSPs to 6, win rates actually dropped 15% for the first 3 weeks then recovered AND we picked up \\~8% more unique inventory that wasn't duplicated garbage. the stabilization you're seeing is real but give it a full month before drawing conclusions",
+          "score": 2,
+          "created_utc": 1772646750.0
         }
       ]
     }
