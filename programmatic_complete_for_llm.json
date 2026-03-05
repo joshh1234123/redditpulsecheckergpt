@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-05T19:13:19.765168+00:00",
-    "total_posts": 1357,
+    "scrape_date": "2026-03-05T20:04:08.054505+00:00",
+    "total_posts": 1358,
     "total_comments": 9420
   },
   "discussions": [
@@ -76519,6 +76519,20 @@
           "created_utc": 1772725172.0
         }
       ]
+    },
+    {
+      "id": "1rls07d",
+      "title": "Fortune 500 client demanding SOC 2 compliance for our CTV campaigns - what's the deal?",
+      "author": "Former_Tea1131",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rls07d/fortune_500_client_demanding_soc_2_compliance_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rls07d/fortune_500_client_demanding_soc_2_compliance_for/",
+      "created_utc": 1772740915.0,
+      "content": "Just landed a potential Fortune 500 client who's interested in our CTV strategy but their procurement team is asking if our platform has SOC 2 Type II certification. Honestly never dealt with this before since most of our clients are mid-market D2C brands.\n\nThey're saying it's non-negotiable for any vendor handling their customer data or campaign management. Is this becoming standard for enterprise CTV buys? What exactly does SOC 2 cover that regular privacy policies don't?\n\nAnyone else running into compliance requirements like this when pitching larger brands? Trying to figure out if this is worth pursuing or if we should stick to our usual client size. The media spend would be massive but don't want to get in over our heads with enterprise security requirements.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
