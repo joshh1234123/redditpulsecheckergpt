@@ -254,6 +254,21 @@
       "link_flair_text": null,
       "thread_id": "1rls07d",
       "thread_path": "1rls07d.json"
+    },
+    {
+      "id": "1rlv3vq",
+      "title": "Check any website's supply path in one click - free Chrome extension",
+      "author": "GrowthMLR",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "created_utc": 1772747912.0,
+      "content": "One click to see every direct and reseller relationship on any publisher's supply path. Breaks down seller IDs, maps SSPs to their common names, and lets you filter by direct vs reseller. Called [Supply Path Inspector](https://chromewebstore.google.com/detail/idahlmkieckfjioknkapaldojgojgfkp?utm_source=item-share-cb).\n\nThe extension only reads the publicly available ads.txt file at the root of any domain. It never reads, modifies, or accesses any page content or user data.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rlv3vq",
+      "thread_path": "1rlv3vq.json"
     }
   ]
 }

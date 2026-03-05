@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qx79tf",
-      "title": "WPP Media Interview Process",
-      "author": "trashbirb_pigeons",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx79tf/wpp_media_interview_process/",
-      "created_utc": 1770350309.0,
-      "content": "Hello! I recently talked with a recruiter about an opportunity at WPP media for an account manager/senior specialist position and was wondering if anyone can share what the interview process was like and how it is working at WPP!\n\nAny info is appreciated!",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qx86lp",
       "title": "Work Life Balance",
       "author": "Ilovepastasomuch",
@@ -1302,6 +1289,19 @@
       "created_utc": 1772740915.0,
       "content": "Just landed a potential Fortune 500 client who's interested in our CTV strategy but their procurement team is asking if our platform has SOC 2 Type II certification. Honestly never dealt with this before since most of our clients are mid-market D2C brands.\n\nThey're saying it's non-negotiable for any vendor handling their customer data or campaign management. Is this becoming standard for enterprise CTV buys? What exactly does SOC 2 cover that regular privacy policies don't?\n\nAnyone else running into compliance requirements like this when pitching larger brands? Trying to figure out if this is worth pursuing or if we should stick to our usual client size. The media spend would be massive but don't want to get in over our heads with enterprise security requirements.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rlv3vq",
+      "title": "Check any website's supply path in one click - free Chrome extension",
+      "author": "GrowthMLR",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "created_utc": 1772747912.0,
+      "content": "One click to see every direct and reseller relationship on any publisher's supply path. Breaks down seller IDs, maps SSPs to their common names, and lets you filter by direct vs reseller. Called [Supply Path Inspector](https://chromewebstore.google.com/detail/idahlmkieckfjioknkapaldojgojgfkp?utm_source=item-share-cb).\n\nThe extension only reads the publicly available ads.txt file at the root of any domain. It never reads, modifies, or accesses any page content or user data.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

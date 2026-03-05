@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-05T21:39:19.197998+00:00",
-    "total_posts": 1358,
-    "total_comments": 9420
+    "scrape_date": "2026-03-05T22:24:53.285279+00:00",
+    "total_posts": 1359,
+    "total_comments": 9421
   },
   "discussions": [
     {
@@ -76533,6 +76533,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rlv3vq",
+      "title": "Check any website's supply path in one click - free Chrome extension",
+      "author": "GrowthMLR",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlv3vq/check_any_websites_supply_path_in_one_click_free/",
+      "created_utc": 1772747912.0,
+      "content": "One click to see every direct and reseller relationship on any publisher's supply path. Breaks down seller IDs, maps SSPs to their common names, and lets you filter by direct vs reseller. Called [Supply Path Inspector](https://chromewebstore.google.com/detail/idahlmkieckfjioknkapaldojgojgfkp?utm_source=item-share-cb).\n\nThe extension only reads the publicly available ads.txt file at the root of any domain. It never reads, modifies, or accesses any page content or user data.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "GreenFlyingSauce",
+          "body": "Why not just do www abcsef.com/ads.txt? What’s the benefit of the plugin?",
+          "score": 1,
+          "created_utc": 1772749216.0
+        }
+      ]
     }
   ]
 }
