@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-05T14:43:10.383958+00:00",
-    "total_posts": 1355,
-    "total_comments": 9415
+    "scrape_date": "2026-03-05T15:43:26.101608+00:00",
+    "total_posts": 1357,
+    "total_comments": 9420
   },
   "discussions": [
     {
@@ -76459,6 +76459,66 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rljr71",
+      "title": "Trobleshoot help? TTD",
+      "author": "Pitiful_Camel6790",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
+      "created_utc": 1772722693.0,
+      "content": "https://preview.redd.it/noqv5qgip8ng1.png?width=1720&format=png&auto=webp&s=c85eaec23243b870b3e73a6127967277e95813ce\n\nSo hey everyone, newbie here compared to the long careers many of you have. \n\nI am running a display campaign through TTD and its been 7 days, as can be seen in the screenshot, there are plenty of avails but we arent bidding hense no spend at all, I have tried and gone through everything in my knowledge to figure out why but not able to come to any conclusion. the min bid is above the floor, have the needed cretive dimensions, getting display inventory through the deal, the vendor is saying eveything is good from their end, our advertiser is also whitelisted.. so what can be the reason? \n\nA slight doubt, while attaching the creatives, I used the iframe/java tags instead of the only java tags(not sure if its making sense) can it be reason its not bidding?? given that its a mobile app-focused deal? \n\nAny insight will be appreciated, feel free to ask me any followup question.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "iframe tags on mobile app inventory will kill you every time, apps can't render iframes so TTD just skips the bid entirely. swap to pure JS or ideally upload the actual creative asset directly and you'll probably see spend within the hour",
+          "score": 3,
+          "created_utc": 1772723483.0
+        },
+        {
+          "author": "CostPerMeal",
+          "body": "Take a screenshot of what shows up when you press “troubleshoot” in the top right ",
+          "score": 1,
+          "created_utc": 1772724045.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "\nOh really? Another thing I see in the trouble shooter is that 55% other and 45% advertiser blocked.\n\nReached out to the vendor and they are saying it's whitelisted from their end. Noted your point.",
+          "score": 1,
+          "created_utc": 1772724111.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "Just replied the same to other comment. Follows:\n\nOh really? Another thing I see in the trouble shooter is that 55% other and 45% advertiser blocked.\n\nReached out to the vendor and they are saying it's whitelisted from their end.",
+          "score": 1,
+          "created_utc": 1772724165.0
+        }
+      ]
+    },
+    {
+      "id": "1rlk2c6",
+      "title": "Amazon Big Spring Sale starts March 10, honest take on whether it's worth it for DSP Ads",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
+      "created_utc": 1772723427.0,
+      "content": "Been getting questions about the Amazon Big Spring Sale (March 10 to 16) so putting my thoughts in one place. Ex-Amazon, been doing Amazon DSP Ad planning for a while, not selling anything in this post. It seems like a lot of people are scrambling on this one. Sunny day in London, good time to think clearly about what actually matters this quarter.\n\n**Should you bother?**\n\nIt's a secondary event. No Prime Day pull. First question is whether spring actually maps to your category: outdoor, fitness, home refresh yes, electronics or gifting less so. Second question is budget. Spare budget plus seasonal fit, reasonable test. Tight budget squeezed to participate, skip it.\n\n**Can you still run awareness campaigns?**\n\nThe lead-in window closed last week. Best practice for an event like this is 2 to 4 weeks of upper-funnel activity before it starts, warming up audiences before CPMs spike. \n\nStarting new campaigns now means paying more and getting less. If you don't have existing audience pools, skip this one. Start building now for Prime Day instead, especially if June 23rd is real, because that lead-in window opens in about six weeks.\n\n**Already have always-on DSP campaigns running?**\n\nDifferent situation. A few adjustments worth making before March 10:\n\nOne thing most people miss: Watch competitors. If a competitor goes out of stock or raises prices during the event, shift bids fast. Secondary events are often where the best incremental ROAS comes from displaced demand, not your own campaigns.\n\nShift toward conversion. Pull budget from awareness and point it at high-intent segments: cart abandoners, recent product viewers. These audiences convert better during event traffic than on a normal week.\n\nFix pacing. If any line items are on ASAP pacing, change them now. ASAP burns budget on day one and leaves nothing for the final-day surge, which is usually when conversions peak. Set to Even pacing across the full March 10 to 16 window.\n\nTurn off Budget Optimisation. Manual allocation gives you tighter control during a live event. Automated optimisers don't have enough signal to react fast enough.\n\nUse Responsive eCommerce Creatives if you have active deals. REC formats pull live pricing and coupons automatically so your ads don't show stale numbers mid-event.\n\nActivate AMC audiences if you have them. Rule-based segments from the past 30 days, people who viewed but didn't buy, are your highest-value pool right now.\n\n**The bigger picture**\n\nEaster is in April, and the rumour is Prime Day lands June 23rd this year instead of July. If that holds, the lead-in opens in soon. Used as a test and audience-building moment before an early Prime Day, the Big Spring Sale earns its place. Treated as a must-win with fresh budget, it probably doesn't. How are you thinking about that tradeoff?\n\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Lloydxmas99",
+          "body": "Ai slop",
+          "score": 1,
+          "created_utc": 1772725172.0
+        }
+      ]
     }
   ]
 }

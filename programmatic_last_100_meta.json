@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qvsywg",
-      "title": "I set up Amazon's new AI ad tool for DSP Ads so you don't have to. What do you want tested?",
-      "author": "NiceRecognition9603",
-      "score": 0,
-      "url": "https://i.redd.it/gznsxy7x6ihg1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvsywg/i_set_up_amazons_new_ai_ad_tool_for_dsp_ads_so/",
-      "created_utc": 1770222061.0,
-      "content": "Amazon just released a way for AI tools like Claude or ChatGPT to connect directly to your ad account. You ask questions in normal language and it pulls real data. Campaigns, budgets, performance, all through a conversation. You can also tell it to create or change campaigns.\n\nThe catch: the setup requires developer experience. This is not something you can just download and start using as a seller or marketer yet.\n\nI have it installed and running on a real account so I figured I would offer to test it for anyone who wants to see what it actually does. Give me a scenario you care about and I will run it on video and reply in commnets. \n\nWhat would you want an AI to do inside our ad account?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1qvy4r4",
-      "title": "Anyone worked for a govt client ad account - what are the pros and cons?",
-      "author": "Commercial-Zombie136",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qvy4r4/anyone_worked_for_a_govt_client_ad_account_what/",
-      "created_utc": 1770233041.0,
-      "content": "Anyone working in a media agency or in-house on a Government client account?\n\nI would like to know what are the pros and cons? What things do you get to learn? What are some challenges? What is the possible impact on my career from this experience if it is my first job in ad media? How much commercial acumen it needs, what are the general KPIs?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qwoyuh",
       "title": "Amazon DSP: new Advertisers pending approval (EMEA)",
       "author": "tttigerb",
@@ -1302,6 +1276,32 @@
       "created_utc": 1772670839.0,
       "content": "We’re building an SDK that embeds HTML5 mini-games across multiple partner websites, and we’re trying to monetize them with rewarded video and interstitial ads on web (mobile + desktop).\n\nA few things that make this setup slightly unusual:\n\n* The games run inside embedded containers via our SDK\n* We don’t directly own the sites - we provide the SDK and revenue share with the partners\n* Partners are happy to implement things like ads.txt or other requirements\n* Traffic is mostly browser-based gaming inventory\n* Some partner sites may allow NSFW / adult-adjacent content\n\nWe’re trying to figure out the best way to structure monetization here - whether through Google Ad Manager with MCM setups with network partners (which has been a slow process) or via standalone web ad SDKs built for browser games.\n\nWe’ve started talking with companies like AdinPlay, but would love to hear how others have approached monetizing browser-based game traffic, especially for rewarded ads on web.\n\nAny advice or recommendations would be greatly appreciated.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rljr71",
+      "title": "Trobleshoot help? TTD",
+      "author": "Pitiful_Camel6790",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
+      "created_utc": 1772722693.0,
+      "content": "https://preview.redd.it/noqv5qgip8ng1.png?width=1720&format=png&auto=webp&s=c85eaec23243b870b3e73a6127967277e95813ce\n\nSo hey everyone, newbie here compared to the long careers many of you have. \n\nI am running a display campaign through TTD and its been 7 days, as can be seen in the screenshot, there are plenty of avails but we arent bidding hense no spend at all, I have tried and gone through everything in my knowledge to figure out why but not able to come to any conclusion. the min bid is above the floor, have the needed cretive dimensions, getting display inventory through the deal, the vendor is saying eveything is good from their end, our advertiser is also whitelisted.. so what can be the reason? \n\nA slight doubt, while attaching the creatives, I used the iframe/java tags instead of the only java tags(not sure if its making sense) can it be reason its not bidding?? given that its a mobile app-focused deal? \n\nAny insight will be appreciated, feel free to ask me any followup question.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rlk2c6",
+      "title": "Amazon Big Spring Sale starts March 10, honest take on whether it's worth it for DSP Ads",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
+      "created_utc": 1772723427.0,
+      "content": "Been getting questions about the Amazon Big Spring Sale (March 10 to 16) so putting my thoughts in one place. Ex-Amazon, been doing Amazon DSP Ad planning for a while, not selling anything in this post. It seems like a lot of people are scrambling on this one. Sunny day in London, good time to think clearly about what actually matters this quarter.\n\n**Should you bother?**\n\nIt's a secondary event. No Prime Day pull. First question is whether spring actually maps to your category: outdoor, fitness, home refresh yes, electronics or gifting less so. Second question is budget. Spare budget plus seasonal fit, reasonable test. Tight budget squeezed to participate, skip it.\n\n**Can you still run awareness campaigns?**\n\nThe lead-in window closed last week. Best practice for an event like this is 2 to 4 weeks of upper-funnel activity before it starts, warming up audiences before CPMs spike. \n\nStarting new campaigns now means paying more and getting less. If you don't have existing audience pools, skip this one. Start building now for Prime Day instead, especially if June 23rd is real, because that lead-in window opens in about six weeks.\n\n**Already have always-on DSP campaigns running?**\n\nDifferent situation. A few adjustments worth making before March 10:\n\nOne thing most people miss: Watch competitors. If a competitor goes out of stock or raises prices during the event, shift bids fast. Secondary events are often where the best incremental ROAS comes from displaced demand, not your own campaigns.\n\nShift toward conversion. Pull budget from awareness and point it at high-intent segments: cart abandoners, recent product viewers. These audiences convert better during event traffic than on a normal week.\n\nFix pacing. If any line items are on ASAP pacing, change them now. ASAP burns budget on day one and leaves nothing for the final-day surge, which is usually when conversions peak. Set to Even pacing across the full March 10 to 16 window.\n\nTurn off Budget Optimisation. Manual allocation gives you tighter control during a live event. Automated optimisers don't have enough signal to react fast enough.\n\nUse Responsive eCommerce Creatives if you have active deals. REC formats pull live pricing and coupons automatically so your ads don't show stale numbers mid-event.\n\nActivate AMC audiences if you have them. Rule-based segments from the past 30 days, people who viewed but didn't buy, are your highest-value pool right now.\n\n**The bigger picture**\n\nEaster is in April, and the rumour is Prime Day lands June 23rd this year instead of July. If that holds, the lead-in opens in soon. Used as a test and audience-building moment before an early Prime Day, the Big Spring Sale earns its place. Treated as a must-win with fresh budget, it probably doesn't. How are you thinking about that tradeoff?\n\n",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

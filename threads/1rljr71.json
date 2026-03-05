@@ -1,0 +1,34 @@
+{
+  "id": "1rljr71",
+  "thread_id": "1rljr71",
+  "title": "Trobleshoot help? TTD",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
+  "created_utc": 1772722693.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Federal_Standard5917",
+      "body": "iframe tags on mobile app inventory will kill you every time, apps can't render iframes so TTD just skips the bid entirely. swap to pure JS or ideally upload the actual creative asset directly and you'll probably see spend within the hour",
+      "score": 3,
+      "created_utc": 1772723483.0
+    },
+    {
+      "author": "CostPerMeal",
+      "body": "Take a screenshot of what shows up when you press “troubleshoot” in the top right ",
+      "score": 1,
+      "created_utc": 1772724045.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "\nOh really? Another thing I see in the trouble shooter is that 55% other and 45% advertiser blocked.\n\nReached out to the vendor and they are saying it's whitelisted from their end. Noted your point.",
+      "score": 1,
+      "created_utc": 1772724111.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Just replied the same to other comment. Follows:\n\nOh really? Another thing I see in the trouble shooter is that 55% other and 45% advertiser blocked.\n\nReached out to the vendor and they are saying it's whitelisted from their end.",
+      "score": 1,
+      "created_utc": 1772724165.0
+    }
+  ]
+}
