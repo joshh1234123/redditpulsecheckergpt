@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qxq4rj",
-      "title": "TTD Campaign Seed Size",
-      "author": "thtgrljme",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxq4rj/ttd_campaign_seed_size/",
-      "created_utc": 1770403487.0,
-      "content": "I've been going back and forth with our TTD reps on this and haven't been able to really get a clear answer.\n\nWe've been using the same seed across all of our campaigns since at least 2025 if not earlier. I noticed after launching Q1 2026 campaigns that the campaign seed was being flagged with not enough active IDs. I had never had this flag before within the campaign to the point where the flag was stating we needed to add additional data sources to the seed to expand it.\n\nCurrently at the campaign level it looks like the seed has 5,000+ active IDs, but in the seed library it's still showing under 5k. I'm curious if the active IDs in a seed ebb & flow, sometimes being more, sometimes being less? TTD can't answer that question, I've searched the knowledge portal and TTD resources and am just having trouble making sense of this.\n\nI've yet to bring this up to our digital team because I know the client isn't going to want to add additional data sources due to their KPI.",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qxr6a4",
       "title": "CM360 reporting more impressions than DSPs (video) — anyone else?",
       "author": "soledademe",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rmd8xm/tldr_week_in_review_advertisings_top_stories/",
       "created_utc": 1772801759.0,
       "content": "Hey everyone, \n\nhere's a quick rundown of the top marketing and advertising news from the past week:\n\n\n* Criteo became OpenAI's first ad tech partner to sell ads inside ChatGPT at $60 CPM, with LLM users converting at 1.5x other channels\n* Amazon Audiences coming to Netflix next quarter, allowing buyers to layer Amazon's identity graph covering 90% of U.S. households\n* HBO Max and Paramount+ merging into single streaming platform, creating combined base of over 200 million subscribers\n* Meta replacing click-through attribution with new \"engage through attribution\" metric for social interactions\n* The Trade Desk launched OpenTTD, a unified portal giving partners single login and analytics across multiple partnership roles\n* WPP elevated Nancy Hall to CEO of WPP Media U.S. following Cindy Rose's consolidation into four divisions\n* Publishers pushing for \"pay per demonstrated value\" AI licensing model that compensates based on content contribution to queries\n\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-362026)\nWhat advertising trends are you watching this week?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rmi9t7",
+      "title": "Digital Summit",
+      "author": "heatherR10",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmi9t7/digital_summit/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmi9t7/digital_summit/",
+      "created_utc": 1772813713.0,
+      "content": "Has anyone attended these Digital Sumit conferences? There’s one in my area that I’m considering attending, but they’re pretty $$$. Is it worth it? Did you get a lot out of it? \n\nhttps://www.digitalsummit.com/tampa",
       "num_comments": 2,
       "over_18": false,
       "link_flair_text": null

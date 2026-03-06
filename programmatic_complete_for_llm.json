@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-06T16:02:51.009297+00:00",
-    "total_posts": 1364,
-    "total_comments": 9427
+    "scrape_date": "2026-03-06T17:04:42.766533+00:00",
+    "total_posts": 1365,
+    "total_comments": 9429
   },
   "discussions": [
     {
@@ -76661,6 +76661,33 @@
           "body": "Yahoo DDP is also a launch partner of 1p data on Netflix - may want to include that on your news item ",
           "score": 1,
           "created_utc": 1772802760.0
+        }
+      ]
+    },
+    {
+      "id": "1rmi9t7",
+      "title": "Digital Summit",
+      "author": "heatherR10",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmi9t7/digital_summit/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmi9t7/digital_summit/",
+      "created_utc": 1772813713.0,
+      "content": "Has anyone attended these Digital Sumit conferences? There’s one in my area that I’m considering attending, but they’re pretty $$$. Is it worth it? Did you get a lot out of it? \n\nhttps://www.digitalsummit.com/tampa",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "went to the chicago one like 3 years ago and honestly the sessions were mid but the hallway conversations with other attendees were where i got actual value. if ur going purely for the content just watch the recordings later, but if ur in a spot where u need to build local market contacts it can pay off",
+          "score": 1,
+          "created_utc": 1772814411.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "They're fine. I did not get a lot out of it, but it's not the worst conference I've been to. I think Digiday conferences are way better if you're in the programmatic space, and the programmatic I/O conferences are probably the \"industry standard\" ones.",
+          "score": 1,
+          "created_utc": 1772814694.0
         }
       ]
     }
