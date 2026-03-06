@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-06T18:44:17.747815+00:00",
-    "total_posts": 1365,
+    "scrape_date": "2026-03-06T19:29:35.228156+00:00",
+    "total_posts": 1367,
     "total_comments": 9429
   },
   "discussions": [
@@ -76690,6 +76690,34 @@
           "created_utc": 1772814694.0
         }
       ]
+    },
+    {
+      "id": "1rmmjg6",
+      "title": "Ad tech role in MENA",
+      "author": "akunni",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmmjg6/ad_tech_role_in_mena/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmmjg6/ad_tech_role_in_mena/",
+      "created_utc": 1772823003.0,
+      "content": "Urgently looking for ad tech/ programmatic roles in Dubai as I am jobless!! I have close to 10 years experience in media planning, ad ops, account manager/AE , customer success role . Have in hand experience with Amazon DSP , dv360, Adform and TTD. GCC experience of 2 years too. Layoff happened in December 205. Visa is valid till 2027 ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rmnjsd",
+      "title": "[HIRE] 6 month contract, US based ($35-$39)",
+      "author": "laninajulie",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmnjsd/hire_6_month_contract_us_based_3539/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmnjsd/hire_6_month_contract_us_based_3539/",
+      "created_utc": 1772825199.0,
+      "content": "Nimble Talent is hiring a Programmatic Trader to support a large, well-known brand.\n\n https://jobs.lever.co/nimbletalent/e35aab18-593a-4993-a895-5d8bbdfbe3b7 \n\nDetails:\n\n• Remote – US based only\n\n• ET working hours\n\n• 6-month contract (potential extension or direct hire)\n\n• $35-39/hr commiserate with experience\n\n• 3+ years programmatic experience\n\nRequirements:\n\n• Experience across programmatic platforms\n\n• Amazon DSP experience is required\n\nGreat opportunity to work with a large client and established team.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
