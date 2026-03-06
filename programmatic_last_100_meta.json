@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1qx86lp",
-      "title": "Work Life Balance",
-      "author": "Ilovepastasomuch",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qx86lp/work_life_balance/",
-      "created_utc": 1770353037.0,
-      "content": "Does anyone have a job in programmatic with a good work life balance? With all the layoffs, feels like those of us left are getting our butts kicked. On a related note, has anyone in programmatic sales successfully moved onto something else in the industry? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1qxglx4",
-      "title": "This game is a decade long project to make quantum computing intuitive for software engineers",
-      "author": "QuantumOdysseyGame",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1qxglx4/this_game_is_a_decade_long_project_to_make/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1qxglx4/this_game_is_a_decade_long_project_to_make/",
-      "created_utc": 1770381812.0,
-      "content": "Hi,\n\nI am the indie dev behind [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/) (AMA! I love taking qs) - the goal was to make a super immersive space for anyone to learn quantum computing through zachlike (open-ended) logic puzzles and compete on leaderboards and lots of community made content on finding the most optimal quantum algorithms. The game has a unique set of visuals capable to represent any sort of quantum dynamics for any number of qubits and this is pretty much what makes it now possible for anybody 12yo+ to actually learn quantum logic without having to worry at all about the mathematics behind.\n\nThis is a game super different than what you'd normally expect in a programming/ logic puzzle game, so try it with an open mind. Now holds over 150hs of content, just the encyclopedia is 300p long (written pre-gpt era too..)\n\n# Stuff you'll play & learn a ton about\n\n* **Boolean Logic** – bits, operators (NAND, OR, XOR, AND…), and classical arithmetic (adders). Learn how these can combine to build anything classical. You will learn to port these to a quantum computer.\n* **Quantum Logic** – qubits, the math behind them (linear algebra, SU(2), complex numbers), all Turing-complete gates (beyond Clifford set), and make tensors to evolve systems. Freely combine or create your own gates to build anything you can imagine using polar or complex numbers.\n* **Quantum Phenomena** – storing and retrieving information in the X, Y, Z bases; superposition (pure and mixed states), interference, entanglement, the no-cloning rule, reversibility, and how the measurement basis changes what you see.\n* **Core Quantum Tricks** – phase kickback, amplitude amplification, storing information in phase and retrieving it through interference, build custom gates and tensors, and define any entanglement scenario. (Control logic is handled separately from other gates.)\n* **Famous Quantum Algorithms** – learn Deutsch–Jozsa, Grover’s search, quantum Fourier transforms, Bernstein–Vazirani, and more.\n* **Build & See Quantum Algorithms in Action** – instead of just writing/ reading equations, make & watch algorithms unfold step by step so they become clear, visual, and unforgettable. Quantum Odyssey is built to grow into a full universal quantum computing learning platform. If a universal quantum computer can do it, we aim to bring it into the game, so your quantum journey never ends.\n\nStreams:\n\nA physics teacher with over 400hs in streaming the game consistently:  [https://www.twitch.tv/beardhero](https://www.twitch.tv/beardhero)\n\nKhan academy style tutorials in physics and computing using the game, enjoy over 50hs of content on his YT channel here: [https://www.youtube.com/@MackAttackx](https://www.youtube.com/@MackAttackx)",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1qxgzmd",
       "title": "More Scope3 Layoffs",
       "author": "FlamincoMinco",
@@ -1302,6 +1276,32 @@
       "created_utc": 1772747912.0,
       "content": "One click to see every direct and reseller relationship on any publisher's supply path. Breaks down seller IDs, maps SSPs to their common names, and lets you filter by direct vs reseller. Called [Supply Path Inspector](https://chromewebstore.google.com/detail/idahlmkieckfjioknkapaldojgojgfkp?utm_source=item-share-cb).\n\nThe extension only reads the publicly available ads.txt file at the root of any domain. It never reads, modifies, or accesses any page content or user data.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rlyffw",
+      "title": "Anyone knows how publishers frequency cap for users that don't consent?",
+      "author": "Think-Shift-469",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rlyffw/anyone_knows_how_publishers_frequency_cap_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlyffw/anyone_knows_how_publishers_frequency_cap_for/",
+      "created_utc": 1772755737.0,
+      "content": "As per the above, do they use truncated IPs? Or is there a better mythology that doesn't use PII?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rlyphg",
+      "title": "Criteo Becomes the First Ad Tech Partner to Sell Ads Inside ChatGPT",
+      "author": "data_spy",
+      "score": 3,
+      "url": "https://i.redd.it/s6z6ctk0jbng1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlyphg/criteo_becomes_the_first_ad_tech_partner_to_sell/",
+      "created_utc": 1772756441.0,
+      "content": "",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
