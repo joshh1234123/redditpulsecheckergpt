@@ -329,6 +329,21 @@
       "link_flair_text": null,
       "thread_id": "1rm6mzw",
       "thread_path": "1rm6mzw.json"
+    },
+    {
+      "id": "1rmd8xm",
+      "title": "TLDR: Week in Review - Advertising's Top Stories about ChatGPT ads launch, Amazon on Netflix, and More",
+      "author": "data_spy",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmd8xm/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmd8xm/tldr_week_in_review_advertisings_top_stories/",
+      "created_utc": 1772801759.0,
+      "content": "Hey everyone, \n\nhere's a quick rundown of the top marketing and advertising news from the past week:\n\n\n* Criteo became OpenAI's first ad tech partner to sell ads inside ChatGPT at $60 CPM, with LLM users converting at 1.5x other channels\n* Amazon Audiences coming to Netflix next quarter, allowing buyers to layer Amazon's identity graph covering 90% of U.S. households\n* HBO Max and Paramount+ merging into single streaming platform, creating combined base of over 200 million subscribers\n* Meta replacing click-through attribution with new \"engage through attribution\" metric for social interactions\n* The Trade Desk launched OpenTTD, a unified portal giving partners single login and analytics across multiple partnership roles\n* WPP elevated Nancy Hall to CEO of WPP Media U.S. following Cindy Rose's consolidation into four divisions\n* Publishers pushing for \"pay per demonstrated value\" AI licensing model that compensates based on content contribution to queries\n\n\nFor full details on these stories and more industry insights, check out the complete newsletter: [CMO TLDR](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-362026)\nWhat advertising trends are you watching this week?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rmd8xm",
+      "thread_path": "1rmd8xm.json"
     }
   ]
 }
