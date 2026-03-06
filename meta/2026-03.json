@@ -404,6 +404,21 @@
       "link_flair_text": null,
       "thread_id": "1rmrx1n",
       "thread_path": "1rmrx1n.json"
+    },
+    {
+      "id": "1rmshwg",
+      "title": "Viewability vs session",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rmshwg/viewability_vs_session/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmshwg/viewability_vs_session/",
+      "created_utc": 1772836647.0,
+      "content": "In your agency are you committed both to viewability and other koi such as session at same time?\n\nOr if focus on session you can care less about viewabikity? Increading viewability might mean higher cost per session… wich is your minimum? 65% ? \n\nCan you confirm that native is not tracked by dv?\n\nFurthermore also demand gen has by default low viewability and no control on it?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rmshwg",
+      "thread_path": "1rmshwg.json"
     }
   ]
 }
