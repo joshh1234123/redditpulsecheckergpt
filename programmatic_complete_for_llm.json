@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-07T22:16:14.078041+00:00",
-    "total_posts": 1371,
-    "total_comments": 9431
+    "scrape_date": "2026-03-07T22:46:26.511086+00:00",
+    "total_posts": 1372,
+    "total_comments": 9432
   },
   "discussions": [
     {
@@ -76786,6 +76786,27 @@
           "body": "I love the continuation! Well played",
           "score": 0,
           "created_utc": 1772849253.0
+        }
+      ]
+    },
+    {
+      "id": "1rnn9kv",
+      "title": "Liftoff Mobile - Russian traffic killing performance?",
+      "author": "Salt_Prompt_5720",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rnn9kv/liftoff_mobile_russian_traffic_killing_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rnn9kv/liftoff_mobile_russian_traffic_killing_performance/",
+      "created_utc": 1772922195.0,
+      "content": "Hi all, I’m digging into some supply quality issues on the DSP side and wanted to see if anyone is experiencing the same pattern.\n\nWe’ve been analysing campaigns (specifically on Liftoff, but curious about others like AppLovin/Moloco too), and the results show a honeymoon cliff after \\~D7.\n\nPerformance looks solid for the first few weeks, but once the algo tries to scale, it seems to exhaust direct SDK inventory and starts panic-buying cheap installs from RU/CIS to maintain the daily spend.\n\nIs anyone else having this issue?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Limit your geos",
+          "score": 1,
+          "created_utc": 1772923047.0
         }
       ]
     }
