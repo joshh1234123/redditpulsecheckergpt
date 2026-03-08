@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r1gvlx",
-      "title": "Atraso no pagamento do The Moneytizer.",
-      "author": "Historical-Good-6353",
-      "score": 1,
-      "url": "/r/adops/comments/1r1gvcj/delay_payment_the_moneytizer/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1gvlx/atraso_no_pagamento_do_the_moneytizer/",
-      "created_utc": 1770766064.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r1qcqh",
       "title": "I just realized most marketers are wasting 60% of their programmatic ad budget — and no one talks about it",
       "author": "TapMind",
@@ -1302,6 +1289,19 @@
       "created_utc": 1772922195.0,
       "content": "Hi all, I’m digging into some supply quality issues on the DSP side and wanted to see if anyone is experiencing the same pattern.\n\nWe’ve been analysing campaigns (specifically on Liftoff, but curious about others like AppLovin/Moloco too), and the results show a honeymoon cliff after \\~D7.\n\nPerformance looks solid for the first few weeks, but once the algo tries to scale, it seems to exhaust direct SDK inventory and starts panic-buying cheap installs from RU/CIS to maintain the daily spend.\n\nIs anyone else having this issue?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rnqtt2",
+      "title": "Has anyone tried YouTube Creator partnership ads via DV360?",
+      "author": "Many_Finding_1952",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rnqtt2/has_anyone_tried_youtube_creator_partnership_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rnqtt2/has_anyone_tried_youtube_creator_partnership_ads/",
+      "created_utc": 1772931482.0,
+      "content": "An electronics client of mine does a lot of influencer collab ads on Instagram and was looking into options for partnering with YouTube creators as well. I know Google announced a beta for  YouTube Creator partnership ads via DV360, but there's not a lot of clarity around it. Has anyone first hand experience running them? What formats are available? What additional metrics can we track besides std imps, VCRs, and clicks? How does CPMs looklike? Are there any limitations? Is it worth doing? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
