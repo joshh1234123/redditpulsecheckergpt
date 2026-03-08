@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r1qcqh",
-      "title": "I just realized most marketers are wasting 60% of their programmatic ad budget — and no one talks about it",
-      "author": "TapMind",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r1qcqh/i_just_realized_most_marketers_are_wasting_60_of/",
-      "created_utc": 1770792882.0,
-      "content": "**I’ve been diving deep into programmatic advertising lately, and something shocking came up: most campaigns barely use first-party data effectively, rely too much on default targeting, and end up paying a fortune for inefficient impressions.**\n\n**A few things I noticed:**\n\n***Many brands still bid blindly on RTB auctions without segmenting properly.***\n\nFraudulent traffic and bots are quietly eating up ad spend.\n\nCreative fatigue happens way faster than most teams anticipate.\n\n**I’m curious, Reddit:**\n\n1)How do you ensure your programmatic campaigns actually reach real humans?\n\n2)Do you measure viewability and engagement, or just clicks and conversions?\n\n3)What’s the one change that gave you the biggest ROI improvement in programmatic campaigns?\n\nI think sharing real experiences can save a lot of marketers from wasting thousands. Let’s start a thread of honest programmatic wins and fails.",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r1we3h",
       "title": "Anyone here interviewed for Account Manager at DoubleVerify? What’s the process like and do they give an assessment?",
       "author": "Jirekshun",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rnqtt2/has_anyone_tried_youtube_creator_partnership_ads/",
       "created_utc": 1772931482.0,
       "content": "An electronics client of mine does a lot of influencer collab ads on Instagram and was looking into options for partnering with YouTube creators as well. I know Google announced a beta for  YouTube Creator partnership ads via DV360, but there's not a lot of clarity around it. Has anyone first hand experience running them? What formats are available? What additional metrics can we track besides std imps, VCRs, and clicks? How does CPMs looklike? Are there any limitations? Is it worth doing? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ro5uev",
+      "title": "Is DV360 Support down?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ro5uev/is_dv360_support_down/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ro5uev/is_dv360_support_down/",
+      "created_utc": 1772979066.0,
+      "content": "When I pull up support and fill in the boxes, the \"next\" button is not available to click.\n\nAnyone try to reach out to support today and have same issue?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

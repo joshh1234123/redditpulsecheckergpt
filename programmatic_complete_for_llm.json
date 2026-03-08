@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-08T13:35:41.275789+00:00",
-    "total_posts": 1373,
+    "scrape_date": "2026-03-08T14:19:16.846768+00:00",
+    "total_posts": 1374,
     "total_comments": 9432
   },
   "discussions": [
@@ -76819,6 +76819,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rnqtt2/has_anyone_tried_youtube_creator_partnership_ads/",
       "created_utc": 1772931482.0,
       "content": "An electronics client of mine does a lot of influencer collab ads on Instagram and was looking into options for partnering with YouTube creators as well. I know Google announced a beta for  YouTube Creator partnership ads via DV360, but there's not a lot of clarity around it. Has anyone first hand experience running them? What formats are available? What additional metrics can we track besides std imps, VCRs, and clicks? How does CPMs looklike? Are there any limitations? Is it worth doing? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ro5uev",
+      "title": "Is DV360 Support down?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ro5uev/is_dv360_support_down/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ro5uev/is_dv360_support_down/",
+      "created_utc": 1772979066.0,
+      "content": "When I pull up support and fill in the boxes, the \"next\" button is not available to click.\n\nAnyone try to reach out to support today and have same issue?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
