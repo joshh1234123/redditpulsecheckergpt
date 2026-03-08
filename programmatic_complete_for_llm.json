@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-08T19:20:14.693928+00:00",
-    "total_posts": 1374,
+    "scrape_date": "2026-03-08T19:43:09.352892+00:00",
+    "total_posts": 1375,
     "total_comments": 9432
   },
   "discussions": [
@@ -76833,6 +76833,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ro5uev/is_dv360_support_down/",
       "created_utc": 1772979066.0,
       "content": "When I pull up support and fill in the boxes, the \"next\" button is not available to click.\n\nAnyone try to reach out to support today and have same issue?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rodr6z",
+      "title": "Dentsu",
+      "author": "Ashamed-Cream2086",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rodr6z/dentsu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rodr6z/dentsu/",
+      "created_utc": 1772997696.0,
+      "content": "Hi everyone,\n\nI have some queries regarding the Account Manager Programmetic role at Dentsu India, and I wanted to ask if anyone here has gone through their interview process recently.\n\nCould you please share:\nWhat kind of questions they asked?\n\nHow many interview rounds there were?\n\nAny case studies or scenario questions?\n\nAny insights would be really helpful. Thanks in advance!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
