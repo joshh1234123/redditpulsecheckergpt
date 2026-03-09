@@ -1,0 +1,16 @@
+{
+  "id": "1ros2hz",
+  "thread_id": "1ros2hz",
+  "title": "Does Traffic Cop is a good IVT tracking tool ?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ros2hz/does_traffic_cop_is_a_good_ivt_tracking_tool/",
+  "created_utc": 1773035523.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Federal_Standard5917",
+      "body": "tried it for about 3 months on my pop campaigns, the bot flagging was decent but it missed a ton of datacenter traffic that my own ip blacklist was catching. ended up stacking it with a separate datacenter filter and that combo actually worked pretty well",
+      "score": 1,
+      "created_utc": 1773036599.0
+    }
+  ]
+}

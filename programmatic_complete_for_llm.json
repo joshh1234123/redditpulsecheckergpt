@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-09T05:17:16.766200+00:00",
-    "total_posts": 1375,
-    "total_comments": 9432
+    "scrape_date": "2026-03-09T06:35:05.437531+00:00",
+    "total_posts": 1377,
+    "total_comments": 9433
   },
   "discussions": [
     {
@@ -76847,6 +76847,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rodr6z/dentsu/",
       "created_utc": 1772997696.0,
       "content": "Hi everyone,\n\nI have some queries regarding the Account Manager Programmetic role at Dentsu India, and I wanted to ask if anyone here has gone through their interview process recently.\n\nCould you please share:\nWhat kind of questions they asked?\n\nHow many interview rounds there were?\n\nAny case studies or scenario questions?\n\nAny insights would be really helpful. Thanks in advance!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ros2hz",
+      "title": "Does Traffic Cop is a good IVT tracking tool ?",
+      "author": "Lazy_Fly_4300",
+      "score": 1,
+      "url": "/r/adops/comments/1ros229/does_traffic_cop_is_a_good_ivt_tracking_tool/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ros2hz/does_traffic_cop_is_a_good_ivt_tracking_tool/",
+      "created_utc": 1773035523.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "tried it for about 3 months on my pop campaigns, the bot flagging was decent but it missed a ton of datacenter traffic that my own ip blacklist was catching. ended up stacking it with a separate datacenter filter and that combo actually worked pretty well",
+          "score": 1,
+          "created_utc": 1773036599.0
+        }
+      ]
+    },
+    {
+      "id": "1roslpq",
+      "title": "Why performance marketing TV ads fail in weekly reporting meetings?",
+      "author": "EyeImpossible4412",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1roslpq/why_performance_marketing_tv_ads_fail_in_weekly/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1roslpq/why_performance_marketing_tv_ads_fail_in_weekly/",
+      "created_utc": 1773037362.0,
+      "content": "Here’s what actually happens:\n\nThe campaign launches  \nSpend ramps gradually  \nEarly metrics look “fine”  \nSomeone asks for revenue impact  \nNo one likes the answer\n\nBrand teams worry the campaign isn’t resonating. Growth teams question whether the spend is justified. Finance begins eyeing the TV budget as an easy line item to cut. Executives want tangible evidence, not theoretical uplift. And you, as the marketer, are left trying to explain that the channel *is* performing, but it doesn’t fit neatly into the short-term metrics everyone expects.\n\nPerformance marketing TV ads doesnt fail, they work, they can drive awareness, engagement, and even long-term conversions. The problem is that weekly reporting structures aren’t built for them. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
