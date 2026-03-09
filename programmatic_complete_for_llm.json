@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-09T22:21:17.579097+00:00",
-    "total_posts": 1378,
+    "scrape_date": "2026-03-09T22:52:53.429884+00:00",
+    "total_posts": 1379,
     "total_comments": 9433
   },
   "discussions": [
@@ -76896,6 +76896,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rpa6vm/life360_jumping_into_the_ad_industry_is_weird/",
       "created_utc": 1773084847.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rpevl9",
+      "title": "Programmatic advertising experts: Where Can I Learn the Real Science Behind It?",
+      "author": "Zealousideal_Bid_495",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rpevl9/programmatic_advertising_experts_where_can_i/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rpevl9/programmatic_advertising_experts_where_can_i/",
+      "created_utc": 1773095064.0,
+      "content": "Hi all, I am working in an Amazon agency and I am the guy who is running ads and managing PPC campaigns.\n3 months ago we got into Amazon DSP (programmatic advertising) for a big client.\nI liked that DSP, and I started learning it. I was imagining that if I only knew how this complicated UI works I would be ready; however, I was wrong. DSP is just a tool that needs science and knowledge behind it to control it. It is like okay I know how to setup a campaign but what budget percentage should I put for every funnul stage and why that split and when I should increase and decrease. It is about science and knowledge that tells the action.\nAnd here is what I would love your help with also to help others: where can I learn the true science about this field? Where can I build really solid foundations that make success?\nPlease note that I don't have a marketing degree; I have a computer engineering degree.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
