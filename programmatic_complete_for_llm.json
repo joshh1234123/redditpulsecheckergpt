@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-10T22:21:29.419360+00:00",
-    "total_posts": 1382,
+    "scrape_date": "2026-03-10T22:52:00.491507+00:00",
+    "total_posts": 1383,
     "total_comments": 9433
   },
   "discussions": [
@@ -76952,6 +76952,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rqbgs1/bro_do_you_even_adexchanger/",
       "created_utc": 1773181153.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rqbnjq",
+      "title": "Built a free site list generator with ads.txt verification — here’s why we made it",
+      "author": "mikehauptman",
+      "score": 1,
+      "url": "http://adlibplanner.com",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqbnjq/built_a_free_site_list_generator_with_adstxt/",
+      "created_utc": 1773181591.0,
+      "content": "Been in programmatic since 2006, and building site lists has always been one of those tasks that sounds simple but quietly eats hours.\n\nYou pull domains manually, cross-reference a few sources, make a bunch of judgment calls on publishers you haven’t fully vetted, and ship it hoping nothing blows up post-launch. For smaller teams without dedicated research support, it’s genuinely painful.\n\nWe built a Site List Generator on AdLib Planner to solve this for our own team and decided to open it up. You put in your vertical and audience, it spits out a curated, campaign-ready site list in seconds. Every domain is ads.txt verified before it makes the cut. No MFA, no mystery inventory.\n\nIt’s free. For now :)\n\nHappy to answer questions about how it works or how we built the verification layer. And if you use it, would love feedback on what’s missing or what you’d want to see added.\n\n \n\nLink: adlibplanner.com",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
