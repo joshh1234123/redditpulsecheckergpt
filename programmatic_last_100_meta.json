@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r3tgj3",
-      "title": "Automating HTML5 Ad Validation: A local-first approach to reduce Creative-to-Ops friction",
-      "author": "AdPreflight-Dev",
-      "score": 1,
-      "url": "/r/adtech/comments/1qzz92t/automating_html5_ad_validation_a_localfirst/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r3tgj3/automating_html5_ad_validation_a_localfirst/",
-      "created_utc": 1770999436.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r48at2",
       "title": "What are your top tips and tricks for running Connected TV (CTV) campaigns?",
       "author": "DonSalaam",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773181591.0,
       "content": "Been in programmatic since 2006, and building site lists has always been one of those tasks that sounds simple but quietly eats hours.\n\nYou pull domains manually, cross-reference a few sources, make a bunch of judgment calls on publishers you haven’t fully vetted, and ship it hoping nothing blows up post-launch. For smaller teams without dedicated research support, it’s genuinely painful.\n\nWe built a Site List Generator on AdLib Planner to solve this for our own team and decided to open it up. You put in your vertical and audience, it spits out a curated, campaign-ready site list in seconds. Every domain is ads.txt verified before it makes the cut. No MFA, no mystery inventory.\n\nIt’s free. For now :)\n\nHappy to answer questions about how it works or how we built the verification layer. And if you use it, would love feedback on what’s missing or what you’d want to see added.\n\n \n\nLink: adlibplanner.com",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rqkcom",
+      "title": "Is this recruiting email scam?",
+      "author": "HumbleDebugger",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqkcom/is_this_recruiting_email_scam/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqkcom/is_this_recruiting_email_scam/",
+      "created_utc": 1773204264.0,
+      "content": "Sender kathywarden.careers@gmail.com\n\nEmail has nothing to do with NG\n\nSignature \n\nKathy Warden, LinkedIn\n\nChair, Chief Executive Officer and President at Northrop Grumman | Board Director @ Merck & Co. | Vice Chair @ Greater Washington Partnership\n\nWebsite Link: https://www.northropgrumman.com/\n\nLeadership Team: https://www.northropgrumman.com/who-we-are/leadership",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

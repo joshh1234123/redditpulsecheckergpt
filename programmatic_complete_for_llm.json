@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-11T03:37:49.680946+00:00",
-    "total_posts": 1383,
-    "total_comments": 9433
+    "scrape_date": "2026-03-11T05:08:30.996420+00:00",
+    "total_posts": 1384,
+    "total_comments": 9434
   },
   "discussions": [
     {
@@ -76970,6 +76970,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rqkcom",
+      "title": "Is this recruiting email scam?",
+      "author": "HumbleDebugger",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqkcom/is_this_recruiting_email_scam/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqkcom/is_this_recruiting_email_scam/",
+      "created_utc": 1773204264.0,
+      "content": "Sender kathywarden.careers@gmail.com\n\nEmail has nothing to do with NG\n\nSignature \n\nKathy Warden, LinkedIn\n\nChair, Chief Executive Officer and President at Northrop Grumman | Board Director @ Merck & Co. | Vice Chair @ Greater Washington Partnership\n\nWebsite Link: https://www.northropgrumman.com/\n\nLeadership Team: https://www.northropgrumman.com/who-we-are/leadership",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "codalark",
+          "body": "100% they’re fishing. Ignore those ducks. ",
+          "score": 1,
+          "created_utc": 1773204702.0
+        }
+      ]
     }
   ]
 }
