@@ -644,6 +644,36 @@
       "link_flair_text": null,
       "thread_id": "1rqkcom",
       "thread_path": "1rqkcom.json"
+    },
+    {
+      "id": "1rqt2wc",
+      "title": "VTR issues with TMCM",
+      "author": "BoringComposer7150",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "created_utc": 1773233987.0,
+      "content": "This month we start to apply the Total Media Cost Markup in our campaigns. The problem is that YouTube Trueview Instream has a super low VTR, 44% in average, vs the usual 75% we usualy achieve. Do you think that the TMCM has relevance in the results?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rqt2wc",
+      "thread_path": "1rqt2wc.json"
+    },
+    {
+      "id": "1rqtk2s",
+      "title": "Free AdCP Sales Agent testing",
+      "author": "Own_Corner1016",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "created_utc": 1773235208.0,
+      "content": "We (TeqBlaze) built an AdCP Sales Agent and opened it for free early testing so publisher teams can study how AI could help with 1:1 deal-making\n\nSo far the automation part works, but the challenge is getting teams to agree on the rules before the system runs. If goals or limits are vague, the agent simply scales that ambiguity faster\n\nIf anyone here wants to experiment with it free of charge - I can send a link, just ask in comments or hit a DM",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rqtk2s",
+      "thread_path": "1rqtk2s.json"
     }
   ]
 }

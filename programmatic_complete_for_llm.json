@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-11T12:42:04.498717+00:00",
-    "total_posts": 1384,
-    "total_comments": 9434
+    "scrape_date": "2026-03-11T14:01:18.185371+00:00",
+    "total_posts": 1386,
+    "total_comments": 9437
   },
   "discussions": [
     {
@@ -76989,6 +76989,54 @@
           "body": "100% they’re fishing. Ignore those ducks. ",
           "score": 1,
           "created_utc": 1773204702.0
+        }
+      ]
+    },
+    {
+      "id": "1rqt2wc",
+      "title": "VTR issues with TMCM",
+      "author": "BoringComposer7150",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "created_utc": 1773233987.0,
+      "content": "This month we start to apply the Total Media Cost Markup in our campaigns. The problem is that YouTube Trueview Instream has a super low VTR, 44% in average, vs the usual 75% we usualy achieve. Do you think that the TMCM has relevance in the results?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Depends how you are buying tbh, CPV or CPM?\nPersonally I'd avoid doing this with YT full stop.",
+          "score": 1,
+          "created_utc": 1773237584.0
+        }
+      ]
+    },
+    {
+      "id": "1rqtk2s",
+      "title": "Free AdCP Sales Agent testing",
+      "author": "Own_Corner1016",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "created_utc": 1773235208.0,
+      "content": "We (TeqBlaze) built an AdCP Sales Agent and opened it for free early testing so publisher teams can study how AI could help with 1:1 deal-making\n\nSo far the automation part works, but the challenge is getting teams to agree on the rules before the system runs. If goals or limits are vague, the agent simply scales that ambiguity faster\n\nIf anyone here wants to experiment with it free of charge - I can send a link, just ask in comments or hit a DM",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "the \"agreeing on rules first\" problem is real but tbh most publisher teams can't even agree on their floor prices lol. we spent 3 weeks just trying to get sales and ops to align on what a \"good deal\" looked like before we could automate anything useful",
+          "score": 2,
+          "created_utc": 1773236664.0
+        },
+        {
+          "author": "Own_Corner1016",
+          "body": "Facts! “Agreeing on rules first” is way easier said than done 😅\n\nStill we can not even underestimate the importance ",
+          "score": 1,
+          "created_utc": 1773237187.0
         }
       ]
     }

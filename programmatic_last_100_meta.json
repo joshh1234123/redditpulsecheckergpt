@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r48at2",
-      "title": "What are your top tips and tricks for running Connected TV (CTV) campaigns?",
-      "author": "DonSalaam",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r48at2/what_are_your_top_tips_and_tricks_for_running/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r48at2/what_are_your_top_tips_and_tricks_for_running/",
-      "created_utc": 1771035225.0,
-      "content": "I would love to hear what DSP use, what locations/regions you target, and what your top tips are for running successful CTV campaigns?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1r5bugv",
-      "title": "What are your best Dv360 tips and tricks?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r5bugv/what_are_your_best_dv360_tips_and_tricks/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r5bugv/what_are_your_best_dv360_tips_and_tricks/",
-      "created_utc": 1771152978.0,
-      "content": "From setting up to optimizing to reporting etc. \n\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r5jc4v",
       "title": "TTD/DV360 Audiences as Added Value",
       "author": "Alpha-D-Truelove",
@@ -1302,6 +1276,32 @@
       "created_utc": 1773204264.0,
       "content": "Sender kathywarden.careers@gmail.com\n\nEmail has nothing to do with NG\n\nSignature \n\nKathy Warden, LinkedIn\n\nChair, Chief Executive Officer and President at Northrop Grumman | Board Director @ Merck & Co. | Vice Chair @ Greater Washington Partnership\n\nWebsite Link: https://www.northropgrumman.com/\n\nLeadership Team: https://www.northropgrumman.com/who-we-are/leadership",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rqt2wc",
+      "title": "VTR issues with TMCM",
+      "author": "BoringComposer7150",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqt2wc/vtr_issues_with_tmcm/",
+      "created_utc": 1773233987.0,
+      "content": "This month we start to apply the Total Media Cost Markup in our campaigns. The problem is that YouTube Trueview Instream has a super low VTR, 44% in average, vs the usual 75% we usualy achieve. Do you think that the TMCM has relevance in the results?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rqtk2s",
+      "title": "Free AdCP Sales Agent testing",
+      "author": "Own_Corner1016",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqtk2s/free_adcp_sales_agent_testing/",
+      "created_utc": 1773235208.0,
+      "content": "We (TeqBlaze) built an AdCP Sales Agent and opened it for free early testing so publisher teams can study how AI could help with 1:1 deal-making\n\nSo far the automation part works, but the challenge is getting teams to agree on the rules before the system runs. If goals or limits are vague, the agent simply scales that ambiguity faster\n\nIf anyone here wants to experiment with it free of charge - I can send a link, just ask in comments or hit a DM",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
