@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r733gw",
-      "title": "Best AI services or custom prompts to resize banners?",
-      "author": "jberts",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r733gw/best_ai_services_or_custom_prompts_to_resize/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r733gw/best_ai_services_or_custom_prompts_to_resize/",
-      "created_utc": 1771326229.0,
-      "content": "Has anyone used a service / plugin or built their own custom prompt or web-app utilising AI models to easily but effectively resize imagery for all banner sizes? It seems like this is something that should work well and at very low cost with advancements in image models.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1r73amy",
-      "title": "Drop your website link or DM email to talk",
-      "author": "AdEither8881",
-      "score": 0,
-      "url": "https://i.redd.it/zop06bmzf1kg1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r73amy/drop_your_website_link_or_dm_email_to_talk/",
-      "created_utc": 1771326920.0,
-      "content": "Advertiser looking for **banner (web +inapp) tier 1 traffic**",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r73i40",
       "title": "How do I determine burnout?",
       "author": "HeyItsAmisha",
@@ -1302,6 +1276,32 @@
       "created_utc": 1773311599.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rro0hz",
+      "title": "Back with Another AdFraud Insight - Frequency Violation",
+      "author": "Hairy-Airport1305",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rro0hz/back_with_another_adfraud_insight_frequency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rro0hz/back_with_another_adfraud_insight_frequency/",
+      "created_utc": 1773314363.0,
+      "content": "Before HUL Vs JioHotstar was a thing. We measured unusual activities on OTTs.\n\nOur team was going through some OTT campaign monitoring and found something that honestly doesn't makes sense.\n\n**A single device ID being served 1700+ ad impressions**\n\nNot in a Month. In a week and mostly in a Day only.\n\nJust putting that theoritically given if someone watched 5 hours of OTT daily. They still would reach this mark rather than not get frustrated.\n\nNaturally we dug deeper. We plugged out insights of these particular Device IDs and something really surprising came up.\n\n* Multiple Device Ids had same Device Structure\n* Continuous Ad delivery without a single Gap.\n\nThus, the Device IDs found to be synthetically made up just to eat up the reach of the campaigns. The dashboard and the advertiser were not even aware this existed untill we did.\n\nThese platforms are not only bypassing the frequency caps being put by somehow generating fake impressions by such device ids. Which them we were able to prevent.\n\nHappy to Answer any questions.\n\nhttps://preview.redd.it/vt09tj0tllog1.jpg?width=297&format=pjpg&auto=webp&s=a7e0f54d41d8078a1e938dc012f2995296ea6c44\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rroasg",
+      "title": "How did you determine the work environment you are in is not suitable for you?",
+      "author": "HeyItsAmisha",
+      "score": 1,
+      "url": "/r/careerguidance/comments/1rroa3x/how_did_you_determine_the_work_environment_is_not/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rroasg/how_did_you_determine_the_work_environment_you/",
+      "created_utc": 1773315260.0,
+      "content": "",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
