@@ -704,6 +704,36 @@
       "link_flair_text": null,
       "thread_id": "1rrcms7",
       "thread_path": "1rrcms7.json"
+    },
+    {
+      "id": "1rrg7o5",
+      "title": "Using GAM (Google Ad Manager) for DOOH Retail Media",
+      "author": "Sea-Break-5365",
+      "score": 2,
+      "url": "/r/googleadmanagerGAM/comments/1rrg7ct/using_gam_google_ad_manager_for_dooh_retail_media/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrg7o5/using_gam_google_ad_manager_for_dooh_retail_media/",
+      "created_utc": 1773287114.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rrg7o5",
+      "thread_path": "1rrg7o5.json"
+    },
+    {
+      "id": "1rrhghn",
+      "title": "Questions on running YouTube CTV campaigns on DV360",
+      "author": "DonSalaam",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
+      "created_utc": 1773290877.0,
+      "content": "I’m keen on knowing the following,\n\n1) Do you run these campaigns as standard YouTube line items or as CTV line items?\n\n2) Can you purchase YouTube CTV inventory only, or does it include partner/third-party publishers’ inventory in the mix?\n\n3) On the reporting side, does it identify the inventory as YouTube CTV inventory, or does it display as YouTube?\n\nPlease share any other tips and best practices. Thank you!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rrhghn",
+      "thread_path": "1rrhghn.json"
     }
   ]
 }

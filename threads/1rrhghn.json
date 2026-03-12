@@ -1,0 +1,16 @@
+{
+  "id": "1rrhghn",
+  "thread_id": "1rrhghn",
+  "title": "Questions on running YouTube CTV campaigns on DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
+  "created_utc": 1773290877.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "lifesizeisunderrated",
+      "body": "1. Build the Line items as YouTube Line items\n2. If you only want to run on CTV devices, select that in device targeting. If you don’t want third-party inventory, don’t select “Google Video Partners” in inventory targeting \n3. There is no single reporting dimension that identifies this as YouTube CTV, but the combination of Line Item Type and Device would show this. Or you can name your line items/insertion orders in a way that helps you group in reporting accordingly \n",
+      "score": 2,
+      "created_utc": 1773292030.0
+    }
+  ]
+}
