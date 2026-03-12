@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-12T09:06:48.057238+00:00",
-    "total_posts": 1391,
-    "total_comments": 9440
+    "scrape_date": "2026-03-12T10:04:53.786034+00:00",
+    "total_posts": 1392,
+    "total_comments": 9442
   },
   "discussions": [
     {
@@ -77128,6 +77128,33 @@
           "body": "ngl we just stopped fighting GA4 for this and moved our source of truth to the ad server logs instead. DV360 impression/click data doesn't require consent to collect and if you stitch it server-side with your CRM conversions you get way better attribution than whatever GA4 is modeling anyway",
           "score": 1,
           "created_utc": 1773305407.0
+        }
+      ]
+    },
+    {
+      "id": "1rrmdt5",
+      "title": "TTD ending dedicated agency teams for Salesforce ticketing?",
+      "author": "vlad_chubakov",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "created_utc": 1773308863.0,
+      "content": "Did anyone else hear about/hear confirmation of a TTD announcement back in February where they’re sunsetting dedicated agency support teams? From what I understood, agencies now have to submit requests via Salesforce, and they’re handled by random staff instead of assigned specialists.\n\nThis seems like it could hit agencies hard—longer resolution times, less expertise on our accounts, etc. Has this rolled out for you?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "klustura",
+          "body": "What's the size of agencies you're referring to?",
+          "score": 1,
+          "created_utc": 1773309360.0
+        },
+        {
+          "author": "Federal_Standard5917",
+          "body": "our dedicated ttd rep literally knew our account history, caught a pacing issue at 2am once and fixed it before we even woke up. you lose that institutional knowledge and you're just another ticket in a queue, resolution times are gonna balloon especially during q4 crunch",
+          "score": 1,
+          "created_utc": 1773309595.0
         }
       ]
     }

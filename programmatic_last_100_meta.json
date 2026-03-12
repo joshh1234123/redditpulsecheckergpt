@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r6ke2d",
-      "title": "Has anyone tried out Genius Sports’ FANHub platform?",
-      "author": "That_Kaleidoscope512",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r6ke2d/has_anyone_tried_out_genius_sports_fanhub_platform/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r6ke2d/has_anyone_tried_out_genius_sports_fanhub_platform/",
-      "created_utc": 1771272503.0,
-      "content": "Has anyone given their DSP a shot? What’s the ad inventory like? Looking to potentially advertise.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r6nkqh",
       "title": "Hiring for Programmatic Manager NY Area",
       "author": "Makaveli-4",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773304211.0,
       "content": "Are there any strategies to increase GA4 session attribution when:\n\n* user doesn't consent in cookie banner \n* advanced google consent mode is in place\n* behavioral modeling in GA4 is unavailable due to lower website traffic\n* campaign is running in DV360\n* third party creative with manual UTMs\n\nCould this be ameliorated through something like DV360 to GA4 linking, enhanced measurement or another approach?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rrmdt5",
+      "title": "TTD ending dedicated agency teams for Salesforce ticketing?",
+      "author": "vlad_chubakov",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "created_utc": 1773308863.0,
+      "content": "Did anyone else hear about/hear confirmation of a TTD announcement back in February where they’re sunsetting dedicated agency support teams? From what I understood, agencies now have to submit requests via Salesforce, and they’re handled by random staff instead of assigned specialists.\n\nThis seems like it could hit agencies hard—longer resolution times, less expertise on our accounts, etc. Has this rolled out for you?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

@@ -749,6 +749,21 @@
       "link_flair_text": null,
       "thread_id": "1rrl5j9",
       "thread_path": "1rrl5j9.json"
+    },
+    {
+      "id": "1rrmdt5",
+      "title": "TTD ending dedicated agency teams for Salesforce ticketing?",
+      "author": "vlad_chubakov",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrmdt5/ttd_ending_dedicated_agency_teams_for_salesforce/",
+      "created_utc": 1773308863.0,
+      "content": "Did anyone else hear about/hear confirmation of a TTD announcement back in February where they’re sunsetting dedicated agency support teams? From what I understood, agencies now have to submit requests via Salesforce, and they’re handled by random staff instead of assigned specialists.\n\nThis seems like it could hit agencies hard—longer resolution times, less expertise on our accounts, etc. Has this rolled out for you?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rrmdt5",
+      "thread_path": "1rrmdt5.json"
     }
   ]
 }
