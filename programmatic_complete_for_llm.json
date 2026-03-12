@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-11T23:47:28.986735+00:00",
-    "total_posts": 1387,
-    "total_comments": 9437
+    "scrape_date": "2026-03-12T01:19:48.775197+00:00",
+    "total_posts": 1388,
+    "total_comments": 9438
   },
   "discussions": [
     {
@@ -77053,6 +77053,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rrcms7",
+      "title": "He keeps saying how great his industry is for AI.....and still hasn't delivered one Agentic element to his platform despite AI being years old.",
+      "author": "JimmyTango",
+      "score": 2,
+      "url": "https://www.reddit.com/gallery/1rrcms7",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrcms7/he_keeps_saying_how_great_his_industry_is_for/",
+      "created_utc": 1773277466.0,
+      "content": "Another day TTD doesn't have even a basic bitch reporting agent in its platform, another comment made by their CEO about how they're the wet dream of AI if only everyone else understood them. This guy is such a bloated broken record....",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "notrelame",
+          "body": "Your third post about TTD in less than 48 hours. It’s giving obsessed. Just DM your shitty memes to Jeff Green and spare us the commentary.",
+          "score": 1,
+          "created_utc": 1773277864.0
+        }
+      ]
     }
   ]
 }
