@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-12T08:01:22.657424+00:00",
-    "total_posts": 1390,
-    "total_comments": 9439
+    "scrape_date": "2026-03-12T09:06:48.057238+00:00",
+    "total_posts": 1391,
+    "total_comments": 9440
   },
   "discussions": [
     {
@@ -77107,6 +77107,27 @@
           "body": "1. Build the Line items as YouTube Line items\n2. If you only want to run on CTV devices, select that in device targeting. If you don’t want third-party inventory, don’t select “Google Video Partners” in inventory targeting \n3. There is no single reporting dimension that identifies this as YouTube CTV, but the combination of Line Item Type and Device would show this. Or you can name your line items/insertion orders in a way that helps you group in reporting accordingly \n",
           "score": 2,
           "created_utc": 1773292030.0
+        }
+      ]
+    },
+    {
+      "id": "1rrl5j9",
+      "title": "Strategies to fix GA4 attribution for non-consented traffic from DV360 3p creatives (EU)",
+      "author": "MHerbalist",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
+      "created_utc": 1773304211.0,
+      "content": "Are there any strategies to increase GA4 session attribution when:\n\n* user doesn't consent in cookie banner \n* advanced google consent mode is in place\n* behavioral modeling in GA4 is unavailable due to lower website traffic\n* campaign is running in DV360\n* third party creative with manual UTMs\n\nCould this be ameliorated through something like DV360 to GA4 linking, enhanced measurement or another approach?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "ngl we just stopped fighting GA4 for this and moved our source of truth to the ad server logs instead. DV360 impression/click data doesn't require consent to collect and if you stitch it server-side with your CRM conversions you get way better attribution than whatever GA4 is modeling anyway",
+          "score": 1,
+          "created_utc": 1773305407.0
         }
       ]
     }

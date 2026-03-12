@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r68mq8",
-      "title": "Insertion Order - Line Item settings",
-      "author": "Maleficent_Score_242",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r68mq8/insertion_order_line_item_settings/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r68mq8/insertion_order_line_item_settings/",
-      "created_utc": 1771245792.0,
-      "content": "Hi everyone,\n\nA bit confused as to what settings can a LI override from IO level.What are the best practices of settings at each level here?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r6ke2d",
       "title": "Has anyone tried out Genius Sports’ FANHub platform?",
       "author": "That_Kaleidoscope512",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
       "created_utc": 1773290877.0,
       "content": "I’m keen on knowing the following,\n\n1) Do you run these campaigns as standard YouTube line items or as CTV line items?\n\n2) Can you purchase YouTube CTV inventory only, or does it include partner/third-party publishers’ inventory in the mix?\n\n3) On the reporting side, does it identify the inventory as YouTube CTV inventory, or does it display as YouTube?\n\nPlease share any other tips and best practices. Thank you!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rrl5j9",
+      "title": "Strategies to fix GA4 attribution for non-consented traffic from DV360 3p creatives (EU)",
+      "author": "MHerbalist",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
+      "created_utc": 1773304211.0,
+      "content": "Are there any strategies to increase GA4 session attribution when:\n\n* user doesn't consent in cookie banner \n* advanced google consent mode is in place\n* behavioral modeling in GA4 is unavailable due to lower website traffic\n* campaign is running in DV360\n* third party creative with manual UTMs\n\nCould this be ameliorated through something like DV360 to GA4 linking, enhanced measurement or another approach?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

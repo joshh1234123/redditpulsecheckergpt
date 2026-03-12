@@ -1,0 +1,16 @@
+{
+  "id": "1rrl5j9",
+  "thread_id": "1rrl5j9",
+  "title": "Strategies to fix GA4 attribution for non-consented traffic from DV360 3p creatives (EU)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
+  "created_utc": 1773304211.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Federal_Standard5917",
+      "body": "ngl we just stopped fighting GA4 for this and moved our source of truth to the ad server logs instead. DV360 impression/click data doesn't require consent to collect and if you stitch it server-side with your CRM conversions you get way better attribution than whatever GA4 is modeling anyway",
+      "score": 1,
+      "created_utc": 1773305407.0
+    }
+  ]
+}
