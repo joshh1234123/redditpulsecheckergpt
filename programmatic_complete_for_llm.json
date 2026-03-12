@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-12T10:04:53.786034+00:00",
-    "total_posts": 1392,
+    "scrape_date": "2026-03-12T11:04:55.228599+00:00",
+    "total_posts": 1393,
     "total_comments": 9442
   },
   "discussions": [
@@ -77157,6 +77157,20 @@
           "created_utc": 1773309595.0
         }
       ]
+    },
+    {
+      "id": "1rrn5nf",
+      "title": "Ad Ops pain points",
+      "author": "shevlander",
+      "score": 1,
+      "url": "/r/adops/comments/1rrn524/ad_ops_pain_points/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrn5nf/ad_ops_pain_points/",
+      "created_utc": 1773311599.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
