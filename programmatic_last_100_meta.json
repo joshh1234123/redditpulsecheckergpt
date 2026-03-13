@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r74qsi",
-      "title": "Volatility isn’t “normal” — we’ve just normalized it.",
-      "author": "Kipchack123",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r74qsi/volatility_isnt_normal_weve_just_normalized_it/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r74qsi/volatility_isnt_normal_weve_just_normalized_it/",
-      "created_utc": 1771331447.0,
-      "content": "I posted two threads yesterday that pulled \\~7K views in less than a day (roughly 50% and 40% reach), and the responses had a clear pattern:\n\nInternally we say:  \n“Volatility is normal.”  \n“It’s just auction dynamics.”  \n“It’s noise.”\n\nBut when CPMs swing 30–40% for no visible reason, when supply paths shift mid‑flight, when floors jump intraday — is that really “normal”?  \nOr have we just adapted to a system that doesn’t show us what’s actually happening?\n\nAnd here’s the part I keep coming back to:  \nIf clients churn or in‑house because the swings are unexplainable, is that really just “noise”?  \nOr is it a sign that we’ve normalized instability instead of measuring and managing it?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r7cd3l",
       "title": "Programmatic Account Manager w/ 5 year experience looking to get into consultancy work (London UK based)",
       "author": "DistributionSelect74",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rsch06/transitioning_from_google_ads_search_to/",
       "created_utc": 1773372554.0,
       "content": "Hello everyone! I’ll be transitioning to a new role next week. In my current role, I work primarily with Google Ads Search and Performance campaigns. In my new position, however, I’ll be focusing more on programmatic display and video.\n\nI wanted to ask how difficult it is to transition to programmatic coming from Search. Do you have any tips on how I can adapt more easily? Also, what are the common pitfalls for people who are new to programmatic or transitioning from other advertising solutions?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rsk2g4",
+      "title": "Need internship in Programmatic Advertisement (Islamabad/rwp)",
+      "author": "asfandyar_khan",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rsk2g4/need_internship_in_programmatic_advertisement/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rsk2g4/need_internship_in_programmatic_advertisement/",
+      "created_utc": 1773399068.0,
+      "content": "Hi everyone,\n\nI’m based in Islamabad and have about 6 years of experience in digital marketing (SEO, content, video production, and social media). Recently I’ve been looking to transition into programmatic advertising and want to gain some real hands-on experience in this area.\n\nI was wondering if anyone here works in programmatic / ad tech or knows of agencies in Islamabad or Rawalpindi that might offer internships, trainee roles, or even mentorship opportunities.\n\nI’m very motivated to learn and willing to start from an internship level to build proper programmatic skills.\n\nAny advice, leads, or connections would be greatly appreciated. Thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
