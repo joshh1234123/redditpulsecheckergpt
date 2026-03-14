@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r94asl",
-      "title": "[CM360 API Issues] Automating HTML5 Creative uploads using Google Apps Script via Google Drive",
-      "author": "LeadingWall",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r94asl/cm360_api_issues_automating_html5_creative/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r94asl/cm360_api_issues_automating_html5_creative/",
-      "created_utc": 1771519677.0,
-      "content": "I am trying to automate HTML5 creative uploads from Google Drive to CM360 using Apps Script. But I keep getting this error: \"8169 : A reporting name is required.\" \n\nI cant find any info in the API documentation on this, and spent hour troubleshooting it.  I also wrote a Discovery Script in Google Apps Script to GET an existing creative and log every single field in the object. The API is strict on creation but show nothing on retrieval. You must include reportingName when you insert a new creative, even though the API won't show it to you later.\n\nAny one encountered this error before or got any ideas how to fix it?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r94e2c",
       "title": "How to offer additional value to my clients or team?",
       "author": "TheGrandLeveler",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rtgbvl/anyone_moved_from_contractconsulting_role_to/",
       "created_utc": 1773485361.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rtmkdc",
+      "title": "Ad tech remote",
+      "author": "akunni",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rtmkdc/ad_tech_remote/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtmkdc/ad_tech_remote/",
+      "created_utc": 1773502756.0,
+      "content": "Any leads on remote  ad tech roles (AM/AE/CSM level) outside US/Canada ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
