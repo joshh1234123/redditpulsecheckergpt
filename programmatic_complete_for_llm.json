@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-14T10:20:37.829818+00:00",
-    "total_posts": 1402,
+    "scrape_date": "2026-03-14T10:53:02.802941+00:00",
+    "total_posts": 1403,
     "total_comments": 9446
   },
   "discussions": [
@@ -77323,6 +77323,20 @@
           "created_utc": 1773447802.0
         }
       ]
+    },
+    {
+      "id": "1rtgbvl",
+      "title": "Anyone moved from contract/consulting role to full-time job? Did background verification cause issues?",
+      "author": "Afraid_Variety_6251",
+      "score": 1,
+      "url": "/r/developersIndia/comments/1rtgbfg/anyone_moved_from_contractconsulting_role_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtgbvl/anyone_moved_from_contractconsulting_role_to/",
+      "created_utc": 1773485361.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
