@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r94e2c",
-      "title": "How to offer additional value to my clients or team?",
-      "author": "TheGrandLeveler",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r94e2c/how_to_offer_additional_value_to_my_clients_or/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r94e2c/how_to_offer_additional_value_to_my_clients_or/",
-      "created_utc": 1771519877.0,
-      "content": "I'm looking for ideas and inspiration on this context:\n\n1) delivering weekly customized reports on campaign performance\n \n2) selling products in bundles (that perhaps wouldn't be sold stand alone) \n\n3) leveraging high quality 1st and 3rd party data or inclusion lists\n\nWhat could be some similar ideas of adding extra value and benefits? Not just the average execution and consultation but more. \n\nWould be happy to hear from you and get inspired :) ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1r9ac9d",
-      "title": "Mid-market brand struggling with incrementality testing: Where do I start?",
-      "author": "Far_Argument5470",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r9ac9d/midmarket_brand_struggling_with_incrementality/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9ac9d/midmarket_brand_struggling_with_incrementality/",
-      "created_utc": 1771532775.0,
-      "content": "I work for a D@C brand doing about $2M ARR. We've been scaling Meta/Google but CAC doesn't make sense anymore. Leadership is pushing for CTV and other channels but the question of knowing whether its actually incremental vs just stealing credit  from existing channels keeps coming up alot.   \nI know we need proper incrementality testing but I have no clue where to start. The options seem overwhelming and kinda off-budget but knowing where to start would be really helpful",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r9bh1f",
       "title": "How to scale and upsell",
       "author": "akunni",
@@ -1302,6 +1276,32 @@
       "created_utc": 1773502756.0,
       "content": "Any leads on remote  ad tech roles (AM/AE/CSM level) outside US/Canada ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rtnrw6",
+      "title": "Ias and meta",
+      "author": "linuz14",
+      "score": 1,
+      "url": "/r/FacebookAds/comments/1rtnrhz/ias_and_meta/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtnrw6/ias_and_meta/",
+      "created_utc": 1773505636.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rtntry",
+      "title": "Invalid traffic by ias",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "created_utc": 1773505759.0,
+      "content": "How can you avoid invalid traffic flagged by Ias? Just adding sites in blacklist? How to prevent it before monitoring?",
+      "num_comments": 6,
       "over_18": false,
       "link_flair_text": null
     }

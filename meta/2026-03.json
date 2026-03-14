@@ -944,6 +944,36 @@
       "link_flair_text": null,
       "thread_id": "1rtmkdc",
       "thread_path": "1rtmkdc.json"
+    },
+    {
+      "id": "1rtnrw6",
+      "title": "Ias and meta",
+      "author": "linuz14",
+      "score": 1,
+      "url": "/r/FacebookAds/comments/1rtnrhz/ias_and_meta/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtnrw6/ias_and_meta/",
+      "created_utc": 1773505636.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rtnrw6",
+      "thread_path": "1rtnrw6.json"
+    },
+    {
+      "id": "1rtntry",
+      "title": "Invalid traffic by ias",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "created_utc": 1773505759.0,
+      "content": "How can you avoid invalid traffic flagged by Ias? Just adding sites in blacklist? How to prevent it before monitoring?",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1rtntry",
+      "thread_path": "1rtntry.json"
     }
   ]
 }

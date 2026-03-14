@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-14T16:22:25.624741+00:00",
-    "total_posts": 1404,
-    "total_comments": 9446
+    "scrape_date": "2026-03-14T16:54:33.784351+00:00",
+    "total_posts": 1406,
+    "total_comments": 9454
   },
   "discussions": [
     {
@@ -77351,6 +77351,84 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rtnrw6",
+      "title": "Ias and meta",
+      "author": "linuz14",
+      "score": 1,
+      "url": "/r/FacebookAds/comments/1rtnrhz/ias_and_meta/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtnrw6/ias_and_meta/",
+      "created_utc": 1773505636.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "what's the actual question here lol, but fwiw IAS on meta is mostly a checkbox for agencies to show clients they're \"brand safe\" - we ran a test last year pulling IAS off a meta campaign for 6 weeks and performance was identical, saved like $0.08 CPM which adds up fast at scale tbh",
+          "score": 1,
+          "created_utc": 1773506267.0
+        },
+        {
+          "author": "linuz14",
+          "body": "So you confirm that there is no value in running ias on social, right? I agree mainly because tool to improve are limited on meta, there are no filters like on a dsp",
+          "score": 1,
+          "created_utc": 1773506868.0
+        }
+      ]
+    },
+    {
+      "id": "1rtntry",
+      "title": "Invalid traffic by ias",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
+      "created_utc": 1773505759.0,
+      "content": "How can you avoid invalid traffic flagged by Ias? Just adding sites in blacklist? How to prevent it before monitoring?",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "blacklisting after the fact is too slow tbh, what actually worked for us was pre-bidding on IAS's segments directly so you're filtering at auction time not post-campaign. also check if your DSP has IAS pre-bid targeting built in, most do now and it cuts IVT flags by like 40-60% before you even serve an impression",
+          "score": 1,
+          "created_utc": 1773506256.0
+        },
+        {
+          "author": "LStonks_420",
+          "body": "You can use blacklists. You can use brand safety or fraud protection segments (dont know how exactly theyre called). Private deals can also help, as you should know exactly where youre getting your inventory.",
+          "score": 1,
+          "created_utc": 1773506288.0
+        },
+        {
+          "author": "linuz14",
+          "body": "But I would avoid to apend extra money with prebid… I would just monitor and add native dsp filter… no chance? ",
+          "score": 1,
+          "created_utc": 1773506727.0
+        },
+        {
+          "author": "linuz14",
+          "body": "If I know inventory like in private why I should use Ias?",
+          "score": 1,
+          "created_utc": 1773506760.0
+        },
+        {
+          "author": "LStonks_420",
+          "body": "Well usually it’s not agency that wants to use IAS but the client. After all it serves mainly as a auditing/quality measurement tool. \nBasically, you use IAS to make sure that the publisher isn’t selling you crappy inventory and also to make sure that you are buying brand safe inventory.\nThe client uses this tool to make sure the agency isn’t selling them crappy inventory and fraud…",
+          "score": 1,
+          "created_utc": 1773506931.0
+        },
+        {
+          "author": "linuz14",
+          "body": "But I mean as far as I’m delivering kpi like session which os the worth of this extra cost? If I increase viewability I’ll lose on cost per session…\nAnd why I can not rely just on dv360 data? Viewavility is tracked as well with no cost… ",
+          "score": 1,
+          "created_utc": 1773507082.0
+        }
+      ]
     }
   ]
 }

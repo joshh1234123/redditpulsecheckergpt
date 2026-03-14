@@ -1,0 +1,22 @@
+{
+  "id": "1rtnrw6",
+  "thread_id": "1rtnrw6",
+  "title": "Ias and meta",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1rtnrw6/ias_and_meta/",
+  "created_utc": 1773505636.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Federal_Standard5917",
+      "body": "what's the actual question here lol, but fwiw IAS on meta is mostly a checkbox for agencies to show clients they're \"brand safe\" - we ran a test last year pulling IAS off a meta campaign for 6 weeks and performance was identical, saved like $0.08 CPM which adds up fast at scale tbh",
+      "score": 1,
+      "created_utc": 1773506267.0
+    },
+    {
+      "author": "linuz14",
+      "body": "So you confirm that there is no value in running ias on social, right? I agree mainly because tool to improve are limited on meta, there are no filters like on a dsp",
+      "score": 1,
+      "created_utc": 1773506868.0
+    }
+  ]
+}
