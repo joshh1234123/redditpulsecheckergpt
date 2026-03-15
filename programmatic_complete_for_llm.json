@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-15T18:29:05.883836+00:00",
-    "total_posts": 1407,
-    "total_comments": 9454
+    "scrape_date": "2026-03-15T19:04:45.782277+00:00",
+    "total_posts": 1408,
+    "total_comments": 9455
   },
   "discussions": [
     {
@@ -77443,6 +77443,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ruluct",
+      "title": "How do people actually find jobs in ad agencies?",
+      "author": "breadpakoraa",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ruluct/how_do_people_actually_find_jobs_in_ad_agencies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ruluct/how_do_people_actually_find_jobs_in_ad_agencies/",
+      "created_utc": 1773599754.0,
+      "content": "Hello everyone,\nI have around five months of work experience in programmatic advertising, where I worked primarily on DV360 and also got exposure to Amazon DSP. Before that, I completed a digital marketing program where I was trained on Google Ads, Meta Ads, Amazon Ads, and programmatic, and I also ran one campaign each on those platforms as part of my training.\n\nI’m specifically looking to continue in the programmatic domain, because I genuinely found it  interesting and the area I want to build my career in. Ideally, I’m trying to get into another ad agency in India in a programmatic analyst/executive type role.\n\nThe issue is that I had to leave my previous job (a famous Japanese ad agency)very early due to a very toxic work culture and office politics, and it has only been about a week since then. I’ve been applying to openings but haven’t received any responses yet.\n\nI also try reaching out to people on LinkedIn for referrals. Some don’t respond, and some seem reluctant to refer even when I match most of the role requirements. I don’t have many strong personal connections in the industry either.\nI even have contacts of HR professionals and have tried reaching out through email or WhatsApp, but most of them don’t respond either.\n\nAt this point I’m honestly feeling quite hopeless and confused about how people actually land jobs again, especially early in their career.\n\nFor those working in Indian ad agencies, how did you actually manage to get your next role? Is there something I might be doing wrong in my approach?\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "Reach out to your institute alums. They are in all agencies so you have better chances than cold approaches.",
+          "score": 1,
+          "created_utc": 1773600629.0
+        }
+      ]
     }
   ]
 }

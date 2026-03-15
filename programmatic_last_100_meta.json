@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1r9gizj",
-      "title": "Agency rebates",
-      "author": "AngleApart4424",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1r9gizj/agency_rebates/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1r9gizj/agency_rebates/",
-      "created_utc": 1771547369.0,
-      "content": "Does anyone else think this guy is full of shit? https://www.adweek.com/agencies/why-i-returned-six-figures-in-media-rebates-to-clients-in-2025/",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1r9qijs",
       "title": "Seeking UAE based Programmatic Roles| 3+ Yrs Exp (Mumbai)",
       "author": "Muzzz97",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773524638.0,
       "content": "Making a 'free'source for people just getting into programmatic/marketing, or working with it closely. \n\nI would have found something like this helpful when i started since there are so many. I tried to add details and notes when needed/able. Anything I missed? \n\n* **DSP - Demand Side Platform** \\- Where you access the available ad inventory and buy the channels you added to your funnel/marketing mix\n   * Well known examples of DSPs: DV360 (Display and Video), TTD (The Trade Desk), StackAdapt, Choozle, IQM, Yahoo, MNTN\n   * Each DSP has their pros and cons ranging from Ad Type available to premium placement curation. \n* **SSP - Supply Side Platform** \\- Manages available website/app ad placements\n   * Well known examples of SSPs: Pubmatic, Google Ad Manager (GAM), Magnite, Xandr\n   * This is what programmatic buyers… buy from\n* **PMP - Private Market Place Deal** \\- Custom curated, exclusive, top performing, ad inventory. Step above open auction, step below PG.\n* **PG - Programmatic Guarantee** \\- The opposite of open auction buying. These are set, reserved ad placements where inventory and serving is guaranteed.\n* **KPIs - Key Performance Indicators** \\- How we measure/properly view campaigns and their effectiveness.\n\n   1. **CTR - Click through rate** =(Clicks/Impressions)x100\n   2. **CPM - Cost per Thousand Impressions** =(Cost/Impressions)x1000\n   3. **CPC - Cost per Click**\n   4. **CVR - Conversion Rate**\n   5. **CPV - Cost Per View**\n   6. **CPCV - Cost Per Completed View**\n   7. **VTR - View Thru Rate** =(Completed Views/Impressions)x100\n   8. **ROAS - Return on Ad Spend**\n   9. **CPA or CAC or CPL** \\- **Cost per Acquisition, Cost Acquisition Cost, Cost Per Lead**\n   10. **CTC - Click Thru Conversions**\n   11. **VTC - View Thru Conversions**\n\n* **CTV - Connected TV**\n   * Netflix, Hulu, Disney+, HBO, think streaming services.\n* **OLV - Onlive Video**\n   * These are placements across the Web/Apps that are able to host video, very similar to where Display placements would serve. \n* **OLA - Online Audio** \n   * Think Spotify, Pandora, Soundcloud, Iheart, and others. \n* **OOH - Out Of Home**\n* **DOOH - Digital Out of Home**\n* **RTG - Retargeting**\n   * Audience category consisting of those who have already interacted with your brand/company. Available in most channels.\n* **PSP - Prospecting**\n   * Unlike RTG, PSP is a net new user for you.\n* **LAL - Look a Like**\n   * Falling under PSP, this audience is built off of select 1P audiences, meant to bridge the gap between 1P and 3P in order to boost efficiency and improve performance\n* **1P or 3P - First Party or Third Party (Audiences)**\n   * 1P is based on your data. 3P is based off of other publicly available lists from Data Providers (fee associated). For 3P, available selection is dependent on where you are activating. \n* **MTA - Multitouch Attribution**\n* **LTA - Last Touch Attribution** \n* **MMM - Media Mix Model/Marketing Mix Model** \\- Looking at the entirety (past and present) of your media mix to see what is, and isn't driving true performance. \n* **LTV - Lifetime Value**\n* **CLV - Customer Lifetime Valuerty (Audiences)**\n   * 1P is based on your data. 3P is based off of other publicly available lists from Data Providers (fee associated). For 3P, available selection is dependent on where you are activating. ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ruluct",
+      "title": "How do people actually find jobs in ad agencies?",
+      "author": "breadpakoraa",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ruluct/how_do_people_actually_find_jobs_in_ad_agencies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ruluct/how_do_people_actually_find_jobs_in_ad_agencies/",
+      "created_utc": 1773599754.0,
+      "content": "Hello everyone,\nI have around five months of work experience in programmatic advertising, where I worked primarily on DV360 and also got exposure to Amazon DSP. Before that, I completed a digital marketing program where I was trained on Google Ads, Meta Ads, Amazon Ads, and programmatic, and I also ran one campaign each on those platforms as part of my training.\n\nI’m specifically looking to continue in the programmatic domain, because I genuinely found it  interesting and the area I want to build my career in. Ideally, I’m trying to get into another ad agency in India in a programmatic analyst/executive type role.\n\nThe issue is that I had to leave my previous job (a famous Japanese ad agency)very early due to a very toxic work culture and office politics, and it has only been about a week since then. I’ve been applying to openings but haven’t received any responses yet.\n\nI also try reaching out to people on LinkedIn for referrals. Some don’t respond, and some seem reluctant to refer even when I match most of the role requirements. I don’t have many strong personal connections in the industry either.\nI even have contacts of HR professionals and have tried reaching out through email or WhatsApp, but most of them don’t respond either.\n\nAt this point I’m honestly feeling quite hopeless and confused about how people actually land jobs again, especially early in their career.\n\nFor those working in Indian ad agencies, how did you actually manage to get your next role? Is there something I might be doing wrong in my approach?\n",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
