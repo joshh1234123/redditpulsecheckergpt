@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-16T17:55:30.681295+00:00",
-    "total_posts": 1408,
-    "total_comments": 9455
+    "scrape_date": "2026-03-16T18:52:44.169883+00:00",
+    "total_posts": 1409,
+    "total_comments": 9456
   },
   "discussions": [
     {
@@ -77462,6 +77462,27 @@
           "body": "Reach out to your institute alums. They are in all agencies so you have better chances than cold approaches.",
           "score": 1,
           "created_utc": 1773600629.0
+        }
+      ]
+    },
+    {
+      "id": "1rvi8k3",
+      "title": "Is this good amount of revenue",
+      "author": "Impossible_Art_5570",
+      "score": 1,
+      "url": "https://i.redd.it/dvf7oyit6gpg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rvi8k3/is_this_good_amount_of_revenue/",
+      "created_utc": 1773686713.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Federal_Standard5917",
+          "body": "need more context tbh - what format, what geo, what traffic source? i ran a 300k daily imp pop campaign in tier2 last year pulling $4 CPM and thought it was trash until i realized my fill rate was 94%, most publishers i know are lucky to hit 70%",
+          "score": 1,
+          "created_utc": 1773687099.0
         }
       ]
     }
