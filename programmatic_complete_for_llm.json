@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-17T10:43:02.947700+00:00",
-    "total_posts": 1409,
-    "total_comments": 9456
+    "scrape_date": "2026-03-17T11:38:38.973308+00:00",
+    "total_posts": 1412,
+    "total_comments": 9459
   },
   "discussions": [
     {
@@ -77485,6 +77485,67 @@
           "created_utc": 1773687099.0
         }
       ]
+    },
+    {
+      "id": "1rw3mn6",
+      "title": "Bid factor option in DV360",
+      "author": "Jolly_Profit9571",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rw3mn6/bid_factor_option_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rw3mn6/bid_factor_option_in_dv360/",
+      "created_utc": 1773746091.0,
+      "content": "I have one doubt I am new to DV360, can we add bid factor to specific devices like mobile or browser like safari in dv360 just like TTD if yes where i can find.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Ask the person who is onboarding you.",
+          "score": 1,
+          "created_utc": 1773746539.0
+        },
+        {
+          "author": "Jolly_Profit9571",
+          "body": "I do have platform access but we don't have any campaigns so just wanted to know how we can optimise ",
+          "score": 1,
+          "created_utc": 1773746624.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Google has videos for learning. It’s very important that you are familiar with the platform before opening any flights. You can spend a lot of money very fast if you do not known what you are doing. It doesn’t make sense to try to find basic optimisation tips from reddit. Make sure you have gone through everything the platform has to offer, talk eith your team and if you are still stumped then come here. Nothing bad against you - just that the probability to burn yourself and the company is very high.",
+          "score": 1,
+          "created_utc": 1773747433.0
+        }
+      ]
+    },
+    {
+      "id": "1rw3n0j",
+      "title": "Bid factor option in DV360",
+      "author": "Jolly_Profit9571",
+      "score": 1,
+      "url": "/r/programmatic/comments/1rw3mn6/bid_factor_option_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rw3n0j/bid_factor_option_in_dv360/",
+      "created_utc": 1773746120.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rw3puc",
+      "title": "How are agencies thinking about in-store retail media as a channel today?",
+      "author": "Sea-Break-5365",
+      "score": 1,
+      "url": "/r/googleadmanagerGAM/comments/1rw3ovg/how_are_agencies_thinking_about_instore_retail/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rw3puc/how_are_agencies_thinking_about_instore_retail/",
+      "created_utc": 1773746354.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
