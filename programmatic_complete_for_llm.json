@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T16:52:36.694690+00:00",
-    "total_posts": 1419,
-    "total_comments": 9464
+    "scrape_date": "2026-03-18T17:55:32.816998+00:00",
+    "total_posts": 1421,
+    "total_comments": 9468
   },
   "discussions": [
     {
@@ -77676,6 +77676,60 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rx9gy1",
+      "title": "Please recommend best course for Programmatic…",
+      "author": "asfandyar_khan",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rx9gy1/please_recommend_best_course_for_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rx9gy1/please_recommend_best_course_for_programmatic/",
+      "created_utc": 1773853194.0,
+      "content": "",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Uday23",
+          "body": "Can you be more specific? What are you trying to accomplish?",
+          "score": 4,
+          "created_utc": 1773854300.0
+        },
+        {
+          "author": "asfandyar_khan",
+          "body": "I want to learn DV360 and CM360",
+          "score": 1,
+          "created_utc": 1773854373.0
+        },
+        {
+          "author": "asfandyar_khan",
+          "body": "I am familiar with meta ads and Google ads",
+          "score": 1,
+          "created_utc": 1773854414.0
+        }
+      ]
+    },
+    {
+      "id": "1rxasb8",
+      "title": "Adroll?",
+      "author": "External_Treacle5039",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxasb8/adroll/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxasb8/adroll/",
+      "created_utc": 1773855975.0,
+      "content": "Anyone ever use AdRoll before? Curious on your thoughts.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "What would they offer that would be unique/compelling to you",
+          "score": 1,
+          "created_utc": 1773856193.0
+        }
+      ]
     }
   ]
 }
