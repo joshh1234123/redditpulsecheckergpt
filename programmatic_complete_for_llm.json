@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T21:56:17.723704+00:00",
-    "total_posts": 1423,
+    "scrape_date": "2026-03-18T22:27:52.333672+00:00",
+    "total_posts": 1424,
     "total_comments": 9469
   },
   "discussions": [
@@ -77762,6 +77762,20 @@
       "created_utc": 1773865893.0,
       "content": "Local digital sign I think was Lamar now acquired by Outfront. Trying to find Self Service so i can try to run a campaign on that sign. I was using another tool but do not trust the targeting. Looking for other tool options.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rxhzsp",
+      "title": "I need help choosing a programmatic TV solution",
+      "author": "I-Lika_Do-Da_Cha-Cha",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxhzsp/i_need_help_choosing_a_programmatic_tv_solution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxhzsp/i_need_help_choosing_a_programmatic_tv_solution/",
+      "created_utc": 1773871759.0,
+      "content": "I have a decade of experience running search, social, display, and SEO campaigns, but when it comes to TV ads I am at a loss.\n\nI started with the Roku Ads platform, but delivery is limited to Roku devices which isn't ideal.\n\nI switched to Vibe, because they have an awesome campaign builder, decent targeting options, and okay reporting. But I felt like I was overpaying on CPM. Wasn't sure of the quality of inventory either.\n\nNow I have a spot thru an agency on the Amazon DSP. I'm excited by the first party data, but underwhelmed by the flexibility of campaign settings (you can't even daypart) and again I'm still not sure of inventory quality because suddenly my CPMs are $10. The inventory report is almost all Samsung TV Plus.\n\nI've done a lot of research and found other solutions like Magnite, Index Exchange, and Freewheel, but I don't know how to gauge which is best.\n\nDo I need a new ad platform or should I just increase my CPM bid to \"guarantee\" better ad placement?\n\nI would appreciate if any of your programmatic TV experts could chime in. Thanks!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null,
       "comments": []
