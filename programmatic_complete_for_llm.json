@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T04:05:42.660066+00:00",
-    "total_posts": 1415,
+    "scrape_date": "2026-03-18T05:44:32.485379+00:00",
+    "total_posts": 1416,
     "total_comments": 9464
   },
   "discussions": [
@@ -77616,6 +77616,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rwjz96/adform_sent_me_to_collections_middispute_spam/",
       "created_utc": 1773782768.0,
       "content": "I need to vent about my experience with Adform. Not here to bash for the sake of it, just sharing what happened so others can go in with eyes open.\n\nThe platform failed to protect against fraud. Our campaign was flooded with fraudulent impressions and clicks. Their anti-fraud guardrails don’t actually block bad traffic, they just quietly redact it from reporting after the fact. You’re still paying for it, you just don’t see it clearly. The campaign was effectively useless from the start.\n\nWe’re not refusing to pay. We’re asking for a corrected invoice. There are clear discrepancies: prepaid credit that was never proactively applied (I had to flag it myself before they acknowledged it), and a credit amount that their own platform shows differently than what their collections team claims. I provided a screenshot. Their response? “I’m not certain why the system displayed that on your side.” No correction. No explanation. Just pay what we say.\n\nTo top it off, the invoice was due March 17. They only provided the full payment breakdown on March 16, sixteen days after sending the invoice, and by then it had already been escalated to collections. We were still actively disputing the charges over email. No resolution, no corrected invoice, no acknowledgment of the discrepancies. Just a payment demand.\n\nThe willingness to pay is there. The trust in their figures is not, and that’s entirely on them.\n\nIf you’re evaluating Adform, understand that their billing process appears to assume you won’t scrutinize the numbers. And if you do, don’t expect good faith in return.\n\nHas anyone else dealt with this kind of billing behavior from them?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rwuzlo",
+      "title": "Seeking Advice on Programmatic Roles Abroad",
+      "author": "Inside-Valuable2645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rwuzlo/seeking_advice_on_programmatic_roles_abroad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rwuzlo/seeking_advice_on_programmatic_roles_abroad/",
+      "created_utc": 1773811000.0,
+      "content": "Has anyone got overseas or onsite opportunities in programmatic through internal transfers to Europe or USA? If yes, how did you get the onsite opportunity? I am never heard about onsite opportunities, how can one secure an onsite opportunity? Also, which companies provide onsite opportunities abroad in programmatic?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
