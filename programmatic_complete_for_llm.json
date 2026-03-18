@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T19:44:06.835710+00:00",
-    "total_posts": 1421,
-    "total_comments": 9468
+    "scrape_date": "2026-03-18T20:29:03.583843+00:00",
+    "total_posts": 1422,
+    "total_comments": 9469
   },
   "discussions": [
     {
@@ -77728,6 +77728,27 @@
           "body": "What would they offer that would be unique/compelling to you",
           "score": 1,
           "created_utc": 1773856193.0
+        }
+      ]
+    },
+    {
+      "id": "1rxedx2",
+      "title": "CTV partners/DSPs with low fees?",
+      "author": "Fearless-Change-3779",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxedx2/ctv_partnersdsps_with_low_fees/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxedx2/ctv_partnersdsps_with_low_fees/",
+      "created_utc": 1773863735.0,
+      "content": "With whatever the heck is going on with Trade Desk, what are some DSPs that have reasonable fees? amazon, Yahoo, Magnite, stackadapt, viant, etc.? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Yahoo - does not charge for ID, or 1P data usage, low platform fee, you will pay nowhere near 40% margin like TTD. Plus it has unique data and the other ones (outside amazon) do not have that...",
+          "score": 0,
+          "created_utc": 1773864885.0
         }
       ]
     }
