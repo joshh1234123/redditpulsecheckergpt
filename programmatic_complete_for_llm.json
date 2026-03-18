@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T20:29:03.583843+00:00",
-    "total_posts": 1422,
+    "scrape_date": "2026-03-18T21:03:47.085397+00:00",
+    "total_posts": 1423,
     "total_comments": 9469
   },
   "discussions": [
@@ -77751,6 +77751,20 @@
           "created_utc": 1773864885.0
         }
       ]
+    },
+    {
+      "id": "1rxfeb6",
+      "title": "Any self service DOOH have access to Outfront?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxfeb6/any_self_service_dooh_have_access_to_outfront/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxfeb6/any_self_service_dooh_have_access_to_outfront/",
+      "created_utc": 1773865893.0,
+      "content": "Local digital sign I think was Lamar now acquired by Outfront. Trying to find Self Service so i can try to run a campaign on that sign. I was using another tool but do not trust the targeting. Looking for other tool options.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

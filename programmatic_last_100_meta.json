@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rci7qm",
-      "title": "Do PMPs actually perform better than open exchange inventory?",
-      "author": "TapMind",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rci7qm/do_pmps_actually_perform_better_than_open/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rci7qm/do_pmps_actually_perform_better_than_open/",
-      "created_utc": 1771855281.0,
-      "content": "In many cases yes, especially for brand campaigns.\n\nPrivate marketplaces usually give:\n\nHigher viewability\n\nBetter placements\n\nLower fraud\n\nBut performance campaigns sometimes still win on the open exchange simply because of cheap scale.\n\nMany buyers split budgets across both using SSPs like Magnite and PubMatic.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rcn42b",
       "title": "Amazon Ads Report issue",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773863735.0,
       "content": "With whatever the heck is going on with Trade Desk, what are some DSPs that have reasonable fees? amazon, Yahoo, Magnite, stackadapt, viant, etc.? ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rxfeb6",
+      "title": "Any self service DOOH have access to Outfront?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxfeb6/any_self_service_dooh_have_access_to_outfront/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxfeb6/any_self_service_dooh_have_access_to_outfront/",
+      "created_utc": 1773865893.0,
+      "content": "Local digital sign I think was Lamar now acquired by Outfront. Trying to find Self Service so i can try to run a campaign on that sign. I was using another tool but do not trust the targeting. Looking for other tool options.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
