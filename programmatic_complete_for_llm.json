@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-18T15:45:47.631625+00:00",
-    "total_posts": 1417,
+    "scrape_date": "2026-03-18T16:52:36.694690+00:00",
+    "total_posts": 1419,
     "total_comments": 9464
   },
   "discussions": [
@@ -77644,6 +77644,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rx0po1/i_mean_we_all_see_whats_happening_here_right/",
       "created_utc": 1773831539.0,
       "content": "https://preview.redd.it/141fst6ubspg1.png?width=708&format=png&auto=webp&s=644e07e1e182fb7fc9a34fa9cbaf71f180b1853a\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rx8k6a",
+      "title": "Do you use floodlight and GA4 in all your campaigns?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rx8k6a/do_you_use_floodlight_and_ga4_in_all_your/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rx8k6a/do_you_use_floodlight_and_ga4_in_all_your/",
+      "created_utc": 1773851189.0,
+      "content": "I'm curious, are these tools combo a common things across different programmatic environments for all campaigns or just lower funnel? What's the norm? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1rx963u",
+      "title": "TTD",
+      "author": "AngleApart4424",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rx963u/ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rx963u/ttd/",
+      "created_utc": 1773852531.0,
+      "content": "I for one am tired of all\n\nThis negative press on them. It’s a free market, there’s so many options, and honestly WPP is not the model employer. They have a huge agreement w zeta that takes like 70% margins on campaigns but was signed off due to executive friendliness I mean rebates. Similar agreements with small\n\nPlayers all bc they get kickbacks. You don’t like TTD, cool, there’s like 12+ DSPs hungry for that business.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
