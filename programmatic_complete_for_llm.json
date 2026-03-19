@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-19T14:27:15.904848+00:00",
-    "total_posts": 1425,
+    "scrape_date": "2026-03-19T15:11:44.684798+00:00",
+    "total_posts": 1426,
     "total_comments": 9470
   },
   "discussions": [
@@ -77800,6 +77800,20 @@
           "created_utc": 1773902666.0
         }
       ]
+    },
+    {
+      "id": "1ry2urs",
+      "title": "Supreme Leader Jeff",
+      "author": "Joaquin_Chiller",
+      "score": 0,
+      "url": "https://i.redd.it/5l12awdho0qg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry2urs/supreme_leader_jeff/",
+      "created_utc": 1773932633.0,
+      "content": "Supreme Leader Jeff reminds you if you want to keep a secret, you must also hide it from yourself",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

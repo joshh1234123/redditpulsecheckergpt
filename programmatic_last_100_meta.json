@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rdl9cq",
-      "title": "Trading Specialist Interview Questions.",
-      "author": "OutlandishnessOwn791",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rdl9cq/trading_specialist_interview_questions/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdl9cq/trading_specialist_interview_questions/",
-      "created_utc": 1771951289.0,
-      "content": "Hi folks, I was wondering if someone could help me. I will have an interview with a hiring manager of a very well-known DSP for a Trading Specialist position (UK). I've never worked as a trader before, but I have 3+ years of experience in the AdTech industry in similar roles. What kind of question could I expect from this interview? Could someone tell me their experience? Thanks a lot. ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rdowh8",
       "title": "Anyone working in programmatic in UAE? Need real insights 🙏",
       "author": "Possible_Eggplant_79",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773902311.0,
       "content": "Hey, I just dropped a new thing on GitHub, that could be helpful to some of you. It's called HTML5 Spec Guard and it is a agent-native python toolkit for HMTL5 banner validation. In the first version I've added support for CM360, DV360, TTD, Adform and Amazon DSP as far as the docs and initial tests allowed to do so.\n\nYou can use it either locally as a CLI tool or as an agent-skill (built mainly for Claude (Code), but since it's built with the Agent Skills format in mind, it should work for Codex and other tools as well - but I didn't test that yet). Basically you could also integrate it into other workflows, sky's the limit haha.\n\n  \nPotential Use Cases amongst others:\n\n* quickly validate/audit HTML5 Banners cross-platform in bulk + optionally use the output to brief the creative agency with concrete fixing-suggestions\n* validate/audit beyond \"regular\" specs and check for potential violations of the Chrome Heavy Ad Interventions (CPU usage etc.)\n* when used as a skill (e.g. with Claude Code) you can potentially even fix reported issues right away or transform certain banner-sets from one platform to the other (but this isn't baked into the skill yet, but most flagship LLMs should be able to handle it with their own brain)\n\n\n\nTo be honest the initial version is not perfect and a bit buggy here and there, but I think with some community love this could become a nice helper that saves all of us some time and energy. :-D\n\nHappy to receive feedback & optimization suggestions - either as a comment, message or directly on GitHub as Issue/PR.\n\n\n\nLink: [https://github.com/guedietz/html5-spec-guard](https://github.com/guedietz/html5-spec-guard)\n\n(for transparency reasons - yes, this is vibe coded - I used Claude Code. :-D)\n\n  \n",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ry2urs",
+      "title": "Supreme Leader Jeff",
+      "author": "Joaquin_Chiller",
+      "score": 0,
+      "url": "https://i.redd.it/5l12awdho0qg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry2urs/supreme_leader_jeff/",
+      "created_utc": 1773932633.0,
+      "content": "Supreme Leader Jeff reminds you if you want to keep a secret, you must also hide it from yourself",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
