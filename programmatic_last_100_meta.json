@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rebzs6",
-      "title": "Something interesting keeps coming up in conversations about sales agents and agentic workflows...",
-      "author": "Relevant-Ad-8461",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rebzs6/something_interesting_keeps_coming_up_in/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rebzs6/something_interesting_keeps_coming_up_in/",
-      "created_utc": 1772022836.0,
-      "content": "Most discussions focus on automation itself, but the real bottleneck on the sell side often sits elsewhere fragmented ownership, manual coordination between teams, and decisions spread across too many systems.  \n  \nWe started seeing this more clearly while working with teams testing our open free of charge sales-agent AdCP setup: automation doesn’t remove unclear workflows, it exposes them. The more automation layers appear, the more obvious it becomes that vague goals and fragmented ownership don’t disappear - they just scale faster.  \n  \nWhat part of sell-side work is still hardest to automate in practice, and where does automation actually create value today? Curious how others see this and happy to discuss",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1refb6f",
       "title": "Eu administro um funil de arbitragem financeira (empréstimos) (tráfego pago → questionário → monetização programática + geração de leads).",
       "author": "Infinite-Mall7540",
@@ -1302,6 +1289,19 @@
       "created_utc": 1773939603.0,
       "content": "**With the most recent news it seems like EVERYONE is again talking about lack of transparency and hidden fees surrounding some DSPs.** \n\nPublicis just dropped The Trade Desk from its recommended DSP list after an audit allegedly found multiple violations of improper fee stacking, auto-enrollment in unauthorized tools, and resistance to validating at-cost media pricing. [Adage](https://adage.com/agencies/aa-publicis-stops-recommending-the-trade-desk-after-audit/)\n\nThe irony? TTD has been building its brand [accusing SSPs of being opaque resellers](https://digiday.com/marketing/the-trade-desks-redefinition-of-supply-paths-ripples-across-ad-tech/) via OpenPath.  Now those same transparency accusations are being turned back on them, except opaque billing practices arguably hit advertisers far more directly than reselling ever did.\n\nMeanwhile, SSPs aren't waiting. Butler/Till just ran the first real agentic media-buying test with PubMatic via their \"AgenticOS\" which flows through their bidder Activate, cutting supply chain costs by 82% and lifting impressions 40% by routing around the DSP entirely. ([Digiday](https://digiday.com/media-buying/butler-tills-first-agentic-media-buying-tests-cut-media-and-supply-chain-costs/)) An AI agent talked directly to PubMatic's inventory stack. No DSP. No DSP fees. \n\nAs other DSPs and SSP's begin capitalizing on these A.I. plays, where do you think legacy DSPs like TTD will end up in the next few years? Is it in Jeff we trust or is it time for an even bigger shift?   \n",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ry6xw0",
+      "title": "How long before I receive an answer from Google.",
+      "author": "Adam7390",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ry6xw0/how_long_before_i_receive_an_answer_from_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry6xw0/how_long_before_i_receive_an_answer_from_google/",
+      "created_utc": 1773941659.0,
+      "content": "So I sent a request to their sales team few hours ago, showing interest in their product DV360. I sent them my general information and the name of the company I work for. Will I get an answer or just get ghosted?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

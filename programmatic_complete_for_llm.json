@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-19T17:30:13.635021+00:00",
-    "total_posts": 1429,
+    "scrape_date": "2026-03-19T18:09:37.928281+00:00",
+    "total_posts": 1430,
     "total_comments": 9478
   },
   "discussions": [
@@ -77906,6 +77906,20 @@
           "created_utc": 1773941259.0
         }
       ]
+    },
+    {
+      "id": "1ry6xw0",
+      "title": "How long before I receive an answer from Google.",
+      "author": "Adam7390",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ry6xw0/how_long_before_i_receive_an_answer_from_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry6xw0/how_long_before_i_receive_an_answer_from_google/",
+      "created_utc": 1773941659.0,
+      "content": "So I sent a request to their sales team few hours ago, showing interest in their product DV360. I sent them my general information and the name of the company I work for. Will I get an answer or just get ghosted?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
