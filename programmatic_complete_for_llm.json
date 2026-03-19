@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-19T16:13:40.109676+00:00",
-    "total_posts": 1427,
-    "total_comments": 9470
+    "scrape_date": "2026-03-19T17:30:13.635021+00:00",
+    "total_posts": 1429,
+    "total_comments": 9478
   },
   "discussions": [
     {
@@ -77828,6 +77828,84 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ry5xfs",
+      "title": "HoldCo Blackbox Margin and Rebates",
+      "author": "VFL2015",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ry5xfs/holdco_blackbox_margin_and_rebates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry5xfs/holdco_blackbox_margin_and_rebates/",
+      "created_utc": 1773939451.0,
+      "content": "I started at an Agency Trade Desk where it was real simple how the HoldCo was taking margin. One of agencies in the HoldCo would give us a programmatic campaign, the Agency Trade Desk would put 50% of that money into the DSP and pocket the other 50%. \nAfter the 2016 ANA Report clients slowly started to demand to have transparency into how much margin the Agency Trade Desk was taking and it was the beginning of the end for many HoldCos black box agency trading desks. \n\nNow HoldCos have gotten smarter how they are taking margin. Here is the list of them below.\n-Straight Rebates - Example - WPP has a rebate deal with Zeta. WPP gets their agencies to push money to Zeta where Zeta pockets 60%-70% and then they kickback a percentage of the spend on a quarterly basis to the HoldCo\n-Post Auction Discounts - Example - HoldCos get a rebate on a percentage of spend that goes through SSP partners like Magnite or OpenX. The kickback for this is usually <5%\n-Principal Media - Example -Publicis has their own SSP with Epsilon. They curate the data and inventory together and make a 50% margin\n-HoldCo Audiences - Some HoldCos who have bought data companies sell in their audiences to clients on digital campaigns. These are usually twice as expensive as comparable agnostic data providers\n\nThis is all on top of agency fees and tech fees for the platforms. You would think that with all these different ways of making margins that some would trickle down to the employees at the agencies unfortunately from my experience that's not the case.\n\nAm I missing any other ways that HoldCos are making margin?",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Guilty-Ordinary7059",
+          "body": "There is validity to what Jeff is saying, but going after agencies publicly is dubious at best. ",
+          "score": 3,
+          "created_utc": 1773940346.0
+        },
+        {
+          "author": "Gonzofox89",
+          "body": "The biggest black box is people on the account, especially on the FTE model, you have a lot of people who are supposed to be 100% on one big client also work on a couple of smaller clients aswell. Unlike tech fees it's much harder to audit this ",
+          "score": 2,
+          "created_utc": 1773940398.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "How much is TTD paying you to post this?",
+          "score": 0,
+          "created_utc": 1773939594.0
+        },
+        {
+          "author": "srymom",
+          "body": "How much is Publicis paying you to post this?",
+          "score": 3,
+          "created_utc": 1773940076.0
+        },
+        {
+          "author": "VFL2015",
+          "body": "I am anti blackbox everything including OpenPath",
+          "score": 2,
+          "created_utc": 1773939959.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "Not enough because their RSUs keep losing value every day that goes by is the answer. ",
+          "score": 1,
+          "created_utc": 1773940127.0
+        }
+      ]
+    },
+    {
+      "id": "1ry5zvy",
+      "title": "Publicis just audited The Trade Desk and dropped them. Meanwhile an AI agent ran a real campaign without a DSP at all.",
+      "author": "Affectionate-Bid9244",
+      "score": 6,
+      "url": "https://digiday.com/media-buying/butler-tills-first-agentic-media-buying-tests-cut-media-and-supply-chain-costs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry5zvy/publicis_just_audited_the_trade_desk_and_dropped/",
+      "created_utc": 1773939603.0,
+      "content": "**With the most recent news it seems like EVERYONE is again talking about lack of transparency and hidden fees surrounding some DSPs.** \n\nPublicis just dropped The Trade Desk from its recommended DSP list after an audit allegedly found multiple violations of improper fee stacking, auto-enrollment in unauthorized tools, and resistance to validating at-cost media pricing. [Adage](https://adage.com/agencies/aa-publicis-stops-recommending-the-trade-desk-after-audit/)\n\nThe irony? TTD has been building its brand [accusing SSPs of being opaque resellers](https://digiday.com/marketing/the-trade-desks-redefinition-of-supply-paths-ripples-across-ad-tech/) via OpenPath.  Now those same transparency accusations are being turned back on them, except opaque billing practices arguably hit advertisers far more directly than reselling ever did.\n\nMeanwhile, SSPs aren't waiting. Butler/Till just ran the first real agentic media-buying test with PubMatic via their \"AgenticOS\" which flows through their bidder Activate, cutting supply chain costs by 82% and lifting impressions 40% by routing around the DSP entirely. ([Digiday](https://digiday.com/media-buying/butler-tills-first-agentic-media-buying-tests-cut-media-and-supply-chain-costs/)) An AI agent talked directly to PubMatic's inventory stack. No DSP. No DSP fees. \n\nAs other DSPs and SSP's begin capitalizing on these A.I. plays, where do you think legacy DSPs like TTD will end up in the next few years? Is it in Jeff we trust or is it time for an even bigger shift?   \n",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "JimmyTango",
+          "body": "Jeff: Programmatic is perfect for AI and reducing inefficiency and waste. \n\nAlso Jeff: No not like that!!!",
+          "score": 2,
+          "created_utc": 1773940235.0
+        },
+        {
+          "author": "BarDown34",
+          "body": "I can understand why this is the case....but so far all of this information between Publicis vs TTD seems like a lot of \"he-said, she-said\" fighting with no explicit findings or results. Publicis says they failed an Audit, TTD says they didnt event provide the all of the data Publicis requested, but Publicis did the audit anyway? And the Publicis response is basically \"no that's wrong\". We'll never get the real details.\n\n  \nUnfortunately, TTD just cant win right now. People dont like TTD fees = lose. People dont like when they build an alternative supply path for brands (OpenPath) = lose. \n\n  \nSupply path optimization (broadly speaking) has arguably been the biggest challenge in the programmatic space since its inception. Internet advertising (including programmatic) was built-on, and continues to operate on antiquated supply systems that favor the middle-man. The solution seems impossible - but that's going to determine the future of internet advertising and the relationship between seller-dsp-brand",
+          "score": 1,
+          "created_utc": 1773941259.0
+        }
+      ]
     }
   ]
 }

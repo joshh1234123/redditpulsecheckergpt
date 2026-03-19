@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rdsgki",
-      "title": "Who’s Ready for another TTD Earnings Call? Don’t sweat it we got you covered this quarter! Order now!",
-      "author": "HairySprinkles7369",
-      "score": 1,
-      "url": "https://v.redd.it/qt47xs1hailg1",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdsgki/whos_ready_for_another_ttd_earnings_call_dont/",
-      "created_utc": 1771966623.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rdsj2n",
-      "title": "What to watch out for when choosing publishers?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rdsj2n/what_to_watch_out_for_when_choosing_publishers/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdsj2n/what_to_watch_out_for_when_choosing_publishers/",
-      "created_utc": 1771966773.0,
-      "content": "What are some steps you always take to make sure you are buying quality inventory and aren't getting scammed by any publisher or reseller? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rebzs6",
       "title": "Something interesting keeps coming up in conversations about sales agents and agentic workflows...",
       "author": "Relevant-Ad-8461",
@@ -1302,6 +1276,32 @@
       "created_utc": 1773935573.0,
       "content": "So it's more of a cry for help than a rant session. I have been job hunting for the role of programmatic within India market for so long. but I am not able to understand why big agencies or a small scale agencies have so many filters to give us a job. For example, some of the agency is asking to work on the big lengthy assignments to assesment, some of the agencies are very much hesitant with 90 days of notice period which in first place I can't resign with out any offer letter and some of the agency are only able to give 5 to 10% of Hike which is very less. I mean why should I switch a company with this much less of a hike? \n\nStruggle is real and I am out of my ways on how anymore start looking for the job because I am desperate to switch and I know I have a potential and I believe in myself but the constant rejection, its really making me feels so frustrated and so much tired that I don't know what to do. Any advice?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ry5xfs",
+      "title": "HoldCo Blackbox Margin and Rebates",
+      "author": "VFL2015",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ry5xfs/holdco_blackbox_margin_and_rebates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry5xfs/holdco_blackbox_margin_and_rebates/",
+      "created_utc": 1773939451.0,
+      "content": "I started at an Agency Trade Desk where it was real simple how the HoldCo was taking margin. One of agencies in the HoldCo would give us a programmatic campaign, the Agency Trade Desk would put 50% of that money into the DSP and pocket the other 50%. \nAfter the 2016 ANA Report clients slowly started to demand to have transparency into how much margin the Agency Trade Desk was taking and it was the beginning of the end for many HoldCos black box agency trading desks. \n\nNow HoldCos have gotten smarter how they are taking margin. Here is the list of them below.\n-Straight Rebates - Example - WPP has a rebate deal with Zeta. WPP gets their agencies to push money to Zeta where Zeta pockets 60%-70% and then they kickback a percentage of the spend on a quarterly basis to the HoldCo\n-Post Auction Discounts - Example - HoldCos get a rebate on a percentage of spend that goes through SSP partners like Magnite or OpenX. The kickback for this is usually <5%\n-Principal Media - Example -Publicis has their own SSP with Epsilon. They curate the data and inventory together and make a 50% margin\n-HoldCo Audiences - Some HoldCos who have bought data companies sell in their audiences to clients on digital campaigns. These are usually twice as expensive as comparable agnostic data providers\n\nThis is all on top of agency fees and tech fees for the platforms. You would think that with all these different ways of making margins that some would trickle down to the employees at the agencies unfortunately from my experience that's not the case.\n\nAm I missing any other ways that HoldCos are making margin?",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ry5zvy",
+      "title": "Publicis just audited The Trade Desk and dropped them. Meanwhile an AI agent ran a real campaign without a DSP at all.",
+      "author": "Affectionate-Bid9244",
+      "score": 6,
+      "url": "https://digiday.com/media-buying/butler-tills-first-agentic-media-buying-tests-cut-media-and-supply-chain-costs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry5zvy/publicis_just_audited_the_trade_desk_and_dropped/",
+      "created_utc": 1773939603.0,
+      "content": "**With the most recent news it seems like EVERYONE is again talking about lack of transparency and hidden fees surrounding some DSPs.** \n\nPublicis just dropped The Trade Desk from its recommended DSP list after an audit allegedly found multiple violations of improper fee stacking, auto-enrollment in unauthorized tools, and resistance to validating at-cost media pricing. [Adage](https://adage.com/agencies/aa-publicis-stops-recommending-the-trade-desk-after-audit/)\n\nThe irony? TTD has been building its brand [accusing SSPs of being opaque resellers](https://digiday.com/marketing/the-trade-desks-redefinition-of-supply-paths-ripples-across-ad-tech/) via OpenPath.  Now those same transparency accusations are being turned back on them, except opaque billing practices arguably hit advertisers far more directly than reselling ever did.\n\nMeanwhile, SSPs aren't waiting. Butler/Till just ran the first real agentic media-buying test with PubMatic via their \"AgenticOS\" which flows through their bidder Activate, cutting supply chain costs by 82% and lifting impressions 40% by routing around the DSP entirely. ([Digiday](https://digiday.com/media-buying/butler-tills-first-agentic-media-buying-tests-cut-media-and-supply-chain-costs/)) An AI agent talked directly to PubMatic's inventory stack. No DSP. No DSP fees. \n\nAs other DSPs and SSP's begin capitalizing on these A.I. plays, where do you think legacy DSPs like TTD will end up in the next few years? Is it in Jeff we trust or is it time for an even bigger shift?   \n",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
