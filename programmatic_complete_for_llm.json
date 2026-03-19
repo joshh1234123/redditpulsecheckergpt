@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-19T20:41:17.668955+00:00",
-    "total_posts": 1431,
-    "total_comments": 9478
+    "scrape_date": "2026-03-19T21:28:58.395025+00:00",
+    "total_posts": 1432,
+    "total_comments": 9481
   },
   "discussions": [
     {
@@ -77934,6 +77934,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1rybug5",
+      "title": "CTV minimum spends are insane . What's your breaking point?",
+      "author": "InevitableImpress850",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rybug5/ctv_minimum_spends_are_insane_whats_your_breaking/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rybug5/ctv_minimum_spends_are_insane_whats_your_breaking/",
+      "created_utc": 1773953059.0,
+      "content": "Just got quoted $25K minimum for a Q2 CTV campaign. For a startup doing $500K ARR.\n\nI get that TV inventory costs money, but these minimums feel like they're designed to keep smaller players out. Meanwhile, I'm spending $10K/month on Meta with diminishing returns.\n\nWhat's the lowest minimum you've seen for quality CTV inventory? And at what point do you just say screw it and stick with digital?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "kapt_so_krunchy",
+          "body": "What are the lowest spends I’ve seen? Like $100/day. \n\nDid it get results? No. \n\nSo many of these CTV providers need to hit certain benchmarks for retention and growth. \n\nIf you’re going to spend $2000 or whatever, it’s probably not going to deliver any results and the well has been poisoned.\n\nYou probably won’t use them again and you’ll say how bad the experience was over all. \n\nSo to your point, yeah they’re trying to gate keep a bit so they don’t have to deal with small spending clients taking up all of their CS resources. ",
+          "score": 1,
+          "created_utc": 1773954147.0
+        },
+        {
+          "author": "Former_Tea1131",
+          "body": "Honestly, on/under $50K on CTV will get you low quality inventory. You'll need way more to get meaningful data and avoid audience fragmentation. At your ARR, you could maybe try a selfserve platform first before committing to managed service minimums.",
+          "score": 1,
+          "created_utc": 1773954352.0
+        },
+        {
+          "author": "NiceStraightMan",
+          "body": "That quote’s pretty standard for managed buys, but yeah it stings at your size. You don’t need to jump in at that level. Some self-serve options like MNTN or StackAdapt let you start lower and test without committing your whole quarter’s budget.",
+          "score": 1,
+          "created_utc": 1773955303.0
+        }
+      ]
     }
   ]
 }
