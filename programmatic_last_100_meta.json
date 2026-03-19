@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rdhr66",
-      "title": "What makes DOOH “investable” vs just “inventory”?",
-      "author": "sanjeevrc",
-      "score": 0,
-      "url": "https://i.redd.it/qkhysfclz8lg1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rdhr66/what_makes_dooh_investable_vs_just_inventory/",
-      "created_utc": 1771943461.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rdl9cq",
       "title": "Trading Specialist Interview Questions.",
       "author": "OutlandishnessOwn791",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rxhzsp/i_need_help_choosing_a_programmatic_tv_solution/",
       "created_utc": 1773871759.0,
       "content": "I have a decade of experience running search, social, display, and SEO campaigns, but when it comes to TV ads I am at a loss.\n\nI started with the Roku Ads platform, but delivery is limited to Roku devices which isn't ideal.\n\nI switched to Vibe, because they have an awesome campaign builder, decent targeting options, and okay reporting. But I felt like I was overpaying on CPM. Wasn't sure of the quality of inventory either.\n\nNow I have a spot thru an agency on the Amazon DSP. I'm excited by the first party data, but underwhelmed by the flexibility of campaign settings (you can't even daypart) and again I'm still not sure of inventory quality because suddenly my CPMs are $10. The inventory report is almost all Samsung TV Plus.\n\nI've done a lot of research and found other solutions like Magnite, Index Exchange, and Freewheel, but I don't know how to gauge which is best.\n\nDo I need a new ad platform or should I just increase my CPM bid to \"guarantee\" better ad placement?\n\nI would appreciate if any of your programmatic TV experts could chime in. Thanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rxt324",
+      "title": "HTML5 Spec Guard / Agent Skill + CLI Tool",
+      "author": "mcpapaya",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rxt324/html5_spec_guard_agent_skill_cli_tool/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxt324/html5_spec_guard_agent_skill_cli_tool/",
+      "created_utc": 1773902311.0,
+      "content": "Hey, I just dropped a new thing on GitHub, that could be helpful to some of you. It's called HTML5 Spec Guard and it is a agent-native python toolkit for HMTL5 banner validation. In the first version I've added support for CM360, DV360, TTD, Adform and Amazon DSP as far as the docs and initial tests allowed to do so.\n\nYou can use it either locally as a CLI tool or as an agent-skill (built mainly for Claude (Code), but since it's built with the Agent Skills format in mind, it should work for Codex and other tools as well - but I didn't test that yet). Basically you could also integrate it into other workflows, sky's the limit haha.\n\n  \nPotential Use Cases amongst others:\n\n* quickly validate/audit HTML5 Banners cross-platform in bulk + optionally use the output to brief the creative agency with concrete fixing-suggestions\n* validate/audit beyond \"regular\" specs and check for potential violations of the Chrome Heavy Ad Interventions (CPU usage etc.)\n* when used as a skill (e.g. with Claude Code) you can potentially even fix reported issues right away or transform certain banner-sets from one platform to the other (but this isn't baked into the skill yet, but most flagship LLMs should be able to handle it with their own brain)\n\n\n\nTo be honest the initial version is not perfect and a bit buggy here and there, but I think with some community love this could become a nice helper that saves all of us some time and energy. :-D\n\nHappy to receive feedback & optimization suggestions - either as a comment, message or directly on GitHub as Issue/PR.\n\n\n\nLink: [https://github.com/guedietz/html5-spec-guard](https://github.com/guedietz/html5-spec-guard)\n\n(for transparency reasons - yes, this is vibe coded - I used Claude Code. :-D)\n\n  \n",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
