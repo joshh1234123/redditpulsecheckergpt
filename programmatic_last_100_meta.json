@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rf3wws",
-      "title": "Do you know any valuable reports on Curation?",
-      "author": "Aerodynamic_8",
-      "score": 1,
-      "url": "/r/adtech/comments/1reepj4/do_you_know_any_valuable_reports_on_curation/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rf3wws/do_you_know_any_valuable_reports_on_curation/",
-      "created_utc": 1772091283.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rfc89n",
       "title": "Comparing VIbe co vs tvScientific vs Simpli.fi on predictable spend and CPM control",
       "author": "oreynolds29",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774006616.0,
       "content": "Hi, I have worked for around 2.3 years in the programmatic supply space as an account manager and mainly handled publisher relationships and campaign analysis.\n\nI want to move towards the demand and wherein I get to work on creating campaigns on different DSPs. I’m trying to do certifications but do not have on hands experience with any of the DSP platforms.\n\nI’m currently based in Canada and having a really hard time trying to get a job in the demand space. i get interviews but they always go for someone who has prior experience working with these platforms even though I do tell them that I am someone who will learn the platform pretty soon and have done have fair share of certifications.\n\nI want to understand from everyone how can I put forward my experience in front of the hiring manager?\n\nThanks ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ryy9hi",
+      "title": "Publisher transitioning from direct sales to programmatic (mostly PMP/PG) - how to track sales pipeline?",
+      "author": "penis_berry_crunch",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "created_utc": 1774018065.0,
+      "content": "Hi I'm working at a large publisher transitioning from direct sales to programmatic (mostly PMP/PG) and looking for some recommendations on how to structure pipeline management for sales. Direct sales and PG are obviously relatively easy with fixed deal amounts tied to IOs. But, how are you doing it with non-guaranteed PMPs? One Salesforce opportunity to represent the initial close and then monthly forecasting outside of the CRM?",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

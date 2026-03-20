@@ -1409,6 +1409,21 @@
       "link_flair_text": null,
       "thread_id": "1rytv5d",
       "thread_path": "1rytv5d.json"
+    },
+    {
+      "id": "1ryy9hi",
+      "title": "Publisher transitioning from direct sales to programmatic (mostly PMP/PG) - how to track sales pipeline?",
+      "author": "penis_berry_crunch",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "created_utc": 1774018065.0,
+      "content": "Hi I'm working at a large publisher transitioning from direct sales to programmatic (mostly PMP/PG) and looking for some recommendations on how to structure pipeline management for sales. Direct sales and PG are obviously relatively easy with fixed deal amounts tied to IOs. But, how are you doing it with non-guaranteed PMPs? One Salesforce opportunity to represent the initial close and then monthly forecasting outside of the CRM?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ryy9hi",
+      "thread_path": "1ryy9hi.json"
     }
   ]
 }

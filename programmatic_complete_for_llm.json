@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-20T14:40:13.802429+00:00",
-    "total_posts": 1435,
-    "total_comments": 9482
+    "scrape_date": "2026-03-20T15:36:43.552697+00:00",
+    "total_posts": 1436,
+    "total_comments": 9485
   },
   "discussions": [
     {
@@ -78016,6 +78016,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ryy9hi",
+      "title": "Publisher transitioning from direct sales to programmatic (mostly PMP/PG) - how to track sales pipeline?",
+      "author": "penis_berry_crunch",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+      "created_utc": 1774018065.0,
+      "content": "Hi I'm working at a large publisher transitioning from direct sales to programmatic (mostly PMP/PG) and looking for some recommendations on how to structure pipeline management for sales. Direct sales and PG are obviously relatively easy with fixed deal amounts tied to IOs. But, how are you doing it with non-guaranteed PMPs? One Salesforce opportunity to represent the initial close and then monthly forecasting outside of the CRM?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MicroSofty88",
+          "body": "Yeah closing out the opportunity with the estimated budget from the client, then monthly forecasting based on real world spend",
+          "score": 1,
+          "created_utc": 1774019123.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "I manually forecast based on current spends that month. Won’t get an accurate forecast until 2nd week in. Even that is still sometimes not accurate. \n\nClients sometimes won’t even tell me their budgets for pmp. So I use historical data. It’s a pain but that’s life  ",
+          "score": 1,
+          "created_utc": 1774020384.0
+        },
+        {
+          "author": "iLoveChips20",
+          "body": "You can integrate GAM delivery data directly into SF to tie back to your opportunities. Then you can have estimated vs actuals side-by-side. And your forward looking pipeline/forecasts from SF can be more comprehensive and accurate. ",
+          "score": 1,
+          "created_utc": 1774020804.0
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "1ryy9hi",
+  "thread_id": "1ryy9hi",
+  "title": "Publisher transitioning from direct sales to programmatic (mostly PMP/PG) - how to track sales pipeline?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ryy9hi/publisher_transitioning_from_direct_sales_to/",
+  "created_utc": 1774018065.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "MicroSofty88",
+      "body": "Yeah closing out the opportunity with the estimated budget from the client, then monthly forecasting based on real world spend",
+      "score": 1,
+      "created_utc": 1774019123.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "I manually forecast based on current spends that month. Won’t get an accurate forecast until 2nd week in. Even that is still sometimes not accurate. \n\nClients sometimes won’t even tell me their budgets for pmp. So I use historical data. It’s a pain but that’s life  ",
+      "score": 1,
+      "created_utc": 1774020384.0
+    },
+    {
+      "author": "iLoveChips20",
+      "body": "You can integrate GAM delivery data directly into SF to tie back to your opportunities. Then you can have estimated vs actuals side-by-side. And your forward looking pipeline/forecasts from SF can be more comprehensive and accurate. ",
+      "score": 1,
+      "created_utc": 1774020804.0
+    }
+  ]
+}
