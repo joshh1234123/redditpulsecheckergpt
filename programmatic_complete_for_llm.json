@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-21T01:19:52.077403+00:00",
-    "total_posts": 1436,
-    "total_comments": 9485
+    "scrape_date": "2026-03-21T03:34:34.293899+00:00",
+    "total_posts": 1438,
+    "total_comments": 9488
   },
   "discussions": [
     {
@@ -78049,6 +78049,53 @@
           "created_utc": 1774020804.0
         }
       ]
+    },
+    {
+      "id": "1rzg2c1",
+      "title": "TV upfronts",
+      "author": "AngleApart4424",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rzg2c1/tv_upfronts/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rzg2c1/tv_upfronts/",
+      "created_utc": 1774060698.0,
+      "content": "Hi anyone know what some major themes at Themis year tv upfronts / new fronts will be? ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "describe_one",
+          "body": "Alternative currencies/measurement due to all of the issues with NSI big data + numbers.",
+          "score": 1,
+          "created_utc": 1774061873.0
+        },
+        {
+          "author": "AngleApart4424",
+          "body": "Gosh that’s been around for years and still less than 5% is transacted on alternatives ",
+          "score": 1,
+          "created_utc": 1774061911.0
+        },
+        {
+          "author": "describe_one",
+          "body": "It's looking pretty dire this year. [https://www.mediapost.com/publications/article/413300/all-of-nielsens-horses-and-all-of-nielsens-men.html?edition=141929](https://www.mediapost.com/publications/article/413300/all-of-nielsens-horses-and-all-of-nielsens-men.html?edition=141929)",
+          "score": 1,
+          "created_utc": 1774062486.0
+        }
+      ]
+    },
+    {
+      "id": "1rzgo1a",
+      "title": "DSP pacing to impressions vs budget",
+      "author": "ProblemNo161",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rzgo1a/dsp_pacing_to_impressions_vs_budget/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rzgo1a/dsp_pacing_to_impressions_vs_budget/",
+      "created_utc": 1774062472.0,
+      "content": "Before I explore this prompt in AI to begin my research on this topic, wanted to hear from this community.\n\nWhat’s the easiest way to explain the benefits of setting up a campaign in a DSP to pace towards an impression goal as opposed to a budget goal? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

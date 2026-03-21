@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rfc89n",
-      "title": "Comparing VIbe co vs tvScientific vs Simpli.fi on predictable spend and CPM control",
-      "author": "oreynolds29",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rfc89n/comparing_vibe_co_vs_tvscientific_vs_simplifi_on/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rfc89n/comparing_vibe_co_vs_tvscientific_vs_simplifi_on/",
-      "created_utc": 1772117630.0,
-      "content": "We’re rolling out CTV as an experimental growth channel, not a branding line item.\n\nThe reality:\n\n\\- fixed monthly test budget  \n\\--strict pacing requirements  \n\\- and leadership that will immediately question any unexplained CPM swings\n\nWe need a self-serve buying experience that lets a performance marketer stay in control of cost and delivery. We’re comparing Vibe. co, Pinterest's tvScientific, and Simpli. fi.\n\nFrom people who have actively managed spend on these platforms:\n\n\\- how predictable are CPMs once campaigns go live?  \n\\-Do any of these platforms feel more transparent on situations like where bids clear and when delivery suddenly accelerates or slows down?  \n\\- and which one gives you the most hands-on control over pacing and budget?\n\nI'd love your thoughts on what platform you've used and how it weighs against these as I don't want performance team to be accountable for results when buying is vague",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rgaku2",
-      "title": "Need help",
-      "author": "Icy-Performer-1312",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rgaku2/need_help/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rgaku2/need_help/",
-      "created_utc": 1772208029.0,
-      "content": "Hi everyone ,  I am a a student who is interested in programmatic  ads and i have  just started learning but the problem is i dont have dv 360 and cm 360 account because i am not a marketer by profession who surpasses their minimum  budget spend requirement ,so how can i tackle this problem can anyone help me?and what resources should i follow to learn this subject in depth?currently i am following seantor we run ads youtube channel",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rgutdr",
       "title": "Could anyone suggest me few websites where you’ll get news/updates on programmatic ecosystem",
       "author": "Axsh_5",
@@ -1302,6 +1276,32 @@
       "created_utc": 1774018065.0,
       "content": "Hi I'm working at a large publisher transitioning from direct sales to programmatic (mostly PMP/PG) and looking for some recommendations on how to structure pipeline management for sales. Direct sales and PG are obviously relatively easy with fixed deal amounts tied to IOs. But, how are you doing it with non-guaranteed PMPs? One Salesforce opportunity to represent the initial close and then monthly forecasting outside of the CRM?",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rzg2c1",
+      "title": "TV upfronts",
+      "author": "AngleApart4424",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rzg2c1/tv_upfronts/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rzg2c1/tv_upfronts/",
+      "created_utc": 1774060698.0,
+      "content": "Hi anyone know what some major themes at Themis year tv upfronts / new fronts will be? ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1rzgo1a",
+      "title": "DSP pacing to impressions vs budget",
+      "author": "ProblemNo161",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1rzgo1a/dsp_pacing_to_impressions_vs_budget/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1rzgo1a/dsp_pacing_to_impressions_vs_budget/",
+      "created_utc": 1774062472.0,
+      "content": "Before I explore this prompt in AI to begin my research on this topic, wanted to hear from this community.\n\nWhat’s the easiest way to explain the benefits of setting up a campaign in a DSP to pace towards an impression goal as opposed to a budget goal? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
