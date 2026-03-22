@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-22T16:53:24.589099+00:00",
-    "total_posts": 1440,
+    "scrape_date": "2026-03-22T17:20:21.585553+00:00",
+    "total_posts": 1442,
     "total_comments": 9488
   },
   "discussions": [
@@ -78120,6 +78120,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1rzmuk2/deals_x_funnel_stage/",
       "created_utc": 1774084073.0,
       "content": "PG, PD, Direct - > ToFu/MoFu\n\nPMP, OM - > BoFu\n\nDo you agree with this? I know each deal depends on goals and strategy, but if there's an overall use chart, would it look like that? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1s0qvz0",
+      "title": "Can I acclimate/pivot to an AD, Programmatic Commerce role after being in programmatic ('proper') for 8yrs?",
+      "author": "Puzzleheaded_Phone34",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s0qvz0/can_i_acclimatepivot_to_an_ad_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s0qvz0/can_i_acclimatepivot_to_an_ad_programmatic/",
+      "created_utc": 1774198742.0,
+      "content": "The commerce role is looking for experience with a few platforms I'm entirely unfamiliar with (Pacvue, Skai, Epsilo).  \n  \nThe role also demands experience with retail media...I worked at Merkle for a year servicing Target right around the time Roundel came to be, spent a year brand-side at Kohl's as a programmatic lead, and spent a few months on Family Dollar, but (while these are all obviously retailer clients), I wouldn't necessarily consider it 'Retail Media' (in the way they're implying it in the job description.)\n\nIn any case, I've been applying for commerce positions despite my lack of formal retail media experience because I figure with 8yrs experience and a thorough understanding of how to traffic, optimize, generate reporting/insights, etc. that I'll generally be 'alright' in a commerce position (I've found an ability/comfort moving around in one DSP is usually transferrable to another DSP).\n\nMy primary experience is with TTD and DV360, but I have secondary experience with Yahoo DSP, Amazon DSP\n\nAll of this said--to anyone who's spent time in both types of programmatic roles, can you provide your thoughts on whether I can just jump into something like this? Screening interview is on Tuesday.\n\nTIA!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1s0r00m",
+      "title": "Why is TTD the bad guy?",
+      "author": "TheGrandLeveler",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s0r00m/why_is_ttd_the_bad_guy/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s0r00m/why_is_ttd_the_bad_guy/",
+      "created_utc": 1774198990.0,
+      "content": "Wouldn't everyone's job be easier without SSPs? \n\nDoesnt open path make things way more transparent?\n\nSo why does TTD get so much shit lately regarding the dispute with the big agencies? \n\nMaybe I'm missing something but happy to hear opinions on it. \n\nPersonally I'd rather have instant access to all the publishers inventory directly rather than having to work With \"insert DSP name\". ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
