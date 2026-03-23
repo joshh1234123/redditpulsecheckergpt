@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rjnobr",
-      "title": "IDs in bidstream",
-      "author": "ashgvas",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rjnobr/ids_in_bidstream/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjnobr/ids_in_bidstream/",
-      "created_utc": 1772539822.0,
-      "content": "Hey all, \n\nJust curious - we now see more than 20 IDs in a bid stream. As the payload keeps increasing, how do the DSPs decide which ID to decrypt in an open marketplace?\n\nThanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rjvydm",
       "title": "How measurable is programmatic DOOH compared to paid social?",
       "author": "ToastGaming99",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774250961.0,
       "content": "Hi everyone,\n\nWe are an SSP operating primarily in the Turkish market, and we are currently looking to connect and partner with new Demand-Side Platforms (DSPs).\n\nTo give you an idea of our scale and inventory, we currently generate **20 Billion total requests** in Turkey. Here is the breakdown of our traffic:\n\n* **Mobile App Requests:** 10 Billion\n* **Web Requests:** 7 Billion\n* **Video Requests:** 3 Billion\n\nIf you are a DSP looking for high-volume inventory in Turkey or know someone who might be interested, we would love to connect and discuss a potential programmatic partnership.\n\nPlease feel free to DM me or leave a comment below!\n\nThanks!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s1b9m0",
+      "title": "Free Ads Campaign for Playable Ads",
+      "author": "Confuse_Pigeon",
+      "score": 1,
+      "url": "/r/adops/comments/1s1b607/free_ads_campaign_for_playable_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s1b9m0/free_ads_campaign_for_playable_ads/",
+      "created_utc": 1774254849.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
