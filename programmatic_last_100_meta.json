@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rjvydm",
-      "title": "How measurable is programmatic DOOH compared to paid social?",
-      "author": "ToastGaming99",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rjvydm/how_measurable_is_programmatic_dooh_compared_to/",
-      "created_utc": 1772559857.0,
-      "content": "I am testing programmatic DOOH in a few cities this quarter and comparing it against paid social. I care more about lift in branded search and site visits than just impressions. I am layering retargeting to see if exposed users convert later. Trying to see if it actually lowers blended CAC",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rjwzlc",
       "title": "I was fired from my previous job, and how do I prevent it from happening again?",
       "author": "OrganicStar1198",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774254849.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s1jzjx",
+      "title": "Are Hulu/Disney+ and Netflix really this expensive",
+      "author": "KiddoTwo",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s1jzjx/are_huludisney_and_netflix_really_this_expensive/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s1jzjx/are_huludisney_and_netflix_really_this_expensive/",
+      "created_utc": 1774279640.0,
+      "content": "I just got rates for my client to activate directly with HULU/Disney+ and Netflix. For various reasons, they prefer not to buy directly themselves.\n\nAre these normal?\n\nNetflix is $65K min spend and $80-$120 (depending on 15s-30x)\n\nHulu and Disney $130CPM\n\nThis is with DMA targeting",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

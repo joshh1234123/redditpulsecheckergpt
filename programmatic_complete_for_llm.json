@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-23T14:11:13.326431+00:00",
-    "total_posts": 1445,
-    "total_comments": 9491
+    "scrape_date": "2026-03-23T15:33:21.438781+00:00",
+    "total_posts": 1446,
+    "total_comments": 9493
   },
   "discussions": [
     {
@@ -78214,6 +78214,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s1jzjx",
+      "title": "Are Hulu/Disney+ and Netflix really this expensive",
+      "author": "KiddoTwo",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s1jzjx/are_huludisney_and_netflix_really_this_expensive/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s1jzjx/are_huludisney_and_netflix_really_this_expensive/",
+      "created_utc": 1774279640.0,
+      "content": "I just got rates for my client to activate directly with HULU/Disney+ and Netflix. For various reasons, they prefer not to buy directly themselves.\n\nAre these normal?\n\nNetflix is $65K min spend and $80-$120 (depending on 15s-30x)\n\nHulu and Disney $130CPM\n\nThis is with DMA targeting",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Inner_Strawberry6231",
+          "body": "No",
+          "score": 1,
+          "created_utc": 1774279793.0
+        },
+        {
+          "author": "Xebbery",
+          "body": "I work at a large agency and buy Netflix inventory for roughly $35 CPM’s with a 15k min. \n\nHulu and Disney bounce around $30-40\n\nSomeone is making a lot of money off of your client ",
+          "score": 1,
+          "created_utc": 1774279794.0
+        }
+      ]
     }
   ]
 }
