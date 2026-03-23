@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-23T01:28:55.081641+00:00",
-    "total_posts": 1442,
-    "total_comments": 9488
+    "scrape_date": "2026-03-23T04:08:24.134745+00:00",
+    "total_posts": 1443,
+    "total_comments": 9490
   },
   "discussions": [
     {
@@ -78152,6 +78152,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s13nww",
+      "title": "Need free course drive Programmatic Advertising, specifically tools like DV360 (Display & Video 360) and CM360 (Campaign Manager 360).",
+      "author": "Real-Material7096",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s13nww/need_free_course_drive_programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s13nww/need_free_course_drive_programmatic_advertising/",
+      "created_utc": 1774229698.0,
+      "content": "Hey everyone,\n\nI’m looking to learn **Programmatic Advertising**, specifically tools like **DV360 (Display & Video 360)** and **CM360 (Campaign Manager 360)**.\n\nIf anyone here has experience with these platforms, I’d really appreciate your guidance—whether it’s:\n\n* Learning resources or courses\n* Hands-on practice tips",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "adflet",
+          "body": "I think Google themselves have free courses for those don't they?",
+          "score": 3,
+          "created_utc": 1774229893.0
+        },
+        {
+          "author": "heatherR10",
+          "body": "So does trade desk",
+          "score": 1,
+          "created_utc": 1774230461.0
+        }
+      ]
     }
   ]
 }
