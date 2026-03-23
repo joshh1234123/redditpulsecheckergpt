@@ -1604,6 +1604,21 @@
       "link_flair_text": null,
       "thread_id": "1s1tnhu",
       "thread_path": "1s1tnhu.json"
+    },
+    {
+      "id": "1s1xx4e",
+      "title": "CTV targeting in Canada",
+      "author": "FarmersLeague86",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s1xx4e/ctv_targeting_in_canada/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s1xx4e/ctv_targeting_in_canada/",
+      "created_utc": 1774309921.0,
+      "content": "Apart from FSA zip codes etc. Anyone knows a 3P data partner who can provide basic targeting for CTV buys, and somewhat scale?\n\nEx:\nStudents\nMoviegoers\nFamilies\nSport buffs \n\nI work for a DSP and asking from an open web and PMPs targeting pov. I don't want to go to Samsung or LG or Netflix for ACR data for this campaign \n \nTY",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s1xx4e",
+      "thread_path": "1s1xx4e.json"
     }
   ]
 }
