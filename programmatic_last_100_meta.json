@@ -6,45 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rl1sj5",
-      "title": "Media planning",
-      "author": "GladDebate5022",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rl1sj5/media_planning/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rl1sj5/media_planning/",
-      "created_utc": 1772668189.0,
-      "content": "I currently have around 1.6 years of experience in Programmatic Advertising, mainly on the execution side. My day-to-day work mostly involves campaign setup, monitoring pacing, checking delivery, and optimizing based on pacing and performance metrics.\n\nNow I’m interested in moving towards Media Planning, but honestly I’m not very clear about what exactly media planners do on a daily basis.\n\nI wanted to understand a few things from people who are already in media planning:\n\n\\- What exactly does a Media Planner’s role look like in programmatic or digital advertising?\n\n\\- How is it different from the execution/trafficking side?\n\n\\- What skills or knowledge should someone from the execution side learn to transition into media planning?\n\n\\- Are there any courses, tools, or concepts I should start learning?\n\nSince I already have hands-on experience in campaign setup and optimization, I want to understand what the next step should be if I want to move into planning.\n\nWould really appreciate any advice from people who made a similar transition.\n\nThanks in advance!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rl2uai",
-      "title": "Best way to monetize HTML5 games on web (rewarded video)?",
-      "author": "deathhollo",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rl2uai/best_way_to_monetize_html5_games_on_web_rewarded/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rl2uai/best_way_to_monetize_html5_games_on_web_rewarded/",
-      "created_utc": 1772670839.0,
-      "content": "We’re building an SDK that embeds HTML5 mini-games across multiple partner websites, and we’re trying to monetize them with rewarded video and interstitial ads on web (mobile + desktop).\n\nA few things that make this setup slightly unusual:\n\n* The games run inside embedded containers via our SDK\n* We don’t directly own the sites - we provide the SDK and revenue share with the partners\n* Partners are happy to implement things like ads.txt or other requirements\n* Traffic is mostly browser-based gaming inventory\n* Some partner sites may allow NSFW / adult-adjacent content\n\nWe’re trying to figure out the best way to structure monetization here - whether through Google Ad Manager with MCM setups with network partners (which has been a slow process) or via standalone web ad SDKs built for browser games.\n\nWe’ve started talking with companies like AdinPlay, but would love to hear how others have approached monetizing browser-based game traffic, especially for rewarded ads on web.\n\nAny advice or recommendations would be greatly appreciated.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rljr71",
-      "title": "Trobleshoot help? TTD",
-      "author": "Pitiful_Camel6790",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rljr71/trobleshoot_help_ttd/",
-      "created_utc": 1772722693.0,
-      "content": "https://preview.redd.it/noqv5qgip8ng1.png?width=1720&format=png&auto=webp&s=c85eaec23243b870b3e73a6127967277e95813ce\n\nSo hey everyone, newbie here compared to the long careers many of you have. \n\nI am running a display campaign through TTD and its been 7 days, as can be seen in the screenshot, there are plenty of avails but we arent bidding hense no spend at all, I have tried and gone through everything in my knowledge to figure out why but not able to come to any conclusion. the min bid is above the floor, have the needed cretive dimensions, getting display inventory through the deal, the vendor is saying eveything is good from their end, our advertiser is also whitelisted.. so what can be the reason? \n\nA slight doubt, while attaching the creatives, I used the iframe/java tags instead of the only java tags(not sure if its making sense) can it be reason its not bidding?? given that its a mobile app-focused deal? \n\nAny insight will be appreciated, feel free to ask me any followup question.",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rlk2c6",
       "title": "Amazon Big Spring Sale starts March 10, honest take on whether it's worth it for DSP Ads",
       "author": "NiceRecognition9603",
@@ -1302,6 +1263,45 @@
       "created_utc": 1774354851.0,
       "content": "Everyone is talking about AI-optimized TV ads these days. Promises of automatic targeting, real-time adjustments, and improved performance make it sound like the future of advertising. But the reality? It’s stressful, confusing, and sometimes terrifying. I’ve been managing campaigns where the AI controls pacing, targeting, and budget allocation. At first, it felt freeing. No more manual tweaks, no second-guessing placements. But as results came in, I realized I didn’t actually know why certain changes were happening. The AI would shift spend between audience segments, adjust creative rotation, or reallocate budget to different times of day without explanation.\n\nWhen metrics improved, I couldn’t pinpoint the reason. When they dropped, I had no idea which decision caused the decline. It created a strange sense of dependency and distrust: I wanted to leverage AI, but I also needed human insight to make confident decisions. It’s exhausting managing real dollars when you feel like the system is working in a black box.\n\nAdding to the stress, reporting to leadership becomes complicated. They want explanations: “Why did this segment underperform?” “Which audience drove the results?” “Are we spending efficiently?” And I’m left saying things like, “The AI adjusted it automatically.” That’s not satisfying, and it doesn’t instill confidence even if the campaign is technically improving.",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s2fgvd",
+      "title": "How to stay in the loop on industry updates?",
+      "author": "curiosity375",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
+      "created_utc": 1774362803.0,
+      "content": "\"Hey all! \n\nI’m new to the programmatic space and recently started a role at a DSP. To help get me up to speed on industry news and events, what are your “must read” sites or daily briefings? \n\nI appreciate any help! ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s2g3b7",
+      "title": "Campaign Manager 360 - Best use cases?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
+      "created_utc": 1774364199.0,
+      "content": "Hello, I have quite some experience working with Google products, but haven't used CM360 yet, and I am debating whether it will improve my work.\n\nFirst, its clear to me that being able to track everything in one place across multiple channels is solid, however, in my current situation I don't need this.\n\nWhat are some other reasons to use CM360 and what are in your opinion the Top-3 most common reasons that someone would use CM360? e.g (creatives management, tracker creation etc)\n\nThanks in advance!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s2hazg",
+      "title": "CTV targeting with 3P signals",
+      "author": "ZJXXI",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
+      "created_utc": 1774366803.0,
+      "content": "Running into a CTV audience targeting problem. Most CTV supply doesn’t seems to scale with 3P data layered on, as it defaults to PMP level targeting but standard targeting (demo, age, etc.) doesn’t seem to work. Curious if anyone faces this issue - is there anything apart from contextual that solves for this, maybe geo-based signals?\n\nAlternatively, which SSPs do really well with adding in audience targeting to deals, if at all?\n\nAnything else you’d advise?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

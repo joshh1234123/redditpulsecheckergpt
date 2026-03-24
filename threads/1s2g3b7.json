@@ -1,0 +1,22 @@
+{
+  "id": "1s2g3b7",
+  "thread_id": "1s2g3b7",
+  "title": "Campaign Manager 360 - Best use cases?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
+  "created_utc": 1774364199.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Lumiafan",
+      "body": "Unified, de-duplicated measurement across channels is the primary reason to use it with ad-serving and impression/click tracking as the secondary reason.\n\nIf you don't need unified measurement, you might find CM360 too cumbersome for your use case, honestly.",
+      "score": 1,
+      "created_utc": 1774364562.0
+    },
+    {
+      "author": "TheGrandLeveler",
+      "body": "If possible, could you give me an example with your personal experience?",
+      "score": 1,
+      "created_utc": 1774365450.0
+    }
+  ]
+}

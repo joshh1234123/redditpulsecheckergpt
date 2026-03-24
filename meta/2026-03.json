@@ -1679,6 +1679,51 @@
       "link_flair_text": null,
       "thread_id": "1s2c741",
       "thread_path": "1s2c741.json"
+    },
+    {
+      "id": "1s2fgvd",
+      "title": "How to stay in the loop on industry updates?",
+      "author": "curiosity375",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
+      "created_utc": 1774362803.0,
+      "content": "\"Hey all! \n\nI’m new to the programmatic space and recently started a role at a DSP. To help get me up to speed on industry news and events, what are your “must read” sites or daily briefings? \n\nI appreciate any help! ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s2fgvd",
+      "thread_path": "1s2fgvd.json"
+    },
+    {
+      "id": "1s2g3b7",
+      "title": "Campaign Manager 360 - Best use cases?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
+      "created_utc": 1774364199.0,
+      "content": "Hello, I have quite some experience working with Google products, but haven't used CM360 yet, and I am debating whether it will improve my work.\n\nFirst, its clear to me that being able to track everything in one place across multiple channels is solid, however, in my current situation I don't need this.\n\nWhat are some other reasons to use CM360 and what are in your opinion the Top-3 most common reasons that someone would use CM360? e.g (creatives management, tracker creation etc)\n\nThanks in advance!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s2g3b7",
+      "thread_path": "1s2g3b7.json"
+    },
+    {
+      "id": "1s2hazg",
+      "title": "CTV targeting with 3P signals",
+      "author": "ZJXXI",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
+      "created_utc": 1774366803.0,
+      "content": "Running into a CTV audience targeting problem. Most CTV supply doesn’t seems to scale with 3P data layered on, as it defaults to PMP level targeting but standard targeting (demo, age, etc.) doesn’t seem to work. Curious if anyone faces this issue - is there anything apart from contextual that solves for this, maybe geo-based signals?\n\nAlternatively, which SSPs do really well with adding in audience targeting to deals, if at all?\n\nAnything else you’d advise?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s2hazg",
+      "thread_path": "1s2hazg.json"
     }
   ]
 }
