@@ -6,45 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rkfnph",
-      "title": "Retail Media curation",
-      "author": "Monkeyjuggler82",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rkfnph/retail_media_curation/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rkfnph/retail_media_curation/",
-      "created_utc": 1772611277.0,
-      "content": "15+ year adtech ‘veteran’ here, but has now lost all HoK skills many moons ago.\n\nI have an idea that I need to sound out. \n\nI’m now publisher side and have a pretty unique cross retailer audience with SKU level transaction data. Size wise, you could consider it similar to a panel ie. 30-100k shoppers per month. \n\nPractically, I’m exploring how we might establish a media curation play and if brands might be interested. Internally, there is reluctance so I need to build out a business plan. \n\nHas anyone set up a curation play?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rks2u3",
-      "title": "Has anyone here seen measurable performance improvement after aggressive SPO cleanup, or is it mostly margin redistribution across SSPs?”",
-      "author": "TapMind",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rks2u3/has_anyone_here_seen_measurable_performance/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rks2u3/has_anyone_here_seen_measurable_performance/",
-      "created_utc": 1772646268.0,
-      "content": "We tested SPO consolidation across a few campaigns and saw CPM stabilization but mixed impact on win rates.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rku4ga",
-      "title": "Stackadapt support?",
-      "author": "Recent_Decision5479",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rku4ga/stackadapt_support/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rku4ga/stackadapt_support/",
-      "created_utc": 1772650621.0,
-      "content": "I was wondering if anyone here uses stackadapt, and if so if there is truth that if you spend a certain amount on ads monthly, they will run everything for you on their end?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rkw3h9",
       "title": "Solid move from Netflix with Amazon & Yahoo DSPs",
       "author": "goodgoaj",
@@ -1302,6 +1263,45 @@
       "created_utc": 1774309921.0,
       "content": "Apart from FSA zip codes etc. Anyone knows a 3P data partner who can provide basic targeting for CTV buys, and somewhat scale?\n\nEx:\nStudents\nMoviegoers\nFamilies\nSport buffs \n\nI work for a DSP and asking from an open web and PMPs targeting pov. I don't want to go to Samsung or LG or Netflix for ACR data for this campaign \n \nTY",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s23w19",
+      "title": "Mastercard Measurement/Targeting",
+      "author": "paulyb384",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s23w19/mastercard_measurementtargeting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s23w19/mastercard_measurementtargeting/",
+      "created_utc": 1774325955.0,
+      "content": "Has anybody had any experience with their data or measurement solution ? Curious on the consensus. Seems based on their distribution model - Zip +4 aggregate data isn’t ideal for targeting or sophisticated measurement. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s24e7p",
+      "title": "I built an app that shows you how busy places are in real time!",
+      "author": "Clean-Mousse5947",
+      "score": 1,
+      "url": "https://v.redd.it/lw77gummaxqg1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s24e7p/i_built_an_app_that_shows_you_how_busy_places_are/",
+      "created_utc": 1774327624.0,
+      "content": "You guys might think this is cool. I built an app that shows you how busy places are in real time. It detects devices within a geofence radius. It's super cool! Right now you can see how busy tens of thousands of places are and how many people are there.\n\nHere is the link to download if anyone wants to check it out: \n\n[https://apps.apple.com/us/app/drop-realtime-foot-traffic/id6757093646](https://apps.apple.com/us/app/drop-realtime-foot-traffic/id6757093646)\n\nIt's only on iOS right now. Everyone is asking about Android. I will have this on Android by summer time. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s24h9a",
+      "title": "Google Folds Gemini Deeper Into DV360 to Automate Media Planning and Buying",
+      "author": "DonSalaam",
+      "score": 1,
+      "url": "https://www.adweek.com/programmatic/google-folds-gemini-deeper-into-dv360-to-automate-media-planning-and-buying/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s24h9a/google_folds_gemini_deeper_into_dv360_to_automate/",
+      "created_utc": 1774327907.0,
+      "content": "",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

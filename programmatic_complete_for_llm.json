@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-24T03:55:43.574671+00:00",
-    "total_posts": 1449,
-    "total_comments": 9493
+    "scrape_date": "2026-03-24T05:20:55.030125+00:00",
+    "total_posts": 1452,
+    "total_comments": 9495
   },
   "discussions": [
     {
@@ -78283,6 +78283,62 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s23w19",
+      "title": "Mastercard Measurement/Targeting",
+      "author": "paulyb384",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s23w19/mastercard_measurementtargeting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s23w19/mastercard_measurementtargeting/",
+      "created_utc": 1774325955.0,
+      "content": "Has anybody had any experience with their data or measurement solution ? Curious on the consensus. Seems based on their distribution model - Zip +4 aggregate data isn’t ideal for targeting or sophisticated measurement. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1s24e7p",
+      "title": "I built an app that shows you how busy places are in real time!",
+      "author": "Clean-Mousse5947",
+      "score": 1,
+      "url": "https://v.redd.it/lw77gummaxqg1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s24e7p/i_built_an_app_that_shows_you_how_busy_places_are/",
+      "created_utc": 1774327624.0,
+      "content": "You guys might think this is cool. I built an app that shows you how busy places are in real time. It detects devices within a geofence radius. It's super cool! Right now you can see how busy tens of thousands of places are and how many people are there.\n\nHere is the link to download if anyone wants to check it out: \n\n[https://apps.apple.com/us/app/drop-realtime-foot-traffic/id6757093646](https://apps.apple.com/us/app/drop-realtime-foot-traffic/id6757093646)\n\nIt's only on iOS right now. Everyone is asking about Android. I will have this on Android by summer time. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "What ad sizes can we buy there?",
+          "score": 1,
+          "created_utc": 1774327945.0
+        }
+      ]
+    },
+    {
+      "id": "1s24h9a",
+      "title": "Google Folds Gemini Deeper Into DV360 to Automate Media Planning and Buying",
+      "author": "DonSalaam",
+      "score": 1,
+      "url": "https://www.adweek.com/programmatic/google-folds-gemini-deeper-into-dv360-to-automate-media-planning-and-buying/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s24h9a/google_folds_gemini_deeper_into_dv360_to_automate/",
+      "created_utc": 1774327907.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "DonSalaam",
+          "body": "A quote from the article: “Marketers can upload their media plan and automatically translate it into a comprehensive campaign setup.”",
+          "score": 1,
+          "created_utc": 1774327942.0
+        }
+      ]
     }
   ]
 }
