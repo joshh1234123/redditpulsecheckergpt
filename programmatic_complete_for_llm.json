@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-24T11:40:14.961665+00:00",
-    "total_posts": 1452,
-    "total_comments": 9495
+    "scrape_date": "2026-03-24T12:55:35.770142+00:00",
+    "total_posts": 1453,
+    "total_comments": 9497
   },
   "discussions": [
     {
@@ -78337,6 +78337,33 @@
           "body": "A quote from the article: “Marketers can upload their media plan and automatically translate it into a comprehensive campaign setup.”",
           "score": 1,
           "created_utc": 1774327942.0
+        }
+      ]
+    },
+    {
+      "id": "1s2c741",
+      "title": "The Hidden Stress Behind AI-Optimized TV Ads..",
+      "author": "Boring_Analysis_6057",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
+      "created_utc": 1774354851.0,
+      "content": "Everyone is talking about AI-optimized TV ads these days. Promises of automatic targeting, real-time adjustments, and improved performance make it sound like the future of advertising. But the reality? It’s stressful, confusing, and sometimes terrifying. I’ve been managing campaigns where the AI controls pacing, targeting, and budget allocation. At first, it felt freeing. No more manual tweaks, no second-guessing placements. But as results came in, I realized I didn’t actually know why certain changes were happening. The AI would shift spend between audience segments, adjust creative rotation, or reallocate budget to different times of day without explanation.\n\nWhen metrics improved, I couldn’t pinpoint the reason. When they dropped, I had no idea which decision caused the decline. It created a strange sense of dependency and distrust: I wanted to leverage AI, but I also needed human insight to make confident decisions. It’s exhausting managing real dollars when you feel like the system is working in a black box.\n\nAdding to the stress, reporting to leadership becomes complicated. They want explanations: “Why did this segment underperform?” “Which audience drove the results?” “Are we spending efficiently?” And I’m left saying things like, “The AI adjusted it automatically.” That’s not satisfying, and it doesn’t instill confidence even if the campaign is technically improving.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "PlasticLeading",
+          "body": "Did you use AI to write this? I feel stressed just reading this ",
+          "score": 2,
+          "created_utc": 1774355626.0
+        },
+        {
+          "author": "Sharp-Cress-7595",
+          "body": "Sounds like you’re being left with way too much responsibilities. ",
+          "score": 1,
+          "created_utc": 1774356812.0
         }
       ]
     }

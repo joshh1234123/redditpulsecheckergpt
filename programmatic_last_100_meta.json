@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rkw3h9",
-      "title": "Solid move from Netflix with Amazon & Yahoo DSPs",
-      "author": "goodgoaj",
-      "score": 1,
-      "url": "https://about.netflix.com/en/news/netflix-ads-suite-expands-capabilities",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rkw3h9/solid_move_from_netflix_with_amazon_yahoo_dsps/",
-      "created_utc": 1772655025.0,
-      "content": "1st party data hype and a CAPI, evolving at speed!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rl1sj5",
       "title": "Media planning",
       "author": "GladDebate5022",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774327907.0,
       "content": "",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s2c741",
+      "title": "The Hidden Stress Behind AI-Optimized TV Ads..",
+      "author": "Boring_Analysis_6057",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
+      "created_utc": 1774354851.0,
+      "content": "Everyone is talking about AI-optimized TV ads these days. Promises of automatic targeting, real-time adjustments, and improved performance make it sound like the future of advertising. But the reality? It’s stressful, confusing, and sometimes terrifying. I’ve been managing campaigns where the AI controls pacing, targeting, and budget allocation. At first, it felt freeing. No more manual tweaks, no second-guessing placements. But as results came in, I realized I didn’t actually know why certain changes were happening. The AI would shift spend between audience segments, adjust creative rotation, or reallocate budget to different times of day without explanation.\n\nWhen metrics improved, I couldn’t pinpoint the reason. When they dropped, I had no idea which decision caused the decline. It created a strange sense of dependency and distrust: I wanted to leverage AI, but I also needed human insight to make confident decisions. It’s exhausting managing real dollars when you feel like the system is working in a black box.\n\nAdding to the stress, reporting to leadership becomes complicated. They want explanations: “Why did this segment underperform?” “Which audience drove the results?” “Are we spending efficiently?” And I’m left saying things like, “The AI adjusted it automatically.” That’s not satisfying, and it doesn’t instill confidence even if the campaign is technically improving.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
