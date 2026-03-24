@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rlk2c6",
-      "title": "Amazon Big Spring Sale starts March 10, honest take on whether it's worth it for DSP Ads",
-      "author": "NiceRecognition9603",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlk2c6/amazon_big_spring_sale_starts_march_10_honest/",
-      "created_utc": 1772723427.0,
-      "content": "Been getting questions about the Amazon Big Spring Sale (March 10 to 16) so putting my thoughts in one place. Ex-Amazon, been doing Amazon DSP Ad planning for a while, not selling anything in this post. It seems like a lot of people are scrambling on this one. Sunny day in London, good time to think clearly about what actually matters this quarter.\n\n**Should you bother?**\n\nIt's a secondary event. No Prime Day pull. First question is whether spring actually maps to your category: outdoor, fitness, home refresh yes, electronics or gifting less so. Second question is budget. Spare budget plus seasonal fit, reasonable test. Tight budget squeezed to participate, skip it.\n\n**Can you still run awareness campaigns?**\n\nThe lead-in window closed last week. Best practice for an event like this is 2 to 4 weeks of upper-funnel activity before it starts, warming up audiences before CPMs spike. \n\nStarting new campaigns now means paying more and getting less. If you don't have existing audience pools, skip this one. Start building now for Prime Day instead, especially if June 23rd is real, because that lead-in window opens in about six weeks.\n\n**Already have always-on DSP campaigns running?**\n\nDifferent situation. A few adjustments worth making before March 10:\n\nOne thing most people miss: Watch competitors. If a competitor goes out of stock or raises prices during the event, shift bids fast. Secondary events are often where the best incremental ROAS comes from displaced demand, not your own campaigns.\n\nShift toward conversion. Pull budget from awareness and point it at high-intent segments: cart abandoners, recent product viewers. These audiences convert better during event traffic than on a normal week.\n\nFix pacing. If any line items are on ASAP pacing, change them now. ASAP burns budget on day one and leaves nothing for the final-day surge, which is usually when conversions peak. Set to Even pacing across the full March 10 to 16 window.\n\nTurn off Budget Optimisation. Manual allocation gives you tighter control during a live event. Automated optimisers don't have enough signal to react fast enough.\n\nUse Responsive eCommerce Creatives if you have active deals. REC formats pull live pricing and coupons automatically so your ads don't show stale numbers mid-event.\n\nActivate AMC audiences if you have them. Rule-based segments from the past 30 days, people who viewed but didn't buy, are your highest-value pool right now.\n\n**The bigger picture**\n\nEaster is in April, and the rumour is Prime Day lands June 23rd this year instead of July. If that holds, the lead-in opens in soon. Used as a test and audience-building moment before an early Prime Day, the Big Spring Sale earns its place. Treated as a must-win with fresh budget, it probably doesn't. How are you thinking about that tradeoff?\n\n",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rls07d",
       "title": "Fortune 500 client demanding SOC 2 compliance for our CTV campaigns - what's the deal?",
       "author": "Former_Tea1131",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774366803.0,
       "content": "Running into a CTV audience targeting problem. Most CTV supply doesn’t seems to scale with 3P data layered on, as it defaults to PMP level targeting but standard targeting (demo, age, etc.) doesn’t seem to work. Curious if anyone faces this issue - is there anything apart from contextual that solves for this, maybe geo-based signals?\n\nAlternatively, which SSPs do really well with adding in audience targeting to deals, if at all?\n\nAnything else you’d advise?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s2nrm2",
+      "title": "How can I run clean holdout tests without crosschannel contamination for ctv + multichannel campaign?",
+      "author": "Fun_Average_3813",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s2nrm2/how_can_i_run_clean_holdout_tests_without/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2nrm2/how_can_i_run_clean_holdout_tests_without/",
+      "created_utc": 1774380499.0,
+      "content": "I’m currently managing a multi-channel campaign for a mid-sized brand (paid social, search, and now we’ve layered in CTV for the first time). My mandate is to drive conversions while also understanding what’s actually moving the needle. With paid social and search, I have a handle on attribution and incrementality testing. But with CTV in the mix, I’m struggling to set up a clean holdout test that gives me anything meaningful.\n\nWe’re targeting overlapping audiences across channels, ctv is mostly upper/mid-funnel, but we are seeing downstream conversions, and I want to isolate the incremental impact of CTV without completely disrupting campaign performance.\n\nHow would you go about setting up holdout tests specifically for ctv within a multi-channel ecosystem? Are geo holdouts the standard, or are there better audience-based approaches that work better in practice? Would love some insights on this.",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

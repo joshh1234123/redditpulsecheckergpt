@@ -1,0 +1,28 @@
+{
+  "id": "1s2nrm2",
+  "thread_id": "1s2nrm2",
+  "title": "How can I run clean holdout tests without crosschannel contamination for ctv + multichannel campaign?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1s2nrm2/how_can_i_run_clean_holdout_tests_without/",
+  "created_utc": 1774380499.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "InevitableImpress850",
+      "body": "Imo, geo holdouts sound clean on paper but good luck when your social + search keep bleeding into those regions. Unless you can fully suppress exposure, your “control” isn’t really a control.",
+      "score": 1,
+      "created_utc": 1774380897.0
+    },
+    {
+      "author": "Shoddy-Background309",
+      "body": "You’re trying to isolate CTV to understand incremental impact with no other media (or marketing in general) running? IMO there’s nothing inherently wrong with running a test where other channels are still running. Both the test and control cells would have exposure to other media channels, so in that way CTV is the only variable. \n\nIf you were truly worried about overlap for some very specific reason, you could use a data onboarder to segment a large audience into different groups (individual for each channel) and try to test that way.",
+      "score": 1,
+      "created_utc": 1774381061.0
+    },
+    {
+      "author": "Former_Tea1131",
+      "body": "Geo holdouts are still the easiest way to get directional signal, but you’ll have to pair it with tight exclusion rules across channels, and suppress those regions from paid social + search as much as possible. It won’t be perfect, but you’ll at least reduce the noise enough to see lift trends.",
+      "score": 1,
+      "created_utc": 1774381351.0
+    }
+  ]
+}
