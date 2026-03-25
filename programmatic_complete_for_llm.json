@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-25T17:53:32.233788+00:00",
-    "total_posts": 1460,
-    "total_comments": 9506
+    "scrape_date": "2026-03-25T18:46:39.157470+00:00",
+    "total_posts": 1461,
+    "total_comments": 9508
   },
   "discussions": [
     {
@@ -78522,6 +78522,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s3iaa3",
+      "title": "Can someone suggest best way to learn DV 360?",
+      "author": "MrPunekar",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
+      "created_utc": 1774461812.0,
+      "content": "For my career growth, I want to learn DV360. I’ve been trying to find tutorials online, but most of the videos I come across don’t really go into detail or show the actual platform step-by-step. It makes it a bit hard to understand how everything works in practice.\n\nI’m not sure if there are any non-disclosure restrictions around showing the platform in detail, but if anyone knows of a good course, YouTube channel, blog, or any other resource where I can properly learn DV360, it would be really helpful.\n\nAny recommendations would be greatly appreciated.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Lumiafan",
+          "body": "I'm going to be real with you: The best way to learn it is by doing. I learned maybe 5% of what I know about using DV360 today by taking online tutorials and getting walkthroughs. The rest has been from trial-and-error and figuring out things as I go along.",
+          "score": 2,
+          "created_utc": 1774462377.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "There's a channel named \"senator we run ada\" they have a course it's paid but pretty good for beginners. Other than that you learn by doing like me.",
+          "score": 1,
+          "created_utc": 1774462597.0
+        }
+      ]
     }
   ]
 }

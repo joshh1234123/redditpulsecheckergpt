@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rlyphg",
-      "title": "Criteo Becomes the First Ad Tech Partner to Sell Ads Inside ChatGPT",
-      "author": "data_spy",
-      "score": 3,
-      "url": "https://i.redd.it/s6z6ctk0jbng1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rlyphg/criteo_becomes_the_first_ad_tech_partner_to_sell/",
-      "created_utc": 1772756441.0,
-      "content": "",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rm2ogr",
       "title": "Anyone hiring Sr. Traders or activation focused roles?",
       "author": "super_mario11",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774446868.0,
       "content": "Been exploring an alternative way to structure demand signals using search query data as input, then treating it more like a programmatic signal layer than a keyword list.\n\nSetup is simple:\n\n* Source: Google Ads query data as a proxy for high-intent demand\n* Transform: embed queries using small transformer models\n* Structure: cluster with HDBSCAN to form intent-level segments\n\nInstead of working with discrete queries, you end up with stable intent clusters that behave more like addressable segments.\n\nWhat’s interesting from a programmatic perspective:\n\n* High-cardinality query data compresses into a manageable number of intent segments\n* Each cluster represents a consistent underlying task or need, not just phrasing variation\n* Segments can be scored by volume density and coverage (supply vs messaging)\n* Temporal changes show up as shifts in cluster weight rather than noisy query-level variance\n* Overlap between segments becomes measurable via embedding space distance\n\nConceptually this feels closer to building custom targeting segments from raw behavioral signals, but without relying on user-level tracking or cookies.\n\nI have been thinking about whether something like this could sit upstream of a DSP as a signal enrichment layer, where intent clusters become inputs for targeting or creative mapping.\n\nCurious if anyone here has worked on transforming high-cardinality inputs like query logs into stable segments for activation, and how that translated into actual buying or optimization workflows.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s3iaa3",
+      "title": "Can someone suggest best way to learn DV 360?",
+      "author": "MrPunekar",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
+      "created_utc": 1774461812.0,
+      "content": "For my career growth, I want to learn DV360. I’ve been trying to find tutorials online, but most of the videos I come across don’t really go into detail or show the actual platform step-by-step. It makes it a bit hard to understand how everything works in practice.\n\nI’m not sure if there are any non-disclosure restrictions around showing the platform in detail, but if anyone knows of a good course, YouTube channel, blog, or any other resource where I can properly learn DV360, it would be really helpful.\n\nAny recommendations would be greatly appreciated.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
