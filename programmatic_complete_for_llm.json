@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-25T01:27:29.184149+00:00",
-    "total_posts": 1457,
-    "total_comments": 9504
+    "scrape_date": "2026-03-25T03:59:47.508451+00:00",
+    "total_posts": 1458,
+    "total_comments": 9506
   },
   "discussions": [
     {
@@ -78465,6 +78465,33 @@
           "body": "Geo holdouts are still the easiest way to get directional signal, but you’ll have to pair it with tight exclusion rules across channels, and suppress those regions from paid social + search as much as possible. It won’t be perfect, but you’ll at least reduce the noise enough to see lift trends.",
           "score": 1,
           "created_utc": 1774381351.0
+        }
+      ]
+    },
+    {
+      "id": "1s2zxfv",
+      "title": "Couldn’t Help Myself",
+      "author": "EitherCan4424",
+      "score": 13,
+      "url": "https://i.redd.it/jrakk5hq34rg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2zxfv/couldnt_help_myself/",
+      "created_utc": 1774409931.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "lafromnyc",
+          "body": "lol! I thought they won some business recently…\n\nDentsu and Havas in the US are not doing well at all.\n\n\n\n\n",
+          "score": 4,
+          "created_utc": 1774410160.0
+        },
+        {
+          "author": "EitherCan4424",
+          "body": "Dentsu I know from people that work there is a fast sinking ship everyone is trying to get off. Havas I completely forgot existed until someone today was like remember them. That’s what inspired this. ",
+          "score": 2,
+          "created_utc": 1774410247.0
         }
       ]
     }
