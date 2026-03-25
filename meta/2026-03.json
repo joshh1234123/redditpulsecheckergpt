@@ -1799,6 +1799,21 @@
       "link_flair_text": null,
       "thread_id": "1s3iaa3",
       "thread_path": "1s3iaa3.json"
+    },
+    {
+      "id": "1s3qzgb",
+      "title": "Has anyone here tried running smaller-scale CTV campaigns recently?",
+      "author": "RaynVale88",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
+      "created_utc": 1774481103.0,
+      "content": " it feels like most platforms are really built for bigger budgets; MNTN, Vibe, etc all have setup minimums that make small tests pretty tricky.\n\nAnd the budget part isn't even the whole problem. The creative side is a headache too. producing ads that actually convert when you don't have a ton of spend to test with is rough, and the reporting can get overwhelming real fast if you're not already set up for programmatic at scale.\n\nhow are you guys approaching this? Anyone found a decent way to test CTV on limited spend and still get useful insights?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s3qzgb",
+      "thread_path": "1s3qzgb.json"
     }
   ]
 }

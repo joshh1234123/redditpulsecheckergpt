@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-25T23:03:19.351233+00:00",
-    "total_posts": 1461,
-    "total_comments": 9508
+    "scrape_date": "2026-03-25T23:56:25.499668+00:00",
+    "total_posts": 1462,
+    "total_comments": 9510
   },
   "discussions": [
     {
@@ -78547,6 +78547,33 @@
           "body": "There's a channel named \"senator we run ada\" they have a course it's paid but pretty good for beginners. Other than that you learn by doing like me.",
           "score": 1,
           "created_utc": 1774462597.0
+        }
+      ]
+    },
+    {
+      "id": "1s3qzgb",
+      "title": "Has anyone here tried running smaller-scale CTV campaigns recently?",
+      "author": "RaynVale88",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
+      "created_utc": 1774481103.0,
+      "content": " it feels like most platforms are really built for bigger budgets; MNTN, Vibe, etc all have setup minimums that make small tests pretty tricky.\n\nAnd the budget part isn't even the whole problem. The creative side is a headache too. producing ads that actually convert when you don't have a ton of spend to test with is rough, and the reporting can get overwhelming real fast if you're not already set up for programmatic at scale.\n\nhow are you guys approaching this? Anyone found a decent way to test CTV on limited spend and still get useful insights?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "In Canada, I’ve seen buyers just reuse assets for CTV. ",
+          "score": 2,
+          "created_utc": 1774481367.0
+        },
+        {
+          "author": "onlyonepersimmon",
+          "body": "Both MNTN and vibe are set up for SMBs. Folks running larger campaigns know how much both companies are arbitraging. \n\nIf you can’t hit their mins, AND you don’t want purely awareness as an outcome, CTV prob isn’t for you right now. And that’s OK. ",
+          "score": 1,
+          "created_utc": 1774482226.0
         }
       ]
     }
