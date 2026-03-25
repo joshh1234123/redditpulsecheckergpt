@@ -1769,6 +1769,21 @@
       "link_flair_text": null,
       "thread_id": "1s34vut",
       "thread_path": "1s34vut.json"
+    },
+    {
+      "id": "1s3beuc",
+      "title": "Using query-level signals to build intent clusters as a targeting layer",
+      "author": "Friendly_Concern2913",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3beuc/using_querylevel_signals_to_build_intent_clusters/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3beuc/using_querylevel_signals_to_build_intent_clusters/",
+      "created_utc": 1774446868.0,
+      "content": "Been exploring an alternative way to structure demand signals using search query data as input, then treating it more like a programmatic signal layer than a keyword list.\n\nSetup is simple:\n\n* Source: Google Ads query data as a proxy for high-intent demand\n* Transform: embed queries using small transformer models\n* Structure: cluster with HDBSCAN to form intent-level segments\n\nInstead of working with discrete queries, you end up with stable intent clusters that behave more like addressable segments.\n\nWhat’s interesting from a programmatic perspective:\n\n* High-cardinality query data compresses into a manageable number of intent segments\n* Each cluster represents a consistent underlying task or need, not just phrasing variation\n* Segments can be scored by volume density and coverage (supply vs messaging)\n* Temporal changes show up as shifts in cluster weight rather than noisy query-level variance\n* Overlap between segments becomes measurable via embedding space distance\n\nConceptually this feels closer to building custom targeting segments from raw behavioral signals, but without relying on user-level tracking or cookies.\n\nI have been thinking about whether something like this could sit upstream of a DSP as a signal enrichment layer, where intent clusters become inputs for targeting or creative mapping.\n\nCurious if anyone here has worked on transforming high-cardinality inputs like query logs into stable segments for activation, and how that translated into actual buying or optimization workflows.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s3beuc",
+      "thread_path": "1s3beuc.json"
     }
   ]
 }
