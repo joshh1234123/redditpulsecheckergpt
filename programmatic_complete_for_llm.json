@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-26T09:32:18.789605+00:00",
-    "total_posts": 1463,
-    "total_comments": 9510
+    "scrape_date": "2026-03-26T10:45:56.453522+00:00",
+    "total_posts": 1464,
+    "total_comments": 9511
   },
   "discussions": [
     {
@@ -78590,6 +78590,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s43kpk",
+      "title": "ZeroToOne.AI Aquires GroundTruth - with 9 employees",
+      "author": "FlexSaurStar",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s43kpk/zerotooneai_aquires_groundtruth_with_9_employees/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s43kpk/zerotooneai_aquires_groundtruth_with_9_employees/",
+      "created_utc": 1774520399.0,
+      "content": "https://www.prnewswire.com/news-releases/zerotooneai-acquires-groundtruth-to-deploy-at-scale-an-ai-driven-predictive-intelligence-platform-for-enterprise-decision-systems-302724815.html\n\nHow did a company with 9 employees just aquire one with nearly 400? I know that GroundTruth (who also owns WeatherBug) has been pretty stagnant with growth, but, really??",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "penis_berry_crunch",
+          "body": "One way of selling high is using your stock to buy real assets when you believe it is over valued. ",
+          "score": 1,
+          "created_utc": 1774521272.0
+        }
+      ]
     }
   ]
 }
