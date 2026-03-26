@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rmmjg6",
-      "title": "Ad tech role in MENA",
-      "author": "akunni",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rmmjg6/ad_tech_role_in_mena/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmmjg6/ad_tech_role_in_mena/",
-      "created_utc": 1772823003.0,
-      "content": "Urgently looking for ad tech/ programmatic roles in Dubai as I am jobless!! I have close to 10 years experience in media planning, ad ops, account manager/AE , customer success role . Have in hand experience with Amazon DSP , dv360, Adform and TTD. GCC experience of 2 years too. Layoff happened in December 205. Visa is valid till 2027 ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rmnjsd",
       "title": "[HIRE] 6 month contract, US based ($35-$39)",
       "author": "laninajulie",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774546296.0,
       "content": "Hello fellow advertisers! Would love some perspective from folks who’ve scaled CTV.\n\nI currently run all paid media in-house (paid social, search, etc.), and we tested CTV last year through an agency. Performance was solid from a brand awareness + lift standpoint, so we’re planning to invest more heavily this year.\n\nHowever, a few complications:\n\n* The agency quietly outsourced execution to a third party (which we only discovered post-launch)\n* Their fees have increased pretty significantly this year\n* I’m inclined to bring CTV in-house and reallocate those fees into working media\n\nRight now I’m weighing a few options:\n\n1. Stick with the same agency (less lift internally, but higher cost + less transparency)\n2. Go direct with the top-performing platforms from last year’s campaign\n3. Bring it fully in-house via a DSP like The Trade Desk to consolidate inventory and control\n\nMy main questions:\n\n* If you’ve brought CTV in-house, what were the biggest challenges (ops, measurement, creative, etc.)?\n* Is going multi-platform direct a mistake vs. using a DSP?\n* At what spend level does something like TTD actually make sense?\n* Any “wish I knew this earlier” lessons?\n\nFor context: strong in-house performance team, comfortable with paid media + attribution, but CTV-specific execution would be new.\n\nAppreciate any thoughts - especially from folks who’ve made the transition one way or another.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s4gkvv",
+      "title": "Quick share (free webinar): How we saved 50% of ad ops time with AI",
+      "author": "Own_Corner1016",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s4gkvv/quick_share_free_webinar_how_we_saved_50_of_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s4gkvv/quick_share_free_webinar_how_we_saved_50_of_ad/",
+      "created_utc": 1774551706.0,
+      "content": "Hi, r/programmatic people,     \n  \nOn April 15, Teqblaze team is hosting 30-min free to join webinar with our CPO sharing knowledge on how AI is helping AdOps teams reduce repetitive work and make better decisions, without taking control away    \n  \nPlan: A practical walkthrough, real examples, and Q&A session   \nRegistration & details: [eventbrite page](https://www.eventbrite.pt/e/online-workshop-how-we-saved-50-of-ad-ops-time-with-ai-tickets-1985496918732)   \nLocation: ZOOM",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

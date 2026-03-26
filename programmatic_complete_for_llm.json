@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-26T18:56:53.414138+00:00",
-    "total_posts": 1465,
-    "total_comments": 9511
+    "scrape_date": "2026-03-26T19:52:56.617555+00:00",
+    "total_posts": 1466,
+    "total_comments": 9512
   },
   "discussions": [
     {
@@ -78625,6 +78625,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s4gkvv",
+      "title": "Quick share (free webinar): How we saved 50% of ad ops time with AI",
+      "author": "Own_Corner1016",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s4gkvv/quick_share_free_webinar_how_we_saved_50_of_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s4gkvv/quick_share_free_webinar_how_we_saved_50_of_ad/",
+      "created_utc": 1774551706.0,
+      "content": "Hi, r/programmatic people,     \n  \nOn April 15, Teqblaze team is hosting 30-min free to join webinar with our CPO sharing knowledge on how AI is helping AdOps teams reduce repetitive work and make better decisions, without taking control away    \n  \nPlan: A practical walkthrough, real examples, and Q&A session   \nRegistration & details: [eventbrite page](https://www.eventbrite.pt/e/online-workshop-how-we-saved-50-of-ad-ops-time-with-ai-tickets-1985496918732)   \nLocation: ZOOM",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "PlasticLeading",
+          "body": "urgh please lord no sales pitches",
+          "score": 4,
+          "created_utc": 1774552983.0
+        }
+      ]
     }
   ]
 }
