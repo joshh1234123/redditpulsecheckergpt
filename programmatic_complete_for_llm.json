@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-26T05:56:28.774075+00:00",
-    "total_posts": 1462,
+    "scrape_date": "2026-03-26T07:02:28.548262+00:00",
+    "total_posts": 1463,
     "total_comments": 9510
   },
   "discussions": [
@@ -78576,6 +78576,20 @@
           "created_utc": 1774482226.0
         }
       ]
+    },
+    {
+      "id": "1s3ze9x",
+      "title": "Need a DV360 Seat in India",
+      "author": "Sea_Significance6229",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s3ze9x/need_a_dv360_seat_in_india/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3ze9x/need_a_dv360_seat_in_india/",
+      "created_utc": 1774504929.0,
+      "content": "I am looking for a seat on DV360 for a product I am building in India. I am looking for a relatively reasonable media commission % on open auction.\n\n  \nPlease DM me if you can help",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
