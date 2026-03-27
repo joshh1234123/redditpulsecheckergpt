@@ -1874,6 +1874,21 @@
       "link_flair_text": null,
       "thread_id": "1s4gkvv",
       "thread_path": "1s4gkvv.json"
+    },
+    {
+      "id": "1s5anjb",
+      "title": "Anyone running YouTube TV Ads?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s5anjb/anyone_running_youtube_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s5anjb/anyone_running_youtube_tv_ads/",
+      "created_utc": 1774632293.0,
+      "content": "Trying to create a instant deal tried both guaranteed and non-guranteed and used placement:\n\nYouTube TV\n\nHowever no matter what I set, tried 10s of variations I get message:\n\n\"There is no available rate for the targeting applied\"\n\nIs it possible to actually get YouTube TV as a placement in DV360 and hit submit? Seems impossible.\n\n  \nUpdate:\n\nGot it finally to show a rate for guaranteed floor.. \"Your floor CPM is your market rate of $50.00.\"\"\n\nAnyone getting YouTube TV for less than $50? I would never pay that high.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s5anjb",
+      "thread_path": "1s5anjb.json"
     }
   ]
 }
