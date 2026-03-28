@@ -1904,6 +1904,21 @@
       "link_flair_text": null,
       "thread_id": "1s5bp6b",
       "thread_path": "1s5bp6b.json"
+    },
+    {
+      "id": "1s68v44",
+      "title": "AI Media Optimizer is live in our DSP — which AI course should my friend take next?",
+      "author": "GladDebate5022",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
+      "created_utc": 1774724417.0,
+      "content": "My friend's company just implemented an AI Media Optimizer tool inside their DSP curious what courses people recommend to upskill further\n\nSo a friend of mine works in programmatic and their team recently rolled out a Media Optimizer AI agent directly within their DSP setup. Basically the tool monitors spend across line items, analyzes which targeting combinations are performing best, and then automatically creates new line items based on those learnings. It's been working really well and has noticeably improved campaign performance.\n\nNow he's inspired and wants to get a deeper understanding of AI so he can contribute more to these kinds of projects. He's looked at a couple of courses:\n\nIIDE – AI with Marketing\n\nIITx / Futurense – AI course\n\nHas anyone here done either of these? He's coming from a programmatic/media buying background so something that bridges AI concepts with real marketing/advertising applications would be ideal.\n\nWould love to hear if there are other recommendations too  especially anything that's relevant to ad tech or programmatic specifically. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s68v44",
+      "thread_path": "1s68v44.json"
     }
   ]
 }

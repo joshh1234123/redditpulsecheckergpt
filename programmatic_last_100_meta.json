@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rmshwg",
-      "title": "Viewability vs session",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rmshwg/viewability_vs_session/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmshwg/viewability_vs_session/",
-      "created_utc": 1772836647.0,
-      "content": "In your agency are you committed both to viewability and other koi such as session at same time?\n\nOr if focus on session you can care less about viewabikity? Increading viewability might mean higher cost per session… wich is your minimum? 65% ? \n\nCan you confirm that native is not tracked by dv?\n\nFurthermore also demand gen has by default low viewability and no control on it?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rmv9l7",
       "title": "anoki",
       "author": "Full_Letterhead9809",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1s5bp6b/ctv_curation/",
       "created_utc": 1774634516.0,
       "content": "Hey everyone — any recommendations for solid and trustworthy CTV curation platforms? Looking for something reliable with good inventory quality.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s68v44",
+      "title": "AI Media Optimizer is live in our DSP — which AI course should my friend take next?",
+      "author": "GladDebate5022",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
+      "created_utc": 1774724417.0,
+      "content": "My friend's company just implemented an AI Media Optimizer tool inside their DSP curious what courses people recommend to upskill further\n\nSo a friend of mine works in programmatic and their team recently rolled out a Media Optimizer AI agent directly within their DSP setup. Basically the tool monitors spend across line items, analyzes which targeting combinations are performing best, and then automatically creates new line items based on those learnings. It's been working really well and has noticeably improved campaign performance.\n\nNow he's inspired and wants to get a deeper understanding of AI so he can contribute more to these kinds of projects. He's looked at a couple of courses:\n\nIIDE – AI with Marketing\n\nIITx / Futurense – AI course\n\nHas anyone here done either of these? He's coming from a programmatic/media buying background so something that bridges AI concepts with real marketing/advertising applications would be ideal.\n\nWould love to hear if there are other recommendations too  especially anything that's relevant to ad tech or programmatic specifically. Thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
