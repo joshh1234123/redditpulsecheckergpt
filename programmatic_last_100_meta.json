@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rmv9l7",
-      "title": "anoki",
-      "author": "Full_Letterhead9809",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rmv9l7/anoki/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmv9l7/anoki/",
-      "created_utc": 1772843542.0,
-      "content": "anyone heard of them or run with them? cool idea, JW what everyone else thinks since they r new. ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rmwoyg",
       "title": "Strong Conviction 😂 - Buy Low, Sell High",
       "author": "AdPhilosopher",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774724417.0,
       "content": "My friend's company just implemented an AI Media Optimizer tool inside their DSP curious what courses people recommend to upskill further\n\nSo a friend of mine works in programmatic and their team recently rolled out a Media Optimizer AI agent directly within their DSP setup. Basically the tool monitors spend across line items, analyzes which targeting combinations are performing best, and then automatically creates new line items based on those learnings. It's been working really well and has noticeably improved campaign performance.\n\nNow he's inspired and wants to get a deeper understanding of AI so he can contribute more to these kinds of projects. He's looked at a couple of courses:\n\nIIDE – AI with Marketing\n\nIITx / Futurense – AI course\n\nHas anyone here done either of these? He's coming from a programmatic/media buying background so something that bridges AI concepts with real marketing/advertising applications would be ideal.\n\nWould love to hear if there are other recommendations too  especially anything that's relevant to ad tech or programmatic specifically. Thanks!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s6qr1z",
+      "title": "Is CTV actually worth it for smaller brands?",
+      "author": "Poseidon_9726",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "created_utc": 1774777133.0,
+      "content": "I’ve been testing programmatic TV as part of our multi-channel mix lately. While the targeting is great, the attribution is a major hurdle compared to the plug and play tracking on Meta or Google.\n\nSince attribution feels fuzzy, I’ve been watching for a lift in organic search terms while ads are live. I looked at MNTN, but ended up testing Adwave because their AI builds the commercial from your site assets. I’m currently moving about 15% of my Meta budget there just for that \"premium brand\" feel, but it’s a struggle not to over-optimize.\n\nAre you seeing a direct ROI, or just using it for brand lift?\n\nHas anyone found a \"sweet spot\" percentage for reallocating social budget into TV?\n\nHow do you stop yourself from \"messing with it\" every day like a Facebook ad?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

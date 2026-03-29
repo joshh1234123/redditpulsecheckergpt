@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-29T09:30:20.389735+00:00",
-    "total_posts": 1469,
-    "total_comments": 9512
+    "scrape_date": "2026-03-29T10:02:16.922653+00:00",
+    "total_posts": 1470,
+    "total_comments": 9513
   },
   "discussions": [
     {
@@ -78688,6 +78688,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1s6qr1z",
+      "title": "Is CTV actually worth it for smaller brands?",
+      "author": "Poseidon_9726",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "created_utc": 1774777133.0,
+      "content": "I’ve been testing programmatic TV as part of our multi-channel mix lately. While the targeting is great, the attribution is a major hurdle compared to the plug and play tracking on Meta or Google.\n\nSince attribution feels fuzzy, I’ve been watching for a lift in organic search terms while ads are live. I looked at MNTN, but ended up testing Adwave because their AI builds the commercial from your site assets. I’m currently moving about 15% of my Meta budget there just for that \"premium brand\" feel, but it’s a struggle not to over-optimize.\n\nAre you seeing a direct ROI, or just using it for brand lift?\n\nHas anyone found a \"sweet spot\" percentage for reallocating social budget into TV?\n\nHow do you stop yourself from \"messing with it\" every day like a Facebook ad?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Ballytrea",
+          "body": "This is less about Adwave and more about simplified CTV platforms.\n\nThey’re easy to launch, but you give up control and transparency. You don’t really know where ads run, what the inventory quality is, or how clean the supply path actually is.\n\nThat’s why attribution feels fuzzy. You’re removed from the mechanics.",
+          "score": 1,
+          "created_utc": 1774778471.0
+        }
+      ]
     }
   ]
 }

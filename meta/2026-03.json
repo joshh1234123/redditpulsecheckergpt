@@ -1919,6 +1919,21 @@
       "link_flair_text": null,
       "thread_id": "1s68v44",
       "thread_path": "1s68v44.json"
+    },
+    {
+      "id": "1s6qr1z",
+      "title": "Is CTV actually worth it for smaller brands?",
+      "author": "Poseidon_9726",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s6qr1z/is_ctv_actually_worth_it_for_smaller_brands/",
+      "created_utc": 1774777133.0,
+      "content": "I’ve been testing programmatic TV as part of our multi-channel mix lately. While the targeting is great, the attribution is a major hurdle compared to the plug and play tracking on Meta or Google.\n\nSince attribution feels fuzzy, I’ve been watching for a lift in organic search terms while ads are live. I looked at MNTN, but ended up testing Adwave because their AI builds the commercial from your site assets. I’m currently moving about 15% of my Meta budget there just for that \"premium brand\" feel, but it’s a struggle not to over-optimize.\n\nAre you seeing a direct ROI, or just using it for brand lift?\n\nHas anyone found a \"sweet spot\" percentage for reallocating social budget into TV?\n\nHow do you stop yourself from \"messing with it\" every day like a Facebook ad?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s6qr1z",
+      "thread_path": "1s6qr1z.json"
     }
   ]
 }
