@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rmwoyg",
-      "title": "Strong Conviction 😂 - Buy Low, Sell High",
-      "author": "AdPhilosopher",
-      "score": 1,
-      "url": "https://i.redd.it/cy0ufxqz0jng1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rmwoyg/strong_conviction_buy_low_sell_high/",
-      "created_utc": 1772847364.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rnn9kv",
       "title": "Liftoff Mobile - Russian traffic killing performance?",
       "author": "Salt_Prompt_5720",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774777133.0,
       "content": "I’ve been testing programmatic TV as part of our multi-channel mix lately. While the targeting is great, the attribution is a major hurdle compared to the plug and play tracking on Meta or Google.\n\nSince attribution feels fuzzy, I’ve been watching for a lift in organic search terms while ads are live. I looked at MNTN, but ended up testing Adwave because their AI builds the commercial from your site assets. I’m currently moving about 15% of my Meta budget there just for that \"premium brand\" feel, but it’s a struggle not to over-optimize.\n\nAre you seeing a direct ROI, or just using it for brand lift?\n\nHas anyone found a \"sweet spot\" percentage for reallocating social budget into TV?\n\nHow do you stop yourself from \"messing with it\" every day like a Facebook ad?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s7ja9t",
+      "title": "Did this happen with somebody else?",
+      "author": "Hairy-Airport1305",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s7ja9t/did_this_happen_with_somebody_else/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s7ja9t/did_this_happen_with_somebody_else/",
+      "created_utc": 1774853636.0,
+      "content": "For the audience that loves advertising on OTTs, I recently was part of a discussion where an agency is saying that for a live broadcast, their tracker and the platform dashboard drove 10Mn impressions. However, when I see a sample size of streams (500 streams across 5 broader cities) of that broadcast I see truncations of the brand ads being only shown for like 1s, 2s, 5s. So, if you were the brand in this, would you accept your ad being played for like only 1s and would be okay if it is marked as an impression? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

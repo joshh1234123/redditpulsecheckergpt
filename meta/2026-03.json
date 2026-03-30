@@ -1934,6 +1934,21 @@
       "link_flair_text": null,
       "thread_id": "1s6qr1z",
       "thread_path": "1s6qr1z.json"
+    },
+    {
+      "id": "1s7ja9t",
+      "title": "Did this happen with somebody else?",
+      "author": "Hairy-Airport1305",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s7ja9t/did_this_happen_with_somebody_else/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s7ja9t/did_this_happen_with_somebody_else/",
+      "created_utc": 1774853636.0,
+      "content": "For the audience that loves advertising on OTTs, I recently was part of a discussion where an agency is saying that for a live broadcast, their tracker and the platform dashboard drove 10Mn impressions. However, when I see a sample size of streams (500 streams across 5 broader cities) of that broadcast I see truncations of the brand ads being only shown for like 1s, 2s, 5s. So, if you were the brand in this, would you accept your ad being played for like only 1s and would be okay if it is marked as an impression? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s7ja9t",
+      "thread_path": "1s7ja9t.json"
     }
   ]
 }
