@@ -2024,6 +2024,21 @@
       "link_flair_text": null,
       "thread_id": "1s8bkha",
       "thread_path": "1s8bkha.json"
+    },
+    {
+      "id": "1s8jjhp",
+      "title": "Are we hitting a weird inflection point with retail media in APAC?",
+      "author": "RetailMediaLounge",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
+      "created_utc": 1774952598.0,
+      "content": "over the past year or so, CPCs have been creeping up (or at least not getting cheaper), but I’m not seeing a proportional lift in conversions, especially once you try to factor in offline/store sales. At some point it starts to feel like we’re just paying more to capture the same intent.\n\n I’ve been hearing recently that people are moving toward “adaptive commerce.” Basically real-time decisioning: reacting to user behavior instantly, blending online signals with in-store actions, etc. Sounds great in theory, especially for markets like India and Singapore where online & offline is already blurred.\n\nBut I can’t shake the feeling that this might just be personalization repackaged. We’ve been trying to “send the right message at the right time” for years, now it’s just faster and more data-heavy.\n\nBut the question is: does this actually unlock *incremental* value, or just optimize within the same closed loop of attribution?\n\nWould love to hear from anyone actively running retail media / CRM / growth in APAC. are you seeing genuine gains from this shift, or mostly marginal improvements dressed up as innovation?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8jjhp",
+      "thread_path": "1s8jjhp.json"
     }
   ]
 }

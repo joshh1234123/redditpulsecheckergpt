@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1roslpq",
-      "title": "Why performance marketing TV ads fail in weekly reporting meetings?",
-      "author": "EyeImpossible4412",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1roslpq/why_performance_marketing_tv_ads_fail_in_weekly/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1roslpq/why_performance_marketing_tv_ads_fail_in_weekly/",
-      "created_utc": 1773037362.0,
-      "content": "Here’s what actually happens:\n\nThe campaign launches  \nSpend ramps gradually  \nEarly metrics look “fine”  \nSomeone asks for revenue impact  \nNo one likes the answer\n\nBrand teams worry the campaign isn’t resonating. Growth teams question whether the spend is justified. Finance begins eyeing the TV budget as an easy line item to cut. Executives want tangible evidence, not theoretical uplift. And you, as the marketer, are left trying to explain that the channel *is* performing, but it doesn’t fit neatly into the short-term metrics everyone expects.\n\nPerformance marketing TV ads doesnt fail, they work, they can drive awareness, engagement, and even long-term conversions. The problem is that weekly reporting structures aren’t built for them. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rpa6vm",
       "title": "Life360 jumping into the Ad Industry is WEIRD",
       "author": "jmhbaseball97",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1s8bkha/scraper_ethics_conundrum/",
       "created_utc": 1774925654.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s8jjhp",
+      "title": "Are we hitting a weird inflection point with retail media in APAC?",
+      "author": "RetailMediaLounge",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
+      "created_utc": 1774952598.0,
+      "content": "over the past year or so, CPCs have been creeping up (or at least not getting cheaper), but I’m not seeing a proportional lift in conversions, especially once you try to factor in offline/store sales. At some point it starts to feel like we’re just paying more to capture the same intent.\n\n I’ve been hearing recently that people are moving toward “adaptive commerce.” Basically real-time decisioning: reacting to user behavior instantly, blending online signals with in-store actions, etc. Sounds great in theory, especially for markets like India and Singapore where online & offline is already blurred.\n\nBut I can’t shake the feeling that this might just be personalization repackaged. We’ve been trying to “send the right message at the right time” for years, now it’s just faster and more data-heavy.\n\nBut the question is: does this actually unlock *incremental* value, or just optimize within the same closed loop of attribution?\n\nWould love to hear from anyone actively running retail media / CRM / growth in APAC. are you seeing genuine gains from this shift, or mostly marginal improvements dressed up as innovation?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
