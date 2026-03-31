@@ -2039,6 +2039,36 @@
       "link_flair_text": null,
       "thread_id": "1s8jjhp",
       "thread_path": "1s8jjhp.json"
+    },
+    {
+      "id": "1s8me7a",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961112.0,
+      "content": "Hello.\n\nShortly, a Publisher who uses Google Ad Manager 360 created a non-guaranteed deal for us, but we get no traffic with it. Under DV360, I have set up separate Line Items for only this deal with a separate budget. The bids are more than enough. The Publisher also says they have checked everything from their end, but still nothing.\n\nHas anyone had this kind of problem? From our side, there really isn't much I can do in DV360, and Publisher has most of the control over deals. Are there any hidden settings they should review that they might have missed?\n\nThank you!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8me7a",
+      "thread_path": "1s8me7a.json"
+    },
+    {
+      "id": "1s8meo1",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8meo1/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961146.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8meo1",
+      "thread_path": "1s8meo1.json"
     }
   ]
 }

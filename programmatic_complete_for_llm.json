@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-03-31T11:43:03.019522+00:00",
-    "total_posts": 1477,
-    "total_comments": 9517
+    "scrape_date": "2026-03-31T13:00:34.265838+00:00",
+    "total_posts": 1479,
+    "total_comments": 9518
   },
   "discussions": [
     {
@@ -78828,6 +78828,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
       "created_utc": 1774952598.0,
       "content": "over the past year or so, CPCs have been creeping up (or at least not getting cheaper), but I’m not seeing a proportional lift in conversions, especially once you try to factor in offline/store sales. At some point it starts to feel like we’re just paying more to capture the same intent.\n\n I’ve been hearing recently that people are moving toward “adaptive commerce.” Basically real-time decisioning: reacting to user behavior instantly, blending online signals with in-store actions, etc. Sounds great in theory, especially for markets like India and Singapore where online & offline is already blurred.\n\nBut I can’t shake the feeling that this might just be personalization repackaged. We’ve been trying to “send the right message at the right time” for years, now it’s just faster and more data-heavy.\n\nBut the question is: does this actually unlock *incremental* value, or just optimize within the same closed loop of attribution?\n\nWould love to hear from anyone actively running retail media / CRM / growth in APAC. are you seeing genuine gains from this shift, or mostly marginal improvements dressed up as innovation?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1s8me7a",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961112.0,
+      "content": "Hello.\n\nShortly, a Publisher who uses Google Ad Manager 360 created a non-guaranteed deal for us, but we get no traffic with it. Under DV360, I have set up separate Line Items for only this deal with a separate budget. The bids are more than enough. The Publisher also says they have checked everything from their end, but still nothing.\n\nHas anyone had this kind of problem? From our side, there really isn't much I can do in DV360, and Publisher has most of the control over deals. Are there any hidden settings they should review that they might have missed?\n\nThank you!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Individual_Sport_617",
+          "body": "Few quick checks \n\nUse troubleshooter, \nWhat is the available request count for bidding, how many eligible for bidding. ",
+          "score": 1,
+          "created_utc": 1774961315.0
+        }
+      ]
+    },
+    {
+      "id": "1s8meo1",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8meo1/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961146.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

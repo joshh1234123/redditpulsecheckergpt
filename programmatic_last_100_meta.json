@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rpa6vm",
-      "title": "Life360 jumping into the Ad Industry is WEIRD",
-      "author": "jmhbaseball97",
-      "score": 1,
-      "url": "/r/Life360/comments/1rpa4gu/jumping_into_the_ad_industry_is_weird/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rpa6vm/life360_jumping_into_the_ad_industry_is_weird/",
-      "created_utc": 1773084847.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rpevl9",
-      "title": "Programmatic advertising experts: Where Can I Learn the Real Science Behind It?",
-      "author": "Zealousideal_Bid_495",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rpevl9/programmatic_advertising_experts_where_can_i/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rpevl9/programmatic_advertising_experts_where_can_i/",
-      "created_utc": 1773095064.0,
-      "content": "Hi all, I am working in an Amazon agency and I am the guy who is running ads and managing PPC campaigns.\n3 months ago we got into Amazon DSP (programmatic advertising) for a big client.\nI liked that DSP, and I started learning it. I was imagining that if I only knew how this complicated UI works I would be ready; however, I was wrong. DSP is just a tool that needs science and knowledge behind it to control it. It is like okay I know how to setup a campaign but what budget percentage should I put for every funnul stage and why that split and when I should increase and decrease. It is about science and knowledge that tells the action.\nAnd here is what I would love your help with also to help others: where can I learn the true science about this field? Where can I build really solid foundations that make success?\nPlease note that I don't have a marketing degree; I have a computer engineering degree.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rq50lt",
       "title": "CTV Phase 2 Advice?",
       "author": "tremcrst",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1s8jjhp/are_we_hitting_a_weird_inflection_point_with/",
       "created_utc": 1774952598.0,
       "content": "over the past year or so, CPCs have been creeping up (or at least not getting cheaper), but I’m not seeing a proportional lift in conversions, especially once you try to factor in offline/store sales. At some point it starts to feel like we’re just paying more to capture the same intent.\n\n I’ve been hearing recently that people are moving toward “adaptive commerce.” Basically real-time decisioning: reacting to user behavior instantly, blending online signals with in-store actions, etc. Sounds great in theory, especially for markets like India and Singapore where online & offline is already blurred.\n\nBut I can’t shake the feeling that this might just be personalization repackaged. We’ve been trying to “send the right message at the right time” for years, now it’s just faster and more data-heavy.\n\nBut the question is: does this actually unlock *incremental* value, or just optimize within the same closed loop of attribution?\n\nWould love to hear from anyone actively running retail media / CRM / growth in APAC. are you seeing genuine gains from this shift, or mostly marginal improvements dressed up as innovation?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s8me7a",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961112.0,
+      "content": "Hello.\n\nShortly, a Publisher who uses Google Ad Manager 360 created a non-guaranteed deal for us, but we get no traffic with it. Under DV360, I have set up separate Line Items for only this deal with a separate budget. The bids are more than enough. The Publisher also says they have checked everything from their end, but still nothing.\n\nHas anyone had this kind of problem? From our side, there really isn't much I can do in DV360, and Publisher has most of the control over deals. Are there any hidden settings they should review that they might have missed?\n\nThank you!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s8meo1",
+      "title": "No volumes via Google Ad Manager - DV360 Non-guaranteed deal",
+      "author": "Delicious-Ice7019",
+      "score": 1,
+      "url": "/r/programmatic/comments/1s8me7a/no_volumes_via_google_ad_manager_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8meo1/no_volumes_via_google_ad_manager_dv360/",
+      "created_utc": 1774961146.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
