@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rqbgs1",
-      "title": "Bro, do you even AdExchanger?????",
-      "author": "JimmyTango",
-      "score": 1,
-      "url": "https://i.redd.it/x8uwwg8vlaog1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rqbgs1/bro_do_you_even_adexchanger/",
-      "created_utc": 1773181153.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rqbnjq",
       "title": "Built a free site list generator with ads.txt verification — here’s why we made it",
       "author": "mikehauptman",
@@ -1302,6 +1289,19 @@
       "created_utc": 1774970026.0,
       "content": "Hello everyone, \n\nCurious how do your companies go about CTV targeting and promises of whats possible with CTV targeting to your clients. \n\nDo you mostly stick to picking contextually relevant/desirable inventory (specific content providers/networks)? \n\nOr do you/your sales team promises a land of opportunity where you are expected to layer on targeting on top of a selected CTV inventory? \n\nIf you do go with CTV inventory + targeting, do you mostly go with layering DSP-available audiences (3p or some native audiences like Googles/Yahoo/ttd etc) or do you prefer to have your publishers to apply that targeting on their end? \n\nCurious to see how everyone is setting up their CTV buys. ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1s8z5c7",
+      "title": "B2B Programmatic with Quantcast. Lots of Clicks. No Conversions",
+      "author": "Search-Bill",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8z5c7/b2b_programmatic_with_quantcast_lots_of_clicks_no/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8z5c7/b2b_programmatic_with_quantcast_lots_of_clicks_no/",
+      "created_utc": 1774988960.0,
+      "content": "Could use some advice here about optimizing a set of (I believe) underperforming quantacast campaigns for B2B. \n\nFor obvious reasons, I'm not sharing my company name or website. \n\nI have two campaigns: one is targeting an email list from our first party data in our CRM. The other is optimized by Q and includes retargeting. The campaign goal is CONVERSIONS. Form fills on our website. The pixel is confirmed to be working.\n\nMetrics (all in daily volumes) are:\n\nBudget: $350  \nImpressions  342K  \nClicks (Advanced IVT) 70  \nConversions 0  \nCPM  $2  \nCTR   0.02%\n\nThis program has been running like this for 25 days. I get it that conversions are a tough metric for display campaigns (and especially for B2B), but with spending more than $8500, I figure I'd get at least one form fill.  My forecast was to have 5 form fills by now. \n\nIt's not all horrible. We are getting a big branding win and we are seeing an uptick in web traffic (but no view thru conversions either). \n\nWhat would you look at optimizing? How much longer would you give this campaign before redirecting budget to other channels? ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
