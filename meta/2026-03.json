@@ -2069,6 +2069,36 @@
       "link_flair_text": null,
       "thread_id": "1s8meo1",
       "thread_path": "1s8meo1.json"
+    },
+    {
+      "id": "1s8q1ha",
+      "title": "Free knowledge share reminder: How we saved 50% of ad ops time with AI",
+      "author": "Own_Corner1016",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8q1ha/free_knowledge_share_reminder_how_we_saved_50_of/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8q1ha/free_knowledge_share_reminder_how_we_saved_50_of/",
+      "created_utc": 1774969576.0,
+      "content": "Teqblaze CPO is hosting a live-streaming to have a practical view of how AI is actually used in real workflows. Perfect for anyone managing SSP setups, demand, or monetization\n\nDate: 15 April  \nLocation: ZOOM\n\nWe’ll cover:   \n\\- early detection of setup issues   \n\\- faster performance analysis   \n\\- how to understand what’s wrong and what to fix right away   \n\\- what tasks can already be automated today\n\nPlease register to save a seat - [eventbrite link](https://www.eventbrite.com/e/online-workshop-how-we-saved-50-of-ad-ops-time-with-ai-tickets-1985496918732?aff=oddtdtcreator)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8q1ha",
+      "thread_path": "1s8q1ha.json"
+    },
+    {
+      "id": "1s8q974",
+      "title": "CTV targeting setup - contextual + audience?",
+      "author": "Akajdrod",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1s8q974/ctv_targeting_setup_contextual_audience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8q974/ctv_targeting_setup_contextual_audience/",
+      "created_utc": 1774970026.0,
+      "content": "Hello everyone, \n\nCurious how do your companies go about CTV targeting and promises of whats possible with CTV targeting to your clients. \n\nDo you mostly stick to picking contextually relevant/desirable inventory (specific content providers/networks)? \n\nOr do you/your sales team promises a land of opportunity where you are expected to layer on targeting on top of a selected CTV inventory? \n\nIf you do go with CTV inventory + targeting, do you mostly go with layering DSP-available audiences (3p or some native audiences like Googles/Yahoo/ttd etc) or do you prefer to have your publishers to apply that targeting on their end? \n\nCurious to see how everyone is setting up their CTV buys. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8q974",
+      "thread_path": "1s8q974.json"
     }
   ]
 }
