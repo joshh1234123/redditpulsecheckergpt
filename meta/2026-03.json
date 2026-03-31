@@ -2009,6 +2009,21 @@
       "link_flair_text": null,
       "thread_id": "1s85y01",
       "thread_path": "1s85y01.json"
+    },
+    {
+      "id": "1s8bkha",
+      "title": "Scraper Ethics conundrum",
+      "author": "anti_fraud",
+      "score": 1,
+      "url": "/r/webscraping/comments/1s77dhe/scraper_ethics_conundrum/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8bkha/scraper_ethics_conundrum/",
+      "created_utc": 1774925654.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s8bkha",
+      "thread_path": "1s8bkha.json"
     }
   ]
 }
