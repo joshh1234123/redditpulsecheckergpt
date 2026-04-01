@@ -14,6 +14,21 @@
       "link_flair_text": null,
       "thread_id": "1s978vs",
       "thread_path": "1s978vs.json"
+    },
+    {
+      "id": "1s9m29g",
+      "title": "I built a Chrome extension to automatically parse and validate sellers.json files",
+      "author": "DazzlingChicken4893",
+      "score": 4,
+      "url": "https://i.redd.it/w5ver5ie9lsg1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1s9m29g/i_built_a_chrome_extension_to_automatically_parse/",
+      "created_utc": 1775053507.0,
+      "content": "Hey everyone. I have been working on a Chrome extension called Sellers.json Inspector and wanted to share it here to get some feedback.\n\nIf you ever have to deal with sellers.json files, you know that looking at massive raw JSON walls in the browser is a pain. My extension automatically parses the file right in the page, adds syntax highlighting, and opens a clean overview panel with aggregate stats. But the core feature is the validation. It automatically goes through the seller domains and runs background checks against their ads.txt and app-ads.txt files to verify if the seller IDs actually match up. It flags missing domains, shows you exactly which records are invalid or missing, and lets you filter and export that data.\n\nI am planning to keep developing this and will be pushing it to the Chrome Web Store soon so it is easier to install. Right now, I am trying to figure out what to add next.\n\nThe project is completely open source, and I would be really glad if anyone wants to join the development. If you are interested in contributing code, testing, or just throwing some ideas at me, please let me know.\n\nWould love to hear your thoughts on this.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1s9m29g",
+      "thread_path": "1s9m29g.json"
     }
   ]
 }
