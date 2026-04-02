@@ -74,6 +74,21 @@
       "link_flair_text": null,
       "thread_id": "1sa159p",
       "thread_path": "1sa159p.json"
+    },
+    {
+      "id": "1sa1yd8",
+      "title": "About CM360",
+      "author": "DepthAcrobatic885",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sa1yd8/about_cm360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sa1yd8/about_cm360/",
+      "created_utc": 1775088585.0,
+      "content": "Can a trader extract user paths for a website/advertiser from CM360.\n\nIf so , would it be only attributed or overall user journey paths?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sa1yd8",
+      "thread_path": "1sa1yd8.json"
     }
   ]
 }
