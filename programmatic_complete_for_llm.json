@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-02T10:45:05.462621+00:00",
-    "total_posts": 1488,
-    "total_comments": 9521
+    "scrape_date": "2026-04-02T11:40:29.330512+00:00",
+    "total_posts": 1489,
+    "total_comments": 9525
   },
   "discussions": [
     {
@@ -79013,6 +79013,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sae50o",
+      "title": "Where else do you hang out (more like-minded communities)?",
+      "author": "Own_Corner1016",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sae50o/where_else_do_you_hang_out_more_likeminded/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sae50o/where_else_do_you_hang_out_more_likeminded/",
+      "created_utc": 1775127382.0,
+      "content": "I mostly get info from Reddit (including this sub), but feel like I might be missing some good spots. Curious where people are active these days - especially Slack or Discord communities. LinkedIn groups feel kind of dead lately (at least compared to before), still there are plenty of smart people worth following their private profiles there.\n\nWould appreciate any recommendations",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Few-Orchid-9804",
+          "body": "Pornhub",
+          "score": 4,
+          "created_utc": 1775128075.0
+        },
+        {
+          "author": "ArmComprehensive3139",
+          "body": "The pub mate",
+          "score": 1,
+          "created_utc": 1775129613.0
+        },
+        {
+          "author": "Zestyclose-Bag6977",
+          "body": "Where do you work? Publisher / Agency    or Advertiser / Ad Tech Vendor?",
+          "score": 1,
+          "created_utc": 1775129725.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Programmatic category is top notch ",
+          "score": 1,
+          "created_utc": 1775128276.0
+        }
+      ]
     }
   ]
 }
