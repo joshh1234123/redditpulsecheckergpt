@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rrhghn",
-      "title": "Questions on running YouTube CTV campaigns on DV360",
-      "author": "DonSalaam",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrhghn/questions_on_running_youtube_ctv_campaigns_on/",
-      "created_utc": 1773290877.0,
-      "content": "I’m keen on knowing the following,\n\n1) Do you run these campaigns as standard YouTube line items or as CTV line items?\n\n2) Can you purchase YouTube CTV inventory only, or does it include partner/third-party publishers’ inventory in the mix?\n\n3) On the reporting side, does it identify the inventory as YouTube CTV inventory, or does it display as YouTube?\n\nPlease share any other tips and best practices. Thank you!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1rrl5j9",
-      "title": "Strategies to fix GA4 attribution for non-consented traffic from DV360 3p creatives (EU)",
-      "author": "MHerbalist",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rrl5j9/strategies_to_fix_ga4_attribution_for/",
-      "created_utc": 1773304211.0,
-      "content": "Are there any strategies to increase GA4 session attribution when:\n\n* user doesn't consent in cookie banner \n* advanced google consent mode is in place\n* behavioral modeling in GA4 is unavailable due to lower website traffic\n* campaign is running in DV360\n* third party creative with manual UTMs\n\nCould this be ameliorated through something like DV360 to GA4 linking, enhanced measurement or another approach?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rrmdt5",
       "title": "TTD ending dedicated agency teams for Salesforce ticketing?",
       "author": "vlad_chubakov",
@@ -1302,6 +1276,32 @@
       "created_utc": 1775127382.0,
       "content": "I mostly get info from Reddit (including this sub), but feel like I might be missing some good spots. Curious where people are active these days - especially Slack or Discord communities. LinkedIn groups feel kind of dead lately (at least compared to before), still there are plenty of smart people worth following their private profiles there.\n\nWould appreciate any recommendations",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1saigzx",
+      "title": "IVT Scanners were too expensive so I built my own",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "/r/adops/comments/1saiedz/ivt_scanners_were_too_expensive_so_i_built_my_own/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1saigzx/ivt_scanners_were_too_expensive_so_i_built_my_own/",
+      "created_utc": 1775139048.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1saiick",
+      "title": "Youtube Ads on Google vs DV 360",
+      "author": "miningstock",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1saiick/youtube_ads_on_google_vs_dv_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1saiick/youtube_ads_on_google_vs_dv_360/",
+      "created_utc": 1775139134.0,
+      "content": "I have seen this question has been asked several times in the past, but I wanted to dial in on the specifics.\n\nMy concern is not frequently caping or the fees. My concern is the conversions and CPA.\n\nI saw a few comments saying that you should use DV360 if you want impressions, and Google Ads if you want conversions. I want to check if that’s the true in your experience.\n\nFor context, it’ll be an online casino brand in North America, with a monthly spend between 5,000 to 10,000 for youtube. Thanks",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
