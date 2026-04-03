@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rro0hz",
-      "title": "Back with Another AdFraud Insight - Frequency Violation",
-      "author": "Hairy-Airport1305",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rro0hz/back_with_another_adfraud_insight_frequency/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rro0hz/back_with_another_adfraud_insight_frequency/",
-      "created_utc": 1773314363.0,
-      "content": "Before HUL Vs JioHotstar was a thing. We measured unusual activities on OTTs.\n\nOur team was going through some OTT campaign monitoring and found something that honestly doesn't makes sense.\n\n**A single device ID being served 1700+ ad impressions**\n\nNot in a Month. In a week and mostly in a Day only.\n\nJust putting that theoritically given if someone watched 5 hours of OTT daily. They still would reach this mark rather than not get frustrated.\n\nNaturally we dug deeper. We plugged out insights of these particular Device IDs and something really surprising came up.\n\n* Multiple Device Ids had same Device Structure\n* Continuous Ad delivery without a single Gap.\n\nThus, the Device IDs found to be synthetically made up just to eat up the reach of the campaigns. The dashboard and the advertiser were not even aware this existed untill we did.\n\nThese platforms are not only bypassing the frequency caps being put by somehow generating fake impressions by such device ids. Which them we were able to prevent.\n\nHappy to Answer any questions.\n\nhttps://preview.redd.it/vt09tj0tllog1.jpg?width=297&format=pjpg&auto=webp&s=a7e0f54d41d8078a1e938dc012f2995296ea6c44\n\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rroasg",
       "title": "How did you determine the work environment you are in is not suitable for you?",
       "author": "HeyItsAmisha",
@@ -1302,6 +1289,19 @@
       "created_utc": 1775177917.0,
       "content": "I feel like there's very few companies in programmatic that have real tech. Seems like most is vaporware",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sbjoum",
+      "title": "Viant DSP for CTV Buys",
+      "author": "lafromnyc",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sbjoum/viant_dsp_for_ctv_buys/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sbjoum/viant_dsp_for_ctv_buys/",
+      "created_utc": 1775236670.0,
+      "content": "How transparent is Viant with their reporting if you run a CTV campaign through their DSP.\n\nI am hearing conflicting stories.\n\nSo they report in show level data?\n\nHow granular is their reporting?\n\nThanks!",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

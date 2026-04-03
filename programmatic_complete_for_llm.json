@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-03T16:32:41.820845+00:00",
-    "total_posts": 1493,
+    "scrape_date": "2026-04-03T17:28:04.703797+00:00",
+    "total_posts": 1494,
     "total_comments": 9534
   },
   "discussions": [
@@ -79164,6 +79164,20 @@
           "created_utc": 1775182632.0
         }
       ]
+    },
+    {
+      "id": "1sbjoum",
+      "title": "Viant DSP for CTV Buys",
+      "author": "lafromnyc",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sbjoum/viant_dsp_for_ctv_buys/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sbjoum/viant_dsp_for_ctv_buys/",
+      "created_utc": 1775236670.0,
+      "content": "How transparent is Viant with their reporting if you run a CTV campaign through their DSP.\n\nI am hearing conflicting stories.\n\nSo they report in show level data?\n\nHow granular is their reporting?\n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
