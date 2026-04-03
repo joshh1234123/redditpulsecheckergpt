@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-02T23:58:54.468369+00:00",
-    "total_posts": 1492,
-    "total_comments": 9528
+    "scrape_date": "2026-04-03T02:32:40.130783+00:00",
+    "total_posts": 1493,
+    "total_comments": 9534
   },
   "discussions": [
     {
@@ -79111,6 +79111,57 @@
           "body": "That's so depressing 😭 I don't even want to be in an agency anymore. I wish I could go in-house",
           "score": 1,
           "created_utc": 1775163045.0
+        }
+      ]
+    },
+    {
+      "id": "1sazb39",
+      "title": "Is most programmatic real?",
+      "author": "Usual_Emotion7475",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sazb39/is_most_programmatic_real/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sazb39/is_most_programmatic_real/",
+      "created_utc": 1775177917.0,
+      "content": "I feel like there's very few companies in programmatic that have real tech. Seems like most is vaporware",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jamesatwork16",
+          "body": "By the definition of vapor ware, I would say it’s all real. It’s not super complicated at this point - you can just resell another platform. ",
+          "score": 3,
+          "created_utc": 1775178805.0
+        },
+        {
+          "author": "clawdaddy",
+          "body": "Are you high boy?!",
+          "score": 3,
+          "created_utc": 1775180106.0
+        },
+        {
+          "author": "mrgoobmanager",
+          "body": "There are a lot of companies built on top of Beeswax. And, they are often not upfront about it. But, yes. Some of us are out here building real tech that serves a purpose! ",
+          "score": 2,
+          "created_utc": 1775180742.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Mumbo jumbo real",
+          "score": 1,
+          "created_utc": 1775179417.0
+        },
+        {
+          "author": "Onion_Hands",
+          "body": "Narc ",
+          "score": 1,
+          "created_utc": 1775182002.0
+        },
+        {
+          "author": "DepthAcrobatic885",
+          "body": "The org i work for, MIQ has good tech capabilities and partnerships for programmatic",
+          "score": 1,
+          "created_utc": 1775182632.0
         }
       ]
     }
