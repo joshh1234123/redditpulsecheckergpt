@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rroasg",
-      "title": "How did you determine the work environment you are in is not suitable for you?",
-      "author": "HeyItsAmisha",
-      "score": 1,
-      "url": "/r/careerguidance/comments/1rroa3x/how_did_you_determine_the_work_environment_is_not/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rroasg/how_did_you_determine_the_work_environment_you/",
-      "created_utc": 1773315260.0,
-      "content": "",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rsch06",
       "title": "Transitioning from Google Ads Search to Programmatic (Display/Video) — How hard is the learning curve?",
       "author": "NwBookPage",
@@ -1302,6 +1289,19 @@
       "created_utc": 1775236670.0,
       "content": "How transparent is Viant with their reporting if you run a CTV campaign through their DSP.\n\nI am hearing conflicting stories.\n\nSo they report in show level data?\n\nHow granular is their reporting?\n\nThanks!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sbkb79",
+      "title": "What is the role you see programmatic and DSP’s playing in the future?",
+      "author": "DaBearsSB",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sbkb79/what_is_the_role_you_see_programmatic_and_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sbkb79/what_is_the_role_you_see_programmatic_and_dsps/",
+      "created_utc": 1775238024.0,
+      "content": "This is not meant to be a negative post, I’m genuinely curious where people think this is all going.\n\nI used to be in programmatic but switched over to social for a bit.  I’m thinking about moving back to programmatic.  I miss how exciting it was.\n\nBut I’m generally curious how are you feeling about the future of the industry and DSP’s in general?\n\nWhen I was last hands on keyboard (5 years ago) it seemed like we were moving everything we possibly could buy into the DSP.  All CTV, general digital buys…if it could be bought programmaticly we were putting it in the dsp.\n\nA big part of this was because we had hefty display budgets running so the consolidation made sense to put as much as you possibly could in one platform for reporting and frequency purposes.\n\nThis was also right before a lot of the cookie/privacy stuff started so we were running all sorts of wacky audience vendors, high impact ads and native partners.  Sort of the end of the Wild West where you had a million vendors to choose from.\n\nA lot has changed in 5 years.  I’ve heard rumblings that display is kind of dying.  A lot of what I’ve heard is that now DSP’s are basically a place where you execute your CTV buys and maybe OLV, and some display.\n\nOutside of AI taking our jobs (lol I hope not) it also is changing the way people use the internet.  I feel like less and less people just browse anymore.  If you’re consuming content it’s either on CTV, a social media platform, or YouTube all of which are walled gardens (outside of CTV).\n\nI’m curious where you all thing that leaves programmatic and DSP’s.\n\nWhat am I missing? I feel like I’ve been out of the game for long enough where I may just be missing the mark.\n\nEDIT:  One more thought.  Do you feel like DV360 is well positioned in the video first world? Access to YouTube and all your CTV buys all in the same DSP?  I guess Amazon DSP has this too?",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }
