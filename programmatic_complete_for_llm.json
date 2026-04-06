@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-06T21:32:20.369176+00:00",
-    "total_posts": 1497,
-    "total_comments": 9541
+    "scrape_date": "2026-04-06T22:29:05.168912+00:00",
+    "total_posts": 1500,
+    "total_comments": 9546
   },
   "discussions": [
     {
@@ -79264,6 +79264,80 @@
           "created_utc": 1775510297.0
         }
       ]
+    },
+    {
+      "id": "1secr4m",
+      "title": "Non-Compete?",
+      "author": "Solid_Fun_6827",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1secr4m/noncompete/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1secr4m/noncompete/",
+      "created_utc": 1775512174.0,
+      "content": "Hi everyone - would really appreciate some advice from people in adtech / programmatic / healthcare marketing.\n\nI live in NYC and recently left a mid-sized healthcare adtech company where I worked on the commercial side (programmatic / DSP / pharma clients). I have a standard non-compete in place (not company-specific, more broadly written around competitors in the space).\n\nI’m now exploring new opportunities and have two paths:\n\n1. A company I previously worked with and trust \n2. A new company that has extended me an offer \n\nThe complication is with the second option; they’ve made the offer contingent on me getting a formal release from my non-compete with my former employer before they issue the official offer letter.\n\nA few concerns I have:\n\n* I highly doubt my former employer would grant a release, especially if the new role is in a similar space\n* Reaching out to request a release could “alert” them and create risk for future opportunities\n* I’m not senior leadership (not C-level), and I wouldn’t be targeting the same clients if I joined a new company\n* It feels like the company is pushing all legal risk onto me before even formalizing the offer\n\nMy questions:\n\n* Has anyone successfully gotten a non-compete release in a situation like this?\n* Is it a red flag if a company requires this upfront instead of navigating it internally?\n* Would you even reach out to your former employer, or avoid triggering anything?\n* How do companies typically handle this in adtech / healthcare programmatic?\n\nI’m trying to be thoughtful and not make a move that could backfire long-term.\n\nAppreciate any advice; especially from anyone who’s navigated non-competes in this space.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Immediate_Way1834",
+          "body": "never been asked for a release. Non-competes also arent enforceable in NY from my understanding.",
+          "score": 4,
+          "created_utc": 1775512443.0
+        },
+        {
+          "author": "MalcolmButlersTruck",
+          "body": "\\^\\^ This has been my experience as well ",
+          "score": 1,
+          "created_utc": 1775512967.0
+        }
+      ]
+    },
+    {
+      "id": "1sed14b",
+      "title": "Anyone hiring Part Time?",
+      "author": "NewOrleansSpeed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sed14b/anyone_hiring_part_time/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sed14b/anyone_hiring_part_time/",
+      "created_utc": 1775512833.0,
+      "content": "Looking for some part time hands on keyboard (ad set up or buying), or analyst/consulting work.\n\n10+ years in experience in Programmatic - TTD, DV, Yahoo, MNTN, Xandr - CTV, Display, Audio, Pods, search, social, \\[whatever other keywords\\]\n\nWorked with CPG, D2C, B2B, SAAS - AUTO, BANKING, HEALTH, ENTERTAINMENT - US, LATAM, Canada.\n\nDM me.\n\nTLDR - Recently quit my toxic SR position and have been just enjoying freelance.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "feelingbi",
+          "body": "i am thinking about doing the same\nhow has freelancing been working out? ",
+          "score": 2,
+          "created_utc": 1775513756.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "oh oh, im cheap too. If that helps",
+          "score": 1,
+          "created_utc": 1775512918.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "so far not bad, lots of PT stuff out and about, most of them with a chance of leading to FT. I have one rn that takes up about 1/4 of my time, took me about two weeks after i left my last place to get it.",
+          "score": 1,
+          "created_utc": 1775514050.0
+        }
+      ]
+    },
+    {
+      "id": "1seddr2",
+      "title": "TTD: Performance + Control modes + Data partners",
+      "author": "SkyHighShortGuy",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1seddr2/ttd_performance_control_modes_data_partners/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1seddr2/ttd_performance_control_modes_data_partners/",
+      "created_utc": 1775513658.0,
+      "content": "Anyone else read the [Digiday](https://digiday.com/marketing/the-trade-desk-is-changing-how-advertisers-buy-and-what-they-can-see/) piece? \n\n**Anyone else read the Digiday piece on TTD's Trading Modes?**\n\nDV360 and Meta lock you into their O+O walled gardens to \"simplify\" measurement while padding margins through PMAX and Advantage+, respectively. TTD has long positioned itself as the antidote via UID2, the open web, and transparent fee structures. The Trading Modes beta quietly chips away at that promise, let's review.\n\n**Performance Mode and Audience Unlimited**\n\nPerformance Mode bundles media, data, and tech fees into a single blended CPM. Audience Unlimited is TTD's AI-driven 3P data marketplace and baked in by default. The problem: there's no line-item visibility into whether or when 3P audiences and ID graphs are actually being activated. You're trusting the black box.\n\nWorth noting that TTD owns Adbrain, one of the ID graph partners within Identity Alliance. Jeff Green has been loudly critical of DSPs that blur the lines between platform and O+O media. Apparently that scrutiny doesn't extend inward. Not a new tension, but it becomes more relevant as these Ai / automation layers stack up.\n\n**The Identity Alliance audit**\n\nTTD is now re-evaluating which Identity Alliance partners get paid, framed around \"incrementality.\" That sounds reasonable in isolation: who doesn't want to pay for what actually works? But pair it with this: when Identity Alliance is enabled in REDs, conversion attribution defaults to UID2 as the source. You can't isolate what drove a conversion. So TTD is simultaneously auditing which partners deserve payment *and* controlling the attribution logic that determines the answer. The deck is stacked.\n\n**The broader tension**\n\nThe article quotes an agency exec saying Google and Meta have proven that feeding platforms more signals and trusting their AI drives performance. TTD is essentially making the same bet, while arguing it's different because it's on the open web. That distinction matters less when you can't see the fees, can't audit the identity graph decisions, and can't verify attribution sources.\n\nControl Mode exists as the \"transparency escape hatch\" but as one exec puts it, optional principles have a way of becoming inconvenient ones in advertising.\n\nI've got my own biases but curious how others are thinking about the IA payout changes specifically. Are you auditing your REDs attribution setup?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
