@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-06T20:31:38.330355+00:00",
-    "total_posts": 1496,
-    "total_comments": 9540
+    "scrape_date": "2026-04-06T21:32:20.369176+00:00",
+    "total_posts": 1497,
+    "total_comments": 9541
   },
   "discussions": [
     {
@@ -79243,6 +79243,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1seb2wt",
+      "title": "Need suggestions: should I take this DSP analyst offer or hold out for DS roles?",
+      "author": "user_8860",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1seb2wt/need_suggestions_should_i_take_this_dsp_analyst/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1seb2wt/need_suggestions_should_i_take_this_dsp_analyst/",
+      "created_utc": 1775508438.0,
+      "content": "Hi all, I'm fresh out of school with a PhD in social science. I was recently offered an analyst position at a DSP company, but it sounds more like campaign manager. I'll be managing campaigns for clients, and performance is tied to how much account/budget I can manage. \n\nMy biggest concern is ending up stuck in repetitive operational work rather than doing anything quantitative. I have a coding and statistics background, just wondering whether it's better to find a job that requires those skills, so I can max out my value. \n\nA few questions for anyone with DSP or ad-tech experience:\n\n* How quantitative vs. operational is the day-to-day?\n* How stressful is this type of role typically?\n* What does the growth path look like? salary ceiling?\n* Any pros/cons vs. a data scientist role in other industries would also be appreciated.\n\nThanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SkyHighShortGuy",
+          "body": "Congrats on the PhD. This sounds like an Ad Ops or Campaign Manager position. Good industry entry point to understand the plumbing but in this role, you'll be pulling UI levers and reporting. Not sure how deep into the data science weeds you'll get initially but if you like the people and platform, it could be a stepping stone into a formal DS role. I am an industry analyst, feel free to DM if you have other Qs.",
+          "score": 2,
+          "created_utc": 1775510297.0
+        }
+      ]
     }
   ]
 }
