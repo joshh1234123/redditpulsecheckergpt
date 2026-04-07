@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rt2cki",
-      "title": "If you could name 3 things a top programmatic specialist/Trader does to outclass their competitors, what would they be?",
-      "author": "TheGrandLeveler",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rt2cki/if_you_could_name_3_things_a_top_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rt2cki/if_you_could_name_3_things_a_top_programmatic/",
-      "created_utc": 1773442061.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rt4ew0",
       "title": "About me and my role",
       "author": "DepthAcrobatic885",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1seddr2/ttd_performance_control_modes_data_partners/",
       "created_utc": 1775513658.0,
       "content": "Anyone else read the [Digiday](https://digiday.com/marketing/the-trade-desk-is-changing-how-advertisers-buy-and-what-they-can-see/) piece? \n\n**Anyone else read the Digiday piece on TTD's Trading Modes?**\n\nDV360 and Meta lock you into their O+O walled gardens to \"simplify\" measurement while padding margins through PMAX and Advantage+, respectively. TTD has long positioned itself as the antidote via UID2, the open web, and transparent fee structures. The Trading Modes beta quietly chips away at that promise, let's review.\n\n**Performance Mode and Audience Unlimited**\n\nPerformance Mode bundles media, data, and tech fees into a single blended CPM. Audience Unlimited is TTD's AI-driven 3P data marketplace and baked in by default. The problem: there's no line-item visibility into whether or when 3P audiences and ID graphs are actually being activated. You're trusting the black box.\n\nWorth noting that TTD owns Adbrain, one of the ID graph partners within Identity Alliance. Jeff Green has been loudly critical of DSPs that blur the lines between platform and O+O media. Apparently that scrutiny doesn't extend inward. Not a new tension, but it becomes more relevant as these Ai / automation layers stack up.\n\n**The Identity Alliance audit**\n\nTTD is now re-evaluating which Identity Alliance partners get paid, framed around \"incrementality.\" That sounds reasonable in isolation: who doesn't want to pay for what actually works? But pair it with this: when Identity Alliance is enabled in REDs, conversion attribution defaults to UID2 as the source. You can't isolate what drove a conversion. So TTD is simultaneously auditing which partners deserve payment *and* controlling the attribution logic that determines the answer. The deck is stacked.\n\n**The broader tension**\n\nThe article quotes an agency exec saying Google and Meta have proven that feeding platforms more signals and trusting their AI drives performance. TTD is essentially making the same bet, while arguing it's different because it's on the open web. That distinction matters less when you can't see the fees, can't audit the identity graph decisions, and can't verify attribution sources.\n\nControl Mode exists as the \"transparency escape hatch\" but as one exec puts it, optional principles have a way of becoming inconvenient ones in advertising.\n\nI've got my own biases but curious how others are thinking about the IA payout changes specifically. Are you auditing your REDs attribution setup?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1selnlw",
+      "title": "Programmatic Newsletters?",
+      "author": "No-Resolution6121",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1selnlw/programmatic_newsletters/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1selnlw/programmatic_newsletters/",
+      "created_utc": 1775535290.0,
+      "content": "Has anyone used any programmatic newsletter platforms? LiveIntent, Paved, BeeHive, any others?\n\nCurious what's out there and peoples experience using them. Is it a similar experience to traditional platforms?   ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
