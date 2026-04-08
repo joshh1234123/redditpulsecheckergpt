@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-08T16:54:10.948849+00:00",
-    "total_posts": 1502,
-    "total_comments": 9546
+    "scrape_date": "2026-04-08T18:01:55.739837+00:00",
+    "total_posts": 1503,
+    "total_comments": 9547
   },
   "discussions": [
     {
@@ -79366,6 +79366,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sfyofd",
+      "title": "Recommend some subreddits in the adexchange, please 🙏🏻",
+      "author": "official_rebeca",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sfyofd/recommend_some_subreddits_in_the_adexchange_please/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sfyofd/recommend_some_subreddits_in_the_adexchange_please/",
+      "created_utc": 1775667511.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "EarthPrimer",
+          "body": "Is this a reddit advertising specific question? If not I'm so confused",
+          "score": 2,
+          "created_utc": 1775667858.0
+        }
+      ]
     }
   ]
 }
