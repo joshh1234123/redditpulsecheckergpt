@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-08T14:07:06.694984+00:00",
-    "total_posts": 1501,
+    "scrape_date": "2026-04-08T15:52:42.217300+00:00",
+    "total_posts": 1502,
     "total_comments": 9546
   },
   "discussions": [
@@ -79348,6 +79348,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1selnlw/programmatic_newsletters/",
       "created_utc": 1775535290.0,
       "content": "Has anyone used any programmatic newsletter platforms? LiveIntent, Paved, BeeHive, any others?\n\nCurious what's out there and peoples experience using them. Is it a similar experience to traditional platforms?   ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sfw5zl",
+      "title": "Best Place to Search for Jobs",
+      "author": "ProfessionalLychee25",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sfw5zl/best_place_to_search_for_jobs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sfw5zl/best_place_to_search_for_jobs/",
+      "created_utc": 1775662173.0,
+      "content": "Anywhere besides the usual LinkedIn and Indeed you've had luck searching for jobs? I've used FlexJobs and BuiltIn before as well, but haven't had much luck in the past. I feel like I've been looking at the same \"reposted\" jobs on LinkedIn for months.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
