@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-09T13:07:01.405021+00:00",
-    "total_posts": 1503,
-    "total_comments": 9547
+    "scrape_date": "2026-04-09T15:03:27.560966+00:00",
+    "total_posts": 1505,
+    "total_comments": 9554
   },
   "discussions": [
     {
@@ -79385,6 +79385,78 @@
           "body": "Is this a reddit advertising specific question? If not I'm so confused",
           "score": 2,
           "created_utc": 1775667858.0
+        }
+      ]
+    },
+    {
+      "id": "1sgpop3",
+      "title": "Running Audio / Podcast Campaign in DV360",
+      "author": "EntryPuzzleheaded914",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
+      "created_utc": 1775741409.0,
+      "content": "Hi everyone! \n\nI’m looking for some experiences with running Audio / Podcast campaigns in DV360.\n\nOne issue I keep running into: when campaigns are set up to run openly (public inventory), they often struggle to spend. I’ve tried increasing and removing the target CPM, removing all targeting while leaving only broad geo targeting, but delivery still remains very limited. The only thing that sometimes unlocks impressions is adding specific audio apps as an extra targeting layer, but not always.\n\nSince I don’t have much hands on experience with audio/podcast inventory in DV360, I’d love to hear how others approach this.\n\nA few questions:\n\n* Is limited spend when running audio openly something you’ve experienced? Do you have any recommendation in resolving this?\n* When targeting apps like Spotify in DV360, how does performance typically compare vs running Spotify campaigns directly? Is DV360 a “good enough” alternative in your experience (as it is much cheaper than Spotify campaign)\n* When targeting podcasts only in DV360, I’ve seen very low ACRs (5-6%). Is that expected for podcast inventory?\n\nWould really appreciate any tips, best practices, or general experiences as I'm trying to figure out the best approach for this in DV360. Thanks in advance! ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "philipokmolotok",
+          "body": "What SSP(s) are you running on? You should just be able to run directly on Spotify Ad Ex change(SAX). Otherwise why are you trying to run on openweb, it's be better to set up a PMP/pg deal with Spotify or I heart ",
+          "score": 1,
+          "created_utc": 1775743630.0
+        },
+        {
+          "author": "EntryPuzzleheaded914",
+          "body": "Thanks for the reply and reccos!   \nAt the moment I’ve been testing across all available exchanges (AdsWizz, DAX, Magnite, Equativ, etc.) to understand what actually delivers vs what doesn’t. I completely agree that PMP/PG is the more logical route and that makes total sense, right now I’m just experimenting across setups to see what can realistically work and bring the best results. However, all additional insights or recommendations are very welcome :))",
+          "score": 1,
+          "created_utc": 1775745859.0
+        }
+      ]
+    },
+    {
+      "id": "1sgpyf6",
+      "title": "How do you handle duplication between CTV, YouTube, paid social, and linear TV?",
+      "author": "Former_Tea1131",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
+      "created_utc": 1775742054.0,
+      "content": "I’m in-house on the paid media side, mostly from a PPC / performance background, and I’ve recently been pulled into helping manage CTV alongside our existing YouTube, paid social, and some linear TV activity. I’m used to channels where reporting is more direct and the optimization logic is clearer, so one thing I’m struggling with is how people actually handle duplication across all of these video channels in practice. Each platform reports its own reach, frequency, views, and conversions, but once you try to zoom out, it's hard to tell how much of that is truly incremental versus the same audiences being hit over and over in different places.\n\nThe internal question I keep getting is basically whether CTV is adding net new reach or just overlapping with people we were already getting through YouTube, Meta, and linear. From my side, every platform seems to present its numbers in a way that makes itself look valuable, so I’m not sure what teams are actually trusting once budgets get big enough for overlap to matter.\n\nFor people working on larger brands or on mature media teams, how are you handling duplication? Are you relying on platform tools, outside measurement partners, identity graphs, clean rooms, panel data, or just accepting that you’re only going to get a directional answer?\n\nI'm trying to understand what people are doing in practice once the channel mix gets big enough that overlap becomes a real budget issue.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fun_Average_3813",
+          "body": "At a practical level, we stopped chasing a perfect deduped number and split the problem up. Platform tools for in-channel pacing, then geo tests/MMM for whether the mix is actually adding value. Messy answer, but cleaner than pretending Meta + YouTube + CTV dashboards can roll up into a single truth.",
+          "score": 3,
+          "created_utc": 1775743652.0
+        },
+        {
+          "author": "InevitableImpress850",
+          "body": "Coming from PPC, the trap is expecting user-level clarity from channels that were never built to give it to you. I’d separate “delivery management” from “incrementality.” Use platform reach/frequency for ops, then validate overlap with panel data, lift studies, or holdouts. If leadership wants one source of truth, they probably want a fantasy.",
+          "score": 2,
+          "created_utc": 1775742536.0
+        },
+        {
+          "author": "BrentMaxey",
+          "body": "Most bigger teams I’ve seen don’t truly dedupe CTV, YouTube, paid social, and linear in one neat view. They use a stack of partial answers and accept some fuzziness. Once linear is in the mix, you’re usually dealing in probabilities, not precision.",
+          "score": 1,
+          "created_utc": 1775744502.0
+        },
+        {
+          "author": "skidrama3",
+          "body": "Other responses are great so far. The answer is “you don’t” because there is no good tool that does everything, even the best agency tools have an element of panel-based info that is not truly accurate (and that’s planning, not post-buy). \n\nOnly other build is that you can manage frequency between YouTube and CTV if you’re buying on DV360. You can also add a data fee to block linear exposures (or at least you can on other DSPs, I don’t buy DV360 so don’t know if it’s any good). But that does not address Meta and depending on your media mix and current DSP fees that may not make sense financially. ",
+          "score": 1,
+          "created_utc": 1775744638.0
+        },
+        {
+          "author": "Pop_91",
+          "body": "3pd measurement can be an option. Comscore, ispot, videoamp, Nielson ",
+          "score": 1,
+          "created_utc": 1775746040.0
         }
       ]
     }

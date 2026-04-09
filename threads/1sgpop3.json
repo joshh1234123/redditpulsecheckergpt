@@ -1,0 +1,22 @@
+{
+  "id": "1sgpop3",
+  "thread_id": "1sgpop3",
+  "title": "Running Audio / Podcast Campaign in DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
+  "created_utc": 1775741409.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "philipokmolotok",
+      "body": "What SSP(s) are you running on? You should just be able to run directly on Spotify Ad Ex change(SAX). Otherwise why are you trying to run on openweb, it's be better to set up a PMP/pg deal with Spotify or I heart ",
+      "score": 1,
+      "created_utc": 1775743630.0
+    },
+    {
+      "author": "EntryPuzzleheaded914",
+      "body": "Thanks for the reply and reccos!   \nAt the moment I’ve been testing across all available exchanges (AdsWizz, DAX, Magnite, Equativ, etc.) to understand what actually delivers vs what doesn’t. I completely agree that PMP/PG is the more logical route and that makes total sense, right now I’m just experimenting across setups to see what can realistically work and bring the best results. However, all additional insights or recommendations are very welcome :))",
+      "score": 1,
+      "created_utc": 1775745859.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1sgpyf6",
+  "thread_id": "1sgpyf6",
+  "title": "How do you handle duplication between CTV, YouTube, paid social, and linear TV?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
+  "created_utc": 1775742054.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Fun_Average_3813",
+      "body": "At a practical level, we stopped chasing a perfect deduped number and split the problem up. Platform tools for in-channel pacing, then geo tests/MMM for whether the mix is actually adding value. Messy answer, but cleaner than pretending Meta + YouTube + CTV dashboards can roll up into a single truth.",
+      "score": 3,
+      "created_utc": 1775743652.0
+    },
+    {
+      "author": "InevitableImpress850",
+      "body": "Coming from PPC, the trap is expecting user-level clarity from channels that were never built to give it to you. I’d separate “delivery management” from “incrementality.” Use platform reach/frequency for ops, then validate overlap with panel data, lift studies, or holdouts. If leadership wants one source of truth, they probably want a fantasy.",
+      "score": 2,
+      "created_utc": 1775742536.0
+    },
+    {
+      "author": "BrentMaxey",
+      "body": "Most bigger teams I’ve seen don’t truly dedupe CTV, YouTube, paid social, and linear in one neat view. They use a stack of partial answers and accept some fuzziness. Once linear is in the mix, you’re usually dealing in probabilities, not precision.",
+      "score": 1,
+      "created_utc": 1775744502.0
+    },
+    {
+      "author": "skidrama3",
+      "body": "Other responses are great so far. The answer is “you don’t” because there is no good tool that does everything, even the best agency tools have an element of panel-based info that is not truly accurate (and that’s planning, not post-buy). \n\nOnly other build is that you can manage frequency between YouTube and CTV if you’re buying on DV360. You can also add a data fee to block linear exposures (or at least you can on other DSPs, I don’t buy DV360 so don’t know if it’s any good). But that does not address Meta and depending on your media mix and current DSP fees that may not make sense financially. ",
+      "score": 1,
+      "created_utc": 1775744638.0
+    },
+    {
+      "author": "Pop_91",
+      "body": "3pd measurement can be an option. Comscore, ispot, videoamp, Nielson ",
+      "score": 1,
+      "created_utc": 1775746040.0
+    }
+  ]
+}

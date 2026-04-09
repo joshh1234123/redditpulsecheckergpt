@@ -314,6 +314,36 @@
       "link_flair_text": null,
       "thread_id": "1sfyofd",
       "thread_path": "1sfyofd.json"
+    },
+    {
+      "id": "1sgpop3",
+      "title": "Running Audio / Podcast Campaign in DV360",
+      "author": "EntryPuzzleheaded914",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
+      "created_utc": 1775741409.0,
+      "content": "Hi everyone! \n\nI’m looking for some experiences with running Audio / Podcast campaigns in DV360.\n\nOne issue I keep running into: when campaigns are set up to run openly (public inventory), they often struggle to spend. I’ve tried increasing and removing the target CPM, removing all targeting while leaving only broad geo targeting, but delivery still remains very limited. The only thing that sometimes unlocks impressions is adding specific audio apps as an extra targeting layer, but not always.\n\nSince I don’t have much hands on experience with audio/podcast inventory in DV360, I’d love to hear how others approach this.\n\nA few questions:\n\n* Is limited spend when running audio openly something you’ve experienced? Do you have any recommendation in resolving this?\n* When targeting apps like Spotify in DV360, how does performance typically compare vs running Spotify campaigns directly? Is DV360 a “good enough” alternative in your experience (as it is much cheaper than Spotify campaign)\n* When targeting podcasts only in DV360, I’ve seen very low ACRs (5-6%). Is that expected for podcast inventory?\n\nWould really appreciate any tips, best practices, or general experiences as I'm trying to figure out the best approach for this in DV360. Thanks in advance! ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sgpop3",
+      "thread_path": "1sgpop3.json"
+    },
+    {
+      "id": "1sgpyf6",
+      "title": "How do you handle duplication between CTV, YouTube, paid social, and linear TV?",
+      "author": "Former_Tea1131",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
+      "created_utc": 1775742054.0,
+      "content": "I’m in-house on the paid media side, mostly from a PPC / performance background, and I’ve recently been pulled into helping manage CTV alongside our existing YouTube, paid social, and some linear TV activity. I’m used to channels where reporting is more direct and the optimization logic is clearer, so one thing I’m struggling with is how people actually handle duplication across all of these video channels in practice. Each platform reports its own reach, frequency, views, and conversions, but once you try to zoom out, it's hard to tell how much of that is truly incremental versus the same audiences being hit over and over in different places.\n\nThe internal question I keep getting is basically whether CTV is adding net new reach or just overlapping with people we were already getting through YouTube, Meta, and linear. From my side, every platform seems to present its numbers in a way that makes itself look valuable, so I’m not sure what teams are actually trusting once budgets get big enough for overlap to matter.\n\nFor people working on larger brands or on mature media teams, how are you handling duplication? Are you relying on platform tools, outside measurement partners, identity graphs, clean rooms, panel data, or just accepting that you’re only going to get a directional answer?\n\nI'm trying to understand what people are doing in practice once the channel mix gets big enough that overlap becomes a real budget issue.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sgpyf6",
+      "thread_path": "1sgpyf6.json"
     }
   ]
 }
