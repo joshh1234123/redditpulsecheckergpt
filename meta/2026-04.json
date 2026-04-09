@@ -374,6 +374,36 @@
       "link_flair_text": null,
       "thread_id": "1sh4dg8",
       "thread_path": "1sh4dg8.json"
+    },
+    {
+      "id": "1sh50xc",
+      "title": "Yahoo DSP Billing Structure (gross vs media)",
+      "author": "VirtualHoneydew5",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sh50xc/yahoo_dsp_billing_structure_gross_vs_media/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sh50xc/yahoo_dsp_billing_structure_gross_vs_media/",
+      "created_utc": 1775775168.0,
+      "content": "Hey guys! I’ve heard that Yahoo DSP is moving from a media cost to a gross media structure. Meaning, they’re moving to a similar cost model as TTD charging their platform fee on total spend versus just media spend.\n\nIs this occurring across your agencies & accounts? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sh50xc",
+      "thread_path": "1sh50xc.json"
+    },
+    {
+      "id": "1sh5jhl",
+      "title": "TTD CTV Fees",
+      "author": "jackforreal",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sh5jhl/ttd_ctv_fees/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sh5jhl/ttd_ctv_fees/",
+      "created_utc": 1775776420.0,
+      "content": "So what’s the actual deal with TTD fees? I’m at an agency and we’re planning on running CTV with some publishers. I’m thinking Netflix and Disney. Can anyone tell me if it’s a bad idea to run it through TTD? My client is really big on brand safety and targeting. We also want low CPMs, will predictive clearing help that or is there a charge?\n\nI guess I’m wondering what hidden fees there are on TTD for CTV. \n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sh5jhl",
+      "thread_path": "1sh5jhl.json"
     }
   ]
 }
