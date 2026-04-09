@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rtntry",
-      "title": "Invalid traffic by ias",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rtntry/invalid_traffic_by_ias/",
-      "created_utc": 1773505759.0,
-      "content": "How can you avoid invalid traffic flagged by Ias? Just adding sites in blacklist? How to prevent it before monitoring?",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rtvv07",
       "title": "Noob Resource - Programmatic Abbreviation/Dictionary",
       "author": "NewOrleansSpeed",
@@ -1302,6 +1289,19 @@
       "created_utc": 1775742054.0,
       "content": "I’m in-house on the paid media side, mostly from a PPC / performance background, and I’ve recently been pulled into helping manage CTV alongside our existing YouTube, paid social, and some linear TV activity. I’m used to channels where reporting is more direct and the optimization logic is clearer, so one thing I’m struggling with is how people actually handle duplication across all of these video channels in practice. Each platform reports its own reach, frequency, views, and conversions, but once you try to zoom out, it's hard to tell how much of that is truly incremental versus the same audiences being hit over and over in different places.\n\nThe internal question I keep getting is basically whether CTV is adding net new reach or just overlapping with people we were already getting through YouTube, Meta, and linear. From my side, every platform seems to present its numbers in a way that makes itself look valuable, so I’m not sure what teams are actually trusting once budgets get big enough for overlap to matter.\n\nFor people working on larger brands or on mature media teams, how are you handling duplication? Are you relying on platform tools, outside measurement partners, identity graphs, clean rooms, panel data, or just accepting that you’re only going to get a directional answer?\n\nI'm trying to understand what people are doing in practice once the channel mix gets big enough that overlap becomes a real budget issue.",
       "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sgt84b",
+      "title": "Programmatic Career Advice",
+      "author": "No-Imagination8883",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sgt84b/programmatic_career_advice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgt84b/programmatic_career_advice/",
+      "created_utc": 1775749255.0,
+      "content": "Hey all,\n\nI’ve been working in programmatic in the UK for 5 years now, did the standard agency route of Exec> Snr Exec > Manager > Snr Manager > Director.\n\nI ended up in the field by chance after graduating during pandemic, first couple years helped me learn the ropes of campaign management as part of a 12-person internal trading hub (was hybrid planning and activation role), trafficking, optimisation etc. but had minimal client facing exposure.\n\nMoved agency after a couple years starting as a manager, I was really motivated to learn, grow and enjoyed it there a lot, but agency had a lot of churn and felt lack of support/guidance (cycled through a series of short term managers due to mat leave, people leaving etc). In addition to managing a couple small accounts I transitioned to more of an ad tech role developing CTV capability (which was fun tbh but got a bit stale heading up a team only activating one channel).\n\nI jumped agency again last year mostly because I fancied a change and the comp they offered was solid. Fast forward and now I’m pretty burned out- realised client management really is the worst part of the job, and that the reason the agency I’m at now is doing so well is not due to slick structures but just that they funnel all spend toward internal managed service teams (which means no autonomy, and I’m accountable to client for all their mistakes) and stretching teams super thin resource-wise. I went from managing a team of solid performers I was close with and knowing all the ins and outs of our process to running two huge accounts (one new to the agency and the other notoriously chaotic) with no fixed processes, difficult relationship with planners/client, a couple overseas resource and no UK-based traders.\n\nI feel stuck and bit overwhelmed in the new job. I’ve gone from a fairly confident high performer well liked by snr leadership to constantly second guessing myself (imposter syndrome) and worrying abt job security.\n\nDo you have any advice on managing this transition ?\n\nI don’t really want to jump ship again as I want stability and am trying to buy a house atm, but feel like leaving was a misstep and am so burned out I’m considering just leaving the agency life entirely, but have no frame of reference for sales, pub or DSP roles.\n\nThanks",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
