@@ -404,6 +404,21 @@
       "link_flair_text": null,
       "thread_id": "1sh5jhl",
       "thread_path": "1sh5jhl.json"
+    },
+    {
+      "id": "1shrn62",
+      "title": "[Help] Confused about DV360 Attribution: Click-through vs. View-through Window",
+      "author": "HeyItsAmisha",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1shrn62/help_confused_about_dv360_attribution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1shrn62/help_confused_about_dv360_attribution/",
+      "created_utc": 1775838789.0,
+      "content": "Hey everyone, I’m diving deeper into DV360 and attribution modeling, but I’m struggling to wrap my head around a few concepts. Could someone help clarify these two points for me? \n\n1. **Click-Through vs. View-Through (Post-View) Windows**: What is the actual purpose of separating these? Specifically, why is it common practice to keep the View-through window shorter (or sometimes longer) than the Click-through window? What is the logic behind the \"gap\" between them?\n\n2. **View\" vs. \"TrueView\":** In the context of DV360, what is the technical difference between a standard \"view\" and a Google \"TrueView\"?\n\nI've tried searching, but most articles are either too high-level or buried in technical jargon. Any \"ELI5\" (Explain Like I'm 5) explanations or real-world examples would be amazing. I would really appreciate it if you guys refrain from any judgemental or hate comments please. \n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1shrn62",
+      "thread_path": "1shrn62.json"
     }
   ]
 }
