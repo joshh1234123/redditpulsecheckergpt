@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-11T15:26:39.717047+00:00",
-    "total_posts": 1511,
-    "total_comments": 9554
+    "scrape_date": "2026-04-11T15:54:11.803420+00:00",
+    "total_posts": 1512,
+    "total_comments": 9555
   },
   "discussions": [
     {
@@ -79543,6 +79543,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1simgp3",
+      "title": "How long did it take you to adjust to a different DSP?",
+      "author": "Right-Pirate-8751",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
+      "created_utc": 1775922218.0,
+      "content": "Just switched jobs and the new agency runs campaigns through Q1 Media instead of DV360 which is all I've ever used. I don't want to walk in on day one looking clueless.\n\nFrom what I can piece together they're an independent DSP with managed service on top but I'd love to hear from anyone who's actually worked with them. Supply path transparency, CTV inventory quality, reporting, anything you can share would be helpful. Trying to get up to speed fast.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MaximumMode1901",
+          "body": "Haven't used the said dsp but have used others like dv360, ttd , Amazon and other proprietary biddable platforms - Basics are same everywhere budgets , flights , frequency and audiences , since you already have campaign management experience you'll pick things up quickly it's just matter of change in UI.",
+          "score": 2,
+          "created_utc": 1775922594.0
+        }
+      ]
     }
   ]
 }

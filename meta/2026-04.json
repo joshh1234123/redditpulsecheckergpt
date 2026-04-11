@@ -434,6 +434,21 @@
       "link_flair_text": null,
       "thread_id": "1sijbbb",
       "thread_path": "1sijbbb.json"
+    },
+    {
+      "id": "1simgp3",
+      "title": "How long did it take you to adjust to a different DSP?",
+      "author": "Right-Pirate-8751",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
+      "created_utc": 1775922218.0,
+      "content": "Just switched jobs and the new agency runs campaigns through Q1 Media instead of DV360 which is all I've ever used. I don't want to walk in on day one looking clueless.\n\nFrom what I can piece together they're an independent DSP with managed service on top but I'd love to hear from anyone who's actually worked with them. Supply path transparency, CTV inventory quality, reporting, anything you can share would be helpful. Trying to get up to speed fast.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1simgp3",
+      "thread_path": "1simgp3.json"
     }
   ]
 }
