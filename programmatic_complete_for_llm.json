@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-11T19:30:25.460043+00:00",
-    "total_posts": 1512,
-    "total_comments": 9555
+    "scrape_date": "2026-04-11T19:57:43.198640+00:00",
+    "total_posts": 1513,
+    "total_comments": 9556
   },
   "discussions": [
     {
@@ -79562,6 +79562,27 @@
           "body": "Haven't used the said dsp but have used others like dv360, ttd , Amazon and other proprietary biddable platforms - Basics are same everywhere budgets , flights , frequency and audiences , since you already have campaign management experience you'll pick things up quickly it's just matter of change in UI.",
           "score": 2,
           "created_utc": 1775922594.0
+        }
+      ]
+    },
+    {
+      "id": "1sisjvr",
+      "title": "Trying to understand industry politics",
+      "author": "lordzn",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sisjvr/trying_to_understand_industry_politics/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sisjvr/trying_to_understand_industry_politics/",
+      "created_utc": 1775935945.0,
+      "content": "I've just started as a trainee at one of the big holdco. I will focus on programmatic, hence why I am posting in this community.\n\nI've heard a couple of times people mentioning the \"politics\" aspect of the agency world, referring both to company politics (which I can understand) but also industry politics, which I am not familiar with.\n\nCould you help me understand what industry politics consists of and how to navigate it, considering I am at the beginning of my career?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ladipn",
+          "body": "Consider reading the trade press; AdExchanger, Digiday, Adweek, Ad Age. They will give you an idea of key topics being debated. \n\nThen ask colleagues their opinions on specific topics that interest or are relevant to you.\n\nLinkedIn, find interesting people to follow, like their posts so they stay in your feed. Maybe senior colleagues who regularly post too.",
+          "score": 2,
+          "created_utc": 1775936667.0
         }
       ]
     }
