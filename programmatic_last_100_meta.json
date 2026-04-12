@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rwjz96",
-      "title": "Adform sent me to collections mid-dispute: spam traffic killed the campaign, and they refuse to correct their own invoice",
-      "author": "West-Air2726",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rwjz96/adform_sent_me_to_collections_middispute_spam/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rwjz96/adform_sent_me_to_collections_middispute_spam/",
-      "created_utc": 1773782768.0,
-      "content": "I need to vent about my experience with Adform. Not here to bash for the sake of it, just sharing what happened so others can go in with eyes open.\n\nThe platform failed to protect against fraud. Our campaign was flooded with fraudulent impressions and clicks. Their anti-fraud guardrails don’t actually block bad traffic, they just quietly redact it from reporting after the fact. You’re still paying for it, you just don’t see it clearly. The campaign was effectively useless from the start.\n\nWe’re not refusing to pay. We’re asking for a corrected invoice. There are clear discrepancies: prepaid credit that was never proactively applied (I had to flag it myself before they acknowledged it), and a credit amount that their own platform shows differently than what their collections team claims. I provided a screenshot. Their response? “I’m not certain why the system displayed that on your side.” No correction. No explanation. Just pay what we say.\n\nTo top it off, the invoice was due March 17. They only provided the full payment breakdown on March 16, sixteen days after sending the invoice, and by then it had already been escalated to collections. We were still actively disputing the charges over email. No resolution, no corrected invoice, no acknowledgment of the discrepancies. Just a payment demand.\n\nThe willingness to pay is there. The trust in their figures is not, and that’s entirely on them.\n\nIf you’re evaluating Adform, understand that their billing process appears to assume you won’t scrutinize the numbers. And if you do, don’t expect good faith in return.\n\nHas anyone else dealt with this kind of billing behavior from them?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rwuzlo",
       "title": "Seeking Advice on Programmatic Roles Abroad",
       "author": "Inside-Valuable2645",
@@ -1302,6 +1289,19 @@
       "created_utc": 1775978349.0,
       "content": "Could you please provide a roadmap for transitioning into a career in programmatic advertising, from an ad operations or QA analyst background? I would appreciate guidance on where to begin and how to approach interviews.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sjh3x5",
+      "title": "Reddit has released official statistics stating that 69% of Reddit users do not use LinkedIn",
+      "author": "official_rebeca",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sjh3x5/reddit_has_released_official_statistics_stating/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sjh3x5/reddit_has_released_official_statistics_stating/",
+      "created_utc": 1776006674.0,
+      "content": "",
+      "num_comments": 10,
       "over_18": false,
       "link_flair_text": null
     }
