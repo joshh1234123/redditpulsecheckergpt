@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-13T14:13:49.600005+00:00",
-    "total_posts": 1516,
-    "total_comments": 9566
+    "scrape_date": "2026-04-13T15:53:55.969780+00:00",
+    "total_posts": 1517,
+    "total_comments": 9574
   },
   "discussions": [
     {
@@ -79688,6 +79688,69 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1skcb8n",
+      "title": "Is switching companies after a year frowned upon in this industry?",
+      "author": "Both_Simple_5111",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1skcb8n/is_switching_companies_after_a_year_frowned_upon/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1skcb8n/is_switching_companies_after_a_year_frowned_upon/",
+      "created_utc": 1776090145.0,
+      "content": "I’m (28M) about a year into my role and I’m realizing I’m not happy with my manager, there’s no chance for me to switch to another team without my role changing completely. If I move to another company now would that affect me negatively? I know in this industry people job hop all the time but is that a good thing?",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Switching jobs after a year now adays is not frowned upon on in basically any industry. However, going to a direct competitor is often not a great move",
+          "score": 9,
+          "created_utc": 1776090383.0
+        },
+        {
+          "author": "shucklak8",
+          "body": "as a hiring manager, I don't love seeing short stints or resumes/LinkedIn. It's not a blocker if you have a good reason. \n\nThe big thing I look for is whether you're running away from something, or are you running to a better opportunity. I want to hear more about the latter than the former. ",
+          "score": 5,
+          "created_utc": 1776090782.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Par for the course in our line of work - quite a few times I’ve been hired only around the 6 month mark to realize this person is a garbage human and i don’t want to give them my all since as literally will exploit you and fire you if you speak up.\n\nBut nah, just make sure to give a valid reason for “early” departure and the hard details of what you did. People care more for results now a days since tenure means diddle. ",
+          "score": 2,
+          "created_utc": 1776090959.0
+        },
+        {
+          "author": "Ok_Requirement3816",
+          "body": "Nothing wrong with moving in less than a year as long as its not a pattern on your CV imo. Ive been at my current company for 5 years, the one before this I was at for 3 months and it was a nightmare. \nDo what is right for you. Ultimately you spend more of your week at work than you do outside of work, so its important to be happy (or at least not unhappy).",
+          "score": 1,
+          "created_utc": 1776092148.0
+        },
+        {
+          "author": "Diligent_Interview98",
+          "body": "Nope it’s not. Do what’s best for you",
+          "score": 1,
+          "created_utc": 1776092727.0
+        },
+        {
+          "author": "Closet-gamer",
+          "body": "It’s corporate America. Your job is to build skills and maximize your earning potential. That involves jumping.\n\nI’ve increased my income from 75k to 250k by doing so (over 8 years). You can’t earn this with a 1-4% annual raise. \n\nJump, but always treat the company you’re leaving decently. It’s a small advertising world. \n\n",
+          "score": 1,
+          "created_utc": 1776092775.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "If you have a story to go with it, it’s not bad. \n\nMore responsibility, better title, bigger budgets; basically an external promotion isn’t something to really question too much. \n\nBut if it’s one year, then another one year, then another one year and it’s all kinda lateral jumps, then you look like a problem. ",
+          "score": 1,
+          "created_utc": 1776095068.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "IMO job hopping is the only reason I got significant (and deserved) pay bumps \nCompany 1 - 40k, then 60k after complaining i built the department (tenure 3 years)\nCompany 2 - 85k, 4% bump a year, no bonus (tenure 3 years)\nCompany 3 - 95K, C Suite sh*t the bed and literally lost all business for the agency (tenure 8 month)\nCompany 4 - 100k, hated my manager as she was a lazy sloth with 0 back bone. 8 months of zero progress without holding her hand. Complained to HR, got fired\n\nNow I’m doing Freelance for much less but hey, at least i don’t have to look at her laying on the sofa everyday while i work at my office…. ",
+          "score": 1,
+          "created_utc": 1776091228.0
+        }
+      ]
     }
   ]
 }
