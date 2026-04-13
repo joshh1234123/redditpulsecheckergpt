@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rwuzlo",
-      "title": "Seeking Advice on Programmatic Roles Abroad",
-      "author": "Inside-Valuable2645",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rwuzlo/seeking_advice_on_programmatic_roles_abroad/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rwuzlo/seeking_advice_on_programmatic_roles_abroad/",
-      "created_utc": 1773811000.0,
-      "content": "Has anyone got overseas or onsite opportunities in programmatic through internal transfers to Europe or USA? If yes, how did you get the onsite opportunity? I am never heard about onsite opportunities, how can one secure an onsite opportunity? Also, which companies provide onsite opportunities abroad in programmatic?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rx0po1",
       "title": "I mean, we all see whats happening here right??",
       "author": "Snoo_2076",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776006674.0,
       "content": "",
       "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sk05ns",
+      "title": "DV360 - Positive Keyword Targeting - Why so little scale?",
+      "author": "Akajdrod",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sk05ns/dv360_positive_keyword_targeting_why_so_little/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sk05ns/dv360_positive_keyword_targeting_why_so_little/",
+      "created_utc": 1776053275.0,
+      "content": "Hey people, \n\nI've heard multiple times that positive keyword targeting will not scale well on display campaigns in DV360. \n\n  \nI've heard it from multiple sources (vendors, Google resellers, other programmatic people). \n\n  \nI've never had success scaling a line item, even when using pretty broad keyword targeting. \n\n  \nDoes anyone know the exact reasons why positive keyword targeting doesn't scale? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
