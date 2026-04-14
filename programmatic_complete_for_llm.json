@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-14T16:10:07.253600+00:00",
-    "total_posts": 1521,
-    "total_comments": 9578
+    "scrape_date": "2026-04-14T17:40:46.528288+00:00",
+    "total_posts": 1523,
+    "total_comments": 9581
   },
   "discussions": [
     {
@@ -79828,6 +79828,53 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sl2ghd/to_all_those_heavy_advertisers_out_here/",
       "created_utc": 1776154679.0,
       "content": "Is it just me or do you all see a really odd behavior on your ad platforms? Like the engagement and KPIs are satisfying but something feels strange when you dwell deep?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sldhew",
+      "title": "Any suggestions on DV360?",
+      "author": "Enviromental1001",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sldhew/any_suggestions_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sldhew/any_suggestions_on_dv360/",
+      "created_utc": 1776183647.0,
+      "content": "I have been noticing issues with DV360 that I am not getting many impressions no matter bid I have or targeting i edit.\n\nFreeWheel told me \"We are seeing that there are no bids being received today.\"\n\nIs DV360 known to be buggy? Curious if I should move my DEAL from FreeWheel to my Amazon Ads, would Amazon system be better?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SimpleAsMe",
+          "body": "Is this a PMP deal? We have a freewheel campaign running in DV360 with no issues",
+          "score": 1,
+          "created_utc": 1776185541.0
+        },
+        {
+          "author": "Valence__",
+          "body": "Use deal troubleshooter",
+          "score": 1,
+          "created_utc": 1776187524.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "No this is an auction for one of the deals where they tell you to bid between Y & Z but the inventory is there. I have a \"seat\" from an AdTech partner, curious if that has any impact on my profile. I wish Google support existed their live chat hasn't worked for two weeks to look it over.",
+          "score": 1,
+          "created_utc": 1776185939.0
+        }
+      ]
+    },
+    {
+      "id": "1slecs9",
+      "title": "A few learnings running Odeeo on Amazon DSP",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1slecs9/a_few_learnings_running_odeeo_on_amazon_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1slecs9/a_few_learnings_running_odeeo_on_amazon_dsp/",
+      "created_utc": 1776185485.0,
+      "content": "Quick disclaimer. I'm not affiliated with Odeeo. Odeeo was just something interesting I came across thanks to a DSP tool I am part of.\n\nOdeeo is a supply platform dedicated to in game audio in mobile games. Supply skews to casual, hypercasual and puzzle titles\n\n  \nDirect Amazon DSP integration went live in March. The inventory is also reachable through other DSP, so Amazon isn't the only path. But Amazon has the advantage of their audiences\n\n**Real inventory examples** from recent top inventory data: mostly puzzle games such as Word Trip and Car Out. No meaningful midcore or hardcore inventory today. \n\n**Format context.**\n\nAudio plays during active gameplay rather than during interruptions. System initiated spots fire at predetermined moments (level starts, loading screens, natural pauses between rounds), alongside a small clickable companion banner with the brand logo.\n\nThe SDK requires a minimum 10% device volume to serve the ad. If the device is quieter than that, the impression doesn't fire. MOAT verifies 100% of the traffic.\n\n**What I picked up from running it on Amazon DSP:**\n\n1. **It's a standard audio line item.** US market only, audio format only with logo or banner, available as a PRIVATE\\_AUCTION deal. Same targeting controls as any other Amazon DSP buy.\n2. **Creative.** Audio file 10 to 30 seconds. Amazon AI audio generation surprised me, quite good vs image generator. Companion image 1024x1024 (the logo tile that shows alongside the audio during gameplay). Companion IAB image 300x250 optional for the other main format. Short headline. Click through URL and an optional third party impression tracker.\n3. **Device.** In our tests, Android made 65% of impressions. You can narrow inside Amazon DSP options. But if you're layering Amazon first party shopping audiences on top, the device is a distribution detail because Amazon already knows who the player is. \n4. **CPM and context.** Plan for CPMs for $8 to $13, cheaper than other streaming audio rates on Amazon. Spotify, iHeartMedia, both joined 2025.  Odeeo is the third major audio format in the same workflow. It isn't replacing Spotify or iHeart, it adds a third environment on top of the same plan.\n\n**Published benchmarks from Odeeo's own advertiser case studies** (their numbers, not mine): 80%+ listen through rate, 90%+ non skip, 1.5% average CTR on the companion banner.\n\nIf anyone has numbers that diverge from these at scale, I'd really like to hear them. Is anyone else testing audio on Amazon?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
