@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-13T23:08:44.063519+00:00",
-    "total_posts": 1519,
+    "scrape_date": "2026-04-14T00:04:26.208314+00:00",
+    "total_posts": 1520,
     "total_comments": 9578
   },
   "discussions": [
@@ -79800,6 +79800,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sklv9t/do_short_ads_hit_harder_than_30second_spots_for/",
       "created_utc": 1776109833.0,
       "content": "Lately we’ve been running some tests on CTV, comparing 15-second spots vs a single 30-second ad. The results are all over the place lol\n\nShould we try a couple of short ads for variety? Or just focus everything into one solid 30-second spot that tells the full story? We’ve been using a tool to handle the creative side, which makes it easy to get the ads ready (yay AI doing everything again lol, names adwave). Amazon’s platform works fine too if you’re on a tiny budget, but what really drives engagement? For local ads, do you usually see better results with quick spots or the full 30 seconds?\n\nAny tips help, thanks!!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1skri1l",
+      "title": "Google Account Strategist vs Programmatic Account Manager?",
+      "author": "xbshaieoeofn",
+      "score": 1,
+      "url": "/r/techsales/comments/1sgz5bl/google_account_strategist_vs_programmatic_account/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1skri1l/google_account_strategist_vs_programmatic_account/",
+      "created_utc": 1776122390.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
