@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-14T07:24:34.559538+00:00",
-    "total_posts": 1520,
+    "scrape_date": "2026-04-14T08:59:21.169348+00:00",
+    "total_posts": 1521,
     "total_comments": 9578
   },
   "discussions": [
@@ -79814,6 +79814,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1skri1l/google_account_strategist_vs_programmatic_account/",
       "created_utc": 1776122390.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sl2ghd",
+      "title": "To all those heavy advertisers out here",
+      "author": "Hairy-Airport1305",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sl2ghd/to_all_those_heavy_advertisers_out_here/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sl2ghd/to_all_those_heavy_advertisers_out_here/",
+      "created_utc": 1776154679.0,
+      "content": "Is it just me or do you all see a really odd behavior on your ad platforms? Like the engagement and KPIs are satisfying but something feels strange when you dwell deep?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
