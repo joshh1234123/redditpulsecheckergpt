@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rxhzsp",
-      "title": "I need help choosing a programmatic TV solution",
-      "author": "I-Lika_Do-Da_Cha-Cha",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rxhzsp/i_need_help_choosing_a_programmatic_tv_solution/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rxhzsp/i_need_help_choosing_a_programmatic_tv_solution/",
-      "created_utc": 1773871759.0,
-      "content": "I have a decade of experience running search, social, display, and SEO campaigns, but when it comes to TV ads I am at a loss.\n\nI started with the Roku Ads platform, but delivery is limited to Roku devices which isn't ideal.\n\nI switched to Vibe, because they have an awesome campaign builder, decent targeting options, and okay reporting. But I felt like I was overpaying on CPM. Wasn't sure of the quality of inventory either.\n\nNow I have a spot thru an agency on the Amazon DSP. I'm excited by the first party data, but underwhelmed by the flexibility of campaign settings (you can't even daypart) and again I'm still not sure of inventory quality because suddenly my CPMs are $10. The inventory report is almost all Samsung TV Plus.\n\nI've done a lot of research and found other solutions like Magnite, Index Exchange, and Freewheel, but I don't know how to gauge which is best.\n\nDo I need a new ad platform or should I just increase my CPM bid to \"guarantee\" better ad placement?\n\nI would appreciate if any of your programmatic TV experts could chime in. Thanks!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rxt324",
       "title": "HTML5 Spec Guard / Agent Skill + CLI Tool",
       "author": "mcpapaya",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776185485.0,
       "content": "Quick disclaimer. I'm not affiliated with Odeeo. Odeeo was just something interesting I came across thanks to a DSP tool I am part of.\n\nOdeeo is a supply platform dedicated to in game audio in mobile games. Supply skews to casual, hypercasual and puzzle titles\n\n  \nDirect Amazon DSP integration went live in March. The inventory is also reachable through other DSP, so Amazon isn't the only path. But Amazon has the advantage of their audiences\n\n**Real inventory examples** from recent top inventory data: mostly puzzle games such as Word Trip and Car Out. No meaningful midcore or hardcore inventory today. \n\n**Format context.**\n\nAudio plays during active gameplay rather than during interruptions. System initiated spots fire at predetermined moments (level starts, loading screens, natural pauses between rounds), alongside a small clickable companion banner with the brand logo.\n\nThe SDK requires a minimum 10% device volume to serve the ad. If the device is quieter than that, the impression doesn't fire. MOAT verifies 100% of the traffic.\n\n**What I picked up from running it on Amazon DSP:**\n\n1. **It's a standard audio line item.** US market only, audio format only with logo or banner, available as a PRIVATE\\_AUCTION deal. Same targeting controls as any other Amazon DSP buy.\n2. **Creative.** Audio file 10 to 30 seconds. Amazon AI audio generation surprised me, quite good vs image generator. Companion image 1024x1024 (the logo tile that shows alongside the audio during gameplay). Companion IAB image 300x250 optional for the other main format. Short headline. Click through URL and an optional third party impression tracker.\n3. **Device.** In our tests, Android made 65% of impressions. You can narrow inside Amazon DSP options. But if you're layering Amazon first party shopping audiences on top, the device is a distribution detail because Amazon already knows who the player is. \n4. **CPM and context.** Plan for CPMs for $8 to $13, cheaper than other streaming audio rates on Amazon. Spotify, iHeartMedia, both joined 2025.  Odeeo is the third major audio format in the same workflow. It isn't replacing Spotify or iHeart, it adds a third environment on top of the same plan.\n\n**Published benchmarks from Odeeo's own advertiser case studies** (their numbers, not mine): 80%+ listen through rate, 90%+ non skip, 1.5% average CTR on the companion banner.\n\nIf anyone has numbers that diverge from these at scale, I'd really like to hear them. Is anyone else testing audio on Amazon?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sloz1n",
+      "title": "Trying to break into programmatic, have experience with niche programmatic tools, best way to bridge gap of lack of hands-on experience with popular platforms?",
+      "author": "Unknownentity9",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sloz1n/trying_to_break_into_programmatic_have_experience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sloz1n/trying_to_break_into_programmatic_have_experience/",
+      "created_utc": 1776208789.0,
+      "content": "I want to get into programmatic. My background is in digital marketing (over 10 years), primarily paid search and a little bit of social. I've run video campaigns, both CTV (MNTN) and Youtube, and I've done quite a bit of display.\n\nI do have programmatic experience, but it was industry-specific tools. I worked in recruitment media, so I have quite a bit of experience with recruitment programmatic tools like Reach (Recruitics), Clickcast (Appcast) and PandoLogic (Veritone/Broadbean). These are DSP-like platforms, but I don't have experience with platforms like DV360, TTD, StackAdapt, Amazon DSP, etc.\n\nMy experience should be transferable, and I've been taking the online courses available on these platforms to get more familiar, but that is obviously not the same thing as hands-on experience. Is there any better way to bridge that gap? Anything I can do to actually get into the platforms and poke around?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
