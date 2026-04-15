@@ -1,0 +1,52 @@
+{
+  "id": "1sm6abz",
+  "thread_id": "1sm6abz",
+  "title": "How do you measure CTV success?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1sm6abz/how_do_you_measure_ctv_success/",
+  "created_utc": 1776260064.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "InevitableImpress850",
+      "body": "I’d stop trying to make CTV prove itself like search and just judge it on what it can actually do: incremental reach, branded search lift, direct traffic lift, and assisted conversion trends. If those don’t move after increasing spend, the channel probably isn’t working as hard as the reporting deck says it is.",
+      "score": 5,
+      "created_utc": 1776261252.0
+    },
+    {
+      "author": "lafromnyc",
+      "body": "Upper funnel but use MMM for overall impact in relation to other channels.\n\nYou are enterprise so you should be using an MMM and incrementality testing/measuring \n\nIf not, it’s a disservice frankly bc you should be able to afford/invest in measurement/attribution beyond platform last touch, full stop as an enterprise brand \n\n",
+      "score": 3,
+      "created_utc": 1776262528.0
+    },
+    {
+      "author": "Lumiafan",
+      "body": "You're absolutely right that it should not be judged by last-click standards because it will never stand up against search, social or even other programmatic channels if you try to measure it that way.\n\nFor me, the first thing you should do is run some sort of brand lift study alongside your campaigns to measure both immediate conversion impact as well as the harder-to-measure stuff like purchase intent lift. While these are less tangible results, they do help illustrate how a channel like CTV is helping to move the needle in ways that don't always show up in the same way that you see from performance channels like paid social.\n\nOnce you have more buy-in from the top because they start to \"get\" the brand lift side of things, you can run more complex tests like geo-based conversion lift studies or incrementality tests. These are more directly reflective of conversions/performance and can be used to get you to that next level of buy-in from stakeholders.\n\nCTV should always be framed as a channel that helps make every other paid channel more effective in the aggregate, not something that can be executed in a silo and expected to drive performance by itself. Brand lift studies and conversion lift studies are a great way to illustrate that point with some actual data, and you don't need to run the studies every single time you run a campaign.",
+      "score": 2,
+      "created_utc": 1776261273.0
+    },
+    {
+      "author": "BarDown34",
+      "body": "CTV has always had this sort of “issue”. IMO you have to try and position CTV as pure awareness support for your other channels. To your point, Measuring success on CTV as a performance channel mostly just leaves you with those fairly surface level metrics that don’t really tell you much besides the fact it actually ran and people saw it. \n\nPersonally I struggle with this same issue, but I don’t have as much internal pressure to make it a performance channel. I’ve been trying to use more Reach / Cost per HH type metrics to show efficient and effective (e.g. proper targeting strategies) CTV is from an awareness perspective. CTV should be supplemental to a larger multi-channel strategy and the metrics used to track it should lean into it as a support/awareness channel ",
+      "score": 2,
+      "created_utc": 1776261356.0
+    },
+    {
+      "author": "BrentMaxey",
+      "body": "If you can’t show incrementality, a lot of “CTV success” is just expensive vibes tbh. Completion rate is nice, but nobody in finance cares if it didn’t move anything real.",
+      "score": 1,
+      "created_utc": 1776262255.0
+    },
+    {
+      "author": "Fun_Average_3813",
+      "body": "You need a framework before leadership creates one for you. I’d separate success into 3 buckets: delivery quality, audience quality, and business impact. Delivery = reach/completion. Audience = site visits, engaged sessions, search lift. Business impact = geo lift, MMM, holdouts, or at least post-exposure conversion trends. Don’t let platform reporting be the whole story.",
+      "score": 1,
+      "created_utc": 1776263047.0
+    },
+    {
+      "author": "taguscove",
+      "body": "Tell me, what is your experiment design for incrementality?",
+      "score": 1,
+      "created_utc": 1776263433.0
+    }
+  ]
+}

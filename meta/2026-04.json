@@ -644,6 +644,51 @@
       "link_flair_text": null,
       "thread_id": "1sls9at",
       "thread_path": "1sls9at.json"
+    },
+    {
+      "id": "1sm6abz",
+      "title": "How do you measure CTV success?",
+      "author": "Former_Tea1131",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sm6abz/how_do_you_measure_ctv_success/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sm6abz/how_do_you_measure_ctv_success/",
+      "created_utc": 1776260064.0,
+      "content": "I work on the marketing side for an enterprise brand, and CTV is starting to become a much bigger part of our media mix. We are still in early testing and but we saw some level of promise and leadership already wants to scale.\n\nThe easy part is reporting the surface-level stuff. We can talk about reach, completion rates, video views, and site traffic trends. The harder part is figuring out what actually counts as success once the budget is large enough that people expect clear answers. Internally, there’s pressure to treat CTV like a performance channel, but the attribution is obviously nowhere near as clean as search or paid social.\n\nThat’s where I’m stuck. I don’t want to oversell weak signals just because the channel is new and has executive attention, but I also don’t think it makes sense to judge CTV by last-click standards that miss most of its impact.\n\nFor those already doing this, how do you measure success or performance in a way that holds up internally? What metrics or frameworks have been the most useful once the channel starts scaling?\n\n",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sm6abz",
+      "thread_path": "1sm6abz.json"
+    },
+    {
+      "id": "1sm78f2",
+      "title": "Agency hiring digital media folks",
+      "author": "crunchy_or_chewy",
+      "score": 1,
+      "url": "https://www.amsive.com/careers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sm78f2/agency_hiring_digital_media_folks/",
+      "created_utc": 1776262260.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sm78f2",
+      "thread_path": "1sm78f2.json"
+    },
+    {
+      "id": "1sm7lae",
+      "title": "ROI vs. Privacy",
+      "author": "Flat-Personality-976",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sm7lae/roi_vs_privacy/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sm7lae/roi_vs_privacy/",
+      "created_utc": 1776263060.0,
+      "content": "Hey r/programmatic ,\n\nI’m writing my Master’s thesis on the biggest headache in our industry right now: balancing ad performance with data privacy (GDPR, cookie deprecation).\n\nI have enough academic theory. I need to know what’s *actually* happening in the trenches.\n\nIf you work in digital marketing or an ad agency, please help me out. It’s a **100% anonymous, strictly 3-minute survey** (no BS, I promise).\n\n👉 **\\[**[Questionnaire](https://docs.google.com/forms/d/1J1Pg1p3VSvHiRL1C2Q1ffzO9jwjaUTEEUK12o3bKP34/edit?edit_requested=true#responses)**\\]**\n\nI will share the final benchmark data here once the study is done so we can all see how everyone else is coping.\n\nThanks a lot for your help!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sm7lae",
+      "thread_path": "1sm7lae.json"
     }
   ]
 }
