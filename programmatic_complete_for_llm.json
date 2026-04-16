@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-16T19:42:44.788060+00:00",
-    "total_posts": 1529,
-    "total_comments": 9589
+    "scrape_date": "2026-04-16T20:40:49.594518+00:00",
+    "total_posts": 1530,
+    "total_comments": 9593
   },
   "discussions": [
     {
@@ -80013,6 +80013,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1snejys",
+      "title": "Working in Office",
+      "author": "perry_190",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snejys/working_in_office/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snejys/working_in_office/",
+      "created_utc": 1776369451.0,
+      "content": "Just curious for my fellow Programmatic people, do you typically have a full workload for all 8 hours in the office or do you find yourself pretending to work a lot of the time? Unless we are working on a big campaign launch I find days where meetings are light I have little to do",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Got time to lean got time to go through domains, creatives, devices, geos, exchanges, deals. But I usually use some of that time to upskill - lately I’ve been playing with codex to automate stuff. ",
+          "score": 2,
+          "created_utc": 1776371395.0
+        },
+        {
+          "author": "JohnnysBananas",
+          "body": "Do you need more work to do? I can help and help you make some moneyyy",
+          "score": 1,
+          "created_utc": 1776371174.0
+        },
+        {
+          "author": "damachineelf",
+          "body": "Depends, I’ve had some roles that require adderall and 9 hrs of unbroken focus 5 days a week. I’ve had roles that also require that for a full financial quarter, which is subsequently followed by another quarter where I do fuck all.\n\nMy previous employer used a “productivity tracker” for 8 months. I had a meeting with my boss, it said I was clocking 5 “productive hours” a day. I told my non-programmatic friends this and they were blown away. With one saying “Do you have any idea how much further ahead I would be in my career if I had your work ethic?!”\n\nI spend my nights trying to think of any other industry or role where I can min/max. If you have any ideas, please let me know.",
+          "score": 1,
+          "created_utc": 1776371563.0
+        },
+        {
+          "author": "Artistic_Ad2593",
+          "body": "Happy to take the work here and make money 🥲😁",
+          "score": 1,
+          "created_utc": 1776371565.0
+        }
+      ]
     }
   ]
 }
