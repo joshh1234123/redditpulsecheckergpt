@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-16T23:34:37.582850+00:00",
-    "total_posts": 1530,
-    "total_comments": 9593
+    "scrape_date": "2026-04-17T01:55:30.068901+00:00",
+    "total_posts": 1531,
+    "total_comments": 9594
   },
   "discussions": [
     {
@@ -80050,6 +80050,27 @@
           "body": "Happy to take the work here and make money 🥲😁",
           "score": 1,
           "created_utc": 1776371565.0
+        }
+      ]
+    },
+    {
+      "id": "1snmu25",
+      "title": "Yahoo DSP Display - How to Improve Performance",
+      "author": "balloondogwalker",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "created_utc": 1776389493.0,
+      "content": "Hi yall - running performance display campaigns out of Yahoo and wanted to know if anyone has any best practices, tips/tricks, outside of the box settings that you might not think of but that have really helped move the needle for you, etc etc.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Nearby-Chair8608",
+          "body": "Are you able to layer in any of their 1p targeting options? \nPurchase receipt or search keyword targeting? ",
+          "score": 1,
+          "created_utc": 1776390817.0
         }
       ]
     }

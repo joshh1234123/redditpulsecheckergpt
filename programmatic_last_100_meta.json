@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ry9uq9",
-      "title": "Programmatic DOOH",
-      "author": "EmbarrassedBath2012",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ry9uq9/programmatic_dooh/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ry9uq9/programmatic_dooh/",
-      "created_utc": 1773948675.0,
-      "content": "Hey everyone,\n\n\n\nI wanted to introduce myself — I’m currently leading a programmatic DOOH project across LATAM (focused on Uruguay and Paraguay).\n\nI’ve noticed that, compared to other channels, the volume of campaigns running through open exchange deals is quite low. Is this something typical in the DOOH space?\n\nFor context, we’ve been running several PMP campaigns over the past few months, but open exchange activity still seems limited.\n\nWould love to hear your experiences or insights on this.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1rybug5",
       "title": "CTV minimum spends are insane . What's your breaking point?",
       "author": "InevitableImpress850",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776369451.0,
       "content": "Just curious for my fellow Programmatic people, do you typically have a full workload for all 8 hours in the office or do you find yourself pretending to work a lot of the time? Unless we are working on a big campaign launch I find days where meetings are light I have little to do",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1snmu25",
+      "title": "Yahoo DSP Display - How to Improve Performance",
+      "author": "balloondogwalker",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "created_utc": 1776389493.0,
+      "content": "Hi yall - running performance display campaigns out of Yahoo and wanted to know if anyone has any best practices, tips/tricks, outside of the box settings that you might not think of but that have really helped move the needle for you, etc etc.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

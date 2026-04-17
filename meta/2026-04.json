@@ -719,6 +719,21 @@
       "link_flair_text": null,
       "thread_id": "1snejys",
       "thread_path": "1snejys.json"
+    },
+    {
+      "id": "1snmu25",
+      "title": "Yahoo DSP Display - How to Improve Performance",
+      "author": "balloondogwalker",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
+      "created_utc": 1776389493.0,
+      "content": "Hi yall - running performance display campaigns out of Yahoo and wanted to know if anyone has any best practices, tips/tricks, outside of the box settings that you might not think of but that have really helped move the needle for you, etc etc.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1snmu25",
+      "thread_path": "1snmu25.json"
     }
   ]
 }
