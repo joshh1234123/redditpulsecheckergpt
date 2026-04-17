@@ -734,6 +734,21 @@
       "link_flair_text": null,
       "thread_id": "1snmu25",
       "thread_path": "1snmu25.json"
+    },
+    {
+      "id": "1snv1xv",
+      "title": "Setting up an ad server in 2026",
+      "author": "Snoo-43895",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
+      "created_utc": 1776414834.0,
+      "content": "Is it just me or is setting up an ad server still way more painful than it should be in 2026?\n\nBeen dealing with multiple setups lately (networks + agencies), and I keep running into the same stuff:\n\n* integrations that *technically* support XML/JSON/oRTB… but break in edge cases\n* weird limitations on formats (especially when mixing push/native/VAST)\n* lack of control over rev share / traffic routing without dev work\n* scaling issues once QPS starts getting serious\n\nWhat surprises me most is how much manual work is still involved if you want flexibility.\n\nI’m curious:\n\nAre you guys mostly building internal solutions at this point?  \nOr just stacking multiple tools and living with the limitations?  \nAnyone actually happy with their current setup?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1snv1xv",
+      "thread_path": "1snv1xv.json"
     }
   ]
 }

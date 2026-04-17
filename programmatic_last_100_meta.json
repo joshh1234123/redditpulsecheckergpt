@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1rybug5",
-      "title": "CTV minimum spends are insane . What's your breaking point?",
-      "author": "InevitableImpress850",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1rybug5/ctv_minimum_spends_are_insane_whats_your_breaking/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1rybug5/ctv_minimum_spends_are_insane_whats_your_breaking/",
-      "created_utc": 1773953059.0,
-      "content": "Just got quoted $25K minimum for a Q2 CTV campaign. For a startup doing $500K ARR.\n\nI get that TV inventory costs money, but these minimums feel like they're designed to keep smaller players out. Meanwhile, I'm spending $10K/month on Meta with diminishing returns.\n\nWhat's the lowest minimum you've seen for quality CTV inventory? And at what point do you just say screw it and stick with digital?",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ryhohc",
       "title": "Need Help with ssp seat",
       "author": "AccurateMatter1341",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1snmu25/yahoo_dsp_display_how_to_improve_performance/",
       "created_utc": 1776389493.0,
       "content": "Hi yall - running performance display campaigns out of Yahoo and wanted to know if anyone has any best practices, tips/tricks, outside of the box settings that you might not think of but that have really helped move the needle for you, etc etc.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1snv1xv",
+      "title": "Setting up an ad server in 2026",
+      "author": "Snoo-43895",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
+      "created_utc": 1776414834.0,
+      "content": "Is it just me or is setting up an ad server still way more painful than it should be in 2026?\n\nBeen dealing with multiple setups lately (networks + agencies), and I keep running into the same stuff:\n\n* integrations that *technically* support XML/JSON/oRTB… but break in edge cases\n* weird limitations on formats (especially when mixing push/native/VAST)\n* lack of control over rev share / traffic routing without dev work\n* scaling issues once QPS starts getting serious\n\nWhat surprises me most is how much manual work is still involved if you want flexibility.\n\nI’m curious:\n\nAre you guys mostly building internal solutions at this point?  \nOr just stacking multiple tools and living with the limitations?  \nAnyone actually happy with their current setup?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
