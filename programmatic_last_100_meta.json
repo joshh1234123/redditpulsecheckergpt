@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ryhohc",
-      "title": "Need Help with ssp seat",
-      "author": "AccurateMatter1341",
-      "score": 1,
-      "url": "/r/adops/comments/1ryhhs7/need_help_with_ssp_seat/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ryhohc/need_help_with_ssp_seat/",
-      "created_utc": 1773966947.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ryovds",
       "title": "Sky opens up all inventory to DV360 in the UK",
       "author": "FryettTheElder",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776414834.0,
       "content": "Is it just me or is setting up an ad server still way more painful than it should be in 2026?\n\nBeen dealing with multiple setups lately (networks + agencies), and I keep running into the same stuff:\n\n* integrations that *technically* support XML/JSON/oRTB… but break in edge cases\n* weird limitations on formats (especially when mixing push/native/VAST)\n* lack of control over rev share / traffic routing without dev work\n* scaling issues once QPS starts getting serious\n\nWhat surprises me most is how much manual work is still involved if you want flexibility.\n\nI’m curious:\n\nAre you guys mostly building internal solutions at this point?  \nOr just stacking multiple tools and living with the limitations?  \nAnyone actually happy with their current setup?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1snyk6s",
+      "title": "TLDR: Week in Review - Advertising's Top Stories about OpenAI conversion tracking, Google AI Max, Publicis earnings, More!",
+      "author": "data_spy",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1snyk6s/tldr_week_in_review_advertisings_top_stories/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1snyk6s/tldr_week_in_review_advertisings_top_stories/",
+      "created_utc": 1776426252.0,
+      "content": "Hey everyone, here's a quick rundown of the top marketing and advertising news from the past week:\n\n* OpenAI developing conversion tracking pixel for ChatGPT ads, already live in gated pilot tracking registrations, purchases, and leads\n* Google pulling Dynamic Search Ads into AI Max with September deadline, claiming 7% conversion lift at similar CPA\n* Publicis posted 4.5% organic growth to $3.9B in Q1 for 20th straight quarter, but stock barely moved as investors question AI thesis\n* Publicis CEO ruled out building a Trade Desk rival DSP despite telling clients to pull spend over transparency concerns\n* Netflix posted 82% profit jump to $5.23B with $2.8B Warner Bros. breakup fee, but shares fell 9% on growth concerns\n* Meta introduced one-click CAPI setup in Events Manager, eliminating server configuration barriers\n* Amazon donating its Dynamic Traffic Engine to IAB Tech Lab as open source bid-filtering tool\n\nFor full details on these stories and more industry insights, check out the complete [newsletter](https://cmotldr.beehiiv.com/p/cmo-tldr-your-weekly-marketing-brief-4172026).\n\nWhat advertising news are you following from this week?\n",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
