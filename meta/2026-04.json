@@ -839,6 +839,21 @@
       "link_flair_text": null,
       "thread_id": "1sqmanm",
       "thread_path": "1sqmanm.json"
+    },
+    {
+      "id": "1sqw8l4",
+      "title": "Switched from DV360 to an independent DSP recently. Here's what actually surprised me",
+      "author": "Most-Profession-7438",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sqw8l4/switched_from_dv360_to_an_independent_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqw8l4/switched_from_dv360_to_an_independent_dsp/",
+      "created_utc": 1776706346.0,
+      "content": "Been in programmatic for about 3 years, mostly living in DV360. We switched to a different stack,e running through Q1 Media and their DSP setup. Honestly went in skeptical because DV360 is what I know.\n\nThe supply path transparency is noticeably better. In DV360 I always kind of took it on faith that impressions were going where they were supposed to. Here I can actually trace where inventory is coming from in a way that feels real, not just a report generated for me. CTV inventory quality has also been solid. Not a full verdict yet but the experience so far has been different than I expected. Has anyone else made this kind of switch?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sqw8l4",
+      "thread_path": "1sqw8l4.json"
     }
   ]
 }
