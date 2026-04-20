@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-20T10:29:18.412296+00:00",
-    "total_posts": 1537,
-    "total_comments": 9600
+    "scrape_date": "2026-04-20T11:52:18.490627+00:00",
+    "total_posts": 1538,
+    "total_comments": 9602
   },
   "discussions": [
     {
@@ -80195,6 +80195,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sqmanm",
+      "title": "Adobe DSP?",
+      "author": "NMDigitaNinja",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sqmanm/adobe_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqmanm/adobe_dsp/",
+      "created_utc": 1776683776.0,
+      "content": "Thoughts on Adobe DSP?  Feels like they have been a sleeper but hearing mote buzz about holistic measurement, creative, and activation.  Anyone have thoughts on if they are a contender?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "No_Action_2548",
+          "body": "No, I just can't see how they'll compete against Amazon and Google properly.",
+          "score": 1,
+          "created_utc": 1776685120.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Ruined TubeMogul and hasn't been competitive since.",
+          "score": 1,
+          "created_utc": 1776685565.0
+        }
+      ]
     }
   ]
 }
