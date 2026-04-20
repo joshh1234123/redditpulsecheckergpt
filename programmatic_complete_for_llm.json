@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-20T06:11:09.469288+00:00",
-    "total_posts": 1535,
+    "scrape_date": "2026-04-20T08:31:46.954433+00:00",
+    "total_posts": 1536,
     "total_comments": 9600
   },
   "discussions": [
@@ -80163,6 +80163,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sppvcu/is_there_anyway_to_email_or_submit_request_with/",
       "created_utc": 1776596422.0,
       "content": "All the forms I see the \"next\" button is not available to go to next page to actually submit a request.\n\nAny idea why support disappeared?\n\nhttps://preview.redd.it/w5ryrmaap4wg1.png?width=784&format=png&auto=webp&s=64f2a395c133fa01176a9f06e03f768f887550ae\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sqhbmm",
+      "title": "programmatic revenue is getting harder to scale in Tier 1 markets compared to a few years ago",
+      "author": "TapMind",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sqhbmm/programmatic_revenue_is_getting_harder_to_scale/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqhbmm/programmatic_revenue_is_getting_harder_to_scale/",
+      "created_utc": 1776666606.0,
+      "content": "Advertisers are more selective, and the competition is insane these days. Do you agree?\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
