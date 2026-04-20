@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-20T08:31:46.954433+00:00",
-    "total_posts": 1536,
+    "scrape_date": "2026-04-20T10:29:18.412296+00:00",
+    "total_posts": 1537,
     "total_comments": 9600
   },
   "discussions": [
@@ -80177,6 +80177,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sqhbmm/programmatic_revenue_is_getting_harder_to_scale/",
       "created_utc": 1776666606.0,
       "content": "Advertisers are more selective, and the competition is insane these days. Do you agree?\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sqjx0k",
+      "title": "Exploring Partnerships with Tier-1 Arbitragers",
+      "author": "Fit-Condition6614",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sqjx0k/exploring_partnerships_with_tier1_arbitragers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqjx0k/exploring_partnerships_with_tier1_arbitragers/",
+      "created_utc": 1776675803.0,
+      "content": "Hi Everyone,\n\nI handle publisher partnerships at an AdTech company, and I recently learned that we’re open to working with arbitrage partners given a few conditions.\n\nI’m looking to connect with Tier-1 traffic arbitrageurs who have meaningful traffic volume, where there could be a strong fit for both sides.\n\nIf this sounds relevant, feel free to DM me, and I’ll take it from there.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
