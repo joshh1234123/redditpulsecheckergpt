@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T16:07:15.182401+00:00",
-    "total_posts": 1544,
-    "total_comments": 9614
+    "scrape_date": "2026-04-21T17:32:37.516706+00:00",
+    "total_posts": 1545,
+    "total_comments": 9616
   },
   "discussions": [
     {
@@ -80380,6 +80380,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1srt2if",
+      "title": "Tech/Engg Jobs in Programmatic (Remote/India)",
+      "author": "feelingbi",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1srt2if/techengg_jobs_in_programmatic_remoteindia/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srt2if/techengg_jobs_in_programmatic_remoteindia/",
+      "created_utc": 1776789443.0,
+      "content": "How’s the market for Engineering roles in Programmatic (India/Remote)?\n\nI’ve been working as a Data Engineer at a DSP for \\~3 years now (joined as an intern, currently at L2). I’ve gained solid exposure to core AdTech/programmatic concepts and genuinely enjoy working in this space.\n\nLately, I’ve been trying to explore new opportunities, either within programmatic or adjacent areas of AdTech, but I’m not seeing many openings. For the few roles I do find, I’m not getting callbacks, which has been a bit discouraging.\n\nAt the same time, my current workplace has been quite difficult, so I’m trying to figure out my next move. I’d ideally like to continue as an engineer in AdTech, but I’m unsure how to navigate the market right now or what I might be missing.\n\nIf you were in similar role, how did you make the switch?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "aproles",
+          "body": "PM me I’ve got something for you",
+          "score": 1,
+          "created_utc": 1776791114.0
+        },
+        {
+          "author": "Beneficial_Alps2605",
+          "body": "Please dm ",
+          "score": 1,
+          "created_utc": 1776792189.0
+        }
+      ]
     }
   ]
 }
