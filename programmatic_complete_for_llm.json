@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T22:05:41.376907+00:00",
-    "total_posts": 1546,
+    "scrape_date": "2026-04-21T23:04:07.770225+00:00",
+    "total_posts": 1547,
     "total_comments": 9618
   },
   "discussions": [
@@ -80434,6 +80434,20 @@
           "created_utc": 1776795375.0
         }
       ]
+    },
+    {
+      "id": "1ss2ppc",
+      "title": "Upskill recommendations?",
+      "author": "yellow_scrunchiess",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ss2ppc/upskill_recommendations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ss2ppc/upskill_recommendations/",
+      "created_utc": 1776809904.0,
+      "content": "I just left my senior role in programmatic at a large agency, owning end-to-end programmatic campaign cycle and have a lot of experience with the major DSPs (DV360, TTD, Amazon, etc..).   \nI now have the time to upskill and my goal for my next job is to get a role with the adtech / client side. I'm interested to learn how advertising will change especially with AI, ChatGPT ads etc.. \n\nDoes anyone have any recommendation on online course that align with the upskill that I'm looking for? Thanks",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
