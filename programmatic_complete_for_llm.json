@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T17:32:37.516706+00:00",
-    "total_posts": 1545,
-    "total_comments": 9616
+    "scrape_date": "2026-04-21T19:02:22.416536+00:00",
+    "total_posts": 1546,
+    "total_comments": 9618
   },
   "discussions": [
     {
@@ -80405,6 +80405,33 @@
           "body": "Please dm ",
           "score": 1,
           "created_utc": 1776792189.0
+        }
+      ]
+    },
+    {
+      "id": "1srutm7",
+      "title": "Job Requirement| Programmatic - Senior Executive (2+ years Experience)",
+      "author": "LooseWing9505",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1srutm7/job_requirement_programmatic_senior_executive_2/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srutm7/job_requirement_programmatic_senior_executive_2/",
+      "created_utc": 1776793039.0,
+      "content": "Hi Guys,\n\nI'm a Senior Executive at WPP with 2+ years of experience on DV360. I handle a significant portfolio for a big budget client. \n\nMy core job is digital media execution where I execute, optimize, and report campaigns. \n\nI'm trying to switch into a end to end campaign management role which involves planning to reporting.\n\nLet me know If someone is currently hiring or can refer me.\n\nThanks.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "RHThree",
+          "body": "Where in the leadership chain are you and if you don’t mind me asking what’s your salary?\nTo be clear: I don’t have a job for you just curious.",
+          "score": 2,
+          "created_utc": 1776793366.0
+        },
+        {
+          "author": "yellow_scrunchiess",
+          "body": "Where are you located?",
+          "score": 1,
+          "created_utc": 1776795375.0
         }
       ]
     }
