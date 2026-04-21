@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s0qvz0",
-      "title": "Can I acclimate/pivot to an AD, Programmatic Commerce role after being in programmatic ('proper') for 8yrs?",
-      "author": "Puzzleheaded_Phone34",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s0qvz0/can_i_acclimatepivot_to_an_ad_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s0qvz0/can_i_acclimatepivot_to_an_ad_programmatic/",
-      "created_utc": 1774198742.0,
-      "content": "The commerce role is looking for experience with a few platforms I'm entirely unfamiliar with (Pacvue, Skai, Epsilo).  \n  \nThe role also demands experience with retail media...I worked at Merkle for a year servicing Target right around the time Roundel came to be, spent a year brand-side at Kohl's as a programmatic lead, and spent a few months on Family Dollar, but (while these are all obviously retailer clients), I wouldn't necessarily consider it 'Retail Media' (in the way they're implying it in the job description.)\n\nIn any case, I've been applying for commerce positions despite my lack of formal retail media experience because I figure with 8yrs experience and a thorough understanding of how to traffic, optimize, generate reporting/insights, etc. that I'll generally be 'alright' in a commerce position (I've found an ability/comfort moving around in one DSP is usually transferrable to another DSP).\n\nMy primary experience is with TTD and DV360, but I have secondary experience with Yahoo DSP, Amazon DSP\n\nAll of this said--to anyone who's spent time in both types of programmatic roles, can you provide your thoughts on whether I can just jump into something like this? Screening interview is on Tuesday.\n\nTIA!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1s0r00m",
-      "title": "Why is TTD the bad guy?",
-      "author": "TheGrandLeveler",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s0r00m/why_is_ttd_the_bad_guy/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s0r00m/why_is_ttd_the_bad_guy/",
-      "created_utc": 1774198990.0,
-      "content": "Wouldn't everyone's job be easier without SSPs? \n\nDoesnt open path make things way more transparent?\n\nSo why does TTD get so much shit lately regarding the dispute with the big agencies? \n\nMaybe I'm missing something but happy to hear opinions on it. \n\nPersonally I'd rather have instant access to all the publishers inventory directly rather than having to work With \"insert DSP name\". ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s13nww",
       "title": "Need free course drive Programmatic Advertising, specifically tools like DV360 (Display & Video 360) and CM360 (Campaign Manager 360).",
       "author": "Real-Material7096",
@@ -1302,6 +1276,32 @@
       "created_utc": 1776710435.0,
       "content": "Hello everyone!\n\n  \nI'm working on a brief; it's a full-funnel, full-year campaign, and the KPIs are Cost-per-Engaged Visit (CPEV) and Engaged Visit Rate (EVR). Plus, the business goal is to drive sign-ups and monthly active users. The're a TAL available.\n\n  \nI'm using DV360 and to keep it simple, I'm doing prospecting, contextual targeting, retargeting, and ABM with Bombora.\n\n  \nAny suggestions on the strategy? Should I include anything else to make sure I'm driving engaged visits and sign-ups?\n\n  \nThanks! :)\n\n",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sra8eo",
+      "title": "[Hiring] Programmatic Manager (DV360 + TTD) | Hybrid | Up to 13 LPA",
+      "author": "Good-Rock1575",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sra8eo/hiring_programmatic_manager_dv360_ttd_hybrid_up/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sra8eo/hiring_programmatic_manager_dv360_ttd_hybrid_up/",
+      "created_utc": 1776736961.0,
+      "content": "Hey folks,\n\nWe’re hiring a Programmatic Manager to handle end-to-end campaign execution across DSPs.\n\nWhat you’ll be doing:\n\n\\- Running and optimizing campaigns on DV360 and TTD\n\n\\- Audience targeting, bid strategies, and performance tracking\n\n\\- Analyzing data and scaling what works\n\nWhat we’re looking for:\n\n\\- 4+ years of programmatic/media buying experience  \n\n\\- Hands-on with DV360 (Display & Video 360) and The Trade Desk  \n\n\\- Someone who’s comfortable working with data and making decisions off it  \n\nDetails:\n\n\\- 💰 Salary: Up to 13 LPA  \n\n\\- 🏢 Hybrid setup  \n\nIf this sounds like you (or someone you know), feel free to DM me or comment and I’ll share more details.\n\nThanks!",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1srbd8g",
+      "title": "StackAdapt OpenAI",
+      "author": "Capable_Artichoke_41",
+      "score": 3,
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srbd8g/stackadapt_openai/",
+      "created_utc": 1776739997.0,
+      "content": "Apparently stackadapt is selling into chatGPT ad inventory. So it’s them and Criteo for now, I guess?",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T01:56:15.528377+00:00",
-    "total_posts": 1540,
-    "total_comments": 9602
+    "scrape_date": "2026-04-21T04:45:25.303024+00:00",
+    "total_posts": 1542,
+    "total_comments": 9614
   },
   "discussions": [
     {
@@ -80250,6 +80250,108 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sra8eo",
+      "title": "[Hiring] Programmatic Manager (DV360 + TTD) | Hybrid | Up to 13 LPA",
+      "author": "Good-Rock1575",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sra8eo/hiring_programmatic_manager_dv360_ttd_hybrid_up/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sra8eo/hiring_programmatic_manager_dv360_ttd_hybrid_up/",
+      "created_utc": 1776736961.0,
+      "content": "Hey folks,\n\nWe’re hiring a Programmatic Manager to handle end-to-end campaign execution across DSPs.\n\nWhat you’ll be doing:\n\n\\- Running and optimizing campaigns on DV360 and TTD\n\n\\- Audience targeting, bid strategies, and performance tracking\n\n\\- Analyzing data and scaling what works\n\nWhat we’re looking for:\n\n\\- 4+ years of programmatic/media buying experience  \n\n\\- Hands-on with DV360 (Display & Video 360) and The Trade Desk  \n\n\\- Someone who’s comfortable working with data and making decisions off it  \n\nDetails:\n\n\\- 💰 Salary: Up to 13 LPA  \n\n\\- 🏢 Hybrid setup  \n\nIf this sounds like you (or someone you know), feel free to DM me or comment and I’ll share more details.\n\nThanks!",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Individual_Sport_617",
+          "body": "DM me",
+          "score": 1,
+          "created_utc": 1776737205.0
+        },
+        {
+          "author": "Spirited-Ginger-376",
+          "body": "Location & type of company? is it an agency?",
+          "score": 1,
+          "created_utc": 1776737663.0
+        },
+        {
+          "author": "jeypaul_1992",
+          "body": "I know someone who is looking for a similar role. Could you please share your email id to share his resume? Not able to DM you.",
+          "score": 1,
+          "created_utc": 1776738195.0
+        },
+        {
+          "author": "Good-Rock1575",
+          "body": "Pan India",
+          "score": 1,
+          "created_utc": 1776737732.0
+        },
+        {
+          "author": "Spirited-Ginger-376",
+          "body": "But you mentioned hybrid setup.",
+          "score": 0,
+          "created_utc": 1776737811.0
+        },
+        {
+          "author": "Good-Rock1575",
+          "body": "Yes, hybrid setup only. Its not remote",
+          "score": 1,
+          "created_utc": 1776737868.0
+        },
+        {
+          "author": "Spirited-Ginger-376",
+          "body": "Could you mention this is for which agency, unable to DM you.",
+          "score": 1,
+          "created_utc": 1776737985.0
+        }
+      ]
+    },
+    {
+      "id": "1srbd8g",
+      "title": "StackAdapt OpenAI",
+      "author": "Capable_Artichoke_41",
+      "score": 3,
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srbd8g/stackadapt_openai/",
+      "created_utc": 1776739997.0,
+      "content": "Apparently stackadapt is selling into chatGPT ad inventory. So it’s them and Criteo for now, I guess?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "cuteman",
+          "body": "Wouldn't touch stack adapt or criteo at all. We've been through it before and the downsides outweigh any upsides.",
+          "score": 10,
+          "created_utc": 1776741008.0
+        },
+        {
+          "author": "RichConstruction4887",
+          "body": "StackAdapt is terrible. All marketing hype. ",
+          "score": 6,
+          "created_utc": 1776741520.0
+        },
+        {
+          "author": "Jamesatwork16",
+          "body": "Color me doubtful OpenAI can fill all these ad calls in a meaningful way any time soon. ",
+          "score": 1,
+          "created_utc": 1776745985.0
+        },
+        {
+          "author": "Capable_Artichoke_41",
+          "body": "Think this means they’ll open up to DV360/ADSP/TTD though?",
+          "score": 1,
+          "created_utc": 1776741665.0
+        },
+        {
+          "author": "TheLookoutGrey",
+          "body": "How so?",
+          "score": 4,
+          "created_utc": 1776742449.0
+        }
+      ]
     }
   ]
 }
