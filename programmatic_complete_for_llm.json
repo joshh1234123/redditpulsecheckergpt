@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T04:45:25.303024+00:00",
-    "total_posts": 1542,
+    "scrape_date": "2026-04-21T06:55:01.877661+00:00",
+    "total_posts": 1543,
     "total_comments": 9614
   },
   "discussions": [
@@ -80352,6 +80352,20 @@
           "created_utc": 1776742449.0
         }
       ]
+    },
+    {
+      "id": "1srfe7x",
+      "title": "At what monthly spend does programmatic actually start making financial sense in the UK?",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1srfe7x/at_what_monthly_spend_does_programmatic_actually/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srfe7x/at_what_monthly_spend_does_programmatic_actually/",
+      "created_utc": 1776752253.0,
+      "content": "We’re at \\~£10k/month and it still feels inefficient vs search/social.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
