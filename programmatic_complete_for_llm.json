@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-21T08:29:46.830370+00:00",
-    "total_posts": 1543,
+    "scrape_date": "2026-04-21T10:01:04.294116+00:00",
+    "total_posts": 1544,
     "total_comments": 9614
   },
   "discussions": [
@@ -80362,6 +80362,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1srfe7x/at_what_monthly_spend_does_programmatic_actually/",
       "created_utc": 1776752253.0,
       "content": "We’re at \\~£10k/month and it still feels inefficient vs search/social.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1srihlo",
+      "title": "Programmatic Consultant - Top skills",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1srihlo/programmatic_consultant_top_skills/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1srihlo/programmatic_consultant_top_skills/",
+      "created_utc": 1776763227.0,
+      "content": "What are in your opinion, the most important skills a programmatic consultant can have?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
