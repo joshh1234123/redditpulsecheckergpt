@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s24h9a",
-      "title": "Google Folds Gemini Deeper Into DV360 to Automate Media Planning and Buying",
-      "author": "DonSalaam",
-      "score": 1,
-      "url": "https://www.adweek.com/programmatic/google-folds-gemini-deeper-into-dv360-to-automate-media-planning-and-buying/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s24h9a/google_folds_gemini_deeper_into_dv360_to_automate/",
-      "created_utc": 1774327907.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1s2c741",
-      "title": "The Hidden Stress Behind AI-Optimized TV Ads..",
-      "author": "Boring_Analysis_6057",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2c741/the_hidden_stress_behind_aioptimized_tv_ads/",
-      "created_utc": 1774354851.0,
-      "content": "Everyone is talking about AI-optimized TV ads these days. Promises of automatic targeting, real-time adjustments, and improved performance make it sound like the future of advertising. But the reality? It’s stressful, confusing, and sometimes terrifying. I’ve been managing campaigns where the AI controls pacing, targeting, and budget allocation. At first, it felt freeing. No more manual tweaks, no second-guessing placements. But as results came in, I realized I didn’t actually know why certain changes were happening. The AI would shift spend between audience segments, adjust creative rotation, or reallocate budget to different times of day without explanation.\n\nWhen metrics improved, I couldn’t pinpoint the reason. When they dropped, I had no idea which decision caused the decline. It created a strange sense of dependency and distrust: I wanted to leverage AI, but I also needed human insight to make confident decisions. It’s exhausting managing real dollars when you feel like the system is working in a black box.\n\nAdding to the stress, reporting to leadership becomes complicated. They want explanations: “Why did this segment underperform?” “Which audience drove the results?” “Are we spending efficiently?” And I’m left saying things like, “The AI adjusted it automatically.” That’s not satisfying, and it doesn’t instill confidence even if the campaign is technically improving.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s2fgvd",
       "title": "How to stay in the loop on industry updates?",
       "author": "curiosity375",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sslxco/roi_vs_privacy/",
       "created_utc": 1776865401.0,
       "content": "[https://docs.google.com/forms/d/1J1Pg1p3VSvHiRL1C2Q1ffzO9jwjaUTEEUK12o3bKP34/edit#responses](https://docs.google.com/forms/d/1J1Pg1p3VSvHiRL1C2Q1ffzO9jwjaUTEEUK12o3bKP34/edit#responses)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ssryi8",
+      "title": "Thoughts on illumin? Is it a good platform?",
+      "author": "hackgamn",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ssryi8/thoughts_on_illumin_is_it_a_good_platform/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ssryi8/thoughts_on_illumin_is_it_a_good_platform/",
+      "created_utc": 1776878365.0,
+      "content": "According to everything their sales team says, it sounds too good to be true, so I want to hear from someone eho used their platform.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sss9sv",
+      "title": "Frustrated by poor reporting commentary? Looking for feedback on this new tool: ReportIQ",
+      "author": "AIIR-ai",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sss9sv/frustrated_by_poor_reporting_commentary_looking/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sss9sv/frustrated_by_poor_reporting_commentary_looking/",
+      "created_utc": 1776879015.0,
+      "content": "I've created a tool called **ReportIQ** that coaches media planners and buyers into writing better reporting insights by analysing weekly reporting commentary against media plan data while providing bespoke, helpful scoring and feedback to coach individuals and teams deliver higher quality work.\n\nThis saves managers loads of time each week in feeding back when they can be working on other work, and materially improves the output from version-to-version, and week-to-week while helping media teams learn what good looks like and implement high standards as a minimum for clients.\n\nThe tool measures reporting commentary against 9 distinct scoring categories. You will have to input media plan data and theres varying levels of granularity - the more granular the better to analyse against.\n\nThe flow is super easy: Add client > Add Campaign > New report.. and follow the simple steps.\n\nI've had great feedback so far from industry colleagues and am now ready to release and see if it can help others.\n\nThe most common question I get back is \"Can't AI just write the commentary\" - AI certainly can (and I'm big and ugly enough to know it's probably heading that way) but ***currently*** it doesn't have the context of day-to-day optimisations, adhoc client requests or industry or competitor context that's required to deliver work with a human-touch which clients value.\n\nThe URL is: [Reportiq.co.uk](http://Reportiq.co.uk) // It's currently **super cheap** and Individual accounts have a 7-day unlimited free trial so there's no obligation. I would truly value any feedback and am building features all the time.\n\nAbout me: I've been working in London digital media holdcos since 2014, well-versed in programmatic, paid social and paid search and running multiple teams of various sizes. In exploring AI I wanted to create something genuinely useful and it's become a tool I genuinely wish i had in my junior and early manager days.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

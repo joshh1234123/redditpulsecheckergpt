@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-22T16:05:08.635299+00:00",
-    "total_posts": 1551,
-    "total_comments": 9619
+    "scrape_date": "2026-04-22T17:31:08.994944+00:00",
+    "total_posts": 1553,
+    "total_comments": 9620
   },
   "discussions": [
     {
@@ -80507,6 +80507,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sslxco/roi_vs_privacy/",
       "created_utc": 1776865401.0,
       "content": "[https://docs.google.com/forms/d/1J1Pg1p3VSvHiRL1C2Q1ffzO9jwjaUTEEUK12o3bKP34/edit#responses](https://docs.google.com/forms/d/1J1Pg1p3VSvHiRL1C2Q1ffzO9jwjaUTEEUK12o3bKP34/edit#responses)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ssryi8",
+      "title": "Thoughts on illumin? Is it a good platform?",
+      "author": "hackgamn",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ssryi8/thoughts_on_illumin_is_it_a_good_platform/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ssryi8/thoughts_on_illumin_is_it_a_good_platform/",
+      "created_utc": 1776878365.0,
+      "content": "According to everything their sales team says, it sounds too good to be true, so I want to hear from someone eho used their platform.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Few-Orchid-9804",
+          "body": "No",
+          "score": 1,
+          "created_utc": 1776878843.0
+        }
+      ]
+    },
+    {
+      "id": "1sss9sv",
+      "title": "Frustrated by poor reporting commentary? Looking for feedback on this new tool: ReportIQ",
+      "author": "AIIR-ai",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sss9sv/frustrated_by_poor_reporting_commentary_looking/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sss9sv/frustrated_by_poor_reporting_commentary_looking/",
+      "created_utc": 1776879015.0,
+      "content": "I've created a tool called **ReportIQ** that coaches media planners and buyers into writing better reporting insights by analysing weekly reporting commentary against media plan data while providing bespoke, helpful scoring and feedback to coach individuals and teams deliver higher quality work.\n\nThis saves managers loads of time each week in feeding back when they can be working on other work, and materially improves the output from version-to-version, and week-to-week while helping media teams learn what good looks like and implement high standards as a minimum for clients.\n\nThe tool measures reporting commentary against 9 distinct scoring categories. You will have to input media plan data and theres varying levels of granularity - the more granular the better to analyse against.\n\nThe flow is super easy: Add client > Add Campaign > New report.. and follow the simple steps.\n\nI've had great feedback so far from industry colleagues and am now ready to release and see if it can help others.\n\nThe most common question I get back is \"Can't AI just write the commentary\" - AI certainly can (and I'm big and ugly enough to know it's probably heading that way) but ***currently*** it doesn't have the context of day-to-day optimisations, adhoc client requests or industry or competitor context that's required to deliver work with a human-touch which clients value.\n\nThe URL is: [Reportiq.co.uk](http://Reportiq.co.uk) // It's currently **super cheap** and Individual accounts have a 7-day unlimited free trial so there's no obligation. I would truly value any feedback and am building features all the time.\n\nAbout me: I've been working in London digital media holdcos since 2014, well-versed in programmatic, paid social and paid search and running multiple teams of various sizes. In exploring AI I wanted to create something genuinely useful and it's become a tool I genuinely wish i had in my junior and early manager days.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
