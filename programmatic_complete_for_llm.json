@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-22T19:03:23.396210+00:00",
-    "total_posts": 1555,
+    "scrape_date": "2026-04-22T20:28:50.362899+00:00",
+    "total_posts": 1556,
     "total_comments": 9625
   },
   "discussions": [
@@ -80606,6 +80606,20 @@
           "created_utc": 1776884372.0
         }
       ]
+    },
+    {
+      "id": "1sswsli",
+      "title": "Backend cost spikes are getting harder to explain than media variance",
+      "author": "Live_Wonder4645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
+      "created_utc": 1776888656.0,
+      "content": "We’ve had a few campaigns lately where performance gets noisier once spend ramps, even though the setup is basically the same. Starting to wonder how often the issue is the shared environment behind it and not the media itself. Also getting tired of usage-based costs spiking at the same time performance gets less predictable.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

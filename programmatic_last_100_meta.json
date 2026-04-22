@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s2hazg",
-      "title": "CTV targeting with 3P signals",
-      "author": "ZJXXI",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2hazg/ctv_targeting_with_3p_signals/",
-      "created_utc": 1774366803.0,
-      "content": "Running into a CTV audience targeting problem. Most CTV supply doesn’t seems to scale with 3P data layered on, as it defaults to PMP level targeting but standard targeting (demo, age, etc.) doesn’t seem to work. Curious if anyone faces this issue - is there anything apart from contextual that solves for this, maybe geo-based signals?\n\nAlternatively, which SSPs do really well with adding in audience targeting to deals, if at all?\n\nAnything else you’d advise?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s2nrm2",
       "title": "How can I run clean holdout tests without crosschannel contamination for ctv + multichannel campaign?",
       "author": "Fun_Average_3813",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776883621.0,
       "content": "For those of you who work in sales, what sort of information is available about buyers on Sellercrowd? Is it as simple as you look someone or a brand up and it says who the agency buyers are and their contact info?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sswsli",
+      "title": "Backend cost spikes are getting harder to explain than media variance",
+      "author": "Live_Wonder4645",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
+      "created_utc": 1776888656.0,
+      "content": "We’ve had a few campaigns lately where performance gets noisier once spend ramps, even though the setup is basically the same. Starting to wonder how often the issue is the shared environment behind it and not the media itself. Also getting tired of usage-based costs spiking at the same time performance gets less predictable.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
