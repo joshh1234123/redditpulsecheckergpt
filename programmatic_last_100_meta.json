@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s2fgvd",
-      "title": "How to stay in the loop on industry updates?",
-      "author": "curiosity375",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2fgvd/how_to_stay_in_the_loop_on_industry_updates/",
-      "created_utc": 1774362803.0,
-      "content": "\"Hey all! \n\nI’m new to the programmatic space and recently started a role at a DSP. To help get me up to speed on industry news and events, what are your “must read” sites or daily briefings? \n\nI appreciate any help! ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1s2g3b7",
-      "title": "Campaign Manager 360 - Best use cases?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2g3b7/campaign_manager_360_best_use_cases/",
-      "created_utc": 1774364199.0,
-      "content": "Hello, I have quite some experience working with Google products, but haven't used CM360 yet, and I am debating whether it will improve my work.\n\nFirst, its clear to me that being able to track everything in one place across multiple channels is solid, however, in my current situation I don't need this.\n\nWhat are some other reasons to use CM360 and what are in your opinion the Top-3 most common reasons that someone would use CM360? e.g (creatives management, tracker creation etc)\n\nThanks in advance!",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s2hazg",
       "title": "CTV targeting with 3P signals",
       "author": "ZJXXI",
@@ -1302,6 +1276,32 @@
       "created_utc": 1776879015.0,
       "content": "I've created a tool called **ReportIQ** that coaches media planners and buyers into writing better reporting insights by analysing weekly reporting commentary against media plan data while providing bespoke, helpful scoring and feedback to coach individuals and teams deliver higher quality work.\n\nThis saves managers loads of time each week in feeding back when they can be working on other work, and materially improves the output from version-to-version, and week-to-week while helping media teams learn what good looks like and implement high standards as a minimum for clients.\n\nThe tool measures reporting commentary against 9 distinct scoring categories. You will have to input media plan data and theres varying levels of granularity - the more granular the better to analyse against.\n\nThe flow is super easy: Add client > Add Campaign > New report.. and follow the simple steps.\n\nI've had great feedback so far from industry colleagues and am now ready to release and see if it can help others.\n\nThe most common question I get back is \"Can't AI just write the commentary\" - AI certainly can (and I'm big and ugly enough to know it's probably heading that way) but ***currently*** it doesn't have the context of day-to-day optimisations, adhoc client requests or industry or competitor context that's required to deliver work with a human-touch which clients value.\n\nThe URL is: [Reportiq.co.uk](http://Reportiq.co.uk) // It's currently **super cheap** and Individual accounts have a 7-day unlimited free trial so there's no obligation. I would truly value any feedback and am building features all the time.\n\nAbout me: I've been working in London digital media holdcos since 2014, well-versed in programmatic, paid social and paid search and running multiple teams of various sizes. In exploring AI I wanted to create something genuinely useful and it's become a tool I genuinely wish i had in my junior and early manager days.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sste76",
+      "title": "Why are apps still monetised with generic banners?",
+      "author": "krecharles",
+      "score": 1,
+      "url": "https://www.reddit.com/gallery/1sste76",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sste76/why_are_apps_still_monetised_with_generic_banners/",
+      "created_utc": 1776881343.0,
+      "content": "I keep coming back to this and would love pushback from people who actually work in adtech.\n\nIn FotMob (example attached), I can see both extremes in the same app: a generic Freenow banner, and a much more integrated Betfair placement that fits the product surface and visual language. WeTransfer is another example of an app having direct relationships with advertisers.\n\nIs the reason most mobile ads still look generic simply that auctions scale and custom integrations do not? In other words, is better monetization trapped in direct sales because bespoke placements are operationally too painful to package and sell? Or are advertisers and buyers actually less interested in this than it appears from the outside? Am I oversimplifying something here? Happy to discuss in the comments. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ssugyz",
+      "title": "For those on the Sales side - Sellercrowd",
+      "author": "perry_190",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ssugyz/for_those_on_the_sales_side_sellercrowd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ssugyz/for_those_on_the_sales_side_sellercrowd/",
+      "created_utc": 1776883621.0,
+      "content": "For those of you who work in sales, what sort of information is available about buyers on Sellercrowd? Is it as simple as you look someone or a brand up and it says who the agency buyers are and their contact info?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

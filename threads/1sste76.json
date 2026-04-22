@@ -1,0 +1,34 @@
+{
+  "id": "1sste76",
+  "thread_id": "1sste76",
+  "title": "Why are apps still monetised with generic banners?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1sste76/why_are_apps_still_monetised_with_generic_banners/",
+  "created_utc": 1776881343.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "BasisOk4268",
+      "body": "It likely comes down to economy of scale. Businesses are businesses and are generally only interested in the bottom line. What incentive does FotMob have to improve their user experience? They don’t. People will use them regardless as they’ve accepted the app as it is. The general user probably doesn’t give a shit about the quality of advertising being served to them, it’s not the reason they visit the app.",
+      "score": 2,
+      "created_utc": 1776882060.0
+    },
+    {
+      "author": "righthandofdog",
+      "body": "One is a standard sized mobile ad served thru an ad server, the other is some sort of content partnership.  I assume that partnership is only available in certain juristictions.  I'm getting a standard ad unit on that same page I'm the US. \n\nhttps://imgur.com/a/Qtkn6gH\n\n",
+      "score": 2,
+      "created_utc": 1776882895.0
+    },
+    {
+      "author": "krecharles",
+      "body": "Maybe you are right, but I like to believe that app devs like to think about business as craft. And if the ads weren't that bad then I might actually convert more and develop less banner blindness. I spent way more time looking at the betfair ads than I would ever looking at freenow ad, and I find it less insulting to my UX experience. Though I see your point, maybe that's just wishful thinking.",
+      "score": 1,
+      "created_utc": 1776882744.0
+    },
+    {
+      "author": "krecharles",
+      "body": "The juristictions argument is a really good point. Especially with betting Fotmob probably needs to be really careful at a granularity that generic ad servers just don't allow. (I got the betfair ad in the UK)",
+      "score": 1,
+      "created_utc": 1776883104.0
+    }
+  ]
+}
