@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-22T10:45:44.229632+00:00",
-    "total_posts": 1548,
-    "total_comments": 9618
+    "scrape_date": "2026-04-22T11:55:20.375723+00:00",
+    "total_posts": 1549,
+    "total_comments": 9619
   },
   "discussions": [
     {
@@ -80462,6 +80462,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sshwv0",
+      "title": "Reaching out to explore a programmatic partnership",
+      "author": "EasyStrategy5430",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sshwv0/reaching_out_to_explore_a_programmatic_partnership/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sshwv0/reaching_out_to_explore_a_programmatic_partnership/",
+      "created_utc": 1776854928.0,
+      "content": "Reaching out to explore a programmatic partnership. Adbite is a full-stack partner with direct demand and supply across Display, Video, and CTV.  \n  \nOpen to a brief call if this aligns with your focus.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Beneficial_Alps2605",
+          "body": "Dm",
+          "score": 1,
+          "created_utc": 1776855814.0
+        }
+      ]
     }
   ]
 }
