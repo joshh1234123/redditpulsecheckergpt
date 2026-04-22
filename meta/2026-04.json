@@ -974,6 +974,21 @@
       "link_flair_text": null,
       "thread_id": "1ss2ppc",
       "thread_path": "1ss2ppc.json"
+    },
+    {
+      "id": "1ssdpop",
+      "title": "Unpopular opinion: SPO might be quietly killing publisher revenue (and buyers are cheering for it)",
+      "author": "TapMind",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ssdpop/unpopular_opinion_spo_might_be_quietly_killing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ssdpop/unpopular_opinion_spo_might_be_quietly_killing/",
+      "created_utc": 1776840547.0,
+      "content": "I’ve been digging into some yield data over the past couple of months, and something doesn’t sit right. We pushed pretty hard on supply path optimization—cut down the number of SSPs, cleaned up duplication, made everything look nice and efficient. Exactly what everyone says you should be doing.\n\nBut once we compared the numbers before and after, it got weird.\n\nCPMs dropped from around $4.60 to $3.70. At first glance, buyers would call that a win. But overall revenue? Down close to 28%. Traffic didn’t change. Nothing major shifted on the demand side. The only real difference was that we removed a bunch of overlapping supply paths.\n\nAnd that’s when it clicked.\n\nAll that “duplication” everyone talks about removing? It was actually creating pressure in the auction. Multiple paths meant more bids hitting the same impression, even if it wasn’t perfectly clean. Once we stripped that out, auctions became more “efficient”… but also less competitive. Prices just settled lower.\n\nSo yeah, buyers are technically getting cheaper inventory now. But it feels like we’re slowly training the market to accept lower prices across the board.\n\nWhat worries me is where this goes next. If publishers keep seeing revenue drop like this, they’re not going to just sit back and accept it. They’ll move better inventory into direct deals, PMPs, or just hold back supply altogether. And then suddenly the “cheap” inventory everyone optimized toward either disappears or isn’t worth buying anymore.\n\nSo the short-term win for buyers might actually create a long-term problem where quality supply shrinks and prices swing back up—but with less transparency.\n\nI don’t know… maybe this was always “inefficiency” that needed to be removed.\n\nBut it doesn’t feel like we just removed waste. It feels like we removed competition.\n\n\n\n**Curious if anyone else has seen something similar, or if I’m missing something here.**",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ssdpop",
+      "thread_path": "1ssdpop.json"
     }
   ]
 }
