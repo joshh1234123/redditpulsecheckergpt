@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-22T22:09:37.599706+00:00",
-    "total_posts": 1556,
-    "total_comments": 9625
+    "scrape_date": "2026-04-22T23:11:39.982613+00:00",
+    "total_posts": 1557,
+    "total_comments": 9626
   },
   "discussions": [
     {
@@ -80620,6 +80620,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1st0xiy",
+      "title": "Adweek: The Trade Desk Is Quietly Phasing Out Its Signature Periodic Table",
+      "author": "goodgoaj",
+      "score": 4,
+      "url": "https://www.adweek.com/media/exclusive-the-trade-desk-phasing-out-periodic-table/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1st0xiy/adweek_the_trade_desk_is_quietly_phasing_out_its/",
+      "created_utc": 1776898125.0,
+      "content": "Jeff finally caved?! $TTD to the moon!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Finally ",
+          "score": 1,
+          "created_utc": 1776899092.0
+        }
+      ]
     }
   ]
 }

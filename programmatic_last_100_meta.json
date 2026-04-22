@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s2nrm2",
-      "title": "How can I run clean holdout tests without crosschannel contamination for ctv + multichannel campaign?",
-      "author": "Fun_Average_3813",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s2nrm2/how_can_i_run_clean_holdout_tests_without/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s2nrm2/how_can_i_run_clean_holdout_tests_without/",
-      "created_utc": 1774380499.0,
-      "content": "I’m currently managing a multi-channel campaign for a mid-sized brand (paid social, search, and now we’ve layered in CTV for the first time). My mandate is to drive conversions while also understanding what’s actually moving the needle. With paid social and search, I have a handle on attribution and incrementality testing. But with CTV in the mix, I’m struggling to set up a clean holdout test that gives me anything meaningful.\n\nWe’re targeting overlapping audiences across channels, ctv is mostly upper/mid-funnel, but we are seeing downstream conversions, and I want to isolate the incremental impact of CTV without completely disrupting campaign performance.\n\nHow would you go about setting up holdout tests specifically for ctv within a multi-channel ecosystem? Are geo holdouts the standard, or are there better audience-based approaches that work better in practice? Would love some insights on this.",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s2zxfv",
       "title": "Couldn’t Help Myself",
       "author": "EitherCan4424",
@@ -1302,6 +1289,19 @@
       "created_utc": 1776888656.0,
       "content": "We’ve had a few campaigns lately where performance gets noisier once spend ramps, even though the setup is basically the same. Starting to wonder how often the issue is the shared environment behind it and not the media itself. Also getting tired of usage-based costs spiking at the same time performance gets less predictable.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1st0xiy",
+      "title": "Adweek: The Trade Desk Is Quietly Phasing Out Its Signature Periodic Table",
+      "author": "goodgoaj",
+      "score": 4,
+      "url": "https://www.adweek.com/media/exclusive-the-trade-desk-phasing-out-periodic-table/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1st0xiy/adweek_the_trade_desk_is_quietly_phasing_out_its/",
+      "created_utc": 1776898125.0,
+      "content": "Jeff finally caved?! $TTD to the moon!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
