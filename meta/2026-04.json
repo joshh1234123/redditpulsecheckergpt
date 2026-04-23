@@ -1124,6 +1124,36 @@
       "link_flair_text": null,
       "thread_id": "1st0xiy",
       "thread_path": "1st0xiy.json"
+    },
+    {
+      "id": "1st88pm",
+      "title": "LiveRamp 2p audiences lack of refresh?",
+      "author": "AdTechGinger",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1st88pm/liveramp_2p_audiences_lack_of_refresh/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1st88pm/liveramp_2p_audiences_lack_of_refresh/",
+      "created_utc": 1776917794.0,
+      "content": "Does anyone understand how LiveRamp treats 2P audiences delivered via the Onboarding tile (custom segments from a provider) refresh differently than 3rd party segments in LiveRamp? We're seeing a weird thing where even with all of the Always-On, Active Refresh and Backlog Refresh settings are all set to on, 2P segments aren't included in the regular refresh sent to the DSP, so begin to expire (any DSP that doesn't see refresh in 40 days will start to expire, some sooner I think).   \nBut getting help from LiveRamp is harder than getting help from AT&T customer support, so we are grasping at straws as to WTF is happening. Anyone with LiveRamp expertise or who's seen something similar, help please?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1st88pm",
+      "thread_path": "1st88pm.json"
+    },
+    {
+      "id": "1st9gyd",
+      "title": "What does “good” look like for in app - programmatic ads in India?",
+      "author": "Separate_Run_1027",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1st9gyd/what_does_good_look_like_for_in_app_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1st9gyd/what_does_good_look_like_for_in_app_programmatic/",
+      "created_utc": 1776921547.0,
+      "content": "Hey folks,\n\nI’m trying to get a clearer sense of what “good” looks like for programmatic monetisation in Indian context — I am no where close to material i found online 80%+ fill rates, ₹20-50 eCPMs\n\n**Context:**\n\n* Consumer app with \\~90% users from metro cities in India\n* Current setup: AdX + InMobi (via SDK bidding) & Ad Mob\n* Core pipes are in place, now looking to optimise and scale\n\n**What I’m trying to understand:**\n\n* Benchmark ranges for CPMs, fill rates (by format if possible)\n* Format mix that’s working well in India (banner vs native, trying to avoid native as much as possible)\n* India-specific nuances (DSPs worth adding, geo pricing differences, demand seasonality, etc.)\n* Practical optimisation levers beyond the basics (floor pricing strategies, mediation tweaks, etc.)\n* Any non-obvious wins that moved the needle for you\n\nIf you don't mind would love to connect for a brief conservation to understand what worked for you! Thanks in advance 🙌",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1st9gyd",
+      "thread_path": "1st9gyd.json"
     }
   ]
 }
