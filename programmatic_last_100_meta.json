@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s3beuc",
-      "title": "Using query-level signals to build intent clusters as a targeting layer",
-      "author": "Friendly_Concern2913",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s3beuc/using_querylevel_signals_to_build_intent_clusters/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3beuc/using_querylevel_signals_to_build_intent_clusters/",
-      "created_utc": 1774446868.0,
-      "content": "Been exploring an alternative way to structure demand signals using search query data as input, then treating it more like a programmatic signal layer than a keyword list.\n\nSetup is simple:\n\n* Source: Google Ads query data as a proxy for high-intent demand\n* Transform: embed queries using small transformer models\n* Structure: cluster with HDBSCAN to form intent-level segments\n\nInstead of working with discrete queries, you end up with stable intent clusters that behave more like addressable segments.\n\nWhat’s interesting from a programmatic perspective:\n\n* High-cardinality query data compresses into a manageable number of intent segments\n* Each cluster represents a consistent underlying task or need, not just phrasing variation\n* Segments can be scored by volume density and coverage (supply vs messaging)\n* Temporal changes show up as shifts in cluster weight rather than noisy query-level variance\n* Overlap between segments becomes measurable via embedding space distance\n\nConceptually this feels closer to building custom targeting segments from raw behavioral signals, but without relying on user-level tracking or cookies.\n\nI have been thinking about whether something like this could sit upstream of a DSP as a signal enrichment layer, where intent clusters become inputs for targeting or creative mapping.\n\nCurious if anyone here has worked on transforming high-cardinality inputs like query logs into stable segments for activation, and how that translated into actual buying or optimization workflows.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s3iaa3",
       "title": "Can someone suggest best way to learn DV 360?",
       "author": "MrPunekar",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1st9gyd/what_does_good_look_like_for_in_app_programmatic/",
       "created_utc": 1776921547.0,
       "content": "Hey folks,\n\nI’m trying to get a clearer sense of what “good” looks like for programmatic monetisation in Indian context — I am no where close to material i found online 80%+ fill rates, ₹20-50 eCPMs\n\n**Context:**\n\n* Consumer app with \\~90% users from metro cities in India\n* Current setup: AdX + InMobi (via SDK bidding) & Ad Mob\n* Core pipes are in place, now looking to optimise and scale\n\n**What I’m trying to understand:**\n\n* Benchmark ranges for CPMs, fill rates (by format if possible)\n* Format mix that’s working well in India (banner vs native, trying to avoid native as much as possible)\n* India-specific nuances (DSPs worth adding, geo pricing differences, demand seasonality, etc.)\n* Practical optimisation levers beyond the basics (floor pricing strategies, mediation tweaks, etc.)\n* Any non-obvious wins that moved the needle for you\n\nIf you don't mind would love to connect for a brief conservation to understand what worked for you! Thanks in advance 🙌",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1stg2rv",
+      "title": "UK programmatic revenue is inflated by optics, not real demand",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1stg2rv/uk_programmatic_revenue_is_inflated_by_optics_not/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1stg2rv/uk_programmatic_revenue_is_inflated_by_optics_not/",
+      "created_utc": 1776943904.0,
+      "content": "We’ve been analysing UK monetisation across open auction vs PMPs, and I’m starting to think a big chunk of “premium revenue growth” is just optics.\n\n\n\nHere’s what we saw:\n\nPMP CPMs: \\~£5.60\n\nOpen auction CPMs: \\~£3.20\n\nLooks like strong revenue growth, right?\n\nBut total revenue only increased \\~3.5% after shifting \\~45% of traffic into PMPs.\n\nMeanwhile:\n\nOpen auction revenue dropped \\~19%\n\nBid density in open exchange dropped \\~14%\n\nSo what’s actually happening?\n\n\n\nWe’re not increasing revenue — we’re just concentrating it into fewer, more expensive-looking pipes.\n\n\n\nBuyers aren’t spending more.\n\nThey’re just spending differently.\n\nAnd because PMPs have higher CPMs, it creates the illusion of revenue growth… even when the total pie barely changes.\n\nFeels like the industry is optimizing for how revenue looks, not how much revenue actually exists.\n\nEven worse, reduced competition in open auction might be dragging baseline pricing down over time.\n\nSo we might be trading:\n\nShort-term premium optics\n\nfor long-term revenue stagnation\n\n\n\n**Are PMPs actually growing UK publisher revenue… or just making it look like they are?**",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

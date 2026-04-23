@@ -1154,6 +1154,21 @@
       "link_flair_text": null,
       "thread_id": "1st9gyd",
       "thread_path": "1st9gyd.json"
+    },
+    {
+      "id": "1stg2rv",
+      "title": "UK programmatic revenue is inflated by optics, not real demand",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1stg2rv/uk_programmatic_revenue_is_inflated_by_optics_not/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1stg2rv/uk_programmatic_revenue_is_inflated_by_optics_not/",
+      "created_utc": 1776943904.0,
+      "content": "We’ve been analysing UK monetisation across open auction vs PMPs, and I’m starting to think a big chunk of “premium revenue growth” is just optics.\n\n\n\nHere’s what we saw:\n\nPMP CPMs: \\~£5.60\n\nOpen auction CPMs: \\~£3.20\n\nLooks like strong revenue growth, right?\n\nBut total revenue only increased \\~3.5% after shifting \\~45% of traffic into PMPs.\n\nMeanwhile:\n\nOpen auction revenue dropped \\~19%\n\nBid density in open exchange dropped \\~14%\n\nSo what’s actually happening?\n\n\n\nWe’re not increasing revenue — we’re just concentrating it into fewer, more expensive-looking pipes.\n\n\n\nBuyers aren’t spending more.\n\nThey’re just spending differently.\n\nAnd because PMPs have higher CPMs, it creates the illusion of revenue growth… even when the total pie barely changes.\n\nFeels like the industry is optimizing for how revenue looks, not how much revenue actually exists.\n\nEven worse, reduced competition in open auction might be dragging baseline pricing down over time.\n\nSo we might be trading:\n\nShort-term premium optics\n\nfor long-term revenue stagnation\n\n\n\n**Are PMPs actually growing UK publisher revenue… or just making it look like they are?**",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1stg2rv",
+      "thread_path": "1stg2rv.json"
     }
   ]
 }
