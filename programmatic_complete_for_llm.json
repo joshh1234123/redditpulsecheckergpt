@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-24T14:51:42.657459+00:00",
-    "total_posts": 1563,
+    "scrape_date": "2026-04-24T16:00:37.319626+00:00",
+    "total_posts": 1564,
     "total_comments": 9628
   },
   "discussions": [
@@ -80738,6 +80738,20 @@
           "created_utc": 1777041100.0
         }
       ]
+    },
+    {
+      "id": "1suj50r",
+      "title": "Thoughts on “the chocolate platform”. currently considering reaching out to them as a publisher. Is it worth it if I’m looking for additional CTV demand?",
+      "author": "Diligent_Interview98",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
+      "created_utc": 1777044863.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
