@@ -1169,6 +1169,21 @@
       "link_flair_text": null,
       "thread_id": "1stg2rv",
       "thread_path": "1stg2rv.json"
+    },
+    {
+      "id": "1suak3k",
+      "title": "If you’re running $50k+ campaigns in the US, have you broken down how much actually reaches the final auction vs filtered pre-bid?”",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
+      "created_utc": 1777022149.0,
+      "content": "We started auditing pre-bid filters and realised a surprising % of impressions never even make it to bidding.\n\nTargeting, safety, deal prioritization—it all stacks up",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1suak3k",
+      "thread_path": "1suak3k.json"
     }
   ]
 }

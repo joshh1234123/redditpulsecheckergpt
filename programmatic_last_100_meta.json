@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s3iaa3",
-      "title": "Can someone suggest best way to learn DV 360?",
-      "author": "MrPunekar",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3iaa3/can_someone_suggest_best_way_to_learn_dv_360/",
-      "created_utc": 1774461812.0,
-      "content": "For my career growth, I want to learn DV360. I’ve been trying to find tutorials online, but most of the videos I come across don’t really go into detail or show the actual platform step-by-step. It makes it a bit hard to understand how everything works in practice.\n\nI’m not sure if there are any non-disclosure restrictions around showing the platform in detail, but if anyone knows of a good course, YouTube channel, blog, or any other resource where I can properly learn DV360, it would be really helpful.\n\nAny recommendations would be greatly appreciated.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s3qzgb",
       "title": "Has anyone here tried running smaller-scale CTV campaigns recently?",
       "author": "RaynVale88",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1stg2rv/uk_programmatic_revenue_is_inflated_by_optics_not/",
       "created_utc": 1776943904.0,
       "content": "We’ve been analysing UK monetisation across open auction vs PMPs, and I’m starting to think a big chunk of “premium revenue growth” is just optics.\n\n\n\nHere’s what we saw:\n\nPMP CPMs: \\~£5.60\n\nOpen auction CPMs: \\~£3.20\n\nLooks like strong revenue growth, right?\n\nBut total revenue only increased \\~3.5% after shifting \\~45% of traffic into PMPs.\n\nMeanwhile:\n\nOpen auction revenue dropped \\~19%\n\nBid density in open exchange dropped \\~14%\n\nSo what’s actually happening?\n\n\n\nWe’re not increasing revenue — we’re just concentrating it into fewer, more expensive-looking pipes.\n\n\n\nBuyers aren’t spending more.\n\nThey’re just spending differently.\n\nAnd because PMPs have higher CPMs, it creates the illusion of revenue growth… even when the total pie barely changes.\n\nFeels like the industry is optimizing for how revenue looks, not how much revenue actually exists.\n\nEven worse, reduced competition in open auction might be dragging baseline pricing down over time.\n\nSo we might be trading:\n\nShort-term premium optics\n\nfor long-term revenue stagnation\n\n\n\n**Are PMPs actually growing UK publisher revenue… or just making it look like they are?**",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1suak3k",
+      "title": "If you’re running $50k+ campaigns in the US, have you broken down how much actually reaches the final auction vs filtered pre-bid?”",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
+      "created_utc": 1777022149.0,
+      "content": "We started auditing pre-bid filters and realised a surprising % of impressions never even make it to bidding.\n\nTargeting, safety, deal prioritization—it all stacks up",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
