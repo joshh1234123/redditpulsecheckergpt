@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-24T16:00:37.319626+00:00",
-    "total_posts": 1564,
+    "scrape_date": "2026-04-24T17:05:09.297518+00:00",
+    "total_posts": 1565,
     "total_comments": 9628
   },
   "discussions": [
@@ -80747,6 +80747,20 @@
       "url": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
       "created_utc": 1777044863.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1sulleq",
+      "title": "AI breaks the typical career path - Survey",
+      "author": "cha_0_s",
+      "score": 1,
+      "url": "/r/Productivitycafe/comments/1suk5n2/ai_breaks_the_typical_career_path_survey/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sulleq/ai_breaks_the_typical_career_path_survey/",
+      "created_utc": 1777050126.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,

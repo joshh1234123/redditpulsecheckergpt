@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s4e2qv",
-      "title": "Taking CTV in-house vs. agency vs. TTD - what would you do?",
-      "author": "ohhellomylittlelady",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s4e2qv/taking_ctv_inhouse_vs_agency_vs_ttd_what_would/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s4e2qv/taking_ctv_inhouse_vs_agency_vs_ttd_what_would/",
-      "created_utc": 1774546296.0,
-      "content": "Hello fellow advertisers! Would love some perspective from folks who’ve scaled CTV.\n\nI currently run all paid media in-house (paid social, search, etc.), and we tested CTV last year through an agency. Performance was solid from a brand awareness + lift standpoint, so we’re planning to invest more heavily this year.\n\nHowever, a few complications:\n\n* The agency quietly outsourced execution to a third party (which we only discovered post-launch)\n* Their fees have increased pretty significantly this year\n* I’m inclined to bring CTV in-house and reallocate those fees into working media\n\nRight now I’m weighing a few options:\n\n1. Stick with the same agency (less lift internally, but higher cost + less transparency)\n2. Go direct with the top-performing platforms from last year’s campaign\n3. Bring it fully in-house via a DSP like The Trade Desk to consolidate inventory and control\n\nMy main questions:\n\n* If you’ve brought CTV in-house, what were the biggest challenges (ops, measurement, creative, etc.)?\n* Is going multi-platform direct a mistake vs. using a DSP?\n* At what spend level does something like TTD actually make sense?\n* Any “wish I knew this earlier” lessons?\n\nFor context: strong in-house performance team, comfortable with paid media + attribution, but CTV-specific execution would be new.\n\nAppreciate any thoughts - especially from folks who’ve made the transition one way or another.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s4gkvv",
       "title": "Quick share (free webinar): How we saved 50% of ad ops time with AI",
       "author": "Own_Corner1016",
@@ -1300,6 +1287,19 @@
       "url": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1suj50r/thoughts_on_the_chocolate_platform_currently/",
       "created_utc": 1777044863.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sulleq",
+      "title": "AI breaks the typical career path - Survey",
+      "author": "cha_0_s",
+      "score": 1,
+      "url": "/r/Productivitycafe/comments/1suk5n2/ai_breaks_the_typical_career_path_survey/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sulleq/ai_breaks_the_typical_career_path_survey/",
+      "created_utc": 1777050126.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
