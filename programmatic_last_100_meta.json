@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s5bp6b",
-      "title": "CTV curation",
-      "author": "Less-Selection1127",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s5bp6b/ctv_curation/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s5bp6b/ctv_curation/",
-      "created_utc": 1774634516.0,
-      "content": "Hey everyone — any recommendations for solid and trustworthy CTV curation platforms? Looking for something reliable with good inventory quality.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s68v44",
       "title": "AI Media Optimizer is live in our DSP — which AI course should my friend take next?",
       "author": "GladDebate5022",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777051613.0,
       "content": "Hi all,\n\nAlthough I already have some years of experience in programmatic, I still struggle with understanding the planning phase, and basically every person I know gives me a completely different answer on \"how to plan properly\".\n\nWhen being asked to create a programmatic media plan, what are the things you focus on? If you could give a shortlist/real example it would be very helpful.\n\n1) If not given, how do you decide the budget and request if from the client?\n\n2) How do you choose with which vendors to work for and if you're buying PG, PMP, Open market etc?\n\n3) Do you decide on formats/placements based on the funnel stage? e.g CTV awareness, DCO display action?\n\n\nI already have my own answers but I am still learning and would like some enlightenment and fresh perspective. Any other extra advice will be welcomed :)\n\nCheers!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sungun",
+      "title": "scaling CTV is kind of a mess..how are you guys handling it?",
+      "author": "Asleep-Comparison782",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
+      "created_utc": 1777054169.0,
+      "content": "I'm on the growth team for a multi-location brand and CTV has become a pretty big spend for us. The reach is great but everything around it feels slow. multiple regions, new creatives all the time, different audiences reporting takes forever and even small tweaks feel like they drag. \n\nWe started testing more on self-serve platforms just to move faster, been trying stuff like Vibe and Adwave for smaller tests before putting real budget behind it, but now I'm not even sure where this breaks like do you eventually have to go back to the bigger DSPs like StackAdapt or MNTN once things scale, or have you guys actually made the lighter tools work long term without it turning into another ops mess?\n\n\n\n",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

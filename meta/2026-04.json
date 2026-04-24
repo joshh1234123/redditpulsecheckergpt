@@ -1274,6 +1274,21 @@
       "link_flair_text": null,
       "thread_id": "1sumaer",
       "thread_path": "1sumaer.json"
+    },
+    {
+      "id": "1sungun",
+      "title": "scaling CTV is kind of a mess..how are you guys handling it?",
+      "author": "Asleep-Comparison782",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
+      "created_utc": 1777054169.0,
+      "content": "I'm on the growth team for a multi-location brand and CTV has become a pretty big spend for us. The reach is great but everything around it feels slow. multiple regions, new creatives all the time, different audiences reporting takes forever and even small tweaks feel like they drag. \n\nWe started testing more on self-serve platforms just to move faster, been trying stuff like Vibe and Adwave for smaller tests before putting real budget behind it, but now I'm not even sure where this breaks like do you eventually have to go back to the bigger DSPs like StackAdapt or MNTN once things scale, or have you guys actually made the lighter tools work long term without it turning into another ops mess?\n\n\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sungun",
+      "thread_path": "1sungun.json"
     }
   ]
 }
