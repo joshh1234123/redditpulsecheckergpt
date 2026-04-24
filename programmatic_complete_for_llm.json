@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-24T11:54:07.885351+00:00",
-    "total_posts": 1561,
+    "scrape_date": "2026-04-24T13:05:48.545858+00:00",
+    "total_posts": 1562,
     "total_comments": 9626
   },
   "discussions": [
@@ -80693,6 +80693,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
       "created_utc": 1777022149.0,
       "content": "We started auditing pre-bid filters and realised a surprising % of impressions never even make it to bidding.\n\nTargeting, safety, deal prioritization—it all stacks up",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1suej64",
+      "title": "5 GAM mistakes quietly killing publisher earnings in 2026",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1sueczx/5_gam_mistakes_quietly_killing_publisher_earnings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1suej64/5_gam_mistakes_quietly_killing_publisher_earnings/",
+      "created_utc": 1777034253.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

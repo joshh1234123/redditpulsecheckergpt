@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s3qzgb",
-      "title": "Has anyone here tried running smaller-scale CTV campaigns recently?",
-      "author": "RaynVale88",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s3qzgb/has_anyone_here_tried_running_smallerscale_ctv/",
-      "created_utc": 1774481103.0,
-      "content": " it feels like most platforms are really built for bigger budgets; MNTN, Vibe, etc all have setup minimums that make small tests pretty tricky.\n\nAnd the budget part isn't even the whole problem. The creative side is a headache too. producing ads that actually convert when you don't have a ton of spend to test with is rough, and the reporting can get overwhelming real fast if you're not already set up for programmatic at scale.\n\nhow are you guys approaching this? Anyone found a decent way to test CTV on limited spend and still get useful insights?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s3ze9x",
       "title": "Need a DV360 Seat in India",
       "author": "Sea_Significance6229",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1suak3k/if_youre_running_50k_campaigns_in_the_us_have_you/",
       "created_utc": 1777022149.0,
       "content": "We started auditing pre-bid filters and realised a surprising % of impressions never even make it to bidding.\n\nTargeting, safety, deal prioritization—it all stacks up",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1suej64",
+      "title": "5 GAM mistakes quietly killing publisher earnings in 2026",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1sueczx/5_gam_mistakes_quietly_killing_publisher_earnings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1suej64/5_gam_mistakes_quietly_killing_publisher_earnings/",
+      "created_utc": 1777034253.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
