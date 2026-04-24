@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-24T13:05:48.545858+00:00",
-    "total_posts": 1562,
-    "total_comments": 9626
+    "scrape_date": "2026-04-24T14:51:42.657459+00:00",
+    "total_posts": 1563,
+    "total_comments": 9628
   },
   "discussions": [
     {
@@ -80711,6 +80711,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sug9nv",
+      "title": "Looking for in-house programmatic/digital jobs",
+      "author": "mrcoolguy13579",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sug9nv/looking_for_inhouse_programmaticdigital_jobs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sug9nv/looking_for_inhouse_programmaticdigital_jobs/",
+      "created_utc": 1777038440.0,
+      "content": "I am expected to be laid off by July, currently on the Dentsu Microsoft account that’s moving to publicis. \n\nI am tired of the agency world as I’ve been in it 8+ years now and want to make a change. \n\nHas anyone had success making a move in-house?\n\nI’m having a hard time even finding relevant digital roles that aren’t just sales jobs. Any tips on finding good roles? \n\nThank you in advance!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Just_Aardvark_9965",
+          "body": "What a small universe 😄\nI am from Dentsu as well and working for MSFT account. ",
+          "score": 1,
+          "created_utc": 1777041696.0
+        },
+        {
+          "author": "United-Inevitable559",
+          "body": "Not trying to come across harsh but I would have jumped ship from dentsu a year and a half ago- what made you stay? Typically sticking around at a poor performing agency doesent do you favors ",
+          "score": 1,
+          "created_utc": 1777041100.0
+        }
+      ]
     }
   ]
 }
