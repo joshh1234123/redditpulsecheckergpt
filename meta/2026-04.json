@@ -1244,6 +1244,36 @@
       "link_flair_text": null,
       "thread_id": "1sulleq",
       "thread_path": "1sulleq.json"
+    },
+    {
+      "id": "1sum0q8",
+      "title": "How are you actually feeding unified first-party data into your programmatic campaigns for better ROAS?",
+      "author": "robyromana",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sum0q8/how_are_you_actually_feeding_unified_firstparty/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sum0q8/how_are_you_actually_feeding_unified_firstparty/",
+      "created_utc": 1777051046.0,
+      "content": "I run a DTC wellness brand and we spend a decent chunk on programmatic (mostly through DV360 and The Trade Desk). For the longest time our audience segments were pretty basic, mostly relying on third-party data and broad demographics. The performance has been okay but nothing spectacular, and with third-party cookies going away I knew we had to get smarter with our own data.\n\nI’m still early in the process and trying to figure out the most effective way to activate this data. How are you guys approaching this in 2026? Are you building custom segments in the CDP and syncing them via API, using lookalike modeling, or doing something else entirely? What’s actually moved the needle for you on ROAS or CPA when layering first-party data into programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sum0q8",
+      "thread_path": "1sum0q8.json"
+    },
+    {
+      "id": "1sumaer",
+      "title": "Media planning in programmatic advertising",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sumaer/media_planning_in_programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sumaer/media_planning_in_programmatic_advertising/",
+      "created_utc": 1777051613.0,
+      "content": "Hi all,\n\nAlthough I already have some years of experience in programmatic, I still struggle with understanding the planning phase, and basically every person I know gives me a completely different answer on \"how to plan properly\".\n\nWhen being asked to create a programmatic media plan, what are the things you focus on? If you could give a shortlist/real example it would be very helpful.\n\n1) If not given, how do you decide the budget and request if from the client?\n\n2) How do you choose with which vendors to work for and if you're buying PG, PMP, Open market etc?\n\n3) Do you decide on formats/placements based on the funnel stage? e.g CTV awareness, DCO display action?\n\n\nI already have my own answers but I am still learning and would like some enlightenment and fresh perspective. Any other extra advice will be welcomed :)\n\nCheers!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sumaer",
+      "thread_path": "1sumaer.json"
     }
   ]
 }
