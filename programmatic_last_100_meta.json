@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s68v44",
-      "title": "AI Media Optimizer is live in our DSP — which AI course should my friend take next?",
-      "author": "GladDebate5022",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s68v44/ai_media_optimizer_is_live_in_our_dsp_which_ai/",
-      "created_utc": 1774724417.0,
-      "content": "My friend's company just implemented an AI Media Optimizer tool inside their DSP curious what courses people recommend to upskill further\n\nSo a friend of mine works in programmatic and their team recently rolled out a Media Optimizer AI agent directly within their DSP setup. Basically the tool monitors spend across line items, analyzes which targeting combinations are performing best, and then automatically creates new line items based on those learnings. It's been working really well and has noticeably improved campaign performance.\n\nNow he's inspired and wants to get a deeper understanding of AI so he can contribute more to these kinds of projects. He's looked at a couple of courses:\n\nIIDE – AI with Marketing\n\nIITx / Futurense – AI course\n\nHas anyone here done either of these? He's coming from a programmatic/media buying background so something that bridges AI concepts with real marketing/advertising applications would be ideal.\n\nWould love to hear if there are other recommendations too  especially anything that's relevant to ad tech or programmatic specifically. Thanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s6qr1z",
       "title": "Is CTV actually worth it for smaller brands?",
       "author": "Poseidon_9726",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777054169.0,
       "content": "I'm on the growth team for a multi-location brand and CTV has become a pretty big spend for us. The reach is great but everything around it feels slow. multiple regions, new creatives all the time, different audiences reporting takes forever and even small tweaks feel like they drag. \n\nWe started testing more on self-serve platforms just to move faster, been trying stuff like Vibe and Adwave for smaller tests before putting real budget behind it, but now I'm not even sure where this breaks like do you eventually have to go back to the bigger DSPs like StackAdapt or MNTN once things scale, or have you guys actually made the lighter tools work long term without it turning into another ops mess?\n\n\n\n",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1svjr42",
+      "title": "DSP platform looking for experience Adtech",
+      "author": "Beneficial_Alps2605",
+      "score": 0,
+      "url": "https://i.redd.it/4ikyy5ewpdxg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1svjr42/dsp_platform_looking_for_experience_adtech/",
+      "created_utc": 1777141436.0,
+      "content": "advertising platform will be launched in a few days. If you would like to try the platform, please enter your email address and we will contact you.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

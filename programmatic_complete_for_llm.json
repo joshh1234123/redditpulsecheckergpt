@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-25T18:02:03.970047+00:00",
-    "total_posts": 1568,
-    "total_comments": 9631
+    "scrape_date": "2026-04-25T19:23:52.227731+00:00",
+    "total_posts": 1569,
+    "total_comments": 9632
   },
   "discussions": [
     {
@@ -80825,6 +80825,27 @@
           "body": "What is the objective of your campaign? What part of marketing it supports? How do you measure results? It's quite difficult to have big impact with small spends with CTV. You just can't buy enough imps.",
           "score": 1,
           "created_utc": 1777058572.0
+        }
+      ]
+    },
+    {
+      "id": "1svjr42",
+      "title": "DSP platform looking for experience Adtech",
+      "author": "Beneficial_Alps2605",
+      "score": 0,
+      "url": "https://i.redd.it/4ikyy5ewpdxg1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1svjr42/dsp_platform_looking_for_experience_adtech/",
+      "created_utc": 1777141436.0,
+      "content": "advertising platform will be launched in a few days. If you would like to try the platform, please enter your email address and we will contact you.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "magicwings",
+          "body": "You've given no details. What makes you different/better than any other DSP? It's a very competitive market.",
+          "score": 2,
+          "created_utc": 1777143664.0
         }
       ]
     }
