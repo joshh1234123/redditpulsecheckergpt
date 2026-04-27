@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s7sf9c",
-      "title": "Ad-free streaming is basically dead. What does that mean for us?",
-      "author": "NiceRecognition9603",
-      "score": 1,
-      "url": "https://www.emarketer.com/content/us-ad-supported-vs-ad-free-streaming-video-viewers-2026",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s7sf9c/adfree_streaming_is_basically_dead_what_does_that/",
-      "created_utc": 1774881540.0,
-      "content": "eMarketer is saying 80% of streaming viewers will be on an ad tier by end of 2026. Three quarters already are. Even people on ad-free plans get ads during live sports. Add YouTube and I'm not sure \"ad-free viewer\" is a real category anymore.\n\nMore people on ad tiers, more supply, lower CPMs. Good for us buying inventory. Not great for the platforms. And I noticed this, Netflix said in their latest earnings their ad tier makes less per member than ad-free.\n\nSuppliers want to keep the premium CPMs, if not premium content, conversion, retail data. That's probably why Amazon has been signing so many streaming deals lately. And why Walmart is building their data integration fast. TTD doesn't have that purchase signal and I don't see how they close that gap.\n\nOne more thing people are missing. US consumers average four streaming subscriptions. They all have to live on a screen somewhere. That's why Amazon went so hard on TV manufacturer deals. Fire TV might be the most underused part of this right now.\n\nAnyone seeing CPMs move on streaming inventory this year? Or is this still theoretical?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s7spdf",
       "title": "What’s the deal with this Adtech drama?",
       "author": "No-Statistician-9555",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777327489.0,
       "content": "Aussie here,\n\nIn our market premium CTV like sport is traded around 80%+ direct/pg with very few impressions made available to the non-guaranteed market. \n\nCurious what this looks like in the US with both greater scale and more complex rights arrangements across multiple channels",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sxkjnb",
+      "title": "Is it possible to do NG / PMP on YouTube TV? And is this accessible by dv360 only?",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sxkjnb/is_it_possible_to_do_ng_pmp_on_youtube_tv_and_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sxkjnb/is_it_possible_to_do_ng_pmp_on_youtube_tv_and_is/",
+      "created_utc": 1777332934.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

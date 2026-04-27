@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-27T22:42:33.007017+00:00",
-    "total_posts": 1572,
+    "scrape_date": "2026-04-27T23:44:59.944996+00:00",
+    "total_posts": 1573,
     "total_comments": 9634
   },
   "discussions": [
@@ -80904,6 +80904,20 @@
           "created_utc": 1777328235.0
         }
       ]
+    },
+    {
+      "id": "1sxkjnb",
+      "title": "Is it possible to do NG / PMP on YouTube TV? And is this accessible by dv360 only?",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sxkjnb/is_it_possible_to_do_ng_pmp_on_youtube_tv_and_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sxkjnb/is_it_possible_to_do_ng_pmp_on_youtube_tv_and_is/",
+      "created_utc": 1777332934.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
