@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-27T21:49:33.003934+00:00",
-    "total_posts": 1571,
-    "total_comments": 9633
+    "scrape_date": "2026-04-27T22:42:33.007017+00:00",
+    "total_posts": 1572,
+    "total_comments": 9634
   },
   "discussions": [
     {
@@ -80883,6 +80883,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sxibgz",
+      "title": "In the US what % of premium CTV is traded NG",
+      "author": "tmanto02",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sxibgz/in_the_us_what_of_premium_ctv_is_traded_ng/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sxibgz/in_the_us_what_of_premium_ctv_is_traded_ng/",
+      "created_utc": 1777327489.0,
+      "content": "Aussie here,\n\nIn our market premium CTV like sport is traded around 80%+ direct/pg with very few impressions made available to the non-guaranteed market. \n\nCurious what this looks like in the US with both greater scale and more complex rights arrangements across multiple channels",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "broadstreetrambler",
+          "body": "90-95% is PG",
+          "score": 1,
+          "created_utc": 1777328235.0
+        }
+      ]
     }
   ]
 }
