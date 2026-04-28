@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-28T12:10:42.891578+00:00",
-    "total_posts": 1574,
-    "total_comments": 9634
+    "scrape_date": "2026-04-28T17:09:32.722144+00:00",
+    "total_posts": 1576,
+    "total_comments": 9658
   },
   "discussions": [
     {
@@ -80932,6 +80932,180 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1sy3fl9",
+      "title": "moving some spend into CTV from paid social",
+      "author": "Asleep-Comparison782",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
+      "created_utc": 1777387404.0,
+      "content": "Hi guys! we've been running most of our spend on facebook and Google (roughly 50/30 split) and tbh ROI has been getting worse every time. We're a small team so we can't really afford a bunch of random tests, but wee're starting to feel like we need to move some budget around instead of just doubling down there..  \n  \nI'm considering pulling some spend from meta/search and putting it into CTV to see if it drives anything. Thinking something like: \\~4k CTV, 3k on best performing social, 2k email, and maybe a small test budget left for tiktok or experiments (thoughts??)  \n  \nFor CTV we've been looking at self-serve stuff like Adwave and Vibe just to keep it simple and avoid going full agency route right away.  \n  \nThe plan would be to run it for a few weeks, track actual sales / lift, and then decide whats worth scalin  \n  \nAnyone here made a similar shift? did CTV hold up when you moved real budget into it or did you end up just cycling back to paid social/search? appreciate your advice!!",
+      "num_comments": 23,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SeniorProgrammatic",
+          "body": "Hey young lad,\n\nOne thing I’ll tell you is no matter the platform you choose (please don’t choose MNTN or Vibe), you will have trouble getting any attribution through a view through conversion channel with 4k/month. I’d recommend you start with display, cheaper entry point and you can get enough frequency for an impact.",
+          "score": 4,
+          "created_utc": 1777388745.0
+        },
+        {
+          "author": "Drewbtube7",
+          "body": "Consider getting yourself a seat on dv360 or Amazon DSP to save yourself on margin. These easy to enter CTV offerings take a large margin of your buy to keep the platform running. DV360 and Amazon take no less than 15-20% of your media spend if buying inventory via a private deal in the marketplace or with an SSP vendor. \n\nCTV is generally upper funnel so if you are having a creative fatigue problem on meta it could just be that. \n",
+          "score": 3,
+          "created_utc": 1777388034.0
+        },
+        {
+          "author": "eltapatio",
+          "body": "I think you’ll find limited success trying to measure ROI on CTV when comparing it to Meta.  \n\nHas your Facebook done poorly since mid March? Because that might not be a Performance issue it might be a Meta tracking issue. https://www.linkedin.com/posts/gil-david_a-lot-of-very-experienced-advertisers-i-know-activity-7453388053944979456-FH0R",
+          "score": 2,
+          "created_utc": 1777387850.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "4k for purely CTV feels like you won't get much out of it or any statistically significant results. You may want to walk before you crawl and just run YouTube CTV only campaigns as a first experience of CTV.\n\nUltimately its an education thing, the attribution game is completely different on CTV vs legacy channels like search / social. Which is not a bad thing but don't be chasing after user level MTA is my advice.",
+          "score": 2,
+          "created_utc": 1777389135.0
+        },
+        {
+          "author": "cuteman",
+          "body": "You're already spread thin with Google and meta on that budget.\n\nIf you can't make it work on those, CTV, Tiktok, etc isn't going to help\n\nYou say you don't want to do random tests but that's exactly what you're talking about without realizing it.\n\nWhat's the business industry? What are you selling?\n\nWhat is or isn't working on search or social to where it's \"getting worse\"?\n\nTo be clear I am not suggesting you \"double down\" but figure out why search and social aren't working in the first place.",
+          "score": 1,
+          "created_utc": 1777389636.0
+        },
+        {
+          "author": "Responsible-Brick881",
+          "body": "At that budget, have you considered online video at all? \nWhat sort of business are you in and who's your ICP?",
+          "score": 1,
+          "created_utc": 1777390194.0
+        },
+        {
+          "author": "jayromeishere",
+          "body": "Ads on Youtube?",
+          "score": 1,
+          "created_utc": 1777392766.0
+        },
+        {
+          "author": "Morr1Bo",
+          "body": "I work at AllMediaDesk, a self-service platform as mentioned, so I can share some perspective from what we’re seeing across a lot of SMB campaigns.\n\nCompared to tools like Adwave or Vibe, what we at AllMediaDesk trying to do is basically turn media buying into something that feels more like an online shop instead of a classic programmatic setup. So you can book CTV, online video, display, online audio, or even DOOH quite directly without going through the usual DSP complexity.\n\nOn the pricing point that came up here - it’s true that platforms like ours don’t break everything down into media cost, tech fee, data fee, etc. The reason is honestly not to hide margin, but because it quickly becomes very complex for smaller teams. A lot of advertisers don’t want to manage 4–5 different cost layers or deal with fluctuating auction prices. What we (and similar platforms) do instead is bundle everything into one fixed price. That also means we take on the risk if prices in the background auctions go up, so you as the advertiser have planning security instead of volatility.\n\nOn the DSP discussion: DV360 or Amazon DSP can absolutely be powerful, but in practice they’re hard to use efficiently at smaller budgets and without programmatic experience. One issue I’ve personally seen quite a lot is reporting - you often end up with raw data like CTV app IDs and then have to manually figure out which actual apps or environments those even are. Same on the inventory side: if you’re not very careful with setups and deals, you can easily end up buying inventory on smart TV apps that aren’t really premium video content, even though you thought you were running “CTV”. That is, for example, a big part of what our product team works on all week - making sure everything is clean, transparent, and easy to use for our self-service customers.\n\nComing back to your original plan - I think the bigger question is less “which platform” and more “what can you realistically expect from that budget”.\n\nA setup like 4k CTV, 3k social, 2k email plus some test budget sounds reasonable on paper, but for CTV specifically 4k is usually too small to get meaningful results. You’ll likely struggle to generate enough reach and frequency, and even if there is an effect, it’s hard to prove it with the kind of attribution you’re used to from Meta or Search.\n\nFrom what we typically see, initial CTV tests are more in the range of approx. 20–30k, depending on geo and audience size. That’s where you start to get stable delivery and signals you can actually work with.\n\nAlso important: CTV plays a very different role. It’s much more upper funnel, so it’s about building demand rather than capturing existing intent like search does. If you expect similar direct ROI signals, it’ll almost always look worse short term, even if it contributes long term.\n\nIf you want to move in that direction with your current budget, I’d probably take a step in between first: display or audio can also be a good way to expand beyond search/social without needing that much budget and tend to have much lower CPMs than CTV.\n\nOverall, I think you’re right to question just doubling down on Meta/Google, but I’d be careful not to spread budget too thin across too many channels at once. CTV can absolutely work, but usually either with a bit more budget or with expectations adjusted to what the channel is actually good at.",
+          "score": 1,
+          "created_utc": 1777394186.0
+        },
+        {
+          "author": "Asleep-Comparison782",
+          "body": "ohh ok, are they that bad?",
+          "score": 2,
+          "created_utc": 1777388943.0
+        },
+        {
+          "author": "cuteman",
+          "body": "None of those things are going to happen on 4K budget",
+          "score": 3,
+          "created_utc": 1777389457.0
+        },
+        {
+          "author": "Asleep-Comparison782",
+          "body": "ohh that makes a lot of sense, thank you!",
+          "score": 2,
+          "created_utc": 1777388245.0
+        },
+        {
+          "author": "Asleep-Comparison782",
+          "body": "yes it has lol but that's interesting, I'll look into that, thanks!",
+          "score": 1,
+          "created_utc": 1777388271.0
+        },
+        {
+          "author": "Asleep-Comparison782",
+          "body": "How much would you recommend? I thought 4k was enough to start off with but lmk",
+          "score": 1,
+          "created_utc": 1777390480.0
+        },
+        {
+          "author": "SeniorProgrammatic",
+          "body": "They are what I would call “entry level” DSP’s with many training wheels attached. To future proof your programmatic media I would recommend DV360, the learning curve is harder but the payoff is larger.",
+          "score": 3,
+          "created_utc": 1777389078.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "Vibe is meh, but MNTN is borderline dishonest with how much it over-attributes performance to CTV. It will make you look good from the outset, but after you've been doing CTV for a long time, you'll start getting more questions from stakeholders about the real business value it's providing, and MNTN won't be there to help prove it out for you.",
+          "score": 3,
+          "created_utc": 1777390191.0
+        },
+        {
+          "author": "Drewbtube7",
+          "body": "Happy to share. I’ve done a lot of research on margins that DSP’s take from the end user and trust me just stick with Google and Amazon for now. Their margins are clear, and they have a big name to keep their prices low because they are so big. Not to mention the data that they own and sell to you. ",
+          "score": 1,
+          "created_utc": 1777390700.0
+        },
+        {
+          "author": "eltapatio",
+          "body": "always validate performance data to first party data. Not a great idea to have Facebook or Google grading their own homework as your source of truth.",
+          "score": 2,
+          "created_utc": 1777388397.0
+        },
+        {
+          "author": "jefftak7",
+          "body": "Stat sig lift is extremely dependent on your baselines and would require some DS input. For me, I’ve seen 15k-30k/week but depends on length, MDE, expected lift. I mean this respectfully, it sounds like you’re a smaller/less mature company. I have been a part of teams spending 10M+/mo before even touching CTV. You have a long way to go scale wise before moving up funnel ",
+          "score": 1,
+          "created_utc": 1777392739.0
+        },
+        {
+          "author": "SeniorProgrammatic",
+          "body": "Going through the throws of MNTN is like a right of passage for the industry, everyone and I mean everyone has a terrible MNTN story lol",
+          "score": 3,
+          "created_utc": 1777391881.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "I’ve heard Vibe is a nice substitute for local businesses that are looking to cut out the middleman of their local TV Reps. \n\nI’m skeptical of the claims around performance (because I’m skeptical of everything) but do you have first hand experience?",
+          "score": 1,
+          "created_utc": 1777391885.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "haha truer words were never written",
+          "score": 2,
+          "created_utc": 1777393801.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "But Ryan Reynolds?",
+          "score": 1,
+          "created_utc": 1777393962.0
+        },
+        {
+          "author": "Lumiafan",
+          "body": "Not from Vibe, no. But they're really not doing anything special beyond making CTV more accessible is all. That's all well and good, but it can only get you so far, eventually.",
+          "score": 2,
+          "created_utc": 1777393878.0
+        }
+      ]
+    },
+    {
+      "id": "1sy6d93",
+      "title": "Building a YouTube MP3 Android app (Kivy) - need help integrating yt-dlp properly\nQuestion",
+      "author": "Flashy-Abalone-9212",
+      "score": 1,
+      "url": "https://v.redd.it/675ljuvthyxg1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy6d93/building_a_youtube_mp3_android_app_kivy_need_help/",
+      "created_utc": 1777393632.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "I bet it's wrong subreddit",
+          "score": 1,
+          "created_utc": 1777395405.0
+        }
+      ]
     }
   ]
 }

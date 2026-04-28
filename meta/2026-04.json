@@ -1379,6 +1379,36 @@
       "link_flair_text": null,
       "thread_id": "1sxw777",
       "thread_path": "1sxw777.json"
+    },
+    {
+      "id": "1sy3fl9",
+      "title": "moving some spend into CTV from paid social",
+      "author": "Asleep-Comparison782",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
+      "created_utc": 1777387404.0,
+      "content": "Hi guys! we've been running most of our spend on facebook and Google (roughly 50/30 split) and tbh ROI has been getting worse every time. We're a small team so we can't really afford a bunch of random tests, but wee're starting to feel like we need to move some budget around instead of just doubling down there..  \n  \nI'm considering pulling some spend from meta/search and putting it into CTV to see if it drives anything. Thinking something like: \\~4k CTV, 3k on best performing social, 2k email, and maybe a small test budget left for tiktok or experiments (thoughts??)  \n  \nFor CTV we've been looking at self-serve stuff like Adwave and Vibe just to keep it simple and avoid going full agency route right away.  \n  \nThe plan would be to run it for a few weeks, track actual sales / lift, and then decide whats worth scalin  \n  \nAnyone here made a similar shift? did CTV hold up when you moved real budget into it or did you end up just cycling back to paid social/search? appreciate your advice!!",
+      "num_comments": 23,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sy3fl9",
+      "thread_path": "1sy3fl9.json"
+    },
+    {
+      "id": "1sy6d93",
+      "title": "Building a YouTube MP3 Android app (Kivy) - need help integrating yt-dlp properly\nQuestion",
+      "author": "Flashy-Abalone-9212",
+      "score": 1,
+      "url": "https://v.redd.it/675ljuvthyxg1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy6d93/building_a_youtube_mp3_android_app_kivy_need_help/",
+      "created_utc": 1777393632.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sy6d93",
+      "thread_path": "1sy6d93.json"
     }
   ]
 }
