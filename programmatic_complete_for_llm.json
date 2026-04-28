@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-28T19:00:58.351711+00:00",
-    "total_posts": 1576,
+    "scrape_date": "2026-04-28T20:45:50.456041+00:00",
+    "total_posts": 1577,
     "total_comments": 9658
   },
   "discussions": [
@@ -81106,6 +81106,20 @@
           "created_utc": 1777395405.0
         }
       ]
+    },
+    {
+      "id": "1sybemx",
+      "title": "April AdTech Roundup is here!",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sybemx/april_adtech_roundup_is_here/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sybemx/april_adtech_roundup_is_here/",
+      "created_utc": 1777404158.0,
+      "content": "As Q2 kicks off, programmatic markets show stronger signs of momentum returning - CPMs continuing to rise, demand staying selective, and steady growth across CTV and mobile, with a continued focus on quality inventory and efficient supply paths.\n\nFor a quick pulse check on where AdTech is heading next, this edition brings it together.  \n\n\nFull report: [https://www.linkedin.com/pulse/april-adtech-roundup-key-highlights-latest-trends-databeat-io-f6hlc](https://www.linkedin.com/pulse/april-adtech-roundup-key-highlights-latest-trends-databeat-io-f6hlc)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
