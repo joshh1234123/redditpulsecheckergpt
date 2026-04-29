@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s8q974",
-      "title": "CTV targeting setup - contextual + audience?",
-      "author": "Akajdrod",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s8q974/ctv_targeting_setup_contextual_audience/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8q974/ctv_targeting_setup_contextual_audience/",
-      "created_utc": 1774970026.0,
-      "content": "Hello everyone, \n\nCurious how do your companies go about CTV targeting and promises of whats possible with CTV targeting to your clients. \n\nDo you mostly stick to picking contextually relevant/desirable inventory (specific content providers/networks)? \n\nOr do you/your sales team promises a land of opportunity where you are expected to layer on targeting on top of a selected CTV inventory? \n\nIf you do go with CTV inventory + targeting, do you mostly go with layering DSP-available audiences (3p or some native audiences like Googles/Yahoo/ttd etc) or do you prefer to have your publishers to apply that targeting on their end? \n\nCurious to see how everyone is setting up their CTV buys. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s8z5c7",
       "title": "B2B Programmatic with Quantcast. Lots of Clicks. No Conversions",
       "author": "Search-Bill",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1syuc1i/the_trade_desk_pacvue_and_skai_unlock_unified/",
       "created_utc": 1777456799.0,
       "content": "This gonna be Platform Fee heaven!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1syxwi2",
+      "title": "Anyone here monetising Australian traffic are you seeing stable CPMs or constant fluctuations?",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1syxwi2/anyone_here_monetising_australian_traffic_are_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syxwi2/anyone_here_monetising_australian_traffic_are_you/",
+      "created_utc": 1777467065.0,
+      "content": "AU sits in a weird spot.\n\nStrong Tier 1 demand\n\nBut smaller market than US\n\n\n\nSo what we’ve seen:\n\nCPMs are decent but more sensitive to demand shifts\n\nFewer buyers → less auction pressure at times\n\n\n\nFrom an Ops POV:\n\nYou need tighter floor control in AU compared to US.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

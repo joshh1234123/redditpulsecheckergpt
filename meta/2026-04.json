@@ -1469,6 +1469,21 @@
       "link_flair_text": null,
       "thread_id": "1syuc1i",
       "thread_path": "1syuc1i.json"
+    },
+    {
+      "id": "1syxwi2",
+      "title": "Anyone here monetising Australian traffic are you seeing stable CPMs or constant fluctuations?",
+      "author": "TapMind",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1syxwi2/anyone_here_monetising_australian_traffic_are_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syxwi2/anyone_here_monetising_australian_traffic_are_you/",
+      "created_utc": 1777467065.0,
+      "content": "AU sits in a weird spot.\n\nStrong Tier 1 demand\n\nBut smaller market than US\n\n\n\nSo what we’ve seen:\n\nCPMs are decent but more sensitive to demand shifts\n\nFewer buyers → less auction pressure at times\n\n\n\nFrom an Ops POV:\n\nYou need tighter floor control in AU compared to US.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1syxwi2",
+      "thread_path": "1syxwi2.json"
     }
   ]
 }
