@@ -1484,6 +1484,21 @@
       "link_flair_text": null,
       "thread_id": "1syxwi2",
       "thread_path": "1syxwi2.json"
+    },
+    {
+      "id": "1sz6a00",
+      "title": "Building a Retargeting segment in DV360",
+      "author": "Fearless-Change-3779",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sz6a00/building_a_retargeting_segment_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sz6a00/building_a_retargeting_segment_in_dv360/",
+      "created_utc": 1777485253.0,
+      "content": "Hi all! im looking to activate CTV lines in DV360, and then from that exposed user pool, build a retargeting segment (Ex, display or OLV retargeting). is this super complicated to do in platform? and if i am utilizing a marketplace or PMP deal for the CTV line, does that restrict building a pool? thanks in advance.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1sz6a00",
+      "thread_path": "1sz6a00.json"
     }
   ]
 }

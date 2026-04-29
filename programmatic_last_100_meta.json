@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s8z5c7",
-      "title": "B2B Programmatic with Quantcast. Lots of Clicks. No Conversions",
-      "author": "Search-Bill",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s8z5c7/b2b_programmatic_with_quantcast_lots_of_clicks_no/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s8z5c7/b2b_programmatic_with_quantcast_lots_of_clicks_no/",
-      "created_utc": 1774988960.0,
-      "content": "Could use some advice here about optimizing a set of (I believe) underperforming quantacast campaigns for B2B. \n\nFor obvious reasons, I'm not sharing my company name or website. \n\nI have two campaigns: one is targeting an email list from our first party data in our CRM. The other is optimized by Q and includes retargeting. The campaign goal is CONVERSIONS. Form fills on our website. The pixel is confirmed to be working.\n\nMetrics (all in daily volumes) are:\n\nBudget: $350  \nImpressions  342K  \nClicks (Advanced IVT) 70  \nConversions 0  \nCPM  $2  \nCTR   0.02%\n\nThis program has been running like this for 25 days. I get it that conversions are a tough metric for display campaigns (and especially for B2B), but with spending more than $8500, I figure I'd get at least one form fill.  My forecast was to have 5 form fills by now. \n\nIt's not all horrible. We are getting a big branding win and we are seeing an uptick in web traffic (but no view thru conversions either). \n\nWhat would you look at optimizing? How much longer would you give this campaign before redirecting budget to other channels? ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s978vs",
       "title": "Programmatic specialists moved into Amazon PPC buying - not sure where to post this",
       "author": "jencsurf",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777467065.0,
       "content": "AU sits in a weird spot.\n\nStrong Tier 1 demand\n\nBut smaller market than US\n\n\n\nSo what we’ve seen:\n\nCPMs are decent but more sensitive to demand shifts\n\nFewer buyers → less auction pressure at times\n\n\n\nFrom an Ops POV:\n\nYou need tighter floor control in AU compared to US.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1sz6a00",
+      "title": "Building a Retargeting segment in DV360",
+      "author": "Fearless-Change-3779",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1sz6a00/building_a_retargeting_segment_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1sz6a00/building_a_retargeting_segment_in_dv360/",
+      "created_utc": 1777485253.0,
+      "content": "Hi all! im looking to activate CTV lines in DV360, and then from that exposed user pool, build a retargeting segment (Ex, display or OLV retargeting). is this super complicated to do in platform? and if i am utilizing a marketplace or PMP deal for the CTV line, does that restrict building a pool? thanks in advance.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
