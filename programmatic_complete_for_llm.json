@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-29T05:38:33.020213+00:00",
-    "total_posts": 1577,
-    "total_comments": 9658
+    "scrape_date": "2026-04-29T08:04:55.102654+00:00",
+    "total_posts": 1579,
+    "total_comments": 9661
   },
   "discussions": [
     {
@@ -81116,6 +81116,53 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1sybemx/april_adtech_roundup_is_here/",
       "created_utc": 1777404158.0,
       "content": "As Q2 kicks off, programmatic markets show stronger signs of momentum returning - CPMs continuing to rise, demand staying selective, and steady growth across CTV and mobile, with a continued focus on quality inventory and efficient supply paths.\n\nFor a quick pulse check on where AdTech is heading next, this edition brings it together.  \n\n\nFull report: [https://www.linkedin.com/pulse/april-adtech-roundup-key-highlights-latest-trends-databeat-io-f6hlc](https://www.linkedin.com/pulse/april-adtech-roundup-key-highlights-latest-trends-databeat-io-f6hlc)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1syqtpy",
+      "title": "DSP recommendations",
+      "author": "Ok-Disaster-6387",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
+      "created_utc": 1777444648.0,
+      "content": "We have a few clients who are looking to move out of the DV360 ecosystem and onboard a new DSP.\n\nThe clients would like to use our supply & use a DSP which isn’t DV360.\n\nClients do not want to commit to TTD as their minimums are much higher. ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Does the client know why they want out of one of the best right now? ",
+          "score": 2,
+          "created_utc": 1777447617.0
+        },
+        {
+          "author": "ladipn",
+          "body": "There’s loads of DSPs about. What are you trying to do? What is the vertical? Why are you leaving DV and what/how does a new DSP fix it?",
+          "score": 1,
+          "created_utc": 1777445302.0
+        },
+        {
+          "author": "PlasticLeading",
+          "body": "If you can hit DV minimums you can hit TTD. ",
+          "score": 1,
+          "created_utc": 1777447060.0
+        }
+      ]
+    },
+    {
+      "id": "1syrykn",
+      "title": "Where SSP migrations actually fail in the first 30 days",
+      "author": "sevioadmanager",
+      "score": 1,
+      "url": "https://blog.sevio.com/ssp-migration/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syrykn/where_ssp_migrations_actually_fail_in_the_first/",
+      "created_utc": 1777448447.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

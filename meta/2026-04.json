@@ -1424,6 +1424,36 @@
       "link_flair_text": null,
       "thread_id": "1sybemx",
       "thread_path": "1sybemx.json"
+    },
+    {
+      "id": "1syqtpy",
+      "title": "DSP recommendations",
+      "author": "Ok-Disaster-6387",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
+      "created_utc": 1777444648.0,
+      "content": "We have a few clients who are looking to move out of the DV360 ecosystem and onboard a new DSP.\n\nThe clients would like to use our supply & use a DSP which isn’t DV360.\n\nClients do not want to commit to TTD as their minimums are much higher. ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1syqtpy",
+      "thread_path": "1syqtpy.json"
+    },
+    {
+      "id": "1syrykn",
+      "title": "Where SSP migrations actually fail in the first 30 days",
+      "author": "sevioadmanager",
+      "score": 1,
+      "url": "https://blog.sevio.com/ssp-migration/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syrykn/where_ssp_migrations_actually_fail_in_the_first/",
+      "created_utc": 1777448447.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1syrykn",
+      "thread_path": "1syrykn.json"
     }
   ]
 }
