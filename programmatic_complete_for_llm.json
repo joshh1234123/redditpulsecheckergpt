@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-29T08:04:55.102654+00:00",
-    "total_posts": 1579,
+    "scrape_date": "2026-04-29T10:22:37.039384+00:00",
+    "total_posts": 1580,
     "total_comments": 9661
   },
   "discussions": [
@@ -81163,6 +81163,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1syrykn/where_ssp_migrations_actually_fail_in_the_first/",
       "created_utc": 1777448447.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1syuc1i",
+      "title": "The Trade Desk, Pacvue, and Skai Unlock Unified Activation and Measurement Across 250+ Commerce Media Partners",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://www.businesswire.com/news/home/20260428992743/en/The-Trade-Desk-Pacvue-and-Skai-Unlock-Unified-Activation-and-Measurement-Across-250-Commerce-Media-Partners",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1syuc1i/the_trade_desk_pacvue_and_skai_unlock_unified/",
+      "created_utc": 1777456799.0,
+      "content": "This gonna be Platform Fee heaven!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
