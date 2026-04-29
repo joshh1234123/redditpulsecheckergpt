@@ -1499,6 +1499,21 @@
       "link_flair_text": null,
       "thread_id": "1sz6a00",
       "thread_path": "1sz6a00.json"
+    },
+    {
+      "id": "1szbtpy",
+      "title": "G2 verification on dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1szbtpy/g2_verification_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1szbtpy/g2_verification_on_dv360/",
+      "created_utc": 1777497142.0,
+      "content": "If I stick t google policy I read that for financial service is mandatory on gads but not on dv360: can you confirm?\n\non a ggle page I read: ***Note:*** *Authorized Buyers and Display & Video 360 accounts that engage in financial services do not need to get verified at this time.*\n\nany experience? untill i don't get an alert that requires it I shuld be safe, no?\n\n  \nsame for the verification program, right?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1szbtpy",
+      "thread_path": "1szbtpy.json"
     }
   ]
 }

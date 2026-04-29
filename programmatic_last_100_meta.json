@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1s978vs",
-      "title": "Programmatic specialists moved into Amazon PPC buying - not sure where to post this",
-      "author": "jencsurf",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1s978vs/programmatic_specialists_moved_into_amazon_ppc/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1s978vs/programmatic_specialists_moved_into_amazon_ppc/",
-      "created_utc": 1775008794.0,
-      "content": "I'm posting this here vs the PPC or Amazon ads Reddit as I want to get feedback from people that have been in my situation and have specialized in programmatic/demand gen advertising their whole career and are now being shifted to having to do Amazon PPC spend.  \n\nI'm struggling, it's a completely different mindset and my biggest challenge is really just trying to manage spend, before I even get into the keyword minutia.  DSP budgets are so much easier to manage as you set a monthly budget and aren't as reliant on consumer behavior to keep spend fairly evenly paced every day of the month.  You don't have as much control managing spend when you're reliant on human click behavior.  \n\nDaily campaign budgets don't really mean much as they are just caps and PPC ads rarely spend the full daily campaign budgets which is why most accounts have daily campaign ad budgets that when multiplied by 30 days of the month are 2-3x the amount of the monthly budget that has been approved.  I understand this is needed as all campaigns rarely spend their full daily budget but that's why I put guardrails in place and set portfolio monthly budgets to cap monthly spending at budget but often the spend paces so fast at the beginning of the month and I have no control over it.  \n\nThat's all, for now, if anyone has experienced this and has an actual method they use to combat this volatility vs you'll figure it out approach, I'd be so appreciative.  Thanks.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1s9m29g",
       "title": "I built a Chrome extension to automatically parse and validate sellers.json files",
       "author": "DazzlingChicken4893",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777485253.0,
       "content": "Hi all! im looking to activate CTV lines in DV360, and then from that exposed user pool, build a retargeting segment (Ex, display or OLV retargeting). is this super complicated to do in platform? and if i am utilizing a marketplace or PMP deal for the CTV line, does that restrict building a pool? thanks in advance.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1szbtpy",
+      "title": "G2 verification on dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1szbtpy/g2_verification_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1szbtpy/g2_verification_on_dv360/",
+      "created_utc": 1777497142.0,
+      "content": "If I stick t google policy I read that for financial service is mandatory on gads but not on dv360: can you confirm?\n\non a ggle page I read: ***Note:*** *Authorized Buyers and Display & Video 360 accounts that engage in financial services do not need to get verified at this time.*\n\nany experience? untill i don't get an alert that requires it I shuld be safe, no?\n\n  \nsame for the verification program, right?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
