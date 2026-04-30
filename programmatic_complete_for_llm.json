@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-30T13:46:09.792015+00:00",
-    "total_posts": 1585,
-    "total_comments": 9665
+    "scrape_date": "2026-04-30T15:44:04.710844+00:00",
+    "total_posts": 1586,
+    "total_comments": 9666
   },
   "discussions": [
     {
@@ -81277,6 +81277,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1szwofd",
+      "title": "Help needed - looking for publishers/vendors on YouTube beyond DV360",
+      "author": "Strong-Yesterday-153",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1szwofd/help_needed_looking_for_publishersvendors_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1szwofd/help_needed_looking_for_publishersvendors_on/",
+      "created_utc": 1777557047.0,
+      "content": "Hi guys! Would anyone have an idea which vendors/publishers would sell their YouTube inventory separately to DV360, such as Formula1 where you have to go directly to F1? I need an idea of vendors, and it can be from all sorts of industries, such as Entertainment etc. Thanks so much in advance! ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "eltapatio",
+          "body": "It’s my experience that there is almost no publisher direct YouTube buying for only their YouTube inventory. I’ve seen some YouTube network included in bigger bundled buys where the YouTube portion was executed via a PG style insertion in dv360. \n\n",
+          "score": 1,
+          "created_utc": 1777561579.0
+        }
+      ]
     }
   ]
 }
