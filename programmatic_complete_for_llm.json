@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-30T15:44:04.710844+00:00",
-    "total_posts": 1586,
-    "total_comments": 9666
+    "scrape_date": "2026-04-30T17:11:59.579478+00:00",
+    "total_posts": 1587,
+    "total_comments": 9670
   },
   "discussions": [
     {
@@ -81296,6 +81296,45 @@
           "body": "It’s my experience that there is almost no publisher direct YouTube buying for only their YouTube inventory. I’ve seen some YouTube network included in bigger bundled buys where the YouTube portion was executed via a PG style insertion in dv360. \n\n",
           "score": 1,
           "created_utc": 1777561579.0
+        }
+      ]
+    },
+    {
+      "id": "1t01plr",
+      "title": "every PMP post-mortem ends the exact same way and im tired of writing it",
+      "author": "Easy-Purple-1659",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
+      "created_utc": 1777567356.0,
+      "content": "ok we ran a CTV PMP for a national QSR client. premium publisher list, $42 floor, planned 14 days for the back-half push. forecast said 7.4m imps. delivered 1.1m. classic.  \n  \ncall goes the same way every quarter. client wants to know why \"guaranteed\" inventory wasnt guaranteed. i pull up the bid response log on a screen-share and we walk thru the actual throttle, which was the floor sitting above the publishers PMP curve on tues+wed. takes maybe 20 mins. they nod, we agree on remediation, campaign closes.  \n  \nthe kicker. six months later their next agency contact opens a brand new ticket asking the same question and we run thru the same screen-share again because institutional memory at most advertisers is basically zero.  \n  \nis this just me or do u have a doc u send a client before they even sign the IO that they actually read after signing",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SeniorProgrammatic",
+          "body": "You’re seeing this as a problem to solve on the backend where I think you’d have more success explaining this as a possibility in the beginning and offering a solution from the start that if they reject you can point to as a “I told you so”.\n\nIf this is a repeating cycle try thinking of ways to end it before it starts.",
+          "score": 1,
+          "created_utc": 1777567925.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "So for the whole flight no one was interested why the deal does not perform? Also $42 floor :O ",
+          "score": 1,
+          "created_utc": 1777567978.0
+        },
+        {
+          "author": "DarthPallassCat",
+          "body": "Just do a PG if you’re paying $42+",
+          "score": 1,
+          "created_utc": 1777568358.0
+        },
+        {
+          "author": "Diligent_Interview98",
+          "body": "Confused where OP said the client thought inventory was “guaranteed” but OP mentioned a “PMP” (therefore not PG”). To answer your question, yes clients are this way. They rarely think on how to solve problems aonit falls on you and your team to figure out the pipes and educate them beforehand. Like another poster mentioned, get ahead of it. Also At a $42 floor I’m surprised more auctions didn’t win and turn into impressions. ",
+          "score": 1,
+          "created_utc": 1777568685.0
         }
       ]
     }

@@ -1559,6 +1559,21 @@
       "link_flair_text": null,
       "thread_id": "1szwofd",
       "thread_path": "1szwofd.json"
+    },
+    {
+      "id": "1t01plr",
+      "title": "every PMP post-mortem ends the exact same way and im tired of writing it",
+      "author": "Easy-Purple-1659",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
+      "created_utc": 1777567356.0,
+      "content": "ok we ran a CTV PMP for a national QSR client. premium publisher list, $42 floor, planned 14 days for the back-half push. forecast said 7.4m imps. delivered 1.1m. classic.  \n  \ncall goes the same way every quarter. client wants to know why \"guaranteed\" inventory wasnt guaranteed. i pull up the bid response log on a screen-share and we walk thru the actual throttle, which was the floor sitting above the publishers PMP curve on tues+wed. takes maybe 20 mins. they nod, we agree on remediation, campaign closes.  \n  \nthe kicker. six months later their next agency contact opens a brand new ticket asking the same question and we run thru the same screen-share again because institutional memory at most advertisers is basically zero.  \n  \nis this just me or do u have a doc u send a client before they even sign the IO that they actually read after signing",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t01plr",
+      "thread_path": "1t01plr.json"
     }
   ]
 }
