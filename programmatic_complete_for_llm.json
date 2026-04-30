@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-04-30T11:56:51.342162+00:00",
-    "total_posts": 1584,
+    "scrape_date": "2026-04-30T13:46:09.792015+00:00",
+    "total_posts": 1585,
     "total_comments": 9665
   },
   "discussions": [
@@ -81263,6 +81263,20 @@
           "created_utc": 1777513665.0
         }
       ]
+    },
+    {
+      "id": "1szw9po",
+      "title": "Post Interview Thank You Email - Yay or Nay?",
+      "author": "mrcoolguy13579",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1szw9po/post_interview_thank_you_email_yay_or_nay/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1szw9po/post_interview_thank_you_email_yay_or_nay/",
+      "created_utc": 1777556090.0,
+      "content": "I’ve gotten mixed answers if sending a thank you email after an interview is necessary anymore. Especially in the programmatic digital industry. \n\nCurious what’s everyone’s stance on this. Do we think sending the thank you email is necessary to getting a job? Will not sending hurt you? \n\n[View Poll](https://www.reddit.com/poll/1szw9po)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
