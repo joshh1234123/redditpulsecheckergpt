@@ -1574,6 +1574,21 @@
       "link_flair_text": null,
       "thread_id": "1t01plr",
       "thread_path": "1t01plr.json"
+    },
+    {
+      "id": "1t0b20r",
+      "title": "Safety and blacklist in open market",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t0b20r/safety_and_blacklist_in_open_market/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t0b20r/safety_and_blacklist_in_open_market/",
+      "created_utc": 1777587947.0,
+      "content": "Just through dv360 filters and site blacklist and keywords?\n\nWhich is your method to improve blacklist?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t0b20r",
+      "thread_path": "1t0b20r.json"
     }
   ]
 }
