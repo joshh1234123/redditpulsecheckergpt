@@ -54,13 +54,6 @@ jobs:
           echo "DB size:"
           wc -c "${DB_FILE}" || true
 
-      - name: Send Slack alerts for new mentions
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-          MENTION_KEYWORDS: ${{ vars.MENTION_KEYWORDS || 'stackadapt' }}
-          DB_FILE: ${{ env.DB_FILE }}
-        run: python ./.github/workflows/slack_mention_alerts.py
-
       - name: Build lightweight slice (no comments, last 100)
         run: |
           python - << 'PY'
@@ -199,7 +192,7 @@ jobs:
           fi
 
           # Stage only the generated files
-          git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" automation_state/ || true
+          git add "${DB_FILE}" "${SLICE_FILE}" "${MANIFEST_FILE}" "${META_DIR}/" "${THREADS_DIR}/" || true
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
