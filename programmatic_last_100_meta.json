@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sae50o",
-      "title": "Where else do you hang out (more like-minded communities)?",
-      "author": "Own_Corner1016",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sae50o/where_else_do_you_hang_out_more_likeminded/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sae50o/where_else_do_you_hang_out_more_likeminded/",
-      "created_utc": 1775127382.0,
-      "content": "I mostly get info from Reddit (including this sub), but feel like I might be missing some good spots. Curious where people are active these days - especially Slack or Discord communities. LinkedIn groups feel kind of dead lately (at least compared to before), still there are plenty of smart people worth following their private profiles there.\n\nWould appreciate any recommendations",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1saigzx",
       "title": "IVT Scanners were too expensive so I built my own",
       "author": "Dependent-Use-3215",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t0b20r/safety_and_blacklist_in_open_market/",
       "created_utc": 1777587947.0,
       "content": "Just through dv360 filters and site blacklist and keywords?\n\nWhich is your method to improve blacklist?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t0j55e",
+      "title": "Frequency capping without third party cookies, how are you handling cross-channel?",
+      "author": "Upbeat_Quit7362",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t0j55e/frequency_capping_without_third_party_cookies_how/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t0j55e/frequency_capping_without_third_party_cookies_how/",
+      "created_utc": 1777610008.0,
+      "content": "With third party cookies effectively gone, cross-channel frequency capping has become genuinely hard. You can cap within a single platform fine but coordinating exposure across display, native, and video without a clean identity graph is mostly guesswork.\n\nI have looked at universal ID solutions but adoption is still patchy and match rates are not reliable enough to build a real strategy on.\n\nFor those running display or native at scale right now are you just accepting that cross-channel capping is broken and focusing purely on within-platform controls? Or has anyone found something that actually works?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

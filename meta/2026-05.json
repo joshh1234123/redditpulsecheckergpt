@@ -1,0 +1,19 @@
+{
+  "discussions": [
+    {
+      "id": "1t0j55e",
+      "title": "Frequency capping without third party cookies, how are you handling cross-channel?",
+      "author": "Upbeat_Quit7362",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t0j55e/frequency_capping_without_third_party_cookies_how/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t0j55e/frequency_capping_without_third_party_cookies_how/",
+      "created_utc": 1777610008.0,
+      "content": "With third party cookies effectively gone, cross-channel frequency capping has become genuinely hard. You can cap within a single platform fine but coordinating exposure across display, native, and video without a clean identity graph is mostly guesswork.\n\nI have looked at universal ID solutions but adoption is still patchy and match rates are not reliable enough to build a real strategy on.\n\nFor those running display or native at scale right now are you just accepting that cross-channel capping is broken and focusing purely on within-platform controls? Or has anyone found something that actually works?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t0j55e",
+      "thread_path": "1t0j55e.json"
+    }
+  ]
+}
