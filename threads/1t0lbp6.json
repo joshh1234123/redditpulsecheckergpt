@@ -1,0 +1,28 @@
+{
+  "id": "1t0lbp6",
+  "thread_id": "1t0lbp6",
+  "title": "What is the use of Dynamic Key value pair in Google Ad Manager",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1t0lbp6/what_is_the_use_of_dynamic_key_value_pair_in/",
+  "created_utc": 1777616883.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Beautiful-Car1077",
+      "body": "I use it to capture large variations that update regularly, for example, mobile device models or operating systems. Just keep in mind that this data won't be visible in GAM reports, only in the Data Transfer reports.",
+      "score": 1,
+      "created_utc": 1777617848.0
+    },
+    {
+      "author": "Chauhan_Yuvraj",
+      "body": "have u done custom targeting using dynamic KVP",
+      "score": 1,
+      "created_utc": 1777619520.0
+    },
+    {
+      "author": "Beautiful-Car1077",
+      "body": "Only outside of GAM, mainly for AB testing",
+      "score": 1,
+      "created_utc": 1777620186.0
+    }
+  ]
+}

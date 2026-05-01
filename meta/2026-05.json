@@ -14,6 +14,21 @@
       "link_flair_text": null,
       "thread_id": "1t0j55e",
       "thread_path": "1t0j55e.json"
+    },
+    {
+      "id": "1t0lbp6",
+      "title": "What is the use of Dynamic Key value pair in Google Ad Manager",
+      "author": "Chauhan_Yuvraj",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t0lbp6/what_is_the_use_of_dynamic_key_value_pair_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t0lbp6/what_is_the_use_of_dynamic_key_value_pair_in/",
+      "created_utc": 1777616883.0,
+      "content": "I have been working with good ad manager & i am confused with the use of dynamic key values . I find that for Adv Targeting i am using Predefined Key value , but i want to know what is the use of Dynamic Key value pair & where to implement it\n\n\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t0lbp6",
+      "thread_path": "1t0lbp6.json"
     }
   ]
 }
