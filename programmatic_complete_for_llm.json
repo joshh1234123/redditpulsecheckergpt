@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-02T18:07:14.974262+00:00",
-    "total_posts": 1593,
-    "total_comments": 9679
+    "scrape_date": "2026-05-02T19:32:59.723406+00:00",
+    "total_posts": 1594,
+    "total_comments": 9681
   },
   "discussions": [
     {
@@ -81476,6 +81476,33 @@
           "body": "Exactly, at my old place I was able to use Google Offline Reports for DV360. For other DSP’s I can easily generate the reports.\n\nWith Publishers, I can only talk about post campaign reports data that is provided to me. ",
           "score": 1,
           "created_utc": 1777718190.0
+        }
+      ]
+    },
+    {
+      "id": "1t1x5s2",
+      "title": "Programmatic Freelancer/Contractors ,how did you actually break in?",
+      "author": "Possible_Eggplant_79",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t1x5s2/programmatic_freelancercontractors_how_did_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t1x5s2/programmatic_freelancercontractors_how_did_you/",
+      "created_utc": 1777745263.0,
+      "content": "Hey guys,\n\nI’m currently working in programmatic at a Big 6 agency, and lately I’ve been thinking a lot about moving into contract/freelance work.\n\nTo be honest, I don’t personally know anyone doing this, so I’m trying to understand how it actually works in real life.\n\nA bit about my experience  I’m currently managing around $300K in monthly ad spend, handling awareness campaigns across display, audio, and video. I’ve worked on direct and programmatic guaranteed deals as well, across multiple DSPs.\n\nIf you’re someone who’s doing contract work:\n\n\\- How did you land your first opportunity?\n\n\\- Was it through networking, outreach, or something else?\n\n\\- What helped build enough trust with clients?\n\nAlso, is the income consistent or more project-based and unpredictable?\n\nAnd one more thing ,if your company is open to contract-based roles, I’d genuinely appreciate a referral or even a direction on where to apply.\n\nJust trying to learn and explore this path honestly. Would really value any insights.\n\nThanks a lot 🙏",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "D_Adman",
+          "body": "I did this for a while and the way to land clients is to do trainings at any event/conference where a potential client may be. Also, go to industry events (advertising, marketing, etc) and do the same. \"how to buy programmatically in XYZ\" etc.. adapt it. \n\nAlso, compile the biggest list of contacts you have and send them a personalized email. \n\nRemember, we are marketers. Use your marketing skills. \n\nThe income is not consistent and many clients are very late in paying. Do not do free work and do not try to compete on price with India, etc.. You don't want a client looking for cheap. \n\nI don't do this anymore because I am mostly out of programmatic and the industry in general. Best of luck!",
+          "score": 2,
+          "created_utc": 1777748820.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "That's helpful,the events/training approach and not competing on price makes a lot of sense.\nBTW did you focus on a specific niche/industry or stay general with programmatic?",
+          "score": 1,
+          "created_utc": 1777749808.0
         }
       ]
     }
