@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-02T22:33:20.165957+00:00",
-    "total_posts": 1594,
-    "total_comments": 9681
+    "scrape_date": "2026-05-02T23:36:25.524825+00:00",
+    "total_posts": 1595,
+    "total_comments": 9684
   },
   "discussions": [
     {
@@ -81503,6 +81503,39 @@
           "body": "That's helpful,the events/training approach and not competing on price makes a lot of sense.\nBTW did you focus on a specific niche/industry or stay general with programmatic?",
           "score": 1,
           "created_utc": 1777749808.0
+        }
+      ]
+    },
+    {
+      "id": "1t24ycy",
+      "title": "Honest question….wtf is programmatic?",
+      "author": "thenight817",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t24ycy/honest_questionwtf_is_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t24ycy/honest_questionwtf_is_programmatic/",
+      "created_utc": 1777763918.0,
+      "content": "I have spent 9 figures+ on advertising across google, FB, and native over 15 years. \n\nI have been 100% on direct platforms. Google. FB. Taboola. Outbrain. Tiktok. \n\nDespite doing it for so long, I still don’t know what is the point of all this programmatic stuff or why it is even called programmatic. Isn’t this just advertising and finding cheap, relevant inventory that responds to your ad?\n\nWhat is programmatic and how does it differ from all the typical direct source ad platforms? What is the real value?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Buying with publishers directly can create a lot of waste - hitting the same users multiple times without knowing it for example. Publishers only know what goes on within their properties so holistic measurement is difficult. Publishers also have more limited data for targeting. \n\nYou would use a programmatic platform for unified buying. Better frequency control, more of a complete view of how your campaigns are performing, more integrations with creative vendors, more consistent audience targeting, and ultimately a much wider array of places you can buy ads. ",
+          "score": 2,
+          "created_utc": 1777764443.0
+        },
+        {
+          "author": "MagazineImpressive79",
+          "body": "Lol. Frequency capping in the age of 3rd party cookie depreciation is a wild fantasy we tell ourselves to make us feel better about the garbage ads we're slinging across the internet.\n\nAlso audience targeting is a lie. As a media buyer, I once ended up in a military decision maker segment. But tell me again about how precisely we can target Sagittarius soccer moms with exactly 3 kids who only eats asparagus on Wednesdays.",
+          "score": 2,
+          "created_utc": 1777764876.0
+        },
+        {
+          "author": "thenight817",
+          "body": "I mainly am in performance marketing where my ad is a 1st click and last click scenario. Very little retargeting. No “branding”. \n\nIs programmatic more for the company that is doing long conversion funnels, multiple touchpoints etc.?",
+          "score": 1,
+          "created_utc": 1777764947.0
         }
       ]
     }
