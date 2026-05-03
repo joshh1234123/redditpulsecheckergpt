@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-03T14:42:49.594355+00:00",
-    "total_posts": 1595,
-    "total_comments": 9684
+    "scrape_date": "2026-05-03T15:40:12.731478+00:00",
+    "total_posts": 1596,
+    "total_comments": 9695
   },
   "discussions": [
     {
@@ -81536,6 +81536,87 @@
           "body": "I mainly am in performance marketing where my ad is a 1st click and last click scenario. Very little retargeting. No “branding”. \n\nIs programmatic more for the company that is doing long conversion funnels, multiple touchpoints etc.?",
           "score": 1,
           "created_utc": 1777764947.0
+        }
+      ]
+    },
+    {
+      "id": "1t2nunu",
+      "title": "Where is the REAL money in Programmatic Advertising right now?",
+      "author": "Possible_Eggplant_79",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t2nunu/where_is_the_real_money_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t2nunu/where_is_the_real_money_in_programmatic/",
+      "created_utc": 1777820594.0,
+      "content": "Everyone says “programmatic is booming”  but let’s be honest, not every role in programmatic pays the same.\n\nI’m currently working at a Big 6 agency, managing solid budgets and campaigns end-to-end. But the more exposure I get, the clearer it becomes: some areas are way more valuable (and future-proof) than others.\n\nSo I want real, no-BS answers from people in the industry: -Which area of programmatic actually makes you the most money (salary or freelance)?\n\nCTV / OTT\n\nDSP expertise (DV360, TTD, etc.)\n\nData / audience strategy\n\nAd ops / campaign execution\n\nYield / publisher monetization\n\nAd tech / product side\n\nAnd why?\n\nIf you’ve switched roles or seen salary jumps, what made the biggest difference?\n\nTrying to understand where to double down for the next 2–3 years and I’m sure a lot of others here are thinking the same.",
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Curryredditor",
+          "body": "I would look to pivot into ad tech/product roles. Lot more technical = lot more pay. If not that, try to land a client side role.",
+          "score": 4,
+          "created_utc": 1777821243.0
+        },
+        {
+          "author": "Alpha-D-Truelove",
+          "body": "Anyone that can secure budgets from agencies and in house advertisers will always make a good living.\n\nI work for an independent SSP and it’s one of the more challenging roles, but when you get a bite and the commission roles in it makes it all worth it.\n\nHappy to have a chat if the vendor sales world is ever appealing to you?",
+          "score": 2,
+          "created_utc": 1777821275.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Whatchu make at the big six? \n\nAnd sales, sales makes bank. Like fuck you money bank. ",
+          "score": 2,
+          "created_utc": 1777821937.0
+        },
+        {
+          "author": "Jamesatwork16",
+          "body": "Ad tech pays the most.  If you find the right company, it’s honestly a great gig. Doesn’t even need to be a giant company I’ve discovered.\n\nIf you have the stomach for it, many millionaires have been made SELLING Ad Tech.  Stressful but lucrative if you have the skill set.",
+          "score": 1,
+          "created_utc": 1777821539.0
+        },
+        {
+          "author": "Available_Plant3712",
+          "body": "It will be ad tech / walled garden. \n\nGenerally the top 2/3 for each domain (dsp, ssp, data, etc) will pay you $150k+ for senior IC roles (CSM/AM, product, solution, project manager, etc) ",
+          "score": 1,
+          "created_utc": 1777822780.0
+        },
+        {
+          "author": "righthandofdog",
+          "body": "Product has been exploded by AI.   Everyone is looking for lead developers with \"product sense\" or Product leads who can build highly functional \"MVPs\" by vibe coding. \n\nI'm a ast. Director tech PM with  CS degree and years of experience at major publisher, adtech and holdcos - laid off from Publicis 7 months ago and searching since.  ",
+          "score": 2,
+          "created_utc": 1777822635.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "Yeah agency life is honestly soul crushing for what they pay. They squeeze every drop out of you and call it \"experience.\" Ad tech pivot is looking more tempting every single day.\n",
+          "score": 1,
+          "created_utc": 1777821885.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "Commission-based roles where effort actually pays off sounds like a different world. Would love to know more about the SSP side.",
+          "score": 1,
+          "created_utc": 1777821925.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "At agency side it's nowhere close to that, they just churn you out for peanuts lol. But genuinely curious which sales roles in programmatic actually hit that level? And which city/market is basically the Silicon Valley for programmatic people?",
+          "score": 1,
+          "created_utc": 1777822209.0
+        },
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "Agencies keep you underpaid and overworked while making you think that's just how it is. Finding out ad tech even at smaller companies pays way better was eye opening. Feels like I've been working like a freak for nothing.",
+          "score": 2,
+          "created_utc": 1777822033.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Oh 100% I’ve been there lol, my second programmatic job was managing one of the largest rental companies on the planet. I got paid 90k and only got 4% raises a year. I jumped ship once i realized there was no higher.\n\nBrands tho, brands you can make quite a bit. Same with the tech companies themselves",
+          "score": 2,
+          "created_utc": 1777822608.0
         }
       ]
     }
