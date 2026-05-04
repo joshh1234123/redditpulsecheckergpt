@@ -164,6 +164,36 @@
       "link_flair_text": null,
       "thread_id": "1t3fcv7",
       "thread_path": "1t3fcv7.json"
+    },
+    {
+      "id": "1t3psw9",
+      "title": "Do you value omni-channel platforms over channel-specific DSPs? And why?",
+      "author": "Adventurous_Elk55",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t3psw9/do_you_value_omnichannel_platforms_over/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3psw9/do_you_value_omnichannel_platforms_over/",
+      "created_utc": 1777918404.0,
+      "content": "I'm trying to understand whether internal media planners genuinely find omni-channel DSPs (think DV360, The Trade Desk) more convenient for consolidating everything in one place — or if they'd rather keep more hands-on control by running separate, specialized DSPs per channel (e.g., a dedicated CTV platform, a standalone DOOH DSP, etc.).\n\n\\- Do you feel like omni-channel tools sacrifice performance or targeting depth on any specific channel to offer that \"one dashboard\" convenience?\n\n\\- Have you found that single-channel DSPs offer meaningfully better inventory access, algorithms, or reporting for their specific channel?\n\n\\- Is the switch between platforms actually a pain point, or does your team manage it fine with the right workflow/tech stack?\n\n\\- Are there budget thresholds or campaign types where one approach clearly wins over the other?\n\n\\- Any channels (CTV, DOOH, audio, retail media) where you think a specialized DSP is non-negotiable?\n\nWould love to hear from planners, traders, and programmatic leads. Trying to get a feel for where the industry actually lands on this in practice. Thanks for the input.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t3psw9",
+      "thread_path": "1t3psw9.json"
+    },
+    {
+      "id": "1t3qrct",
+      "title": "TTD Deals that Scale",
+      "author": "Alpha-D-Truelove",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
+      "created_utc": 1777920415.0,
+      "content": "Curious if anyone else has experienced a sudden boom in TTD PMP spend against publishers such as Yahoo, Gannet, People and Meredith? \n\nNormally my clients are frustrated with SSP’s like us as Kokai throttles the deals to death, but April 1st to date we have seen a consistent lift in scale and performance from our always on agency clients. Put it this way, even they are asking if we have changed anything, spoiler alert we haven’t!\n\nWondered if anyone else is seeing this (as an SSP or curator) and if there is any explanation behind this.\n\nAdditional note: CTV remains volatile, one week we see serious scale in terms of TTD PMP performance, the next it goes down to a trickle…but from what I understand this is typical given the premium upfronts tied to this inventory.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t3qrct",
+      "thread_path": "1t3qrct.json"
     }
   ]
 }

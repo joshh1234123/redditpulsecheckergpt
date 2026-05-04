@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-04T17:58:36.876946+00:00",
-    "total_posts": 1599,
-    "total_comments": 9695
+    "scrape_date": "2026-05-04T19:41:12.808739+00:00",
+    "total_posts": 1601,
+    "total_comments": 9697
   },
   "discussions": [
     {
@@ -81657,6 +81657,47 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t3fcv7/ai_digital/",
       "created_utc": 1777895358.0,
       "content": "Who are these guys and why would Marketecture spotlight them? Just watched this new video and I feel like I just wasted 20 minutes of my life. She said absolutely nothing. Look at your logs. You’ll notice AI Digital drives the most hops and they’ll say it’s all in their “AI”. It’s a bunch of BS. Don’t fall for this snake oil. \n\nhttps://youtu.be/JUZqecDMUx8?si=XZYnChv3qR3yVGZz",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1t3psw9",
+      "title": "Do you value omni-channel platforms over channel-specific DSPs? And why?",
+      "author": "Adventurous_Elk55",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t3psw9/do_you_value_omnichannel_platforms_over/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3psw9/do_you_value_omnichannel_platforms_over/",
+      "created_utc": 1777918404.0,
+      "content": "I'm trying to understand whether internal media planners genuinely find omni-channel DSPs (think DV360, The Trade Desk) more convenient for consolidating everything in one place — or if they'd rather keep more hands-on control by running separate, specialized DSPs per channel (e.g., a dedicated CTV platform, a standalone DOOH DSP, etc.).\n\n\\- Do you feel like omni-channel tools sacrifice performance or targeting depth on any specific channel to offer that \"one dashboard\" convenience?\n\n\\- Have you found that single-channel DSPs offer meaningfully better inventory access, algorithms, or reporting for their specific channel?\n\n\\- Is the switch between platforms actually a pain point, or does your team manage it fine with the right workflow/tech stack?\n\n\\- Are there budget thresholds or campaign types where one approach clearly wins over the other?\n\n\\- Any channels (CTV, DOOH, audio, retail media) where you think a specialized DSP is non-negotiable?\n\nWould love to hear from planners, traders, and programmatic leads. Trying to get a feel for where the industry actually lands on this in practice. Thanks for the input.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "cuteman",
+          "body": ">- Do you feel like omni-channel tools sacrifice performance or targeting depth on any specific channel to offer that \"one dashboard\" convenience?\n\nI wouldn't say you're missing out on \"depth\" quite the opposite as singular platforms are often missing targeting and granularity. It's more than a dashboard, its deduplication across channels and then some.\n\n>Have you found that single-channel DSPs offer meaningfully better inventory access, algorithms, or reporting for their specific channel?\n\nDo you mean like Display or CTV specific platforms? I have found the opposite otherwise you're running a dozen different channels. \n\n>Is the switch between platforms actually a pain point, or does your team manage it fine with the right workflow/tech stack?\n\nSwitching between platforms is one issue, reporting is another, duplication is a big one. We used to run Taboola/Outbrain/RevContent separately and frankly aside from a few inventory types everything is better on a singular platform like TTD.\n\n>Are there budget thresholds or campaign types where one approach clearly wins over the other?\n\nNo but at smaller budgets some people shouldn't be running some platforms at all until others are saturated or plateaued. \n\n>Any channels (CTV, DOOH, audio, retail media) where you think a specialized DSP is non-negotiable?\n\nI haven't found any if you're using an enterprise DSP. There's an argument to be made for direct publishers (CTV, Display, etc) but you run into other issues like inability to retarget unless the user makes it to the site, inadequate targeting, duplication of conversions, inadequate performance due to a lack of pixel or other limitations.",
+          "score": 2,
+          "created_utc": 1777919121.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "We run app campaigns on Moloco but thats about it. ",
+          "score": 1,
+          "created_utc": 1777920362.0
+        }
+      ]
+    },
+    {
+      "id": "1t3qrct",
+      "title": "TTD Deals that Scale",
+      "author": "Alpha-D-Truelove",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
+      "created_utc": 1777920415.0,
+      "content": "Curious if anyone else has experienced a sudden boom in TTD PMP spend against publishers such as Yahoo, Gannet, People and Meredith? \n\nNormally my clients are frustrated with SSP’s like us as Kokai throttles the deals to death, but April 1st to date we have seen a consistent lift in scale and performance from our always on agency clients. Put it this way, even they are asking if we have changed anything, spoiler alert we haven’t!\n\nWondered if anyone else is seeing this (as an SSP or curator) and if there is any explanation behind this.\n\nAdditional note: CTV remains volatile, one week we see serious scale in terms of TTD PMP performance, the next it goes down to a trickle…but from what I understand this is typical given the premium upfronts tied to this inventory.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

@@ -1,0 +1,22 @@
+{
+  "id": "1t3psw9",
+  "thread_id": "1t3psw9",
+  "title": "Do you value omni-channel platforms over channel-specific DSPs? And why?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1t3psw9/do_you_value_omnichannel_platforms_over/",
+  "created_utc": 1777918404.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "cuteman",
+      "body": ">- Do you feel like omni-channel tools sacrifice performance or targeting depth on any specific channel to offer that \"one dashboard\" convenience?\n\nI wouldn't say you're missing out on \"depth\" quite the opposite as singular platforms are often missing targeting and granularity. It's more than a dashboard, its deduplication across channels and then some.\n\n>Have you found that single-channel DSPs offer meaningfully better inventory access, algorithms, or reporting for their specific channel?\n\nDo you mean like Display or CTV specific platforms? I have found the opposite otherwise you're running a dozen different channels. \n\n>Is the switch between platforms actually a pain point, or does your team manage it fine with the right workflow/tech stack?\n\nSwitching between platforms is one issue, reporting is another, duplication is a big one. We used to run Taboola/Outbrain/RevContent separately and frankly aside from a few inventory types everything is better on a singular platform like TTD.\n\n>Are there budget thresholds or campaign types where one approach clearly wins over the other?\n\nNo but at smaller budgets some people shouldn't be running some platforms at all until others are saturated or plateaued. \n\n>Any channels (CTV, DOOH, audio, retail media) where you think a specialized DSP is non-negotiable?\n\nI haven't found any if you're using an enterprise DSP. There's an argument to be made for direct publishers (CTV, Display, etc) but you run into other issues like inability to retarget unless the user makes it to the site, inadequate targeting, duplication of conversions, inadequate performance due to a lack of pixel or other limitations.",
+      "score": 2,
+      "created_utc": 1777919121.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "We run app campaigns on Moloco but thats about it. ",
+      "score": 1,
+      "created_utc": 1777920362.0
+    }
+  ]
+}
