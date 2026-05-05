@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sfyofd",
-      "title": "Recommend some subreddits in the adexchange, please 🙏🏻",
-      "author": "official_rebeca",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sfyofd/recommend_some_subreddits_in_the_adexchange_please/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sfyofd/recommend_some_subreddits_in_the_adexchange_please/",
-      "created_utc": 1775667511.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sgpop3",
-      "title": "Running Audio / Podcast Campaign in DV360",
-      "author": "EntryPuzzleheaded914",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpop3/running_audio_podcast_campaign_in_dv360/",
-      "created_utc": 1775741409.0,
-      "content": "Hi everyone! \n\nI’m looking for some experiences with running Audio / Podcast campaigns in DV360.\n\nOne issue I keep running into: when campaigns are set up to run openly (public inventory), they often struggle to spend. I’ve tried increasing and removing the target CPM, removing all targeting while leaving only broad geo targeting, but delivery still remains very limited. The only thing that sometimes unlocks impressions is adding specific audio apps as an extra targeting layer, but not always.\n\nSince I don’t have much hands on experience with audio/podcast inventory in DV360, I’d love to hear how others approach this.\n\nA few questions:\n\n* Is limited spend when running audio openly something you’ve experienced? Do you have any recommendation in resolving this?\n* When targeting apps like Spotify in DV360, how does performance typically compare vs running Spotify campaigns directly? Is DV360 a “good enough” alternative in your experience (as it is much cheaper than Spotify campaign)\n* When targeting podcasts only in DV360, I’ve seen very low ACRs (5-6%). Is that expected for podcast inventory?\n\nWould really appreciate any tips, best practices, or general experiences as I'm trying to figure out the best approach for this in DV360. Thanks in advance! ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sgpyf6",
       "title": "How do you handle duplication between CTV, YouTube, paid social, and linear TV?",
       "author": "Former_Tea1131",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t3yrqx/ticketmasterlivenationstubhub_audiences_inventory/",
       "created_utc": 1777938274.0,
       "content": "Hi all, \n\nHas anyone worked with the major ticketing platforms to access their inventory or audiences? \n\n  \nI couldn't figure it out by looking at their website and I've filled out Contact Us forms, waiting to hear from them. \n\n  \ncurious whether anyone's done it before. \n\n  \nCheers!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t4c735",
+      "title": "Any feedback on using Google Audience in DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t4c735/any_feedback_on_using_google_audience_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t4c735/any_feedback_on_using_google_audience_in_dv360/",
+      "created_utc": 1777979190.0,
+      "content": "For DV360, I am using mostly FreeWheel deals. Will using in-market audiences help at all with the campaign? I wasn't sure if Google Audience target apply/work with FreeWheel or had to be specific Google supply etc.\n\nWhen you used specific audience settings, what did you feel worked best for your campaign when narrowing it to a specific buy type?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t4d7b1",
+      "title": "My first website thats online 👀  Its a Typing Website",
+      "author": "Murky_Ad365",
+      "score": 1,
+      "url": "/r/boltnewbuilders/comments/1t1m7k8/my_first_website_thats_online_its_a_typing_website/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t4d7b1/my_first_website_thats_online_its_a_typing_website/",
+      "created_utc": 1777982018.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

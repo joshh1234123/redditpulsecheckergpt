@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-05T10:59:35.748110+00:00",
-    "total_posts": 1602,
-    "total_comments": 9697
+    "scrape_date": "2026-05-05T12:05:31.265652+00:00",
+    "total_posts": 1604,
+    "total_comments": 9698
   },
   "discussions": [
     {
@@ -81712,6 +81712,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t3yrqx/ticketmasterlivenationstubhub_audiences_inventory/",
       "created_utc": 1777938274.0,
       "content": "Hi all, \n\nHas anyone worked with the major ticketing platforms to access their inventory or audiences? \n\n  \nI couldn't figure it out by looking at their website and I've filled out Contact Us forms, waiting to hear from them. \n\n  \ncurious whether anyone's done it before. \n\n  \nCheers!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1t4c735",
+      "title": "Any feedback on using Google Audience in DV360?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t4c735/any_feedback_on_using_google_audience_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t4c735/any_feedback_on_using_google_audience_in_dv360/",
+      "created_utc": 1777979190.0,
+      "content": "For DV360, I am using mostly FreeWheel deals. Will using in-market audiences help at all with the campaign? I wasn't sure if Google Audience target apply/work with FreeWheel or had to be specific Google supply etc.\n\nWhen you used specific audience settings, what did you feel worked best for your campaign when narrowing it to a specific buy type?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "BurnerAcountInnit",
+          "body": "In-market and custom affinity audiences work well. Can you link GA360 with your DV360 account? ",
+          "score": 1,
+          "created_utc": 1777980128.0
+        }
+      ]
+    },
+    {
+      "id": "1t4d7b1",
+      "title": "My first website thats online 👀  Its a Typing Website",
+      "author": "Murky_Ad365",
+      "score": 1,
+      "url": "/r/boltnewbuilders/comments/1t1m7k8/my_first_website_thats_online_its_a_typing_website/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t4d7b1/my_first_website_thats_online_its_a_typing_website/",
+      "created_utc": 1777982018.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
