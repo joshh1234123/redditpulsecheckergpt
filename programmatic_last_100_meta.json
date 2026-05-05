@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sgpyf6",
-      "title": "How do you handle duplication between CTV, YouTube, paid social, and linear TV?",
-      "author": "Former_Tea1131",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sgpyf6/how_do_you_handle_duplication_between_ctv_youtube/",
-      "created_utc": 1775742054.0,
-      "content": "I’m in-house on the paid media side, mostly from a PPC / performance background, and I’ve recently been pulled into helping manage CTV alongside our existing YouTube, paid social, and some linear TV activity. I’m used to channels where reporting is more direct and the optimization logic is clearer, so one thing I’m struggling with is how people actually handle duplication across all of these video channels in practice. Each platform reports its own reach, frequency, views, and conversions, but once you try to zoom out, it's hard to tell how much of that is truly incremental versus the same audiences being hit over and over in different places.\n\nThe internal question I keep getting is basically whether CTV is adding net new reach or just overlapping with people we were already getting through YouTube, Meta, and linear. From my side, every platform seems to present its numbers in a way that makes itself look valuable, so I’m not sure what teams are actually trusting once budgets get big enough for overlap to matter.\n\nFor people working on larger brands or on mature media teams, how are you handling duplication? Are you relying on platform tools, outside measurement partners, identity graphs, clean rooms, panel data, or just accepting that you’re only going to get a directional answer?\n\nI'm trying to understand what people are doing in practice once the channel mix gets big enough that overlap becomes a real budget issue.",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sgt84b",
       "title": "Programmatic Career Advice",
       "author": "No-Imagination8883",
@@ -1302,6 +1289,19 @@
       "created_utc": 1777982018.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t4lxym",
+      "title": "12 Years in the DSP Space & the Model Feels Broken",
+      "author": "Kos_Kesh",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t4lxym/12_years_in_the_dsp_space_the_model_feels_broken/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t4lxym/12_years_in_the_dsp_space_the_model_feels_broken/",
+      "created_utc": 1778001449.0,
+      "content": "I’ve spent close to 10 years as an AE in the DSP space at StackAdapt, The Trade Desk.\n\nEarlier in my career things were hard but made sense. I feel like the growth came from setting clear expectations with prospects, finding gaps in strategy, running test campaigns, and building from there. It wasn’t fast, but it led to strong retention and long term partnerships. I loved my job and I was excelling for years.\n\nOver the last couple of years I’ve been at 2 different DSPs. I’ve interviewed everywhere and the whole industry feels different. There’s more pressure to bring in new logos with expectations of 3-4 million in revenue year 1 from what I’ve seen. With less focus on what it takes to keep clients the expectations are often stretched just to win new business and not build a book.\n\nBeing in the job market right now has been rough and eye opening. Almost every conversation circles back to “what clients can you bring with you?” even though everyone knows non solicitations are part of the deal. The same companies asking that would have you sign one on day one. So it’s greasy… and I never share that information but it’s wild how that’s a requirement for some companies to move forward in the interview process. \n\nAt this point, I don’t know if it’s me not being able to cut it anymore after 12 years, or if the role itself has changed. I’ve been thinking about stepping away from an AE role into client success or account management, or maybe stepping away from DSPs altogether.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
