@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1shrn62",
-      "title": "[Help] Confused about DV360 Attribution: Click-through vs. View-through Window",
-      "author": "HeyItsAmisha",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1shrn62/help_confused_about_dv360_attribution/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1shrn62/help_confused_about_dv360_attribution/",
-      "created_utc": 1775838789.0,
-      "content": "Hey everyone, I’m diving deeper into DV360 and attribution modeling, but I’m struggling to wrap my head around a few concepts. Could someone help clarify these two points for me? \n\n1. **Click-Through vs. View-Through (Post-View) Windows**: What is the actual purpose of separating these? Specifically, why is it common practice to keep the View-through window shorter (or sometimes longer) than the Click-through window? What is the logic behind the \"gap\" between them?\n\n2. **View\" vs. \"TrueView\":** In the context of DV360, what is the technical difference between a standard \"view\" and a Google \"TrueView\"?\n\nI've tried searching, but most articles are either too high-level or buried in technical jargon. Any \"ELI5\" (Explain Like I'm 5) explanations or real-world examples would be amazing. I would really appreciate it if you guys refrain from any judgemental or hate comments please. \n\nThanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sijbbb",
       "title": "Need Advice On New Campaign with DV360 or Prime",
       "author": "Enviromental1001",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t5dq1g/openais_selfserve_ads_manager_from_big_brands_to/",
       "created_utc": 1778075857.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t5lsnm",
+      "title": "Treating ChatGPT ads like a performance channel too early..?",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5lsnm/treating_chatgpt_ads_like_a_performance_channel/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5lsnm/treating_chatgpt_ads_like_a_performance_channel/",
+      "created_utc": 1778092810.0,
+      "content": "One pitfall we’ve seen lately is teams treating ChatGPT ads like a performance channel way too early. Right now, the reality is \\~$200K minimum spends, reporting limited to weekly CSVs (no real‑time dashboards), and infrastructure that’s still pretty barebones. In that setup, expecting ROAS is premature. At present, LLM ads should be treated as a learning investment for a way to understand how agentic workflows & AI‑driven placements are behaving.   \n  \nAlso, maybe a weird observation- A lot of this feels like AI talking to AI. Not even sure how much of the ad is actually landing with a human vs getting filtered/reshaped along the way. What do y’all think?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

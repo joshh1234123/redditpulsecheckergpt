@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-06T18:17:31.398955+00:00",
-    "total_posts": 1609,
+    "scrape_date": "2026-05-06T20:08:06.185510+00:00",
+    "total_posts": 1610,
     "total_comments": 9700
   },
   "discussions": [
@@ -81830,6 +81830,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t5dq1g/openais_selfserve_ads_manager_from_big_brands_to/",
       "created_utc": 1778075857.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1t5lsnm",
+      "title": "Treating ChatGPT ads like a performance channel too early..?",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5lsnm/treating_chatgpt_ads_like_a_performance_channel/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5lsnm/treating_chatgpt_ads_like_a_performance_channel/",
+      "created_utc": 1778092810.0,
+      "content": "One pitfall we’ve seen lately is teams treating ChatGPT ads like a performance channel way too early. Right now, the reality is \\~$200K minimum spends, reporting limited to weekly CSVs (no real‑time dashboards), and infrastructure that’s still pretty barebones. In that setup, expecting ROAS is premature. At present, LLM ads should be treated as a learning investment for a way to understand how agentic workflows & AI‑driven placements are behaving.   \n  \nAlso, maybe a weird observation- A lot of this feels like AI talking to AI. Not even sure how much of the ad is actually landing with a human vs getting filtered/reshaped along the way. What do y’all think?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
