@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-06T12:24:23.780398+00:00",
-    "total_posts": 1608,
+    "scrape_date": "2026-05-06T15:08:39.043941+00:00",
+    "total_posts": 1609,
     "total_comments": 9700
   },
   "discussions": [
@@ -81816,6 +81816,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1t4q13t/interviewing_at_ttd_sales/",
       "created_utc": 1778009917.0,
       "content": "Hi all, \n\nInterviewing at TTD for an Account Executive (growth) role this week. Any tips, potential questions they may ask will be super helpful. \n\nThank you!! ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1t5dq1g",
+      "title": "OpenAI’s self‑serve Ads Manager. From big brands to small budgets? Or solving its own supply-demand mismatch?",
+      "author": "u_of_digital",
+      "score": 3,
+      "url": "https://www.reddit.com/gallery/1t5cyr9",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5dq1g/openais_selfserve_ads_manager_from_big_brands_to/",
+      "created_utc": 1778075857.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
