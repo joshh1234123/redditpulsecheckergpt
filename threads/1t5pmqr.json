@@ -1,0 +1,16 @@
+{
+  "id": "1t5pmqr",
+  "thread_id": "1t5pmqr",
+  "title": "How are demand gen leads tying CTV spend to pipeline, not just impressions?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1t5pmqr/how_are_demand_gen_leads_tying_ctv_spend_to/",
+  "created_utc": 1778100995.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "cuteman",
+      "body": "B2B CTV is extremely difficult as you mention because of the long funnel. \n\nHOWEVER, we've had a lot of success optimizing for \"initial conversion event\"\n\nAlthough B2B divisions are a different beast in sales cycle, LTV, etc. we can track that initial conversion as a unique event and then track the subsequent time to convert, ROI, etc. down the line.\n\nMulti-touch, UTMs, etc are irrelevant because the issue is trying to track the entire cycle from an advertising touch point which has too much time and signal decay. Even in the best of times CTV attributes poorly even with pixel data. \n\nHere's what we do: Upon Initial conversion (typically a form, but we also have middle funnel KPIs like this for white paper, webinar, etc.) we assign the conversion a unique ID, that unique ID is pulled through both the pixel and our own conversion reporting. Pixel-only data however only attributes around 5-15% of conversions so every 2 weeks we also upload our own CRM lead/opportunity data back into the platform to uncover another 60-90% of conversions. The pos conversion CRM upload is key here because attribution is difficult on any type of CTV due to signal loss, even on B2C. \n\nOnce the Unique identifier is associated with an advertising campaign we can score it, track it and calculate ROI/LTV regardless of cycle length because we attributed the lead/opportunity early on. \n\nIt's not perfect because there will always be channel overlap/duplication but this strategy gives the B2B team a lot more business case leverage, especially as CTV which as you know and it sounds like you're dealing with, can be difficult to justify. \n\nWe use a combination of our own direct TTD media and our agency which also uses TTD to make this happen.",
+      "score": 1,
+      "created_utc": 1778103433.0
+    }
+  ]
+}

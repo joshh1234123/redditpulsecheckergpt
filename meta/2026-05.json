@@ -329,6 +329,21 @@
       "link_flair_text": null,
       "thread_id": "1t5lsnm",
       "thread_path": "1t5lsnm.json"
+    },
+    {
+      "id": "1t5pmqr",
+      "title": "How are demand gen leads tying CTV spend to pipeline, not just impressions?",
+      "author": "BrentMaxey",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5pmqr/how_are_demand_gen_leads_tying_ctv_spend_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5pmqr/how_are_demand_gen_leads_tying_ctv_spend_to/",
+      "created_utc": 1778100995.0,
+      "content": "We’ve got CTV fully embedded in our mix at a \\~$25–35M ARR B2B SaaS, and it’s doing what it’s supposed to do at the top of funnel; solid reach, strong completion rates, and clear downstream signals (branded search lift, higher direct traffic, better retargeting pools).\n\nThe issue: none of that cleanly translates to pipeline in a way that holds up in a demand gen review.\n\nOur funnel is long (60–120 days), multi-touch, and heavily sales-assisted. By the time an opportunity is created, CTV’s influence is buried under search, SDR outreach, and remarketing. Even with Salesforce multi-touch + UTMs + some account-level enrichment, we’re still mostly inferring impact vs. proving it.\n\nWe’ve tried:\n\ngeo holdouts- directional, but noisy at our scale\n\npost-demo surveys - helpful but biased\n\nlooking at influenced account velocity - promising, but not airtight\n\nSo for demand gen leads / growth folks who are actually accountable to pipeline: how are you tying CTV spend to pipeline creation in a way that’s decision-grade, not just “it lifts everything”?\n\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1t5pmqr",
+      "thread_path": "1t5pmqr.json"
     }
   ]
 }
