@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1simgp3",
-      "title": "How long did it take you to adjust to a different DSP?",
-      "author": "Right-Pirate-8751",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1simgp3/how_long_did_it_take_you_to_adjust_to_a_different/",
-      "created_utc": 1775922218.0,
-      "content": "Just switched jobs and the new agency runs campaigns through Q1 Media instead of DV360 which is all I've ever used. I don't want to walk in on day one looking clueless.\n\nFrom what I can piece together they're an independent DSP with managed service on top but I'd love to hear from anyone who's actually worked with them. Supply path transparency, CTV inventory quality, reporting, anything you can share would be helpful. Trying to get up to speed fast.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sisjvr",
       "title": "Trying to understand industry politics",
       "author": "lordzn",
@@ -1302,6 +1289,19 @@
       "created_utc": 1778100995.0,
       "content": "We’ve got CTV fully embedded in our mix at a \\~$25–35M ARR B2B SaaS, and it’s doing what it’s supposed to do at the top of funnel; solid reach, strong completion rates, and clear downstream signals (branded search lift, higher direct traffic, better retargeting pools).\n\nThe issue: none of that cleanly translates to pipeline in a way that holds up in a demand gen review.\n\nOur funnel is long (60–120 days), multi-touch, and heavily sales-assisted. By the time an opportunity is created, CTV’s influence is buried under search, SDR outreach, and remarketing. Even with Salesforce multi-touch + UTMs + some account-level enrichment, we’re still mostly inferring impact vs. proving it.\n\nWe’ve tried:\n\ngeo holdouts- directional, but noisy at our scale\n\npost-demo surveys - helpful but biased\n\nlooking at influenced account velocity - promising, but not airtight\n\nSo for demand gen leads / growth folks who are actually accountable to pipeline: how are you tying CTV spend to pipeline creation in a way that’s decision-grade, not just “it lifts everything”?\n\n",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1t5s0qk",
+      "title": "Best Practices for Lead Gen on DSP",
+      "author": "Realistic-Focus-8254",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
+      "created_utc": 1778106334.0,
+      "content": "Been in programmatic for over 5 years, mainly managing various e-commerce accounts ranging from $5k to $50k in monthly spend on TTD, StackAdapt and DV360.\n\nI recently stepped into a new role, and we have started to onboard a lot more lead gen clients (home improvement, legal services, B2B etc.). Things seem to be falling apart as we're seeing a lot more churn and DSP ultimately not being in line with the client's performance expectations. \n\nFrom your experience, are there any nuances I should be aware of when setting up campaigns of this nature? I'm feeling very discouraged with overall performance and have a gut feeling my role will likely be affected if I don't start flipping performance around. Any insight on targeting, optimizations would be greatly appreciated. Thanks!",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

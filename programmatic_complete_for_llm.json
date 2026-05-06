@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-06T21:37:50.245400+00:00",
-    "total_posts": 1611,
-    "total_comments": 9701
+    "scrape_date": "2026-05-06T22:42:06.181399+00:00",
+    "total_posts": 1612,
+    "total_comments": 9703
   },
   "discussions": [
     {
@@ -81867,6 +81867,33 @@
           "body": "B2B CTV is extremely difficult as you mention because of the long funnel. \n\nHOWEVER, we've had a lot of success optimizing for \"initial conversion event\"\n\nAlthough B2B divisions are a different beast in sales cycle, LTV, etc. we can track that initial conversion as a unique event and then track the subsequent time to convert, ROI, etc. down the line.\n\nMulti-touch, UTMs, etc are irrelevant because the issue is trying to track the entire cycle from an advertising touch point which has too much time and signal decay. Even in the best of times CTV attributes poorly even with pixel data. \n\nHere's what we do: Upon Initial conversion (typically a form, but we also have middle funnel KPIs like this for white paper, webinar, etc.) we assign the conversion a unique ID, that unique ID is pulled through both the pixel and our own conversion reporting. Pixel-only data however only attributes around 5-15% of conversions so every 2 weeks we also upload our own CRM lead/opportunity data back into the platform to uncover another 60-90% of conversions. The pos conversion CRM upload is key here because attribution is difficult on any type of CTV due to signal loss, even on B2C. \n\nOnce the Unique identifier is associated with an advertising campaign we can score it, track it and calculate ROI/LTV regardless of cycle length because we attributed the lead/opportunity early on. \n\nIt's not perfect because there will always be channel overlap/duplication but this strategy gives the B2B team a lot more business case leverage, especially as CTV which as you know and it sounds like you're dealing with, can be difficult to justify. \n\nWe use a combination of our own direct TTD media and our agency which also uses TTD to make this happen.",
           "score": 1,
           "created_utc": 1778103433.0
+        }
+      ]
+    },
+    {
+      "id": "1t5s0qk",
+      "title": "Best Practices for Lead Gen on DSP",
+      "author": "Realistic-Focus-8254",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
+      "created_utc": 1778106334.0,
+      "content": "Been in programmatic for over 5 years, mainly managing various e-commerce accounts ranging from $5k to $50k in monthly spend on TTD, StackAdapt and DV360.\n\nI recently stepped into a new role, and we have started to onboard a lot more lead gen clients (home improvement, legal services, B2B etc.). Things seem to be falling apart as we're seeing a lot more churn and DSP ultimately not being in line with the client's performance expectations. \n\nFrom your experience, are there any nuances I should be aware of when setting up campaigns of this nature? I'm feeling very discouraged with overall performance and have a gut feeling my role will likely be affected if I don't start flipping performance around. Any insight on targeting, optimizations would be greatly appreciated. Thanks!",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "EarthPrimer",
+          "body": "DSP doesn’t work great unless you’re using a B2B specific one like DemandBase. \n\nI found a lot of success driving SaaS leads with industry aligned newsletters (direct buys)",
+          "score": 1,
+          "created_utc": 1778106669.0
+        },
+        {
+          "author": "Realistic-Focus-8254",
+          "body": "Cool. How does it differentiate itself from the main DSPs? What does the entry look like in terms of spend etc.?",
+          "score": 1,
+          "created_utc": 1778107110.0
         }
       ]
     }
