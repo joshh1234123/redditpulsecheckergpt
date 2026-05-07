@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-06T23:42:46.232260+00:00",
-    "total_posts": 1612,
-    "total_comments": 9703
+    "scrape_date": "2026-05-07T02:10:09.832318+00:00",
+    "total_posts": 1613,
+    "total_comments": 9705
   },
   "discussions": [
     {
@@ -81894,6 +81894,33 @@
           "body": "Cool. How does it differentiate itself from the main DSPs? What does the entry look like in terms of spend etc.?",
           "score": 1,
           "created_utc": 1778107110.0
+        }
+      ]
+    },
+    {
+      "id": "1t5uypc",
+      "title": "Amazon DSP Shoppable",
+      "author": "Sufficient-Trifle493",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1t5uypc/amazon_dsp_shoppable/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5uypc/amazon_dsp_shoppable/",
+      "created_utc": 1778113784.0,
+      "content": "Does anyone know if you can buy Shoppable ads on 3rd party inventory in open exchange?   Seems risky but I am curious about actual scale outside of prime video which I've heard mixed things about performance wise outside of their home cooking.    Probably dont have the juice to spend with Netflix or Disney of the world.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "huntsty",
+          "body": "Not fully shoppable (as in checkout from within the ad) but Amazon's dynamic ecommerce ads are auto-generated from ASINs, allow you to click 'shop now' or 'add to list' and can run on any 3P inventory on the open exchange. On the Streaming TV side, you can add interactive \"click to add to cart\" type widgets to any Amazon O&O (Prime Video) and some 3P inventory running on a FireTV device. Shoot me a DM if you'd like - happy to answer any other questions. ",
+          "score": 1,
+          "created_utc": 1778115986.0
+        },
+        {
+          "author": "ladipn",
+          "body": "I believe Samsung TV ads are the main 3P inventory for shoppable TV ads, for now. As it’s AVOD, CPMs are competitive compared to Netflix or Disney. \n\nSamsung is probably the largest OEM so scale should not be an issue ",
+          "score": 0,
+          "created_utc": 1778116906.0
         }
       ]
     }

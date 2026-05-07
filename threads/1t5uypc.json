@@ -1,0 +1,22 @@
+{
+  "id": "1t5uypc",
+  "thread_id": "1t5uypc",
+  "title": "Amazon DSP Shoppable",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1t5uypc/amazon_dsp_shoppable/",
+  "created_utc": 1778113784.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "huntsty",
+      "body": "Not fully shoppable (as in checkout from within the ad) but Amazon's dynamic ecommerce ads are auto-generated from ASINs, allow you to click 'shop now' or 'add to list' and can run on any 3P inventory on the open exchange. On the Streaming TV side, you can add interactive \"click to add to cart\" type widgets to any Amazon O&O (Prime Video) and some 3P inventory running on a FireTV device. Shoot me a DM if you'd like - happy to answer any other questions. ",
+      "score": 1,
+      "created_utc": 1778115986.0
+    },
+    {
+      "author": "ladipn",
+      "body": "I believe Samsung TV ads are the main 3P inventory for shoppable TV ads, for now. As it’s AVOD, CPMs are competitive compared to Netflix or Disney. \n\nSamsung is probably the largest OEM so scale should not be an issue ",
+      "score": 0,
+      "created_utc": 1778116906.0
+    }
+  ]
+}
