@@ -479,6 +479,36 @@
       "link_flair_text": null,
       "thread_id": "1tabd9v",
       "thread_path": "1tabd9v.json"
+    },
+    {
+      "id": "1tac0xd",
+      "title": "Does TTD have info on where the spend is going down to impression level?",
+      "author": "KiddoTwo",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "created_utc": 1778524262.0,
+      "content": "I'm a bit of a novice on the DSP side of things. I'm getting an average CPM, but I want to know how much I'm spending exactly and where. Can TTD give me that sort of granularity or are they only able to give me average CPM?\n\n**ETA** (also added on one of the comments, thank you all by the way):\n\nWe’re being told they can’t provide SSP level clearing price detail because SSP billing is aggregated across clients. We can pull performance reports, but there’s no real way to reconcile those against invoice level clearing prices or verify what was actually paid to SSPs vs. billed through TTD.\n\nJust trying to understand if this is standard practice or if others have gotten more granular transparency from them.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tac0xd",
+      "thread_path": "1tac0xd.json"
+    },
+    {
+      "id": "1tadtfo",
+      "title": "Client uses same floodlight for Search and Display",
+      "author": "Akajdrod",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "created_utc": 1778527921.0,
+      "content": "Hello, \n\nWondering what are everyone’s thoughts on an in-housed media buying team that is using the same floodlight for Search and Display campaigns to measure CPA performance on last-touch attribution. \n\nWhen I mentioned that most advertisers Ive worked with do not measure Display and Search in the same bucket, the clients team said they are surprised to hear that (US client). \n\nCan someone confirm if Im not wrong in saying this is not the way to go, unless they want Display to never get any attributed conversions? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tadtfo",
+      "thread_path": "1tadtfo.json"
     }
   ]
 }

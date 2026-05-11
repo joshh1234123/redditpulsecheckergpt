@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-11T18:15:50.264903+00:00",
-    "total_posts": 1620,
-    "total_comments": 9707
+    "scrape_date": "2026-05-11T20:13:13.048465+00:00",
+    "total_posts": 1622,
+    "total_comments": 9714
   },
   "discussions": [
     {
@@ -82033,6 +82033,78 @@
           "body": "At that budget, I’d be careful chasing “perfect” incrementality. You’ll spend six months proving noise. Better to find obvious waste first: retargeting bloat, branded search cannibalization, and fake pipeline influence.",
           "score": 1,
           "created_utc": 1778523323.0
+        }
+      ]
+    },
+    {
+      "id": "1tac0xd",
+      "title": "Does TTD have info on where the spend is going down to impression level?",
+      "author": "KiddoTwo",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "created_utc": 1778524262.0,
+      "content": "I'm a bit of a novice on the DSP side of things. I'm getting an average CPM, but I want to know how much I'm spending exactly and where. Can TTD give me that sort of granularity or are they only able to give me average CPM?\n\n**ETA** (also added on one of the comments, thank you all by the way):\n\nWe’re being told they can’t provide SSP level clearing price detail because SSP billing is aggregated across clients. We can pull performance reports, but there’s no real way to reconcile those against invoice level clearing prices or verify what was actually paid to SSPs vs. billed through TTD.\n\nJust trying to understand if this is standard practice or if others have gotten more granular transparency from them.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "LikeAfterSummer",
+          "body": "pull an inventory performance report. it can tell you cpm by site/app",
+          "score": 3,
+          "created_utc": 1778524996.0
+        },
+        {
+          "author": "INPUT_INPUT",
+          "body": "It can go pretty granular across media, tech and data fees up to 90 days look back, beyond that it’s a less detailed report. If you need further back then you will need to contact them directly and their business intelligence team with the report ID and they will pull it for you. ",
+          "score": 1,
+          "created_utc": 1778526880.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Standard reports can go as granular as you want. REDS log level data goes to individual impression level.",
+          "score": 1,
+          "created_utc": 1778528431.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "REDs event data is impression level. They deliver to an S3 or datashares to cloud data providers ",
+          "score": 1,
+          "created_utc": 1778530328.0
+        },
+        {
+          "author": "KiddoTwo",
+          "body": "Sorry, just got more from my team. \n\nWe’re being told they can’t provide SSP level clearing price detail because SSP billing is aggregated across clients. We can pull performance reports, but there’s no real way to reconcile those against invoice level clearing prices or verify what was actually paid to SSPs vs. billed through TTD.\n\nJust trying to understand if this is standard practice or if others have gotten more granular transparency from them.",
+          "score": 1,
+          "created_utc": 1778528790.0
+        },
+        {
+          "author": "INPUT_INPUT",
+          "body": "You have the media cost as a metric to understand that. You can split the performance report by “supply vendor” for ssp and the then it’s either publisher or site (I forget). advertiser cost = media cost + additional fees + feature fees + data fees + a hidden costing field called “TTD margin” which is basically the tech platform fee that is a fixed % but then applied across all the elements. For advertiser cost and media cost you can use the “performance report”, for data “data elements” report, for additional fees “addition fees report” and for feature fees use “fee feature report”. ",
+          "score": 2,
+          "created_utc": 1778529332.0
+        }
+      ]
+    },
+    {
+      "id": "1tadtfo",
+      "title": "Client uses same floodlight for Search and Display",
+      "author": "Akajdrod",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "created_utc": 1778527921.0,
+      "content": "Hello, \n\nWondering what are everyone’s thoughts on an in-housed media buying team that is using the same floodlight for Search and Display campaigns to measure CPA performance on last-touch attribution. \n\nWhen I mentioned that most advertisers Ive worked with do not measure Display and Search in the same bucket, the clients team said they are surprised to hear that (US client). \n\nCan someone confirm if Im not wrong in saying this is not the way to go, unless they want Display to never get any attributed conversions? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "That is completely normal, just don't measure on last touch.",
+          "score": 1,
+          "created_utc": 1778528350.0
         }
       ]
     }

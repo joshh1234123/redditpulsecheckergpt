@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sl2ghd",
-      "title": "To all those heavy advertisers out here",
-      "author": "Hairy-Airport1305",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sl2ghd/to_all_those_heavy_advertisers_out_here/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sl2ghd/to_all_those_heavy_advertisers_out_here/",
-      "created_utc": 1776154679.0,
-      "content": "Is it just me or do you all see a really odd behavior on your ad platforms? Like the engagement and KPIs are satisfying but something feels strange when you dwell deep?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sldhew",
-      "title": "Any suggestions on DV360?",
-      "author": "Enviromental1001",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sldhew/any_suggestions_on_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sldhew/any_suggestions_on_dv360/",
-      "created_utc": 1776183647.0,
-      "content": "I have been noticing issues with DV360 that I am not getting many impressions no matter bid I have or targeting i edit.\n\nFreeWheel told me \"We are seeing that there are no bids being received today.\"\n\nIs DV360 known to be buggy? Curious if I should move my DEAL from FreeWheel to my Amazon Ads, would Amazon system be better?",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1slecs9",
       "title": "A few learnings running Odeeo on Amazon DSP",
       "author": "NiceRecognition9603",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
       "created_utc": 1778522927.0,
       "content": "I'm part of the growth team for a mid-market b2b company and I'm trying to get more immersed in incrementality without pretending we have Fortune 500 data density.\n\nWe’re spending across paid social, search, programmatic/CTV, and retargeting. The problem is that every channel can make a plausible case for impact, but once you strip out last-touch bias, branded search capture, retargeting overlap, and sales-assisted motion, the “incrementality” gets very blurry.\n\nWe can’t just pause major channels without creating real pipeline risk, and full MMM feels expensive/slow relative to how often we need to make budget decisions. Geo holdouts are also possible, but our market coverage and sales territories make clean reads hard.\n\nFor growth / demand gen / programmatic folks operating in the $5M-20M budget range, what does incrementality testing actually look like?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tac0xd",
+      "title": "Does TTD have info on where the spend is going down to impression level?",
+      "author": "KiddoTwo",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+      "created_utc": 1778524262.0,
+      "content": "I'm a bit of a novice on the DSP side of things. I'm getting an average CPM, but I want to know how much I'm spending exactly and where. Can TTD give me that sort of granularity or are they only able to give me average CPM?\n\n**ETA** (also added on one of the comments, thank you all by the way):\n\nWe’re being told they can’t provide SSP level clearing price detail because SSP billing is aggregated across clients. We can pull performance reports, but there’s no real way to reconcile those against invoice level clearing prices or verify what was actually paid to SSPs vs. billed through TTD.\n\nJust trying to understand if this is standard practice or if others have gotten more granular transparency from them.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tadtfo",
+      "title": "Client uses same floodlight for Search and Display",
+      "author": "Akajdrod",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
+      "created_utc": 1778527921.0,
+      "content": "Hello, \n\nWondering what are everyone’s thoughts on an in-housed media buying team that is using the same floodlight for Search and Display campaigns to measure CPA performance on last-touch attribution. \n\nWhen I mentioned that most advertisers Ive worked with do not measure Display and Search in the same bucket, the clients team said they are surprised to hear that (US client). \n\nCan someone confirm if Im not wrong in saying this is not the way to go, unless they want Display to never get any attributed conversions? ",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

@@ -1,0 +1,46 @@
+{
+  "id": "1tac0xd",
+  "thread_id": "1tac0xd",
+  "title": "Does TTD have info on where the spend is going down to impression level?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tac0xd/does_ttd_have_info_on_where_the_spend_is_going/",
+  "created_utc": 1778524262.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "LikeAfterSummer",
+      "body": "pull an inventory performance report. it can tell you cpm by site/app",
+      "score": 3,
+      "created_utc": 1778524996.0
+    },
+    {
+      "author": "INPUT_INPUT",
+      "body": "It can go pretty granular across media, tech and data fees up to 90 days look back, beyond that it’s a less detailed report. If you need further back then you will need to contact them directly and their business intelligence team with the report ID and they will pull it for you. ",
+      "score": 1,
+      "created_utc": 1778526880.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Standard reports can go as granular as you want. REDS log level data goes to individual impression level.",
+      "score": 1,
+      "created_utc": 1778528431.0
+    },
+    {
+      "author": "JimmyTango",
+      "body": "REDs event data is impression level. They deliver to an S3 or datashares to cloud data providers ",
+      "score": 1,
+      "created_utc": 1778530328.0
+    },
+    {
+      "author": "KiddoTwo",
+      "body": "Sorry, just got more from my team. \n\nWe’re being told they can’t provide SSP level clearing price detail because SSP billing is aggregated across clients. We can pull performance reports, but there’s no real way to reconcile those against invoice level clearing prices or verify what was actually paid to SSPs vs. billed through TTD.\n\nJust trying to understand if this is standard practice or if others have gotten more granular transparency from them.",
+      "score": 1,
+      "created_utc": 1778528790.0
+    },
+    {
+      "author": "INPUT_INPUT",
+      "body": "You have the media cost as a metric to understand that. You can split the performance report by “supply vendor” for ssp and the then it’s either publisher or site (I forget). advertiser cost = media cost + additional fees + feature fees + data fees + a hidden costing field called “TTD margin” which is basically the tech platform fee that is a fixed % but then applied across all the elements. For advertiser cost and media cost you can use the “performance report”, for data “data elements” report, for additional fees “addition fees report” and for feature fees use “fee feature report”. ",
+      "score": 2,
+      "created_utc": 1778529332.0
+    }
+  ]
+}
