@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sklv9t",
-      "title": "Do short ads hit harder than 30-second spots for local campaigns??",
-      "author": "Asleep-Comparison782",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sklv9t/do_short_ads_hit_harder_than_30second_spots_for/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sklv9t/do_short_ads_hit_harder_than_30second_spots_for/",
-      "created_utc": 1776109833.0,
-      "content": "Lately we’ve been running some tests on CTV, comparing 15-second spots vs a single 30-second ad. The results are all over the place lol\n\nShould we try a couple of short ads for variety? Or just focus everything into one solid 30-second spot that tells the full story? We’ve been using a tool to handle the creative side, which makes it easy to get the ads ready (yay AI doing everything again lol, names adwave). Amazon’s platform works fine too if you’re on a tiny budget, but what really drives engagement? For local ads, do you usually see better results with quick spots or the full 30 seconds?\n\nAny tips help, thanks!!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1skri1l",
-      "title": "Google Account Strategist vs Programmatic Account Manager?",
-      "author": "xbshaieoeofn",
-      "score": 1,
-      "url": "/r/techsales/comments/1sgz5bl/google_account_strategist_vs_programmatic_account/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1skri1l/google_account_strategist_vs_programmatic_account/",
-      "created_utc": 1776122390.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sl2ghd",
       "title": "To all those heavy advertisers out here",
       "author": "Hairy-Airport1305",
@@ -1302,6 +1276,32 @@
       "created_utc": 1778215854.0,
       "content": "Hey everyone,\n\nI've been researching **GumGum**, a contextual advertising platform that claims to show ads based on users' mindsets rather than on cookies or personal data.\n\nHere's what I found:\n\n* They use **Mindset Graph™** for contextual targeting\n* They serve ads on Display, Video, and **CTV (Connected TV)**\n* 500 billion monthly impressions\n* Partners include Microsoft, Starbucks, McDonald's, etc.\n\n**My questions for the community:**\n\n1. Has anyone here worked with them as a **publisher**?\n2. What are their **payment terms**? Net 30 or Net 60?\n3. Are their **RPM/CPM** competitive with other networks?\n4. How is their **support team**?\n\nWould love to hear real experiences",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ta9cuq",
+      "title": "Ad network ad requests is error",
+      "author": "Beneficial_Alps2605",
+      "score": 3,
+      "url": "https://i.redd.it/mfgxwbuphj0h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ta9cuq/ad_network_ad_requests_is_error/",
+      "created_utc": 1778518870.0,
+      "content": "I'm looking for pragmmatic ads\n\n \n\noRTB ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tabd9v",
+      "title": "Incrementality testing for a mid-market b2b company: How does it look at a $5M-20M budget range,",
+      "author": "Spirited-Alps6604",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
+      "created_utc": 1778522927.0,
+      "content": "I'm part of the growth team for a mid-market b2b company and I'm trying to get more immersed in incrementality without pretending we have Fortune 500 data density.\n\nWe’re spending across paid social, search, programmatic/CTV, and retargeting. The problem is that every channel can make a plausible case for impact, but once you strip out last-touch bias, branded search capture, retargeting overlap, and sales-assisted motion, the “incrementality” gets very blurry.\n\nWe can’t just pause major channels without creating real pipeline risk, and full MMM feels expensive/slow relative to how often we need to make budget decisions. Geo holdouts are also possible, but our market coverage and sales territories make clean reads hard.\n\nFor growth / demand gen / programmatic folks operating in the $5M-20M budget range, what does incrementality testing actually look like?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

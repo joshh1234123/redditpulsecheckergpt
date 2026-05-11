@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-11T16:14:40.848244+00:00",
-    "total_posts": 1618,
-    "total_comments": 9706
+    "scrape_date": "2026-05-11T18:15:50.264903+00:00",
+    "total_posts": 1620,
+    "total_comments": 9707
   },
   "discussions": [
     {
@@ -82000,6 +82000,41 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ta9cuq",
+      "title": "Ad network ad requests is error",
+      "author": "Beneficial_Alps2605",
+      "score": 3,
+      "url": "https://i.redd.it/mfgxwbuphj0h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ta9cuq/ad_network_ad_requests_is_error/",
+      "created_utc": 1778518870.0,
+      "content": "I'm looking for pragmmatic ads\n\n \n\noRTB ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tabd9v",
+      "title": "Incrementality testing for a mid-market b2b company: How does it look at a $5M-20M budget range,",
+      "author": "Spirited-Alps6604",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
+      "created_utc": 1778522927.0,
+      "content": "I'm part of the growth team for a mid-market b2b company and I'm trying to get more immersed in incrementality without pretending we have Fortune 500 data density.\n\nWe’re spending across paid social, search, programmatic/CTV, and retargeting. The problem is that every channel can make a plausible case for impact, but once you strip out last-touch bias, branded search capture, retargeting overlap, and sales-assisted motion, the “incrementality” gets very blurry.\n\nWe can’t just pause major channels without creating real pipeline risk, and full MMM feels expensive/slow relative to how often we need to make budget decisions. Geo holdouts are also possible, but our market coverage and sales territories make clean reads hard.\n\nFor growth / demand gen / programmatic folks operating in the $5M-20M budget range, what does incrementality testing actually look like?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Kitchen_Jicama_5781",
+          "body": "At that budget, I’d be careful chasing “perfect” incrementality. You’ll spend six months proving noise. Better to find obvious waste first: retargeting bloat, branded search cannibalization, and fake pipeline influence.",
+          "score": 1,
+          "created_utc": 1778523323.0
+        }
+      ]
     }
   ]
 }

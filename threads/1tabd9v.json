@@ -1,0 +1,16 @@
+{
+  "id": "1tabd9v",
+  "thread_id": "1tabd9v",
+  "title": "Incrementality testing for a mid-market b2b company: How does it look at a $5M-20M budget range,",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tabd9v/incrementality_testing_for_a_midmarket_b2b/",
+  "created_utc": 1778522927.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Kitchen_Jicama_5781",
+      "body": "At that budget, I’d be careful chasing “perfect” incrementality. You’ll spend six months proving noise. Better to find obvious waste first: retargeting bloat, branded search cannibalization, and fake pipeline influence.",
+      "score": 1,
+      "created_utc": 1778523323.0
+    }
+  ]
+}
