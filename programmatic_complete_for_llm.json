@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-11T21:47:46.167235+00:00",
-    "total_posts": 1622,
+    "scrape_date": "2026-05-11T22:47:53.463900+00:00",
+    "total_posts": 1623,
     "total_comments": 9714
   },
   "discussions": [
@@ -82107,6 +82107,20 @@
           "created_utc": 1778528350.0
         }
       ]
+    },
+    {
+      "id": "1tahmx7",
+      "title": "AI and DSPs question",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tahmx7/ai_and_dsps_question/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tahmx7/ai_and_dsps_question/",
+      "created_utc": 1778536067.0,
+      "content": "Is anyone using AI search to discover inventory in their DSP to activate? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
