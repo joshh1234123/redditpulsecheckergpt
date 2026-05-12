@@ -569,6 +569,21 @@
       "link_flair_text": null,
       "thread_id": "1tba71r",
       "thread_path": "1tba71r.json"
+    },
+    {
+      "id": "1tbg259",
+      "title": "ORTB attributes",
+      "author": "babyfootstink",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tbg259/ortb_attributes/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tbg259/ortb_attributes/",
+      "created_utc": 1778622905.0,
+      "content": "Publisher here with a question for the buy side. What oRTB object and attribute is most important for web display and OLV?   \nI’m auditing the data we’re sending in the bid request, but due to the volume, I’m looking to narrow down to those that may have the biggest impact. Help me out. Looking to minimize the amount of time I spend on this and I’m not sure if I should completely trust what the LLM’s are telling me. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tbg259",
+      "thread_path": "1tbg259.json"
     }
   ]
 }
