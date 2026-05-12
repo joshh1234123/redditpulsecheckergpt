@@ -554,6 +554,21 @@
       "link_flair_text": null,
       "thread_id": "1tb4zlu",
       "thread_path": "1tb4zlu.json"
+    },
+    {
+      "id": "1tba71r",
+      "title": "+19.7K net ads.txt lines this month, but supply quality is tightening, not expanding",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "created_utc": 1778610355.0,
+      "content": "Guys, we just wrapped our May Sellers Report, and while the surface numbers still look like steady expansion, the underlying shift is more interesting.  \nWhen we broke it down, a few patterns stood out:  \n• \\~63% of net growth is coming through reseller paths  \n• High-traffic publishers actually showed negative net growth this month  \n• Most expansion is coming from low-traffic / creator-led inventory  \n• Premium publishers are clearly consolidating and reducing partner overlap  \n• Contextual + curated SSPs are gaining ground as SPO pressure increases  \n• Duplicate paths are still adding unnecessary noise to the auction\n\nNet-net: supply is growing, but it’s becoming more fragmented in the middle layer and more selective at the top.  \nPremium publishers are tightening distribution paths, while incremental growth is shifting toward creator-led and privacy-safe inventory ecosystems.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tba71r",
+      "thread_path": "1tba71r.json"
     }
   ]
 }

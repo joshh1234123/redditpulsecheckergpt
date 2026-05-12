@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-12T17:58:04.158339+00:00",
-    "total_posts": 1625,
+    "scrape_date": "2026-05-12T19:50:04.392720+00:00",
+    "total_posts": 1626,
     "total_comments": 9714
   },
   "discussions": [
@@ -82145,6 +82145,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tb4zlu/dv360_freelancer_support/",
       "created_utc": 1778599696.0,
       "content": "Hi!\n\nWe started to work with DV360 and are looking for some help to scale our campaigns. More specifically:\n\n1. Scaling Expertise: Deep understanding of budget configuration and identifying the best SSPs for our specific vertical.\n2. Technical Configuration Knowledge: Advanced setup of S2S and Direct-to-MMP tracking (for apps), including postbacks for VTA.\n3. Inventory Knowledge: Map the specific traffic types that actually perform on DV360 to avoid waste.\n4. Audience building & custom bidding algorithms\n5. Inventory sources (Open Auction, PG, PD deals)\n\nWe are looking for someone remotely (preferably in UTC-+3). Compensation is up to discussion and will definitely be fair.\n\nPlease send me a message if you are interested! ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tba71r",
+      "title": "+19.7K net ads.txt lines this month, but supply quality is tightening, not expanding",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "created_utc": 1778610355.0,
+      "content": "Guys, we just wrapped our May Sellers Report, and while the surface numbers still look like steady expansion, the underlying shift is more interesting.  \nWhen we broke it down, a few patterns stood out:  \n• \\~63% of net growth is coming through reseller paths  \n• High-traffic publishers actually showed negative net growth this month  \n• Most expansion is coming from low-traffic / creator-led inventory  \n• Premium publishers are clearly consolidating and reducing partner overlap  \n• Contextual + curated SSPs are gaining ground as SPO pressure increases  \n• Duplicate paths are still adding unnecessary noise to the auction\n\nNet-net: supply is growing, but it’s becoming more fragmented in the middle layer and more selective at the top.  \nPremium publishers are tightening distribution paths, while incremental growth is shifting toward creator-led and privacy-safe inventory ecosystems.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

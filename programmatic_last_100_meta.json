@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sm6abz",
-      "title": "How do you measure CTV success?",
-      "author": "Former_Tea1131",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sm6abz/how_do_you_measure_ctv_success/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sm6abz/how_do_you_measure_ctv_success/",
-      "created_utc": 1776260064.0,
-      "content": "I work on the marketing side for an enterprise brand, and CTV is starting to become a much bigger part of our media mix. We are still in early testing and but we saw some level of promise and leadership already wants to scale.\n\nThe easy part is reporting the surface-level stuff. We can talk about reach, completion rates, video views, and site traffic trends. The harder part is figuring out what actually counts as success once the budget is large enough that people expect clear answers. Internally, there’s pressure to treat CTV like a performance channel, but the attribution is obviously nowhere near as clean as search or paid social.\n\nThat’s where I’m stuck. I don’t want to oversell weak signals just because the channel is new and has executive attention, but I also don’t think it makes sense to judge CTV by last-click standards that miss most of its impact.\n\nFor those already doing this, how do you measure success or performance in a way that holds up internally? What metrics or frameworks have been the most useful once the channel starts scaling?\n\n",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sm78f2",
       "title": "Agency hiring digital media folks",
       "author": "crunchy_or_chewy",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tb4zlu/dv360_freelancer_support/",
       "created_utc": 1778599696.0,
       "content": "Hi!\n\nWe started to work with DV360 and are looking for some help to scale our campaigns. More specifically:\n\n1. Scaling Expertise: Deep understanding of budget configuration and identifying the best SSPs for our specific vertical.\n2. Technical Configuration Knowledge: Advanced setup of S2S and Direct-to-MMP tracking (for apps), including postbacks for VTA.\n3. Inventory Knowledge: Map the specific traffic types that actually perform on DV360 to avoid waste.\n4. Audience building & custom bidding algorithms\n5. Inventory sources (Open Auction, PG, PD deals)\n\nWe are looking for someone remotely (preferably in UTC-+3). Compensation is up to discussion and will definitely be fair.\n\nPlease send me a message if you are interested! ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tba71r",
+      "title": "+19.7K net ads.txt lines this month, but supply quality is tightening, not expanding",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
+      "created_utc": 1778610355.0,
+      "content": "Guys, we just wrapped our May Sellers Report, and while the surface numbers still look like steady expansion, the underlying shift is more interesting.  \nWhen we broke it down, a few patterns stood out:  \n• \\~63% of net growth is coming through reseller paths  \n• High-traffic publishers actually showed negative net growth this month  \n• Most expansion is coming from low-traffic / creator-led inventory  \n• Premium publishers are clearly consolidating and reducing partner overlap  \n• Contextual + curated SSPs are gaining ground as SPO pressure increases  \n• Duplicate paths are still adding unnecessary noise to the auction\n\nNet-net: supply is growing, but it’s becoming more fragmented in the middle layer and more selective at the top.  \nPremium publishers are tightening distribution paths, while incremental growth is shifting toward creator-led and privacy-safe inventory ecosystems.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
