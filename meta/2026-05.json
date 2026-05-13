@@ -584,6 +584,21 @@
       "link_flair_text": null,
       "thread_id": "1tbg259",
       "thread_path": "1tbg259.json"
+    },
+    {
+      "id": "1tbwyb1",
+      "title": "Tore down BuzzFeed's mobile ad stack: $91.7M/yr in ads, only 3 demand partners",
+      "author": "Beautiful-Car1077",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tbwyb1/tore_down_buzzfeeds_mobile_ad_stack_917myr_in_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tbwyb1/tore_down_buzzfeeds_mobile_ad_stack_917myr_in_ads/",
+      "created_utc": 1778672086.0,
+      "content": "I just started a series of mobile ad-stack teardowns. Each issue takes one real app and walks through how it actually monetizes, with cross-checks against the publisher's public 10-K where they have one.\n\n1st is the BuzzFeed Android app. They do **$91.7M/yr in ad revenue** (per their 2025 10-K), and **76% of that is programmatic** ($69.6M).\n\nThree things that surprised me:\n\n**1. Only 3 demand partners wired into mediation.** Google (AdMob or GAM, same SDK), Meta Audience Network, Amazon APS. That's the whole list. All three bidding, no waterfall. Most indie devs assume the big publishers run 10+. They don't.\n\n**2. No interstitials, no rewarded, no app-open** on a 10M+ install app. They declare rewarded in the SDK but it doesn't fire on the main surfaces. Even huge publishers leave format-yield on the table.\n\n**3. Refresh is aggressive.** 10-second refresh on the top sticky banner, 30-second on the in-article unit. Both refresh on a timer regardless of scroll. That's where they've drawn the line on density.\n\nFull report: [monetizationguy.com/teardowns/buzzfeed](http://monetizationguy.com/teardowns/buzzfeed)\n\nLet me know what you think, anything missing you'd want added in future issues, and which app I should analyze next?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tbwyb1",
+      "thread_path": "1tbwyb1.json"
     }
   ]
 }
