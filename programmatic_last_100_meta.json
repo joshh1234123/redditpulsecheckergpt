@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1snv1xv",
-      "title": "Setting up an ad server in 2026",
-      "author": "Snoo-43895",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1snv1xv/setting_up_an_ad_server_in_2026/",
-      "created_utc": 1776414834.0,
-      "content": "Is it just me or is setting up an ad server still way more painful than it should be in 2026?\n\nBeen dealing with multiple setups lately (networks + agencies), and I keep running into the same stuff:\n\n* integrations that *technically* support XML/JSON/oRTB… but break in edge cases\n* weird limitations on formats (especially when mixing push/native/VAST)\n* lack of control over rev share / traffic routing without dev work\n* scaling issues once QPS starts getting serious\n\nWhat surprises me most is how much manual work is still involved if you want flexibility.\n\nI’m curious:\n\nAre you guys mostly building internal solutions at this point?  \nOr just stacking multiple tools and living with the limitations?  \nAnyone actually happy with their current setup?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1snyk6s",
       "title": "TLDR: Week in Review - Advertising's Top Stories about OpenAI conversion tracking, Google AI Max, Publicis earnings, More!",
       "author": "data_spy",
@@ -1300,6 +1287,19 @@
       "url": "https://www.reddit.com/r/programmatic/comments/1tcmsq2/i_want_to_buy_full_access_to_a_dv360_account_via/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tcmsq2/i_want_to_buy_full_access_to_a_dv360_account_via/",
       "created_utc": 1778731102.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tctcal",
+      "title": "Apologize to your kids in advance",
+      "author": "u_of_digital",
+      "score": 1,
+      "url": "https://i.redd.it/qvlhmt99l21h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tctcal/apologize_to_your_kids_in_advance/",
+      "created_utc": 1778752127.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
