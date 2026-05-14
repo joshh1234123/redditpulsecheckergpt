@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-13T22:59:28.307202+00:00",
-    "total_posts": 1629,
-    "total_comments": 9714
+    "scrape_date": "2026-05-14T00:03:13.913810+00:00",
+    "total_posts": 1630,
+    "total_comments": 9715
   },
   "discussions": [
     {
@@ -82205,6 +82205,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tcgvp7",
+      "title": "Small Roku ctv channel what should I expect cpm using google ads",
+      "author": "Plastic_Spread_8246",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tcgvp7/small_roku_ctv_channel_what_should_i_expect_cpm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tcgvp7/small_roku_ctv_channel_what_should_i_expect_cpm/",
+      "created_utc": 1778715555.0,
+      "content": "Run a Small ctv channel 3000 or so active users roughly 500-700k watch hours monthly.haven’t implemented ads yet but what should I expect cpm wise for ctv inventory on google ads. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "satyagrahaARG",
+          "body": "If it US geo and it is align with our audience we probably could fill ads with direct campaigns. If you are interested just write me.",
+          "score": 1,
+          "created_utc": 1778716799.0
+        }
+      ]
     }
   ]
 }
