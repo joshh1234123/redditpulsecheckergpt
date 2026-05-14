@@ -659,6 +659,21 @@
       "link_flair_text": null,
       "thread_id": "1tctcal",
       "thread_path": "1tctcal.json"
+    },
+    {
+      "id": "1td1akh",
+      "title": "Looking for Self Serve DSP recs",
+      "author": "totalcanucklehead",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1td1akh/looking_for_self_serve_dsp_recs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1td1akh/looking_for_self_serve_dsp_recs/",
+      "created_utc": 1778771848.0,
+      "content": "Looking for recommendations for a self-serve DSP that we're looking to onboard  for in-house programmatic activation. Requirements below: \n\n* Ideally No Minimums (or low minimums)\n* Canadian and US Geos\n* Must allow for financial product advertising (driving to educational pages for ETFs and related investment instruments)\n* Uploading of 1PD for targeting / retargeting \n* Decent Hierarchy for creating advertisers and sub advertisers accounts for budget / campaign management\n\nLooking at StackAdapt currently but open to any recs from those that have used a DSP that satisfies the above. \n\nThanks!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1td1akh",
+      "thread_path": "1td1akh.json"
     }
   ]
 }
