@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sqjx0k",
-      "title": "Exploring Partnerships with Tier-1 Arbitragers",
-      "author": "Fit-Condition6614",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sqjx0k/exploring_partnerships_with_tier1_arbitragers/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqjx0k/exploring_partnerships_with_tier1_arbitragers/",
-      "created_utc": 1776675803.0,
-      "content": "Hi Everyone,\n\nI handle publisher partnerships at an AdTech company, and I recently learned that we’re open to working with arbitrage partners given a few conditions.\n\nI’m looking to connect with Tier-1 traffic arbitrageurs who have meaningful traffic volume, where there could be a strong fit for both sides.\n\nIf this sounds relevant, feel free to DM me, and I’ll take it from there.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sqmanm",
-      "title": "Adobe DSP?",
-      "author": "NMDigitaNinja",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sqmanm/adobe_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sqmanm/adobe_dsp/",
-      "created_utc": 1776683776.0,
-      "content": "Thoughts on Adobe DSP?  Feels like they have been a sleeper but hearing mote buzz about holistic measurement, creative, and activation.  Anyone have thoughts on if they are a contender?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sqw8l4",
       "title": "Switched from DV360 to an independent DSP recently. Here's what actually surprised me",
       "author": "Most-Profession-7438",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1te3c5p/running_supply_in_a_vertical_the_major_platforms/",
       "created_utc": 1778866557.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1te428f",
+      "title": "Is Desktop quietly becoming the MVP of your stack?",
+      "author": "DataBeat_adtech",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1te428f/is_desktop_quietly_becoming_the_mvp_of_your_stack/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1te428f/is_desktop_quietly_becoming_the_mvp_of_your_stack/",
+      "created_utc": 1778868066.0,
+      "content": "https://preview.redd.it/bhl7uxuzbc1h1.png?width=842&format=png&auto=webp&s=0385c616eb7f0742cc92dd15dd2deb4fa920be00\n\nSomething interesting showed up in our March publisher data that goes against the \"Mobile is King\" narrative.  \n  \nDespite mobile driving the vast majority of our traffic, it's lagging hard on the revenue side:  \n  \nMobile: 72% of impressions → only 38% of revenue ($1.27 CPM)  \nDesktop: 28% of impressions → 62% of revenue ($1.48 CPM)  \n  \nBasically, Desktop is generating less than a third of the inventory but capturing nearly two-thirds of the total revenue.  \n  \nMy theory? In 2026, raw volume is a vanity metric. Mobile traffic (social/discovery) is great for scale, but desktop sessions seem to have the actual intent that advertisers are willing to pay a premium for.  \n  \nAre any other ad ops or monetization folks seeing this? Are you seeing a massive CPM delta between the two, or is our niche just desktop-heavy?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1te5k8n",
+      "title": "Adserving & dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1te5k8n/adserving_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1te5k8n/adserving_dv360/",
+      "created_utc": 1778871246.0,
+      "content": "Do you create dedicated “sites” for each publisher on cm to link dv360 or just a generic one?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

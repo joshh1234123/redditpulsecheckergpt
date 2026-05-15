@@ -719,6 +719,36 @@
       "link_flair_text": null,
       "thread_id": "1te3c5p",
       "thread_path": "1te3c5p.json"
+    },
+    {
+      "id": "1te428f",
+      "title": "Is Desktop quietly becoming the MVP of your stack?",
+      "author": "DataBeat_adtech",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1te428f/is_desktop_quietly_becoming_the_mvp_of_your_stack/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1te428f/is_desktop_quietly_becoming_the_mvp_of_your_stack/",
+      "created_utc": 1778868066.0,
+      "content": "https://preview.redd.it/bhl7uxuzbc1h1.png?width=842&format=png&auto=webp&s=0385c616eb7f0742cc92dd15dd2deb4fa920be00\n\nSomething interesting showed up in our March publisher data that goes against the \"Mobile is King\" narrative.  \n  \nDespite mobile driving the vast majority of our traffic, it's lagging hard on the revenue side:  \n  \nMobile: 72% of impressions → only 38% of revenue ($1.27 CPM)  \nDesktop: 28% of impressions → 62% of revenue ($1.48 CPM)  \n  \nBasically, Desktop is generating less than a third of the inventory but capturing nearly two-thirds of the total revenue.  \n  \nMy theory? In 2026, raw volume is a vanity metric. Mobile traffic (social/discovery) is great for scale, but desktop sessions seem to have the actual intent that advertisers are willing to pay a premium for.  \n  \nAre any other ad ops or monetization folks seeing this? Are you seeing a massive CPM delta between the two, or is our niche just desktop-heavy?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1te428f",
+      "thread_path": "1te428f.json"
+    },
+    {
+      "id": "1te5k8n",
+      "title": "Adserving & dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1te5k8n/adserving_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1te5k8n/adserving_dv360/",
+      "created_utc": 1778871246.0,
+      "content": "Do you create dedicated “sites” for each publisher on cm to link dv360 or just a generic one?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1te5k8n",
+      "thread_path": "1te5k8n.json"
     }
   ]
 }
