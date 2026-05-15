@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sohrx1",
-      "title": "working at ttd",
-      "author": "Acceptable_Total_573",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sohrx1/working_at_ttd/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sohrx1/working_at_ttd/",
-      "created_utc": 1776470046.0,
-      "content": "\nwondering if anyone can tell me about what the vibe is there right now? is it panic mode or stuff in the media just smoke and mirrors?\n\ninterviewing there for a sales role xx",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sppvcu",
       "title": "Is there anyway to email or submit request with DV360 support?",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1778771848.0,
       "content": "Looking for recommendations for a self-serve DSP that we're looking to onboard  for in-house programmatic activation. Requirements below: \n\n* Ideally No Minimums (or low minimums)\n* Canadian and US Geos\n* Must allow for financial product advertising (driving to educational pages for ETFs and related investment instruments)\n* Uploading of 1PD for targeting / retargeting \n* Decent Hierarchy for creating advertisers and sub advertisers accounts for budget / campaign management\n\nLooking at StackAdapt currently but open to any recs from those that have used a DSP that satisfies the above. \n\nThanks!",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tdmkyj",
+      "title": "Programmatic Advertising",
+      "author": "Significant_Plane562",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tdmkyj/programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tdmkyj/programmatic_advertising/",
+      "created_utc": 1778822250.0,
+      "content": "I currently working on the publisher side in ad sales. My experience is more in direct sales and not so much in programmatic. I understand the basics but I have never done the actual setups for this as our AdOps team does this. I have an interview for a position that requires extensive knowledge in the programmatic space.. any tips on questions they might ask or things I should fully educate myself on before? Thanks in advance!",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
