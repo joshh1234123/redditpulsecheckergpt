@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-16T17:50:33.248881+00:00",
-    "total_posts": 1641,
+    "scrape_date": "2026-05-16T18:53:51.676869+00:00",
+    "total_posts": 1642,
     "total_comments": 9720
   },
   "discussions": [
@@ -82408,6 +82408,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1temvtm/ad_viewability_guide_ten_strategies/",
       "created_utc": 1778917203.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tf1yy9",
+      "title": "Is MENA Region the Next Big Growth Market for Programmatic Advertising?",
+      "author": "Possible_Eggplant_79",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tf1yy9/is_mena_region_the_next_big_growth_market_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tf1yy9/is_mena_region_the_next_big_growth_market_for/",
+      "created_utc": 1778957001.0,
+      "content": "**Hey everyone,**\n\nI’m currently working in programmatic advertising and wanted to hear directly from professionals working across the MENA region especially UAE and Saudi Arabia.\n\nHow’s the current landscape there in terms of:\n\n\\-Market growth and future potential\n\n\\-Demand for platforms like DV360, TTD, Amazon DSP, CM360\n\n\\-Learning opportunities and career growth\n\n\\-Salary progression for skilled programmatic professionals\n\nDo you feel MENA is still in its early high-growth phase for programmatic, or has the market already become highly competitive?\n\nWould love to hear real insights from people working in agencies, ad tech, publishers, or brands there.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
