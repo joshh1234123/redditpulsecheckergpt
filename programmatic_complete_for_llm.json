@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-16T05:39:19.432602+00:00",
-    "total_posts": 1638,
+    "scrape_date": "2026-05-16T07:53:32.672877+00:00",
+    "total_posts": 1641,
     "total_comments": 9720
   },
   "discussions": [
@@ -82366,6 +82366,48 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1te5k8n/adserving_dv360/",
       "created_utc": 1778871246.0,
       "content": "Do you create dedicated “sites” for each publisher on cm to link dv360 or just a generic one?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1temksy",
+      "title": "How to properly add Ad Units in GAM",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1temk90/how_to_properly_add_ad_units_in_gam/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1temksy/how_to_properly_add_ad_units_in_gam/",
+      "created_utc": 1778916161.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1teml67",
+      "title": "The Traffic vs Revenue Paradox",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1tem7qe/the_traffic_vs_revenue_paradox/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1teml67/the_traffic_vs_revenue_paradox/",
+      "created_utc": 1778916195.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1temvtm",
+      "title": "Ad Viewability Guide: Ten Strategies",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1temvh6/ad_viewability_guide_ten_strategies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1temvtm/ad_viewability_guide_ten_strategies/",
+      "created_utc": 1778917203.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
