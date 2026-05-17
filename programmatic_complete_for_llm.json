@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-17T16:50:25.448304+00:00",
-    "total_posts": 1644,
-    "total_comments": 9722
+    "scrape_date": "2026-05-17T17:52:48.726799+00:00",
+    "total_posts": 1645,
+    "total_comments": 9727
   },
   "discussions": [
     {
@@ -82466,6 +82466,51 @@
           "body": "Check troubleshooter within the line item to see where you’re losing impressions. If there are a lot of impressions lost to external auction just keep coaching up the bids by a dollar or two.",
           "score": 2,
           "created_utc": 1779032665.0
+        }
+      ]
+    },
+    {
+      "id": "1tfvx6y",
+      "title": "Publicis buys LiveRamp for $2.5 billion in agentic AI data play",
+      "author": "danie-l",
+      "score": 8,
+      "url": "http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tfvx6y/publicis_buys_liveramp_for_25_billion_in_agentic/",
+      "created_utc": 1779038899.0,
+      "content": "",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Few-Orchid-9804",
+          "body": "UID 2.0 stonks go brrrrrr",
+          "score": 5,
+          "created_utc": 1779039035.0
+        },
+        {
+          "author": "MicroSofty88",
+          "body": "Wow that’s an interesting one",
+          "score": 4,
+          "created_utc": 1779039601.0
+        },
+        {
+          "author": "Macken04",
+          "body": "Wondering what cost cost per RampID is",
+          "score": 1,
+          "created_utc": 1779039750.0
+        },
+        {
+          "author": "Uday23",
+          "body": "What does this mean?",
+          "score": 0,
+          "created_utc": 1779039705.0
+        },
+        {
+          "author": "eltapatio",
+          "body": "TTDs UID2 is used by LiveRamp to do audience matching",
+          "score": 1,
+          "created_utc": 1779040295.0
         }
       ]
     }
