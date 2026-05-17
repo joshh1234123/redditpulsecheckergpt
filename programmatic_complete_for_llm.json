@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-17T10:18:29.824618+00:00",
-    "total_posts": 1642,
-    "total_comments": 9720
+    "scrape_date": "2026-05-17T11:37:06.239463+00:00",
+    "total_posts": 1643,
+    "total_comments": 9721
   },
   "discussions": [
     {
@@ -82426,6 +82426,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tflml5",
+      "title": "What are the best ways to learn practical Programmatic Advertising & DV360 outside of agency work?",
+      "author": "Fragrant_Service_855",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tflml5/what_are_the_best_ways_to_learn_practical/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tflml5/what_are_the_best_ways_to_learn_practical/",
+      "created_utc": 1779013400.0,
+      "content": "Hi everyone,\n\nI work in Programmatic Advertising and noticed many freshers struggle to find practical learning resources for:\n\nDV360\ncampaign optimization\npacing & troubleshooting\naudience strategy\nagency workflows\nreporting & performance analysis\n\nSo I recently started sharing some of my learnings, industry updates, interview prep materials, and optimization tips in a small community for aspiring programmatic professionals.\n\nCurious to know:\n\nWhat helped you learn programmatic practically?\nWhat topics do beginners struggle with the most?\nWould practical case-study style content help new learners?\n\nHappy to connect with others interested in Programmatic & AdTech.\n\n\\#DV360 #ProgrammaticAdvertising #AdTech",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Why should we trust you with prog knowledge if you cant even go over your prompst and dont unserstand that reddit does not have hashtags?",
+          "score": 1,
+          "created_utc": 1779017239.0
+        }
+      ]
     }
   ]
 }
