@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-17T14:41:51.898040+00:00",
-    "total_posts": 1643,
-    "total_comments": 9721
+    "scrape_date": "2026-05-17T15:52:56.794952+00:00",
+    "total_posts": 1644,
+    "total_comments": 9722
   },
   "discussions": [
     {
@@ -82445,6 +82445,27 @@
           "body": "Why should we trust you with prog knowledge if you cant even go over your prompst and dont unserstand that reddit does not have hashtags?",
           "score": 1,
           "created_utc": 1779017239.0
+        }
+      ]
+    },
+    {
+      "id": "1tfs9i1",
+      "title": "Need Advice on Max Bid for DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tfs9i1/need_advice_on_max_bid_for_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tfs9i1/need_advice_on_max_bid_for_dv360/",
+      "created_utc": 1779030787.0,
+      "content": "Working with Disney reps they told me which deals on market place I should use.\n\n  \nI was using the Disney Production $21 Floor. What do you think is a reasonable bid I should enter into DV360 without over-paying?\n\nI was doing Fixed Bid $25, wasn't getting much activity last few days so I updated it to $28. I usually run the ads with daypart from 7pm-11pm.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "tobias10",
+          "body": "Check troubleshooter within the line item to see where you’re losing impressions. If there are a lot of impressions lost to external auction just keep coaching up the bids by a dollar or two.",
+          "score": 2,
+          "created_utc": 1779032665.0
         }
       ]
     }

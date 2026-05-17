@@ -1,0 +1,16 @@
+{
+  "id": "1tfs9i1",
+  "thread_id": "1tfs9i1",
+  "title": "Need Advice on Max Bid for DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tfs9i1/need_advice_on_max_bid_for_dv360/",
+  "created_utc": 1779030787.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "tobias10",
+      "body": "Check troubleshooter within the line item to see where you’re losing impressions. If there are a lot of impressions lost to external auction just keep coaching up the bids by a dollar or two.",
+      "score": 2,
+      "created_utc": 1779032665.0
+    }
+  ]
+}
