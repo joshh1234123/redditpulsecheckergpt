@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-18T09:44:45.480887+00:00",
-    "total_posts": 1646,
-    "total_comments": 9727
+    "scrape_date": "2026-05-18T13:38:54.926811+00:00",
+    "total_posts": 1648,
+    "total_comments": 9732
   },
   "discussions": [
     {
@@ -82523,6 +82523,65 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tghfgb/why_ctv_ads_take_so_long_to_show_results/",
       "created_utc": 1779096718.0,
       "content": "Been running some CTV campaigns and the part that drives me crazy is that it takes forever to know what's working.\n\nWe launch ads, spend kicks in, everything looks okay,  but its hard to tell:\n\n* which ads to scale\n* which ones to kill\n* what to change next\n\nBy the time you figure it out, you've already wasted time and budget.\n\nComing from meta and tiktok where you can test and react fast, this just feels slow and kind of blind. I also tried a couple self serve platforms but still feels delayed.\n\nIs there any way to speed this up or is this just how CTV is right now?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tgi0bc",
+      "title": "Amazon DSP Performance Plus Test",
+      "author": "Negative-Leader8858",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgi0bc/amazon_dsp_performance_plus_test/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgi0bc/amazon_dsp_performance_plus_test/",
+      "created_utc": 1779098641.0,
+      "content": "I have run a P+ test during the last 3 months. Running a Full P+ Set-up (Acquisition, Remarketing & Retention) next to my usual Set-up (Combo of IM/LS, CMP ASIN View Retargeting, Contextual Targeting, Product and Banner View Retargeting, Purchase Retargeting).\n\nTo compare the results I will look at NTB %, NTB Purchases, Frequency, Impressions, Clicks, CTR, ROAS, CVR\n\nI also run a path to conversion analysis.\n\nI want to evaluate if I should continue with running both set-ups, switch completely to P+ or just keep my own set-up.\n\nThe first results indicate that the P+ Set-up is stronger, but I have trust issues. What do you guys think? Am I on the right track? Would you create different analysis? What am I missing?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "EarthPrimer",
+          "body": "I feel like if you’re doing p+ and custom targeted tactics at the time time, for the same product, you’re essentially double dipping / targeting the same people a lot of the time. Because of that, I suspect p+ is going to be a lot better at being optimized as the touchpoint that gets the conversion credit. \n\nI like doing custom targeted tactics more because you have more control, especially when trying to drive b2b. You also have a better sense of what is working and what isn’t vs just thinking “ok p+ performance dropped this week….”",
+          "score": 4,
+          "created_utc": 1779104793.0
+        },
+        {
+          "author": "No_Action_2548",
+          "body": "It's worked well for us too. The main issue is you've no idea why. Brand+ on the other hand has been awful.",
+          "score": 1,
+          "created_utc": 1779099218.0
+        },
+        {
+          "author": "Hefty_Bet262",
+          "body": "Which bidding strategy we are using for \n1. (Acquisition, Remarketing &Retention)\n2. (Retargting, Contextual Targeting, Product &Banner view Retargeting, Purchase Retargeting \n setup?\n\nMultiple campaigns?",
+          "score": 1,
+          "created_utc": 1779109339.0
+        },
+        {
+          "author": "Negative-Leader8858",
+          "body": "thank you for this! Have you tested p+ by itself?",
+          "score": 1,
+          "created_utc": 1779111018.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "Yes plenty of times. It can work well if you’re strategic about ASIN setup but ultimately optimizations are few (mainly inventory) and it doesn’t really look great in client convos ",
+          "score": 1,
+          "created_utc": 1779111166.0
+        }
+      ]
+    },
+    {
+      "id": "1tgl130",
+      "title": "WPP company feedback",
+      "author": "Jolly_Profit9571",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgl130/wpp_company_feedback/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgl130/wpp_company_feedback/",
+      "created_utc": 1779107055.0,
+      "content": "I wanted to know how WPP india region company is any feedback culture, company,pay, growth wise.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

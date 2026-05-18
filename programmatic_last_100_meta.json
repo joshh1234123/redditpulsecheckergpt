@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ss2ppc",
-      "title": "Upskill recommendations?",
-      "author": "yellow_scrunchiess",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ss2ppc/upskill_recommendations/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ss2ppc/upskill_recommendations/",
-      "created_utc": 1776809904.0,
-      "content": "I just left my senior role in programmatic at a large agency, owning end-to-end programmatic campaign cycle and have a lot of experience with the major DSPs (DV360, TTD, Amazon, etc..).   \nI now have the time to upskill and my goal for my next job is to get a role with the adtech / client side. I'm interested to learn how advertising will change especially with AI, ChatGPT ads etc.. \n\nDoes anyone have any recommendation on online course that align with the upskill that I'm looking for? Thanks",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1ssdpop",
-      "title": "Unpopular opinion: SPO might be quietly killing publisher revenue (and buyers are cheering for it)",
-      "author": "TapMind",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ssdpop/unpopular_opinion_spo_might_be_quietly_killing/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ssdpop/unpopular_opinion_spo_might_be_quietly_killing/",
-      "created_utc": 1776840547.0,
-      "content": "I’ve been digging into some yield data over the past couple of months, and something doesn’t sit right. We pushed pretty hard on supply path optimization—cut down the number of SSPs, cleaned up duplication, made everything look nice and efficient. Exactly what everyone says you should be doing.\n\nBut once we compared the numbers before and after, it got weird.\n\nCPMs dropped from around $4.60 to $3.70. At first glance, buyers would call that a win. But overall revenue? Down close to 28%. Traffic didn’t change. Nothing major shifted on the demand side. The only real difference was that we removed a bunch of overlapping supply paths.\n\nAnd that’s when it clicked.\n\nAll that “duplication” everyone talks about removing? It was actually creating pressure in the auction. Multiple paths meant more bids hitting the same impression, even if it wasn’t perfectly clean. Once we stripped that out, auctions became more “efficient”… but also less competitive. Prices just settled lower.\n\nSo yeah, buyers are technically getting cheaper inventory now. But it feels like we’re slowly training the market to accept lower prices across the board.\n\nWhat worries me is where this goes next. If publishers keep seeing revenue drop like this, they’re not going to just sit back and accept it. They’ll move better inventory into direct deals, PMPs, or just hold back supply altogether. And then suddenly the “cheap” inventory everyone optimized toward either disappears or isn’t worth buying anymore.\n\nSo the short-term win for buyers might actually create a long-term problem where quality supply shrinks and prices swing back up—but with less transparency.\n\nI don’t know… maybe this was always “inefficiency” that needed to be removed.\n\nBut it doesn’t feel like we just removed waste. It feels like we removed competition.\n\n\n\n**Curious if anyone else has seen something similar, or if I’m missing something here.**",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sshwv0",
       "title": "Reaching out to explore a programmatic partnership",
       "author": "EasyStrategy5430",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tghfgb/why_ctv_ads_take_so_long_to_show_results/",
       "created_utc": 1779096718.0,
       "content": "Been running some CTV campaigns and the part that drives me crazy is that it takes forever to know what's working.\n\nWe launch ads, spend kicks in, everything looks okay,  but its hard to tell:\n\n* which ads to scale\n* which ones to kill\n* what to change next\n\nBy the time you figure it out, you've already wasted time and budget.\n\nComing from meta and tiktok where you can test and react fast, this just feels slow and kind of blind. I also tried a couple self serve platforms but still feels delayed.\n\nIs there any way to speed this up or is this just how CTV is right now?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tgi0bc",
+      "title": "Amazon DSP Performance Plus Test",
+      "author": "Negative-Leader8858",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgi0bc/amazon_dsp_performance_plus_test/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgi0bc/amazon_dsp_performance_plus_test/",
+      "created_utc": 1779098641.0,
+      "content": "I have run a P+ test during the last 3 months. Running a Full P+ Set-up (Acquisition, Remarketing & Retention) next to my usual Set-up (Combo of IM/LS, CMP ASIN View Retargeting, Contextual Targeting, Product and Banner View Retargeting, Purchase Retargeting).\n\nTo compare the results I will look at NTB %, NTB Purchases, Frequency, Impressions, Clicks, CTR, ROAS, CVR\n\nI also run a path to conversion analysis.\n\nI want to evaluate if I should continue with running both set-ups, switch completely to P+ or just keep my own set-up.\n\nThe first results indicate that the P+ Set-up is stronger, but I have trust issues. What do you guys think? Am I on the right track? Would you create different analysis? What am I missing?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tgl130",
+      "title": "WPP company feedback",
+      "author": "Jolly_Profit9571",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgl130/wpp_company_feedback/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgl130/wpp_company_feedback/",
+      "created_utc": 1779107055.0,
+      "content": "I wanted to know how WPP india region company is any feedback culture, company,pay, growth wise.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
