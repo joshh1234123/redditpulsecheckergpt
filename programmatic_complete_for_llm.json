@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-18T16:44:05.659065+00:00",
-    "total_posts": 1648,
+    "scrape_date": "2026-05-18T18:27:30.090944+00:00",
+    "total_posts": 1649,
     "total_comments": 9732
   },
   "discussions": [
@@ -82582,6 +82582,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tgl130/wpp_company_feedback/",
       "created_utc": 1779107055.0,
       "content": "I wanted to know how WPP india region company is any feedback culture, company,pay, growth wise.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tgw26b",
+      "title": "TV & Streaming’s Identity Crisis: Can CIMM’s Identity Infrastructure 2.0 Fix It Without Sacrificing Privacy?",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgw26b/tv_streamings_identity_crisis_can_cimms_identity/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgw26b/tv_streamings_identity_crisis_can_cimms_identity/",
+      "created_utc": 1779128810.0,
+      "content": "Digiday’s latest Future of TV Briefing dives into the Coalition for Innovative Media Measurement’s new proposal to unify fractured identity across TV and streaming. The plan promises fewer intermediaries and better measurement, but raises big questions about user privacy and whether it risks creating more fragmentation. What do you think, is this the solution, or just another layer of complexity?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

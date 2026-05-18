@@ -899,6 +899,21 @@
       "link_flair_text": null,
       "thread_id": "1tgl130",
       "thread_path": "1tgl130.json"
+    },
+    {
+      "id": "1tgw26b",
+      "title": "TV & Streaming’s Identity Crisis: Can CIMM’s Identity Infrastructure 2.0 Fix It Without Sacrificing Privacy?",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tgw26b/tv_streamings_identity_crisis_can_cimms_identity/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tgw26b/tv_streamings_identity_crisis_can_cimms_identity/",
+      "created_utc": 1779128810.0,
+      "content": "Digiday’s latest Future of TV Briefing dives into the Coalition for Innovative Media Measurement’s new proposal to unify fractured identity across TV and streaming. The plan promises fewer intermediaries and better measurement, but raises big questions about user privacy and whether it risks creating more fragmentation. What do you think, is this the solution, or just another layer of complexity?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tgw26b",
+      "thread_path": "1tgw26b.json"
     }
   ]
 }
