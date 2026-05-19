@@ -989,6 +989,21 @@
       "link_flair_text": null,
       "thread_id": "1thrmjo",
       "thread_path": "1thrmjo.json"
+    },
+    {
+      "id": "1thv3r9",
+      "title": "Begin to render imps",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1thv3r9/begin_to_render_imps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1thv3r9/begin_to_render_imps/",
+      "created_utc": 1779214047.0,
+      "content": "In dv 360 I’ve noticed the begin to render report: Do anyone care about it? If I run a report including “eligible begin to render” vs “begin to render” all is ok but what’s the difference vs imps?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1thv3r9",
+      "thread_path": "1thv3r9.json"
     }
   ]
 }
