@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-19T10:56:00.972756+00:00",
-    "total_posts": 1652,
+    "scrape_date": "2026-05-19T13:52:19.604562+00:00",
+    "total_posts": 1653,
     "total_comments": 9733
   },
   "discussions": [
@@ -82645,6 +82645,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1thfam8/whats_the_one_thing_youd_actually_pay_out_of/",
       "created_utc": 1779174985.0,
       "content": "Planning agency-side for a few years now and noodling on a side project idea and want a gut check before going further.\n\nGenuinely curious:\n\n\\- What part of your job would you pay real money out of pocket to make easier or go away?\n\n\\- Any Excel monstrosity or Power Automate flow you’ve cobbled together that you wish was an actual product?\n\n\\- $20/month personally for something that saved you 3 hours a week - would you actually pay? $50? $100?\n\nNot selling anything, literally don’t have anything to sell yet. Just trying to figure out if what drives me nuts drives other people nuts too.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1thmm6j",
+      "title": "Anyone have experience DV360 with Video ADs on CNN.com ?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1thmm6j/anyone_have_experience_dv360_with_video_ads_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1thmm6j/anyone_have_experience_dv360_with_video_ads_on/",
+      "created_utc": 1779196419.0,
+      "content": "Is there anyway to run video ads on CNN via DV360 the main videos that take up most of the page when you watch it or is that only available working directly with CNN on a huge campaign?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
