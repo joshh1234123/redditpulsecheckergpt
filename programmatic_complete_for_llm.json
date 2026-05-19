@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-19T18:56:10.990794+00:00",
-    "total_posts": 1655,
-    "total_comments": 9733
+    "scrape_date": "2026-05-19T20:27:01.899586+00:00",
+    "total_posts": 1656,
+    "total_comments": 9734
   },
   "discussions": [
     {
@@ -82691,6 +82691,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1thz1ex",
+      "title": "When does self-serve CTV model stop being “easy” and start needing real media ops?",
+      "author": "Fun_Average_3813",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1thz1ex/when_does_selfserve_ctv_model_stop_being_easy_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1thz1ex/when_does_selfserve_ctv_model_stop_being_easy_and/",
+      "created_utc": 1779221973.0,
+      "content": "I work for a DTC brand that started testing CTV with a pretty small monthly budget, because the self-serve platforms made it feel approachable compared to traditional TV buying. At first it was great: easy setup, fast creative testing, decent targeting, and enough reporting to justify continuing.\n\nNow that we are about to scale and leadership wants CTV treated like a serious growth channel, which is a problem bc we’re already running into questions around frequency control, overlapping audiences, incrementality, creative fatigue, inventory quality, and whether platform-reported performance is enough to make bigger spend decisions.\n\nFor those who have scaled self serve CTV beyond the initial test phase, did it get to a point where it felt limiting or were you able to scale?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "The-Big-Chungis",
+          "body": "It stops being easy the second leadership asks for “real growth channel” numbers off platform-reported conversions. Self-serve is fine for testing. Scaling without independent measurement is where you start lying to yourselves.",
+          "score": 1,
+          "created_utc": 1779222308.0
+        }
+      ]
     }
   ]
 }

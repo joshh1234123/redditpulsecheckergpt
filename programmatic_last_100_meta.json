@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sswsli",
-      "title": "Backend cost spikes are getting harder to explain than media variance",
-      "author": "Live_Wonder4645",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sswsli/backend_cost_spikes_are_getting_harder_to_explain/",
-      "created_utc": 1776888656.0,
-      "content": "We’ve had a few campaigns lately where performance gets noisier once spend ramps, even though the setup is basically the same. Starting to wonder how often the issue is the shared environment behind it and not the media itself. Also getting tired of usage-based costs spiking at the same time performance gets less predictable.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1st0xiy",
       "title": "Adweek: The Trade Desk Is Quietly Phasing Out Its Signature Periodic Table",
       "author": "goodgoaj",
@@ -1302,6 +1289,19 @@
       "created_utc": 1779214047.0,
       "content": "In dv 360 I’ve noticed the begin to render report: Do anyone care about it? If I run a report including “eligible begin to render” vs “begin to render” all is ok but what’s the difference vs imps?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1thz1ex",
+      "title": "When does self-serve CTV model stop being “easy” and start needing real media ops?",
+      "author": "Fun_Average_3813",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1thz1ex/when_does_selfserve_ctv_model_stop_being_easy_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1thz1ex/when_does_selfserve_ctv_model_stop_being_easy_and/",
+      "created_utc": 1779221973.0,
+      "content": "I work for a DTC brand that started testing CTV with a pretty small monthly budget, because the self-serve platforms made it feel approachable compared to traditional TV buying. At first it was great: easy setup, fast creative testing, decent targeting, and enough reporting to justify continuing.\n\nNow that we are about to scale and leadership wants CTV treated like a serious growth channel, which is a problem bc we’re already running into questions around frequency control, overlapping audiences, incrementality, creative fatigue, inventory quality, and whether platform-reported performance is enough to make bigger spend decisions.\n\nFor those who have scaled self serve CTV beyond the initial test phase, did it get to a point where it felt limiting or were you able to scale?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
