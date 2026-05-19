@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sste76",
-      "title": "Why are apps still monetised with generic banners?",
-      "author": "krecharles",
-      "score": 1,
-      "url": "https://www.reddit.com/gallery/1sste76",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sste76/why_are_apps_still_monetised_with_generic_banners/",
-      "created_utc": 1776881343.0,
-      "content": "I keep coming back to this and would love pushback from people who actually work in adtech.\n\nIn FotMob (example attached), I can see both extremes in the same app: a generic Freenow banner, and a much more integrated Betfair placement that fits the product surface and visual language. WeTransfer is another example of an app having direct relationships with advertisers.\n\nIs the reason most mobile ads still look generic simply that auctions scale and custom integrations do not? In other words, is better monetization trapped in direct sales because bespoke placements are operationally too painful to package and sell? Or are advertisers and buyers actually less interested in this than it appears from the outside? Am I oversimplifying something here? Happy to discuss in the comments. ",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ssugyz",
       "title": "For those on the Sales side - Sellercrowd",
       "author": "perry_190",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1thmm6j/anyone_have_experience_dv360_with_video_ads_on/",
       "created_utc": 1779196419.0,
       "content": "Is there anyway to run video ads on CNN via DV360 the main videos that take up most of the page when you watch it or is that only available working directly with CNN on a huge campaign?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1thrmjo",
+      "title": "What Publicis Is Really Buying for $2.2B: Notes on the LiveRamp Deal",
+      "author": "Double_Secretary9930",
+      "score": 8,
+      "url": "https://www.reddit.com/r/programmatic/comments/1thrmjo/what_publicis_is_really_buying_for_22b_notes_on/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1thrmjo/what_publicis_is_really_buying_for_22b_notes_on/",
+      "created_utc": 1779207050.0,
+      "content": "$2.2B for LiveRamp.  \nArthur Sadoun, Publicis' CEO, says it is about helping clients \"take back control of their data from the walled gardens.\"  \n  \nI read that line twice. Then I read it a third time. Still did not quite buy it.  \n  \nI did not think: wow, this changes everything.  \nI thought: does this really matter when advertising is already dominated by walled gardens?  \n  \nThe walled gardens own the login, the inventory, the auction, the optimization, and the measurement dashboard. One identity layer does not change that.  \nBuying LiveRamp is not how you take any of that back. It is how you build a stronger position in everything the walled gardens do not fully own.  \n  \nWhich is still worth a lot.  \nRetail media is $69B. CTV and commerce video together push past $140B. Clean rooms are how any of it gets measured in a privacy-constrained world.  \n  \nThat is the real story.  \n  \nNot \"Publicis vs. the walled gardens.\"  \nMore like \"Publicis getting smarter about everything outside them.\"  \nA smaller claim than the press release. Also a more believable one.\n\n  \nMy full post is [here](https://chandlernguyen.com/blog/2026/05/18/what-publicis-is-really-buying-for-2-2b-liveramp-deal/) in case you want to read more.  ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
