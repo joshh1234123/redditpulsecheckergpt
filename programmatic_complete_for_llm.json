@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-20T20:04:50.346575+00:00",
-    "total_posts": 1657,
-    "total_comments": 9734
+    "scrape_date": "2026-05-20T22:08:36.852668+00:00",
+    "total_posts": 1658,
+    "total_comments": 9738
   },
   "discussions": [
     {
@@ -82726,6 +82726,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tiz4nm",
+      "title": "Anyone interviewed for TTD Sales? Looking for Presentation Stage tips!",
+      "author": "Solid_Fun_6827",
+      "score": 2,
+      "url": "/r/interviews/comments/1tiz4e4/anyone_interviewed_for_ttd_sales_looking_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tiz4nm/anyone_interviewed_for_ttd_sales_looking_for/",
+      "created_utc": 1779311316.0,
+      "content": "",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "“Pitch me why OpenPath is the greatest thing since sliced bread”. ",
+          "score": 4,
+          "created_utc": 1779312234.0
+        },
+        {
+          "author": "Diligent_Interview98",
+          "body": "What are good “discovery” finding tips?",
+          "score": 1,
+          "created_utc": 1779314326.0
+        },
+        {
+          "author": "Adorable-Corner-5307",
+          "body": "What role? and what region?",
+          "score": 1,
+          "created_utc": 1779314457.0
+        },
+        {
+          "author": "Opposite-Rain9532",
+          "body": "“Tell me about a time you posted sanctimonious bullshit on LinkedIn about the solutions you sell?”",
+          "score": 1,
+          "created_utc": 1779312341.0
+        }
+      ]
     }
   ]
 }
