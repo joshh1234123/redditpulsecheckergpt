@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-20T17:37:16.722528+00:00",
-    "total_posts": 1656,
+    "scrape_date": "2026-05-20T20:04:50.346575+00:00",
+    "total_posts": 1657,
     "total_comments": 9734
   },
   "discussions": [
@@ -82712,6 +82712,20 @@
           "created_utc": 1779222308.0
         }
       ]
+    },
+    {
+      "id": "1tiuzo6",
+      "title": "TTD Interview Process",
+      "author": "Solid_Fun_6827",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tiuzo6/ttd_interview_process/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tiuzo6/ttd_interview_process/",
+      "created_utc": 1779302891.0,
+      "content": "Does anyone know how long it takes for TTD to get back to candidates with updates after the panel interviews? Asking for a sales-related position in NYC. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
