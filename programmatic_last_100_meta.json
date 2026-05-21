@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1st9gyd",
-      "title": "What does “good” look like for in app - programmatic ads in India?",
-      "author": "Separate_Run_1027",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1st9gyd/what_does_good_look_like_for_in_app_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1st9gyd/what_does_good_look_like_for_in_app_programmatic/",
-      "created_utc": 1776921547.0,
-      "content": "Hey folks,\n\nI’m trying to get a clearer sense of what “good” looks like for programmatic monetisation in Indian context — I am no where close to material i found online 80%+ fill rates, ₹20-50 eCPMs\n\n**Context:**\n\n* Consumer app with \\~90% users from metro cities in India\n* Current setup: AdX + InMobi (via SDK bidding) & Ad Mob\n* Core pipes are in place, now looking to optimise and scale\n\n**What I’m trying to understand:**\n\n* Benchmark ranges for CPMs, fill rates (by format if possible)\n* Format mix that’s working well in India (banner vs native, trying to avoid native as much as possible)\n* India-specific nuances (DSPs worth adding, geo pricing differences, demand seasonality, etc.)\n* Practical optimisation levers beyond the basics (floor pricing strategies, mediation tweaks, etc.)\n* Any non-obvious wins that moved the needle for you\n\nIf you don't mind would love to connect for a brief conservation to understand what worked for you! Thanks in advance 🙌",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1stg2rv",
       "title": "UK programmatic revenue is inflated by optics, not real demand",
       "author": "TapMind",
@@ -1302,6 +1289,19 @@
       "created_utc": 1779311316.0,
       "content": "",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tjg0mv",
+      "title": "DV360 Campaign web line not serving, but app line does.",
+      "author": "DotNo4675",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjg0mv/dv360_campaign_web_line_not_serving_but_app_line/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjg0mv/dv360_campaign_web_line_not_serving_but_app_line/",
+      "created_utc": 1779358186.0,
+      "content": "Is anyone haveing problems in dv360 campaign web line? \n\nMy campaigns are swerving only in app line but not in web line. Existing campaigns web line also stop serving. Increasing CPM is not helping. ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

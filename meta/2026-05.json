@@ -1049,6 +1049,21 @@
       "link_flair_text": null,
       "thread_id": "1tiz4nm",
       "thread_path": "1tiz4nm.json"
+    },
+    {
+      "id": "1tjg0mv",
+      "title": "DV360 Campaign web line not serving, but app line does.",
+      "author": "DotNo4675",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjg0mv/dv360_campaign_web_line_not_serving_but_app_line/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjg0mv/dv360_campaign_web_line_not_serving_but_app_line/",
+      "created_utc": 1779358186.0,
+      "content": "Is anyone haveing problems in dv360 campaign web line? \n\nMy campaigns are swerving only in app line but not in web line. Existing campaigns web line also stop serving. Increasing CPM is not helping. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tjg0mv",
+      "thread_path": "1tjg0mv.json"
     }
   ]
 }
