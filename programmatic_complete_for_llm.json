@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-21T13:58:47.556385+00:00",
-    "total_posts": 1661,
+    "scrape_date": "2026-05-21T16:39:05.142981+00:00",
+    "total_posts": 1662,
     "total_comments": 9751
   },
   "discussions": [
@@ -82888,6 +82888,20 @@
           "created_utc": 1779367025.0
         }
       ]
+    },
+    {
+      "id": "1tjlpmu",
+      "title": "Why Ads Don’t Show on Your Website (And How to Fix It)",
+      "author": "Rebel_Oxide",
+      "score": 1,
+      "url": "/r/u_Rebel_Oxide/comments/1tjlpcc/why_ads_dont_show_on_your_website_and_how_to_fix/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjlpmu/why_ads_dont_show_on_your_website_and_how_to_fix/",
+      "created_utc": 1779372630.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
