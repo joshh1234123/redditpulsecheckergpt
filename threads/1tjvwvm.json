@@ -1,0 +1,16 @@
+{
+  "id": "1tjvwvm",
+  "thread_id": "1tjvwvm",
+  "title": "filtering inventory on Dv360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tjvwvm/filtering_inventory_on_dv360/",
+  "created_utc": 1779393246.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "magicwings",
+      "body": "What are you asking?\n\nYou can run a report by URL regardless of what filter you have (whitelist/blacklist).\n\nYou never need to run both a whitelist and blacklist at the same time.",
+      "score": 1,
+      "created_utc": 1779393717.0
+    }
+  ]
+}

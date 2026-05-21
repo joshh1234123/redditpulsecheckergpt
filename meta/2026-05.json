@@ -1124,6 +1124,21 @@
       "link_flair_text": null,
       "thread_id": "1tjtojk",
       "thread_path": "1tjtojk.json"
+    },
+    {
+      "id": "1tjvwvm",
+      "title": "filtering inventory on Dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjvwvm/filtering_inventory_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjvwvm/filtering_inventory_on_dv360/",
+      "created_utc": 1779393246.0,
+      "content": "IF I add a whitelist is possible that in the export I see minr delivery also in extra list? wuld be wrt to aply at the same time a blacklist? is it worth?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tjvwvm",
+      "thread_path": "1tjvwvm.json"
     }
   ]
 }

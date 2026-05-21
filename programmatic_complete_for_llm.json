@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-21T18:55:44.853021+00:00",
-    "total_posts": 1663,
-    "total_comments": 9751
+    "scrape_date": "2026-05-21T20:48:12.491377+00:00",
+    "total_posts": 1664,
+    "total_comments": 9752
   },
   "discussions": [
     {
@@ -82916,6 +82916,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tjvwvm",
+      "title": "filtering inventory on Dv360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjvwvm/filtering_inventory_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjvwvm/filtering_inventory_on_dv360/",
+      "created_utc": 1779393246.0,
+      "content": "IF I add a whitelist is possible that in the export I see minr delivery also in extra list? wuld be wrt to aply at the same time a blacklist? is it worth?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "magicwings",
+          "body": "What are you asking?\n\nYou can run a report by URL regardless of what filter you have (whitelist/blacklist).\n\nYou never need to run both a whitelist and blacklist at the same time.",
+          "score": 1,
+          "created_utc": 1779393717.0
+        }
+      ]
     }
   ]
 }
