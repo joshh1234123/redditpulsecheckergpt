@@ -1,0 +1,58 @@
+{
+  "id": "1tji78o",
+  "thread_id": "1tji78o",
+  "title": "How to attribute CTV's role in the overall paid media mix",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
+  "created_utc": 1779364507.0,
+  "num_comments": 8,
+  "comments": [
+    {
+      "author": "InevitableImpress850",
+      "body": "Model CTV with adstock/lag, not immediate conversion credit. The signals I’d trust: branded search lift, direct traffic quality, pipeline from exposed geos/accounts, reduced blended CAC, and improved conversion rates in retargeting/search.",
+      "score": 3,
+      "created_utc": 1779364998.0
+    },
+    {
+      "author": "fave_slinger",
+      "body": "CTV’s job usually isn’t conversion capture, it’s demand creation. I’d judge it on incremental lift. MMM helps, but geo holdouts, time-based lift tests, and CRM-assisted view-through trends are often the cleanest signals.",
+      "score": 2,
+      "created_utc": 1779367386.0
+    },
+    {
+      "author": "Spirited-Alps6604",
+      "body": "Treat CTV like a demand creation channel, not a conversion channel. In MMM, I’d judge it by incrementality, lagged impact, and whether it improves lower-funnel efficiency over time. Don’t trust platform ROAS much. Trust clean tests and directional consistency.",
+      "score": 1,
+      "created_utc": 1779364788.0
+    },
+    {
+      "author": "elchapoguzman",
+      "body": "It’s eating up your organic",
+      "score": 1,
+      "created_utc": 1779369203.0
+    },
+    {
+      "author": "Dense_Preparation594",
+      "body": "IMO the biggest mistake is forcing CTV into the same attribution framework as paid search. It behaves more like a demand multiplier than a conversion channel. We had better luck building a CTV influence score using branded search lift, return visitor growth, higher demo completion rates, and shorter sales cycles after campaign bursts. Also noticed self-reported attribution shifted upward during high-impression weeks.",
+      "score": 1,
+      "created_utc": 1779370916.0
+    },
+    {
+      "author": "Far_Argument5470",
+      "body": "The lag piece is probably what we’re under-accounting for. We’re seeing branded search and direct move after spend ramps, but the credit still gets claimed elsewhere. Looking at exposed geos/accounts and blended CAC feels like a cleaner way to defend it.",
+      "score": 3,
+      "created_utc": 1779365231.0
+    },
+    {
+      "author": "Far_Argument5470",
+      "body": "CTV clearly isn’t going to show up cleanly in the same way search does, but it still gets pulled into that comparison. I’m trying to move the conversation more toward lift and downstream efficiency.",
+      "score": 1,
+      "created_utc": 1779365183.0
+    },
+    {
+      "author": "jakebarnett-day1data",
+      "body": "An MMM needs to be run on one single KPI so to get the full effect you'd need to run lots of models, whereas a causal impact test (or any incrementality test) could factor in proxy metrics for other KPIs i.e. increased traffic to site, google trends, social mentions etc.",
+      "score": 1,
+      "created_utc": 1779368173.0
+    }
+  ]
+}

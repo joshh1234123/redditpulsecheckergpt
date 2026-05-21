@@ -1064,6 +1064,36 @@
       "link_flair_text": null,
       "thread_id": "1tjg0mv",
       "thread_path": "1tjg0mv.json"
+    },
+    {
+      "id": "1tji78o",
+      "title": "How to attribute CTV's role in the overall paid media mix",
+      "author": "Far_Argument5470",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
+      "created_utc": 1779364507.0,
+      "content": "I'm working for a $20M ARR b2b SaaS and CTV is now 20-25% of our paid mix.\n\nWe're well past testing and are now trying to figure what role it should play in the ful paid mix as we scale. We’re seeing the expected signs: branded search lift, more direct/dark traffic, etc, but the signals are showing up downstream. Credit still collapses into last-touch search/direct, and as usual, each platform is overclaiming.\n\nIn a mix model, how do you judge CTV's contribution relative to lower-funnel channels and if any, what signals do you trust for when CTV is showing up indirectly?",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tji78o",
+      "thread_path": "1tji78o.json"
+    },
+    {
+      "id": "1tjiask",
+      "title": "How to guarantee PMP delivery",
+      "author": "FreeDirt8386",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
+      "created_utc": 1779364769.0,
+      "content": "Before you answer just do a PG, bare with me.  \nWe’re finding agencies want the freedom and variety of PMP but the certainty of PGs. Is there a way we can set PMPs up that can guarantee delivery? Is there a hack like a dual deal on a SSP? Any ideas are welcomed. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tjiask",
+      "thread_path": "1tjiask.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-21T10:34:50.369484+00:00",
-    "total_posts": 1659,
-    "total_comments": 9739
+    "scrape_date": "2026-05-21T13:58:47.556385+00:00",
+    "total_posts": 1661,
+    "total_comments": 9751
   },
   "discussions": [
     {
@@ -82784,6 +82784,108 @@
           "body": "Creative dimension? Did you check that?",
           "score": 1,
           "created_utc": 1779359667.0
+        }
+      ]
+    },
+    {
+      "id": "1tji78o",
+      "title": "How to attribute CTV's role in the overall paid media mix",
+      "author": "Far_Argument5470",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
+      "created_utc": 1779364507.0,
+      "content": "I'm working for a $20M ARR b2b SaaS and CTV is now 20-25% of our paid mix.\n\nWe're well past testing and are now trying to figure what role it should play in the ful paid mix as we scale. We’re seeing the expected signs: branded search lift, more direct/dark traffic, etc, but the signals are showing up downstream. Credit still collapses into last-touch search/direct, and as usual, each platform is overclaiming.\n\nIn a mix model, how do you judge CTV's contribution relative to lower-funnel channels and if any, what signals do you trust for when CTV is showing up indirectly?",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "InevitableImpress850",
+          "body": "Model CTV with adstock/lag, not immediate conversion credit. The signals I’d trust: branded search lift, direct traffic quality, pipeline from exposed geos/accounts, reduced blended CAC, and improved conversion rates in retargeting/search.",
+          "score": 3,
+          "created_utc": 1779364998.0
+        },
+        {
+          "author": "fave_slinger",
+          "body": "CTV’s job usually isn’t conversion capture, it’s demand creation. I’d judge it on incremental lift. MMM helps, but geo holdouts, time-based lift tests, and CRM-assisted view-through trends are often the cleanest signals.",
+          "score": 2,
+          "created_utc": 1779367386.0
+        },
+        {
+          "author": "Spirited-Alps6604",
+          "body": "Treat CTV like a demand creation channel, not a conversion channel. In MMM, I’d judge it by incrementality, lagged impact, and whether it improves lower-funnel efficiency over time. Don’t trust platform ROAS much. Trust clean tests and directional consistency.",
+          "score": 1,
+          "created_utc": 1779364788.0
+        },
+        {
+          "author": "elchapoguzman",
+          "body": "It’s eating up your organic",
+          "score": 1,
+          "created_utc": 1779369203.0
+        },
+        {
+          "author": "Dense_Preparation594",
+          "body": "IMO the biggest mistake is forcing CTV into the same attribution framework as paid search. It behaves more like a demand multiplier than a conversion channel. We had better luck building a CTV influence score using branded search lift, return visitor growth, higher demo completion rates, and shorter sales cycles after campaign bursts. Also noticed self-reported attribution shifted upward during high-impression weeks.",
+          "score": 1,
+          "created_utc": 1779370916.0
+        },
+        {
+          "author": "Far_Argument5470",
+          "body": "The lag piece is probably what we’re under-accounting for. We’re seeing branded search and direct move after spend ramps, but the credit still gets claimed elsewhere. Looking at exposed geos/accounts and blended CAC feels like a cleaner way to defend it.",
+          "score": 3,
+          "created_utc": 1779365231.0
+        },
+        {
+          "author": "Far_Argument5470",
+          "body": "CTV clearly isn’t going to show up cleanly in the same way search does, but it still gets pulled into that comparison. I’m trying to move the conversation more toward lift and downstream efficiency.",
+          "score": 1,
+          "created_utc": 1779365183.0
+        },
+        {
+          "author": "jakebarnett-day1data",
+          "body": "An MMM needs to be run on one single KPI so to get the full effect you'd need to run lots of models, whereas a causal impact test (or any incrementality test) could factor in proxy metrics for other KPIs i.e. increased traffic to site, google trends, social mentions etc.",
+          "score": 1,
+          "created_utc": 1779368173.0
+        }
+      ]
+    },
+    {
+      "id": "1tjiask",
+      "title": "How to guarantee PMP delivery",
+      "author": "FreeDirt8386",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
+      "created_utc": 1779364769.0,
+      "content": "Before you answer just do a PG, bare with me.  \nWe’re finding agencies want the freedom and variety of PMP but the certainty of PGs. Is there a way we can set PMPs up that can guarantee delivery? Is there a hack like a dual deal on a SSP? Any ideas are welcomed. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Google as manager lets you set priority level for pmps now. Fairly recent update. It still won’t be like a oh but it’s something. Other than that buyer needs to drop some targeting since they are likely filtered majority of impressions.",
+          "score": 2,
+          "created_utc": 1779365368.0
+        },
+        {
+          "author": "rgm-na",
+          "body": "No. There are literally hundreds of reasons why a PMP may not scale. That’s fundamentally why PG exists in the first place - because you cannot guarantee delivery against a PMP.\n\nThere are no magic hacks here. You have to continuously tweak and optimize settings to improve delivery over time.",
+          "score": 2,
+          "created_utc": 1779365417.0
+        },
+        {
+          "author": "PatternEmbarrassed89",
+          "body": "Make nice with the publisher and try and get a preferred deal! ",
+          "score": 1,
+          "created_utc": 1779365484.0
+        },
+        {
+          "author": "masonstorm20",
+          "body": "It was said already but reiterating that the buyer needs to drop and be more transparent about targeting. Ive set up thousands of PMPs at publishers and too many times I had the agency say they weren’t targeting anything but ended up having various layers of 3rd party data, weird size configurations, plus blanket brand safety filtering on. Convinced one to screen share their DV360 setup early in my journey and called this out in real time so I never stopped asking “are you sure about that?” If I can see I’m sending millions of requests a day but 99% are filtered out, it’s not a tough tell and most SSPs should give them potential reasons for why something is filtered. Publishers also need to be transparent about what they have, communication is key.\n\nIf you want a specific audience think about asking the Publisher for their 1P capabilities. Many wont be able to address an advertiser’s email derived audience beyond a  a \\~30% match (some outliers) and layering makes it worse, but they can address more of their own audience with behavioral or contextual targeting. If you need a specific audience that is 3P to them, be clear on what it is and maybe they can apply the same or similar one on their end via a marketplace they have access to or you can send it to their ad server so they can forecast against it. This includes brand safety, all reputable pubs have DV or IAS but if you aren’t transparent about your settings it can inadvertently filter out fine traffic. ",
+          "score": 1,
+          "created_utc": 1779367025.0
         }
       ]
     }
