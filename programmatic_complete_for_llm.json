@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-21T16:39:05.142981+00:00",
-    "total_posts": 1662,
+    "scrape_date": "2026-05-21T18:55:44.853021+00:00",
+    "total_posts": 1663,
     "total_comments": 9751
   },
   "discussions": [
@@ -82897,6 +82897,20 @@
       "url": "/r/u_Rebel_Oxide/comments/1tjlpcc/why_ads_dont_show_on_your_website_and_how_to_fix/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tjlpmu/why_ads_dont_show_on_your_website_and_how_to_fix/",
       "created_utc": 1779372630.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tjtojk",
+      "title": "Independent Ad Server",
+      "author": "Less-Selection1127",
+      "score": 1,
+      "url": "/r/adops/comments/1tjtocn/independent_ad_server/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjtojk/independent_ad_server/",
+      "created_utc": 1779388689.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
