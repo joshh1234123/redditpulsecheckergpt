@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sulleq",
-      "title": "AI breaks the typical career path - Survey",
-      "author": "cha_0_s",
-      "score": 1,
-      "url": "/r/Productivitycafe/comments/1suk5n2/ai_breaks_the_typical_career_path_survey/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sulleq/ai_breaks_the_typical_career_path_survey/",
-      "created_utc": 1777050126.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sum0q8",
-      "title": "How are you actually feeding unified first-party data into your programmatic campaigns for better ROAS?",
-      "author": "robyromana",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sum0q8/how_are_you_actually_feeding_unified_firstparty/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sum0q8/how_are_you_actually_feeding_unified_firstparty/",
-      "created_utc": 1777051046.0,
-      "content": "I run a DTC wellness brand and we spend a decent chunk on programmatic (mostly through DV360 and The Trade Desk). For the longest time our audience segments were pretty basic, mostly relying on third-party data and broad demographics. The performance has been okay but nothing spectacular, and with third-party cookies going away I knew we had to get smarter with our own data.\n\nI’m still early in the process and trying to figure out the most effective way to activate this data. How are you guys approaching this in 2026? Are you building custom segments in the CDP and syncing them via API, using lookalike modeling, or doing something else entirely? What’s actually moved the needle for you on ROAS or CPA when layering first-party data into programmatic?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sumaer",
       "title": "Media planning in programmatic advertising",
       "author": "TheGrandLeveler",
@@ -1302,6 +1276,32 @@
       "created_utc": 1779393246.0,
       "content": "IF I add a whitelist is possible that in the export I see minr delivery also in extra list? wuld be wrt to aply at the same time a blacklist? is it worth?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tkkq3t",
+      "title": "Seriously what is going on with TTD’s KOKAI?",
+      "author": "EstateTerrible4807",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tkkq3t/seriously_what_is_going_on_with_ttds_kokai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkkq3t/seriously_what_is_going_on_with_ttds_kokai/",
+      "created_utc": 1779460288.0,
+      "content": "Why do i have to go to an entirely different portal called deal desk which doesn’t even redirect through Kokai just to setup my deal. When you click on the deal, it doesn’t display any details like it used to do in solimar except deal ID and name. Who the fck is designing and running these systems.\n\nWhen you select the deal and add it to the adgroup, why the hell does it call it endeavour? What a load of absolute horse shit!! Why does it then lead to the deal after clicking on it. Couldn’t they directly just add the deal?\n\nNext, what’s wrong with the audience builder? Those segments that show up in the new beta one doesn’t show up in the older one and vice versa.\n\nOn top of this they have the gaul to influence out buys by applying pressure tactics. Low key wish they screw up and wind down the company.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tkkr9w",
+      "title": "Jounce’s Managed Wrapper",
+      "author": "Sharp-Cress-7595",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tkkr9w/jounces_managed_wrapper/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkkr9w/jounces_managed_wrapper/",
+      "created_utc": 1779460359.0,
+      "content": "Just watched the May webinar and I’m confused on how a buyer should be viewing Managed Wrappers. It feels like there are two components:\n\n\\- the technical solve: allows these partners to be considered in the bid stream by DSPs as a “pub direct” partner (since chain of payment is changing)\n\n\\- SChain transparency: doesn’t the above change completely negate the technical “solve”?\n\nThis just feels like a rebroadcasting rebrand.  ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

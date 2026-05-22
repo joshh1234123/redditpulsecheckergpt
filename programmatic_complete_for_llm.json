@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-22T12:37:46.948446+00:00",
-    "total_posts": 1664,
-    "total_comments": 9752
+    "scrape_date": "2026-05-22T15:45:37.889930+00:00",
+    "total_posts": 1666,
+    "total_comments": 9757
   },
   "discussions": [
     {
@@ -82937,6 +82937,65 @@
           "created_utc": 1779393717.0
         }
       ]
+    },
+    {
+      "id": "1tkkq3t",
+      "title": "Seriously what is going on with TTD’s KOKAI?",
+      "author": "EstateTerrible4807",
+      "score": 10,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tkkq3t/seriously_what_is_going_on_with_ttds_kokai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkkq3t/seriously_what_is_going_on_with_ttds_kokai/",
+      "created_utc": 1779460288.0,
+      "content": "Why do i have to go to an entirely different portal called deal desk which doesn’t even redirect through Kokai just to setup my deal. When you click on the deal, it doesn’t display any details like it used to do in solimar except deal ID and name. Who the fck is designing and running these systems.\n\nWhen you select the deal and add it to the adgroup, why the hell does it call it endeavour? What a load of absolute horse shit!! Why does it then lead to the deal after clicking on it. Couldn’t they directly just add the deal?\n\nNext, what’s wrong with the audience builder? Those segments that show up in the new beta one doesn’t show up in the older one and vice versa.\n\nOn top of this they have the gaul to influence out buys by applying pressure tactics. Low key wish they screw up and wind down the company.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "BarDown34",
+          "body": "Yes agreed Kokai is an absolute abomination of a design. Totally unnecessary redesign IMO. Takes a bit to get used to the bizarre navigation. \n\nI totally understand your frustrations - I basically went thru the same shit. Talk to your TTD reps and send feedback - from my experience they are actually pretty good at wanting to understand user frustration & feedback and they do tend to make adjustments to the platform regularly ",
+          "score": 7,
+          "created_utc": 1779460973.0
+        },
+        {
+          "author": "SevereAddition8147",
+          "body": "New audience builder is a failure. And that’s on the heals of kokai in general being complicated where solimar was simple. \n\nI don’t even look at ad group set up in kokai. Just go back to solimar and click on the 5 ish rails I have",
+          "score": 4,
+          "created_utc": 1779462841.0
+        },
+        {
+          "author": "MicroSofty88",
+          "body": "The overall thesis of the update makes sense (focusing buys around 1P data), but they really jumped the shark with the UI and names.",
+          "score": 2,
+          "created_utc": 1779462957.0
+        },
+        {
+          "author": "danie-l",
+          "body": "Design for profit… TTD profit. A lot of clients do not care about those details ",
+          "score": 2,
+          "created_utc": 1779463156.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "Valid crashout, been there a few weeks ago when I was setting up some adgroups. Things that supposed to take 5min took me 15+ so many unnecessary step.\nAlso if I remember correctly our rep said they are planning to discontinue solimar before aug :) so yes misery continues.",
+          "score": 1,
+          "created_utc": 1779464325.0
+        }
+      ]
+    },
+    {
+      "id": "1tkkr9w",
+      "title": "Jounce’s Managed Wrapper",
+      "author": "Sharp-Cress-7595",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tkkr9w/jounces_managed_wrapper/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkkr9w/jounces_managed_wrapper/",
+      "created_utc": 1779460359.0,
+      "content": "Just watched the May webinar and I’m confused on how a buyer should be viewing Managed Wrappers. It feels like there are two components:\n\n\\- the technical solve: allows these partners to be considered in the bid stream by DSPs as a “pub direct” partner (since chain of payment is changing)\n\n\\- SChain transparency: doesn’t the above change completely negate the technical “solve”?\n\nThis just feels like a rebroadcasting rebrand.  ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
