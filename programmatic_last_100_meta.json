@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sungun",
-      "title": "scaling CTV is kind of a mess..how are you guys handling it?",
-      "author": "Asleep-Comparison782",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sungun/scaling_ctv_is_kind_of_a_messhow_are_you_guys/",
-      "created_utc": 1777054169.0,
-      "content": "I'm on the growth team for a multi-location brand and CTV has become a pretty big spend for us. The reach is great but everything around it feels slow. multiple regions, new creatives all the time, different audiences reporting takes forever and even small tweaks feel like they drag. \n\nWe started testing more on self-serve platforms just to move faster, been trying stuff like Vibe and Adwave for smaller tests before putting real budget behind it, but now I'm not even sure where this breaks like do you eventually have to go back to the bigger DSPs like StackAdapt or MNTN once things scale, or have you guys actually made the lighter tools work long term without it turning into another ops mess?\n\n\n\n",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1svjr42",
       "title": "DSP platform looking for experience Adtech",
       "author": "Beneficial_Alps2605",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tknawl/explore_your_websites_earning_potential_with_the/",
       "created_utc": 1779465723.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tkscyw",
+      "title": "+25.9% overall CPM growth in April, but the recovery still looks uneven underneath",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tkscyw/259_overall_cpm_growth_in_april_but_the_recovery/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkscyw/259_overall_cpm_growth_in_april_but_the_recovery/",
+      "created_utc": 1779476223.0,
+      "content": "While the headline numbers point to a strong rebound, the deeper market signals are a lot more selective.  \nWhen we broke the data down, a few patterns stood out:  \n• Mobile CPMs surged +51.6% YoY, even with ongoing quality concerns around passive traffic  \n• Display inventory continues pulling spend away from video as buyers lean toward more cost-efficient formats  \n• CTV CPMs fell -25.8% YoY as oversupply pressure keeps building across streaming inventory  \n• AdX and premium supply paths continue gaining momentum while some legacy integrations lose share  \n• Buyers seem increasingly focused on cleaner inventory, stronger signals, and more transparent auction paths  \n• Open-web demand is recovering, but not evenly across every format or device category  \nNet-net: CPM recovery is happening, but it’s becoming much more quality-driven underneath.  \nScale alone doesn’t seem to be enough anymore. Inventory efficiency, signal quality, and supply-path trust are starting to matter a lot more in how budgets are being distributed.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
