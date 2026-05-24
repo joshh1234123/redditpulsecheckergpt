@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sx5d2p",
-      "title": "Anyone Hear of Asellus a Sports CTV Company",
-      "author": "Impossible_Solid_887",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sx5d2p/anyone_hear_of_asellus_a_sports_ctv_company/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sx5d2p/anyone_hear_of_asellus_a_sports_ctv_company/",
-      "created_utc": 1777300148.0,
-      "content": "Hey everyone. \n\nHas anyone heard of a company called Asellus. They’re telling the market that they have access to all these below events and selling them to major companies at premium rates.  Can the industry please confirm? Are the networks making this valuable inventory available to this reseller?\n\n\\* NBA\n\n\\* NBA Playoffs\n\n\\* NBA Finals\n\n\\* NBA All-Star Game\n\n\\* NFL Preseason\n\n\\* NFL Regular Season (RON / Team Specific / Pre Game consolidated)\n\n\\* NFL Playoffs\n\n\\* NFL Super Bowl (incl. Pre-Game)\n\n\\* NFL Pro Bowl\n\n\\* NFL Draft\n\n\\* MLB\n\n\\* MLB All-Star Game\n\n\\* MLB Playoffs\n\n\\* MLB World Series\n\n\\* Little League World Series Tournament\n\n\\* Women’s College World Series\n\n\\* NHL\n\n\\* NHL All-Star Game\n\n\\* NHL Playoffs\n\n\\* NHL Stanley Cup Finals\n\n\\* NCAA College Basketball\n\n\\* NCAA Men’s March Madness (all rounds consolidated)\n\n\\* NCAA Women’s March Madness\n\n\\* WNBA\n\n\\* NCAA College Football\n\n\\* NCAA College Football (Pre/Post/Live consolidated)\n\n\\* NCAA Bowl & Playoff Games\n\n\\* NCAA National Championship Game\n\n\\* US Open Tennis\n\n\\* Wimbledon\n\n\\* Tennis (RON)\n\n\\* US Open Golf\n\n\\* The Masters\n\n\\* Ryder Cup\n\n\\* PGA Tour Events\n\n\\* Golf (RON)\n\n\\* Kentucky Derby\n\n\\* NASCAR / Formula 1\n\n\\* Soccer (Premier League / MLS / NWSL)\n\n\\* FIFA World Cup\n\n\\* FIFA World Cup Finals\n\n\\* UFC",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sxibgz",
       "title": "In the US what % of premium CTV is traded NG",
       "author": "tmanto02",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
       "created_utc": 1779595186.0,
       "content": "Hi community, has anyone used the TTD api to load campaign performance data to a cloud database automatically? It seems that the API is a paid service to even enable it for our seat :(. We’re hoping to create an internal AI tooling to improve cross channel campaign management efficiency and TTD has not introduced its mcp yet (who knows if it will ever). So thinking through workaround here. I would greatly appreciate anyone’s advice if you’re working on or have experience with this or similar workflow. TIA!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tmkoz7",
+      "title": "How do you keep control of your open market sitelist",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
+      "created_utc": 1779648566.0,
+      "content": "How aften do you update it and avoid suitability issues? Also vs dv or ias?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-24T17:55:04.748655+00:00",
-    "total_posts": 1670,
+    "scrape_date": "2026-05-24T19:06:19.307348+00:00",
+    "total_posts": 1671,
     "total_comments": 9757
   },
   "discussions": [
@@ -83048,6 +83048,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
       "created_utc": 1779595186.0,
       "content": "Hi community, has anyone used the TTD api to load campaign performance data to a cloud database automatically? It seems that the API is a paid service to even enable it for our seat :(. We’re hoping to create an internal AI tooling to improve cross channel campaign management efficiency and TTD has not introduced its mcp yet (who knows if it will ever). So thinking through workaround here. I would greatly appreciate anyone’s advice if you’re working on or have experience with this or similar workflow. TIA!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tmkoz7",
+      "title": "How do you keep control of your open market sitelist",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
+      "created_utc": 1779648566.0,
+      "content": "How aften do you update it and avoid suitability issues? Also vs dv or ias?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
