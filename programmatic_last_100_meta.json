@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sx303l",
-      "title": "Big CTR in India, Egypt",
-      "author": "ConfidentArachnid744",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sx303l/big_ctr_in_india_egypt/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sx303l/big_ctr_in_india_egypt/",
-      "created_utc": 1777294864.0,
-      "content": "Hi folks!\n\nI’ve launched a Programmatic campaigns in DV360 to India, Egypt geo, just Display, Video and Audio.\n\nWhat is weird is abnormal CTR across all campaigns. Even though I’ve applied Doubleverify brand safety segment to exclude invalid traffic. I’ve also checked inventory and don’t see anything suspecious. It’s web only, Google ad exchange, no interstitial.\n\nIf someone faced the same issue, could you please share what is the reason of it?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sx5d2p",
       "title": "Anyone Hear of Asellus a Sports CTV Company",
       "author": "Impossible_Solid_887",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tltkjp/adfidence/",
       "created_utc": 1779573770.0,
       "content": "Any experience with this tool?  \nWhat’s monitoring?   \nI’ve seen also suitability… is this affordable?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tm1c1m",
+      "title": "Loading TTD performance data to BigQuery",
+      "author": "miniprogrammatic",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
+      "created_utc": 1779595186.0,
+      "content": "Hi community, has anyone used the TTD api to load campaign performance data to a cloud database automatically? It seems that the API is a paid service to even enable it for our seat :(. We’re hoping to create an internal AI tooling to improve cross channel campaign management efficiency and TTD has not introduced its mcp yet (who knows if it will ever). So thinking through workaround here. I would greatly appreciate anyone’s advice if you’re working on or have experience with this or similar workflow. TIA!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
