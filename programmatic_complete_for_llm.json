@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-25T14:40:21.413898+00:00",
-    "total_posts": 1672,
-    "total_comments": 9759
+    "scrape_date": "2026-05-25T17:01:42.027239+00:00",
+    "total_posts": 1673,
+    "total_comments": 9767
   },
   "discussions": [
     {
@@ -83091,6 +83091,69 @@
           "body": "I do know about Google ads and dv360. Also completed dv360 google certification as well. I don't see any hiring for freshers in this so I can join.",
           "score": 1,
           "created_utc": 1779706235.0
+        }
+      ]
+    },
+    {
+      "id": "1tn9r0w",
+      "title": "Can someone explain how Magnite DV+ is serving video impressions on pages with no video units?",
+      "author": "Enviromental1001",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tn9r0w/can_someone_explain_how_magnite_dv_is_serving/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tn9r0w/can_someone_explain_how_magnite_dv_is_serving/",
+      "created_utc": 1779716942.0,
+      "content": "**Interesting find: Magnite DV+ showing impressions on sites with zero video content — anyone else experience this?**\n\nRunning a general all-exchanges campaign for 15-second video ads on websites, above the fold. My goal is to identify the most popular news and tech sites in New Jersey, so I started pulling reporting and added Exchange Source as a dimension.\n\nWhat stood out: Magnite DV+ had by far the spammiest inventory in the report. Every other exchange — including Google and FreeWheel — returned quality placements where I could actually find video content on the page when I visited. But with Magnite, I had sites showing impressions with **zero reported video placements**. I personally visited 5+ of them — mostly text-based blogs — and scrolled through multiple pages without finding a single video unit. I even ran the URLs through Claude and Perplexity to do a quick content scan, and still found nothing. Yet I was charged for impressions.\n\nBy contrast, when FreeWheel or Google reported an impression and I visited the same site, video content was easy to find.\n\n\n\n**What I'm actually trying to accomplish:**\n\nI'm running broad all-exchange targeting intentionally, just to map what inventory exists regionally. The plan is to pull the top 100 performing sites over a week, build an inclusion list from that, and then tighten the campaign to target only those placements — narrowing reach geographically while improving quality.\n\n\n\nNot an expert in programmatic — just documenting what I'm seeing. Has anyone else noticed this with Magnite DV+? And more broadly, how does a platform record a video impression on a page that has no video player?",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "adtech2019",
+          "body": "It’s in-banner video. Almost every SSP is now taking a display impression and rebroadcasting it to DSPs as a video request. A random websites will end up having five in-banner video ads running simultaneously creating a shitty user experience. ",
+          "score": 6,
+          "created_utc": 1779718458.0
+        },
+        {
+          "author": "masonstorm20",
+          "body": "Are you simply targeting “video”? There are different flavors - Your DSP should have more granular targeting to select the plcmt type, familiarize yourself with it https://iabtechlab.com/demystifying-openrtb-video-plcmt-attributes/ \n\nCould be outstream, aka no content/standalone video, which renders a video ad within content typically where a display ad would be. It doesnt play before or during actual content so you may not see it on all pages. It can compete with display for the same spot. It *should* be cheaper than instream, which does play before or during content. If the inventory has low viewability and completion, it’s probably outstream since it can be scrolled away.\n\nMost sites dont have instream video content these days and if they do it is limited or heavily sold through. They will deploy outstream or “accompanying content” aka the players with a “recommended video” playlist that render and stick to the page as you scroll, often triggering a new ad every 30seconds to maximize video inventory. \n\nThis wouldn’t be limited to Magnite though. Ive set up pretty much any SSP you can think of to these types of inventory in my past and sites will deploy as many as they can at various price points.",
+          "score": 5,
+          "created_utc": 1779718512.0
+        },
+        {
+          "author": "PermissionPositive65",
+          "body": "If it is not a curated deal, its not necessary magnites fault. There are publishers/frauds who send wrong signals on purpose. A few years ago there was a similar casr where on open market ebay video inventory was sold. GroupM and other agencies spent alot through multiple of their entities until some activation managers noticed. If I remember correctly some advertisers even got their money back (not sure if from agency or ssp). In open market there is a high fraud risk. I recommend to use mainly a whitelist and only use a small fraction of your money on inventory discovery, if PMP is no option",
+          "score": 2,
+          "created_utc": 1779721194.0
+        },
+        {
+          "author": "bags_bags",
+          "body": "What sites? Best thing to do is QA those sites, and target away from them.",
+          "score": 1,
+          "created_utc": 1779724570.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Even if i select show on video content 5+ minutes long only?",
+          "score": 1,
+          "created_utc": 1779719141.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "I have out-stream unselected. I am do in-stream only pre and mid roll. 5+ minutes only videos",
+          "score": 1,
+          "created_utc": 1779719177.0
+        },
+        {
+          "author": "slippycrook",
+          "body": "Yes  \nIn Banner  video should be declared but historically publishers and arb companies have slapped on longer form content and called it in stream.\n\nYou can actually ask the dsp for some money back for this.\n\nTry to target larger size player, 480 on 640 pixels or more  \nAlso I strongly suggest to track viewability as this is another textbook pitfall.  \nAlso, none muted sound and click to play are nice quality targeting checkboxes that will probably kill scale but will get you the good stuff.\n\nI am not a fan of OLV for video unless you cherry pick the right deals.\n\nGo with CTV , OTT or interstitial video instead  \nOr buy outstream for way cheaper and track viewable impressions.",
+          "score": 3,
+          "created_utc": 1779721341.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "For now I am just messing with $50 a day on OLV just to see what happens. I already have active CTV with FreeWheel/Drax running with good results. Just never messed with OLV that much just interesting to see how much spam is out there. Im daily asking Claude to visit every website in the report and tell me what is spammy or thin content and excluding sites daily to narrow a list. So far that approach is working well.",
+          "score": 1,
+          "created_utc": 1779723080.0
         }
       ]
     }
