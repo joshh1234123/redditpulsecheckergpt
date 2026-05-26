@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1syqtpy",
-      "title": "DSP recommendations",
-      "author": "Ok-Disaster-6387",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1syqtpy/dsp_recommendations/",
-      "created_utc": 1777444648.0,
-      "content": "We have a few clients who are looking to move out of the DV360 ecosystem and onboard a new DSP.\n\nThe clients would like to use our supply & use a DSP which isn’t DV360.\n\nClients do not want to commit to TTD as their minimums are much higher. ",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1syrykn",
       "title": "Where SSP migrations actually fail in the first 30 days",
       "author": "sevioadmanager",
@@ -1302,6 +1289,19 @@
       "created_utc": 1779808900.0,
       "content": "Hello! Director level worker with 13 years media experience at agencies and ad tech companies, seeking contract/temp work while I find the right opportunity ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tof1st",
+      "title": "How to scale peptide business via DSP?",
+      "author": "Realistic-Focus-8254",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tof1st/how_to_scale_peptide_business_via_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tof1st/how_to_scale_peptide_business_via_dsp/",
+      "created_utc": 1779818844.0,
+      "content": "Anyone have any luck/success running programmatic ads for a peptide business? Our clients are doing fairly well on one platform and are looking for ways to scale quickly.\n\nProblem is that we've failed to get them whitelisted on several DSPs including StackAdapt and Criteo. Currently running their ads on The Trade Desk and haven't run into any compliance issues so far. Any potential avenues we can explore for Display? ",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

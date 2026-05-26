@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-26T17:41:23.675832+00:00",
-    "total_posts": 1677,
-    "total_comments": 9774
+    "scrape_date": "2026-05-26T20:00:21.679314+00:00",
+    "total_posts": 1678,
+    "total_comments": 9777
   },
   "discussions": [
     {
@@ -83256,6 +83256,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tof1st",
+      "title": "How to scale peptide business via DSP?",
+      "author": "Realistic-Focus-8254",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tof1st/how_to_scale_peptide_business_via_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tof1st/how_to_scale_peptide_business_via_dsp/",
+      "created_utc": 1779818844.0,
+      "content": "Anyone have any luck/success running programmatic ads for a peptide business? Our clients are doing fairly well on one platform and are looking for ways to scale quickly.\n\nProblem is that we've failed to get them whitelisted on several DSPs including StackAdapt and Criteo. Currently running their ads on The Trade Desk and haven't run into any compliance issues so far. Any potential avenues we can explore for Display? ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "kapt_so_krunchy",
+          "body": "CTV point solutions usually will take on clients in that grey area. ",
+          "score": 1,
+          "created_utc": 1779823713.0
+        },
+        {
+          "author": "Realistic-Focus-8254",
+          "body": "Not sure how that'll help scale from a performance pov",
+          "score": 1,
+          "created_utc": 1779823783.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "It would be a new audience, potentially, in the short term, that maybe you’re not reaching now. \n\nReddit also seems to be a place where peptide vendors seem to be running ads.\n\n",
+          "score": 1,
+          "created_utc": 1779823994.0
+        }
+      ]
     }
   ]
 }
