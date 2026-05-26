@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-26T07:39:24.298074+00:00",
-    "total_posts": 1673,
-    "total_comments": 9767
+    "scrape_date": "2026-05-26T14:12:29.606646+00:00",
+    "total_posts": 1676,
+    "total_comments": 9774
   },
   "discussions": [
     {
@@ -83156,6 +83156,92 @@
           "created_utc": 1779723080.0
         }
       ]
+    },
+    {
+      "id": "1to38c9",
+      "title": "Anyone heard of or work with Panxo.ai?",
+      "author": "TinasOwner23",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "created_utc": 1779792336.0,
+      "content": "Trying to understand what results look like. Thanks.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Few-Orchid-9804",
+          "body": "Nope",
+          "score": 3,
+          "created_utc": 1779793363.0
+        },
+        {
+          "author": "copper678",
+          "body": "Never heard of them. ",
+          "score": 3,
+          "created_utc": 1779794931.0
+        }
+      ]
+    },
+    {
+      "id": "1to5d1u",
+      "title": "Has anyone here worked with a good CTV agency recently?",
+      "author": "Warm-Researcher-6884",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "created_utc": 1779798233.0,
+      "content": "We’re looking for something more regional-focused instead of one of the huge enterprise vendors. Most of the big platforms we talked to felt super bloated for what we actually need.\n\nA colleague mentioned Q1Media because apparently, and I quote: \"they’re pretty strong with localized targeting and streaming inventory,\" but I honestly don’t know much about them yet. Has anyone had experience with them? \n\nWould love recommendations from people who’ve actually run campaigns with them.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ladipn",
+          "body": "Is geotargeting more than you need?\n\nOr you only want to buy on local stations? ",
+          "score": 1,
+          "created_utc": 1779799120.0
+        },
+        {
+          "author": "rgm-na",
+          "body": "strategus",
+          "score": 1,
+          "created_utc": 1779799290.0
+        },
+        {
+          "author": "johnnyhugo69",
+          "body": "SearchKings",
+          "score": 1,
+          "created_utc": 1779804212.0
+        },
+        {
+          "author": "lafromnyc",
+          "body": "Why? You can work directly with the DSPs who offer managed services.\nTheir fees might be lower than working with an agency.\n\nAlso I imagine you are a mid sized company so your budgets are relative to that. Meaning don’t expect high quality inventory. Your ads will show up on low quality inventory full stop.\n\nAnd you may not get the level of transparency you might be expecting in terms where your ads showed up.\n\nAlso what’s the reason for doing CTV? What are your goals? Don’t do it bc it’s the hot thing and everyone else is doing it.\n\nHave the right expectations of it, it’s still an upper funnel awareness tactic like good old regular TV despite what you read online and on Linked In.\n\nYou should be maximizing your other channels first and have the right measurement framework instead of using platform reported last touch.\n\nYou may not be able to afford an MMM but you still need to understand that CTV doesn’t drive immediate sales bc you cannot measure it like other platforms like paid search and paid social aka people clicking on the ads.\n\nIt still acts like regular linear tv in terms of consumer behavior.\n\nWith the budgets you probably have your ads will be showing up against long tailed inventory that your target customers will most likely never see.\n\nDon’t be fooled ",
+          "score": 1,
+          "created_utc": 1779799082.0
+        },
+        {
+          "author": "lafromnyc",
+          "body": "Why? You can work directly with the DSPs who offer managed services.\nTheir fees might be lower than working with an agency.\n\nAlso I imagine you are a mid sized company so your budgets are relative to that. Meaning don’t expect high quality inventory. Your ads will show up on low quality inventory full stop.\n\nAnd you may not get the level of transparency you might be expecting in terms where your ads showed up.\n\nAlso what’s the reason for doing CTV? What are your goals? Don’t do it bc it’s the hot thing and everyone else is doing it.\n\nHave the right expectations of it, it’s still an upper funnel awareness tactic like good old regular TV despite what you read online and on Linked In.\n\nYou should be maximizing your other channels first and have the right measurement framework instead of using platform reported last touch.\n\nYou may not be able to afford an MMM but you still need to understand that CTV doesn’t drive immediate sales bc you cannot measure it like other platforms like paid search and paid social aka people clicking on the ads.\n\nIt still acts like regular linear tv in terms of consumer behavior.\n\nWith the budgets you probably have your ads will be showing up against tailed inventory that your target customers will most likely never see.\n \n",
+          "score": 0,
+          "created_utc": 1779799250.0
+        }
+      ]
+    },
+    {
+      "id": "1to6dwa",
+      "title": "AdTech hiring right now: a few patterns from ~1.5k jobs",
+      "author": "AdTechBuilder",
+      "score": 1,
+      "url": "/r/adtech/comments/1to6ddq/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to6dwa/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "created_utc": 1779800762.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

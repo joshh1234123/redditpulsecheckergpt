@@ -1274,6 +1274,51 @@
       "link_flair_text": null,
       "thread_id": "1tn9r0w",
       "thread_path": "1tn9r0w.json"
+    },
+    {
+      "id": "1to38c9",
+      "title": "Anyone heard of or work with Panxo.ai?",
+      "author": "TinasOwner23",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "created_utc": 1779792336.0,
+      "content": "Trying to understand what results look like. Thanks.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1to38c9",
+      "thread_path": "1to38c9.json"
+    },
+    {
+      "id": "1to5d1u",
+      "title": "Has anyone here worked with a good CTV agency recently?",
+      "author": "Warm-Researcher-6884",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "created_utc": 1779798233.0,
+      "content": "We’re looking for something more regional-focused instead of one of the huge enterprise vendors. Most of the big platforms we talked to felt super bloated for what we actually need.\n\nA colleague mentioned Q1Media because apparently, and I quote: \"they’re pretty strong with localized targeting and streaming inventory,\" but I honestly don’t know much about them yet. Has anyone had experience with them? \n\nWould love recommendations from people who’ve actually run campaigns with them.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1to5d1u",
+      "thread_path": "1to5d1u.json"
+    },
+    {
+      "id": "1to6dwa",
+      "title": "AdTech hiring right now: a few patterns from ~1.5k jobs",
+      "author": "AdTechBuilder",
+      "score": 1,
+      "url": "/r/adtech/comments/1to6ddq/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to6dwa/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "created_utc": 1779800762.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1to6dwa",
+      "thread_path": "1to6dwa.json"
     }
   ]
 }

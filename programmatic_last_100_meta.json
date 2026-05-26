@@ -6,45 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1sxw777",
-      "title": "New SSP looking for Supply Partnerships",
-      "author": "Dependent-Use-3215",
-      "score": 1,
-      "url": "/r/adops/comments/1sxw5qo/new_ssp_looking_for_supply_partnerships/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sxw777/new_ssp_looking_for_supply_partnerships/",
-      "created_utc": 1777367901.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sy3fl9",
-      "title": "moving some spend into CTV from paid social",
-      "author": "Asleep-Comparison782",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy3fl9/moving_some_spend_into_ctv_from_paid_social/",
-      "created_utc": 1777387404.0,
-      "content": "Hi guys! we've been running most of our spend on facebook and Google (roughly 50/30 split) and tbh ROI has been getting worse every time. We're a small team so we can't really afford a bunch of random tests, but wee're starting to feel like we need to move some budget around instead of just doubling down there..  \n  \nI'm considering pulling some spend from meta/search and putting it into CTV to see if it drives anything. Thinking something like: \\~4k CTV, 3k on best performing social, 2k email, and maybe a small test budget left for tiktok or experiments (thoughts??)  \n  \nFor CTV we've been looking at self-serve stuff like Adwave and Vibe just to keep it simple and avoid going full agency route right away.  \n  \nThe plan would be to run it for a few weeks, track actual sales / lift, and then decide whats worth scalin  \n  \nAnyone here made a similar shift? did CTV hold up when you moved real budget into it or did you end up just cycling back to paid social/search? appreciate your advice!!",
-      "num_comments": 23,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1sy6d93",
-      "title": "Building a YouTube MP3 Android app (Kivy) - need help integrating yt-dlp properly\nQuestion",
-      "author": "Flashy-Abalone-9212",
-      "score": 1,
-      "url": "https://v.redd.it/675ljuvthyxg1",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1sy6d93/building_a_youtube_mp3_android_app_kivy_need_help/",
-      "created_utc": 1777393632.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1sybemx",
       "title": "April AdTech Roundup is here!",
       "author": "DataBeat_adtech",
@@ -1302,6 +1263,45 @@
       "created_utc": 1779716942.0,
       "content": "**Interesting find: Magnite DV+ showing impressions on sites with zero video content — anyone else experience this?**\n\nRunning a general all-exchanges campaign for 15-second video ads on websites, above the fold. My goal is to identify the most popular news and tech sites in New Jersey, so I started pulling reporting and added Exchange Source as a dimension.\n\nWhat stood out: Magnite DV+ had by far the spammiest inventory in the report. Every other exchange — including Google and FreeWheel — returned quality placements where I could actually find video content on the page when I visited. But with Magnite, I had sites showing impressions with **zero reported video placements**. I personally visited 5+ of them — mostly text-based blogs — and scrolled through multiple pages without finding a single video unit. I even ran the URLs through Claude and Perplexity to do a quick content scan, and still found nothing. Yet I was charged for impressions.\n\nBy contrast, when FreeWheel or Google reported an impression and I visited the same site, video content was easy to find.\n\n\n\n**What I'm actually trying to accomplish:**\n\nI'm running broad all-exchange targeting intentionally, just to map what inventory exists regionally. The plan is to pull the top 100 performing sites over a week, build an inclusion list from that, and then tighten the campaign to target only those placements — narrowing reach geographically while improving quality.\n\n\n\nNot an expert in programmatic — just documenting what I'm seeing. Has anyone else noticed this with Magnite DV+? And more broadly, how does a platform record a video impression on a page that has no video player?",
       "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1to38c9",
+      "title": "Anyone heard of or work with Panxo.ai?",
+      "author": "TinasOwner23",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to38c9/anyone_heard_of_or_work_with_panxoai/",
+      "created_utc": 1779792336.0,
+      "content": "Trying to understand what results look like. Thanks.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1to5d1u",
+      "title": "Has anyone here worked with a good CTV agency recently?",
+      "author": "Warm-Researcher-6884",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to5d1u/has_anyone_here_worked_with_a_good_ctv_agency/",
+      "created_utc": 1779798233.0,
+      "content": "We’re looking for something more regional-focused instead of one of the huge enterprise vendors. Most of the big platforms we talked to felt super bloated for what we actually need.\n\nA colleague mentioned Q1Media because apparently, and I quote: \"they’re pretty strong with localized targeting and streaming inventory,\" but I honestly don’t know much about them yet. Has anyone had experience with them? \n\nWould love recommendations from people who’ve actually run campaigns with them.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1to6dwa",
+      "title": "AdTech hiring right now: a few patterns from ~1.5k jobs",
+      "author": "AdTechBuilder",
+      "score": 1,
+      "url": "/r/adtech/comments/1to6ddq/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1to6dwa/adtech_hiring_right_now_a_few_patterns_from_15k/",
+      "created_utc": 1779800762.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
