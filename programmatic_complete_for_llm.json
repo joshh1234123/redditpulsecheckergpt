@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-26T14:12:29.606646+00:00",
-    "total_posts": 1676,
+    "scrape_date": "2026-05-26T17:41:23.675832+00:00",
+    "total_posts": 1677,
     "total_comments": 9774
   },
   "discussions": [
@@ -83238,6 +83238,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1to6dwa/adtech_hiring_right_now_a_few_patterns_from_15k/",
       "created_utc": 1779800762.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1toa5nb",
+      "title": "Seeking Contract Work",
+      "author": "Schruteschrute",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1toa5nb/seeking_contract_work/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1toa5nb/seeking_contract_work/",
+      "created_utc": 1779808900.0,
+      "content": "Hello! Director level worker with 13 years media experience at agencies and ad tech companies, seeking contract/temp work while I find the right opportunity ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
