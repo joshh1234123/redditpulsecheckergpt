@@ -1,0 +1,40 @@
+{
+  "id": "1tpfmid",
+  "thread_id": "1tpfmid",
+  "title": "What questions would you ask a CTV vendor before spending $100K/monthly?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1tpfmid/what_questions_would_you_ask_a_ctv_vendor_before/",
+  "created_utc": 1779909450.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "fave_slinger",
+      "body": "Ask them what happens when pacing breaks. Not average CPM in the deck; sudden CPM jumps in-flight, overspend, underdelivery, etc. ",
+      "score": 2,
+      "created_utc": 1779909962.0
+    },
+    {
+      "author": "kapt_so_krunchy",
+      "body": "How do their audiences scale? How do they A/B test creatives? What is their attribution model? With 100K everyone is seeing an ad.\n\nWhat sort of inventory are you getting and what report is showing that? Is it all going on Tubi? What are the day parts? Is it CTV or OTT? \n\nWhat sort of frequency caps are you looking at? What’s the incremental reach? How are you showing the actual impact in lower level channels like search and social? \n\nThere’s a lot that goes into it. \n\nMost CTV platforms will just Grima Wormtongue you and your team and tell you that CTV will sort out all your problems but they’re probably full of shit. \n\nBut try to give some more detail about your vertical and what else you’re doing and we can try to help you figure out who is full of shit. ",
+      "score": 1,
+      "created_utc": 1779910634.0
+    },
+    {
+      "author": "MalcolmButlersTruck",
+      "body": "What exact programming am I going to run alongside?",
+      "score": 1,
+      "created_utc": 1779910639.0
+    },
+    {
+      "author": "Mankzy",
+      "body": "will they include viewer display retargeting as an added value layer to drive direct response and expand reach?",
+      "score": 1,
+      "created_utc": 1779911029.0
+    },
+    {
+      "author": "zabpremier",
+      "body": "Are you looking to leverage a managed service offering (MNTN, Vibe, Universal Ads), SSP (Magnite, FreeWheel, Pubmatic), DSP (StackAdapt/TTD) or go publisher direct? I would say the managed service offerings are closer to what you're used to within social but definitely inquire about the inventory delivered on, screens, creative testing, data opportunities (segments used, onboarding opportunities, LAL modeling, retargeting), and the ability for incrementality testing. While the managed service offerings closely resemble what you're currently buying, they take a ton of margin, deliver on shitty inventory, and usually run retargeting display and mix it in with CTV to show performance. They're not as transparent as you'd get operating within an actual DSP.\n\n",
+      "score": 1,
+      "created_utc": 1779911793.0
+    }
+  ]
+}
