@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-27T14:22:35.209848+00:00",
-    "total_posts": 1678,
+    "scrape_date": "2026-05-27T17:39:32.277211+00:00",
+    "total_posts": 1680,
     "total_comments": 9777
   },
   "discussions": [
@@ -83289,6 +83289,34 @@
           "created_utc": 1779823994.0
         }
       ]
+    },
+    {
+      "id": "1tp9ceo",
+      "title": "HRIS advertisers keep saying “omnichannel,” but the ad data says otherwise",
+      "author": "FunnyGuilty9745",
+      "score": 0,
+      "url": "/r/leadgenius/comments/1tp9b2s/hris_advertisers_keep_saying_omnichannel_but_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tp9ceo/hris_advertisers_keep_saying_omnichannel_but_the/",
+      "created_utc": 1779896491.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tp9tso",
+      "title": "Looking for traders- stack adapt exp a must",
+      "author": "ionlytouchmangos",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tp9tso/looking_for_traders_stack_adapt_exp_a_must/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tp9tso/looking_for_traders_stack_adapt_exp_a_must/",
+      "created_utc": 1779897520.0,
+      "content": "5 years + experience   \nBased in ireland, usa, manilla preferred (remote)  \nMust have stack adapt experience  \nExcellent excel skills  \nExcellent reporting skills and deck building  \n\\-Proven managed budgets of 100k monthly programmatic spend  \n\\-Salary can range based on location 20-90k\n\nShoot me a dm!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
