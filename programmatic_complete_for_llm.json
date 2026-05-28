@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-05-28T22:15:21.661993+00:00",
-    "total_posts": 1682,
+    "scrape_date": "2026-05-28T23:48:09.520762+00:00",
+    "total_posts": 1683,
     "total_comments": 9782
   },
   "discussions": [
@@ -83372,6 +83372,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tqbkn9/my_ad_network_is_ready/",
       "created_utc": 1779991967.0,
       "content": "Thank you for support me 🔥",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tqkk19",
+      "title": "Missed payment dv360 and cm360",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tqkk19/missed_payment_dv360_and_cm360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tqkk19/missed_payment_dv360_and_cm360/",
+      "created_utc": 1780011891.0,
+      "content": "Do you know if google grants any “grace period” for late payments ?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
