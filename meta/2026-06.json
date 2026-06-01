@@ -44,6 +44,21 @@
       "link_flair_text": null,
       "thread_id": "1tttbki",
       "thread_path": "1tttbki.json"
+    },
+    {
+      "id": "1ttxtl6",
+      "title": "Has ad automation ever burned your budget?",
+      "author": "Big_Consequence_5162",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ttxtl6/has_ad_automation_ever_burned_your_budget/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ttxtl6/has_ad_automation_ever_burned_your_budget/",
+      "created_utc": 1780331959.0,
+      "content": "Doing some market research and wanted to get feedback from people running AI ad campaigns.\n\nHave you ever had platform automation or AI make a costly mistake (budget spikes, CPA blowouts, runaway spend, etc.)?\n\nI'm exploring a tool that sits on top of ad platforms and enforces guardrails like spend caps, performance thresholds, and automatic pauses when things go off track.\n\nIs this a real problem?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ttxtl6",
+      "thread_path": "1ttxtl6.json"
     }
   ]
 }
