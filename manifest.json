@@ -95,6 +95,11 @@
       "month": "2026-05",
       "count": 96,
       "meta_file": "2026-05.json"
+    },
+    {
+      "month": "2026-06",
+      "count": 1,
+      "meta_file": "2026-06.json"
     }
   ]
 }
