@@ -29,6 +29,21 @@
       "link_flair_text": null,
       "thread_id": "1ttn0bg",
       "thread_path": "1ttn0bg.json"
+    },
+    {
+      "id": "1tttbki",
+      "title": "Barcelona ranks #3 in AdTech hiring this week. Did not expect that.",
+      "author": "AdTechBuilder",
+      "score": 12,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "created_utc": 1780322838.0,
+      "content": "I was curious whether AdTech hiring is still concentrated in the usual hubs or becoming more distributed, so I looked at active job postings from the last 7 days and mapped them by city.  \n  \nA few things stood out:  \n  \n• New York remains the largest hiring hub  \n• Bengaluru is #2 by weekly openings  \n• Barcelona and Lisbon rank surprisingly high relative to their size  \n• Most hiring is still concentrated around a relatively small number of cities  \n  \nInteresting to see how global the ecosystem has become compared to a few years ago.  \n  \nAnything here surprise you?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tttbki",
+      "thread_path": "1tttbki.json"
     }
   ]
 }

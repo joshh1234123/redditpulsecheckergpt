@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-01T10:13:33.640356+00:00",
-    "total_posts": 1686,
-    "total_comments": 9795
+    "scrape_date": "2026-06-01T16:20:45.313299+00:00",
+    "total_posts": 1687,
+    "total_comments": 9800
   },
   "discussions": [
     {
@@ -83511,6 +83511,51 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tttbki",
+      "title": "Barcelona ranks #3 in AdTech hiring this week. Did not expect that.",
+      "author": "AdTechBuilder",
+      "score": 12,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "created_utc": 1780322838.0,
+      "content": "I was curious whether AdTech hiring is still concentrated in the usual hubs or becoming more distributed, so I looked at active job postings from the last 7 days and mapped them by city.  \n  \nA few things stood out:  \n  \n• New York remains the largest hiring hub  \n• Bengaluru is #2 by weekly openings  \n• Barcelona and Lisbon rank surprisingly high relative to their size  \n• Most hiring is still concentrated around a relatively small number of cities  \n  \nInteresting to see how global the ecosystem has become compared to a few years ago.  \n  \nAnything here surprise you?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "akunni",
+          "body": "What about Dubai/Middle East?",
+          "score": 1,
+          "created_utc": 1780323206.0
+        },
+        {
+          "author": "Rosebudders",
+          "body": "Interesting- mind sharing where are you getting this info?",
+          "score": 1,
+          "created_utc": 1780327403.0
+        },
+        {
+          "author": "AdTechBuilder",
+          "body": "Good question. I do see some activity around Tel Aviv and a handful of Middle East locations, but the volume is still relatively small compared to the main hubs. I'm actually tracking this by city now and it'll be interesting to see how the region evolves over time.",
+          "score": 1,
+          "created_utc": 1780323595.0
+        },
+        {
+          "author": "AdTechBuilder",
+          "body": "Mostly from company career pages and ATS platforms. I've been aggregating and normalizing the data to look at hiring trends across the ecosystem.\n\nSome of the results are here:\n\n[https://adtechtalent.com/top-adtech-companies-hiring](https://adtechtalent.com/top-adtech-companies-hiring)\n\n[https://adtechtalent.com/top-adtech-locations-hiring](https://adtechtalent.com/top-adtech-locations-hiring)\n\nStill a work in progress, but it's been interesting to see the patterns emerge.",
+          "score": 1,
+          "created_utc": 1780327998.0
+        },
+        {
+          "author": "Rosebudders",
+          "body": "Really cool 🔥",
+          "score": 1,
+          "created_utc": 1780329968.0
+        }
+      ]
     }
   ]
 }

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t01plr",
-      "title": "every PMP post-mortem ends the exact same way and im tired of writing it",
-      "author": "Easy-Purple-1659",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t01plr/every_pmp_postmortem_ends_the_exact_same_way_and/",
-      "created_utc": 1777567356.0,
-      "content": "ok we ran a CTV PMP for a national QSR client. premium publisher list, $42 floor, planned 14 days for the back-half push. forecast said 7.4m imps. delivered 1.1m. classic.  \n  \ncall goes the same way every quarter. client wants to know why \"guaranteed\" inventory wasnt guaranteed. i pull up the bid response log on a screen-share and we walk thru the actual throttle, which was the floor sitting above the publishers PMP curve on tues+wed. takes maybe 20 mins. they nod, we agree on remediation, campaign closes.  \n  \nthe kicker. six months later their next agency contact opens a brand new ticket asking the same question and we run thru the same screen-share again because institutional memory at most advertisers is basically zero.  \n  \nis this just me or do u have a doc u send a client before they even sign the IO that they actually read after signing",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t0b20r",
       "title": "Safety and blacklist in open market",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1780306277.0,
       "content": "AppsFlyer recently announced a Web SDK that applies mobile attribution to web campaigns to create a single source of truth.  \n  \nAnd that’s huge because as we all know, we’ve never had a unified way to attribute campaigns across all channels.  \n  \nThat should finally give us the ability to tie key moments to a user across devices, not just random device-level events.  \n  \nWhat benefit do you guys think this will have for products on a practical level?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tttbki",
+      "title": "Barcelona ranks #3 in AdTech hiring this week. Did not expect that.",
+      "author": "AdTechBuilder",
+      "score": 12,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tttbki/barcelona_ranks_3_in_adtech_hiring_this_week_did/",
+      "created_utc": 1780322838.0,
+      "content": "I was curious whether AdTech hiring is still concentrated in the usual hubs or becoming more distributed, so I looked at active job postings from the last 7 days and mapped them by city.  \n  \nA few things stood out:  \n  \n• New York remains the largest hiring hub  \n• Bengaluru is #2 by weekly openings  \n• Barcelona and Lisbon rank surprisingly high relative to their size  \n• Most hiring is still concentrated around a relatively small number of cities  \n  \nInteresting to see how global the ecosystem has become compared to a few years ago.  \n  \nAnything here surprise you?",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }
