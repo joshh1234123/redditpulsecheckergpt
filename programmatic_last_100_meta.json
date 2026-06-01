@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1szwofd",
-      "title": "Help needed - looking for publishers/vendors on YouTube beyond DV360",
-      "author": "Strong-Yesterday-153",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1szwofd/help_needed_looking_for_publishersvendors_on/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1szwofd/help_needed_looking_for_publishersvendors_on/",
-      "created_utc": 1777557047.0,
-      "content": "Hi guys! Would anyone have an idea which vendors/publishers would sell their YouTube inventory separately to DV360, such as Formula1 where you have to go directly to F1? I need an idea of vendors, and it can be from all sorts of industries, such as Entertainment etc. Thanks so much in advance! ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t01plr",
       "title": "every PMP post-mortem ends the exact same way and im tired of writing it",
       "author": "Easy-Purple-1659",
@@ -1302,6 +1289,19 @@
       "created_utc": 1780273389.0,
       "content": "Hey everyone, I’m looking for some career advice or honestly just some validation from people who know the industry.\n\nI spent the last 5 years at a marketing agency doing pure programmatic campaign execution for a massive automotive client. My day-to-day was heavy technical setup, managing YouTube ads on DV360, and setting up programmatic guaranteed & PMP deals. Strategy, planning, and client-facing reporting were all handled by completely separate person who was more client facing. I loved the operational side and felt like I really knew my stuff.\n\nA month ago, a recruiter headhunted me on LinkedIn for a \"Marketing Manager\" role at another agency. The interview process was insanely easy—just an Excel test on pivot tables and basic marketing calculations, no deep technical vetting. The salary jump was great (from $55k to $70k CAD), so I took it.\n\nNow I'm 4 weeks in and realized I’ve been completely baited and switched.\n\nTurns out, this agency doesn't even *do* programmatic. Management prefers buying through external advertising partners because they think it's cheaper and they like the \"added value/bonus impressions.\" So my actual core skillset (DV360) is completely useless here.  \nInstead, I am being forced to handle 3 massive food clients under 4 different directors, and my entire day consists of:  \n1. Building high-level strategic PowerPoint proposals (which I have zero experience in)  \n2. Endless client emails and account management  \n3. Building complex monthly pacing and post-campaign performance decks and presenting them directly to the client.\n\nBecause I have no background in strategy or deep data storytelling, I am drowning. I’m experiencing massive anxiety, feeling like an idiot every day, and a close colleague just warned me that she frequently works until 2:00 AM just to keep up because upper management only cares about client satisfaction, not employee burnout.\n\nMy old job filled my position, so I can't go back. I feel totally unqualified for *this* specific role, but I know I'm a damn good programmatic trader.\n\nHas anyone else transitioned from technical/execution to general account management and hated it? I’m seriously considering quiet quitting to survive probation while aggressively applying for pure programmatic/AdOps specialist roles again, even if it means taking a slight pay cut back to the $60k range for my own sanity.\n\nWould love to hear your thoughts or stories if you've been through something similar.",
       "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ttn0bg",
+      "title": "AppsFlyer is Launching a Web SDK",
+      "author": "Zeetoay",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ttn0bg/appsflyer_is_launching_a_web_sdk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ttn0bg/appsflyer_is_launching_a_web_sdk/",
+      "created_utc": 1780306277.0,
+      "content": "AppsFlyer recently announced a Web SDK that applies mobile attribution to web campaigns to create a single source of truth.  \n  \nAnd that’s huge because as we all know, we’ve never had a unified way to attribute campaigns across all channels.  \n  \nThat should finally give us the ability to tie key moments to a user across devices, not just random device-level events.  \n  \nWhat benefit do you guys think this will have for products on a practical level?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
