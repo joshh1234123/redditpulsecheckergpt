@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-02T18:01:17.190200+00:00",
-    "total_posts": 1691,
-    "total_comments": 9805
+    "scrape_date": "2026-06-02T21:28:11.747200+00:00",
+    "total_posts": 1692,
+    "total_comments": 9807
   },
   "discussions": [
     {
@@ -83642,6 +83642,33 @@
           "body": "Lol Scope3 is such a mess",
           "score": 1,
           "created_utc": 1780408166.0
+        }
+      ]
+    },
+    {
+      "id": "1tv1m0k",
+      "title": "Does ranking still matter as much as we think it does?",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tv1m0k/does_ranking_still_matter_as_much_as_we_think_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tv1m0k/does_ranking_still_matter_as_much_as_we_think_it/",
+      "created_utc": 1780428834.0,
+      "content": "One thing I've been thinking about lately: the industry still talks about visibility as if it works the same way it did 5 years ago.  \n  \nRank higher → get traffic → win.  \n  \nBut between AI Overviews, zero-click results, Reddit threads, social discovery, and AI assistants answering directly, I'm not sure ranking and visibility are the same thing anymore.  \n  \nYou can technically rank well and still lose attention!!  \n  \nWhich raises a different question: Is the goal still to rank, or is it to be consistently understood across all the systems shaping discovery today?  \nIf so, how are you guys approaching it?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "im_super_excited",
+          "body": "Boo this AI slop!",
+          "score": 1,
+          "created_utc": 1780432041.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Go away, wrong sub",
+          "score": 1,
+          "created_utc": 1780433019.0
         }
       ]
     }
