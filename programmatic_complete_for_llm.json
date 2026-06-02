@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-02T09:46:08.695843+00:00",
-    "total_posts": 1689,
-    "total_comments": 9800
+    "scrape_date": "2026-06-02T13:54:14.798346+00:00",
+    "total_posts": 1691,
+    "total_comments": 9805
   },
   "discussions": [
     {
@@ -83584,6 +83584,66 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tuo4c7",
+      "title": "Programmatic Consultant",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tuo4c7/programmatic_consultant/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tuo4c7/programmatic_consultant/",
+      "created_utc": 1780399798.0,
+      "content": "Hi all,\n\nAs the title suggests, What are the most important skills in your opinion for this position?\n\nThanks in advance. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Many years experience required to be consultant. Learn those skills first at agencies, publisher and tech. Then branch out to consulting. It’s about who you know on getting those agency contracts",
+          "score": 4,
+          "created_utc": 1780401637.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Neutrality and take no BS, especially with the big platforms.",
+          "score": 1,
+          "created_utc": 1780405061.0
+        },
+        {
+          "author": "TheGrandLeveler",
+          "body": "My question was more towards skillset.\n\nSometimes I find it hard to justify preferred vendor for a media plan for example, or to decide which formats or placements to recommend to a client etc ",
+          "score": 1,
+          "created_utc": 1780406514.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "It is a skill to remain neutral and not be swayed by the large amount of misinformation in programmatic. It is largely about experience in terms of how you get better at it though.",
+          "score": 1,
+          "created_utc": 1780407437.0
+        }
+      ]
+    },
+    {
+      "id": "1turhlq",
+      "title": "Peer39 Acquires Adloox from Scope3",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://www.einpresswire.com/article/916779905/peer39-acquires-adloox-from-scope3-unifying-contextual-intelligence-brand-safety-across-google-meta-and-the-open-web",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1turhlq/peer39_acquires_adloox_from_scope3/",
+      "created_utc": 1780408042.0,
+      "content": "Good move all round imo, Adloox tech is severely underrated even pre-Scope3. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MagazineImpressive79",
+          "body": "Lol Scope3 is such a mess",
+          "score": 1,
+          "created_utc": 1780408166.0
+        }
+      ]
     }
   ]
 }
