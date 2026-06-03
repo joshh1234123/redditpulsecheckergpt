@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-03T02:05:05.026762+00:00",
-    "total_posts": 1692,
+    "scrape_date": "2026-06-03T07:19:37.916703+00:00",
+    "total_posts": 1693,
     "total_comments": 9807
   },
   "discussions": [
@@ -83671,6 +83671,20 @@
           "created_utc": 1780433019.0
         }
       ]
+    },
+    {
+      "id": "1tvfkb0",
+      "title": "Is Programmatic DOOH actually delivering, or are we just buying overpriced impressions on empty streets?",
+      "author": "Mean-Jello-3021",
+      "score": 2,
+      "url": "/r/advertising/comments/1tvfk21/is_programmatic_dooh_actually_delivering_or_are/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tvfkb0/is_programmatic_dooh_actually_delivering_or_are/",
+      "created_utc": 1780463580.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
