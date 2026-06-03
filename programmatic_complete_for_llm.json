@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-03T20:34:00.952233+00:00",
-    "total_posts": 1695,
-    "total_comments": 9807
+    "scrape_date": "2026-06-03T22:59:51.568041+00:00",
+    "total_posts": 1696,
+    "total_comments": 9809
   },
   "discussions": [
     {
@@ -83713,6 +83713,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1tw4l6k",
+      "title": "Walmart Connect Reporting",
+      "author": "Queasy-Ad-6862",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
+      "created_utc": 1780524996.0,
+      "content": "Hello\n\nCurrently running a Search campaign within Walmart Connect. The reporting system is not great, but gets the job done. \n\nI recently found out that the Search side does not have geographic data available in reporting. When reading through the help center I see cross-channel reporting has DMA data available, but I don’t have access just yet. \n\nIf anyone is currently running a Search campaign and has access to cross channel reporting, can you confirm data can be pulled from that area?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MalcolmButlersTruck",
+          "body": "Walmart Connect product is honestly such a disaster holy hell ",
+          "score": 1,
+          "created_utc": 1780526240.0
+        },
+        {
+          "author": "coolular",
+          "body": "No, you can only see it on offsite display. I’m not even sure you can see it with onsite display",
+          "score": 1,
+          "created_utc": 1780527178.0
+        }
+      ]
     }
   ]
 }

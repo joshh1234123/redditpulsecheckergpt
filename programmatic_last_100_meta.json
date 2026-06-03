@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t2nunu",
-      "title": "Where is the REAL money in Programmatic Advertising right now?",
-      "author": "Possible_Eggplant_79",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t2nunu/where_is_the_real_money_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t2nunu/where_is_the_real_money_in_programmatic/",
-      "created_utc": 1777820594.0,
-      "content": "Everyone says “programmatic is booming”  but let’s be honest, not every role in programmatic pays the same.\n\nI’m currently working at a Big 6 agency, managing solid budgets and campaigns end-to-end. But the more exposure I get, the clearer it becomes: some areas are way more valuable (and future-proof) than others.\n\nSo I want real, no-BS answers from people in the industry: -Which area of programmatic actually makes you the most money (salary or freelance)?\n\nCTV / OTT\n\nDSP expertise (DV360, TTD, etc.)\n\nData / audience strategy\n\nAd ops / campaign execution\n\nYield / publisher monetization\n\nAd tech / product side\n\nAnd why?\n\nIf you’ve switched roles or seen salary jumps, what made the biggest difference?\n\nTrying to understand where to double down for the next 2–3 years and I’m sure a lot of others here are thinking the same.",
-      "num_comments": 12,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t3dzfu",
       "title": "Do You Work In Programmatic In The Middle East?",
       "author": "Working-Trifle-6352",
@@ -1302,6 +1289,19 @@
       "created_utc": 1780512503.0,
       "content": "Recent macro metrics from our network report indicate that a decline in organic traffic is a structural acquisition shift rather than a change in core content performance.  \n  \nFollowing the compounding Google Core and Spam updates, new search users dropped 28% across the publisher network. Concurrently, pageviews per user increased by 8%, demonstrating that existing readers continue to consume content at a higher rate.  \n  \nThe data also reveals a significant increase in referral traffic volume, though engagement rates on those sessions fell to 19.1%.  \n  \nAs search engines increasingly keep users on the search results page, investing in direct audience channels like email is becoming critical for traffic retention.\n\nhttps://preview.redd.it/xq8hc4fq545h1.png?width=1925&format=png&auto=webp&s=a846e51c2a9eb1ed964eabb0a5f98baadfc02c2b",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1tw4l6k",
+      "title": "Walmart Connect Reporting",
+      "author": "Queasy-Ad-6862",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
+      "created_utc": 1780524996.0,
+      "content": "Hello\n\nCurrently running a Search campaign within Walmart Connect. The reporting system is not great, but gets the job done. \n\nI recently found out that the Search side does not have geographic data available in reporting. When reading through the help center I see cross-channel reporting has DMA data available, but I don’t have access just yet. \n\nIf anyone is currently running a Search campaign and has access to cross channel reporting, can you confirm data can be pulled from that area?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
