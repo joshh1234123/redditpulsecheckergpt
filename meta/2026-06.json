@@ -179,6 +179,21 @@
       "link_flair_text": null,
       "thread_id": "1tw4l6k",
       "thread_path": "1tw4l6k.json"
+    },
+    {
+      "id": "1tw9yfu",
+      "title": "Mobile DSPs Moving Into CTV",
+      "author": "Upper_Permit_9824",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tw9yfu/mobile_dsps_moving_into_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tw9yfu/mobile_dsps_moving_into_ctv/",
+      "created_utc": 1780538556.0,
+      "content": "**Mobile DSPs Moving Into CTV**  \nRecently, I’ve noticed more and more mobile-focused DSPs starting to buy CTV inventory.  \nWhat’s driving this shift? Is it rising mobile acquisition costs, the need for incremental reach, improvements in attribution, or something else entirely?  \nFor those of us on the supply side, what KPIs and inventory attributes matter most when curating CTV inventory for these buyers?  \nAre they primarily looking at:  \nApp installs and downstream conversions?  \nHousehold match rates?  \nCompletion rates?  \nViewability?  \nIVT/SIVT levels?  \nDevice types (Samsung, Roku, Fire TV, etc.)?  \nCurious to hear how others are adapting their CTV strategies to support the growing demand from performance-focused DSPs.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tw9yfu",
+      "thread_path": "1tw9yfu.json"
     }
   ]
 }
