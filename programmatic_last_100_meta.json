@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t3qrct",
-      "title": "TTD Deals that Scale",
-      "author": "Alpha-D-Truelove",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3qrct/ttd_deals_that_scale/",
-      "created_utc": 1777920415.0,
-      "content": "Curious if anyone else has experienced a sudden boom in TTD PMP spend against publishers such as Yahoo, Gannet, People and Meredith? \n\nNormally my clients are frustrated with SSP’s like us as Kokai throttles the deals to death, but April 1st to date we have seen a consistent lift in scale and performance from our always on agency clients. Put it this way, even they are asking if we have changed anything, spoiler alert we haven’t!\n\nWondered if anyone else is seeing this (as an SSP or curator) and if there is any explanation behind this.\n\nAdditional note: CTV remains volatile, one week we see serious scale in terms of TTD PMP performance, the next it goes down to a trickle…but from what I understand this is typical given the premium upfronts tied to this inventory.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1t3yrqx",
-      "title": "Ticketmaster/Livenation/stubhub Audiences & Inventory in Programmatic",
-      "author": "Akajdrod",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t3yrqx/ticketmasterlivenationstubhub_audiences_inventory/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t3yrqx/ticketmasterlivenationstubhub_audiences_inventory/",
-      "created_utc": 1777938274.0,
-      "content": "Hi all, \n\nHas anyone worked with the major ticketing platforms to access their inventory or audiences? \n\n  \nI couldn't figure it out by looking at their website and I've filled out Contact Us forms, waiting to hear from them. \n\n  \ncurious whether anyone's done it before. \n\n  \nCheers!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t4c735",
       "title": "Any feedback on using Google Audience in DV360?",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1780646430.0,
       "content": "Hi everyone, I'm a postgraduate student researching AI adoption in performance marketing within the FinTech industry. I have a short 5-minute survey and would really appreciate responses from anyone working in digital marketing, fintech or AI.\n\n  \n[https://forms.cloud.microsoft/e/kGWDvAkFNJ](https://forms.cloud.microsoft/e/kGWDvAkFNJ) ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1txfmjo",
+      "title": "How to calculate campaigns and programmatic accounts dust value?",
+      "author": "Hefty_Bet262",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
+      "created_utc": 1780650655.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1txhirg",
+      "title": "LLM models using data input from paid ads",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
+      "created_utc": 1780656830.0,
+      "content": "With AI being so freshly new and changing rapidly, wanted to ask about LLM models\n\nIf LLM models are currently scraping websites, indexing them, ranking them and returning results similar to an SEO capability - is it then possible to use paid ads into their model training as well?\n\nThink advertorial or sponsored content- but also even the context within the banner ad itself or ad to content ratio? Could this perpetuate the rise of MFA that has been on the decline -  if LLM’s  can push results that offer publishers more monetization opportunities (albeit garbage inventory) ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

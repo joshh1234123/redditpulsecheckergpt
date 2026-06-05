@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-05T08:29:28.451670+00:00",
-    "total_posts": 1700,
-    "total_comments": 9817
+    "scrape_date": "2026-06-05T11:43:10.479955+00:00",
+    "total_posts": 1702,
+    "total_comments": 9818
   },
   "discussions": [
     {
@@ -83843,6 +83843,41 @@
       "created_utc": 1780646430.0,
       "content": "Hi everyone, I'm a postgraduate student researching AI adoption in performance marketing within the FinTech industry. I have a short 5-minute survey and would really appreciate responses from anyone working in digital marketing, fintech or AI.\n\n  \n[https://forms.cloud.microsoft/e/kGWDvAkFNJ](https://forms.cloud.microsoft/e/kGWDvAkFNJ) ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1txfmjo",
+      "title": "How to calculate campaigns and programmatic accounts dust value?",
+      "author": "Hefty_Bet262",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
+      "created_utc": 1780650655.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Hefty_Bet262",
+          "body": "Camapign with are not running etc. ",
+          "score": 1,
+          "created_utc": 1780650686.0
+        }
+      ]
+    },
+    {
+      "id": "1txhirg",
+      "title": "LLM models using data input from paid ads",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
+      "created_utc": 1780656830.0,
+      "content": "With AI being so freshly new and changing rapidly, wanted to ask about LLM models\n\nIf LLM models are currently scraping websites, indexing them, ranking them and returning results similar to an SEO capability - is it then possible to use paid ads into their model training as well?\n\nThink advertorial or sponsored content- but also even the context within the banner ad itself or ad to content ratio? Could this perpetuate the rise of MFA that has been on the decline -  if LLM’s  can push results that offer publishers more monetization opportunities (albeit garbage inventory) ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
       "comments": []
