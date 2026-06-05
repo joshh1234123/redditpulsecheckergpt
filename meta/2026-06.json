@@ -269,6 +269,21 @@
       "link_flair_text": null,
       "thread_id": "1txhirg",
       "thread_path": "1txhirg.json"
+    },
+    {
+      "id": "1txmnok",
+      "title": "Anyone else navigating OpenAI Ads blind? Let's fix that.",
+      "author": "whatsaflashbang",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1txmnok/anyone_else_navigating_openai_ads_blind_lets_fix/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1txmnok/anyone_else_navigating_openai_ads_blind_lets_fix/",
+      "created_utc": 1780669930.0,
+      "content": "I work at a digital agency and over the past few months I've had a growing number of clients asking about running ads on OpenAI. We're in the early stages of getting a few of them set up on the platform and honestly... there isn't a ton of practical knowledge out there yet. Most of what exists is either surface-level coverage or speculation.\n\nNo pitch here, not looking to sell anything or hire anyone, just genuinely trying to find other practitioners who are in the weeds on this and want to swap notes.\n\nCurious if there's appetite for a small informal group (Discord, Slack, wherever) where people working on OpenAI ads can share:\n\n* What's actually working (and what isn't)\n* How you're thinking about campaign structure and optimization\n* How you're setting client expectations on a platform with basically no benchmarks yet\n* Any quirks or gotchas you've run into\n\nIf you're at an agency, in-house, or just running your own tests, drop a comment or DM me. Would love to connect with people who are figuring this out in real time rather than waiting for a case study to drop 18 months from now.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1txmnok",
+      "thread_path": "1txmnok.json"
     }
   ]
 }
