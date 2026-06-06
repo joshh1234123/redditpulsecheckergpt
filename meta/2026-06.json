@@ -314,6 +314,36 @@
       "link_flair_text": null,
       "thread_id": "1txz27w",
       "thread_path": "1txz27w.json"
+    },
+    {
+      "id": "1tydure",
+      "title": "Supply Side raw data",
+      "author": "Grouchy_Ad_9474",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tydure/supply_side_raw_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tydure/supply_side_raw_data/",
+      "created_utc": 1780742388.0,
+      "content": "Im new to this subreddit and wanted to intro myself over. I work for a global source of raw data feeds that supply the programmatic industry. We have just about everything and one of the only players with a full international ID graph.  \n\nIn the past, my company has always operated as a pure wholesaler selling to the largest companies who then resell our solutions as their own. \n\nWhen I got onboarded as ops, my goal was to add an additional GTM channel targeting SMBs that are underrepresented in the market. \n\nAny advice from you all on what we should leverage to reach more agencies or brands in this space or if we should just stick to wholesale and behind the scenes. ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tydure",
+      "thread_path": "1tydure.json"
+    },
+    {
+      "id": "1tydwgi",
+      "title": "How much does IP detection actually degrade the quality of your verification data?",
+      "author": "Puzzleheaded_Bit2374",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tydwgi/how_much_does_ip_detection_actually_degrade_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tydwgi/how_much_does_ip_detection_actually_degrade_the/",
+      "created_utc": 1780742554.0,
+      "content": "Something I don't see discussed enough.\n\nThe way the verification ecosystem works right now, the same IPs get used repeatedly across audits and sophisticated publishers and SSPs have had plenty of time to catalogue them. At some point a flagged IP stops returning ground truth and starts returning whatever the seller wants you to see.\n\nI've been thinking about this a lot while working on something in the IP infrastructure space and wanted to get a sense of how much it actually matters to people running programmatic campaigns day to day.\n\nA few things I'm genuinely curious about:\n\nWhen you're evaluating inventory quality, how much confidence do you have that your verification provider's IPs aren't already known to the sell side?\n\nHas IAS, DV, or any other vendor ever flagged inventory as clean that you later had reason to doubt?\n\nDo you think about IP hygiene as a variable in verification accuracy, or is that something you leave entirely to your verification vendor to manage?\n\nFull disclosure, I'm building something in this space and want honest signal from people who actually live in the programmatic stack. What's your experience?\n\nTIA",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tydwgi",
+      "thread_path": "1tydwgi.json"
     }
   ]
 }
