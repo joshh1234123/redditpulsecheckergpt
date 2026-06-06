@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-06T12:49:37.580341+00:00",
-    "total_posts": 1707,
-    "total_comments": 9820
+    "scrape_date": "2026-06-06T14:25:50.159634+00:00",
+    "total_posts": 1709,
+    "total_comments": 9821
   },
   "discussions": [
     {
@@ -83960,6 +83960,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tydwgi/how_much_does_ip_detection_actually_degrade_the/",
       "created_utc": 1780742554.0,
       "content": "Something I don't see discussed enough.\n\nThe way the verification ecosystem works right now, the same IPs get used repeatedly across audits and sophisticated publishers and SSPs have had plenty of time to catalogue them. At some point a flagged IP stops returning ground truth and starts returning whatever the seller wants you to see.\n\nI've been thinking about this a lot while working on something in the IP infrastructure space and wanted to get a sense of how much it actually matters to people running programmatic campaigns day to day.\n\nA few things I'm genuinely curious about:\n\nWhen you're evaluating inventory quality, how much confidence do you have that your verification provider's IPs aren't already known to the sell side?\n\nHas IAS, DV, or any other vendor ever flagged inventory as clean that you later had reason to doubt?\n\nDo you think about IP hygiene as a variable in verification accuracy, or is that something you leave entirely to your verification vendor to manage?\n\nFull disclosure, I'm building something in this space and want honest signal from people who actually live in the programmatic stack. What's your experience?\n\nTIA",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tyh29u",
+      "title": "Having issues at work during probation",
+      "author": "ExpensiveIndication8",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tyh29u/having_issues_at_work_during_probation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tyh29u/having_issues_at_work_during_probation/",
+      "created_utc": 1780751864.0,
+      "content": "Hi all,\n\nAsking for some help on what to do. So I’ve worked for big agencies in the past for around 5 years. I recently joined a smaller firm after my last company went through a major restructure. I was in my previous agency for slightly more than a year.\n\nAnyway on the new company I joined it’s been a difficult for me to adjust and I’m contemplating if the issue is with me or should I make a move? So basically I got hired in this smaller firm where I have been tasked with working on Google Ads, DV360, CM360. I have worked in the past with DV360 pretty extensively in the past but CM360 is something new for me as there were trafficking teams separate who did this work. Also these guys work on Google Sheets vs excel so I do find differences and nuances working with them but I’m willing to learn and pick those up.\n\nThe real issue I’m having is how lean the structure seems to be and how little of support I get with my co workers being very condescending when I make a genuine mistake or something I don’t have context for. My manager works in New Zealand and in PST time while me and the rest of my team work in EST hours. Apart from my manager there are 2 other strategists (at the same level as me) and I’m supposed to report to them for now. They said later on they will decide and put me on a client. \n\nThe following are the issues I keep running into with these strategists:\n\n1) once I was told a duplicate an IO at a campaign in CTV (this was my first task for a campaign build). I did exactly that through Instant Reserves. Later on I was told that the task I did was wrong because the media plan said ‘YouTube’ which here apparently means YouTube Prospecting and had to booked as an Open Auction. Of course so know how to book reserve buys or open auction buys but I didn’t know here that YouTube meant YT Prospecting because I’m used to going on Prisma which clearly states the campaign name\n\n2) Last week I was tasked with a campaign build where I had to traffic placements on CM360 and do a build. I was shown how to traffic 1x1 placements and do bulk upload but this was a YT video placement which had to be trafficked. So first I followed what I had been shown earlier. But the feedback I got was this was incorrect and had to be trafficked as a video placement. For some reason bulk upload wasn’t working and it took me 1 entire day to figure out how to do it properly. As a result the DV360 task was reassigned to someone else.\n\n3) Whenever I try and ask for help I keep getting told to figure it out by myself or ask ChatGPT and Gemini and the entire job is remote so there is no way for me to get in touch with anyone. The existing strategists for the past 2 weeks have refused to get on a call to discuss things with me. Also my manager from New Zealand resigned recently and now it’s just those 2 strategists I’m supposed to work with.\n\n4) I got the feedback from my manager (2 weeks ago) which I got during my 1:1s that I ask too many questions and need to work autonomously. He gave me written feedback to improve in next 3 weeks where I’m not getting into calls with existing strategists and wasting there time and also I’m making less mistakes at work.\n\nI don’t think anyone is taking the time to understand that the mistakes I’m having are because of no prior context to tasks being assigned to me and the inability for anyone to hop on a quick call or help out when I genuinely need help. Also whenever I send a message on slack for help with the strategists they say to reply on the wider group which has my manager for visibility (for the last 2 weeks).\n\nI already took a pay cut earlier this year when the restructure happened and now I’m seeming to interview for roles which are somehow even lesser in pay. I don’t know what to do with myself as I made pretty good progress before this in terms of pay increase and this year has been hell for me in my professional life.\n\nI am just unnerved with what’s going on and have never faced this experience before. What do you guys think? What exactly is happening?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "It's clearly the gap of context and your strategist being difficult. Most of the problems you are facing will be gone if they give you 1h of proper walkthrough. So you should coordinate with your manager or his manager clearly about the context gap.",
+          "score": 1,
+          "created_utc": 1780752482.0
+        }
+      ]
+    },
+    {
+      "id": "1tyi0yq",
+      "title": "server-side tracking made our data worse before it made it better",
+      "author": "Easy-Purple-1659",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tyi0yq/serverside_tracking_made_our_data_worse_before_it/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tyi0yq/serverside_tracking_made_our_data_worse_before_it/",
+      "created_utc": 1780754390.0,
+      "content": "six months ago we moved our pixel tracking server-side. GTM server container, custom data layer, the works. 10 markets. 4 million monthly users. i was confident. this was the right move. better data. fewer client-side blockers. cleaner attribution. \n\nfirst month was humbling. our conversion numbers dropped 22%. the CMO was not impressed. turns out server-side tracking doesn't automatically fix everything. it fixes third-party cookie loss. but it also breaks things. facebook CAPI stopped matching correctly because the event parameters didn't line up with what meta expected. google ads conversion linker threw errors we'd never seen. and our attribution model, which we'd spent 18 months building, was suddenly comparing apples to server-side oranges. it took three months to stabilize. not because the tech was hard. because every platform has different expectations for server-side events and nobody documents the edge cases. meta wants fbp and fbc in specific formats. google wants gclid passed through. and if you miss one, the conversion just silently stops counting.  \n  \nserver-side tracking is the right long-term call. but if you're planning the migration, budget 3x the time you think you need. the tech deploys in a week. the debugging takes months.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
