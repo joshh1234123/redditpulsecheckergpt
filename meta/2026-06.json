@@ -374,6 +374,21 @@
       "link_flair_text": null,
       "thread_id": "1tyi0yq",
       "thread_path": "1tyi0yq.json"
+    },
+    {
+      "id": "1tykoge",
+      "title": "Cm360 tracking conversion counting",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tykoge/cm360_tracking_conversion_counting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tykoge/cm360_tracking_conversion_counting/",
+      "created_utc": 1780760733.0,
+      "content": "Have you ever seen duplicate counting in your cm360 report due to multiple conversion attribution?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1tykoge",
+      "thread_path": "1tykoge.json"
     }
   ]
 }

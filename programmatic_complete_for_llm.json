@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-06T14:25:50.159634+00:00",
-    "total_posts": 1709,
+    "scrape_date": "2026-06-06T15:48:53.527774+00:00",
+    "total_posts": 1710,
     "total_comments": 9821
   },
   "discussions": [
@@ -83995,6 +83995,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1tyi0yq/serverside_tracking_made_our_data_worse_before_it/",
       "created_utc": 1780754390.0,
       "content": "six months ago we moved our pixel tracking server-side. GTM server container, custom data layer, the works. 10 markets. 4 million monthly users. i was confident. this was the right move. better data. fewer client-side blockers. cleaner attribution. \n\nfirst month was humbling. our conversion numbers dropped 22%. the CMO was not impressed. turns out server-side tracking doesn't automatically fix everything. it fixes third-party cookie loss. but it also breaks things. facebook CAPI stopped matching correctly because the event parameters didn't line up with what meta expected. google ads conversion linker threw errors we'd never seen. and our attribution model, which we'd spent 18 months building, was suddenly comparing apples to server-side oranges. it took three months to stabilize. not because the tech was hard. because every platform has different expectations for server-side events and nobody documents the edge cases. meta wants fbp and fbc in specific formats. google wants gclid passed through. and if you miss one, the conversion just silently stops counting.  \n  \nserver-side tracking is the right long-term call. but if you're planning the migration, budget 3x the time you think you need. the tech deploys in a week. the debugging takes months.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1tykoge",
+      "title": "Cm360 tracking conversion counting",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1tykoge/cm360_tracking_conversion_counting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1tykoge/cm360_tracking_conversion_counting/",
+      "created_utc": 1780760733.0,
+      "content": "Have you ever seen duplicate counting in your cm360 report due to multiple conversion attribution?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
