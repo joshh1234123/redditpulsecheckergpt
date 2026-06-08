@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-08T06:36:19.858133+00:00",
-    "total_posts": 1711,
-    "total_comments": 9821
+    "scrape_date": "2026-06-08T11:50:46.673910+00:00",
+    "total_posts": 1713,
+    "total_comments": 9825
   },
   "discussions": [
     {
@@ -84027,6 +84027,59 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1u00456",
+      "title": "DV360 at it again!",
+      "author": "EstateTerrible4807",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "created_utc": 1780900968.0,
+      "content": "Is DV360 deliberately rejecting youtube ads with 3rd party click trackers even after following with all thier policies and appending the parameters at the end? I feel this is their ploy to move as many clients as possible towards CM360 tracking.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1u04fof",
+      "title": "Is AdTech becoming a New York industry?",
+      "author": "AdTechBuilder",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "created_utc": 1780915925.0,
+      "content": "I was analyzing \\~2,300 active AdTech job openings across 167 cities and one number immediately stood out: New York has more than 500 active openings. That's over 5x the number of jobs in London, Los Angeles, or Chicago.\n\nWhat's even more interesting is that New York isn't just leading in volume. Its hiring mix is heavily weighted toward Sales and Product roles, while cities like Bengaluru, Barcelona, Paris and Tel Aviv appear much more engineering-focused.\n\nMade me wonder: Is New York genuinely becoming the center of gravity for AdTech, or are we simply seeing how the industry naturally distributes commercial and technical teams across different markets?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "elchapoguzman",
+          "body": "Share your findings ",
+          "score": 3,
+          "created_utc": 1780916461.0
+        },
+        {
+          "author": "Grouchy_Ad_9474",
+          "body": "Considering the turnover between Engineering versus Sales is night and day, I think the results you’re seeing is more on hiring velocity rather than shape of workforce. ",
+          "score": 1,
+          "created_utc": 1780918359.0
+        },
+        {
+          "author": "AdTechBuilder",
+          "body": "A few interesting ones:\n\n\\- New York → Sales, Product  \n\\- London → Sales, Ad Ops  \n\\- Bengaluru → Engineering, Data Science  \n\\- Barcelona → Engineering, Data Science  \n\\- Tel Aviv → Engineering, Product\n\nI was expecting New York to lead, but not by such a huge margin.",
+          "score": 1,
+          "created_utc": 1780917605.0
+        },
+        {
+          "author": "AdTechBuilder",
+          "body": "Fair point. Active openings are definitely measuring hiring demand rather than workforce composition. That said, I still find it interesting that the demand profile differs so much by city. New York looks overwhelmingly commercial, while places like Bengaluru and Barcelona skew much more technical.",
+          "score": 1,
+          "created_utc": 1780918995.0
+        }
+      ]
     }
   ]
 }

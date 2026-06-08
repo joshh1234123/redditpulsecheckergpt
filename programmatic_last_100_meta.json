@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t5s0qk",
-      "title": "Best Practices for Lead Gen on DSP",
-      "author": "Realistic-Focus-8254",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5s0qk/best_practices_for_lead_gen_on_dsp/",
-      "created_utc": 1778106334.0,
-      "content": "Been in programmatic for over 5 years, mainly managing various e-commerce accounts ranging from $5k to $50k in monthly spend on TTD, StackAdapt and DV360.\n\nI recently stepped into a new role, and we have started to onboard a lot more lead gen clients (home improvement, legal services, B2B etc.). Things seem to be falling apart as we're seeing a lot more churn and DSP ultimately not being in line with the client's performance expectations. \n\nFrom your experience, are there any nuances I should be aware of when setting up campaigns of this nature? I'm feeling very discouraged with overall performance and have a gut feeling my role will likely be affected if I don't start flipping performance around. Any insight on targeting, optimizations would be greatly appreciated. Thanks!",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1t5uypc",
-      "title": "Amazon DSP Shoppable",
-      "author": "Sufficient-Trifle493",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1t5uypc/amazon_dsp_shoppable/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t5uypc/amazon_dsp_shoppable/",
-      "created_utc": 1778113784.0,
-      "content": "Does anyone know if you can buy Shoppable ads on 3rd party inventory in open exchange?   Seems risky but I am curious about actual scale outside of prime video which I've heard mixed things about performance wise outside of their home cooking.    Probably dont have the juice to spend with Netflix or Disney of the world.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t63xqj",
       "title": "Blockchain.com inventory, available on Sevio.",
       "author": "sevioadmanager",
@@ -1302,6 +1276,32 @@
       "created_utc": 1780847344.0,
       "content": "Hey community,\n\nMost of the opx ctv my campaigns bid on either low quality gamez, or tcl traffic. Tcl opx traffic seems to be huge. Do you guys have any idea how and why they have huge inventory? Because it seems tcl doesnt have big market penetration in ctv as well.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u00456",
+      "title": "DV360 at it again!",
+      "author": "EstateTerrible4807",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "created_utc": 1780900968.0,
+      "content": "Is DV360 deliberately rejecting youtube ads with 3rd party click trackers even after following with all thier policies and appending the parameters at the end? I feel this is their ploy to move as many clients as possible towards CM360 tracking.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u04fof",
+      "title": "Is AdTech becoming a New York industry?",
+      "author": "AdTechBuilder",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "created_utc": 1780915925.0,
+      "content": "I was analyzing \\~2,300 active AdTech job openings across 167 cities and one number immediately stood out: New York has more than 500 active openings. That's over 5x the number of jobs in London, Los Angeles, or Chicago.\n\nWhat's even more interesting is that New York isn't just leading in volume. Its hiring mix is heavily weighted toward Sales and Product roles, while cities like Bengaluru, Barcelona, Paris and Tel Aviv appear much more engineering-focused.\n\nMade me wonder: Is New York genuinely becoming the center of gravity for AdTech, or are we simply seeing how the industry naturally distributes commercial and technical teams across different markets?",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }

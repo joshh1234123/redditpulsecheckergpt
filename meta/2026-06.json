@@ -404,6 +404,36 @@
       "link_flair_text": null,
       "thread_id": "1tzfoms",
       "thread_path": "1tzfoms.json"
+    },
+    {
+      "id": "1u00456",
+      "title": "DV360 at it again!",
+      "author": "EstateTerrible4807",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
+      "created_utc": 1780900968.0,
+      "content": "Is DV360 deliberately rejecting youtube ads with 3rd party click trackers even after following with all thier policies and appending the parameters at the end? I feel this is their ploy to move as many clients as possible towards CM360 tracking.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u00456",
+      "thread_path": "1u00456.json"
+    },
+    {
+      "id": "1u04fof",
+      "title": "Is AdTech becoming a New York industry?",
+      "author": "AdTechBuilder",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
+      "created_utc": 1780915925.0,
+      "content": "I was analyzing \\~2,300 active AdTech job openings across 167 cities and one number immediately stood out: New York has more than 500 active openings. That's over 5x the number of jobs in London, Los Angeles, or Chicago.\n\nWhat's even more interesting is that New York isn't just leading in volume. Its hiring mix is heavily weighted toward Sales and Product roles, while cities like Bengaluru, Barcelona, Paris and Tel Aviv appear much more engineering-focused.\n\nMade me wonder: Is New York genuinely becoming the center of gravity for AdTech, or are we simply seeing how the industry naturally distributes commercial and technical teams across different markets?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u04fof",
+      "thread_path": "1u04fof.json"
     }
   ]
 }
