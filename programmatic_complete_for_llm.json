@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-08T18:20:44.905950+00:00",
-    "total_posts": 1714,
-    "total_comments": 9825
+    "scrape_date": "2026-06-08T20:37:54.671040+00:00",
+    "total_posts": 1715,
+    "total_comments": 9827
   },
   "discussions": [
     {
@@ -84094,6 +84094,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1u0ho27",
+      "title": "Programmatic Vs Commerce - Different or same career path?",
+      "author": "perry_190",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
+      "created_utc": 1780945976.0,
+      "content": "How different would you say regular programmatic is vs commerce? I recently started at a new company working in programmatic that was similar to what I’ve been working in my whole career. Client left our agency and they transitioned me to working on commerce programmatic. Activation skills wise it’s the same but strategy wise it seems very different. Ultimately what I’m worried about and would love everyone’s thoughts on, is if I stay working in commerce is this a career shift? It feels a bit different and I feel a bit lost with not many people helping out with the strategic differences. Is it worth staying or should I weigh asking about account swaps or looking for a different company longer term?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Give it 5-6 months and see how it goes. ",
+          "score": 1,
+          "created_utc": 1780946624.0
+        },
+        {
+          "author": "eltapatio",
+          "body": "can you describe the platforms you are working on vs what you were working on before? I am not 100% sure but it sounds like you are now working on retail media platforms.",
+          "score": 1,
+          "created_utc": 1780950532.0
+        }
+      ]
     }
   ]
 }

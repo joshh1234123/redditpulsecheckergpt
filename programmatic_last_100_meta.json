@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t69mtr",
-      "title": "Ias and publisher blocklist",
-      "author": "linuz14",
-      "score": 1,
-      "url": "/r/FacebookAds/comments/1t69mi8/ias_and_publisher_blocklist/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t69mtr/ias_and_publisher_blocklist/",
-      "created_utc": 1778158285.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t6cv0n",
       "title": "We are looking for pragmmatic adtech <SSP_DSP>",
       "author": "Beneficial_Alps2605",
@@ -1302,6 +1289,19 @@
       "created_utc": 1780935074.0,
       "content": "I'm writing a series of educational posts on how programmatic works (no product pitch, just explaining the ecosystem). I put together this diagram of global ad spend to help readers understand the relative scale of open web programmatic vs. walled gardens.  \nData is directional (compiled from GroupM, WARC, and ANA). China domestic excluded. MFA figure from ANA/Jounce research.\n\nA few specific questions for anyone who works with this data:\n\n1. Does the \\~$55B estimate for open web programmatic (Prebid/OpenRTB) feel roughly right, or is there a more authoritative source?\n2. Is ByteDance's \\~$28B placement as a walled garden correct given that TikTok inventory is partially available via open auction?\n3. Any obvious categories or players I'm missing?\n\nI'm not looking for perfect precision. I think orders of magnitude are fine. But I want to avoid anything egregiously wrong before publishing.\n\nThanks in advance to anyone who takes a look.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u0ho27",
+      "title": "Programmatic Vs Commerce - Different or same career path?",
+      "author": "perry_190",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
+      "created_utc": 1780945976.0,
+      "content": "How different would you say regular programmatic is vs commerce? I recently started at a new company working in programmatic that was similar to what I’ve been working in my whole career. Client left our agency and they transitioned me to working on commerce programmatic. Activation skills wise it’s the same but strategy wise it seems very different. Ultimately what I’m worried about and would love everyone’s thoughts on, is if I stay working in commerce is this a career shift? It feels a bit different and I feel a bit lost with not many people helping out with the strategic differences. Is it worth staying or should I weigh asking about account swaps or looking for a different company longer term?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
