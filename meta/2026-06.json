@@ -434,6 +434,21 @@
       "link_flair_text": null,
       "thread_id": "1u04fof",
       "thread_path": "1u04fof.json"
+    },
+    {
+      "id": "1u0cere",
+      "title": "Ad spend breakdown diagram for a blog series (would love feedback)",
+      "author": "passani",
+      "score": 2,
+      "url": "https://i.redd.it/x6dkqkaa236h1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0cere/ad_spend_breakdown_diagram_for_a_blog_series/",
+      "created_utc": 1780935074.0,
+      "content": "I'm writing a series of educational posts on how programmatic works (no product pitch, just explaining the ecosystem). I put together this diagram of global ad spend to help readers understand the relative scale of open web programmatic vs. walled gardens.  \nData is directional (compiled from GroupM, WARC, and ANA). China domestic excluded. MFA figure from ANA/Jounce research.\n\nA few specific questions for anyone who works with this data:\n\n1. Does the \\~$55B estimate for open web programmatic (Prebid/OpenRTB) feel roughly right, or is there a more authoritative source?\n2. Is ByteDance's \\~$28B placement as a walled garden correct given that TikTok inventory is partially available via open auction?\n3. Any obvious categories or players I'm missing?\n\nI'm not looking for perfect precision. I think orders of magnitude are fine. But I want to avoid anything egregiously wrong before publishing.\n\nThanks in advance to anyone who takes a look.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u0cere",
+      "thread_path": "1u0cere.json"
     }
   ]
 }

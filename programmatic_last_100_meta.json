@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1t63xqj",
-      "title": "Blockchain.com inventory, available on Sevio.",
-      "author": "sevioadmanager",
-      "score": 0,
-      "url": "https://i.redd.it/xw9jgdmpzhzg1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1t63xqj/blockchaincom_inventory_available_on_sevio/",
-      "created_utc": 1778140872.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1t69mtr",
       "title": "Ias and publisher blocklist",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1780915925.0,
       "content": "I was analyzing \\~2,300 active AdTech job openings across 167 cities and one number immediately stood out: New York has more than 500 active openings. That's over 5x the number of jobs in London, Los Angeles, or Chicago.\n\nWhat's even more interesting is that New York isn't just leading in volume. Its hiring mix is heavily weighted toward Sales and Product roles, while cities like Bengaluru, Barcelona, Paris and Tel Aviv appear much more engineering-focused.\n\nMade me wonder: Is New York genuinely becoming the center of gravity for AdTech, or are we simply seeing how the industry naturally distributes commercial and technical teams across different markets?",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u0cere",
+      "title": "Ad spend breakdown diagram for a blog series (would love feedback)",
+      "author": "passani",
+      "score": 2,
+      "url": "https://i.redd.it/x6dkqkaa236h1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0cere/ad_spend_breakdown_diagram_for_a_blog_series/",
+      "created_utc": 1780935074.0,
+      "content": "I'm writing a series of educational posts on how programmatic works (no product pitch, just explaining the ecosystem). I put together this diagram of global ad spend to help readers understand the relative scale of open web programmatic vs. walled gardens.  \nData is directional (compiled from GroupM, WARC, and ANA). China domestic excluded. MFA figure from ANA/Jounce research.\n\nA few specific questions for anyone who works with this data:\n\n1. Does the \\~$55B estimate for open web programmatic (Prebid/OpenRTB) feel roughly right, or is there a more authoritative source?\n2. Is ByteDance's \\~$28B placement as a walled garden correct given that TikTok inventory is partially available via open auction?\n3. Any obvious categories or players I'm missing?\n\nI'm not looking for perfect precision. I think orders of magnitude are fine. But I want to avoid anything egregiously wrong before publishing.\n\nThanks in advance to anyone who takes a look.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
