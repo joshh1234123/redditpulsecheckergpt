@@ -479,6 +479,51 @@
       "link_flair_text": null,
       "thread_id": "1u0ow5e",
       "thread_path": "1u0ow5e.json"
+    },
+    {
+      "id": "1u16jjj",
+      "title": "hopefully it will help you too",
+      "author": "Beautiful-Ice-7745",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u16jjj/hopefully_it_will_help_you_too/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u16jjj/hopefully_it_will_help_you_too/",
+      "created_utc": 1781015202.0,
+      "content": "I don't know if it's happening here often (pretty new on reddit) but I have got to complement a product that I've been using the past month and it helped me so much!  \nI can see the Incremental value of the bidders and see the data of GAM and prebid in the same place and so much more.  \nAnd now with all of the changes GAM is making I honestly don't know what I would do without it.\n\njust thought that it might help others too:) It calls optimon and I hope it will help you too!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u16jjj",
+      "thread_path": "1u16jjj.json"
+    },
+    {
+      "id": "1u16kcx",
+      "title": "hopefully it will help you too",
+      "author": "Beautiful-Ice-7745",
+      "score": 1,
+      "url": "/r/programmatic/comments/1u16jjj/hopefully_it_will_help_you_too/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u16kcx/hopefully_it_will_help_you_too/",
+      "created_utc": 1781015250.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u16kcx",
+      "thread_path": "1u16kcx.json"
+    },
+    {
+      "id": "1u16mkq",
+      "title": "For AdOps only",
+      "author": "Beautiful-Ice-7745",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u16mkq/for_adops_only/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u16mkq/for_adops_only/",
+      "created_utc": 1781015388.0,
+      "content": "Now that GAM is officially moving to interactive delivery reports, what do you think about it?  \nDo you find it more helpful then the previous manual reports?  \nDoes it save you time, or just make things more confusing?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u16mkq",
+      "thread_path": "1u16mkq.json"
     }
   ]
 }
