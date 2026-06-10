@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tadtfo",
-      "title": "Client uses same floodlight for Search and Display",
-      "author": "Akajdrod",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tadtfo/client_uses_same_floodlight_for_search_and_display/",
-      "created_utc": 1778527921.0,
-      "content": "Hello, \n\nWondering what are everyone’s thoughts on an in-housed media buying team that is using the same floodlight for Search and Display campaigns to measure CPA performance on last-touch attribution. \n\nWhen I mentioned that most advertisers Ive worked with do not measure Display and Search in the same bucket, the clients team said they are surprised to hear that (US client). \n\nCan someone confirm if Im not wrong in saying this is not the way to go, unless they want Display to never get any attributed conversions? ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tahmx7",
-      "title": "AI and DSPs question",
-      "author": "Available_Plant3712",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tahmx7/ai_and_dsps_question/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tahmx7/ai_and_dsps_question/",
-      "created_utc": 1778536067.0,
-      "content": "Is anyone using AI search to discover inventory in their DSP to activate? ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tb2g63",
       "title": "Shopsense has joined Amazon Publisher Services (APS) Connection Marketplace, bringing commerce tools to thousands of publishers and independent websites",
       "author": "u_of_digital",
@@ -1302,6 +1276,32 @@
       "created_utc": 1781083480.0,
       "content": "Something I keep running into: people treat a low win rate as a single bad number to push up, when it's really a distribution of \\*reasons\\*. The bidder mostly says no, and most no-bids are correct — creative doesn't fit the slot, request outside the geo-fence, floor above willingness to pay. Declining those is the bidder working, not failing.\n\nThe thing that's actually diagnostic is \\*where\\* in the funnel you're losing opportunities, not the headline rate. A sharp single-stage cliff (e.g. an unexpected drop at creative sizes) is almost always a misconfig you can fix. A gentle amber band at contextual/audience stages is just normal selectivity. Same low win rate, completely different responses.\n\nThe tell I use for \"healthy attrition vs accidental over-filtering\" is basically surprise: a drop I can explain from the campaign's strategy is attrition; a drop I can't explain is the bug.\n\nCurious how others here actually do this in practice:\n\n\\- Do you get stage-level loss visibility from your DSP/SSP, or are you reverse-engineering it from deliver/spend?\n\n\\- Anyone automating the \"healthy vs fixable\" classification, or is it still eyeballing a waterfall?\n\n\\- What's the most common single-stage cliff you see in the wild? Mine is creative size mismatches.\n\n(Disclosure: I build a bidding/decisioning platform — Ad360 — so this is the lens I look through. Happy to share the longer write-up I did on no-bid loss if it's useful, but mainly want to hear how you all diagnose this.)",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u24n0a",
+      "title": "YTTV",
+      "author": "bidstreambrochaco",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u24n0a/yttv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u24n0a/yttv/",
+      "created_utc": 1781103562.0,
+      "content": "Has anyone tried running a YouTube TV buy via Google Ads Reservation instead of DV360? Are there differences in cost?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u25ewj",
+      "title": "RIP Adtheorent",
+      "author": "Causel_Effect",
+      "score": 9,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u25ewj/rip_adtheorent/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u25ewj/rip_adtheorent/",
+      "created_utc": 1781105214.0,
+      "content": "Can we just pause and appreciate how DV360 hasn't changed their UI in years? Adtheorent is about to put traders into the UI blender - good luck Cadent - RIP Adtheorent",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }
