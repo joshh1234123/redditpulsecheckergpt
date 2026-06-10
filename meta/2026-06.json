@@ -524,6 +524,36 @@
       "link_flair_text": null,
       "thread_id": "1u16mkq",
       "thread_path": "1u16mkq.json"
+    },
+    {
+      "id": "1u1ws3f",
+      "title": "Why most OOH media owners are completely mismanaging programmatic (and missing out on revenue)",
+      "author": "quotesweed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u1ws3f/why_most_ooh_media_owners_are_completely/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u1ws3f/why_most_ooh_media_owners_are_completely/",
+      "created_utc": 1781082102.0,
+      "content": "Hey everyone. I’ve noticed a lot of discussion lately about programmatic DOOH (pDOOH), but it’s usually from the buyer's perspective. On the *supply* side, it feels like a lot of media owners are still treating programmatic as an afterthought—like a way to dump cheap, leftover \"remnant\" inventory.\n\nIf you treat it like a digital filler channel, you're missing the point. The real value is using programmatic to open up global demand and sell premium, audience-targeted slots that traditional buyers can't or won't book.\n\nMoving Walls put together a really solid piece breaking down the exact strategic shift media owners need to make with their SSPs to actually scale revenue rather than just cannibalizing their direct sales. Definitely worth a quick read if you’re on the media owner or adops side: [https://www.movingwalls.com/blog/scale-dooh-revenue-programmatic-strategy](https://www.movingwalls.com/blog/scale-dooh-revenue-programmatic-strategy)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u1ws3f",
+      "thread_path": "1u1ws3f.json"
+    },
+    {
+      "id": "1u1x60q",
+      "title": "Most of your \"low win rate\" is the bidder doing its job. How do you separate healthy attrition from a misconfig?",
+      "author": "tonyjayfunk",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u1x60q/most_of_your_low_win_rate_is_the_bidder_doing_its/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u1x60q/most_of_your_low_win_rate_is_the_bidder_doing_its/",
+      "created_utc": 1781083480.0,
+      "content": "Something I keep running into: people treat a low win rate as a single bad number to push up, when it's really a distribution of \\*reasons\\*. The bidder mostly says no, and most no-bids are correct — creative doesn't fit the slot, request outside the geo-fence, floor above willingness to pay. Declining those is the bidder working, not failing.\n\nThe thing that's actually diagnostic is \\*where\\* in the funnel you're losing opportunities, not the headline rate. A sharp single-stage cliff (e.g. an unexpected drop at creative sizes) is almost always a misconfig you can fix. A gentle amber band at contextual/audience stages is just normal selectivity. Same low win rate, completely different responses.\n\nThe tell I use for \"healthy attrition vs accidental over-filtering\" is basically surprise: a drop I can explain from the campaign's strategy is attrition; a drop I can't explain is the bug.\n\nCurious how others here actually do this in practice:\n\n\\- Do you get stage-level loss visibility from your DSP/SSP, or are you reverse-engineering it from deliver/spend?\n\n\\- Anyone automating the \"healthy vs fixable\" classification, or is it still eyeballing a waterfall?\n\n\\- What's the most common single-stage cliff you see in the wild? Mine is creative size mismatches.\n\n(Disclosure: I build a bidding/decisioning platform — Ad360 — so this is the lens I look through. Happy to share the longer write-up I did on no-bid loss if it's useful, but mainly want to hear how you all diagnose this.)",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u1x60q",
+      "thread_path": "1u1x60q.json"
     }
   ]
 }
