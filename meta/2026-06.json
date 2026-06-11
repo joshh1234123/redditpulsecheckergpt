@@ -584,6 +584,36 @@
       "link_flair_text": null,
       "thread_id": "1u25ewj",
       "thread_path": "1u25ewj.json"
+    },
+    {
+      "id": "1u2vu7o",
+      "title": "Question for mall media owners and DOOH operators",
+      "author": "quotesweed",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u2vu7o/question_for_mall_media_owners_and_dooh_operators/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u2vu7o/question_for_mall_media_owners_and_dooh_operators/",
+      "created_utc": 1781175647.0,
+      "content": "Why do so many networks still treat programmatic as a place to dump leftover inventory?\n\nIn digital advertising, programmatic became valuable because it expanded demand and improved yield. Yet in DOOH, I still see many operators reserving premium inventory for direct sales and sending only low-priority inventory to SSPs.\n\nThat approach often creates a self-fulfilling cycle where programmatic delivers lower revenue, so investment in it never increases.\n\nHas anyone here successfully used programmatic to increase yield on premium mall inventory without cannibalizing direct sales?\n\nInterested in hearing real-world experiences from operators, agencies, and DSP buyers.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u2vu7o",
+      "thread_path": "1u2vu7o.json"
+    },
+    {
+      "id": "1u2wmrm",
+      "title": "Tried to explain how ad tech works on a very high level in a manim render.",
+      "author": "imjerusalem",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
+      "created_utc": 1781178021.0,
+      "content": "I have been interning at an ad tech firm for the past five months, and I found the industry quite fascinating. So I went ahead and tried making this manim render. I also wrote a blog [here](https://pratyakshpatel.github.io/programmatic_adtech.html) and also tweeted [this](https://x.com/baldwin_IVth/status/2063867003228856333).  \n  \nLemme know if you guys found it any useful. \n\nhttps://reddit.com/link/1u2wmrm/video/ezhivjjp4n6h1/player\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u2wmrm",
+      "thread_path": "1u2wmrm.json"
     }
   ]
 }

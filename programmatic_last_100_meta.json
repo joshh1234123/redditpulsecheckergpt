@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tb2g63",
-      "title": "Shopsense has joined Amazon Publisher Services (APS) Connection Marketplace, bringing commerce tools to thousands of publishers and independent websites",
-      "author": "u_of_digital",
-      "score": 1,
-      "url": "https://www.reddit.com/gallery/1tb29w2",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tb2g63/shopsense_has_joined_amazon_publisher_services/",
-      "created_utc": 1778594269.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tb4zlu",
-      "title": "DV360 Freelancer support",
-      "author": "lavlavinia",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tb4zlu/dv360_freelancer_support/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tb4zlu/dv360_freelancer_support/",
-      "created_utc": 1778599696.0,
-      "content": "Hi!\n\nWe started to work with DV360 and are looking for some help to scale our campaigns. More specifically:\n\n1. Scaling Expertise: Deep understanding of budget configuration and identifying the best SSPs for our specific vertical.\n2. Technical Configuration Knowledge: Advanced setup of S2S and Direct-to-MMP tracking (for apps), including postbacks for VTA.\n3. Inventory Knowledge: Map the specific traffic types that actually perform on DV360 to avoid waste.\n4. Audience building & custom bidding algorithms\n5. Inventory sources (Open Auction, PG, PD deals)\n\nWe are looking for someone remotely (preferably in UTC-+3). Compensation is up to discussion and will definitely be fair.\n\nPlease send me a message if you are interested! ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tba71r",
       "title": "+19.7K net ads.txt lines this month, but supply quality is tightening, not expanding",
       "author": "DataBeat_adtech",
@@ -1302,6 +1276,32 @@
       "created_utc": 1781105214.0,
       "content": "Can we just pause and appreciate how DV360 hasn't changed their UI in years? Adtheorent is about to put traders into the UI blender - good luck Cadent - RIP Adtheorent",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u2vu7o",
+      "title": "Question for mall media owners and DOOH operators",
+      "author": "quotesweed",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u2vu7o/question_for_mall_media_owners_and_dooh_operators/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u2vu7o/question_for_mall_media_owners_and_dooh_operators/",
+      "created_utc": 1781175647.0,
+      "content": "Why do so many networks still treat programmatic as a place to dump leftover inventory?\n\nIn digital advertising, programmatic became valuable because it expanded demand and improved yield. Yet in DOOH, I still see many operators reserving premium inventory for direct sales and sending only low-priority inventory to SSPs.\n\nThat approach often creates a self-fulfilling cycle where programmatic delivers lower revenue, so investment in it never increases.\n\nHas anyone here successfully used programmatic to increase yield on premium mall inventory without cannibalizing direct sales?\n\nInterested in hearing real-world experiences from operators, agencies, and DSP buyers.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u2wmrm",
+      "title": "Tried to explain how ad tech works on a very high level in a manim render.",
+      "author": "imjerusalem",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
+      "created_utc": 1781178021.0,
+      "content": "I have been interning at an ad tech firm for the past five months, and I found the industry quite fascinating. So I went ahead and tried making this manim render. I also wrote a blog [here](https://pratyakshpatel.github.io/programmatic_adtech.html) and also tweeted [this](https://x.com/baldwin_IVth/status/2063867003228856333).  \n  \nLemme know if you guys found it any useful. \n\nhttps://reddit.com/link/1u2wmrm/video/ezhivjjp4n6h1/player\n\n",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
