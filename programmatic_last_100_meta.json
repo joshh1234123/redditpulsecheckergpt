@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tba71r",
-      "title": "+19.7K net ads.txt lines this month, but supply quality is tightening, not expanding",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tba71r/197k_net_adstxt_lines_this_month_but_supply/",
-      "created_utc": 1778610355.0,
-      "content": "Guys, we just wrapped our May Sellers Report, and while the surface numbers still look like steady expansion, the underlying shift is more interesting.  \nWhen we broke it down, a few patterns stood out:  \n• \\~63% of net growth is coming through reseller paths  \n• High-traffic publishers actually showed negative net growth this month  \n• Most expansion is coming from low-traffic / creator-led inventory  \n• Premium publishers are clearly consolidating and reducing partner overlap  \n• Contextual + curated SSPs are gaining ground as SPO pressure increases  \n• Duplicate paths are still adding unnecessary noise to the auction\n\nNet-net: supply is growing, but it’s becoming more fragmented in the middle layer and more selective at the top.  \nPremium publishers are tightening distribution paths, while incremental growth is shifting toward creator-led and privacy-safe inventory ecosystems.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tbg259",
       "title": "ORTB attributes",
       "author": "babyfootstink",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
       "created_utc": 1781178021.0,
       "content": "I have been interning at an ad tech firm for the past five months, and I found the industry quite fascinating. So I went ahead and tried making this manim render. I also wrote a blog [here](https://pratyakshpatel.github.io/programmatic_adtech.html) and also tweeted [this](https://x.com/baldwin_IVth/status/2063867003228856333).  \n  \nLemme know if you guys found it any useful. \n\nhttps://reddit.com/link/1u2wmrm/video/ezhivjjp4n6h1/player\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u30v93",
+      "title": "LinkedIn ctv feedback",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u30v93/linkedin_ctv_feedback/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u30v93/linkedin_ctv_feedback/",
+      "created_utc": 1781188624.0,
+      "content": "Is LinkedIn CTV a good platform to try to target decision makers / c suite?  Does their LinkedIn 1P data really match well with CTV?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

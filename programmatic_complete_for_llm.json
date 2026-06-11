@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-11T11:53:53.588137+00:00",
-    "total_posts": 1725,
+    "scrape_date": "2026-06-11T15:40:57.046120+00:00",
+    "total_posts": 1726,
     "total_comments": 9843
   },
   "discussions": [
@@ -84358,6 +84358,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1u2wmrm/tried_to_explain_how_ad_tech_works_on_a_very_high/",
       "created_utc": 1781178021.0,
       "content": "I have been interning at an ad tech firm for the past five months, and I found the industry quite fascinating. So I went ahead and tried making this manim render. I also wrote a blog [here](https://pratyakshpatel.github.io/programmatic_adtech.html) and also tweeted [this](https://x.com/baldwin_IVth/status/2063867003228856333).  \n  \nLemme know if you guys found it any useful. \n\nhttps://reddit.com/link/1u2wmrm/video/ezhivjjp4n6h1/player\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1u30v93",
+      "title": "LinkedIn ctv feedback",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u30v93/linkedin_ctv_feedback/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u30v93/linkedin_ctv_feedback/",
+      "created_utc": 1781188624.0,
+      "content": "Is LinkedIn CTV a good platform to try to target decision makers / c suite?  Does their LinkedIn 1P data really match well with CTV?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
