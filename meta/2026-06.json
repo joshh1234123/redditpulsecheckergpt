@@ -629,6 +629,21 @@
       "link_flair_text": null,
       "thread_id": "1u30v93",
       "thread_path": "1u30v93.json"
+    },
+    {
+      "id": "1u36olx",
+      "title": "StackAdapt climbing DSP ranks",
+      "author": "SkyHighShortGuy",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u36olx/stackadapt_climbing_dsp_ranks/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u36olx/stackadapt_climbing_dsp_ranks/",
+      "created_utc": 1781201362.0,
+      "content": "Hearing more about StackAdapt. They were included in Forrester's recent Online Advertising Platform report.\n\nInitially they focused on SMBs (especially mid-market). Curious to hear thoughts on whether they have the tools/infra to support enterprise/F500? \n\nI heard they changed pricing from bundled to transparent pricing. This model aligns with TTD/DV360 (base tech fee \\~10% to 15%).\n\nI know they have snipped at least a few holdco agencies that previously worked with the tier-1s (might not be exclusive but still grabbing share). \n\nAre they doing it with purely with service (which was a + in the Forrester report) or are they undercutting base tech fees of the big players? Other?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u36olx",
+      "thread_path": "1u36olx.json"
     }
   ]
 }
