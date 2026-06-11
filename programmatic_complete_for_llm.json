@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-11T18:42:26.110574+00:00",
-    "total_posts": 1727,
-    "total_comments": 9847
+    "scrape_date": "2026-06-11T21:15:03.050831+00:00",
+    "total_posts": 1729,
+    "total_comments": 9866
   },
   "discussions": [
     {
@@ -84413,6 +84413,150 @@
           "body": "“Good, honest AdTech work of the 2010s”",
           "score": 4,
           "created_utc": 1781202708.0
+        }
+      ]
+    },
+    {
+      "id": "1u383g3",
+      "title": "What is the goal of programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u383g3/what_is_the_goal_of_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u383g3/what_is_the_goal_of_programmatic/",
+      "created_utc": 1781204373.0,
+      "content": "I feel like this question doesn't have an answer. I feel that no matter how hard I study programmatic or work on campaigns, strategy, partnerships etc there's always something missing.\n\nHow do you perceive programmatic and what is the optimal situation for your client to be in?\n\nTo cut to the chase, I feel that there are so many opportunities in programmatic advertising that it's hard to say what's right or wrong and stay in the loop. ",
+      "num_comments": 18,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Good vibes and a yacht in Cannes",
+          "score": 17,
+          "created_utc": 1781205214.0
+        },
+        {
+          "author": "copper678",
+          "body": "Efficiency. ",
+          "score": 10,
+          "created_utc": 1781204534.0
+        },
+        {
+          "author": "BarDown34",
+          "body": "Would you rather talk with hundreds of publishers and curate hundreds of IOs/POs to set up direct deals and then not have any of those post-campaign reports provide any sort of real insight since they are all separate buys....or would you rather just set up a programmatic campaign?",
+          "score": 10,
+          "created_utc": 1781204796.0
+        },
+        {
+          "author": "eltapatio",
+          "body": "In theory subjecting every impression to an auction (ideally second price) to properly put a price. Originating from the early days of programmatic dealing with the problem of remnant inventory. ",
+          "score": 5,
+          "created_utc": 1781204974.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Spending money as quickly as possible but saying “efficiency”\n\nNo buyer sees the ad, could be domain-spoofed, MFA , ad fraud, no one knows or cares - as long as agencies get kickbacks for spend. ",
+          "score": 2,
+          "created_utc": 1781204738.0
+        },
+        {
+          "author": "quixzotic",
+          "body": "I assume you're on the advertiser side. When people say efficiency, I think of both targeting and attribution - the 2 sides of the coin. Programmatic gives you the ability to target the advertiser's goods to specific users. On the attribution side, it gives you the ability to see how your advertisement did. Rinse and repeat. This is a feedback loop where your performance determines the next cycle. It's a a large and complex ecosystem full of both opportunities and grifters, so your job is the make sense of it and figure out what to do to get the best results for your clients.",
+          "score": 1,
+          "created_utc": 1781212429.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "When selecting hundreds and hundreds of publishers via programmatic - how easy is it for a fraudster to spoof one domain?  \n\nWay too easy. ",
+          "score": 1,
+          "created_utc": 1781206309.0
+        },
+        {
+          "author": "MagazineImpressive79",
+          "body": "This is the truth",
+          "score": 2,
+          "created_utc": 1781205494.0
+        },
+        {
+          "author": "MashMeister",
+          "body": "Definitely the agency way however in-house prog. teams tend to have more scrutiny over their campaigns since they are even closer to the decisions and powers that be without hiding under an agency ",
+          "score": 1,
+          "created_utc": 1781205284.0
+        },
+        {
+          "author": "BarDown34",
+          "body": "I'd argue its wayyyy harder than you think.  First off - you likely wouldnt go about selecting hundreds of publishers, and if you did - you would probably just curate a whitelist of the exact publisher site(s) you want to run on - extremely low chance of any fraud there since you are literally determining the sites you run on.\n\n\n\nAdditionally,  DSPs have several different layers or options for fraud protection, detection, and reporting. And if that still doesn't make you feel safe - then you can just activate via PMP/PG deal with the specific publisher you want to work with and you still get all the benefits of reporting/attribution/etc.",
+          "score": 0,
+          "created_utc": 1781207371.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Does the buyer see the ad in a live environment or just trust a mock-up and excel?",
+          "score": 1,
+          "created_utc": 1781205488.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Exactly , so why not approach those 10 publishers directly and place your ad there so you know it’s there.  That way the publisher can get more than 10-20% of the ad dollar as opposed to the tech ad platforms squeezing everyone else out.\n\nBuying on CPM is like standing on a highway billboard and counting each car passing by.  ",
+          "score": 1,
+          "created_utc": 1781207500.0
+        },
+        {
+          "author": "popopopopopopopopoop",
+          "body": "Frankly it sounds like you're not familiar with spoofing. \n\nSpoofing happens and the definition literally is making the buyer side think they're getting a certain domain. \nSo yeah they buy the ad because they think it's on a website that is on their allowlist. \n\nAnd globally around 20% of ads are invalid traffic. \nThat's with all these different layers or options for protection detection and reporting you mention.\nYes things could and should be done to mitigate but it doesn't remove it entirely. \n\n\n",
+          "score": 0,
+          "created_utc": 1781209861.0
+        },
+        {
+          "author": "MashMeister",
+          "body": "When I was in-house they would try to make us find it in a live environment which was only ever achieved through retargeting. Don’t buy open auction and focus on a curated list of trusted PMPs only if you’re nervous of ad fraud. Big advertisers have already done this such as Target",
+          "score": 1,
+          "created_utc": 1781205689.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Spoofing shouldn’t be accepted as a part of advertising just because it’s exists.  \n\nWe don’t have to accept it - we can reject it altogether - along with the many , many unnecessary layers within programmatic advertising.\n\nPrivacy unsafe user targeting , domain spoofing , brand safety, IVT , audience targeting , intent data - at what point is any of it verified and real ? \n\nBuy direct with the pubs you want, look at the placements yourself and then talk to those publishers.  The way business is supposed to be done. \n\nProgrammatic is like the modern American insurance system.  A middle man squeezing everyone else out and owning all of the profits instead of the content creator (the publisher who should be getting at least 70% of each ad dollar) ",
+          "score": 1,
+          "created_utc": 1781210430.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "all it takes is one spoofed domain and a click farm in Eastern Europe or Asia and fraudsters are making easy easy money ",
+          "score": -1,
+          "created_utc": 1781205745.0
+        },
+        {
+          "author": "MashMeister",
+          "body": "Not as much with PMP if you have direct relationships and checking ads.txt sellers.json",
+          "score": 1,
+          "created_utc": 1781205894.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "Direct relationships are the only way to verify.  Otherwise fraudsters get involved.\n\nMillions of dollars spent every month in AdTech and no buyer sees their ad.  Wild stuff.  ",
+          "score": 1,
+          "created_utc": 1781206100.0
+        }
+      ]
+    },
+    {
+      "id": "1u38wnj",
+      "title": "Supply is still growing but premium publishers seem to be getting more selective",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u38wnj/supply_is_still_growing_but_premium_publishers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u38wnj/supply_is_still_growing_but_premium_publishers/",
+      "created_utc": 1781206162.0,
+      "content": "Spent some time digging through recent ads.txt changes across the top 50k US publishers and found something that feels easy to miss if you only look at net growth numbers.  \nSupply is still expanding.  \nBut most of that growth is coming from smaller and creator-led publishers, while larger publishers appear to be trimming relationships rather than adding them.  \nA few things that stood out:  \n• High-traffic publishers posted negative net growth  \n• Low-traffic publishers drove the vast majority of new additions  \n• Reseller paths accounted for most of the growth  \n• Duplicate supply paths remain surprisingly common  \nThe takeaway for me isn't that supply is growing. It's that the quality *threshold* for getting onto premium publishers seems to be getting higher.  \nA few years ago growth meant adding more paths. Today it increasingly looks like growth means proving why your path deserves to stay.  \nThat's a very different market than the one a lot of SSPs were built for.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "life_Bittersweet",
+          "body": "I was just reading about this yesterday. By removing supply path parties and making inventory available to brands via shorter paths or direct deals the publishers are taking back control. They see much more revenue, 50-150% growth and selected brands see lower costs of advertising and guaranteed impressions. \nIn the last 5 years, the market has also seen growth in influencer marketing on social media. We are seeing a big reshuffle that is gonna leave less for the intermediaries in programmatic.",
+          "score": 1,
+          "created_utc": 1781208410.0
         }
       ]
     }

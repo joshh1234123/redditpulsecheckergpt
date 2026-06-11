@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tbwyb1",
-      "title": "Tore down BuzzFeed's mobile ad stack: $91.7M/yr in ads, only 3 demand partners",
-      "author": "Beautiful-Car1077",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tbwyb1/tore_down_buzzfeeds_mobile_ad_stack_917myr_in_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tbwyb1/tore_down_buzzfeeds_mobile_ad_stack_917myr_in_ads/",
-      "created_utc": 1778672086.0,
-      "content": "I just started a series of mobile ad-stack teardowns. Each issue takes one real app and walks through how it actually monetizes, with cross-checks against the publisher's public 10-K where they have one.\n\n1st is the BuzzFeed Android app. They do **$91.7M/yr in ad revenue** (per their 2025 10-K), and **76% of that is programmatic** ($69.6M).\n\nThree things that surprised me:\n\n**1. Only 3 demand partners wired into mediation.** Google (AdMob or GAM, same SDK), Meta Audience Network, Amazon APS. That's the whole list. All three bidding, no waterfall. Most indie devs assume the big publishers run 10+. They don't.\n\n**2. No interstitials, no rewarded, no app-open** on a 10M+ install app. They declare rewarded in the SDK but it doesn't fire on the main surfaces. Even huge publishers leave format-yield on the table.\n\n**3. Refresh is aggressive.** 10-second refresh on the top sticky banner, 30-second on the in-article unit. Both refresh on a timer regardless of scroll. That's where they've drawn the line on density.\n\nFull report: [monetizationguy.com/teardowns/buzzfeed](http://monetizationguy.com/teardowns/buzzfeed)\n\nLet me know what you think, anything missing you'd want added in future issues, and which app I should analyze next?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tccqxb",
-      "title": "UX Research Opportunity- 3P Data Buyers",
-      "author": "fraser_rock",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tccqxb/ux_research_opportunity_3p_data_buyers/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tccqxb/ux_research_opportunity_3p_data_buyers/",
-      "created_utc": 1778706078.0,
-      "content": "Hi r/programmatic! My name is Ashley and I am a UX researcher at LiveRamp. We’re currently looking to chat with a couple of people who currently buy 3rd party data from a DSP as a part of their work. \n\nAll that would be required would be a 60 minute Zoom call, and participants will be compensated with a $100 gift card of their choice as a thank you for their time. \n\nIf you are interested in participating, you can follow the link to sign up, or feel free to reach out to me directly with any questions! \n\n[Participant Sign Up](https://www.userinterviews.com/projects/E2KmZ5sjdA/apply)  \n\nThanks so much for your time! ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tcgvp7",
       "title": "Small Roku ctv channel what should I expect cpm using google ads",
       "author": "Plastic_Spread_8246",
@@ -1302,6 +1276,32 @@
       "created_utc": 1781201362.0,
       "content": "Hearing more about StackAdapt. They were included in Forrester's recent Online Advertising Platform report.\n\nInitially they focused on SMBs (especially mid-market). Curious to hear thoughts on whether they have the tools/infra to support enterprise/F500? \n\nI heard they changed pricing from bundled to transparent pricing. This model aligns with TTD/DV360 (base tech fee \\~10% to 15%).\n\nI know they have snipped at least a few holdco agencies that previously worked with the tier-1s (might not be exclusive but still grabbing share). \n\nAre they doing it with purely with service (which was a + in the Forrester report) or are they undercutting base tech fees of the big players? Other?",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u383g3",
+      "title": "What is the goal of programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u383g3/what_is_the_goal_of_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u383g3/what_is_the_goal_of_programmatic/",
+      "created_utc": 1781204373.0,
+      "content": "I feel like this question doesn't have an answer. I feel that no matter how hard I study programmatic or work on campaigns, strategy, partnerships etc there's always something missing.\n\nHow do you perceive programmatic and what is the optimal situation for your client to be in?\n\nTo cut to the chase, I feel that there are so many opportunities in programmatic advertising that it's hard to say what's right or wrong and stay in the loop. ",
+      "num_comments": 18,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u38wnj",
+      "title": "Supply is still growing but premium publishers seem to be getting more selective",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u38wnj/supply_is_still_growing_but_premium_publishers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u38wnj/supply_is_still_growing_but_premium_publishers/",
+      "created_utc": 1781206162.0,
+      "content": "Spent some time digging through recent ads.txt changes across the top 50k US publishers and found something that feels easy to miss if you only look at net growth numbers.  \nSupply is still expanding.  \nBut most of that growth is coming from smaller and creator-led publishers, while larger publishers appear to be trimming relationships rather than adding them.  \nA few things that stood out:  \n• High-traffic publishers posted negative net growth  \n• Low-traffic publishers drove the vast majority of new additions  \n• Reseller paths accounted for most of the growth  \n• Duplicate supply paths remain surprisingly common  \nThe takeaway for me isn't that supply is growing. It's that the quality *threshold* for getting onto premium publishers seems to be getting higher.  \nA few years ago growth meant adding more paths. Today it increasingly looks like growth means proving why your path deserves to stay.  \nThat's a very different market than the one a lot of SSPs were built for.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
