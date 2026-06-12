@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-12T18:59:38.321142+00:00",
-    "total_posts": 1730,
-    "total_comments": 9866
+    "scrape_date": "2026-06-12T21:02:56.309395+00:00",
+    "total_posts": 1732,
+    "total_comments": 9869
   },
   "discussions": [
     {
@@ -84573,6 +84573,54 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1u467y1",
+      "title": "Rant Publicis and TTD Settle “Dispute”",
+      "author": "lafromnyc",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u467y1/rant_publicis_and_ttd_settle_dispute/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u467y1/rant_publicis_and_ttd_settle_dispute/",
+      "created_utc": 1781295036.0,
+      "content": "https://digiday.com/media-buying/publicis-and-the-trade-desk-settle-their-dispute-but-tell-no-one-why\n\nThis is why this industry and the ad tech industry at times is so full of BS. Jeff talks about transparency but where’s the transparency in how and why the “dispute” was settled. IMO it was clearly a negotiation tactic by Publicis bc it was clearly eating into their huge principle media margins. And clearly TTD was not doing completely upfront/transparent things within their UI, much like Google used to do in AdWords and Ads.\n\nMaybe Jeff comes out with a statement but this “announcement” clearly means that TTD understands that certain “compromises” and acceptances have to be made bc they need the business and this is how things are done in this industry. \n\nSo essentially no progress was made, they both agreed to disagree and just move on. Jeff champions transparency and the open internet but this doesn’t help that IMO.\n\nPublicis is going to continue to do non transparent principle media things to boost their margins (that at times are not in the best interests of their clients but I the best interest of their bottom line)and TTD will continue to have features in their UI that are on by default that they charge a fee for, that may not necessarily be useful for a client’s campaign.\n\nIs this even surprising? When billions are involved it’s always about the money. The hypocrisy continues.\n\n ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jake_dasnake3",
+          "body": "Never understood this argument because you can pull reporting in TTD that shows every single penny you pay and where it goes. Clearly just a bs tactic to negotiate rates and instead of everybody calling out publicis for this they just jumped on the TTD pile",
+          "score": 4,
+          "created_utc": 1781297063.0
+        },
+        {
+          "author": "RichConstruction4887",
+          "body": "\\*\\*Tries StackAdapt for a month\\*\\*\\*\n\n....holy shit, please take us back Jeff...we're sorry.",
+          "score": 1,
+          "created_utc": 1781297682.0
+        }
+      ]
+    },
+    {
+      "id": "1u4738v",
+      "title": "Roku in talk to sell to someone? Who are your top 3 potential buyers?",
+      "author": "Available_Plant3712",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u4738v/roku_in_talk_to_sell_to_someone_who_are_your_top/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4738v/roku_in_talk_to_sell_to_someone_who_are_your_top/",
+      "created_utc": 1781297074.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "codalark",
+          "body": "Me ",
+          "score": 1,
+          "created_utc": 1781297344.0
+        }
+      ]
     }
   ]
 }
