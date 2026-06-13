@@ -734,6 +734,21 @@
       "link_flair_text": null,
       "thread_id": "1u4cxpm",
       "thread_path": "1u4cxpm.json"
+    },
+    {
+      "id": "1u4zgl1",
+      "title": "Pivoting from AM/Ops to SE/TAM - Give me the real tea on upskilling.",
+      "author": "SarahsBakeryHouse",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u4zgl1/pivoting_from_amops_to_setam_give_me_the_real_tea/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4zgl1/pivoting_from_amops_to_setam_give_me_the_real_tea/",
+      "created_utc": 1781377981.0,
+      "content": "I have 7-8 years of experience across DSP, SSP, and publisher sides doing AdOps and Account Management. I've spent years playing translator between engineering teams and clients, fixing the programmatic pipeline, and turning technical messes into revenue.\n\nFrankly, I am ready to stop playing whack a mole with junior agency reps over minor campaign issues and move into Solutions / Sales Engineering or Technical Account Management. I have a 360 degree understanding of how the tech works, but I need to formalize my technical toolkit to pass the harder SE interviews.\n\nFor those who made this jump: What is the actual reality of the skill gap? I know everyone says \"learn SQL/Python,\" but how deep do I actually need to go for ad tech specifically? Are cloud certs (AWS/GCP) worth the time, or should I just build a portfolio proving I can dissect an OpenRTB payload, read ad logs or write custom API scripts? Give me the real gossip on what hiring managers are actually looking for.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u4zgl1",
+      "thread_path": "1u4zgl1.json"
     }
   ]
 }
