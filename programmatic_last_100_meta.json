@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1td1akh",
-      "title": "Looking for Self Serve DSP recs",
-      "author": "totalcanucklehead",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1td1akh/looking_for_self_serve_dsp_recs/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1td1akh/looking_for_self_serve_dsp_recs/",
-      "created_utc": 1778771848.0,
-      "content": "Looking for recommendations for a self-serve DSP that we're looking to onboard  for in-house programmatic activation. Requirements below: \n\n* Ideally No Minimums (or low minimums)\n* Canadian and US Geos\n* Must allow for financial product advertising (driving to educational pages for ETFs and related investment instruments)\n* Uploading of 1PD for targeting / retargeting \n* Decent Hierarchy for creating advertisers and sub advertisers accounts for budget / campaign management\n\nLooking at StackAdapt currently but open to any recs from those that have used a DSP that satisfies the above. \n\nThanks!",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tdmkyj",
       "title": "Programmatic Advertising",
       "author": "Significant_Plane562",
@@ -1302,6 +1289,19 @@
       "created_utc": 1781297074.0,
       "content": "",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u4cxpm",
+      "title": "Any ideas how someone is running broadcast tv ads? Read more",
+      "author": "Enviromental1001",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
+      "created_utc": 1781312029.0,
+      "content": "Any ideas.. Waiting on hear back from business owner on more details. He is a AC heating repair business in my town.\n\n  \nHe claims he is running ads on his own and placing them.\n\n  \nSaw the Ads on CBS News and YES Network when watching Fios TV and not via an app or streaming.\n\n  \nIs there a way to get on regular channels like this via DV360? I didnt think that was possible.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

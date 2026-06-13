@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-13T00:15:00.263953+00:00",
-    "total_posts": 1732,
-    "total_comments": 9869
+    "scrape_date": "2026-06-13T04:57:45.104378+00:00",
+    "total_posts": 1733,
+    "total_comments": 9871
   },
   "discussions": [
     {
@@ -84619,6 +84619,33 @@
           "body": "Me ",
           "score": 1,
           "created_utc": 1781297344.0
+        }
+      ]
+    },
+    {
+      "id": "1u4cxpm",
+      "title": "Any ideas how someone is running broadcast tv ads? Read more",
+      "author": "Enviromental1001",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
+      "created_utc": 1781312029.0,
+      "content": "Any ideas.. Waiting on hear back from business owner on more details. He is a AC heating repair business in my town.\n\n  \nHe claims he is running ads on his own and placing them.\n\n  \nSaw the Ads on CBS News and YES Network when watching Fios TV and not via an app or streaming.\n\n  \nIs there a way to get on regular channels like this via DV360? I didnt think that was possible.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Mojos_Pride",
+          "body": "It’s local cable. Rep calls him up, probably makes the ad for him, they traffic and report. Some addressable inventory is coming through FreeWheel, but likely this is plain vanilla local spot business.",
+          "score": 2,
+          "created_utc": 1781315054.0
+        },
+        {
+          "author": "Available_Plant3712",
+          "body": "Could be buying through Comcast, charter, or cox advertising. Or also buying on SMB dsp like vibe co ",
+          "score": 0,
+          "created_utc": 1781316546.0
         }
       ]
     }
