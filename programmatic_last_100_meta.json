@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1te2qfq",
-      "title": "Anyone else run into duplicated impressions and huge discrepancies even though the platform shows no errors?",
-      "author": "official_rebeca",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1te2qfq/anyone_else_run_into_duplicated_impressions_and/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1te2qfq/anyone_else_run_into_duplicated_impressions_and/",
-      "created_utc": 1778865306.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1te3c5p",
       "title": "Running supply in a vertical the major platforms exclude",
       "author": "nmorriss",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1u4zgl1/pivoting_from_amops_to_setam_give_me_the_real_tea/",
       "created_utc": 1781377981.0,
       "content": "I have 7-8 years of experience across DSP, SSP, and publisher sides doing AdOps and Account Management. I've spent years playing translator between engineering teams and clients, fixing the programmatic pipeline, and turning technical messes into revenue.\n\nFrankly, I am ready to stop playing whack a mole with junior agency reps over minor campaign issues and move into Solutions / Sales Engineering or Technical Account Management. I have a 360 degree understanding of how the tech works, but I need to formalize my technical toolkit to pass the harder SE interviews.\n\nFor those who made this jump: What is the actual reality of the skill gap? I know everyone says \"learn SQL/Python,\" but how deep do I actually need to go for ad tech specifically? Are cloud certs (AWS/GCP) worth the time, or should I just build a portfolio proving I can dissect an OpenRTB payload, read ad logs or write custom API scripts? Give me the real gossip on what hiring managers are actually looking for.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u57j65",
+      "title": "Potential M&A in adtech",
+      "author": "WildEstablishment267",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u57j65/potential_ma_in_adtech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u57j65/potential_ma_in_adtech/",
+      "created_utc": 1781399694.0,
+      "content": "Solely focussed on pure play Adtech companies, who per your understanding of landscape will be a good combination\n\n1) TTD + OpenX: apart from the matching product names, this might give TTD what they need at scale, partnerships on supply and people who understand it\n\n2) Netflix + Magnite or OpenAI + Magnite: gives both companies instant leverage and scale on omni channel supply\n\n3) Pubmatic + Viant: gives similar vibes in approach and both bullish on AI and getting on each orher’s land. Could fit, merger than an acquisition possibly\n\n4) Xandr + Msft: will most likely shut down SSP offering next year to focus on O&O\n\nAny other possibilities? Pls share ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
