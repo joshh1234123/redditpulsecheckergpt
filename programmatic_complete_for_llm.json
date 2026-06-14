@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-14T22:03:52.847776+00:00",
-    "total_posts": 1736,
+    "scrape_date": "2026-06-14T23:43:47.891842+00:00",
+    "total_posts": 1737,
     "total_comments": 9871
   },
   "discussions": [
@@ -84686,6 +84686,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1u5reij/best_crash_course_on_ads_auto_bidders_ads_auction/",
       "created_utc": 1781458627.0,
       "content": "Any resources anyone could recommend to learn more about this domain -- I haven't worked in ads in awhile and looking to move back into the domain in a support type role.  So I don't need to be an expert in the area but I'd like to learn the ropes a bit.  Any talks, courses, books that could ramp me up in the current advertising landscape -- specifically video ads for services like amazon,hulu, disney, netflix, etc.\n\nThank you!!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1u606du",
+      "title": "Can Vibe.co PLEASE stop serving me ads?",
+      "author": "InevitableVictory729",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u606du/can_vibeco_please_stop_serving_me_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u606du/can_vibeco_please_stop_serving_me_ads/",
+      "created_utc": 1781479883.0,
+      "content": "I work in digital advertising so I’m used to getting hit with ads for different platforms all the time.\n\nBut for the love of all that is good in this world, I am so sick of seeing Vibe.co ads every single day. I even counted yesterday: I was hit 26 times *in a single day*. For a platform that is touting itself as the next best thing in CTV, you’d think it would understand something about frequency caps. \n\nWhomever is running YouTube ads for Vibe needs to be fired yesterday, they have completely oversaturated the audience, to the point where I’m certain it’s starting to *decrease* sentiment. \n\nAnd don’t use them for ads, quality is mid at best. Even if it wasn’t, I’d avoid it out of spite. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
