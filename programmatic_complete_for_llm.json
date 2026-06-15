@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-15T09:23:48.964177+00:00",
-    "total_posts": 1738,
-    "total_comments": 9872
+    "scrape_date": "2026-06-15T15:26:43.484999+00:00",
+    "total_posts": 1740,
+    "total_comments": 9875
   },
   "discussions": [
     {
@@ -84723,6 +84723,54 @@
           "body": "Vendor jobs> Brand jobs > Agency jobs.\n\nIn terms of what skills are valuable, yeah, I’d say sales is the most valuable skill. They’re more AI proof, but sales jobs can be tough. My experience is sales has a much shorter leash than say trading, account management, etc. Sales jobs also aren’t layoff proof. If a company is going through a soft sales cycle sales gets axed first.",
           "score": 1,
           "created_utc": 1781487261.0
+        }
+      ]
+    },
+    {
+      "id": "1u6did7",
+      "title": "What do you think will be the biggest MediaTech trend over the next 5 years?",
+      "author": "quotesweed",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u6did7/what_do_you_think_will_be_the_biggest_mediatech/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u6did7/what_do_you_think_will_be_the_biggest_mediatech/",
+      "created_utc": 1781521792.0,
+      "content": "A few areas that seem to be getting the most attention right now:\n\n* AI-powered content creation and localization\n* Programmatic advertising across more channels\n* Retail Media Networks\n* Audience measurement and attribution\n* Streaming profitability and ad-supported models\n* Creator economy platforms\n* Digital Out-of-Home (DOOH) automation\n* First-party data and privacy-focused targeting\n\nPersonally, I think we're moving toward a future where media businesses rely less on manual operations and more on automation, audience intelligence, and real-time decision-making.\n\nCurious to hear from people working across streaming, publishing, advertising, broadcasting, and other MediaTech sectors:\n\n**What trend do you think will have the biggest impact on the industry by 2030, and why?**",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Few-Orchid-9804",
+          "body": "Using AI to justify laying people off. Turning around and telling the remaining employees to “do more with less” and increasing their workloads to make up for the lowered headcount",
+          "score": 8,
+          "created_utc": 1781522062.0
+        },
+        {
+          "author": "BurnerAcountInnit",
+          "body": "Fraud and post mortem regulation. ",
+          "score": 5,
+          "created_utc": 1781522861.0
+        }
+      ]
+    },
+    {
+      "id": "1u6gnyv",
+      "title": "For brand awareness campaigns",
+      "author": "Hefty_Bet262",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u6gnyv/for_brand_awareness_campaigns/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u6gnyv/for_brand_awareness_campaigns/",
+      "created_utc": 1781530183.0,
+      "content": "What will be your total viewed ads per audience?  \nHow many time single audience so your ad? more is always good.? and what will bd your lookback window? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ladipn",
+          "body": "What creative? For display you need up to 12 per week, ctv 3 should be enough. OLV somewhere in between.\n\n80% of target audience should be your goal, but unlikely to happen due to budget constraints. \n\nLookback should depend on your product and category, what is the typical decision time from need to purchase for your product/category? If unknown, I'll go a default 28 days. ",
+          "score": 1,
+          "created_utc": 1781531624.0
         }
       ]
     }
