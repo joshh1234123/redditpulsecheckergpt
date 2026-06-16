@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-16T02:59:34.007591+00:00",
-    "total_posts": 1740,
-    "total_comments": 9875
+    "scrape_date": "2026-06-16T08:48:20.205039+00:00",
+    "total_posts": 1741,
+    "total_comments": 9883
   },
   "discussions": [
     {
@@ -84771,6 +84771,69 @@
           "body": "What creative? For display you need up to 12 per week, ctv 3 should be enough. OLV somewhere in between.\n\n80% of target audience should be your goal, but unlikely to happen due to budget constraints. \n\nLookback should depend on your product and category, what is the typical decision time from need to purchase for your product/category? If unknown, I'll go a default 28 days. ",
           "score": 1,
           "created_utc": 1781531624.0
+        }
+      ]
+    },
+    {
+      "id": "1u7651x",
+      "title": "Urgent help DV360 Query",
+      "author": "Blasterblade_09",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
+      "created_utc": 1781593156.0,
+      "content": "I am currently running a DV360 Display campaign and would appreciate your guidance on a performance trend we have observed.\n\n&#x200B;\n\nPreviously, the campaign was running on Open Exchange inventory and was delivering in line with expectations. Recently, we transitioned the campaign to a Deals Curation setup, following which performance declined noticeably.\n\n&#x200B;\n\nBased on our understanding, the campaign setup remains unchanged across both environments, including targeting, audiences, creatives, bidding strategy, and optimization approach. The only significant change appears to be the inventory access route, where inventory is now being accessed through curated deals rather than Open Exchange.\n\n&#x200B;\n\nGiven that the publishers, URLs, and overall inventory sources appear largely consistent, we would like to better understand why such a significant performance difference is being observed.\n\n&#x200B;\n\nCould you help clarify:\n\n&#x200B;\n\nHow deal-curated inventory differs from Open Exchange inventory when the underlying supply appears similar?\n\nWhether auction dynamics, deal floors, win rates, inventory prioritization, or other factors could be contributing to the performance decline?\n\nWhat key reports or metrics we should review to identify the root cause of the variance?\n\n&#x200B;\n\nAny insights or recommendations would be greatly appreciated.",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "Correct me if I'm understanding it right, basically you are saying the performance dropped in a deal curated campaign compared to opx while every other targeting is same.\n\nAlso what performance metric are you comparing? ",
+          "score": 1,
+          "created_utc": 1781593731.0
+        },
+        {
+          "author": "Blasterblade_09",
+          "body": "We are trying to identify the issue for a week is it google going something in the backend not sure although we have gam deals included.",
+          "score": 1,
+          "created_utc": 1781594101.0
+        },
+        {
+          "author": "Jake_dasnake3",
+          "body": "Cpm? If you’re paying more for the same everything that will cause a performance spike ",
+          "score": 1,
+          "created_utc": 1781597423.0
+        },
+        {
+          "author": "Blasterblade_09",
+          "body": "Yes it's lower funnel objective like CPA, Conversion and landings",
+          "score": 1,
+          "created_utc": 1781593819.0
+        },
+        {
+          "author": "Blasterblade_09",
+          "body": "Howere here the difference are in conversion previously in open exchange we used to get it but now it completely no conversion even when we are spending in full",
+          "score": 1,
+          "created_utc": 1781597509.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "That's an interesting situation. I have not run that but in my understanding deals give better quality inventory doesn't guarantee better conversation. But nonetheless let's see what others say. I'll check the comments in a few hours.",
+          "score": 2,
+          "created_utc": 1781594011.0
+        },
+        {
+          "author": "Jake_dasnake3",
+          "body": "It’s impossible to answer this without the reporting",
+          "score": 1,
+          "created_utc": 1781597669.0
+        },
+        {
+          "author": "Blasterblade_09",
+          "body": "Reporting what do I see nothing abb normal ",
+          "score": 1,
+          "created_utc": 1781597701.0
         }
       ]
     }

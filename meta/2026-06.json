@@ -839,6 +839,21 @@
       "link_flair_text": null,
       "thread_id": "1u6gnyv",
       "thread_path": "1u6gnyv.json"
+    },
+    {
+      "id": "1u7651x",
+      "title": "Urgent help DV360 Query",
+      "author": "Blasterblade_09",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
+      "created_utc": 1781593156.0,
+      "content": "I am currently running a DV360 Display campaign and would appreciate your guidance on a performance trend we have observed.\n\n&#x200B;\n\nPreviously, the campaign was running on Open Exchange inventory and was delivering in line with expectations. Recently, we transitioned the campaign to a Deals Curation setup, following which performance declined noticeably.\n\n&#x200B;\n\nBased on our understanding, the campaign setup remains unchanged across both environments, including targeting, audiences, creatives, bidding strategy, and optimization approach. The only significant change appears to be the inventory access route, where inventory is now being accessed through curated deals rather than Open Exchange.\n\n&#x200B;\n\nGiven that the publishers, URLs, and overall inventory sources appear largely consistent, we would like to better understand why such a significant performance difference is being observed.\n\n&#x200B;\n\nCould you help clarify:\n\n&#x200B;\n\nHow deal-curated inventory differs from Open Exchange inventory when the underlying supply appears similar?\n\nWhether auction dynamics, deal floors, win rates, inventory prioritization, or other factors could be contributing to the performance decline?\n\nWhat key reports or metrics we should review to identify the root cause of the variance?\n\n&#x200B;\n\nAny insights or recommendations would be greatly appreciated.",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u7651x",
+      "thread_path": "1u7651x.json"
     }
   ]
 }
