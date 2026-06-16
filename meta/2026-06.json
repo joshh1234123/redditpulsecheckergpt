@@ -884,6 +884,21 @@
       "link_flair_text": null,
       "thread_id": "1u7cx35",
       "thread_path": "1u7cx35.json"
+    },
+    {
+      "id": "1u7lxsv",
+      "title": "Best way to secure specific inventory - through exchanges on ads.txt or direct",
+      "author": "Akajdrod",
+      "score": 2,
+      "url": "https://i.redd.it/8c374ayduo7h1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7lxsv/best_way_to_secure_specific_inventory_through/",
+      "created_utc": 1781634725.0,
+      "content": "Hi everyone, \n\nCurious how do you go about getting on specific websites - for example, NYC-specific entertainment/event websites and I'm checking their ads.txt files. \n\n  \nLet's say I only can either reach out directly to the publisher or reach out to an exchange that is present on all of the websites, which way would you go to setup a deal for those websites? \n\n",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1u7lxsv",
+      "thread_path": "1u7lxsv.json"
     }
   ]
 }

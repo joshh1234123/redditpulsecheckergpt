@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tfs9i1",
-      "title": "Need Advice on Max Bid for DV360",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tfs9i1/need_advice_on_max_bid_for_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tfs9i1/need_advice_on_max_bid_for_dv360/",
-      "created_utc": 1779030787.0,
-      "content": "Working with Disney reps they told me which deals on market place I should use.\n\n  \nI was using the Disney Production $21 Floor. What do you think is a reasonable bid I should enter into DV360 without over-paying?\n\nI was doing Fixed Bid $25, wasn't getting much activity last few days so I updated it to $28. I usually run the ads with daypart from 7pm-11pm.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tfvx6y",
       "title": "Publicis buys LiveRamp for $2.5 billion in agentic AI data play",
       "author": "danie-l",
@@ -1302,6 +1289,19 @@
       "created_utc": 1781614940.0,
       "content": "**The Background**  \nI am a 37-year-old marketer. For 3 years, I worked at an agency specializing strictly in **programmatic campaign execution** (setup, pacing, launching, budget allocation, and raw data extraction) for a major automotive client. My manager handled all strategy, planning, and client-facing reporting. While I had *some* minor exposure to the strategic, planning & post campaign reporting side, my core expertise was highly technical and operational.\n\n**The \"Bait and Switch\" (I Think)**  \nA recruiter reached out to me on LinkedIn for a \"Junior Programmatic Manager\" role at another Marketing Agency. The interview process felt suspiciously easy—no rigorous technical assessments, just a basic Excel test on pivot tables and standard marketing math. I was offered the job and accepted.\n\nWhen I arrived, my title was officially **Programmatic Marketing Manager**, but the reality of the role is completely different:\n\n**The Shock:** My team heavily prefers hiring external advertising vendors for **Direct Digital Media Buying** because they find it cheaper and like the \"added value\" (bonus impressions). My core skill set is programmatic, yet I am barely doing any programmatic work.\n\n**The Scope:** I was under the impression I’d be shadowing a Senior Programmatic Manager. Instead, I was thrown directly into the fire. I am managing **3 food clients** and reporting to **3 separate Directors**.\n\n**The Overwhelming Reality**  \nI am now in my second month (still on probation), and I am completely underwater. My daily responsibilities now include tasks I have zero prior experience doing independently:  \n**1. End-to-End Strategy & Planning:** Creating PowerPoint proposals from scratch to pitch marketing tactics to clients.  \n**2. Heavy Client Communication:** Managing daily back-and-forth emails.  \n**3. Advanced Reporting:** Creating monthly pacing and post-campaign performance decks. I know how to read data, but I don't have the experience to \"tell a story\" or provide the deep, strategic \"So What?\" that clients expect.  \n**4. Constant Confusion:** My team and directors constantly message me on Teams asking for context or information I simply don't have. The handover from the person I replaced was practically non-existent.\n\n**Toxic Agency Culture**  \nThe workload is unmanageable. There is a campaign launch *every single month* across all 3 accounts.  \nManagement only cares about client satisfaction; employee well-being is zero priority.\n\nTo stay afloat, everyone works past 5 PM. One of my colleagues is working **16 hours a day**.\n\nI am flooded with emails and Teams messages late at night and all through the weekend.\n\n**The Toll on My Mental Health**  \nI can no longer enjoy my weekends because of a paralyzing dread about Monday. I have trouble sleeping, I wake up with severe anxiety, and I feel like I'm slipping into depression. At work, I feel completely lost and honestly expect to get terminated soon because of the disconnect between my qualifications and their expectations. There is also zero room for me to grow into the Senior Programmatic role I actually want.\n\n**My Dilemma**  \n1. I can’t go back to my old job (the role has been filled).  \n2. I can’t quit or ask for mutual separation because I won't qualify for unemployment benefits.  \n3. With the current tough job market, I know finding a new role will take time.\n\nHas anyone else faced a similar bait-and-switch or been thrown into a mid-level client-facing role with only execution experience? How did you survive day-to-day without losing your mind, and how did you navigate your exit?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1u7lxsv",
+      "title": "Best way to secure specific inventory - through exchanges on ads.txt or direct",
+      "author": "Akajdrod",
+      "score": 2,
+      "url": "https://i.redd.it/8c374ayduo7h1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7lxsv/best_way_to_secure_specific_inventory_through/",
+      "created_utc": 1781634725.0,
+      "content": "Hi everyone, \n\nCurious how do you go about getting on specific websites - for example, NYC-specific entertainment/event websites and I'm checking their ads.txt files. \n\n  \nLet's say I only can either reach out directly to the publisher or reach out to an exchange that is present on all of the websites, which way would you go to setup a deal for those websites? \n\n",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

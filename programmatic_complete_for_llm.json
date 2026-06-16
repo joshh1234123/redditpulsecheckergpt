@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-16T18:13:41.336926+00:00",
-    "total_posts": 1743,
-    "total_comments": 9887
+    "scrape_date": "2026-06-16T21:24:24.368783+00:00",
+    "total_posts": 1744,
+    "total_comments": 9892
   },
   "discussions": [
     {
@@ -84888,6 +84888,51 @@
           "body": "Luckily, since you’re working with direct partners, they should be providing you with information on their recommended tactics and mid / post campaign reporting. ",
           "score": 1,
           "created_utc": 1781615162.0
+        }
+      ]
+    },
+    {
+      "id": "1u7lxsv",
+      "title": "Best way to secure specific inventory - through exchanges on ads.txt or direct",
+      "author": "Akajdrod",
+      "score": 2,
+      "url": "https://i.redd.it/8c374ayduo7h1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7lxsv/best_way_to_secure_specific_inventory_through/",
+      "created_utc": 1781634725.0,
+      "content": "Hi everyone, \n\nCurious how do you go about getting on specific websites - for example, NYC-specific entertainment/event websites and I'm checking their ads.txt files. \n\n  \nLet's say I only can either reach out directly to the publisher or reach out to an exchange that is present on all of the websites, which way would you go to setup a deal for those websites? \n\n",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Diligent_Interview98",
+          "body": "Contact direct publisher ",
+          "score": 6,
+          "created_utc": 1781635371.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Pmp’s and pg’s, prefer direct publisher. Exchanges like to push ron to you.",
+          "score": 2,
+          "created_utc": 1781636249.0
+        },
+        {
+          "author": "Akajdrod",
+          "body": "So you would go to 15-20 publishers separately vs going through a reseller? Any specific reasons, especially if this is not some sort of custom placement but rather access to their standard banners/video players.",
+          "score": 0,
+          "created_utc": 1781635725.0
+        },
+        {
+          "author": "describe_one",
+          "body": "Yes, to reduce fraud and fees. Prog fees add up fast, and before you know it you're paying more for fees than media (if you aren't already).",
+          "score": 4,
+          "created_utc": 1781636029.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Yes contact publisher. Some won’t add you to ads.txt though. ",
+          "score": 2,
+          "created_utc": 1781636234.0
         }
       ]
     }
