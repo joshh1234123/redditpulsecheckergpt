@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-16T08:48:20.205039+00:00",
-    "total_posts": 1741,
-    "total_comments": 9883
+    "scrape_date": "2026-06-16T13:24:28.788953+00:00",
+    "total_posts": 1743,
+    "total_comments": 9887
   },
   "discussions": [
     {
@@ -84834,6 +84834,60 @@
           "body": "Reporting what do I see nothing abb normal ",
           "score": 1,
           "created_utc": 1781597701.0
+        }
+      ]
+    },
+    {
+      "id": "1u7a7wc",
+      "title": "How do you manage DOOH advertising for the first time?",
+      "author": "SelfMemedMan",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7a7wc/how_do_you_manage_dooh_advertising_for_the_first/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7a7wc/how_do_you_manage_dooh_advertising_for_the_first/",
+      "created_utc": 1781607378.0,
+      "content": "My director just asked me to draft a proposal for digital out of home advertising by the end of the month. I have worked in paid social and search for four years and I know those channels well but DOOH feels like a whole new world. I don’t know how inventory is bought, if we go directly to vendors or through a platform, how targeting compares to digital or what a realistic budget looks like for a first test campaign",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Natural-Maize-6465",
+          "body": "What you should consider is where you want to use dooh, since every country has different possibilities for targeting and tracking success.\n\nAlso, budget allocation depends on so many factors, screen, size, amount of screens, placement etc.\n\nI would recommend starting with a minimum of 10k per city for testing for a 1-2 week flight.\n\nIf I were you, I would talk with a rep of a programmatic dooh sales unit, such as Vistar Media, Broadsign, One Tech Group etc… yes they do all take a cut, but you are trading a cut from cpm for better targeting capabilities than if you go with one single vendor. ",
+          "score": 3,
+          "created_utc": 1781608066.0
+        },
+        {
+          "author": "AndreaMartel",
+          "body": "The previous reply is correct. However if you are running a small campaign in just one or two DMAs, it can be better to work directly with a local rep for the dominant outdoor company. They can give you good advice on locations/placements, and you can usually pick up remnant inventory for much lower CPMs than buying programmatically. The tradeoff is that you usually will not have as much flexibility to turn it on/off as you'll have to sign a contract.",
+          "score": 1,
+          "created_utc": 1781614302.0
+        },
+        {
+          "author": "SevereAddition8147",
+          "body": "Pdooh is like anything else you can buy programmatically. If you want specific screens or inventory you need to get some pmps from vendors / publishers. If you just want Ron in your dsp, it’s just like activating anything else. \n\nAlso, 85% of what my team activates is pdooh. If you want to subcontract to us, we are available ",
+          "score": 1,
+          "created_utc": 1781615195.0
+        }
+      ]
+    },
+    {
+      "id": "1u7cx35",
+      "title": "Hired as a Programmatic Manager at a Marketing Agency but got bait-and-switched into a grueling, mid-level Direct Buying/Account Executive Role. Overwhelmed, undertrained, and drowning. Need advice.",
+      "author": "Coffee-Addict-1",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7cx35/hired_as_a_programmatic_manager_at_a_marketing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7cx35/hired_as_a_programmatic_manager_at_a_marketing/",
+      "created_utc": 1781614940.0,
+      "content": "**The Background**  \nI am a 37-year-old marketer. For 3 years, I worked at an agency specializing strictly in **programmatic campaign execution** (setup, pacing, launching, budget allocation, and raw data extraction) for a major automotive client. My manager handled all strategy, planning, and client-facing reporting. While I had *some* minor exposure to the strategic, planning & post campaign reporting side, my core expertise was highly technical and operational.\n\n**The \"Bait and Switch\" (I Think)**  \nA recruiter reached out to me on LinkedIn for a \"Junior Programmatic Manager\" role at another Marketing Agency. The interview process felt suspiciously easy—no rigorous technical assessments, just a basic Excel test on pivot tables and standard marketing math. I was offered the job and accepted.\n\nWhen I arrived, my title was officially **Programmatic Marketing Manager**, but the reality of the role is completely different:\n\n**The Shock:** My team heavily prefers hiring external advertising vendors for **Direct Digital Media Buying** because they find it cheaper and like the \"added value\" (bonus impressions). My core skill set is programmatic, yet I am barely doing any programmatic work.\n\n**The Scope:** I was under the impression I’d be shadowing a Senior Programmatic Manager. Instead, I was thrown directly into the fire. I am managing **3 food clients** and reporting to **3 separate Directors**.\n\n**The Overwhelming Reality**  \nI am now in my second month (still on probation), and I am completely underwater. My daily responsibilities now include tasks I have zero prior experience doing independently:  \n**1. End-to-End Strategy & Planning:** Creating PowerPoint proposals from scratch to pitch marketing tactics to clients.  \n**2. Heavy Client Communication:** Managing daily back-and-forth emails.  \n**3. Advanced Reporting:** Creating monthly pacing and post-campaign performance decks. I know how to read data, but I don't have the experience to \"tell a story\" or provide the deep, strategic \"So What?\" that clients expect.  \n**4. Constant Confusion:** My team and directors constantly message me on Teams asking for context or information I simply don't have. The handover from the person I replaced was practically non-existent.\n\n**Toxic Agency Culture**  \nThe workload is unmanageable. There is a campaign launch *every single month* across all 3 accounts.  \nManagement only cares about client satisfaction; employee well-being is zero priority.\n\nTo stay afloat, everyone works past 5 PM. One of my colleagues is working **16 hours a day**.\n\nI am flooded with emails and Teams messages late at night and all through the weekend.\n\n**The Toll on My Mental Health**  \nI can no longer enjoy my weekends because of a paralyzing dread about Monday. I have trouble sleeping, I wake up with severe anxiety, and I feel like I'm slipping into depression. At work, I feel completely lost and honestly expect to get terminated soon because of the disconnect between my qualifications and their expectations. There is also zero room for me to grow into the Senior Programmatic role I actually want.\n\n**My Dilemma**  \n1. I can’t go back to my old job (the role has been filled).  \n2. I can’t quit or ask for mutual separation because I won't qualify for unemployment benefits.  \n3. With the current tough job market, I know finding a new role will take time.\n\nHas anyone else faced a similar bait-and-switch or been thrown into a mid-level client-facing role with only execution experience? How did you survive day-to-day without losing your mind, and how did you navigate your exit?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "EarthPrimer",
+          "body": "Luckily, since you’re working with direct partners, they should be providing you with information on their recommended tactics and mid / post campaign reporting. ",
+          "score": 1,
+          "created_utc": 1781615162.0
         }
       ]
     }
