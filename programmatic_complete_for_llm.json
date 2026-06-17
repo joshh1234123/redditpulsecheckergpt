@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-17T00:22:23.747245+00:00",
-    "total_posts": 1744,
-    "total_comments": 9892
+    "scrape_date": "2026-06-17T05:22:46.316398+00:00",
+    "total_posts": 1747,
+    "total_comments": 9899
   },
   "discussions": [
     {
@@ -84935,6 +84935,92 @@
           "created_utc": 1781636234.0
         }
       ]
+    },
+    {
+      "id": "1u7wrk6",
+      "title": "FTC is reportedly drafting a multibillion-dollar complaint against Amazon over opaque auction dynamics and undisclosed \"reserve pricing\"",
+      "author": "Hungry_Can_2164",
+      "score": 29,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7wrk6/ftc_is_reportedly_drafting_a_multibilliondollar/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7wrk6/ftc_is_reportedly_drafting_a_multibilliondollar/",
+      "created_utc": 1781660750.0,
+      "content": "Even if Amazon DSP is safe for now, a legal crack down on their core retail search ad business could fundamentally alter how they cross-subsidize and bundle their programmatic offerings to brands. How do you see this playing out for independent alternatives like TTD?\n\n  \n[https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit?srnd=homepage-americas](https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit?srnd=homepage-americas)\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "CornDawgy87",
+          "body": "Anyone have a non-paywall link?",
+          "score": 3,
+          "created_utc": 1781661732.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Wow!",
+          "score": 1,
+          "created_utc": 1781661090.0
+        },
+        {
+          "author": "Hungry_Can_2164",
+          "body": "This is how broken the internet is, and publishers are getting f ed. I asked Google for a summary, and it just pulled the text from publishers with zero click-through.\n\n**AI summary**\n\n**The** [**Bloomberg article**](https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit) **reports that the US Federal Trade Commission (FTC) is drafting a potential lawsuit against Amazon over allegations that the company misled advertisers, exposing the e-commerce giant to billions of dollars in civil penalties**\\*\\*.\\*\\*\n\nThe core takeaways from the report include:\n\n* **Scope of Investigation:** Handled by the FTC’s consumer protection unit, the probe focuses on whether Amazon properly disclosed the explicit pricing metrics and terms for the advertisements placed across its platform.\n* **Auction Manipulation Tactics:** The FTC is actively scrutinizing the inner workings of Amazon’s digital ad auctions, specifically looking at whether it failed to disclose \"reserve pricing\" (the hidden minimum price floor an advertiser must clear to win an ad spot).\n* **State Alliance for Higher Fines:** Multiple state attorneys general are joining the federal investigation. Working together allows regulators to bypass some federal penalty caps by leverage state unfair-competition laws to chase multi-billion dollar accumulating fines.\n* **Expected Timeline:** The FTC is expected to finalize its decision and either file the formal lawsuit or announce a heavily negotiated structural settlement **as soon as this summer**.",
+          "score": 5,
+          "created_utc": 1781662043.0
+        }
+      ]
+    },
+    {
+      "id": "1u7z8az",
+      "title": "AI Vibe Check",
+      "author": "RenegadeRach",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u7z8az/ai_vibe_check/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7z8az/ai_vibe_check/",
+      "created_utc": 1781667766.0,
+      "content": "Are we all burnt out from AI yet or is it actually helping anyone or anything?\n\nWill my new job be creating/maintaining/managing AI agents instead of completing the work to service clients myself? \n\nI am seeing so many internal requests and directives at my company and I’ve tried to participate in using AI tools that have rolled out across the org but it’s actually exhausting and time consuming and feels like a second job.  ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "vibepods",
+          "body": "Lots of c suite pressure to integrate ai in as many workflows as possible. Interviewing for senior director and above is very interesting now with many direct questions about hands-on ai tools that you’ve built and rolled out at an enterprise level, less emphasis on client/sales/biz dev/technical experience. How you use ai to improve as much of your day-to-day as possible. Aside from interviews, these same questions are coming down as statements from leadership.\n\nI’m also seeing a lot of consolidation on the market, roles morphing into “principal of integrated media” for example, essentially teams of 1-2 people to optimize full channel performance (search/social/prog DSP + ad server + partnerships, linear, direct mail, influencer, etc) using AI & API to do as much of it as possible.\n\nLast thing i’m noticing since AI gripped the industry is that salaries are coming down. What was paying $160,000-190,000 a couple years ago for the same role at the same level, is now paying around $110,000-140,000. Hope i’m wrong about that, but it’s my perspective as I generally keep an eye on new prog jobs and interview even when i’m comfortably in a role.\n\n\\^non client side ",
+          "score": 2,
+          "created_utc": 1781669841.0
+        },
+        {
+          "author": "checkyminus",
+          "body": "I dunno. AI has enabled me to do a LOT more than I was doing a few years ago, which lead to massive increases in my salary... But it doesn't help me at all with the stress of being responsible for more, if that makes sense. Lately my best days at work are the ones where I've stopped caring",
+          "score": 4,
+          "created_utc": 1781668738.0
+        },
+        {
+          "author": "Arlitto",
+          "body": "The company encourages us to incorporate AI into our workflow, so I've been using it for things like validating my queries or even fixing the line that's broken. I never ask it to write one from scratch though because it's still pretty fucking stupid, but it does catch things I'd otherwise miss.",
+          "score": 1,
+          "created_utc": 1781669499.0
+        },
+        {
+          "author": "General_Shine_8480",
+          "body": "I work on the data side and we’ve started using it to replace the dashboards we have. So far it’s been positive, we’ve seen usage go up compared to the old dashboards and we’ve gotten positive feedback that they use it more because it’s easier and we’d done a good job fixing that issues.\n\nSo far I’m happy how we’ve implemented it and it’s helping get rid of qa/deep dive dashboards that I’ve always thought where bad but since we couldn’t help everyone it was the best we could do. At first I definitely felt that our AI initiatives where making more work than helping but in the last couple of months it’s helped us create a better product and we’re now looking to expand headcount next year because we want to expand this to external clients.",
+          "score": 1,
+          "created_utc": 1781671003.0
+        }
+      ]
+    },
+    {
+      "id": "1u80n39",
+      "title": "Bait & switched into a toxic \"Manager\" role I’m completely unqualified for. Burned out, anxious, and need advice.",
+      "author": "Coffee-Addict-1",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u80n39/bait_switched_into_a_toxic_manager_role_im/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u80n39/bait_switched_into_a_toxic_manager_role_im/",
+      "created_utc": 1781672132.0,
+      "content": "Hey everyone, I really need some advice or just to hear from anyone who has survived a similar situation. I’m currently in my second month at a new marketing agency and I am completely drowning, burned out, and full of anxiety. I feel like I’ve been victims of a massive \"bait and switch.\"\n\n**My Background vs. The \"Bait\"**  \nFor the past 5 years, I worked at a steady-paced agency doing programmatic campaign execution for an automotive client.  \n**1. What I actually know how to do:** Platform setup, pacing, optimization, budget allocation, and pulling raw data.  \n**2. What my old manager did:** All strategy, planning, presentations, and client communication.  \n**3. Why I left:** The agency lost a huge client. While I survived layoffs, they froze all raises and promotions. I hadn't had a raise in 2 years, so I looked elsewhere.\n\nA recruiter reached out on LinkedIn for a **Junior Programmatic Manager** role. The interview process felt suspiciously easy—no technical assessments, just a basic Excel pivot table test. I took the job expecting a senior manager to shadow, and a roadmap to grow into a senior programmatic role. Boy, was I wrong.\n\n**The Reality: A Massive \"Bait & Switch\"**  \nI was hired as a *Programmatic* Manager, but my team heavily prefers direct digital media buying because they think it's cheaper. I am barely touching programmatic. Instead, I’ve been thrown into a mid-to-senior level account management role with zero training and a terrible handover from the person who left.  \nI am currently running **3 separate accounts** with **3 different Directors** to report to. My responsibilities now include:  \n**1. End-to-end Strategy & Planning:** Creating PowerPoint proposals and choosing tactics (which I’ve never done).  \n**2. Constant Client Communication:** Handling all client emails and expectations.  \n**3. Advanced Reporting:** Creating and presenting monthly and post-campaign decks. I know data, but I don't know how to do executive \"storytelling\" or provide the \"So What?\" factors.\n\n**The Toxic Agency Culture**  \nThe environment is ridiculously fast-paced and cutthroat.  \n**1. The Hours:** Most of my colleagues work 12-hour days. I am constantly bombarded with Teams messages and emails after 5 PM and all over the weekend.  \n**2. Management:** Upper management only cares about keeping clients happy. They intentionally drop reminders right before 5 PM to ruin your evening.  \n**3. The \"Perks\" Scam:** We supposedly get \"half-day Fridays\" in the summer, but the Directors intentionally schedule meetings at 3:30 PM or set 5 PM deadlines on Fridays to force everyone to work.\n\n**The Breaking Point (Mental Health & Family)**  \nThe workload is piling up so fast that I can’t even take a sick day. It has gotten so bad that it is affecting my family. **Twice recently, my pregnant wife had pregnancy complications, and I had to tell her to \"hang on until 5 PM\" so I wouldn't fall behind at work before taking her to the hospital.** I feel sick even typing that.  \nMy mental health is entirely shot. I can’t sleep, I wake up with severe anxiety, I have trouble getting out of bed, and I dread the weekends because Monday is always looming. I feel depressed.\n\n**My Current Dilemma**  \n1. I cannot ask for my old job back (it’s been filled).  \n2. I can’t just quit or ask for mutual separation, because I need to qualify for unemployment benefits (EI) to survive this tough job market.  \n3. I have 1 month left of my 3-month probation period.  \n4. If I pass probation, I am seriously considering trying to get a doctor's note for a 3-month stress leave.\n\nHonestly, I am at the point where I *want* them to terminate me so I can just collect unemployment, breathe, and figure out my next steps (or go back to school).\n\nHas anyone else been completely misrepresented into a role that killed their mental health? How did you handle it? How do I survive the next month without losing my mind?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
