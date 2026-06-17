@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-17T05:22:46.316398+00:00",
-    "total_posts": 1747,
+    "scrape_date": "2026-06-17T10:12:48.984377+00:00",
+    "total_posts": 1749,
     "total_comments": 9899
   },
   "discussions": [
@@ -85017,6 +85017,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1u80n39/bait_switched_into_a_toxic_manager_role_im/",
       "created_utc": 1781672132.0,
       "content": "Hey everyone, I really need some advice or just to hear from anyone who has survived a similar situation. I’m currently in my second month at a new marketing agency and I am completely drowning, burned out, and full of anxiety. I feel like I’ve been victims of a massive \"bait and switch.\"\n\n**My Background vs. The \"Bait\"**  \nFor the past 5 years, I worked at a steady-paced agency doing programmatic campaign execution for an automotive client.  \n**1. What I actually know how to do:** Platform setup, pacing, optimization, budget allocation, and pulling raw data.  \n**2. What my old manager did:** All strategy, planning, presentations, and client communication.  \n**3. Why I left:** The agency lost a huge client. While I survived layoffs, they froze all raises and promotions. I hadn't had a raise in 2 years, so I looked elsewhere.\n\nA recruiter reached out on LinkedIn for a **Junior Programmatic Manager** role. The interview process felt suspiciously easy—no technical assessments, just a basic Excel pivot table test. I took the job expecting a senior manager to shadow, and a roadmap to grow into a senior programmatic role. Boy, was I wrong.\n\n**The Reality: A Massive \"Bait & Switch\"**  \nI was hired as a *Programmatic* Manager, but my team heavily prefers direct digital media buying because they think it's cheaper. I am barely touching programmatic. Instead, I’ve been thrown into a mid-to-senior level account management role with zero training and a terrible handover from the person who left.  \nI am currently running **3 separate accounts** with **3 different Directors** to report to. My responsibilities now include:  \n**1. End-to-end Strategy & Planning:** Creating PowerPoint proposals and choosing tactics (which I’ve never done).  \n**2. Constant Client Communication:** Handling all client emails and expectations.  \n**3. Advanced Reporting:** Creating and presenting monthly and post-campaign decks. I know data, but I don't know how to do executive \"storytelling\" or provide the \"So What?\" factors.\n\n**The Toxic Agency Culture**  \nThe environment is ridiculously fast-paced and cutthroat.  \n**1. The Hours:** Most of my colleagues work 12-hour days. I am constantly bombarded with Teams messages and emails after 5 PM and all over the weekend.  \n**2. Management:** Upper management only cares about keeping clients happy. They intentionally drop reminders right before 5 PM to ruin your evening.  \n**3. The \"Perks\" Scam:** We supposedly get \"half-day Fridays\" in the summer, but the Directors intentionally schedule meetings at 3:30 PM or set 5 PM deadlines on Fridays to force everyone to work.\n\n**The Breaking Point (Mental Health & Family)**  \nThe workload is piling up so fast that I can’t even take a sick day. It has gotten so bad that it is affecting my family. **Twice recently, my pregnant wife had pregnancy complications, and I had to tell her to \"hang on until 5 PM\" so I wouldn't fall behind at work before taking her to the hospital.** I feel sick even typing that.  \nMy mental health is entirely shot. I can’t sleep, I wake up with severe anxiety, I have trouble getting out of bed, and I dread the weekends because Monday is always looming. I feel depressed.\n\n**My Current Dilemma**  \n1. I cannot ask for my old job back (it’s been filled).  \n2. I can’t just quit or ask for mutual separation, because I need to qualify for unemployment benefits (EI) to survive this tough job market.  \n3. I have 1 month left of my 3-month probation period.  \n4. If I pass probation, I am seriously considering trying to get a doctor's note for a 3-month stress leave.\n\nHonestly, I am at the point where I *want* them to terminate me so I can just collect unemployment, breathe, and figure out my next steps (or go back to school).\n\nHas anyone else been completely misrepresented into a role that killed their mental health? How did you handle it? How do I survive the next month without losing my mind?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1u85iaq",
+      "title": "Wie würdet ihr \"Welche Vorteile bietet programmatic advertising für kleine Unternehmen und wie beginne ich damit\" mit belegbaren Quellen und ohne Werbesprache erklären?",
+      "author": "ewasolutions",
+      "score": 1,
+      "url": "/r/u_ewasolutions/comments/1u85frl/wie_würdet_ihr_welche_vorteile_bietet/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u85iaq/wie_würdet_ihr_welche_vorteile_bietet/",
+      "created_utc": 1781689047.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1u85n7n",
+      "title": "Jounce Media property scores flagging ESPN and Fox Sports as \"High Risk\"?",
+      "author": "slippycrook",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u85n7n/jounce_media_property_scores_flagging_espn_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u85n7n/jounce_media_property_scores_flagging_espn_and/",
+      "created_utc": 1781689522.0,
+      "content": "Hey everyone,   \nMy DSP's managed services team is looking into using **Jounce Media’s property score reports** for inventory curation. The data framework looks solid overall, but digging into the actual file, some of the CTV recommendations are just weird.\n\nWe’re seeing top-tier premium apps like **Fox Sports, ESPN, and BET+** flagged as **\"High Risk\"** with a strict **\"Do Not Buy\"** recommendation.   \nThese are massive properties that clients actually want, not long-tail MFA noise. Why are these media giants getting hit like this, and how are they not fighting it?\n\nPart of me wants to just use Jounce's \"Buy with Confidence\" list as a safe inclusion list, but we'd be missing out on massive premium scale. Is Jounce just being overly aggressive with their filtering, or is there a genuine supply path/spoofing issue with these specific apps that I'm missing?\n\nIf anyone else here is operationalizing this file, how are you actually handling it? Are you doing blanket blocks, or manually overriding the file to save your premium CTV scale?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
