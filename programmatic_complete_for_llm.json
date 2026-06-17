@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-17T10:12:48.984377+00:00",
-    "total_posts": 1749,
-    "total_comments": 9899
+    "scrape_date": "2026-06-17T14:06:56.216879+00:00",
+    "total_posts": 1750,
+    "total_comments": 9902
   },
   "discussions": [
     {
@@ -85049,6 +85049,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1u874ah",
+      "title": "When to use each deal?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u874ah/when_to_use_each_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u874ah/when_to_use_each_deal/",
+      "created_utc": 1781694392.0,
+      "content": "Do you agree with the below? And if yes, what would you add/how do you usually structure your campaign?\n\nPG: When client wants premium inventory and guaranteed volume goal. E.g product launches, mass awareness, takeovers etc.\n\nPMP: When client wants to go cheaper than PG, wants to test multiple publishers and find what works out best, while still buying decent inventory\n\nOMP: Lower funnel campaigns, traffic testing, low price",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ladipn",
+          "body": "Yup, completely agree.\n\nDepending on budget i try to have PMP regardless of upper or lower funnel. It's where i see consistent results when i need mid-campaign optimization. ",
+          "score": 1,
+          "created_utc": 1781695122.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "But the pg deal they can use their secret sauce and get best performance according to the sales rep. ",
+          "score": 1,
+          "created_utc": 1781697416.0
+        },
+        {
+          "author": "TheGrandLeveler",
+          "body": "Will you use multiple PMPs or just one?",
+          "score": 1,
+          "created_utc": 1781699666.0
+        }
+      ]
     }
   ]
 }
