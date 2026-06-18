@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-18T20:14:17.636954+00:00",
-    "total_posts": 1752,
-    "total_comments": 9910
+    "scrape_date": "2026-06-18T22:29:25.568173+00:00",
+    "total_posts": 1753,
+    "total_comments": 9913
   },
   "discussions": [
     {
@@ -85158,6 +85158,39 @@
           "body": "A distributor traditionally was the local affiliate for the broadcaster (the local group that owns the ABC, CBS, NBC distribution rights). That’s why it’s inherently “local.” Then you’ve got cable - Comcast, Spectrum, regional providers - and satellite - dish & DirecTV. They make their own deals for split ad spot sales rights.\n\nToday, with streaming, you still have the same thing, but a lot more distributors - Roku, LG, Samsung, Amazon, etc. etc. - and everyone that has the cable & satellite rights now offering the same on streaming.\n\nThis is why a lot of live sports is bought through DirecTV & Sling. Disney/ESPN, FOX, Paramount, NBC all sell direct. But the remaining split ad spots are for the distributor to fill. Tighter on avails. Inherently less footprint (you’re reliant on the distributors geo footprint and scale).",
           "score": 1,
           "created_utc": 1781784427.0
+        }
+      ]
+    },
+    {
+      "id": "1u9h6hf",
+      "title": "How to reach Parents & Teachers via CTV",
+      "author": "Akajdrod",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1u9h6hf/how_to_reach_parents_teachers_via_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1u9h6hf/how_to_reach_parents_teachers_via_ctv/",
+      "created_utc": 1781813858.0,
+      "content": "Hi all, \n\n  \nmy client (US market) has a request: aiming to reach parents/guardians of children ages 5-10yo and teacher who teach K-5. \n\n  \nOfc I will reach out to my CTV partners and ask how they would go about it and there's always a Parent demo filter in DSPs (not that I trust it). \n\n  \nHow would you go about reaching those audiences in CTV environment? \n\n  \nThanks in advance!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Diligent_Interview98",
+          "body": "Silverpush has contextual segment targeting on both CTV and YouTube that got those segments. Reach out to them",
+          "score": 1,
+          "created_utc": 1781815367.0
+        },
+        {
+          "author": "Gullible_Attitude_20",
+          "body": "Your best bet is contextual targeting here. The recommendation of Silverpush is good - they will have segments that work on both CTV and YouTube. ",
+          "score": 1,
+          "created_utc": 1781821315.0
+        },
+        {
+          "author": "birdwothwords",
+          "body": "YouTube. ",
+          "score": 1,
+          "created_utc": 1781814277.0
         }
       ]
     }
