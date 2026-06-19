@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1thrmjo",
-      "title": "What Publicis Is Really Buying for $2.2B: Notes on the LiveRamp Deal",
-      "author": "Double_Secretary9930",
-      "score": 8,
-      "url": "https://www.reddit.com/r/programmatic/comments/1thrmjo/what_publicis_is_really_buying_for_22b_notes_on/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1thrmjo/what_publicis_is_really_buying_for_22b_notes_on/",
-      "created_utc": 1779207050.0,
-      "content": "$2.2B for LiveRamp.  \nArthur Sadoun, Publicis' CEO, says it is about helping clients \"take back control of their data from the walled gardens.\"  \n  \nI read that line twice. Then I read it a third time. Still did not quite buy it.  \n  \nI did not think: wow, this changes everything.  \nI thought: does this really matter when advertising is already dominated by walled gardens?  \n  \nThe walled gardens own the login, the inventory, the auction, the optimization, and the measurement dashboard. One identity layer does not change that.  \nBuying LiveRamp is not how you take any of that back. It is how you build a stronger position in everything the walled gardens do not fully own.  \n  \nWhich is still worth a lot.  \nRetail media is $69B. CTV and commerce video together push past $140B. Clean rooms are how any of it gets measured in a privacy-constrained world.  \n  \nThat is the real story.  \n  \nNot \"Publicis vs. the walled gardens.\"  \nMore like \"Publicis getting smarter about everything outside them.\"  \nA smaller claim than the press release. Also a more believable one.\n\n  \nMy full post is [here](https://chandlernguyen.com/blog/2026/05/18/what-publicis-is-really-buying-for-2-2b-liveramp-deal/) in case you want to read more.  ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1thv3r9",
       "title": "Begin to render imps",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1781813858.0,
       "content": "Hi all, \n\n  \nmy client (US market) has a request: aiming to reach parents/guardians of children ages 5-10yo and teacher who teach K-5. \n\n  \nOfc I will reach out to my CTV partners and ask how they would go about it and there's always a Parent demo filter in DSPs (not that I trust it). \n\n  \nHow would you go about reaching those audiences in CTV environment? \n\n  \nThanks in advance!",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ua1vic",
+      "title": "Nutzt hier noch jemand B2B Display-, Video- oder Programmatic-Werbung?",
+      "author": "ewasolutions",
+      "score": 1,
+      "url": "/r/u_ewasolutions/comments/1ua1urh/nutzt_hier_noch_jemand_b2b_display_video_oder/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ua1vic/nutzt_hier_noch_jemand_b2b_display_video_oder/",
+      "created_utc": 1781875292.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

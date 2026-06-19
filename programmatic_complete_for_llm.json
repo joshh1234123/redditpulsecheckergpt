@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-19T10:15:39.608852+00:00",
-    "total_posts": 1753,
+    "scrape_date": "2026-06-19T13:53:21.847408+00:00",
+    "total_posts": 1754,
     "total_comments": 9913
   },
   "discussions": [
@@ -85193,6 +85193,20 @@
           "created_utc": 1781814277.0
         }
       ]
+    },
+    {
+      "id": "1ua1vic",
+      "title": "Nutzt hier noch jemand B2B Display-, Video- oder Programmatic-Werbung?",
+      "author": "ewasolutions",
+      "score": 1,
+      "url": "/r/u_ewasolutions/comments/1ua1urh/nutzt_hier_noch_jemand_b2b_display_video_oder/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ua1vic/nutzt_hier_noch_jemand_b2b_display_video_oder/",
+      "created_utc": 1781875292.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
