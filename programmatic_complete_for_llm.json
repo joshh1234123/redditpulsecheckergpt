@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-20T12:24:27.251545+00:00",
-    "total_posts": 1754,
+    "scrape_date": "2026-06-20T14:39:08.894714+00:00",
+    "total_posts": 1755,
     "total_comments": 9913
   },
   "discussions": [
@@ -85203,6 +85203,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ua1vic/nutzt_hier_noch_jemand_b2b_display_video_oder/",
       "created_utc": 1781875292.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uax9v7",
+      "title": "Welche Rolle spielt programmatische Online-Werbung heute noch?",
+      "author": "ewasolutions",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uax9v7/welche_rolle_spielt_programmatische_onlinewerbung/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uax9v7/welche_rolle_spielt_programmatische_onlinewerbung/",
+      "created_utc": 1781963795.0,
+      "content": "Viele Diskussionen drehen sich um Google Ads, SEO, Social Ads oder AI Search. Programmatische Online-Werbung wirkt dagegen manchmal wie ein Kanal, der weniger sichtbar diskutiert wird.\n\nTrotzdem sehen wir weiterhin Use Cases für Display-Werbung, Video-Werbung, Retargeting und lokale Reichweite – vor allem wenn Unternehmen nicht nur auf aktive Suchnachfrage warten möchten / können.\n\nWie seht ihr das? Nutzt ihr programmatische Online-Werbung noch? Für B2B, B2C oder beides? Und bewertet ihr den Erfolg eher über direkte Leads oder über Reichweite, Sichtbarkeit und spätere Nachfrage?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
