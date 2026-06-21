@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-20T23:42:16.071010+00:00",
-    "total_posts": 1755,
-    "total_comments": 9913
+    "scrape_date": "2026-06-21T02:57:28.539018+00:00",
+    "total_posts": 1756,
+    "total_comments": 9914
   },
   "discussions": [
     {
@@ -85221,6 +85221,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ubdqft",
+      "title": "AT&T Paid $1.6B for AppNexus. Microsoft Shut It Down. Here's the Full Wreckage.",
+      "author": "Available_Plant3712",
+      "score": 2,
+      "url": "https://left-over.lol/article/1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ubdqft/att_paid_16b_for_appnexus_microsoft_shut_it_down/",
+      "created_utc": 1782007157.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "HairySprinkles7369",
+          "body": "If you think that’s wild look up aQuantive ",
+          "score": 2,
+          "created_utc": 1782009239.0
+        }
+      ]
     }
   ]
 }
