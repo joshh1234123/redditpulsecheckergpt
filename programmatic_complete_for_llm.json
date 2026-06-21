@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-21T21:50:44.234276+00:00",
-    "total_posts": 1757,
-    "total_comments": 9915
+    "scrape_date": "2026-06-21T23:04:02.423587+00:00",
+    "total_posts": 1758,
+    "total_comments": 9917
   },
   "discussions": [
     {
@@ -85261,6 +85261,33 @@
           "body": "Generally no, but the knowledge would be useful in the interview process. ",
           "score": 1,
           "created_utc": 1782077812.0
+        }
+      ]
+    },
+    {
+      "id": "1uc2udv",
+      "title": "Who Owns Your Identity Graph Now",
+      "author": "Available_Plant3712",
+      "score": 4,
+      "url": "https://left-over.lol/article/7",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uc2udv/who_owns_your_identity_graph_now/",
+      "created_utc": 1782080032.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Oh I’ll be downvoted because I work at Yahoo but this article doesn’t even mention their identifier ConnectID which is the most absorbed one in the bitstream (according to Sincera which TTD owns). Plus it’s deterministic logged in users where this other stuff is bought and sold from who knows where. ",
+          "score": 2,
+          "created_utc": 1782082917.0
+        },
+        {
+          "author": "Available_Plant3712",
+          "body": "It’s yahoo 1P data for people using Yahoo Mail or fantasy sports?",
+          "score": 1,
+          "created_utc": 1782082971.0
         }
       ]
     }
