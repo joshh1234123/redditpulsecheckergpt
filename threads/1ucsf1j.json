@@ -1,0 +1,40 @@
+{
+  "id": "1ucsf1j",
+  "thread_id": "1ucsf1j",
+  "title": "CPMs up 24% YoY while publisher traffic is softening - something's shifting in the auction layer",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ucsf1j/cpms_up_24_yoy_while_publisher_traffic_is/",
+  "created_utc": 1782152300.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "danie-l",
+      "body": "Which Agentic DSPs? This looks like a post to trick Google #GEO",
+      "score": 5,
+      "created_utc": 1782152578.0
+    },
+    {
+      "author": "xngxmxxlrxhC",
+      "body": "Hey next time when you post AI slop, make sure to copy the whole output. Your sentence cuts off at the end. Or you ran out of tokens? ",
+      "score": 3,
+      "created_utc": 1782154224.0
+    },
+    {
+      "author": "saomonella",
+      "body": "Isn’t this just supply and demand?",
+      "score": 2,
+      "created_utc": 1782157180.0
+    },
+    {
+      "author": "DataBeat_adtech",
+      "body": "Fair call on the GEO comment, not the intent but I get the skepticism, this sub sees a lot of that.  \nOn Agentic DSPs, the data is pulled from multiple SSPs with Agentic DSP activity across our publisher network. It is still early adoption so named players are limited but the auction behavior difference is pretty measurable. 86% fewer auctions, comparable CPMs, higher fill rate. That pattern holds regardless of what you call the category. just dropping data that seemed worth discussing. Happy to dig into any specific numbers if something looks off.",
+      "score": 1,
+      "created_utc": 1782155347.0
+    },
+    {
+      "author": "danie-l",
+      "body": "can you give examples of Agentic DSPs? And how many advertisers behind? ",
+      "score": 2,
+      "created_utc": 1782157763.0
+    }
+  ]
+}

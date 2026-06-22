@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tji78o",
-      "title": "How to attribute CTV's role in the overall paid media mix",
-      "author": "Far_Argument5470",
-      "score": 7,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tji78o/how_to_attribute_ctvs_role_in_the_overall_paid/",
-      "created_utc": 1779364507.0,
-      "content": "I'm working for a $20M ARR b2b SaaS and CTV is now 20-25% of our paid mix.\n\nWe're well past testing and are now trying to figure what role it should play in the ful paid mix as we scale. We’re seeing the expected signs: branded search lift, more direct/dark traffic, etc, but the signals are showing up downstream. Credit still collapses into last-touch search/direct, and as usual, each platform is overclaiming.\n\nIn a mix model, how do you judge CTV's contribution relative to lower-funnel channels and if any, what signals do you trust for when CTV is showing up indirectly?",
-      "num_comments": 8,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tjiask",
       "title": "How to guarantee PMP delivery",
       "author": "FreeDirt8386",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782139449.0,
       "content": "Has anyone used any good streaming audio production services? I have a client who wants to run streaming audio programmatically but they need a spot produced. Will provide a script. Just need it read, recorded and edited to format.",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ucsf1j",
+      "title": "CPMs up 24% YoY while publisher traffic is softening - something's shifting in the auction layer",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ucsf1j/cpms_up_24_yoy_while_publisher_traffic_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ucsf1j/cpms_up_24_yoy_while_publisher_traffic_is/",
+      "created_utc": 1782152300.0,
+      "content": "Pulling from a dataset of 35B+ impressions, $55M+ revenue, 200+ bidders - here's what stood out in May.\n\nTraffic is down. Sessions/user -6%, engagement rate -3%, organic search slipping. ChatGPT referrals doubled MoM, and still only 3.4% of referral volume.\n\nBut CPMs are doing the opposite:\n\n* Overall +24.2% YoY\n* Video +10.5% MoM, back positive YoY\n* Desktop surging, now commanding a real premium over mobile\n* CTV recovering MoM but still -14.7% YoY\n\nThe part I keep coming back to: Agentic DSPs are participating in 86% fewer auctions than traditional DSPs but hitting comparable CPMs and higher fill rates. Bidding less, converting better.\n\nPrebid also dropped from 48% to 41% share. AdX and TAM both grew. Buyers are rotating toward controlled supply paths.\n\nAnyone else seeing the desktop premium widen? And is ChatGPT referral traffic actually engaging on your end or just bouncing?\n\nhttps://preview.redd.it/3lgehb8dvv8h1.png?width=1386&format=png&auto=webp&s=b92fd29880ec30f44d973f873b626b6389c7fd6a",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-22T18:00:43.732045+00:00",
-    "total_posts": 1759,
-    "total_comments": 9919
+    "scrape_date": "2026-06-22T20:55:52.839739+00:00",
+    "total_posts": 1760,
+    "total_comments": 9924
   },
   "discussions": [
     {
@@ -85315,6 +85315,51 @@
           "body": "Manifoldplatform.com offers audio creative services with their campaigns.",
           "score": 0,
           "created_utc": 1782144680.0
+        }
+      ]
+    },
+    {
+      "id": "1ucsf1j",
+      "title": "CPMs up 24% YoY while publisher traffic is softening - something's shifting in the auction layer",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ucsf1j/cpms_up_24_yoy_while_publisher_traffic_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ucsf1j/cpms_up_24_yoy_while_publisher_traffic_is/",
+      "created_utc": 1782152300.0,
+      "content": "Pulling from a dataset of 35B+ impressions, $55M+ revenue, 200+ bidders - here's what stood out in May.\n\nTraffic is down. Sessions/user -6%, engagement rate -3%, organic search slipping. ChatGPT referrals doubled MoM, and still only 3.4% of referral volume.\n\nBut CPMs are doing the opposite:\n\n* Overall +24.2% YoY\n* Video +10.5% MoM, back positive YoY\n* Desktop surging, now commanding a real premium over mobile\n* CTV recovering MoM but still -14.7% YoY\n\nThe part I keep coming back to: Agentic DSPs are participating in 86% fewer auctions than traditional DSPs but hitting comparable CPMs and higher fill rates. Bidding less, converting better.\n\nPrebid also dropped from 48% to 41% share. AdX and TAM both grew. Buyers are rotating toward controlled supply paths.\n\nAnyone else seeing the desktop premium widen? And is ChatGPT referral traffic actually engaging on your end or just bouncing?\n\nhttps://preview.redd.it/3lgehb8dvv8h1.png?width=1386&format=png&auto=webp&s=b92fd29880ec30f44d973f873b626b6389c7fd6a",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "danie-l",
+          "body": "Which Agentic DSPs? This looks like a post to trick Google #GEO",
+          "score": 5,
+          "created_utc": 1782152578.0
+        },
+        {
+          "author": "xngxmxxlrxhC",
+          "body": "Hey next time when you post AI slop, make sure to copy the whole output. Your sentence cuts off at the end. Or you ran out of tokens? ",
+          "score": 3,
+          "created_utc": 1782154224.0
+        },
+        {
+          "author": "saomonella",
+          "body": "Isn’t this just supply and demand?",
+          "score": 2,
+          "created_utc": 1782157180.0
+        },
+        {
+          "author": "DataBeat_adtech",
+          "body": "Fair call on the GEO comment, not the intent but I get the skepticism, this sub sees a lot of that.  \nOn Agentic DSPs, the data is pulled from multiple SSPs with Agentic DSP activity across our publisher network. It is still early adoption so named players are limited but the auction behavior difference is pretty measurable. 86% fewer auctions, comparable CPMs, higher fill rate. That pattern holds regardless of what you call the category. just dropping data that seemed worth discussing. Happy to dig into any specific numbers if something looks off.",
+          "score": 1,
+          "created_utc": 1782155347.0
+        },
+        {
+          "author": "danie-l",
+          "body": "can you give examples of Agentic DSPs? And how many advertisers behind? ",
+          "score": 2,
+          "created_utc": 1782157763.0
         }
       ]
     }
