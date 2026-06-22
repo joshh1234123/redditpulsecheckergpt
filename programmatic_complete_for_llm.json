@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-22T13:11:07.727913+00:00",
-    "total_posts": 1758,
-    "total_comments": 9917
+    "scrape_date": "2026-06-22T18:00:43.732045+00:00",
+    "total_posts": 1759,
+    "total_comments": 9919
   },
   "discussions": [
     {
@@ -85288,6 +85288,33 @@
           "body": "It’s yahoo 1P data for people using Yahoo Mail or fantasy sports?",
           "score": 1,
           "created_utc": 1782082971.0
+        }
+      ]
+    },
+    {
+      "id": "1ucmim1",
+      "title": "Streaming audio production",
+      "author": "heatherR10",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ucmim1/streaming_audio_production/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ucmim1/streaming_audio_production/",
+      "created_utc": 1782139449.0,
+      "content": "Has anyone used any good streaming audio production services? I have a client who wants to run streaming audio programmatically but they need a spot produced. Will provide a script. Just need it read, recorded and edited to format.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "zeroThreeSix",
+          "body": "I know StackAdapt has a creative studio team available once you onboard. Depending on your campaign budget you can get AV toward production or just pay a la carte depending on your needs.",
+          "score": 2,
+          "created_utc": 1782141558.0
+        },
+        {
+          "author": "Mankzy",
+          "body": "Manifoldplatform.com offers audio creative services with their campaigns.",
+          "score": 0,
+          "created_utc": 1782144680.0
         }
       ]
     }
