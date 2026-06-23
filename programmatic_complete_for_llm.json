@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-23T19:23:32.329601+00:00",
-    "total_posts": 1764,
-    "total_comments": 9930
+    "scrape_date": "2026-06-23T21:12:06.008937+00:00",
+    "total_posts": 1766,
+    "total_comments": 9941
   },
   "discussions": [
     {
@@ -85454,6 +85454,101 @@
           "body": "Agreed, they were a flashy ui on top of Beeswax. Good for them though. ",
           "score": 2,
           "created_utc": 1782231586.0
+        }
+      ]
+    },
+    {
+      "id": "1uds9di",
+      "title": "Nike Lebron Ad expanded from vertical to CTV",
+      "author": "ItsTheWeeBabySeamus",
+      "score": 1,
+      "url": "https://v.redd.it/sfyh45bdb39h1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uds9di/nike_lebron_ad_expanded_from_vertical_to_ctv/",
+      "created_utc": 1782245863.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1udsq70",
+      "title": "Avoid StackAdapt at all costs",
+      "author": "nuancedGazelle54012",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1udsq70/avoid_stackadapt_at_all_costs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1udsq70/avoid_stackadapt_at_all_costs/",
+      "created_utc": 1782246919.0,
+      "content": "Whether working for them or using them. Horrible company ethic wise which you can easily see reading reviews on GlassDoor (seriously just look for yourself) they treat employees like trash and have some of the worst managers I’ve ever worked with - by the way this is not just me talking there are countless examples from current and former employees who feel the same.\n\nThere’s something in the water there for sure and they are also doing very shady practices on the backend. Questionable morality and just overall a horrible company that shouldn’t be championed by anyone who cares about our small industry.",
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "solidshaikh",
+          "body": "Care to elaborate on the shady backend practices? ",
+          "score": 7,
+          "created_utc": 1782247194.0
+        },
+        {
+          "author": "beerslingerjay",
+          "body": "I use SA as my main DSP for pretty much every programmatic campaign I’m running right now. Would love to know more about impression margin and/or conversion pixels if you’re willing to share. Been needing a reason to jump over to Amazon DSP for a while.",
+          "score": 3,
+          "created_utc": 1782247954.0
+        },
+        {
+          "author": "stuff_sensitive_plat",
+          "body": "Second OP - I used to work here as well and dealt with a terrible manager who increased quota over 150 percent from one quarter to the next without any warning and drove others out with disgusting bullying pressure tactics. Avoid like the plague ",
+          "score": 2,
+          "created_utc": 1782246997.0
+        },
+        {
+          "author": "Karibay",
+          "body": "I interviewed with them too a couple months ago. Glad it didn’t work out",
+          "score": 1,
+          "created_utc": 1782247072.0
+        },
+        {
+          "author": "nuancedGazelle54012",
+          "body": "You’re overpaying for impressions in a giant way (30% mark up at the VERY LEAST AND ALOT MORE IN OTHER CASES). No transparency for a reason. Zero ways to actually guarantee conversion or anything lower funnel even though they sell that like crazy. It’s a total scam  designed to go after those who don’t know better in the middle market.",
+          "score": 0,
+          "created_utc": 1782247505.0
+        },
+        {
+          "author": "nuancedGazelle54012",
+          "body": "If you like to get willingly screwed by paying way too much then stick with SA. The lowest end is prob overpaying by 30% and that’s being conservative. I mean if you really like your rep and he takes you to baseball games or something, sure stick with it but otherwise Amazon is a way better bet for you especially if you’re savy.",
+          "score": 0,
+          "created_utc": 1782248097.0
+        },
+        {
+          "author": "nuancedGazelle54012",
+          "body": "Might be the most toxic company I’ve ever worked at in this industry.",
+          "score": 0,
+          "created_utc": 1782247807.0
+        },
+        {
+          "author": "nuancedGazelle54012",
+          "body": "You saved yourself a lot of mental anguish you would of endured. Your quality of life has just increased exponentially without you realizing it.",
+          "score": 0,
+          "created_utc": 1782247156.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Respectfully disagree. They aren’t a scam. I’ve worked there previously and perfectly fine. The employees complaining are the ones lower in the organization. These are the same people complaining about too much work or not paid enough. It’s like that everywhere for account managers and ad ops. They should be thankful that get to work remotely.",
+          "score": 1,
+          "created_utc": 1782247907.0
+        },
+        {
+          "author": "stuff_sensitive_plat",
+          "body": "This guy trying to do damage control PR for SA hahahahaha get fucked!",
+          "score": 1,
+          "created_utc": 1782248354.0
+        },
+        {
+          "author": "nuancedGazelle54012",
+          "body": "Found a sales director here clearly. You live in Toronto I assume as well? LOL Jig is up buddy go read Glassdoor a lot of us in the industry aren’t falling for you guys no more. Have fun trying to keep at it hope it works out well for you in the end. ",
+          "score": 0,
+          "created_utc": 1782248194.0
         }
       ]
     }
