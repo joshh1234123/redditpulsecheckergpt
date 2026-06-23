@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tjtojk",
-      "title": "Independent Ad Server",
-      "author": "Less-Selection1127",
-      "score": 1,
-      "url": "/r/adops/comments/1tjtocn/independent_ad_server/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjtojk/independent_ad_server/",
-      "created_utc": 1779388689.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tjvwvm",
       "title": "filtering inventory on Dv360",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782195079.0,
       "content": "Hi, we are using AdForm landing page URLs as landing page for our ads (to get our own UTM tracking instead of the Meta UTMs), but I need to get the Meta campaign ID to our UTMs.\n\n  \nI know there is the custom adform parameter, namely macro „\\_\\_ADFM<pattern>\\_\\_“ ([https://www.adformhelp.com/hc/en-us/articles/9739143043345-Overview-of-Supported-Ad-Serving-Macros](https://www.adformhelp.com/hc/en-us/articles/9739143043345-Overview-of-Supported-Ad-Serving-Macros)) but according to the documentation, I need to append the macro with semicolon ; while Meta wants ? or & to resolve {{ícampaign.id}} placeholder.\n\n  \nDid you encounter this issue and how did you tackle it? Or did you use some other way to get the campaign ID?\n\n  \nThanks for any help",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1udfo48",
+      "title": "Cannes",
+      "author": "AngleApart4424",
+      "score": 26,
+      "url": "https://www.reddit.com/r/programmatic/comments/1udfo48/cannes/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1udfo48/cannes/",
+      "created_utc": 1782217410.0,
+      "content": "Let’s hear it for the real MVPs still working while our uninformed bosses sip rose and talk shit that can’t be delivered anytime soon but come back with laundry lists of ‘must do it now or we will miss out on this $1M+ oppty’ Cheers to you my friends ",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }
