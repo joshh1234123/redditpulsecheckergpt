@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-23T14:33:15.559615+00:00",
-    "total_posts": 1763,
-    "total_comments": 9928
+    "scrape_date": "2026-06-23T17:11:55.738190+00:00",
+    "total_posts": 1764,
+    "total_comments": 9930
   },
   "discussions": [
     {
@@ -85427,6 +85427,33 @@
           "body": "Pain. ",
           "score": 2,
           "created_utc": 1782223237.0
+        }
+      ]
+    },
+    {
+      "id": "1udkfbv",
+      "title": "Walmart to Acquire Vibe.co",
+      "author": "goodgoaj",
+      "score": 9,
+      "url": "https://corporate.walmart.com/news/2026/06/23/walmart-to-acquire-vibe-co-to-expand-access-to-connected-tv-advertising",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1udkfbv/walmart_to_acquire_vibeco/",
+      "created_utc": 1782228749.0,
+      "content": "Not quite sure Walmart did their homework 👀",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "VFL2015",
+          "body": "Vibe was making crazy margins marking up their inventory. Surprised Walmart acquired them. It’s not like their UI is anything special ",
+          "score": 6,
+          "created_utc": 1782229529.0
+        },
+        {
+          "author": "MrSnugs",
+          "body": "Agreed, they were a flashy ui on top of Beeswax. Good for them though. ",
+          "score": 2,
+          "created_utc": 1782231586.0
         }
       ]
     }
