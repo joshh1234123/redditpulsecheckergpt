@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tjiask",
-      "title": "How to guarantee PMP delivery",
-      "author": "FreeDirt8386",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tjiask/how_to_guarantee_pmp_delivery/",
-      "created_utc": 1779364769.0,
-      "content": "Before you answer just do a PG, bare with me.  \nWe’re finding agencies want the freedom and variety of PMP but the certainty of PGs. Is there a way we can set PMPs up that can guarantee delivery? Is there a hack like a dual deal on a SSP? Any ideas are welcomed. ",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tjlpmu",
       "title": "Why Ads Don’t Show on Your Website (And How to Fix It)",
       "author": "Rebel_Oxide",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782152300.0,
       "content": "Pulling from a dataset of 35B+ impressions, $55M+ revenue, 200+ bidders - here's what stood out in May.\n\nTraffic is down. Sessions/user -6%, engagement rate -3%, organic search slipping. ChatGPT referrals doubled MoM, and still only 3.4% of referral volume.\n\nBut CPMs are doing the opposite:\n\n* Overall +24.2% YoY\n* Video +10.5% MoM, back positive YoY\n* Desktop surging, now commanding a real premium over mobile\n* CTV recovering MoM but still -14.7% YoY\n\nThe part I keep coming back to: Agentic DSPs are participating in 86% fewer auctions than traditional DSPs but hitting comparable CPMs and higher fill rates. Bidding less, converting better.\n\nPrebid also dropped from 48% to 41% share. AdX and TAM both grew. Buyers are rotating toward controlled supply paths.\n\nAnyone else seeing the desktop premium widen? And is ChatGPT referral traffic actually engaging on your end or just bouncing?\n\nhttps://preview.redd.it/3lgehb8dvv8h1.png?width=1386&format=png&auto=webp&s=b92fd29880ec30f44d973f873b626b6389c7fd6a",
       "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ud1wlj",
+      "title": "Is anyone tracking how fast verification IPs get fingerprinted by the sell side?",
+      "author": "Individual-Relief131",
+      "score": 1,
+      "url": "/r/adtech/comments/1ud1vhs/is_anyone_tracking_how_fast_verification_ips_get/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ud1wlj/is_anyone_tracking_how_fast_verification_ips_get/",
+      "created_utc": 1782174260.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
