@@ -1154,6 +1154,21 @@
       "link_flair_text": null,
       "thread_id": "1ud1wlj",
       "thread_path": "1ud1wlj.json"
+    },
+    {
+      "id": "1ud901v",
+      "title": "AdForm - getting campaign ID from Meta Ads",
+      "author": "IndividualGiraffe224",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ud901v/adform_getting_campaign_id_from_meta_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ud901v/adform_getting_campaign_id_from_meta_ads/",
+      "created_utc": 1782195079.0,
+      "content": "Hi, we are using AdForm landing page URLs as landing page for our ads (to get our own UTM tracking instead of the Meta UTMs), but I need to get the Meta campaign ID to our UTMs.\n\n  \nI know there is the custom adform parameter, namely macro „\\_\\_ADFM<pattern>\\_\\_“ ([https://www.adformhelp.com/hc/en-us/articles/9739143043345-Overview-of-Supported-Ad-Serving-Macros](https://www.adformhelp.com/hc/en-us/articles/9739143043345-Overview-of-Supported-Ad-Serving-Macros)) but according to the documentation, I need to append the macro with semicolon ; while Meta wants ? or & to resolve {{ícampaign.id}} placeholder.\n\n  \nDid you encounter this issue and how did you tackle it? Or did you use some other way to get the campaign ID?\n\n  \nThanks for any help",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ud901v",
+      "thread_path": "1ud901v.json"
     }
   ]
 }
