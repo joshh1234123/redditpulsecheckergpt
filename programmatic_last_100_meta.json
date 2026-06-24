@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tkscyw",
-      "title": "+25.9% overall CPM growth in April, but the recovery still looks uneven underneath",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tkscyw/259_overall_cpm_growth_in_april_but_the_recovery/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tkscyw/259_overall_cpm_growth_in_april_but_the_recovery/",
-      "created_utc": 1779476223.0,
-      "content": "While the headline numbers point to a strong rebound, the deeper market signals are a lot more selective.  \nWhen we broke the data down, a few patterns stood out:  \n• Mobile CPMs surged +51.6% YoY, even with ongoing quality concerns around passive traffic  \n• Display inventory continues pulling spend away from video as buyers lean toward more cost-efficient formats  \n• CTV CPMs fell -25.8% YoY as oversupply pressure keeps building across streaming inventory  \n• AdX and premium supply paths continue gaining momentum while some legacy integrations lose share  \n• Buyers seem increasingly focused on cleaner inventory, stronger signals, and more transparent auction paths  \n• Open-web demand is recovering, but not evenly across every format or device category  \nNet-net: CPM recovery is happening, but it’s becoming much more quality-driven underneath.  \nScale alone doesn’t seem to be enough anymore. Inventory efficiency, signal quality, and supply-path trust are starting to matter a lot more in how budgets are being distributed.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tltkjp",
-      "title": "Adfidence",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tltkjp/adfidence/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tltkjp/adfidence/",
-      "created_utc": 1779573770.0,
-      "content": "Any experience with this tool?  \nWhat’s monitoring?   \nI’ve seen also suitability… is this affordable?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tm1c1m",
       "title": "Loading TTD performance data to BigQuery",
       "author": "miniprogrammatic",
@@ -1302,6 +1276,32 @@
       "created_utc": 1782266314.0,
       "content": "TLDR:Experienced, hands-on keyboard trader, being asked to look into onboarding a lower cost DSPs for Omni-channel (including CTV) campaigns for the agency. Looking for any callouts/differences/things to look out for\n\nMy team is hands-on keyboard in TTD, Amazon, Google, and pharma DSPs, all of which have their use-cases. From a purely down-funnel performance standpoint TTD has always been the strongest offering for full funnel, omni-channel programmatic campaigns.\n\nHowever, for non-programmatic savvy/basic programmatic campaigns, I’m being asked to onboard a lower cost DSP. This new DSP cannot be a white labeled version of another DSP or a sketchy pay per conversion DSP like MNTN. I’ve been asked to onboard Viant as with our buying power, we are able to get advantageous platform fees.\n\nWanted to see if y’all had any specific callouts about Viant. Anything thing to lookout for? Anything specific to Viant to ask about? Downsides/shortcomings of the platform? Anything drastically different in Viant than other DSPs?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ueb4rz",
+      "title": "Extended probation",
+      "author": "ImpressiveRich1466",
+      "score": 1,
+      "url": "/r/advertising/comments/1ueb4aw/extended_probation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ueb4rz/extended_probation/",
+      "created_utc": 1782301280.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ueboe5",
+      "title": "Why some impressions attract more advertiser spend than others",
+      "author": "sevioadmanager",
+      "score": 1,
+      "url": "/r/u_sevioadmanager/comments/1udcxv0/why_some_impressions_attract_more_advertiser/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ueboe5/why_some_impressions_attract_more_advertiser/",
+      "created_utc": 1782302851.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
