@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tmkoz7",
-      "title": "How do you keep control of your open market sitelist",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tmkoz7/how_do_you_keep_control_of_your_open_market/",
-      "created_utc": 1779648566.0,
-      "content": "How aften do you update it and avoid suitability issues? Also vs dv or ias?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tn49ms",
-      "title": "Career Switch: SEO → Programmatic Advertising",
-      "author": "Salty-Method-4204",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tn49ms/career_switch_seo_programmatic_advertising/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tn49ms/career_switch_seo_programmatic_advertising/",
-      "created_utc": 1779702233.0,
-      "content": "Hi everyone,\n\nI have around 5 years of experience in SEO and digital marketing. Recently I've become interested in Programmatic Advertising and want to build my career in this field.\n\nI've spent time understanding the ecosystem, learning terms like DSP, SSP, Ad Exchange, RTB, audience targeting, bidding, etc. I understand how the process works at a conceptual level, but I haven't had the chance to work directly on programmatic platforms yet.\n\nI'm a bit confused about how to make the switch. Should I start with certifications, learn a particular DSP, look for entry-level programmatic roles, or is there another path that would make more sense for someone coming from an SEO background?\n\nIf anyone here has made a similar transition or works in programmatic, I'd really appreciate any guidance. Also, if your company is hiring or you know of any opportunities where SEO/digital marketing experience could be relevant, please let me know.\n\nSorry if this isn't the perfect place to post this. Just looking for advice from people already working in the industry.\n\nThanks!",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tn9r0w",
       "title": "Can someone explain how Magnite DV+ is serving video impressions on pages with no video units?",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1782305425.0,
       "content": "Ran a CTV campaign last quarter, vendor pitching HHI $100k+, purchase intent, full demo stack. Asked them to break out what percentage of impressions actually matched to the segment vs. defaulted to unmatched delivery. They couldn't. Or wouldn't. And that's you're paying a data CPM premium but a huge chunk of those impressions are just broad buys in disguise because the household ID didn't resolve. So you end up with a blended result that looks like the targeting worked when you're really just measuring your broad audience on a more expensive buy\n\nLinear contextual is underrated for this too. You're just buying programming that attracts who you want and yea its a less sophisticated pitch but I've seen it outperform demo-targeted streaming and the CPMs aren't insane.",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uemwh9",
+      "title": "This TTD Kokai shit is getting to me now!",
+      "author": "EstateTerrible4807",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uemwh9/this_ttd_kokai_shit_is_getting_to_me_now/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uemwh9/this_ttd_kokai_shit_is_getting_to_me_now/",
+      "created_utc": 1782328357.0,
+      "content": "What’s the deal with contextual targeting? Why do we have to create a strategy and even after you go through the labour of creating one there’s no option to apply it. You just have to discard whatever you did and then add them manually under each adgroup. What a pain in the ass this has become.\n\nAnd WTF is an endeavor under deals? Wasn’t it just PMP and PG before?\n\nWhich nincompoop is taking all the crap decisions at TTD?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uenw6i",
+      "title": "Cannes Trackers",
+      "author": "fsnah",
+      "score": 0,
+      "url": "https://i.redd.it/lyw5mnsmba9h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uenw6i/cannes_trackers/",
+      "created_utc": 1782330501.0,
+      "content": "Fascinating to watch everyone walk around Cannes with their clout bracelets and no one realizes that RFID trackers are embedded. Everyone's movements, tagged to individuals, are being followed. ",
+      "num_comments": 8,
       "over_18": false,
       "link_flair_text": null
     }

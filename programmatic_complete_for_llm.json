@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-24T19:10:20.340359+00:00",
-    "total_posts": 1770,
-    "total_comments": 9948
+    "scrape_date": "2026-06-24T21:08:27.853226+00:00",
+    "total_posts": 1772,
+    "total_comments": 9957
   },
   "discussions": [
     {
@@ -85649,6 +85649,90 @@
           "body": "Gotta be AI interview response",
           "score": 2,
           "created_utc": 1782311965.0
+        }
+      ]
+    },
+    {
+      "id": "1uemwh9",
+      "title": "This TTD Kokai shit is getting to me now!",
+      "author": "EstateTerrible4807",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uemwh9/this_ttd_kokai_shit_is_getting_to_me_now/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uemwh9/this_ttd_kokai_shit_is_getting_to_me_now/",
+      "created_utc": 1782328357.0,
+      "content": "What’s the deal with contextual targeting? Why do we have to create a strategy and even after you go through the labour of creating one there’s no option to apply it. You just have to discard whatever you did and then add them manually under each adgroup. What a pain in the ass this has become.\n\nAnd WTF is an endeavor under deals? Wasn’t it just PMP and PG before?\n\nWhich nincompoop is taking all the crap decisions at TTD?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Always a method on why things are a certain way. Will see what our great leader Jeff says. ",
+          "score": 3,
+          "created_utc": 1782330160.0
+        }
+      ]
+    },
+    {
+      "id": "1uenw6i",
+      "title": "Cannes Trackers",
+      "author": "fsnah",
+      "score": 0,
+      "url": "https://i.redd.it/lyw5mnsmba9h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uenw6i/cannes_trackers/",
+      "created_utc": 1782330501.0,
+      "content": "Fascinating to watch everyone walk around Cannes with their clout bracelets and no one realizes that RFID trackers are embedded. Everyone's movements, tagged to individuals, are being followed. ",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "OrdinaryInside8",
+          "body": "Wait til this guy finds out about Disney world ",
+          "score": 11,
+          "created_utc": 1782331882.0
+        },
+        {
+          "author": "Plenty-Recording-460",
+          "body": "I would be shocked if there wasn’t tracking. You’re at a marketing festival. ",
+          "score": 10,
+          "created_utc": 1782330935.0
+        },
+        {
+          "author": "hscbaj",
+          "body": "You know the bit where they scanned the wristband when handing it to you, did you think that was magic?",
+          "score": 5,
+          "created_utc": 1782333817.0
+        },
+        {
+          "author": "ConstructionOwn9575",
+          "body": "That's how every professional event is now a days. Badges are rfids with all the information provided when you registered, and at these events attendees swipe their badges when attending talks or visiting a vendor booth.",
+          "score": 7,
+          "created_utc": 1782332480.0
+        },
+        {
+          "author": "WhaleyWino235",
+          "body": "Ok. ",
+          "score": 8,
+          "created_utc": 1782330773.0
+        },
+        {
+          "author": "Not_My_Emperor",
+          "body": "Where do you think you are?",
+          "score": 3,
+          "created_utc": 1782332226.0
+        },
+        {
+          "author": "_xandrix",
+          "body": "So they can retarget you later duh ",
+          "score": 1,
+          "created_utc": 1782335029.0
+        },
+        {
+          "author": "Aggressive-Battle39",
+          "body": "Wait til you learn about beacons and gps tracking for footfall. ",
+          "score": 1,
+          "created_utc": 1782335033.0
         }
       ]
     }
