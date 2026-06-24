@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tm1c1m",
-      "title": "Loading TTD performance data to BigQuery",
-      "author": "miniprogrammatic",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tm1c1m/loading_ttd_performance_data_to_bigquery/",
-      "created_utc": 1779595186.0,
-      "content": "Hi community, has anyone used the TTD api to load campaign performance data to a cloud database automatically? It seems that the API is a paid service to even enable it for our seat :(. We’re hoping to create an internal AI tooling to improve cross channel campaign management efficiency and TTD has not introduced its mcp yet (who knows if it will ever). So thinking through workaround here. I would greatly appreciate anyone’s advice if you’re working on or have experience with this or similar workflow. TIA!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tmkoz7",
       "title": "How do you keep control of your open market sitelist",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782302851.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uecmde",
+      "title": "How much of CTV targeting is still snake oil.",
+      "author": "RightGirl19",
+      "score": 8,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uecmde/how_much_of_ctv_targeting_is_still_snake_oil/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uecmde/how_much_of_ctv_targeting_is_still_snake_oil/",
+      "created_utc": 1782305425.0,
+      "content": "Ran a CTV campaign last quarter, vendor pitching HHI $100k+, purchase intent, full demo stack. Asked them to break out what percentage of impressions actually matched to the segment vs. defaulted to unmatched delivery. They couldn't. Or wouldn't. And that's you're paying a data CPM premium but a huge chunk of those impressions are just broad buys in disguise because the household ID didn't resolve. So you end up with a blended result that looks like the targeting worked when you're really just measuring your broad audience on a more expensive buy\n\nLinear contextual is underrated for this too. You're just buying programming that attracts who you want and yea its a less sophisticated pitch but I've seen it outperform demo-targeted streaming and the CPMs aren't insane.",
+      "num_comments": 6,
       "over_18": false,
       "link_flair_text": null
     }

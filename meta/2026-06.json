@@ -1274,6 +1274,21 @@
       "link_flair_text": null,
       "thread_id": "1ueboe5",
       "thread_path": "1ueboe5.json"
+    },
+    {
+      "id": "1uecmde",
+      "title": "How much of CTV targeting is still snake oil.",
+      "author": "RightGirl19",
+      "score": 8,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uecmde/how_much_of_ctv_targeting_is_still_snake_oil/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uecmde/how_much_of_ctv_targeting_is_still_snake_oil/",
+      "created_utc": 1782305425.0,
+      "content": "Ran a CTV campaign last quarter, vendor pitching HHI $100k+, purchase intent, full demo stack. Asked them to break out what percentage of impressions actually matched to the segment vs. defaulted to unmatched delivery. They couldn't. Or wouldn't. And that's you're paying a data CPM premium but a huge chunk of those impressions are just broad buys in disguise because the household ID didn't resolve. So you end up with a blended result that looks like the targeting worked when you're really just measuring your broad audience on a more expensive buy\n\nLinear contextual is underrated for this too. You're just buying programming that attracts who you want and yea its a less sophisticated pitch but I've seen it outperform demo-targeted streaming and the CPMs aren't insane.",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1uecmde",
+      "thread_path": "1uecmde.json"
     }
   ]
 }

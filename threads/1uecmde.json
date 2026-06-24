@@ -1,0 +1,46 @@
+{
+  "id": "1uecmde",
+  "thread_id": "1uecmde",
+  "title": "How much of CTV targeting is still snake oil.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1uecmde/how_much_of_ctv_targeting_is_still_snake_oil/",
+  "created_utc": 1782305425.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "slippycrook",
+      "body": "Here’s my take: **Contextual, dayparting, and geo-data** should be your absolute baseline targeting stack. It’s clean, reliable, and doesn't rely on flaky algorithms.  \nInstead of over-complicating the targeting, put that energy into your measurement framework. Run **incrementality testing** and look at performance through a hybrid lens of **pixel data and panel surveys**. Blending those together into a unified outcomes rating is the way.  \nAs for third-party data? Most generic \"in-market\" segments are trash in my experience. Stick to high-fidelity stuff like credit card transaction data or census-backed demographics. If you want to see if the data you're buying is actually legit, look into **Truthset**. Their data rating service is actually useful for filtering out the garbage segments before you blow your budget.",
+      "score": 1,
+      "created_utc": 1782306341.0
+    },
+    {
+      "author": "Mankzy",
+      "body": "on Manifoldplatform.com we run CTV to specific channels and layer in audience demographic and contextual targeting. We run into scale issues if we target the geo too narrowly but otherwise see strong completion rates. We follow up with viewer retargeting and see steong engagement rates there too which is our indicator of ad and targeting relevancy with CTV.",
+      "score": 1,
+      "created_utc": 1782312104.0
+    },
+    {
+      "author": "No_Special_4384",
+      "body": "honestly yeah. Spend half the qbr explaining why the premium segments didn't beat broad and the other half nodding while the vendor says optimization takes time. Retargeting is the one place where the signal feels real to me, serving ctv to site visitors actually makes sense. Everything else starts to feel like demographic proxies with a nicer name.",
+      "score": 1,
+      "created_utc": 1782312935.0
+    },
+    {
+      "author": "Jake_dasnake3",
+      "body": "This sounds like more of a DSP issue than a broad CTV issue",
+      "score": 1,
+      "created_utc": 1782313166.0
+    },
+    {
+      "author": "Jake_dasnake3",
+      "body": "wtf is this",
+      "score": 3,
+      "created_utc": 1782309510.0
+    },
+    {
+      "author": "AlDenteDDS",
+      "body": "Gotta be AI interview response",
+      "score": 2,
+      "created_utc": 1782311965.0
+    }
+  ]
+}
