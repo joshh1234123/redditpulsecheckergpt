@@ -1,0 +1,34 @@
+{
+  "id": "1ufoz2h",
+  "thread_id": "1ufoz2h",
+  "title": "Looking for a mentor",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ufoz2h/looking_for_a_mentor/",
+  "created_utc": 1782427250.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "billyshakes67",
+      "body": "I don’t know enough to mentor, but I do know enough to help get your ducks in a row.\n\nProgrammatic advertising is as simple as a brand asking “what if I could build my dream audience with the exact behaviors, income, ages, genders, and interests that fit my ICP” and being told there’s a way to do just that… programmatic advertising.\n\nHow do you build this audience? Every vendor/agency/brand has access to a Demand Side Platform (DSP) that lets them build audiences, set parameters, and place buys. Look up examples of the big ones (Trade Desk is a good starting place).\n\nYou build these audiences by leveraging your data partnerships (Experian, Visa, etc.) that segment each user into certain audiences based on their search/purchase history mixed with your demographic targeting preferences. They do this by tracking household device usage through WiFi as well as trackable pixels that log which devices visit certain sites. That way the DSP software knows which devices to target your campaign to. \n\nI know what you’re thinking. Isn’t that a little sketch? On the surface it can be. But privacy laws make it so every data piece is hashed (anonymous) and no identities can be associated with this data. You’ll get that reservation a lot from beginners.\n\nFrom there, it’s a matter of tactics. Don’t think too hard into this. It’s still your basics that have been around forever: TV, display, pre roll, radio, billboards. Only difference is instead of the linear model of “we have no way of telling how many or who saw this ad”, we now get to strictly target the custom audience we’ve built to ensure minimal impression waste and that they’ll be the only ones to see the campaign. \n\nOnce you figure out that the only difference between programmatic and traditional advertising is getting to build your own audience as opposed to generic mass awareness, everything becomes way easier. Obviously things get more complex than that (you’ll learn a ton of acronyms and advanced targeting tactics), but for now focus on this mindset and you’ll get pointed in the right direction. ",
+      "score": 2,
+      "created_utc": 1782428500.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "Dm me ",
+      "score": 1,
+      "created_utc": 1782427632.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "I can probably help if you want to DM me",
+      "score": 1,
+      "created_utc": 1782428360.0
+    },
+    {
+      "author": "broadstreetrambler",
+      "body": "JOUNCE has great resources ",
+      "score": 1,
+      "created_utc": 1782428394.0
+    }
+  ]
+}
