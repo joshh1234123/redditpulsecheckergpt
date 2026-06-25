@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tn9r0w",
-      "title": "Can someone explain how Magnite DV+ is serving video impressions on pages with no video units?",
-      "author": "Enviromental1001",
-      "score": 5,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tn9r0w/can_someone_explain_how_magnite_dv_is_serving/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tn9r0w/can_someone_explain_how_magnite_dv_is_serving/",
-      "created_utc": 1779716942.0,
-      "content": "**Interesting find: Magnite DV+ showing impressions on sites with zero video content — anyone else experience this?**\n\nRunning a general all-exchanges campaign for 15-second video ads on websites, above the fold. My goal is to identify the most popular news and tech sites in New Jersey, so I started pulling reporting and added Exchange Source as a dimension.\n\nWhat stood out: Magnite DV+ had by far the spammiest inventory in the report. Every other exchange — including Google and FreeWheel — returned quality placements where I could actually find video content on the page when I visited. But with Magnite, I had sites showing impressions with **zero reported video placements**. I personally visited 5+ of them — mostly text-based blogs — and scrolled through multiple pages without finding a single video unit. I even ran the URLs through Claude and Perplexity to do a quick content scan, and still found nothing. Yet I was charged for impressions.\n\nBy contrast, when FreeWheel or Google reported an impression and I visited the same site, video content was easy to find.\n\n\n\n**What I'm actually trying to accomplish:**\n\nI'm running broad all-exchange targeting intentionally, just to map what inventory exists regionally. The plan is to pull the top 100 performing sites over a week, build an inclusion list from that, and then tighten the campaign to target only those placements — narrowing reach geographically while improving quality.\n\n\n\nNot an expert in programmatic — just documenting what I'm seeing. Has anyone else noticed this with Magnite DV+? And more broadly, how does a platform record a video impression on a page that has no video player?",
-      "num_comments": 8,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1to38c9",
       "title": "Anyone heard of or work with Panxo.ai?",
       "author": "TinasOwner23",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782330501.0,
       "content": "Fascinating to watch everyone walk around Cannes with their clout bracelets and no one realizes that RFID trackers are embedded. Everyone's movements, tagged to individuals, are being followed. ",
       "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uevdl0",
+      "title": "Most ethical?",
+      "author": "Usual_Emotion7475",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uevdl0/most_ethical/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uevdl0/most_ethical/",
+      "created_utc": 1782348567.0,
+      "content": "Lots of posts call out shady companies,  but who do we feel is most ethical in programmatic?",
+      "num_comments": 13,
       "over_18": false,
       "link_flair_text": null
     }
