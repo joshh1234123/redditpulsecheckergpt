@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-25T18:30:19.939342+00:00",
-    "total_posts": 1775,
+    "scrape_date": "2026-06-25T20:32:37.002495+00:00",
+    "total_posts": 1776,
     "total_comments": 9971
   },
   "discussions": [
@@ -85858,6 +85858,20 @@
       "url": "/r/advertising/comments/1ufeld4/questioning_appsflyer_neutrality/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ufem2i/questioning_appsflyer_neutrality/",
       "created_utc": 1782404189.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ufl619",
+      "title": "Amazon is teaching its ads to ask themselves questions",
+      "author": "u_of_digital",
+      "score": 1,
+      "url": "https://i.redd.it/6anfqe81jh9h1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ufl619/amazon_is_teaching_its_ads_to_ask_themselves/",
+      "created_utc": 1782418399.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
