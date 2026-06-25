@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-25T13:33:36.285826+00:00",
-    "total_posts": 1774,
+    "scrape_date": "2026-06-25T16:17:45.858586+00:00",
+    "total_posts": 1775,
     "total_comments": 9971
   },
   "discussions": [
@@ -85849,6 +85849,20 @@
           "created_utc": 1782381394.0
         }
       ]
+    },
+    {
+      "id": "1ufem2i",
+      "title": "Questioning Appsflyer neutrality",
+      "author": "lavlavinia",
+      "score": 1,
+      "url": "/r/advertising/comments/1ufeld4/questioning_appsflyer_neutrality/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ufem2i/questioning_appsflyer_neutrality/",
+      "created_utc": 1782404189.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
