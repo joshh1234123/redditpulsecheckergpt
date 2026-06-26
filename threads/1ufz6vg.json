@@ -1,0 +1,88 @@
+{
+  "id": "1ufz6vg",
+  "thread_id": "1ufz6vg",
+  "title": "Question about maintaining frequency",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ufz6vg/question_about_maintaining_frequency/",
+  "created_utc": 1782456566.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "Adorable-Corner-5307",
+      "body": "You need to add some target frequency/frequency goal features.\n\nOn top of that, you need to have a think about what your client actually wants. Do they want the DSP reported number to be bigger? Or do they want actual frequency to be higher. A DSP can only report on what it knows, so any ID less spaces it’s much harder to make that number go up, but doesn’t mean you’re reaching less people.\n\nOther than that the more you can functionally restrict audience geo etc the easier it is to find the same people over and over and build frequency. Too broad with your settings and there’s just too many people.",
+      "score": 2,
+      "created_utc": 1782457464.0
+    },
+    {
+      "author": "Kellyjackson88",
+      "body": "You can enable a minimum frequency goal  \nIn Kokai in the reach and frequency tile",
+      "score": 2,
+      "created_utc": 1782457637.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "U cannot control the floor it's logically impossible. \n\nU can control the cap. ",
+      "score": 1,
+      "created_utc": 1782457349.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "I have my fq at 1 per day and see monthlies at 3-4",
+      "score": 1,
+      "created_utc": 1782460468.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "The main kpi is reach and frequency, so they need min 3-4/month but since the whole activity is mostly pg I don't have much control. The report is off and I get questions everytime why is it low and since partners aren't giving clear cut answers I am not sure what to say. \n\nAbout the ID less space, since the market is europe, TTD saying the frequency numbers are low because there's are only 50% user consented ID coming in the deal. Is any there any workaround to get the \"actual\" frequency numbers?",
+      "score": 1,
+      "created_utc": 1782457958.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "I do have 4/month set but still I'm getting a 1.2 till now. Only few days left to June. ",
+      "score": 1,
+      "created_utc": 1782458161.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Care to elaborate?",
+      "score": 1,
+      "created_utc": 1782457422.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "I will try it in the next burst.",
+      "score": 1,
+      "created_utc": 1782466142.0
+    },
+    {
+      "author": "Adorable-Corner-5307",
+      "body": "Yeah so first problem is PG hands over control to the publisher. You can’t really do much in a DSP when running PG, caps work lightly but can only do so much.\n\nIf you’ve talked to the publisher then can’t do much then all you can do is tighten your PG cap to 3-4 per month.\n\nI’d suggest going to an alternate non guaranteed deal. way more you can do then.\n\nFor TTD specifically you have to ensure you’re prioritising partners passing IDs. This means in Europe Disney and Paramount are your best options. Sky and Netflix can be used as well, netflix you’ll only get R&F at household level so ensure your reports are pulled including that.\n\nBut yeah overall if your core KPI is DSP measurable R&F then it’s ID publishers, decisioned, Frequency goals and caps together.\n\nTo answer your other question no you can’t get a deterministic R&F in totality without the above. You can’t use 3rd parties like beatgrid etc that can give you solid estimates to help guide you. Everything will likely be modelled though, have to be comfortable talking about that. Most DSPs and social platforms now are using modelled R&F.",
+      "score": 1,
+      "created_utc": 1782461827.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "It's impossible to force a certain cookie to visit a certain publisher x times. \n\nU can easily limit how many times they see the ad if they do visit x times though.\n\nTarget frequency, on limited inventory is a KPI that only someone with a very limited digital knowledge could set. \n\nOn open market it would be a different story, as its much easier. ",
+      "score": 1,
+      "created_utc": 1782459407.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Thank you for the above.",
+      "score": 1,
+      "created_utc": 1782466509.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Wish I could say this entirely. But thank you.",
+      "score": 2,
+      "created_utc": 1782466103.0
+    },
+    {
+      "author": "indifferentkappa",
+      "body": "I know the pain,  some sort of 'manager' probably enforced this KPI on u, sorry :/",
+      "score": 1,
+      "created_utc": 1782468448.0
+    }
+  ]
+}

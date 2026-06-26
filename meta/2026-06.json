@@ -1394,6 +1394,51 @@
       "link_flair_text": null,
       "thread_id": "1ufoz2h",
       "thread_path": "1ufoz2h.json"
+    },
+    {
+      "id": "1ufz6vg",
+      "title": "Question about maintaining frequency",
+      "author": "Pitiful_Camel6790",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ufz6vg/question_about_maintaining_frequency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ufz6vg/question_about_maintaining_frequency/",
+      "created_utc": 1782456566.0,
+      "content": "Hey community,\n\nTldr: how to maintain a certain frequency in amazon and TTD in both pg and PMP deals.\n\nContext: I'm running a few PG and PMP-only campaigns on TTD and Amazon DSP for a client. Since we're working month-to-month, the client wants a minimum monthly frequency of 3-4. Our partners include Spotify and Amazon Prime (PG), plus a few others on PMP.\n\nProblem: I'm struggling to hit that frequency floor. I've set a max cap of 6-7/month, but when I pull reports, I'm only seeing 1.5-2 so far. I've checked in with TTD, Amazon, and the partners directly, but haven't gotten a clear answer.\n\nAmazon's response: since this is a self-service PG campaign, frequency control sits on my end via the cap I set — but a max cap only limits the ceiling, it doesn't guarantee the minimum we're targeting. TTD said something similar (and separately, for reach/frequency reporting — is the metric based on unique IDs or unique persons in TTD). The partners said they have frequency settings on their side, but I'm not seeing that reflected in my reporting.\n\nSo my question is: is there a workaround, or any way to actually maintain a target frequency across both platforms?\n\nUsed AI to rephrase.",
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ufz6vg",
+      "thread_path": "1ufz6vg.json"
+    },
+    {
+      "id": "1ufzfqg",
+      "title": "starting a digitalbill board advertising brand.",
+      "author": "According_Novel_3614",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ufzfqg/starting_a_digitalbill_board_advertising_brand/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ufzfqg/starting_a_digitalbill_board_advertising_brand/",
+      "created_utc": 1782457391.0,
+      "content": "here iam going to start a digital billboard advertising media compny ,so here you guys can comment your opinion and viewpoints thats make it successfull ,and the things you noticed from the other advertising compnies missing point which i can impliment on here., feel free to comment.🙌",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ufzfqg",
+      "thread_path": "1ufzfqg.json"
+    },
+    {
+      "id": "1ug0p76",
+      "title": "Help !!!!!!!!!",
+      "author": "tbsm4I",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ug0p76/help/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ug0p76/help/",
+      "created_utc": 1782461756.0,
+      "content": "**I have 3 years of Ad Operations experience. My current role involves campaign QA, trafficking, troubleshooting, creatives, and working with an in-house platform that handles functions similar to DV360, but I haven’t directly managed campaigns inside DV360.**\n\n**I may have an interview soon for a Programmatic Advertising role where DV360 is preferred.**\n\n**For those who interview candidates or work with DV360 daily:**\n\n**What topics are most commonly asked?**  \n**How should I answer honestly without underselling my transferable experience?**  \n**What are the must-know DV360 concepts before the interview?**  \n**If you had 3–5 days to prepare, what would you focus on?**\n\n**I’d appreciate practical advice from hiring managers or programmatic specialists.**",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ug0p76",
+      "thread_path": "1ug0p76.json"
     }
   ]
 }
