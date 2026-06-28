@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-28T10:38:38.248650+00:00",
-    "total_posts": 1781,
-    "total_comments": 9988
+    "scrape_date": "2026-06-28T12:13:02.696956+00:00",
+    "total_posts": 1782,
+    "total_comments": 9991
   },
   "discussions": [
     {
@@ -86051,6 +86051,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uhuc08",
+      "title": "How Did You Break Out of Campaign Execution?",
+      "author": "Exotic-Court-9430",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uhuc08/how_did_you_break_out_of_campaign_execution/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uhuc08/how_did_you_break_out_of_campaign_execution/",
+      "created_utc": 1782644343.0,
+      "content": "Hi Folks,\n\nI've been working in programmatic at an agency for a while now, and almost all of my work is in DV360, with some exposure to Amazon DSP as well.\n\nMy day-to-day is pretty much campaign setup, QA, trafficking, optimization, pacing, troubleshooting, reporting, and working across multiple campaigns almost every single day. I enjoy programmatic, but I'm starting to wonder what the long-term career path looks like.\n\nRight now, my plan is to become platform-agnostic by learning as many DSPs as possible (Amazon DSP, Xandr, The Trade Desk, etc.) so I'm not limited to one platform and become more valuable in the job market.\n\nBut I'm wondering if that's actually the best use of my time.\n\nFor those who've been in programmatic for 5-10+ years:\n\n\\- How did you progress beyond campaign execution?\n\n\\- What skills had the biggest impact on your salary and career growth?\n\n\\- Did you stay in programmatic, move client-side, get into ad tech, measurement, data, product, or something else?\n\n\\- If you were starting again from where I am today, what would you focus on?\n\nMy goal isn't just to become a better campaign manager. I'd like to build a career that's financially rewarding, has strong long-term prospects, and isn't limited to doing campaign setups forever.\n\nI'd really appreciate hearing from people who've actually made that journey. Thanks in advance!!",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "Good luck learning xandr AI bot ",
+          "score": 3,
+          "created_utc": 1782645510.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "I think you should target Xandr first. It’s a stepping stone currently for moving out of execution roles.",
+          "score": 2,
+          "created_utc": 1782646357.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Star becoming the expert and join client calls and meetings. Mention you want to do this during your one on ones ",
+          "score": 1,
+          "created_utc": 1782647189.0
+        }
+      ]
     }
   ]
 }
