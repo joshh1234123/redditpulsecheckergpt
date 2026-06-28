@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tqkk19",
-      "title": "Missed payment dv360 and cm360",
-      "author": "linuz14",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tqkk19/missed_payment_dv360_and_cm360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tqkk19/missed_payment_dv360_and_cm360/",
-      "created_utc": 1780011891.0,
-      "content": "Do you know if google grants any “grace period” for late payments ?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ttb54s",
       "title": "how to pivot away from agency life & advertising career completely?",
       "author": "Dazzling_Buyer_7746",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782644343.0,
       "content": "Hi Folks,\n\nI've been working in programmatic at an agency for a while now, and almost all of my work is in DV360, with some exposure to Amazon DSP as well.\n\nMy day-to-day is pretty much campaign setup, QA, trafficking, optimization, pacing, troubleshooting, reporting, and working across multiple campaigns almost every single day. I enjoy programmatic, but I'm starting to wonder what the long-term career path looks like.\n\nRight now, my plan is to become platform-agnostic by learning as many DSPs as possible (Amazon DSP, Xandr, The Trade Desk, etc.) so I'm not limited to one platform and become more valuable in the job market.\n\nBut I'm wondering if that's actually the best use of my time.\n\nFor those who've been in programmatic for 5-10+ years:\n\n\\- How did you progress beyond campaign execution?\n\n\\- What skills had the biggest impact on your salary and career growth?\n\n\\- Did you stay in programmatic, move client-side, get into ad tech, measurement, data, product, or something else?\n\n\\- If you were starting again from where I am today, what would you focus on?\n\nMy goal isn't just to become a better campaign manager. I'd like to build a career that's financially rewarding, has strong long-term prospects, and isn't limited to doing campaign setups forever.\n\nI'd really appreciate hearing from people who've actually made that journey. Thanks in advance!!",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uhze8v",
+      "title": "Welche Programmatic-Plattformen sind einfach zu bedienen für Einsteiger in der Schweiz?",
+      "author": "ewasolutions",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
+      "created_utc": 1782658585.0,
+      "content": "Viele kleine Unternehmen finden Programmatic spannend, aber der Einstieg wirkt oft kompliziert: DSPs, Targeting, TKP, Whitelists, Reporting, Brand Safety usw.\n\nUns interessiert:\n\n\\- Wie seid ihr gestartet?\n\n\\- Was war am Anfang am schwierigsten?\n\n\\- Würdet ihr Einsteigern eher Self-Service, betreute Plattform oder Agentur empfehlen?\n\n\\- Wie wichtig sind klare Preise und persönliche Unterstützung?\n\nWir freuen uns auf Erfahrungen aus der Schweiz und dem DACH-Raum.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

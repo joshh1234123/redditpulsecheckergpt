@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-28T14:21:15.679883+00:00",
-    "total_posts": 1782,
-    "total_comments": 9991
+    "scrape_date": "2026-06-28T15:47:00.279823+00:00",
+    "total_posts": 1783,
+    "total_comments": 9993
   },
   "discussions": [
     {
@@ -86082,6 +86082,33 @@
           "body": "Star becoming the expert and join client calls and meetings. Mention you want to do this during your one on ones ",
           "score": 1,
           "created_utc": 1782647189.0
+        }
+      ]
+    },
+    {
+      "id": "1uhze8v",
+      "title": "Welche Programmatic-Plattformen sind einfach zu bedienen für Einsteiger in der Schweiz?",
+      "author": "ewasolutions",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
+      "created_utc": 1782658585.0,
+      "content": "Viele kleine Unternehmen finden Programmatic spannend, aber der Einstieg wirkt oft kompliziert: DSPs, Targeting, TKP, Whitelists, Reporting, Brand Safety usw.\n\nUns interessiert:\n\n\\- Wie seid ihr gestartet?\n\n\\- Was war am Anfang am schwierigsten?\n\n\\- Würdet ihr Einsteigern eher Self-Service, betreute Plattform oder Agentur empfehlen?\n\n\\- Wie wichtig sind klare Preise und persönliche Unterstützung?\n\nWir freuen uns auf Erfahrungen aus der Schweiz und dem DACH-Raum.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "StackAdapt is easy and customer service/training provided is great. ",
+          "score": 1,
+          "created_utc": 1782658901.0
+        },
+        {
+          "author": "ewasolutions",
+          "body": "We did not get access to StackAdapt. What is the min Budget?\n\n\n\nThank You for Your Interest in StackAdapt\n\nWe appreciate you taking the time to share more about your business. \n\nAfter reviewing your inquiry, we've concluded that our platform may not be the best fit for your company at its current stage. Our solution is designed with a level of complexity and a feature set geared towards large-scale advertisers who typically manage multi-channel campaigns with significant budgets and dedicated ad operations teams. We believe that implementing our platform right now would not be suitable for your immediate goals.\n\n ",
+          "score": 1,
+          "created_utc": 1782659872.0
         }
       ]
     }
