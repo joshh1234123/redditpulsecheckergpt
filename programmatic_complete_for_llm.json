@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-29T17:30:19.890384+00:00",
-    "total_posts": 1788,
-    "total_comments": 10012
+    "scrape_date": "2026-06-29T19:21:55.627162+00:00",
+    "total_posts": 1789,
+    "total_comments": 10017
   },
   "discussions": [
     {
@@ -86296,6 +86296,51 @@
           "body": "That's a red flag. I would be careful. How big is this company ",
           "score": 1,
           "created_utc": 1782753831.0
+        }
+      ]
+    },
+    {
+      "id": "1uj0cer",
+      "title": "What is your number one advice in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uj0cer/what_is_your_number_one_advice_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uj0cer/what_is_your_number_one_advice_in_programmatic/",
+      "created_utc": 1782756984.0,
+      "content": "Basically what the title says, what is the most important thing of advice you could give someone on programmatic? ",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Every platform / vendor has flaws, no matter what they may tell you. Stay vigilant!",
+          "score": 3,
+          "created_utc": 1782757339.0
+        },
+        {
+          "author": "Mike-Nicholson",
+          "body": "a lack of transparency is that way for a reason.",
+          "score": 2,
+          "created_utc": 1782758102.0
+        },
+        {
+          "author": "Thechief343",
+          "body": "Frequency control is the one of the most important and single most overlooked factor in programmatic buying.",
+          "score": 2,
+          "created_utc": 1782759545.0
+        },
+        {
+          "author": "klustura",
+          "body": "Be nice to AI",
+          "score": 1,
+          "created_utc": 1782760591.0
+        },
+        {
+          "author": "Actual__Wizard",
+          "body": "Run while you still can.",
+          "score": 0,
+          "created_utc": 1782757416.0
         }
       ]
     }
