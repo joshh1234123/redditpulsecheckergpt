@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-06-29T05:09:22.980782+00:00",
-    "total_posts": 1783,
+    "scrape_date": "2026-06-29T10:05:07.989945+00:00",
+    "total_posts": 1784,
     "total_comments": 9993
   },
   "discussions": [
@@ -86111,6 +86111,20 @@
           "created_utc": 1782659872.0
         }
       ]
+    },
+    {
+      "id": "1uio8rc",
+      "title": "Working at StackAdapt?",
+      "author": "Away-Egg6176",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uio8rc/working_at_stackadapt/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uio8rc/working_at_stackadapt/",
+      "created_utc": 1782727459.0,
+      "content": "I'm in the final stages for a non-sales role at StackAdapt. The interviewers seem great, but the Glassdoor and Reddit reviews are pretty brutal - lots of warnings about intense politics, bad management and C-level issues (but mainly from those who had sales jobs)\n\nSince I’m not in sales, does this toxic culture still bleed into other departments? Has the environment improved recently, or should I see these reviews as a massive red flag?\n\nIf you work there or left recently, please comment or let me know if I can DM you for the honest truth. Appreciate any insights!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
