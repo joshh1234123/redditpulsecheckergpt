@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1turhlq",
-      "title": "Peer39 Acquires Adloox from Scope3",
-      "author": "goodgoaj",
-      "score": 1,
-      "url": "https://www.einpresswire.com/article/916779905/peer39-acquires-adloox-from-scope3-unifying-contextual-intelligence-brand-safety-across-google-meta-and-the-open-web",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1turhlq/peer39_acquires_adloox_from_scope3/",
-      "created_utc": 1780408042.0,
-      "content": "Good move all round imo, Adloox tech is severely underrated even pre-Scope3. ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1tv1m0k",
-      "title": "Does ranking still matter as much as we think it does?",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tv1m0k/does_ranking_still_matter_as_much_as_we_think_it/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tv1m0k/does_ranking_still_matter_as_much_as_we_think_it/",
-      "created_utc": 1780428834.0,
-      "content": "One thing I've been thinking about lately: the industry still talks about visibility as if it works the same way it did 5 years ago.  \n  \nRank higher → get traffic → win.  \n  \nBut between AI Overviews, zero-click results, Reddit threads, social discovery, and AI assistants answering directly, I'm not sure ranking and visibility are the same thing anymore.  \n  \nYou can technically rank well and still lose attention!!  \n  \nWhich raises a different question: Is the goal still to rank, or is it to be consistently understood across all the systems shaping discovery today?  \nIf so, how are you guys approaching it?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tvfkb0",
       "title": "Is Programmatic DOOH actually delivering, or are we just buying overpriced impressions on empty streets?",
       "author": "Mean-Jello-3021",
@@ -1302,6 +1276,32 @@
       "created_utc": 1782764866.0,
       "content": "Hey everyone,  \nI’ve just put together the first MVP for a concept I’m working on called **Frontdesk**, built entirely using Lovable. It’s fully interactive, and I need you guys to jump in, click around, and absolutely tear it apart.  \n**The Problem:** In sectors like schools, clinics, and local retail, staff frequently need to communicate directly with clients, parents, or patients. Giving out personal phone numbers completely destroys work-life boundaries, but hiding staff behind a generic \"info@company.com\" email makes customer service incredibly frustrating.  \n**The Solution:** Frontdesk gives teams a clean, public, searchable directory where clients can directly message specific staff members through a unified routing layer. The staff's personal contact details stay 100% private, while business owners/admins get a birds-eye overview inbox of all communications for quality and continuity.  \n**Test the live MVP here:**  \n🔗 **Landing Page:** [https://fronttdeskk.lovable.app](https://fronttdeskk.lovable.app/)\n\n🔗 **Directory Preview:** [https://fronttdeskk.lovable.app/org/frontdesk](https://fronttdeskk.lovable.app/org/frontdesk)\n\n**What I want from you:** Please actually use it, click the buttons, test the flow, and give me your unfiltered, brutal insights:  \nDoes this actually solve a real pain point, or am I building a \"nice-to-have\"?\n\nWhat features absolutely *need* to be added next to make this viable?\n\nWhat should I remove, tweak, or simplify to make onboarding flawless?\n\nAs a Lovable MVP, how does the user flow feel to you?\n\nI'm wide open to any suggestions, critiques, or ideas you have. Thanks so much for taking the time to check it out! 🙌 ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ujk0el",
+      "title": "Agency we're working with sends in monthly streaming PDF's but they don't show or report what the spend accomplished.",
+      "author": "Far_Argument5470",
+      "score": 1,
+      "url": "/r/ecommerce/comments/1ueejzp/agency_were_working_with_sends_in_monthly/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ujk0el/agency_were_working_with_sends_in_monthly/",
+      "created_utc": 1782810409.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ujkc4g",
+      "title": "Haven’t heard anything on Google’s adtech case.",
+      "author": "WildEstablishment267",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ujkc4g/havent_heard_anything_on_googles_adtech_case/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ujkc4g/havent_heard_anything_on_googles_adtech_case/",
+      "created_utc": 1782811580.0,
+      "content": "Wasn’t it expected to be announced in H1, today is the last day 🙂",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
