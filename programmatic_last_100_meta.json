@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tvysdb",
-      "title": "Network Data: Search acquisition down 28% following recent updates, but pageviews per user up 8%",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tvysdb/network_data_search_acquisition_down_28_following/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tvysdb/network_data_search_acquisition_down_28_following/",
-      "created_utc": 1780512503.0,
-      "content": "Recent macro metrics from our network report indicate that a decline in organic traffic is a structural acquisition shift rather than a change in core content performance.  \n  \nFollowing the compounding Google Core and Spam updates, new search users dropped 28% across the publisher network. Concurrently, pageviews per user increased by 8%, demonstrating that existing readers continue to consume content at a higher rate.  \n  \nThe data also reveals a significant increase in referral traffic volume, though engagement rates on those sessions fell to 19.1%.  \n  \nAs search engines increasingly keep users on the search results page, investing in direct audience channels like email is becoming critical for traffic retention.\n\nhttps://preview.redd.it/xq8hc4fq545h1.png?width=1925&format=png&auto=webp&s=a846e51c2a9eb1ed964eabb0a5f98baadfc02c2b",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tw4l6k",
       "title": "Walmart Connect Reporting",
       "author": "Queasy-Ad-6862",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782921005.0,
       "content": "Seriously guys, a down on the 1st? I just thought it was being extra slow today, because it’s always slow.\n\nIts clear TTD is truly something special…\n\nEdit - crashed for at least an hour\\* with an error, was back up for me 11am cst. I still hate it tho",
       "num_comments": 21,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ukvyn6",
+      "title": "Anyone reporting rendered imps",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ukvyn6/anyone_reporting_rendered_imps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ukvyn6/anyone_reporting_rendered_imps/",
+      "created_utc": 1782935223.0,
+      "content": "I was wondering if anyone is also reporting vs rendered imps. Best practice track viewability, imps, click etc but not rendered imps… what do you think?  \nActually if you count click all should working, no?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

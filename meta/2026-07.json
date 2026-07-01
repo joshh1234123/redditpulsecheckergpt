@@ -29,6 +29,21 @@
       "link_flair_text": null,
       "thread_id": "1ukpgpt",
       "thread_path": "1ukpgpt.json"
+    },
+    {
+      "id": "1ukvyn6",
+      "title": "Anyone reporting rendered imps",
+      "author": "linuz14",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ukvyn6/anyone_reporting_rendered_imps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ukvyn6/anyone_reporting_rendered_imps/",
+      "created_utc": 1782935223.0,
+      "content": "I was wondering if anyone is also reporting vs rendered imps. Best practice track viewability, imps, click etc but not rendered imps… what do you think?  \nActually if you count click all should working, no?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ukvyn6",
+      "thread_path": "1ukvyn6.json"
     }
   ]
 }
