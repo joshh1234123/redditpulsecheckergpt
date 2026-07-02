@@ -74,6 +74,21 @@
       "link_flair_text": null,
       "thread_id": "1ule0x5",
       "thread_path": "1ule0x5.json"
+    },
+    {
+      "id": "1ulh8uv",
+      "title": "TTD SP500",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulh8uv/ttd_sp500/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulh8uv/ttd_sp500/",
+      "created_utc": 1782996262.0,
+      "content": "Hi all,  \nCan someone confirm whether TTD’s SP500 is switched on by default for campaigns, meaning we need to actively switch it off if we do not want to use it?  \nAlso, what is the incremental advantage of using SP500 when we already have strict brand safety controls, curated site lists, and custom algorithmic bid optimisation in place? I’m trying to understand whether SP500 adds value and whether theres a cost linked? \n\nAlso what is the difference compared to OpenPath?\n\nThank you!! ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ulh8uv",
+      "thread_path": "1ulh8uv.json"
     }
   ]
 }

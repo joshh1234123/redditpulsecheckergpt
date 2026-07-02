@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1txagos",
-      "title": "Programmatic DOOH Growth: What's Driving Adoption in 2026?",
-      "author": "quotesweed",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txagos/programmatic_dooh_growth_whats_driving_adoption/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txagos/programmatic_dooh_growth_whats_driving_adoption/",
-      "created_utc": 1780633311.0,
-      "content": "Programmatic Digital Out-of-Home (DOOH) advertising continues to gain momentum as brands look for more flexible, data-driven ways to reach audiences in the physical world.\n\nSome of the key drivers behind this growth include:\n\n✅ Real-time campaign activation and optimization  \n✅ Audience-based targeting using location and mobility data  \n✅ Dynamic creative that adapts to weather, time of day, or local events  \n✅ Better measurement and attribution capabilities  \n✅ Increased inventory availability across digital billboards, transit networks, malls, airports, and retail environments\n\nFor those working in the industry:\n\n**What's the biggest challenge you're facing with Programmatic DOOH today?**\n\n* Inventory fragmentation?\n* Measurement and attribution?\n* Educating clients?\n* Creative optimization?\n* Budget allocation?\n\nShare your thoughts, experiences, or recent campaign learnings in the comments. Let's start building a knowledge-sharing community for everyone involved in Programmatic DOOH.\n\n\\#DOOH #ProgrammaticDOOH #OOHAdvertising #AdTech #DigitalOutOfHome",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1txdpph",
       "title": "Post-factum payout withholding by Admitad: accepted gaming traffic, later blocked account, no raw logs provided",
       "author": "Henry_Mitch",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782986688.0,
       "content": "To give y’all a little context, I come from supply-side of the ecosystem. I have 1 year of experience in programmatic and PPC+Google Ads experience prior to that. I want to learn about DSP and gain demand side experience in Programmatic. But wherever I have applied, they all want prior hands-on DSP experience in DV360, Trade Desk. I’m doing the DV360 certification to understand the nuances of the platform but not sure if that will be enough to get me accepted. All who are already working with DSPs, can you all please guide me on how to make sure I land a job that will give me hands on DSP experience?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ulh8uv",
+      "title": "TTD SP500",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulh8uv/ttd_sp500/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulh8uv/ttd_sp500/",
+      "created_utc": 1782996262.0,
+      "content": "Hi all,  \nCan someone confirm whether TTD’s SP500 is switched on by default for campaigns, meaning we need to actively switch it off if we do not want to use it?  \nAlso, what is the incremental advantage of using SP500 when we already have strict brand safety controls, curated site lists, and custom algorithmic bid optimisation in place? I’m trying to understand whether SP500 adds value and whether theres a cost linked? \n\nAlso what is the difference compared to OpenPath?\n\nThank you!! ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
