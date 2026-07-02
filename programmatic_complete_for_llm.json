@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-02T04:38:20.669545+00:00",
-    "total_posts": 1795,
-    "total_comments": 10039
+    "scrape_date": "2026-07-02T08:09:09.601201+00:00",
+    "total_posts": 1796,
+    "total_comments": 10041
   },
   "discussions": [
     {
@@ -86561,6 +86561,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1ul8cae",
+      "title": "Performance marketing at DV360",
+      "author": "Ok_Instance1684",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
+      "created_utc": 1782967292.0,
+      "content": "Anybody knows a use-case of leveraging programmatic display marketing in general or just the DV360 to achieve performance (Actually positive ROAS and not just awareness)?\n\nOr if you know blogs, videos, training and other resources that focus on that.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Temporary_Visit4871",
+          "body": "Why would you want ROAS on programmatic display?\n\nYou can't compare it with Google Search.\nOf course there's ways to do it, like retargeting DCO but just do Google search ads if you want ROI",
+          "score": 3,
+          "created_utc": 1782969637.0
+        },
+        {
+          "author": "Ok_Instance1684",
+          "body": "You are 100% correct about Google Search Ads, but 15 years ago display banners were the best source for quality traffic and the ecosystem changed and the display with it.  \nRight now I have a feeling that there is an untapped potential at the programmatic display and I’m exploring the idea here.",
+          "score": -1,
+          "created_utc": 1782969931.0
+        }
+      ]
     }
   ]
 }

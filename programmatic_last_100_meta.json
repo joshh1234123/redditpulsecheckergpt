@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tw4l6k",
-      "title": "Walmart Connect Reporting",
-      "author": "Queasy-Ad-6862",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tw4l6k/walmart_connect_reporting/",
-      "created_utc": 1780524996.0,
-      "content": "Hello\n\nCurrently running a Search campaign within Walmart Connect. The reporting system is not great, but gets the job done. \n\nI recently found out that the Search side does not have geographic data available in reporting. When reading through the help center I see cross-channel reporting has DMA data available, but I don’t have access just yet. \n\nIf anyone is currently running a Search campaign and has access to cross channel reporting, can you confirm data can be pulled from that area?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tw9yfu",
       "title": "Mobile DSPs Moving Into CTV",
       "author": "Upper_Permit_9824",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782935223.0,
       "content": "I was wondering if anyone is also reporting vs rendered imps. Best practice track viewability, imps, click etc but not rendered imps… what do you think?  \nActually if you count click all should working, no?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ul8cae",
+      "title": "Performance marketing at DV360",
+      "author": "Ok_Instance1684",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
+      "created_utc": 1782967292.0,
+      "content": "Anybody knows a use-case of leveraging programmatic display marketing in general or just the DV360 to achieve performance (Actually positive ROAS and not just awareness)?\n\nOr if you know blogs, videos, training and other resources that focus on that.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
