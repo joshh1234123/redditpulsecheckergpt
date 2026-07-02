@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1txdpph",
-      "title": "Post-factum payout withholding by Admitad: accepted gaming traffic, later blocked account, no raw logs provided",
-      "author": "Henry_Mitch",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txdpph/postfactum_payout_withholding_by_admitad_accepted/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txdpph/postfactum_payout_withholding_by_admitad_accepted/",
-      "created_utc": 1780643866.0,
-      "content": "Hi everyone,\n\nI want to share a case involving Admitad and gaming CPA offers, because I think it touches a broader issue in performance marketing: post-factum payout withholding without transparent evidence.\n\nI worked with Admitad on gaming offers. The traffic was accepted, conversions were approved, and the network had previously paid me more than $30k.\n\nMonths after the traffic had already stopped, and much later after the conversions had been accepted, my account was blocked. Around €20k was withheld.\n\nThe explanation I received was not detailed. I was only shown a few screenshots. I asked for raw logs or any exportable data that would allow me to verify the issue: conversion timestamps, click IDs, user/session data, rejection reasons, advertiser-side evidence, or anything that could be compared against my own traffic records.\n\nThose requests were ignored.\n\nWhat makes the situation more questionable is that one month after my Admitad account was blocked, the same advertiser, on the same offers, with identical traffic, paid out in another affiliate network.\n\nSo the concern here is not only about one unpaid balance. The larger question is:\n\nIf a network accepts traffic, approves conversions, pays previous invoices, and only later blocks the publisher without sharing log-level evidence, what kind of protection does the publisher actually have?\n\nI also tried to resolve this directly and offered a compromise: I asked Admitad to at least cover my traffic costs from their commission on my previous conversions. That was ignored.\n\nI asked for the advertiser’s contact details so I could try to clarify the issue directly. That was ignored as well.\n\nAfter trying to resolve this for about a year, my impression is that either the advertiser did not provide proper evidence to the network, or the network did not want to challenge the advertiser or investigate the case in detail.\n\nhttps://preview.redd.it/ffca4yfp1f5h1.png?width=1850&format=png&auto=webp&s=8bf7abdad204e5138f63917c85e122c63f3b68b7\n\nhttps://preview.redd.it/3yfzz9tq1f5h1.png?width=1852&format=png&auto=webp&s=4310872445a13ee2e23feb015a7e10d00e85a7e2\n\n\n\n**How do publishers usually protect themselves from retroactive payout risk in CPA campaigns? Is traffic-splitting between multiple networks the only realistic option, or are there better safeguards?** ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1txefd5",
       "title": "Masters thesis help!",
       "author": "Traditional-Rip-574",
@@ -1302,6 +1289,19 @@
       "created_utc": 1782996262.0,
       "content": "Hi all,  \nCan someone confirm whether TTD’s SP500 is switched on by default for campaigns, meaning we need to actively switch it off if we do not want to use it?  \nAlso, what is the incremental advantage of using SP500 when we already have strict brand safety controls, curated site lists, and custom algorithmic bid optimisation in place? I’m trying to understand whether SP500 adds value and whether theres a cost linked? \n\nAlso what is the difference compared to OpenPath?\n\nThank you!! ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ullf9y",
+      "title": "DV360 & DCM down?",
+      "author": "Dull-Formal-7976",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
+      "created_utc": 1783006120.0,
+      "content": "Hi all - is anyone also seeing no stats for today 7/2 in DV360 and DCM reporting? I filed a ticket and they confirmed its impacting multiple advertisers globally but interested how widespread this is!",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

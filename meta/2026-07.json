@@ -89,6 +89,21 @@
       "link_flair_text": null,
       "thread_id": "1ulh8uv",
       "thread_path": "1ulh8uv.json"
+    },
+    {
+      "id": "1ullf9y",
+      "title": "DV360 & DCM down?",
+      "author": "Dull-Formal-7976",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
+      "created_utc": 1783006120.0,
+      "content": "Hi all - is anyone also seeing no stats for today 7/2 in DV360 and DCM reporting? I filed a ticket and they confirmed its impacting multiple advertisers globally but interested how widespread this is!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ullf9y",
+      "thread_path": "1ullf9y.json"
     }
   ]
 }
