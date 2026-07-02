@@ -134,6 +134,21 @@
       "link_flair_text": null,
       "thread_id": "1uln0g9",
       "thread_path": "1uln0g9.json"
+    },
+    {
+      "id": "1ulu7qg",
+      "title": "SPO and Brand safety",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
+      "created_utc": 1783025550.0,
+      "content": "Hi guys, so I have a double question,\n\nFirst of all, would you recommend completely cutting off resellers in favor of publishers with owned media?\n\nSecond question regarding brand safety, are DSP settings (placements, topic exclusions, adult, derogatory etc) irrelevant if IAS or Double verify is on? What is the recommended setup? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ulu7qg",
+      "thread_path": "1ulu7qg.json"
     }
   ]
 }

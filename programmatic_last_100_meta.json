@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1txhirg",
-      "title": "LLM models using data input from paid ads",
-      "author": "ProblemNo161",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txhirg/llm_models_using_data_input_from_paid_ads/",
-      "created_utc": 1780656830.0,
-      "content": "With AI being so freshly new and changing rapidly, wanted to ask about LLM models\n\nIf LLM models are currently scraping websites, indexing them, ranking them and returning results similar to an SEO capability - is it then possible to use paid ads into their model training as well?\n\nThink advertorial or sponsored content- but also even the context within the banner ad itself or ad to content ratio? Could this perpetuate the rise of MFA that has been on the decline -  if LLM’s  can push results that offer publishers more monetization opportunities (albeit garbage inventory) ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1txmnok",
       "title": "Anyone else navigating OpenAI Ads blind? Let's fix that.",
       "author": "whatsaflashbang",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uln0g9/why_pdooh_needs_to_break_free_from_the_passive/",
       "created_utc": 1783009598.0,
       "content": "Hey everyone,\n\nAs a community dedicated to programmatic DOOH, we talk a lot about the supply-side plumbing - SSPs, DSP integrations, impression multipliers, and real-time bidding protocols.\n\nWe’ve successfully brought digital buying efficiency to physical real estate. But if we look closely at the actual creatives running across these automated pipelines, a huge chunk of them are still being treated like digitized paper billboards. We are buying screens programmatically, but still filling the slots with standard, passive 15-second video loops.\n\nIf we want pDOOH to command premium, enterprise-level digital budgets, the next major evolution has to happen at the engagement layer: shifting from **passive viewing** to **active interaction**.\n\nWhen we bring true digital logic to physical screens, the playbook completely changes:\n\n* **Real-World Attribution Bridges:** Instead of relying purely on post-campaign probabilistic mobile location data, interactive elements (like localized QR mobile handoffs or immediate touch triggers) give performance marketers the exact deterministic, closed-loop attribution they crave.\n* **Contextual & Reactive Creatives:** Leveraging external APIs to change screen behaviors based on immediate environmental triggers, not just changing the ad based on the time of day, but altering the creative state based on live user proximity, footfall density, or real-time event triggers.\n* **Elevating Dwell Time into High-Value Sessions:** A standard passive highway board gets a few seconds of glance time. A street-level, transit, or mall display that invites user interaction can hold consumer attention for 30+ seconds, drastically shifting the ROI calculation for the buyer.\n\nThere's an independent industry blog called pDOOH Space that put together a great deep dive into the underlying mechanics of this shift, exploring how interactive setups are reshaping physical public spaces and breaking the old broadcast mold: [Interactive Digital Screens in Outdoor Advertising](https://pdooh.space/interactive-digital-screens-outdoor-advertising/).\n\nFor the operators, adtech engineers, and growth marketers in here - what do you think is the biggest bottleneck preventing brands from deploying more interactive, dynamic creatives at scale? Is it the fragmented capabilities of different screen networks, or are creative agencies just slow to adapt to physical-digital environments? Let's talk backend limitations and creative execution.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ulu7qg",
+      "title": "SPO and Brand safety",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
+      "created_utc": 1783025550.0,
+      "content": "Hi guys, so I have a double question,\n\nFirst of all, would you recommend completely cutting off resellers in favor of publishers with owned media?\n\nSecond question regarding brand safety, are DSP settings (placements, topic exclusions, adult, derogatory etc) irrelevant if IAS or Double verify is on? What is the recommended setup? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
