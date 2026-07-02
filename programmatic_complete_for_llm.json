@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-02T08:09:09.601201+00:00",
-    "total_posts": 1796,
+    "scrape_date": "2026-07-02T11:04:38.482787+00:00",
+    "total_posts": 1797,
     "total_comments": 10041
   },
   "discussions": [
@@ -86588,6 +86588,20 @@
           "created_utc": 1782969931.0
         }
       ]
+    },
+    {
+      "id": "1ule0x5",
+      "title": "DSP experience",
+      "author": "Ketela_pohu",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ule0x5/dsp_experience/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ule0x5/dsp_experience/",
+      "created_utc": 1782986688.0,
+      "content": "To give y’all a little context, I come from supply-side of the ecosystem. I have 1 year of experience in programmatic and PPC+Google Ads experience prior to that. I want to learn about DSP and gain demand side experience in Programmatic. But wherever I have applied, they all want prior hands-on DSP experience in DV360, Trade Desk. I’m doing the DV360 certification to understand the nuances of the platform but not sure if that will be enough to get me accepted. All who are already working with DSPs, can you all please guide me on how to make sure I land a job that will give me hands on DSP experience?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
