@@ -1,0 +1,52 @@
+{
+  "id": "1ulls1g",
+  "thread_id": "1ulls1g",
+  "title": "Do you agree with the stance that AI will highlight transparency issues in programmatic advertising?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1ulls1g/do_you_agree_with_the_stance_that_ai_will/",
+  "created_utc": 1783006899.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "kapt_so_krunchy",
+      "body": "Will it highlight transparency issues at the grocery store? Or Home Depot? \n\nI don’t get why there is so much fuss over transparency? It’s not that different from buying anything else. There’s a cost to everything.  Figure out how much you’re paying and how much you’re getting and what’s that worth to you. \n\nI can go to an orchard and pick out each piece of fruit by hand and I’ll know exactly what I’m buying and for how much. Or I can just go buy a bag at the grocery store and accept some will be good, some might not be, there’s a mark up but I saved a bunch of time and energy.",
+      "score": 4,
+      "created_utc": 1783009599.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "“When humans were managing campaigns manually — setting bids, reviewing placements, making optimization decisions — there was natural friction in the system. That friction created ambiguity, and ambiguity created cover. Nobody expected perfect visibility into every dollar.\n\nAI doesn’t work that way. When machines are making thousands of buying decisions per second, the economics have to be precise. Automation surfaces everything: the fees that were buried in IO terms, the margin that was folded into CPM pricing, the intermediaries that added latency without adding value. Marketers can’t optimize around what they can’t see, so AI makes everything visible.”\n\nThis SPONSORED article called out friction caused my DSP buyers doing their job but doesn’t expand on it at all. Just says that AI will fix this ambiguous friction. The sponsor is trying to sell us something. \n\nAt the end of the day, people look to AI systems, generally, in order to be more hands off. I’ve never had an advertiser who wanted their prog buyers who to be more hands off. ",
+      "score": 3,
+      "created_utc": 1783008000.0
+    },
+    {
+      "author": "quixzotic",
+      "body": "I don't get the logic of the article - we all know that programmatic has huge transparency problems. But the article seems to say that the reason is that humans are making day to day decisions - this ain't it tho - it's the incentives and the opaqueness of the systems themselves. AI can make it worse, since tech often favors incumbents and those w/ the deepest pockets. It'll center around control - if the existing players are \"deploying AI\" then the biz will find better ways to fleece you",
+      "score": 2,
+      "created_utc": 1783008563.0
+    },
+    {
+      "author": "Arlitto",
+      "body": "No, AI is too dumb still",
+      "score": 2,
+      "created_utc": 1783009692.0
+    },
+    {
+      "author": "Temporary_Visit4871",
+      "body": "I think AI overviews/chat bots replacing search (and webpage views on articles) is a much bigger issue to programmatic than whatever this is ",
+      "score": 2,
+      "created_utc": 1783011379.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "It’s all smoke and mirrors. ",
+      "score": 1,
+      "created_utc": 1783007387.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "You don't need AI to tell you that there are transparency issues in programmatic.",
+      "score": 1,
+      "created_utc": 1783007578.0
+    }
+  ]
+}

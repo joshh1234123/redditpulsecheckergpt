@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1txefd5",
-      "title": "Masters thesis help!",
-      "author": "Traditional-Rip-574",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txefd5/masters_thesis_help/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txefd5/masters_thesis_help/",
-      "created_utc": 1780646430.0,
-      "content": "Hi everyone, I'm a postgraduate student researching AI adoption in performance marketing within the FinTech industry. I have a short 5-minute survey and would really appreciate responses from anyone working in digital marketing, fintech or AI.\n\n  \n[https://forms.cloud.microsoft/e/kGWDvAkFNJ](https://forms.cloud.microsoft/e/kGWDvAkFNJ) ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1txfmjo",
-      "title": "How to calculate campaigns and programmatic accounts dust value?",
-      "author": "Hefty_Bet262",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txfmjo/how_to_calculate_campaigns_and_programmatic/",
-      "created_utc": 1780650655.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1txhirg",
       "title": "LLM models using data input from paid ads",
       "author": "ProblemNo161",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
       "created_utc": 1783006120.0,
       "content": "Hi all - is anyone also seeing no stats for today 7/2 in DV360 and DCM reporting? I filed a ticket and they confirmed its impacting multiple advertisers globally but interested how widespread this is!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ulls1g",
+      "title": "Do you agree with the stance that AI will highlight transparency issues in programmatic advertising?",
+      "author": "Zeetoay",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulls1g/do_you_agree_with_the_stance_that_ai_will/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulls1g/do_you_agree_with_the_stance_that_ai_will/",
+      "created_utc": 1783006899.0,
+      "content": "[https://digiday.com/sponsored/what-ai-is-about-to-expose-about-programmatic-advertising/](https://digiday.com/sponsored/what-ai-is-about-to-expose-about-programmatic-advertising/)\n\nInteresting take from Digiday here about the state of programmatic advertising and AI.\n\nThey predict automation will surface all the math and numbers the platforms would rather hide. Buried fees, hidden margins, and so forth. And how the need for AI to be grounded in clean data will prompt (excuse the pun) advertisers to ask where their money is actually going. \n\nIt brings back to mind the TTD-Publicis fiasco and the holdco transparency war it rekindled earlier this year…\n\nWhat does everyone here think about this?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uln0g9",
+      "title": "Why pDOOH needs to break free from the \"passive video loop\" mindset",
+      "author": "quotesweed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uln0g9/why_pdooh_needs_to_break_free_from_the_passive/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uln0g9/why_pdooh_needs_to_break_free_from_the_passive/",
+      "created_utc": 1783009598.0,
+      "content": "Hey everyone,\n\nAs a community dedicated to programmatic DOOH, we talk a lot about the supply-side plumbing - SSPs, DSP integrations, impression multipliers, and real-time bidding protocols.\n\nWe’ve successfully brought digital buying efficiency to physical real estate. But if we look closely at the actual creatives running across these automated pipelines, a huge chunk of them are still being treated like digitized paper billboards. We are buying screens programmatically, but still filling the slots with standard, passive 15-second video loops.\n\nIf we want pDOOH to command premium, enterprise-level digital budgets, the next major evolution has to happen at the engagement layer: shifting from **passive viewing** to **active interaction**.\n\nWhen we bring true digital logic to physical screens, the playbook completely changes:\n\n* **Real-World Attribution Bridges:** Instead of relying purely on post-campaign probabilistic mobile location data, interactive elements (like localized QR mobile handoffs or immediate touch triggers) give performance marketers the exact deterministic, closed-loop attribution they crave.\n* **Contextual & Reactive Creatives:** Leveraging external APIs to change screen behaviors based on immediate environmental triggers, not just changing the ad based on the time of day, but altering the creative state based on live user proximity, footfall density, or real-time event triggers.\n* **Elevating Dwell Time into High-Value Sessions:** A standard passive highway board gets a few seconds of glance time. A street-level, transit, or mall display that invites user interaction can hold consumer attention for 30+ seconds, drastically shifting the ROI calculation for the buyer.\n\nThere's an independent industry blog called pDOOH Space that put together a great deep dive into the underlying mechanics of this shift, exploring how interactive setups are reshaping physical public spaces and breaking the old broadcast mold: [Interactive Digital Screens in Outdoor Advertising](https://pdooh.space/interactive-digital-screens-outdoor-advertising/).\n\nFor the operators, adtech engineers, and growth marketers in here - what do you think is the biggest bottleneck preventing brands from deploying more interactive, dynamic creatives at scale? Is it the fragmented capabilities of different screen networks, or are creative agencies just slow to adapt to physical-digital environments? Let's talk backend limitations and creative execution.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

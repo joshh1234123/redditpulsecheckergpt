@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-02T15:38:21.096681+00:00",
-    "total_posts": 1799,
-    "total_comments": 10042
+    "scrape_date": "2026-07-02T17:32:19.895546+00:00",
+    "total_posts": 1801,
+    "total_comments": 10049
   },
   "discussions": [
     {
@@ -86633,6 +86633,77 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
       "created_utc": 1783006120.0,
       "content": "Hi all - is anyone also seeing no stats for today 7/2 in DV360 and DCM reporting? I filed a ticket and they confirmed its impacting multiple advertisers globally but interested how widespread this is!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ulls1g",
+      "title": "Do you agree with the stance that AI will highlight transparency issues in programmatic advertising?",
+      "author": "Zeetoay",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ulls1g/do_you_agree_with_the_stance_that_ai_will/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ulls1g/do_you_agree_with_the_stance_that_ai_will/",
+      "created_utc": 1783006899.0,
+      "content": "[https://digiday.com/sponsored/what-ai-is-about-to-expose-about-programmatic-advertising/](https://digiday.com/sponsored/what-ai-is-about-to-expose-about-programmatic-advertising/)\n\nInteresting take from Digiday here about the state of programmatic advertising and AI.\n\nThey predict automation will surface all the math and numbers the platforms would rather hide. Buried fees, hidden margins, and so forth. And how the need for AI to be grounded in clean data will prompt (excuse the pun) advertisers to ask where their money is actually going. \n\nIt brings back to mind the TTD-Publicis fiasco and the holdco transparency war it rekindled earlier this year…\n\nWhat does everyone here think about this?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "kapt_so_krunchy",
+          "body": "Will it highlight transparency issues at the grocery store? Or Home Depot? \n\nI don’t get why there is so much fuss over transparency? It’s not that different from buying anything else. There’s a cost to everything.  Figure out how much you’re paying and how much you’re getting and what’s that worth to you. \n\nI can go to an orchard and pick out each piece of fruit by hand and I’ll know exactly what I’m buying and for how much. Or I can just go buy a bag at the grocery store and accept some will be good, some might not be, there’s a mark up but I saved a bunch of time and energy.",
+          "score": 4,
+          "created_utc": 1783009599.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "“When humans were managing campaigns manually — setting bids, reviewing placements, making optimization decisions — there was natural friction in the system. That friction created ambiguity, and ambiguity created cover. Nobody expected perfect visibility into every dollar.\n\nAI doesn’t work that way. When machines are making thousands of buying decisions per second, the economics have to be precise. Automation surfaces everything: the fees that were buried in IO terms, the margin that was folded into CPM pricing, the intermediaries that added latency without adding value. Marketers can’t optimize around what they can’t see, so AI makes everything visible.”\n\nThis SPONSORED article called out friction caused my DSP buyers doing their job but doesn’t expand on it at all. Just says that AI will fix this ambiguous friction. The sponsor is trying to sell us something. \n\nAt the end of the day, people look to AI systems, generally, in order to be more hands off. I’ve never had an advertiser who wanted their prog buyers who to be more hands off. ",
+          "score": 3,
+          "created_utc": 1783008000.0
+        },
+        {
+          "author": "quixzotic",
+          "body": "I don't get the logic of the article - we all know that programmatic has huge transparency problems. But the article seems to say that the reason is that humans are making day to day decisions - this ain't it tho - it's the incentives and the opaqueness of the systems themselves. AI can make it worse, since tech often favors incumbents and those w/ the deepest pockets. It'll center around control - if the existing players are \"deploying AI\" then the biz will find better ways to fleece you",
+          "score": 2,
+          "created_utc": 1783008563.0
+        },
+        {
+          "author": "Arlitto",
+          "body": "No, AI is too dumb still",
+          "score": 2,
+          "created_utc": 1783009692.0
+        },
+        {
+          "author": "Temporary_Visit4871",
+          "body": "I think AI overviews/chat bots replacing search (and webpage views on articles) is a much bigger issue to programmatic than whatever this is ",
+          "score": 2,
+          "created_utc": 1783011379.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "It’s all smoke and mirrors. ",
+          "score": 1,
+          "created_utc": 1783007387.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "You don't need AI to tell you that there are transparency issues in programmatic.",
+          "score": 1,
+          "created_utc": 1783007578.0
+        }
+      ]
+    },
+    {
+      "id": "1uln0g9",
+      "title": "Why pDOOH needs to break free from the \"passive video loop\" mindset",
+      "author": "quotesweed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uln0g9/why_pdooh_needs_to_break_free_from_the_passive/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uln0g9/why_pdooh_needs_to_break_free_from_the_passive/",
+      "created_utc": 1783009598.0,
+      "content": "Hey everyone,\n\nAs a community dedicated to programmatic DOOH, we talk a lot about the supply-side plumbing - SSPs, DSP integrations, impression multipliers, and real-time bidding protocols.\n\nWe’ve successfully brought digital buying efficiency to physical real estate. But if we look closely at the actual creatives running across these automated pipelines, a huge chunk of them are still being treated like digitized paper billboards. We are buying screens programmatically, but still filling the slots with standard, passive 15-second video loops.\n\nIf we want pDOOH to command premium, enterprise-level digital budgets, the next major evolution has to happen at the engagement layer: shifting from **passive viewing** to **active interaction**.\n\nWhen we bring true digital logic to physical screens, the playbook completely changes:\n\n* **Real-World Attribution Bridges:** Instead of relying purely on post-campaign probabilistic mobile location data, interactive elements (like localized QR mobile handoffs or immediate touch triggers) give performance marketers the exact deterministic, closed-loop attribution they crave.\n* **Contextual & Reactive Creatives:** Leveraging external APIs to change screen behaviors based on immediate environmental triggers, not just changing the ad based on the time of day, but altering the creative state based on live user proximity, footfall density, or real-time event triggers.\n* **Elevating Dwell Time into High-Value Sessions:** A standard passive highway board gets a few seconds of glance time. A street-level, transit, or mall display that invites user interaction can hold consumer attention for 30+ seconds, drastically shifting the ROI calculation for the buyer.\n\nThere's an independent industry blog called pDOOH Space that put together a great deep dive into the underlying mechanics of this shift, exploring how interactive setups are reshaping physical public spaces and breaking the old broadcast mold: [Interactive Digital Screens in Outdoor Advertising](https://pdooh.space/interactive-digital-screens-outdoor-advertising/).\n\nFor the operators, adtech engineers, and growth marketers in here - what do you think is the biggest bottleneck preventing brands from deploying more interactive, dynamic creatives at scale? Is it the fragmented capabilities of different screen networks, or are creative agencies just slow to adapt to physical-digital environments? Let's talk backend limitations and creative execution.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
