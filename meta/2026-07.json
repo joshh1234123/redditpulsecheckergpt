@@ -149,6 +149,36 @@
       "link_flair_text": null,
       "thread_id": "1ulu7qg",
       "thread_path": "1ulu7qg.json"
+    },
+    {
+      "id": "1umax8v",
+      "title": "Is programmatic TV advertising actually worth the budget shift?",
+      "author": "MycologistClassic837",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "created_utc": 1783075081.0,
+      "content": "CTV attribution and incrementality testing have come up enough in our channel diversification conversations that leadership is now actually asking us to test programmatic TV. As a B2B SaaS company, pipeline attribution is the metric  we judge performance by and I can't figure out if CTV can realistically tie back to that.\n\nour stack is Google and LinkedIn heavy right now. the case for connected TV ads for B2B keeps coming up framed as account-based marketing CTV, which sounds compelling until you start asking how enterprise B2B CTV campaigns are actually measured. everyone selling it points to CTV lift studies and CTV influenced pipeline but I've burned my fingers on platform-reported metrics enough times before.\n\nhas anyone here run B2B CTV campaigns at real scale and come out with actual geo holdout data? i wanna know what channel diversification actually looked like for a performance team that was Meta/Google heavy before, and whether the self-serve path has gotten to a point where this is manageable without handing it over to a managed service.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1umax8v",
+      "thread_path": "1umax8v.json"
+    },
+    {
+      "id": "1umbcmq",
+      "title": "Adform Flow seat through a partner agency",
+      "author": "MayorofJamCity",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "created_utc": 1783076427.0,
+      "content": "Hi all,\n\nJust wondering if anyone has any recommendations for partner agencies that sell self-serve seats for Adform Flow? Seems like a few years ago there were quite a few, but I've so far only managed to find Ad Geeks and Mint Square. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1umbcmq",
+      "thread_path": "1umbcmq.json"
     }
   ]
 }

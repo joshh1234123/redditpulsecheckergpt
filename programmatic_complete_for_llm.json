@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-03T10:28:32.873795+00:00",
-    "total_posts": 1802,
-    "total_comments": 10049
+    "scrape_date": "2026-07-03T12:25:41.806643+00:00",
+    "total_posts": 1804,
+    "total_comments": 10050
   },
   "discussions": [
     {
@@ -86718,6 +86718,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
       "created_utc": 1783025550.0,
       "content": "Hi guys, so I have a double question,\n\nFirst of all, would you recommend completely cutting off resellers in favor of publishers with owned media?\n\nSecond question regarding brand safety, are DSP settings (placements, topic exclusions, adult, derogatory etc) irrelevant if IAS or Double verify is on? What is the recommended setup? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1umax8v",
+      "title": "Is programmatic TV advertising actually worth the budget shift?",
+      "author": "MycologistClassic837",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "created_utc": 1783075081.0,
+      "content": "CTV attribution and incrementality testing have come up enough in our channel diversification conversations that leadership is now actually asking us to test programmatic TV. As a B2B SaaS company, pipeline attribution is the metric  we judge performance by and I can't figure out if CTV can realistically tie back to that.\n\nour stack is Google and LinkedIn heavy right now. the case for connected TV ads for B2B keeps coming up framed as account-based marketing CTV, which sounds compelling until you start asking how enterprise B2B CTV campaigns are actually measured. everyone selling it points to CTV lift studies and CTV influenced pipeline but I've burned my fingers on platform-reported metrics enough times before.\n\nhas anyone here run B2B CTV campaigns at real scale and come out with actual geo holdout data? i wanna know what channel diversification actually looked like for a performance team that was Meta/Google heavy before, and whether the self-serve path has gotten to a point where this is manageable without handing it over to a managed service.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Plenty-Recording-460",
+          "body": "As far as getting ads in front of real people that they might actually remember/pay attention to, I personally feel CTV is the most effective and useful. \n\nConvincing a your CFO or client is the real issue. CTV isn’t going to drive direct, measurable actions. You can try adding a QR code or “send to phone” options or a phone number but I haven’t seen high volume doing that. \n\nI truly believe all the data and metrics that feed into ROAS often are pushing ad dollars to the wrong channels. Especially for programmatic channels. I’d rather my company/product be heard or seen via Audio/CTV ads than have thousands of “clicks” on a display campaign. ",
+          "score": 2,
+          "created_utc": 1783079433.0
+        }
+      ]
+    },
+    {
+      "id": "1umbcmq",
+      "title": "Adform Flow seat through a partner agency",
+      "author": "MayorofJamCity",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "created_utc": 1783076427.0,
+      "content": "Hi all,\n\nJust wondering if anyone has any recommendations for partner agencies that sell self-serve seats for Adform Flow? Seems like a few years ago there were quite a few, but I've so far only managed to find Ad Geeks and Mint Square. Thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

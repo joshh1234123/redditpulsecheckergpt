@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1txmnok",
-      "title": "Anyone else navigating OpenAI Ads blind? Let's fix that.",
-      "author": "whatsaflashbang",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txmnok/anyone_else_navigating_openai_ads_blind_lets_fix/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txmnok/anyone_else_navigating_openai_ads_blind_lets_fix/",
-      "created_utc": 1780669930.0,
-      "content": "I work at a digital agency and over the past few months I've had a growing number of clients asking about running ads on OpenAI. We're in the early stages of getting a few of them set up on the platform and honestly... there isn't a ton of practical knowledge out there yet. Most of what exists is either surface-level coverage or speculation.\n\nNo pitch here, not looking to sell anything or hire anyone, just genuinely trying to find other practitioners who are in the weeds on this and want to swap notes.\n\nCurious if there's appetite for a small informal group (Discord, Slack, wherever) where people working on OpenAI ads can share:\n\n* What's actually working (and what isn't)\n* How you're thinking about campaign structure and optimization\n* How you're setting client expectations on a platform with basically no benchmarks yet\n* Any quirks or gotchas you've run into\n\nIf you're at an agency, in-house, or just running your own tests, drop a comment or DM me. Would love to connect with people who are figuring this out in real time rather than waiting for a case study to drop 18 months from now.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1txslt3",
-      "title": "Contact help",
-      "author": "DairyQueen818",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1txslt3/contact_help/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1txslt3/contact_help/",
-      "created_utc": 1780682743.0,
-      "content": "Anyone have a sales contact at Rakuten Viki? Contact in DV360 is outdated ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1txz27w",
       "title": "demand gen video setup on dv360",
       "author": "linuz14",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ulu7qg/spo_and_brand_safety/",
       "created_utc": 1783025550.0,
       "content": "Hi guys, so I have a double question,\n\nFirst of all, would you recommend completely cutting off resellers in favor of publishers with owned media?\n\nSecond question regarding brand safety, are DSP settings (placements, topic exclusions, adult, derogatory etc) irrelevant if IAS or Double verify is on? What is the recommended setup? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1umax8v",
+      "title": "Is programmatic TV advertising actually worth the budget shift?",
+      "author": "MycologistClassic837",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
+      "created_utc": 1783075081.0,
+      "content": "CTV attribution and incrementality testing have come up enough in our channel diversification conversations that leadership is now actually asking us to test programmatic TV. As a B2B SaaS company, pipeline attribution is the metric  we judge performance by and I can't figure out if CTV can realistically tie back to that.\n\nour stack is Google and LinkedIn heavy right now. the case for connected TV ads for B2B keeps coming up framed as account-based marketing CTV, which sounds compelling until you start asking how enterprise B2B CTV campaigns are actually measured. everyone selling it points to CTV lift studies and CTV influenced pipeline but I've burned my fingers on platform-reported metrics enough times before.\n\nhas anyone here run B2B CTV campaigns at real scale and come out with actual geo holdout data? i wanna know what channel diversification actually looked like for a performance team that was Meta/Google heavy before, and whether the self-serve path has gotten to a point where this is manageable without handing it over to a managed service.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1umbcmq",
+      "title": "Adform Flow seat through a partner agency",
+      "author": "MayorofJamCity",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
+      "created_utc": 1783076427.0,
+      "content": "Hi all,\n\nJust wondering if anyone has any recommendations for partner agencies that sell self-serve seats for Adform Flow? Seems like a few years ago there were quite a few, but I've so far only managed to find Ad Geeks and Mint Square. Thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
