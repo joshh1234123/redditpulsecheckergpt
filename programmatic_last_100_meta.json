@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tydure",
-      "title": "Supply Side raw data",
-      "author": "Grouchy_Ad_9474",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tydure/supply_side_raw_data/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tydure/supply_side_raw_data/",
-      "created_utc": 1780742388.0,
-      "content": "Im new to this subreddit and wanted to intro myself over. I work for a global source of raw data feeds that supply the programmatic industry. We have just about everything and one of the only players with a full international ID graph.  \n\nIn the past, my company has always operated as a pure wholesaler selling to the largest companies who then resell our solutions as their own. \n\nWhen I got onboarded as ops, my goal was to add an additional GTM channel targeting SMBs that are underrepresented in the market. \n\nAny advice from you all on what we should leverage to reach more agencies or brands in this space or if we should just stick to wholesale and behind the scenes. ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tydwgi",
       "title": "How much does IP detection actually degrade the quality of your verification data?",
       "author": "Puzzleheaded_Bit2374",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783160975.0,
       "content": "If anyone have used either, please share your experience. have come across AdCP executions but how much of actual impact its had on time, costs, transparency etc. For IAB agentic framework, has anyone used or aiming to test it. Would be good to hear on the learnings, success/failure stories",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1unhzbd",
+      "title": "Is Contract based programmatic advertising worth pursuing?",
+      "author": "Possible_Eggplant_79",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1unhzbd/is_contract_based_programmatic_advertising_worth/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1unhzbd/is_contract_based_programmatic_advertising_worth/",
+      "created_utc": 1783193793.0,
+      "content": "Hi everyone,\n\nI currently work at a Big 6 media agency, managing programmatic campaigns with \\~$500K in monthly media spend. I'm looking to gain freelance/contract experience alongside my full-time role.\n\nIf anyone here works with clients who need programmatic support or knows of contractor opportunities, I'd really appreciate a referral or introduction. I'm always eager to learn, deliver quality work, and grow in the programmatic space.\n\nThanks in advance!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

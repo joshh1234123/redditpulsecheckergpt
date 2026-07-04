@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-04T19:16:54.611398+00:00",
-    "total_posts": 1805,
-    "total_comments": 10050
+    "scrape_date": "2026-07-04T20:28:20.713164+00:00",
+    "total_posts": 1806,
+    "total_comments": 10051
   },
   "discussions": [
     {
@@ -86771,6 +86771,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1unhzbd",
+      "title": "Is Contract based programmatic advertising worth pursuing?",
+      "author": "Possible_Eggplant_79",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1unhzbd/is_contract_based_programmatic_advertising_worth/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1unhzbd/is_contract_based_programmatic_advertising_worth/",
+      "created_utc": 1783193793.0,
+      "content": "Hi everyone,\n\nI currently work at a Big 6 media agency, managing programmatic campaigns with \\~$500K in monthly media spend. I'm looking to gain freelance/contract experience alongside my full-time role.\n\nIf anyone here works with clients who need programmatic support or knows of contractor opportunities, I'd really appreciate a referral or introduction. I'm always eager to learn, deliver quality work, and grow in the programmatic space.\n\nThanks in advance!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Ok_Instance1684",
+          "body": "What are the content sectors you worked with?",
+          "score": 1,
+          "created_utc": 1783194231.0
+        }
+      ]
     }
   ]
 }
