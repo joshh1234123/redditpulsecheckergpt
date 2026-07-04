@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-04T08:08:58.140353+00:00",
-    "total_posts": 1804,
+    "scrape_date": "2026-07-04T10:31:41.774400+00:00",
+    "total_posts": 1805,
     "total_comments": 10050
   },
   "discussions": [
@@ -86753,6 +86753,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1umbcmq/adform_flow_seat_through_a_partner_agency/",
       "created_utc": 1783076427.0,
       "content": "Hi all,\n\nJust wondering if anyone has any recommendations for partner agencies that sell self-serve seats for Adform Flow? Seems like a few years ago there were quite a few, but I've so far only managed to find Ad Geeks and Mint Square. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1un5n3r",
+      "title": "AdCP vs AAMP protocols",
+      "author": "WildEstablishment267",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
+      "created_utc": 1783160975.0,
+      "content": "If anyone have used either, please share your experience. have come across AdCP executions but how much of actual impact its had on time, costs, transparency etc. For IAB agentic framework, has anyone used or aiming to test it. Would be good to hear on the learnings, success/failure stories",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

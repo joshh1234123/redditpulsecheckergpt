@@ -179,6 +179,21 @@
       "link_flair_text": null,
       "thread_id": "1umbcmq",
       "thread_path": "1umbcmq.json"
+    },
+    {
+      "id": "1un5n3r",
+      "title": "AdCP vs AAMP protocols",
+      "author": "WildEstablishment267",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
+      "created_utc": 1783160975.0,
+      "content": "If anyone have used either, please share your experience. have come across AdCP executions but how much of actual impact its had on time, costs, transparency etc. For IAB agentic framework, has anyone used or aiming to test it. Would be good to hear on the learnings, success/failure stories",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1un5n3r",
+      "thread_path": "1un5n3r.json"
     }
   ]
 }
