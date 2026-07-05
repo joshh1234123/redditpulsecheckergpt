@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-05T18:06:36.023879+00:00",
-    "total_posts": 1806,
+    "scrape_date": "2026-07-05T19:49:14.549290+00:00",
+    "total_posts": 1807,
     "total_comments": 10051
   },
   "discussions": [
@@ -86792,6 +86792,20 @@
           "created_utc": 1783194231.0
         }
       ]
+    },
+    {
+      "id": "1uo9daa",
+      "title": "looking for video bidders",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "/r/adops/comments/1uo9cyr/looking_for_video_bidders/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uo9daa/looking_for_video_bidders/",
+      "created_utc": 1783275610.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

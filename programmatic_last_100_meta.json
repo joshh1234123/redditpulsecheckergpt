@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tydwgi",
-      "title": "How much does IP detection actually degrade the quality of your verification data?",
-      "author": "Puzzleheaded_Bit2374",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tydwgi/how_much_does_ip_detection_actually_degrade_the/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tydwgi/how_much_does_ip_detection_actually_degrade_the/",
-      "created_utc": 1780742554.0,
-      "content": "Something I don't see discussed enough.\n\nThe way the verification ecosystem works right now, the same IPs get used repeatedly across audits and sophisticated publishers and SSPs have had plenty of time to catalogue them. At some point a flagged IP stops returning ground truth and starts returning whatever the seller wants you to see.\n\nI've been thinking about this a lot while working on something in the IP infrastructure space and wanted to get a sense of how much it actually matters to people running programmatic campaigns day to day.\n\nA few things I'm genuinely curious about:\n\nWhen you're evaluating inventory quality, how much confidence do you have that your verification provider's IPs aren't already known to the sell side?\n\nHas IAS, DV, or any other vendor ever flagged inventory as clean that you later had reason to doubt?\n\nDo you think about IP hygiene as a variable in verification accuracy, or is that something you leave entirely to your verification vendor to manage?\n\nFull disclosure, I'm building something in this space and want honest signal from people who actually live in the programmatic stack. What's your experience?\n\nTIA",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tyh29u",
       "title": "Having issues at work during probation",
       "author": "ExpensiveIndication8",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783193793.0,
       "content": "Hi everyone,\n\nI currently work at a Big 6 media agency, managing programmatic campaigns with \\~$500K in monthly media spend. I'm looking to gain freelance/contract experience alongside my full-time role.\n\nIf anyone here works with clients who need programmatic support or knows of contractor opportunities, I'd really appreciate a referral or introduction. I'm always eager to learn, deliver quality work, and grow in the programmatic space.\n\nThanks in advance!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uo9daa",
+      "title": "looking for video bidders",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "/r/adops/comments/1uo9cyr/looking_for_video_bidders/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uo9daa/looking_for_video_bidders/",
+      "created_utc": 1783275610.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
