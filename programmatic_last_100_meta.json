@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1tyi0yq",
-      "title": "server-side tracking made our data worse before it made it better",
-      "author": "Easy-Purple-1659",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1tyi0yq/serverside_tracking_made_our_data_worse_before_it/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1tyi0yq/serverside_tracking_made_our_data_worse_before_it/",
-      "created_utc": 1780754390.0,
-      "content": "six months ago we moved our pixel tracking server-side. GTM server container, custom data layer, the works. 10 markets. 4 million monthly users. i was confident. this was the right move. better data. fewer client-side blockers. cleaner attribution. \n\nfirst month was humbling. our conversion numbers dropped 22%. the CMO was not impressed. turns out server-side tracking doesn't automatically fix everything. it fixes third-party cookie loss. but it also breaks things. facebook CAPI stopped matching correctly because the event parameters didn't line up with what meta expected. google ads conversion linker threw errors we'd never seen. and our attribution model, which we'd spent 18 months building, was suddenly comparing apples to server-side oranges. it took three months to stabilize. not because the tech was hard. because every platform has different expectations for server-side events and nobody documents the edge cases. meta wants fbp and fbc in specific formats. google wants gclid passed through. and if you miss one, the conversion just silently stops counting.  \n  \nserver-side tracking is the right long-term call. but if you're planning the migration, budget 3x the time you think you need. the tech deploys in a week. the debugging takes months.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1tykoge",
       "title": "Cm360 tracking conversion counting",
       "author": "linuz14",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783332061.0,
       "content": "Hi everyone,\n\nI'm creating a report in DV360.\n\nIn the Dimension section, I added:\n\nAdvertiser\n\nCampaign\n\nInsertion Order\n\nDate\n\nIn the Metrics section, I added:\n\nImpressions\n\nClicks\n\nCTR\n\nThe issue is that my advertisers have many campaigns, including inactive ones. I only want the report to show active campaigns.\n\nIs there a way to filter the report so that only active campaigns are included? If so, how can I do that?\n\nThanks in advance!",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1up15uz",
+      "title": "Does anyone have positive CTV pause ads Performance? QR code, Send to Email, Ad to card",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://i.redd.it/7zembp8bqmbh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1up15uz/does_anyone_have_positive_ctv_pause_ads/",
+      "created_utc": 1783352866.0,
+      "content": "Hi \n\nOften see people ask about CTV performance here. \n\nI only know about Amazon DSP and I can see good support including offf-Amazon conversion metrics. But I know many other platforms support pause ads\n\nI could not found solid positive success stories. In fact some users seem to really hate them 😂 [https://www.reddit.com/r/AmazonPrimeVideo/comments/1lt2w8h/ad\\_products\\_keep\\_getting\\_added\\_to\\_my\\_cart/](https://www.reddit.com/r/AmazonPrimeVideo/comments/1lt2w8h/ad_products_keep_getting_added_to_my_cart/)  \n\nDo you have practical positive experience with pause ads in Amazon DSP or other platform? \n\nWhat is your experience with them? ",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
