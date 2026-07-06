@@ -224,6 +224,21 @@
       "link_flair_text": null,
       "thread_id": "1uo9daa",
       "thread_path": "1uo9daa.json"
+    },
+    {
+      "id": "1uosycd",
+      "title": "How to Filter Only Active Campaigns in a DV360 Report?",
+      "author": "DotNo4675",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
+      "created_utc": 1783332061.0,
+      "content": "Hi everyone,\n\nI'm creating a report in DV360.\n\nIn the Dimension section, I added:\n\nAdvertiser\n\nCampaign\n\nInsertion Order\n\nDate\n\nIn the Metrics section, I added:\n\nImpressions\n\nClicks\n\nCTR\n\nThe issue is that my advertisers have many campaigns, including inactive ones. I only want the report to show active campaigns.\n\nIs there a way to filter the report so that only active campaigns are included? If so, how can I do that?\n\nThanks in advance!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1uosycd",
+      "thread_path": "1uosycd.json"
     }
   ]
 }

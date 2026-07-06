@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-06T08:55:49.202544+00:00",
-    "total_posts": 1807,
-    "total_comments": 10051
+    "scrape_date": "2026-07-06T12:39:46.564197+00:00",
+    "total_posts": 1808,
+    "total_comments": 10054
   },
   "discussions": [
     {
@@ -86806,6 +86806,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uosycd",
+      "title": "How to Filter Only Active Campaigns in a DV360 Report?",
+      "author": "DotNo4675",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
+      "created_utc": 1783332061.0,
+      "content": "Hi everyone,\n\nI'm creating a report in DV360.\n\nIn the Dimension section, I added:\n\nAdvertiser\n\nCampaign\n\nInsertion Order\n\nDate\n\nIn the Metrics section, I added:\n\nImpressions\n\nClicks\n\nCTR\n\nThe issue is that my advertisers have many campaigns, including inactive ones. I only want the report to show active campaigns.\n\nIs there a way to filter the report so that only active campaigns are included? If so, how can I do that?\n\nThanks in advance!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Temporary_Visit4871",
+          "body": "Not a direct approach, but you could:\n\n- Download a report of yesterday's campaigns (active campaigns)\n- Download a report with your full look back window (active + inactive campaigns) to date \n\n- Simple Vlookup formula b/w the 2 files",
+          "score": 1,
+          "created_utc": 1783332484.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "If you are downloading a report for a certain date range. Only the campaigns that were active and spent will be shown in the report. ",
+          "score": 1,
+          "created_utc": 1783334987.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "You can add a filter on impressions once you add it to the instant report. Do greater than 0 and is the closest to active status.",
+          "score": 1,
+          "created_utc": 1783338809.0
+        }
+      ]
     }
   ]
 }
