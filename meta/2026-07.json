@@ -284,6 +284,21 @@
       "link_flair_text": null,
       "thread_id": "1uq3ddf",
       "thread_path": "1uq3ddf.json"
+    },
+    {
+      "id": "1uqbafa",
+      "title": "Terminated for using AI",
+      "author": "Programmatic-Dude",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "created_utc": 1783465801.0,
+      "content": "Uploaded campaign data to Gemini and ChatGPT last week and was terminated today. AI guidelines were vague and campaign data is considered sensitive information which is laughable. \n\nBe careful folks! ",
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1uqbafa",
+      "thread_path": "1uqbafa.json"
     }
   ]
 }

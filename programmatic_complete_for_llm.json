@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-07T22:54:04.182176+00:00",
-    "total_posts": 1811,
-    "total_comments": 10056
+    "scrape_date": "2026-07-07T23:52:03.799284+00:00",
+    "total_posts": 1812,
+    "total_comments": 10067
   },
   "discussions": [
     {
@@ -86894,6 +86894,87 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uqbafa",
+      "title": "Terminated for using AI",
+      "author": "Programmatic-Dude",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "created_utc": 1783465801.0,
+      "content": "Uploaded campaign data to Gemini and ChatGPT last week and was terminated today. AI guidelines were vague and campaign data is considered sensitive information which is laughable. \n\nBe careful folks! ",
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "CarmeloManning",
+          "body": "Sorry to hear that.\n\nDon’t worry , the person who let you go is getting replaced agentically anyways ",
+          "score": 14,
+          "created_utc": 1783466300.0
+        },
+        {
+          "author": "checkyminus",
+          "body": "That's brutal. It's crazy they didn't provide you an AI account to help you out. It helps me a ton with the monotonous shit. ",
+          "score": 10,
+          "created_utc": 1783466479.0
+        },
+        {
+          "author": "ConstructionOwn9575",
+          "body": "If you're company uses AI they should be providing accounts that do not allow sensitive data to be used for the training models. If they're telling you to use AI but not providing secure accounts, that's on them. They can have a policy all they want about not using AI and sensitive information, but they need to give you the tools and training. Not feed you to the wolves. This is basic cyber security.\n\nNow if they did do that and you used a personal account, then the firing is justified.",
+          "score": 10,
+          "created_utc": 1783467031.0
+        },
+        {
+          "author": "plainbread11",
+          "body": "How tf did they even find out about this?",
+          "score": 7,
+          "created_utc": 1783466711.0
+        },
+        {
+          "author": "taguscove",
+          "body": "It is wild to see such different takes. Maybe it is different if working at an agency for a client.\n\nAt our org running 1st party sem, activating our data with AI is a prerogative. The balance of risk is overwhelmingly on being to cautious and getting left behind vs leading competitors",
+          "score": 3,
+          "created_utc": 1783466749.0
+        },
+        {
+          "author": "RawrRawr83",
+          "body": "Was it a company sandbox or did you upload to a noncorporate account ?",
+          "score": 3,
+          "created_utc": 1783466849.0
+        },
+        {
+          "author": "Financial-Day2322",
+          "body": "How did that happen, in terms of them finding out? Beyond that, sorry man. Hope you find something else soon! ",
+          "score": 2,
+          "created_utc": 1783467946.0
+        },
+        {
+          "author": "CitizenBask",
+          "body": "Were you on Google work Gemini when uploading? They can see that. ",
+          "score": 1,
+          "created_utc": 1783467033.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "I’m confused, did you upload performance data? Did you upload a CRM file? ",
+          "score": 1,
+          "created_utc": 1783468292.0
+        },
+        {
+          "author": "Actual__Wizard",
+          "body": "Nope, you can't do that. You just sent your client's confidential data to a for profit company and they can do as they see fit with it, including train on it. Did you even read the agreement? Probably not.\n\nWhat did that campaign cost? So, some company just got that data *for free.*\n\nObviously you should be fired on spot for doing that...\n\nedit: Downvoting me doesn't change reality.",
+          "score": -5,
+          "created_utc": 1783466038.0
+        },
+        {
+          "author": "duskie3",
+          "body": "If you have to be told not to upload sensitive data to a third party with obscure-at-best retention policies, honestly you weren’t cut out for this industry anyway.\n\nAs well it’s something like this than you giving away an API key because the Nigerian Prince on the phone needs it to save his people from dinosaurs or whatever you would have fallen for.",
+          "score": -2,
+          "created_utc": 1783466146.0
+        }
+      ]
     }
   ]
 }

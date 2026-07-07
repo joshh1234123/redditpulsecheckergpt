@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u00456",
-      "title": "DV360 at it again!",
-      "author": "EstateTerrible4807",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u00456/dv360_at_it_again/",
-      "created_utc": 1780900968.0,
-      "content": "Is DV360 deliberately rejecting youtube ads with 3rd party click trackers even after following with all thier policies and appending the parameters at the end? I feel this is their ploy to move as many clients as possible towards CM360 tracking.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u04fof",
       "title": "Is AdTech becoming a New York industry?",
       "author": "AdTechBuilder",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783448533.0,
       "content": "They sound too good to be true. ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uqbafa",
+      "title": "Terminated for using AI",
+      "author": "Programmatic-Dude",
+      "score": 7,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqbafa/terminated_for_using_ai/",
+      "created_utc": 1783465801.0,
+      "content": "Uploaded campaign data to Gemini and ChatGPT last week and was terminated today. AI guidelines were vague and campaign data is considered sensitive information which is laughable. \n\nBe careful folks! ",
+      "num_comments": 11,
       "over_18": false,
       "link_flair_text": null
     }
