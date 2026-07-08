@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-08T07:44:45.278025+00:00",
-    "total_posts": 1813,
+    "scrape_date": "2026-07-08T10:09:33.794494+00:00",
+    "total_posts": 1815,
     "total_comments": 10067
   },
   "discussions": [
@@ -86985,6 +86985,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uql2qp/best_ooh_dooh_advertising_platforms_and_providers/",
       "created_utc": 1783493838.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uqnjgq",
+      "title": "Migration of Exchange",
+      "author": "Narrow-Monitor-8483",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
+      "created_utc": 1783502523.0,
+      "content": "Has anyone migrated from PLL to Adelion? What difference you observed in bid rate, fill rate and latency?  \nWhich exchange would you suggest with experience.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uqnldj",
+      "title": "New Ad Exchange",
+      "author": "Narrow-Monitor-8483",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqnldj/new_ad_exchange/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqnldj/new_ad_exchange/",
+      "created_utc": 1783502711.0,
+      "content": "If you were launching new independent ad exchange in 2026, which white laboe platform would you choose and why?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

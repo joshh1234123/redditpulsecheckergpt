@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u0cere",
-      "title": "Ad spend breakdown diagram for a blog series (would love feedback)",
-      "author": "passani",
-      "score": 2,
-      "url": "https://i.redd.it/x6dkqkaa236h1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0cere/ad_spend_breakdown_diagram_for_a_blog_series/",
-      "created_utc": 1780935074.0,
-      "content": "I'm writing a series of educational posts on how programmatic works (no product pitch, just explaining the ecosystem). I put together this diagram of global ad spend to help readers understand the relative scale of open web programmatic vs. walled gardens.  \nData is directional (compiled from GroupM, WARC, and ANA). China domestic excluded. MFA figure from ANA/Jounce research.\n\nA few specific questions for anyone who works with this data:\n\n1. Does the \\~$55B estimate for open web programmatic (Prebid/OpenRTB) feel roughly right, or is there a more authoritative source?\n2. Is ByteDance's \\~$28B placement as a walled garden correct given that TikTok inventory is partially available via open auction?\n3. Any obvious categories or players I'm missing?\n\nI'm not looking for perfect precision. I think orders of magnitude are fine. But I want to avoid anything egregiously wrong before publishing.\n\nThanks in advance to anyone who takes a look.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1u0ho27",
-      "title": "Programmatic Vs Commerce - Different or same career path?",
-      "author": "perry_190",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0ho27/programmatic_vs_commerce_different_or_same_career/",
-      "created_utc": 1780945976.0,
-      "content": "How different would you say regular programmatic is vs commerce? I recently started at a new company working in programmatic that was similar to what I’ve been working in my whole career. Client left our agency and they transitioned me to working on commerce programmatic. Activation skills wise it’s the same but strategy wise it seems very different. Ultimately what I’m worried about and would love everyone’s thoughts on, is if I stay working in commerce is this a career shift? It feels a bit different and I feel a bit lost with not many people helping out with the strategic differences. Is it worth staying or should I weigh asking about account swaps or looking for a different company longer term?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u0ow5e",
       "title": "TTD goin’ through some changes…",
       "author": "FlamincoMinco",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uql2qp/best_ooh_dooh_advertising_platforms_and_providers/",
       "created_utc": 1783493838.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uqnjgq",
+      "title": "Migration of Exchange",
+      "author": "Narrow-Monitor-8483",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
+      "created_utc": 1783502523.0,
+      "content": "Has anyone migrated from PLL to Adelion? What difference you observed in bid rate, fill rate and latency?  \nWhich exchange would you suggest with experience.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uqnldj",
+      "title": "New Ad Exchange",
+      "author": "Narrow-Monitor-8483",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uqnldj/new_ad_exchange/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqnldj/new_ad_exchange/",
+      "created_utc": 1783502711.0,
+      "content": "If you were launching new independent ad exchange in 2026, which white laboe platform would you choose and why?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
