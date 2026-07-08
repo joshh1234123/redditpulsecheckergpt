@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u04fof",
-      "title": "Is AdTech becoming a New York industry?",
-      "author": "AdTechBuilder",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u04fof/is_adtech_becoming_a_new_york_industry/",
-      "created_utc": 1780915925.0,
-      "content": "I was analyzing \\~2,300 active AdTech job openings across 167 cities and one number immediately stood out: New York has more than 500 active openings. That's over 5x the number of jobs in London, Los Angeles, or Chicago.\n\nWhat's even more interesting is that New York isn't just leading in volume. Its hiring mix is heavily weighted toward Sales and Product roles, while cities like Bengaluru, Barcelona, Paris and Tel Aviv appear much more engineering-focused.\n\nMade me wonder: Is New York genuinely becoming the center of gravity for AdTech, or are we simply seeing how the industry naturally distributes commercial and technical teams across different markets?",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u0cere",
       "title": "Ad spend breakdown diagram for a blog series (would love feedback)",
       "author": "passani",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783465801.0,
       "content": "Uploaded campaign data to Gemini and ChatGPT last week and was terminated today. AI guidelines were vague and campaign data is considered sensitive information which is laughable. \n\nBe careful folks! ",
       "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uql2qp",
+      "title": "Best OOH / DOOH Advertising Platforms and Providers in China?",
+      "author": "quotesweed",
+      "score": 1,
+      "url": "/r/MW_Programmatic_DOOH/comments/1uql2if/best_ooh_dooh_advertising_platforms_and_providers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uql2qp/best_ooh_dooh_advertising_platforms_and_providers/",
+      "created_utc": 1783493838.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

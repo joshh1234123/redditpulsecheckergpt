@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-08T05:23:44.406044+00:00",
-    "total_posts": 1812,
+    "scrape_date": "2026-07-08T07:44:45.278025+00:00",
+    "total_posts": 1813,
     "total_comments": 10067
   },
   "discussions": [
@@ -86975,6 +86975,20 @@
           "created_utc": 1783466146.0
         }
       ]
+    },
+    {
+      "id": "1uql2qp",
+      "title": "Best OOH / DOOH Advertising Platforms and Providers in China?",
+      "author": "quotesweed",
+      "score": 1,
+      "url": "/r/MW_Programmatic_DOOH/comments/1uql2if/best_ooh_dooh_advertising_platforms_and_providers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uql2qp/best_ooh_dooh_advertising_platforms_and_providers/",
+      "created_utc": 1783493838.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
