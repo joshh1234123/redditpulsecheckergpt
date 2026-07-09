@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-09T01:08:29.873511+00:00",
-    "total_posts": 1815,
-    "total_comments": 10067
+    "scrape_date": "2026-07-09T05:31:32.870906+00:00",
+    "total_posts": 1816,
+    "total_comments": 10071
   },
   "discussions": [
     {
@@ -87017,6 +87017,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1urcq95",
+      "title": "Working in disclosed vs undisclosed models",
+      "author": "ExpensiveIndication8",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1urcq95/working_in_disclosed_vs_undisclosed_models/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1urcq95/working_in_disclosed_vs_undisclosed_models/",
+      "created_utc": 1783562381.0,
+      "content": "Hi all,\n\nIve newly joined a big holdco with an undisclosed model of programmatic buying. I’ve previously worked in a disclosed model setup. Can anyone let me know the difference of working in both? How was your work experience working im both setups? What does the learning curve look like in an undisclosed agency model? From a clients perspective why would you opt for an undisclosed programmatic agency model?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "diegolaba",
+          "body": "Hi there!\n\nThere are a lot of diferentes between both models, so I'll try to make a list\nlist:\n1. Disclosed models are 100% transparent in terms of cost, clients have 100% access to the DSP they can login see campaigns, pull reports, agency regularly program reporte and create lookers transparently to the client. Undisclosed models, are not transparent they can be hybrid but not 100%, agencies tend to increase their profit from their service by increasing the sell metric cost they sell to the client or they put a media fee to charge for their service or a spend markup when they reach the agreed outcomes, client won't have access to the dsp, the agency can providencia them of some dashboard to see the campaigns but normally in almos 70-80% of the time the clients don't know about  the cost difference\n2. In terms of billings, in an undisclosed model dsp charge the invoce directly to the agency and the agency charges to the client an agreed amount, normally different and much higher amounts than what the dsp charges them so they can gain more profit, when errores appear it would cost more to the agency but the agency can cover the error from a part of their margin. Disclosed models normally the dsp bills directly to the client, so all the billing profiles will be the clientes invoice information and when errores occur it's much more difficult for an agency to hice them. Additionally the client normally has a JBP with a particular dsp so it would be much more difficult to try new ones\n3. In terms of service,  disclosed models offer transparency and trust but they charge for every little detail and the client would be responsable for choosing the service. If you want to run the campaign the charge a fee for it, if you want more crew members to the trading desk the client will pay for them, if you want to tag your site they charge additionally, if you want to run campaigns outside of your dsp or in the dsp but out of the scope of the agreement they will charge extra and also all these processes take a los of time the work in a  lower pace. \n4. Undisclosed models service is much faster, it tends to include every available dsp, tecnology,  capability, team members that the agency has so you don't have to worry about  anything and they will only charge you for the whole package. \n5. Both models have advantages and disadvantages, but for me it mostly depends on what the client needs, what the agency will be selling to them and being transparent between both parties in what they decide.\n\nHope it helps, sorry for the long paragraph, in case you see any grammar errors please forgive me I'm a little bit tired hahah",
+          "score": 2,
+          "created_utc": 1783564081.0
+        },
+        {
+          "author": "Mediocre-Cicada",
+          "body": "Meaning you don’t share your actual costs with the client? ",
+          "score": 1,
+          "created_utc": 1783564136.0
+        },
+        {
+          "author": "ExpensiveIndication8",
+          "body": "How would an working for an undisclosed model help me advance in my career? What are some areas I can learn into and what kind of opportunities open up after this? I have worked for disclosed model as well so far in my career.",
+          "score": 1,
+          "created_utc": 1783568339.0
+        },
+        {
+          "author": "ExpensiveIndication8",
+          "body": "Yeah but that’s a very simplified view",
+          "score": 1,
+          "created_utc": 1783564839.0
+        }
+      ]
     }
   ]
 }

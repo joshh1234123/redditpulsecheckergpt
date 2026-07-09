@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u0ow5e",
-      "title": "TTD goin’ through some changes…",
-      "author": "FlamincoMinco",
-      "score": 11,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u0ow5e/ttd_goin_through_some_changes/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u0ow5e/ttd_goin_through_some_changes/",
-      "created_utc": 1780962584.0,
-      "content": "Brutal Adweek article\n\nhttps://www.adweek.com/media/inside-the-trade-desk-executive-exodus-who-left-and-where-they-went/",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u16jjj",
       "title": "hopefully it will help you too",
       "author": "Beautiful-Ice-7745",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783502711.0,
       "content": "If you were launching new independent ad exchange in 2026, which white laboe platform would you choose and why?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1urcq95",
+      "title": "Working in disclosed vs undisclosed models",
+      "author": "ExpensiveIndication8",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1urcq95/working_in_disclosed_vs_undisclosed_models/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1urcq95/working_in_disclosed_vs_undisclosed_models/",
+      "created_utc": 1783562381.0,
+      "content": "Hi all,\n\nIve newly joined a big holdco with an undisclosed model of programmatic buying. I’ve previously worked in a disclosed model setup. Can anyone let me know the difference of working in both? How was your work experience working im both setups? What does the learning curve look like in an undisclosed agency model? From a clients perspective why would you opt for an undisclosed programmatic agency model?",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }
