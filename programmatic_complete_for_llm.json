@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-10T17:42:39.358853+00:00",
-    "total_posts": 1818,
-    "total_comments": 10077
+    "scrape_date": "2026-07-10T19:18:32.207254+00:00",
+    "total_posts": 1819,
+    "total_comments": 10078
   },
   "discussions": [
     {
@@ -87121,6 +87121,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uswp4a",
+      "title": "Vibe.co ads",
+      "author": "LarryFunkhouser",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uswp4a/vibeco_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uswp4a/vibeco_ads/",
+      "created_utc": 1783709694.0,
+      "content": "Is anyone getting absolutely drowned in ads promoting vibe.co? CTV, social channels etc.. whoever is managing their buy and frequency settings need to be fired ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "minaguib",
+          "body": "This likely belongs to Walmart's complaints dept. at this point :) ",
+          "score": 1,
+          "created_utc": 1783710897.0
+        }
+      ]
     }
   ]
 }
