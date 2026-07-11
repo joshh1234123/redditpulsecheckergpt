@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u1x60q",
-      "title": "Most of your \"low win rate\" is the bidder doing its job. How do you separate healthy attrition from a misconfig?",
-      "author": "tonyjayfunk",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u1x60q/most_of_your_low_win_rate_is_the_bidder_doing_its/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u1x60q/most_of_your_low_win_rate_is_the_bidder_doing_its/",
-      "created_utc": 1781083480.0,
-      "content": "Something I keep running into: people treat a low win rate as a single bad number to push up, when it's really a distribution of \\*reasons\\*. The bidder mostly says no, and most no-bids are correct — creative doesn't fit the slot, request outside the geo-fence, floor above willingness to pay. Declining those is the bidder working, not failing.\n\nThe thing that's actually diagnostic is \\*where\\* in the funnel you're losing opportunities, not the headline rate. A sharp single-stage cliff (e.g. an unexpected drop at creative sizes) is almost always a misconfig you can fix. A gentle amber band at contextual/audience stages is just normal selectivity. Same low win rate, completely different responses.\n\nThe tell I use for \"healthy attrition vs accidental over-filtering\" is basically surprise: a drop I can explain from the campaign's strategy is attrition; a drop I can't explain is the bug.\n\nCurious how others here actually do this in practice:\n\n\\- Do you get stage-level loss visibility from your DSP/SSP, or are you reverse-engineering it from deliver/spend?\n\n\\- Anyone automating the \"healthy vs fixable\" classification, or is it still eyeballing a waterfall?\n\n\\- What's the most common single-stage cliff you see in the wild? Mine is creative size mismatches.\n\n(Disclosure: I build a bidding/decisioning platform — Ad360 — so this is the lens I look through. Happy to share the longer write-up I did on no-bid loss if it's useful, but mainly want to hear how you all diagnose this.)",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u24n0a",
       "title": "YTTV",
       "author": "bidstreambrochaco",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783723383.0,
       "content": "About me: I spend around $75k per month on media mostly on search. In the past we did local and national radio/tv but the quality was much lower than search so we shifted the budget.  Search seems to be dying a slow death so I am wanting to expand into CTV, DSP and other platforms. \n\nOur vertical is financial and massively saturated. We always have to be several moves ahead of other companies in our space. \n\nFew questions for the VIPs in the thread. \n\n1. DV360 vs. [Vibe.co](http://Vibe.co) \\- Should I use [vibe.co](http://vibe.co) to test and then expand into DV360 later?  Curious what everything thinks.  CPA/CPL is very important for us.  \n\n2. [Vibe.co](http://Vibe.co) \\- How accurate is their ability to target existing web traffic? We get  60-100k per month to hit us.  Google has our industry on the shit list and the remarking is limited. I've thought about using [Vibe.co](http://Vibe.co) to target our existing lead database but also the monthly traffic.  \n\n3. DV360 - Is this something I should look into? Any agencies take $10K/mo type budgets to see how things go before expanding? \n\n4. Keyword targeting? Our campaigns on Google's display network used to perform better than search.  Of course google took that away - I was targeting webpages with our known proven keywords and they converted well until G man took them away.  G man took away both our remarking and keyword focused campaigns which performed really well.  GV360 - would keyword targeting there be better?  Other platforms? \n\n5. CTV vs broadcast tv. I've purchased national and local TV and radio.  How does CTV perform compared to these?  \n\n6. Our campaigns need higher income, higher net worth audiences to succeed since they are financial.  Top 10% has all of the money nowadays.  Anything I might be overlooking? \n\nThanks! \n\n\n\n\n\n",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1utldb2",
+      "title": "DV360 and Spotify",
+      "author": "AbroadScared6371",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
+      "created_utc": 1783779556.0,
+      "content": "Hello,   \nI’m quite new to display and video 360  \nI want to advertise audio ads on Spotify can someone please help me on what settings should I use?  \nIt is not spending when I tried open auction and targeted Spotify iOS and android apps\n\nI also tried private deal with 5$ ( I haven’t advertised on Spotify before I just want to test the placement) - it has been viewed for now\n\nI also am trying to advertise in Georgia (country) and I don’t even know if there is Spotify ad audio inventory available via dv360\n\nThank you for your time who read this  \nI will appreciate any help ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

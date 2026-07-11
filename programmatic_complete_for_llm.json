@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-11T13:01:35.385965+00:00",
-    "total_posts": 1820,
+    "scrape_date": "2026-07-11T14:34:12.646595+00:00",
+    "total_posts": 1821,
     "total_comments": 10079
   },
   "discussions": [
@@ -87163,6 +87163,20 @@
           "created_utc": 1783723984.0
         }
       ]
+    },
+    {
+      "id": "1utldb2",
+      "title": "DV360 and Spotify",
+      "author": "AbroadScared6371",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
+      "created_utc": 1783779556.0,
+      "content": "Hello,   \nI’m quite new to display and video 360  \nI want to advertise audio ads on Spotify can someone please help me on what settings should I use?  \nIt is not spending when I tried open auction and targeted Spotify iOS and android apps\n\nI also tried private deal with 5$ ( I haven’t advertised on Spotify before I just want to test the placement) - it has been viewed for now\n\nI also am trying to advertise in Georgia (country) and I don’t even know if there is Spotify ad audio inventory available via dv360\n\nThank you for your time who read this  \nI will appreciate any help ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
