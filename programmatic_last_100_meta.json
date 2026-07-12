@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u25ewj",
-      "title": "RIP Adtheorent",
-      "author": "Causel_Effect",
-      "score": 9,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u25ewj/rip_adtheorent/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u25ewj/rip_adtheorent/",
-      "created_utc": 1781105214.0,
-      "content": "Can we just pause and appreciate how DV360 hasn't changed their UI in years? Adtheorent is about to put traders into the UI blender - good luck Cadent - RIP Adtheorent",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u2vu7o",
       "title": "Question for mall media owners and DOOH operators",
       "author": "quotesweed",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783842508.0,
       "content": "As we all know programmatuc ads account camapigns and all the first party data get permuted after few months(24 months).\n\nAbout scale camapigns in programmatic ads is vertical scaling worth it or we only scale horizontally because anyhow it get permuted after few months.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uuphpf",
+      "title": "Best DSP for keyword targeting?",
+      "author": "dalbroker",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uuphpf/best_dsp_for_keyword_targeting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uuphpf/best_dsp_for_keyword_targeting/",
+      "created_utc": 1783885597.0,
+      "content": "Our offer is tough to convert to colder audiences.  We had a ton of success on Google’s display network with keyword targeting until google took this away.  Our conversion rate was higher than our search.  But we were very specific to the pages we were targeting.\n\nWhich DSPs offer the broadest coverage for us to reach keyword targeting?\n\nWould a company like Adlib be able to do this? Target keywords on multiple DSPs? Thoughts on [Simpli.fi](http://Simpli.fi) for this?\n\nAlso - if there a way to target based on occupation that is reliable? \n\nThanks. Appreciate the comments on my other thread.  Except for the ones where they think I am connected to one of the companies.  I am just an advertiser wanting to expand into a new area.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
