@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-12T07:06:45.202390+00:00",
-    "total_posts": 1821,
-    "total_comments": 10079
+    "scrape_date": "2026-07-12T09:24:38.018634+00:00",
+    "total_posts": 1822,
+    "total_comments": 10080
   },
   "discussions": [
     {
@@ -87177,6 +87177,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uu9089",
+      "title": "[DV360] programmatic ads in general?",
+      "author": "Hefty_Bet262",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uu9089/dv360_programmatic_ads_in_general/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uu9089/dv360_programmatic_ads_in_general/",
+      "created_utc": 1783842508.0,
+      "content": "As we all know programmatuc ads account camapigns and all the first party data get permuted after few months(24 months).\n\nAbout scale camapigns in programmatic ads is vertical scaling worth it or we only scale horizontally because anyhow it get permuted after few months.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ewasolutions",
+          "body": "It is not only in programatic dv360 the case. We see similar cases in Google Ads and meta too. \n\nWe connect Google Analytics & Google ads with dv360 to keep first party data in a good level. Try & error.",
+          "score": 1,
+          "created_utc": 1783846465.0
+        }
+      ]
     }
   ]
 }

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u24n0a",
-      "title": "YTTV",
-      "author": "bidstreambrochaco",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u24n0a/yttv/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u24n0a/yttv/",
-      "created_utc": 1781103562.0,
-      "content": "Has anyone tried running a YouTube TV buy via Google Ads Reservation instead of DV360? Are there differences in cost?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u25ewj",
       "title": "RIP Adtheorent",
       "author": "Causel_Effect",
@@ -1302,6 +1289,19 @@
       "created_utc": 1783779556.0,
       "content": "Hello,   \nI’m quite new to display and video 360  \nI want to advertise audio ads on Spotify can someone please help me on what settings should I use?  \nIt is not spending when I tried open auction and targeted Spotify iOS and android apps\n\nI also tried private deal with 5$ ( I haven’t advertised on Spotify before I just want to test the placement) - it has been viewed for now\n\nI also am trying to advertise in Georgia (country) and I don’t even know if there is Spotify ad audio inventory available via dv360\n\nThank you for your time who read this  \nI will appreciate any help ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uu9089",
+      "title": "[DV360] programmatic ads in general?",
+      "author": "Hefty_Bet262",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uu9089/dv360_programmatic_ads_in_general/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uu9089/dv360_programmatic_ads_in_general/",
+      "created_utc": 1783842508.0,
+      "content": "As we all know programmatuc ads account camapigns and all the first party data get permuted after few months(24 months).\n\nAbout scale camapigns in programmatic ads is vertical scaling worth it or we only scale horizontally because anyhow it get permuted after few months.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
