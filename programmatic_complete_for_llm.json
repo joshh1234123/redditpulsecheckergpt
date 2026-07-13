@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-13T14:14:40.673406+00:00",
-    "total_posts": 1825,
-    "total_comments": 10080
+    "scrape_date": "2026-07-13T16:53:47.253014+00:00",
+    "total_posts": 1826,
+    "total_comments": 10081
   },
   "discussions": [
     {
@@ -87240,6 +87240,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uvf0a7",
+      "title": "Yo Rocket Money Marketing…",
+      "author": "NewOrleansSpeed",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uvf0a7/yo_rocket_money_marketing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uvf0a7/yo_rocket_money_marketing/",
+      "created_utc": 1783957015.0,
+      "content": "Please for the love of fuck put a frequency cap on your stuff on YouTube. Here - 2 per hour, edit: 4 a day, 30 a month, just start with that. Edit: You are literally pissing away money. \n\nAnd cut down on the terrible faux influencer ads, if i hear that “Audacity” one again i may go insane.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "I know one you will see this eventually ☠️ ",
+          "score": 2,
+          "created_utc": 1783957103.0
+        }
+      ]
     }
   ]
 }
