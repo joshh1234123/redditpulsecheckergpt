@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-13T01:00:19.747576+00:00",
-    "total_posts": 1824,
+    "scrape_date": "2026-07-13T04:33:08.367734+00:00",
+    "total_posts": 1825,
     "total_comments": 10080
   },
   "discussions": [
@@ -87222,6 +87222,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uutcea/netflix_is_exploring_live_tv_and_bundles_as_it/",
       "created_utc": 1783894748.0,
       "content": "Great article, one thing it doesn't cover is that their ads side is relatively small but attracts buyers, so the CPM keeps getting higher. I will share an analysis if I find it",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uuzpay",
+      "title": "Como enxergam arbitragem de tráfego?",
+      "author": "Odd-War-500",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uuzpay/como_enxergam_arbitragem_de_tráfego/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uuzpay/como_enxergam_arbitragem_de_tráfego/",
+      "created_utc": 1783912009.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
