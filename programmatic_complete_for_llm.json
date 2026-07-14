@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-14T01:48:45.009796+00:00",
-    "total_posts": 1826,
+    "scrape_date": "2026-07-14T04:44:49.305158+00:00",
+    "total_posts": 1828,
     "total_comments": 10081
   },
   "discussions": [
@@ -87261,6 +87261,34 @@
           "created_utc": 1783957103.0
         }
       ]
+    },
+    {
+      "id": "1uvv5zf",
+      "title": "Canvas Worldwide",
+      "author": "Dazzling_Buyer_7746",
+      "score": 2,
+      "url": "/r/advertising/comments/1uvsd9y/canvas_worldwide/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uvv5zf/canvas_worldwide/",
+      "created_utc": 1783994034.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uvw7yq",
+      "title": "Building an SSP, looking for Bidswitch alternatives",
+      "author": "MissionOk889",
+      "score": 1,
+      "url": "/r/adtech/comments/1uvu1cj/building_an_ssp_looking_for_bidswitch_alternatives/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uvw7yq/building_an_ssp_looking_for_bidswitch_alternatives/",
+      "created_utc": 1783996933.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
