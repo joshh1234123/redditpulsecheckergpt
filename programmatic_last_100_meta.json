@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u4738v",
-      "title": "Roku in talk to sell to someone? Who are your top 3 potential buyers?",
-      "author": "Available_Plant3712",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u4738v/roku_in_talk_to_sell_to_someone_who_are_your_top/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4738v/roku_in_talk_to_sell_to_someone_who_are_your_top/",
-      "created_utc": 1781297074.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1u4cxpm",
-      "title": "Any ideas how someone is running broadcast tv ads? Read more",
-      "author": "Enviromental1001",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4cxpm/any_ideas_how_someone_is_running_broadcast_tv_ads/",
-      "created_utc": 1781312029.0,
-      "content": "Any ideas.. Waiting on hear back from business owner on more details. He is a AC heating repair business in my town.\n\n  \nHe claims he is running ads on his own and placing them.\n\n  \nSaw the Ads on CBS News and YES Network when watching Fios TV and not via an app or streaming.\n\n  \nIs there a way to get on regular channels like this via DV360? I didnt think that was possible.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u4zgl1",
       "title": "Pivoting from AM/Ops to SE/TAM - Give me the real tea on upskilling.",
       "author": "SarahsBakeryHouse",
@@ -1302,6 +1276,32 @@
       "created_utc": 1784124514.0,
       "content": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15\n\n|Deal Type|Cap Counted?|Cap Enforced?|\n|:-|:-|:-|\n|Private Auction (PA)|✓ Yes|✓ Yes — full bidirectional enforcement|\n|Programmatic Guaranteed (PG)|✓ Yes — counts toward shared cap|✓ Yes for 1P, APD and ADx PGs — Conditional on deal delivery in full|\n|||✗ No for all other SSPs — publisher controls delivery|\n|Non-Guaranteed (NG)|✓ Yes|✓ Yes|\n\nThe part worth flagging: it activates automatically when a frequency cap is set. No UI changes, no opt-in. If you already run caps, this just starts working.\n\nThis is a spoiler from the Amazon lead on the project, I'm out of Amazon building Amazon DSP tooling, not an official announcement yet. I'll drop the official link here once it's public.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uxe3zi",
+      "title": "B2B Proprietary data Providers",
+      "author": "jmhbaseball97",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uxe3zi/b2b_proprietary_data_providers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxe3zi/b2b_proprietary_data_providers/",
+      "created_utc": 1784139690.0,
+      "content": "Looking for recommendations for B2B data providers that utilize their own 1P data to target Small Business owners. We used to use Intuit data from their quick books, but they stopped offering it. Looks like PayPal data may be only available for their ads manager.\n\nAny other ideas?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uxe9qm",
+      "title": "Am I being expected of to much or is this normal?",
+      "author": "imGrunde",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
+      "created_utc": 1784140038.0,
+      "content": "A little context:  \nPrior to my current job I was mainly responsible for getting campaigns to deliver in full and hit all various KPIs. Optimizing using the various levers the DSPs provide + go in log level data to block poor performing and fraudulent data. While communicating with account management and client development.\n\nNow I’m at a new job and my role has me responsible for the following.  \n\\- media planning (from scratch like I’m reach out to partners)  \n\\- building the campaigns from scratch on the dsp  \n\\- trafficking  \n\\-QA  \n\\- optimizations (performance and client requests)  \n\\- various a/b tests that are just a complete mess  \n\\- pacing\n\nIs this normal in programmatic and I was just spoiled in my first job?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

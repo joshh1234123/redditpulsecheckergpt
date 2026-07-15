@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-15T17:44:28.544540+00:00",
-    "total_posts": 1831,
-    "total_comments": 10081
+    "scrape_date": "2026-07-15T18:59:16.525088+00:00",
+    "total_posts": 1833,
+    "total_comments": 10083
   },
   "discussions": [
     {
@@ -87331,6 +87331,47 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1uxe3zi",
+      "title": "B2B Proprietary data Providers",
+      "author": "jmhbaseball97",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uxe3zi/b2b_proprietary_data_providers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxe3zi/b2b_proprietary_data_providers/",
+      "created_utc": 1784139690.0,
+      "content": "Looking for recommendations for B2B data providers that utilize their own 1P data to target Small Business owners. We used to use Intuit data from their quick books, but they stopped offering it. Looks like PayPal data may be only available for their ads manager.\n\nAny other ideas?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uxe9qm",
+      "title": "Am I being expected of to much or is this normal?",
+      "author": "imGrunde",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
+      "created_utc": 1784140038.0,
+      "content": "A little context:  \nPrior to my current job I was mainly responsible for getting campaigns to deliver in full and hit all various KPIs. Optimizing using the various levers the DSPs provide + go in log level data to block poor performing and fraudulent data. While communicating with account management and client development.\n\nNow I’m at a new job and my role has me responsible for the following.  \n\\- media planning (from scratch like I’m reach out to partners)  \n\\- building the campaigns from scratch on the dsp  \n\\- trafficking  \n\\-QA  \n\\- optimizations (performance and client requests)  \n\\- various a/b tests that are just a complete mess  \n\\- pacing\n\nIs this normal in programmatic and I was just spoiled in my first job?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "STND_italian_cwby",
+          "body": "Did you go from a large holding company to a smaller independent agency? if so then yes",
+          "score": 1,
+          "created_utc": 1784140621.0
+        },
+        {
+          "author": "Jackescalator",
+          "body": "Would you say you're being compensated as such? I think it depends on the size of the company and how developed the programmatic department is. If it's new I don't think the company may realize how many moving parts are happening in programmatic setups compared to other channels like search and social. I think this could lead to burnout quickly if you're dealing with a demanding client.",
+          "score": 1,
+          "created_utc": 1784141503.0
+        }
+      ]
     }
   ]
 }
