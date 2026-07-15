@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u4zgl1",
-      "title": "Pivoting from AM/Ops to SE/TAM - Give me the real tea on upskilling.",
-      "author": "SarahsBakeryHouse",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u4zgl1/pivoting_from_amops_to_setam_give_me_the_real_tea/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u4zgl1/pivoting_from_amops_to_setam_give_me_the_real_tea/",
-      "created_utc": 1781377981.0,
-      "content": "I have 7-8 years of experience across DSP, SSP, and publisher sides doing AdOps and Account Management. I've spent years playing translator between engineering teams and clients, fixing the programmatic pipeline, and turning technical messes into revenue.\n\nFrankly, I am ready to stop playing whack a mole with junior agency reps over minor campaign issues and move into Solutions / Sales Engineering or Technical Account Management. I have a 360 degree understanding of how the tech works, but I need to formalize my technical toolkit to pass the harder SE interviews.\n\nFor those who made this jump: What is the actual reality of the skill gap? I know everyone says \"learn SQL/Python,\" but how deep do I actually need to go for ad tech specifically? Are cloud certs (AWS/GCP) worth the time, or should I just build a portfolio proving I can dissect an OpenRTB payload, read ad logs or write custom API scripts? Give me the real gossip on what hiring managers are actually looking for.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u57j65",
       "title": "Potential M&A in adtech",
       "author": "WildEstablishment267",
@@ -1302,6 +1289,19 @@
       "created_utc": 1784140038.0,
       "content": "A little context:  \nPrior to my current job I was mainly responsible for getting campaigns to deliver in full and hit all various KPIs. Optimizing using the various levers the DSPs provide + go in log level data to block poor performing and fraudulent data. While communicating with account management and client development.\n\nNow I’m at a new job and my role has me responsible for the following.  \n\\- media planning (from scratch like I’m reach out to partners)  \n\\- building the campaigns from scratch on the dsp  \n\\- trafficking  \n\\-QA  \n\\- optimizations (performance and client requests)  \n\\- various a/b tests that are just a complete mess  \n\\- pacing\n\nIs this normal in programmatic and I was just spoiled in my first job?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uxfr4q",
+      "title": "An opportunity to learn from industry experts and even see a live demo of ChatGPT ads platform!",
+      "author": "u_of_digital",
+      "score": 0,
+      "url": "https://i.redd.it/z4i0vjie0gdh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxfr4q/an_opportunity_to_learn_from_industry_experts_and/",
+      "created_utc": 1784143377.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

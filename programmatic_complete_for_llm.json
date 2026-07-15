@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-15T18:59:16.525088+00:00",
-    "total_posts": 1833,
+    "scrape_date": "2026-07-15T20:11:02.635579+00:00",
+    "total_posts": 1834,
     "total_comments": 10083
   },
   "discussions": [
@@ -87372,6 +87372,20 @@
           "created_utc": 1784141503.0
         }
       ]
+    },
+    {
+      "id": "1uxfr4q",
+      "title": "An opportunity to learn from industry experts and even see a live demo of ChatGPT ads platform!",
+      "author": "u_of_digital",
+      "score": 0,
+      "url": "https://i.redd.it/z4i0vjie0gdh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxfr4q/an_opportunity_to_learn_from_industry_experts_and/",
+      "created_utc": 1784143377.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
