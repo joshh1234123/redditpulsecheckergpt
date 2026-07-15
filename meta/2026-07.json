@@ -554,6 +554,36 @@
       "link_flair_text": null,
       "thread_id": "1uwdyo0",
       "thread_path": "1uwdyo0.json"
+    },
+    {
+      "id": "1ux5mem",
+      "title": "Marketing agent fleets have the same 58%-burned-after-the-warning problem coding fleets do, nobody's watching for it on the cost side",
+      "author": "MaverikSh",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ux5mem/marketing_agent_fleets_have_the_same/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ux5mem/marketing_agent_fleets_have_the_same/",
+      "created_utc": 1784121477.0,
+      "content": "Saw the post here about a personalization agent quietly pulling stale CRM data and sending the wrong offer tier for two days before anyone noticed. That's the same failure shape I keep running into on the cost side, just nobody's watching for it there either.\n\nA public agent-failure trace study found something worth sitting with: roughly 58% of tokens in failed runs get spent after the first clear failure signal, an explicit tool error, or a repeated identical tool call with the same arguments. The agent already had enough evidence to stop. It kept going.\n\nFor marketing fleets specifically, this shows up as: a personalization pipeline retrying the same enrichment call against a dead CRM connection, an outreach sequencer looping on a malformed template, a content agent stuck re-generating the same draft because a downstream validation keeps failing the same way. None of it trips a \"the agent is broken\" alarm, because technically, it's still running; it's just running badly, quietly, for hours.\n\nMost cost monitoring lives on the billing surface, which only tells you what happened after the invoice lands. By then, the loop was already finished.\n\nWhat's worked for us: watch for the failure pattern directly, rather than waiting for the spend to show up. Hash the tool name plus its arguments. If the same call repeats 3 times in a row within one run, that's the signal, not a later cost spike. Same idea for consecutive tool errors. The repeat call with identical args basically IS the warning.\n\nThe harder version of this is concurrency, if you've got several subagents running a campaign in parallel, a per-call check alone isn't enough, each individual call can look fine while the run as a whole burns way past what it should. The fix there is a budget reservation held at the level of the whole run instead of per call, same pattern a payment processor uses, hold funds before settling instead of after.\n\n\\*Disclosure\\*: I built \\*\\*Cognocient\\*\\* (\\[cognocient.com\\](https://www.cognocient.com/)), an AI spend platform that implements this for teams running LLM-based pipelines. Not asking anyone to try it, genuinely curious if others running marketing agent fleets have hit the same \"technically running, quietly wasteful\" pattern, and what your tripwire setup looks like if you've built one.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ux5mem",
+      "thread_path": "1ux5mem.json"
+    },
+    {
+      "id": "1ux6xll",
+      "title": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15",
+      "author": "NiceRecognition9603",
+      "score": 5,
+      "url": "https://i.redd.it/8hgp6yyxeedh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ux6xll/amazon_dsp_programmatic_deals_frequency_are/",
+      "created_utc": 1784124514.0,
+      "content": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15\n\n|Deal Type|Cap Counted?|Cap Enforced?|\n|:-|:-|:-|\n|Private Auction (PA)|✓ Yes|✓ Yes — full bidirectional enforcement|\n|Programmatic Guaranteed (PG)|✓ Yes — counts toward shared cap|✓ Yes for 1P, APD and ADx PGs — Conditional on deal delivery in full|\n|||✗ No for all other SSPs — publisher controls delivery|\n|Non-Guaranteed (NG)|✓ Yes|✓ Yes|\n\nThe part worth flagging: it activates automatically when a frequency cap is set. No UI changes, no opt-in. If you already run caps, this just starts working.\n\nThis is a spoiler from the Amazon lead on the project, I'm out of Amazon building Amazon DSP tooling, not an official announcement yet. I'll drop the official link here once it's public.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1ux6xll",
+      "thread_path": "1ux6xll.json"
     }
   ]
 }

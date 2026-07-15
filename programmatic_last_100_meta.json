@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u42iot",
-      "title": "can i get a Low-Level programming job without a degree ?",
-      "author": "MinorKeyMelody",
-      "score": 0,
-      "url": "/r/AskProgramming/comments/1u42e5m/can_i_get_a_lowlevel_programming_job_without_a/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u42iot/can_i_get_a_lowlevel_programming_job_without_a/",
-      "created_utc": 1781286717.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1u467y1",
-      "title": "Rant Publicis and TTD Settle “Dispute”",
-      "author": "lafromnyc",
-      "score": 5,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u467y1/rant_publicis_and_ttd_settle_dispute/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u467y1/rant_publicis_and_ttd_settle_dispute/",
-      "created_utc": 1781295036.0,
-      "content": "https://digiday.com/media-buying/publicis-and-the-trade-desk-settle-their-dispute-but-tell-no-one-why\n\nThis is why this industry and the ad tech industry at times is so full of BS. Jeff talks about transparency but where’s the transparency in how and why the “dispute” was settled. IMO it was clearly a negotiation tactic by Publicis bc it was clearly eating into their huge principle media margins. And clearly TTD was not doing completely upfront/transparent things within their UI, much like Google used to do in AdWords and Ads.\n\nMaybe Jeff comes out with a statement but this “announcement” clearly means that TTD understands that certain “compromises” and acceptances have to be made bc they need the business and this is how things are done in this industry. \n\nSo essentially no progress was made, they both agreed to disagree and just move on. Jeff champions transparency and the open internet but this doesn’t help that IMO.\n\nPublicis is going to continue to do non transparent principle media things to boost their margins (that at times are not in the best interests of their clients but I the best interest of their bottom line)and TTD will continue to have features in their UI that are on by default that they charge a fee for, that may not necessarily be useful for a client’s campaign.\n\nIs this even surprising? When billions are involved it’s always about the money. The hypocrisy continues.\n\n ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u4738v",
       "title": "Roku in talk to sell to someone? Who are your top 3 potential buyers?",
       "author": "Available_Plant3712",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uwdyo0/648k_net_new_adstxt_lines_this_month_but/",
       "created_utc": 1784047244.0,
       "content": "Sharing key signals from our latest Sellers Report: the market added 478.5K new ads.txt lines and removed 413.7K, producing a net of +64.8K. Resellers accounted for 56.9% of gross additions, the third consecutive month of reseller-led growth.  \n4 things that stood out:\n\n* **Reseller growth is outpacing direct** \\- Until publishers shift more onboarding to direct, auction duplication keeps climbing, adding cost for buyers and carbon overhead for everyone. \n* **Mid-Traffic publishers are leading net growth** \\- +25.6K, ahead of both High-Traffic (+20.3K) and Low-Traffic (+18.9K). First month in the series where the long tail didn't lead. The 501–2,000 rank band is in active expansion. \n* **PubMatic is the only SSP in all three publisher-tier top fives** \\- Backed by 13% YoY Q1 revenue growth, CTV up 18%, and the June 2026 Creator Marketplace launch (first programmatic CTV auction for independent creator publishers). \n* **Auction duplication is getting worse for Established SSPs** \\- 46% of Tier 1 domains are now duplicated across direct + reseller paths. That means nearly half of every auction an Established SSP enters is competing against itself. \n\nWhat this really points to: supply path complexity isn't shrinking, it's compounding. The SSPs winning direct connections in 2026 (Ozone, Wunderkind) are solving specific buyer problems, like cookieless first-party data or behavioral CTV formats, not just offering more reach.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ux5mem",
+      "title": "Marketing agent fleets have the same 58%-burned-after-the-warning problem coding fleets do, nobody's watching for it on the cost side",
+      "author": "MaverikSh",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ux5mem/marketing_agent_fleets_have_the_same/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ux5mem/marketing_agent_fleets_have_the_same/",
+      "created_utc": 1784121477.0,
+      "content": "Saw the post here about a personalization agent quietly pulling stale CRM data and sending the wrong offer tier for two days before anyone noticed. That's the same failure shape I keep running into on the cost side, just nobody's watching for it there either.\n\nA public agent-failure trace study found something worth sitting with: roughly 58% of tokens in failed runs get spent after the first clear failure signal, an explicit tool error, or a repeated identical tool call with the same arguments. The agent already had enough evidence to stop. It kept going.\n\nFor marketing fleets specifically, this shows up as: a personalization pipeline retrying the same enrichment call against a dead CRM connection, an outreach sequencer looping on a malformed template, a content agent stuck re-generating the same draft because a downstream validation keeps failing the same way. None of it trips a \"the agent is broken\" alarm, because technically, it's still running; it's just running badly, quietly, for hours.\n\nMost cost monitoring lives on the billing surface, which only tells you what happened after the invoice lands. By then, the loop was already finished.\n\nWhat's worked for us: watch for the failure pattern directly, rather than waiting for the spend to show up. Hash the tool name plus its arguments. If the same call repeats 3 times in a row within one run, that's the signal, not a later cost spike. Same idea for consecutive tool errors. The repeat call with identical args basically IS the warning.\n\nThe harder version of this is concurrency, if you've got several subagents running a campaign in parallel, a per-call check alone isn't enough, each individual call can look fine while the run as a whole burns way past what it should. The fix there is a budget reservation held at the level of the whole run instead of per call, same pattern a payment processor uses, hold funds before settling instead of after.\n\n\\*Disclosure\\*: I built \\*\\*Cognocient\\*\\* (\\[cognocient.com\\](https://www.cognocient.com/)), an AI spend platform that implements this for teams running LLM-based pipelines. Not asking anyone to try it, genuinely curious if others running marketing agent fleets have hit the same \"technically running, quietly wasteful\" pattern, and what your tripwire setup looks like if you've built one.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ux6xll",
+      "title": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15",
+      "author": "NiceRecognition9603",
+      "score": 5,
+      "url": "https://i.redd.it/8hgp6yyxeedh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ux6xll/amazon_dsp_programmatic_deals_frequency_are/",
+      "created_utc": 1784124514.0,
+      "content": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15\n\n|Deal Type|Cap Counted?|Cap Enforced?|\n|:-|:-|:-|\n|Private Auction (PA)|✓ Yes|✓ Yes — full bidirectional enforcement|\n|Programmatic Guaranteed (PG)|✓ Yes — counts toward shared cap|✓ Yes for 1P, APD and ADx PGs — Conditional on deal delivery in full|\n|||✗ No for all other SSPs — publisher controls delivery|\n|Non-Guaranteed (NG)|✓ Yes|✓ Yes|\n\nThe part worth flagging: it activates automatically when a frequency cap is set. No UI changes, no opt-in. If you already run caps, this just starts working.\n\nThis is a spoiler from the Amazon lead on the project, I'm out of Amazon building Amazon DSP tooling, not an official announcement yet. I'll drop the official link here once it's public.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
