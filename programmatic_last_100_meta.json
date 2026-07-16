@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u606du",
-      "title": "Can Vibe.co PLEASE stop serving me ads?",
-      "author": "InevitableVictory729",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u606du/can_vibeco_please_stop_serving_me_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u606du/can_vibeco_please_stop_serving_me_ads/",
-      "created_utc": 1781479883.0,
-      "content": "I work in digital advertising so I’m used to getting hit with ads for different platforms all the time.\n\nBut for the love of all that is good in this world, I am so sick of seeing Vibe.co ads every single day. I even counted yesterday: I was hit 26 times *in a single day*. For a platform that is touting itself as the next best thing in CTV, you’d think it would understand something about frequency caps. \n\nWhomever is running YouTube ads for Vibe needs to be fired yesterday, they have completely oversaturated the audience, to the point where I’m certain it’s starting to *decrease* sentiment. \n\nAnd don’t use them for ads, quality is mid at best. Even if it wasn’t, I’d avoid it out of spite. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u62jd4",
       "title": "Ad Tech the next step?",
       "author": "Pantpp",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uy85v0/is_this_ecpm_good_enough_in_tier_2_traffic_what/",
       "created_utc": 1784220195.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1uyfmfh",
+      "title": "[Hiring] Mobile SDK Developer @ Kargo — NYC — $150K–$185K — **Performance experience preferred**",
+      "author": "islandfox1",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uyfmfh/hiring_mobile_sdk_developer_kargo_nyc_150k185k/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uyfmfh/hiring_mobile_sdk_developer_kargo_nyc_150k185k/",
+      "created_utc": 1784236658.0,
+      "content": " Posting this here because the folks who really *get* this role tend to live in ad\n\n  ops / programmatic circles, not general dev job boards.\n\n\n\n  Kargo (adtech, 20+ years, \\~600 people) is hiring a **Mobile** **SDK** **Developer** in NYC.\n\n  This isn't a generic mobile eng role — it's for someone who understands the\n\n  mobile programmatic stack end to end and likes owning the messy parts: bid\n\n  response → mediation → rendering → measurement.\n\n\n\n  **What you'd actually be doing:**\n\n  \\- Diagnosing complex in-app ad failures and partner escalations (and cutting\n\n  time-to-diagnosis)\n\n  \\- Shipping SDK / rendering improvements that boost render success across iOS,\n\n  Android, WebViews, and mediation partners\n\n  \\- Latency and efficiency optimizations across the ad stack\n\n  \\- Evaluating and onboarding new demand/vendor integrations alongside BD\n\n  \\- Raising the bar on code review, testing, and AI-assisted workflows \n\n\n\n  **What we're looking for:**\n\n  \\- 5+ years of software engineering with real exposure to mobile app advertising\n\n  tech \n\n  \\- Solid grasp of the mobile programmatic ecosystem — mediation, bidding, SDK\n\n  integrations, OpenRTB, ad rendering\n\n  \\- Comfort debugging the full in-app stack (creative delivery through rendering\n\n  and attribution)\n\n  \\- Real-device QA, proxy/inspection tooling, production debugging\n\n  \\- Nice to have: knowledge of the mobile privacy/measurement landscape and how it\n\n  affects serving/attribution\n\n\n\n  **Details:**\n\n  \\- 📍 New York, NY\n\n  \\- 💰 $150,000–$185,000 base\n\n  \\- 🏢 Kargo — AdAge & Built In \"Best Places to Work,\" ThinkLA Partner of the\n\n  Year, Martech Breakthrough Best Overall Adtech Company\n\n\n\n  Full JD + apply: [https://www.kargo.com/careers/5175282007](https://www.kargo.com/careers/5175282007)\n\n\n\n  Happy to answer questions in the comments. If this isn't you but you know the\n\n  exact person who mutters about WebView rendering bugs in their sleep — send them\n\n  my way.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
