@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-16T08:39:30.011544+00:00",
-    "total_posts": 1834,
+    "scrape_date": "2026-07-16T10:51:29.978390+00:00",
+    "total_posts": 1835,
     "total_comments": 10083
   },
   "discussions": [
@@ -87382,6 +87382,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1uxfr4q/an_opportunity_to_learn_from_industry_experts_and/",
       "created_utc": 1784143377.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1uxz8er",
+      "title": "What are your favourite events to attend?",
+      "author": "Ok-Disaster-6387",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1uxz8er/what_are_your_favourite_events_to_attend/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxz8er/what_are_your_favourite_events_to_attend/",
+      "created_utc": 1784198567.0,
+      "content": "If you’re an agency/brand/advertiser; what were the best events you went you? \n\nIf you’re a seller; what has been the most impactful for you?\n\nLooking for recommendations for major events such as Possible & Cannes as well as local ones such as Marketecture Live ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
