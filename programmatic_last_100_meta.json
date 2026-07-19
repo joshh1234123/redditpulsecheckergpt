@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u7651x",
-      "title": "Urgent help DV360 Query",
-      "author": "Blasterblade_09",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7651x/urgent_help_dv360_query/",
-      "created_utc": 1781593156.0,
-      "content": "I am currently running a DV360 Display campaign and would appreciate your guidance on a performance trend we have observed.\n\n&#x200B;\n\nPreviously, the campaign was running on Open Exchange inventory and was delivering in line with expectations. Recently, we transitioned the campaign to a Deals Curation setup, following which performance declined noticeably.\n\n&#x200B;\n\nBased on our understanding, the campaign setup remains unchanged across both environments, including targeting, audiences, creatives, bidding strategy, and optimization approach. The only significant change appears to be the inventory access route, where inventory is now being accessed through curated deals rather than Open Exchange.\n\n&#x200B;\n\nGiven that the publishers, URLs, and overall inventory sources appear largely consistent, we would like to better understand why such a significant performance difference is being observed.\n\n&#x200B;\n\nCould you help clarify:\n\n&#x200B;\n\nHow deal-curated inventory differs from Open Exchange inventory when the underlying supply appears similar?\n\nWhether auction dynamics, deal floors, win rates, inventory prioritization, or other factors could be contributing to the performance decline?\n\nWhat key reports or metrics we should review to identify the root cause of the variance?\n\n&#x200B;\n\nAny insights or recommendations would be greatly appreciated.",
-      "num_comments": 8,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u7a7wc",
       "title": "How do you manage DOOH advertising for the first time?",
       "author": "SelfMemedMan",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v0h5ju/with_the_growing_talent_of_youtubers_and_editors/",
       "created_utc": 1784436538.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v0unh6",
+      "title": "Netflix floor CPMs on Amazon DSP using the option deal that allows Amazon audiences, US, private auction.",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v0unh6/netflix_floor_cpms_on_amazon_dsp_using_the_option/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v0unh6/netflix_floor_cpms_on_amazon_dsp_using_the_option/",
+      "created_utc": 1784477587.0,
+      "content": "These floors are not hidden. Each proposal returns one length at one setting, so almost nobody assembles the whole picture. Here it is for the US, on the Netflix option that allows Amazon audiences, private auction.\n\n\n\n10 seconds: $19.50\n\n15 seconds: $26.00\n\n20 seconds: $27.63\n\n30 seconds: $32.50\n\n45 seconds: $48.75\n\n60 seconds: $65.00\n\n\n\nRemember a floor is the minimum you bid, not the price you pay. You bid at the floor, set a max average CPM as a ceiling, and the auction decides what clears. Nothing is fixed, nothing is guaranteed. \n\nAmazon audience fees and your DSP fee land on top. Usual Amazon audience fee with In Market, interest, Demographics $3.00. You can use Netflix audiences instead at $2.5 using a similar deal.\n\nMinimum spend is $5,000, so around 154,000 impressions to get in.\n\nDevice does not change the price. It changes how much there is. 83% of the inventory is CTV, 14% mobile, 3% desktop. Brands that have users converting better from some devices can take advantage of this. Talk with your data team.\n\nPreroll stops at 30 seconds. Up to 30 you get the whole pool. At 45 and at 60 around 1% which in practice can't run. Long ads live in midroll.\n\nShort ads are cheap per impression and expensive per second. A 10 is $1.95 a second. A 30 is $1.08.\n\nBlocking sensitive themes adds $1.25. One theme or all seven, same $1.25. \n\nDecember CPM is the same as August, and there is more inventory in December. That was July though. Q4 sells out, so check it yourself.\n\nNetflix does run programmatic guaranteed, but it is not offered through Amazon interface workflow and cannot carry Amazon audiences.\n\nLet me know if you need other countries or have other questions",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
