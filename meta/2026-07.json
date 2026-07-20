@@ -734,6 +734,21 @@
       "link_flair_text": null,
       "thread_id": "1v0unh6",
       "thread_path": "1v0unh6.json"
+    },
+    {
+      "id": "1v1ojd2",
+      "title": ".NET or Springboot",
+      "author": "D_AhmEdd",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v1ojd2/net_or_springboot/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v1ojd2/net_or_springboot/",
+      "created_utc": 1784560844.0,
+      "content": "Hi there, I am young full stack developer in react, node and nestjs. I understand these fully and have done various projects in them for clients and in my internship. I am currently in my undergrad in Software Engineering. \n\nMy question is, what enterprise Tech Stack should I choose now ? .Net or Springboot, I have to learn one, i wanna master 1 of these, but which one, considering that I love deep learning model training, agentic Ai development. In terms of clients, job market, or maybe skills. Which one should i go for ?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v1ojd2",
+      "thread_path": "1v1ojd2.json"
     }
   ]
 }
