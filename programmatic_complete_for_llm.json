@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-21T12:07:10.516068+00:00",
-    "total_posts": 1842,
+    "scrape_date": "2026-07-21T14:32:02.504101+00:00",
+    "total_posts": 1843,
     "total_comments": 10084
   },
   "discussions": [
@@ -87501,6 +87501,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v1ojd2/net_or_springboot/",
       "created_utc": 1784560844.0,
       "content": "Hi there, I am young full stack developer in react, node and nestjs. I understand these fully and have done various projects in them for clients and in my internship. I am currently in my undergrad in Software Engineering. \n\nMy question is, what enterprise Tech Stack should I choose now ? .Net or Springboot, I have to learn one, i wanna master 1 of these, but which one, considering that I love deep learning model training, agentic Ai development. In terms of clients, job market, or maybe skills. Which one should i go for ?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1v2j2x9",
+      "title": "Any AI visibility tool that lets brands buy ads on the pages a chatbot cites, so you can rebut the model on its own source?",
+      "author": "u_of_digital",
+      "score": 1,
+      "url": "/r/adtech/comments/1v2j2ox/any_ai_visibility_tool_that_lets_brands_buy_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v2j2x9/any_ai_visibility_tool_that_lets_brands_buy_ads/",
+      "created_utc": 1784641916.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
