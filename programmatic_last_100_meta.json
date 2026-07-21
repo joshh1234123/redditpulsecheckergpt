@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u7lxsv",
-      "title": "Best way to secure specific inventory - through exchanges on ads.txt or direct",
-      "author": "Akajdrod",
-      "score": 2,
-      "url": "https://i.redd.it/8c374ayduo7h1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7lxsv/best_way_to_secure_specific_inventory_through/",
-      "created_utc": 1781634725.0,
-      "content": "Hi everyone, \n\nCurious how do you go about getting on specific websites - for example, NYC-specific entertainment/event websites and I'm checking their ads.txt files. \n\n  \nLet's say I only can either reach out directly to the publisher or reach out to an exchange that is present on all of the websites, which way would you go to setup a deal for those websites? \n\n",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1u7wrk6",
-      "title": "FTC is reportedly drafting a multibillion-dollar complaint against Amazon over opaque auction dynamics and undisclosed \"reserve pricing\"",
-      "author": "Hungry_Can_2164",
-      "score": 29,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u7wrk6/ftc_is_reportedly_drafting_a_multibilliondollar/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u7wrk6/ftc_is_reportedly_drafting_a_multibilliondollar/",
-      "created_utc": 1781660750.0,
-      "content": "Even if Amazon DSP is safe for now, a legal crack down on their core retail search ad business could fundamentally alter how they cross-subsidize and bundle their programmatic offerings to brands. How do you see this playing out for independent alternatives like TTD?\n\n  \n[https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit?srnd=homepage-americas](https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit?srnd=homepage-americas)\n\n",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u7z8az",
       "title": "AI Vibe Check",
       "author": "RenegadeRach",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v2j2x9/any_ai_visibility_tool_that_lets_brands_buy_ads/",
       "created_utc": 1784641916.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v2nliz",
+      "title": "Best Bugs Challenge!",
+      "author": "SB-Devrel",
+      "score": 1,
+      "url": "/r/SmartBear_Official/comments/1v1lk18/best_bugs_challenge/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v2nliz/best_bugs_challenge/",
+      "created_utc": 1784651703.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v2paem",
+      "title": "Traffic is growing. Engagement is falling. CPMs are surging.",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v2paem/traffic_is_growing_engagement_is_falling_cpms_are/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v2paem/traffic_is_growing_engagement_is_falling_cpms_are/",
+      "created_utc": 1784655260.0,
+      "content": "July data from our publisher network tells an interesting story: more users are arriving, but they're engaging less, while CPMs are moving sharply higher.  \n  \nTraffic- New users grew 14%, but Sessions/User and Pageviews/User fell 2%, while Engaged Sessions/User dropped 29%. Social traffic grew fast, with X up 170%, Instagram 107%, and Reddit 47%. AI assistant traffic also grew 24.8%, led by ChatGPT.  \n  \nCPMs- Overall CPMs rose 16.9% MoM and 51.0% YoY. Display was up 26.9% YoY, Video 41.3%, and CTV recovered 20.7% MoM.  \n  \nIntegration- Prebid regained share at 54%, while AdX held at 34% and TAM fell to 8%.  \n  \nThe takeaway: traffic is growing, engagement quality is getting harder to maintain, but buyers are paying significantly more for the inventory they value.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
