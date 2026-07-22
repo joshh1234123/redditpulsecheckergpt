@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-22T14:32:29.755992+00:00",
-    "total_posts": 1846,
-    "total_comments": 10084
+    "scrape_date": "2026-07-22T16:16:19.169882+00:00",
+    "total_posts": 1847,
+    "total_comments": 10087
   },
   "discussions": [
     {
@@ -87561,6 +87561,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1v3ilzn",
+      "title": "Agency Trading Agreements",
+      "author": "Alpha-D-Truelove",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v3ilzn/agency_trading_agreements/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v3ilzn/agency_trading_agreements/",
+      "created_utc": 1784732369.0,
+      "content": "Im approaching the end of my time at my current employer and have been thinking about where to focus my energy and leverage my existing relationships next.\n\nA major part of my current role is managing Trading Agreements for some of the largest agencies across the US spending across Display, OLV and CTV.\n\nMy question is which types of organisations and companies should I approach that have growth potential and I can obviously come in with some transferable $? \n\nAppreciate any advice and context provided here!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "philipokmolotok",
+          "body": "Join an SSP in a role that that calls on your specific agency or holdco. You understand the inner workings, you can leverage your current network, and the right SSP would provide you with high earning potential.",
+          "score": 4,
+          "created_utc": 1784732873.0
+        },
+        {
+          "author": "ProgrammaticBadman",
+          "body": "I’m your huckleberry! \n\nDM me",
+          "score": 2,
+          "created_utc": 1784732902.0
+        },
+        {
+          "author": "Diligent_Interview98",
+          "body": "If you have contacts that will allow you to secure ad budgets and you’re ok in a sales role let me know. We’re hiring ",
+          "score": 1,
+          "created_utc": 1784734330.0
+        }
+      ]
     }
   ]
 }
