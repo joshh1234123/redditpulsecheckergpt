@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-22T10:18:29.247538+00:00",
-    "total_posts": 1845,
+    "scrape_date": "2026-07-22T12:11:13.700756+00:00",
+    "total_posts": 1846,
     "total_comments": 10084
   },
   "discussions": [
@@ -87543,6 +87543,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v2paem/traffic_is_growing_engagement_is_falling_cpms_are/",
       "created_utc": 1784655260.0,
       "content": "July data from our publisher network tells an interesting story: more users are arriving, but they're engaging less, while CPMs are moving sharply higher.  \n  \nTraffic- New users grew 14%, but Sessions/User and Pageviews/User fell 2%, while Engaged Sessions/User dropped 29%. Social traffic grew fast, with X up 170%, Instagram 107%, and Reddit 47%. AI assistant traffic also grew 24.8%, led by ChatGPT.  \n  \nCPMs- Overall CPMs rose 16.9% MoM and 51.0% YoY. Display was up 26.9% YoY, Video 41.3%, and CTV recovered 20.7% MoM.  \n  \nIntegration- Prebid regained share at 54%, while AdX held at 34% and TAM fell to 8%.  \n  \nThe takeaway: traffic is growing, engagement quality is getting harder to maintain, but buyers are paying significantly more for the inventory they value.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1v3cgbi",
+      "title": "DV360 - What are your best tips/easter eggs?",
+      "author": "TheGrandLeveler",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v3cgbi/dv360_what_are_your_best_tipseaster_eggs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v3cgbi/dv360_what_are_your_best_tipseaster_eggs/",
+      "created_utc": 1784716976.0,
+      "content": "Hi people,\n\nAs the title says, what are some tips/tricks/easter eggs that improved your work or performance in DV360?\n\nCheers",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
