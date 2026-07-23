@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-23T09:20:35.940169+00:00",
-    "total_posts": 1847,
+    "scrape_date": "2026-07-23T11:22:48.043955+00:00",
+    "total_posts": 1848,
     "total_comments": 10087
   },
   "discussions": [
@@ -87594,6 +87594,20 @@
           "created_utc": 1784734330.0
         }
       ]
+    },
+    {
+      "id": "1v4a41j",
+      "title": "AI usage & upskilling",
+      "author": "frequencycapped",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4a41j/ai_usage_upskilling/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4a41j/ai_usage_upskilling/",
+      "created_utc": 1784802927.0,
+      "content": "Everything is AI this AI that, and I understand using some of the native features in programmatic platforms in terms of helping with optimizing, pulling reports etc, but I’m curious how companies (ad tech, agencies, brands) are using AI for their teams.\n\nAre you using it for automating workflows? If so, how?  What else is it good for? Very curious to know how it’s being used so I can upskill. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
