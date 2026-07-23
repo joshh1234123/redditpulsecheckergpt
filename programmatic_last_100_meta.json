@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u93jlk",
-      "title": "Live Sports Streaming Inventory",
-      "author": "CarelessObligation12",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u93jlk/live_sports_streaming_inventory/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u93jlk/live_sports_streaming_inventory/",
-      "created_utc": 1781781664.0,
-      "content": "A few local TV stations are claiming they are able to place ads in-games on streams and can target specific games but when I talk to reps from ESPN or TNT. The network rep says they can’t even do that. How is this possible?",
-      "num_comments": 9,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u9h6hf",
       "title": "How to reach Parents & Teachers via CTV",
       "author": "Akajdrod",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v4j9it/the_amazon_dsp_mafia_the_whos_who_of_companies/",
       "created_utc": 1784824920.0,
       "content": "Plenty of tools and agencies touch Amazon DSP now, but I feel the less they focus, the worse it gets. One of my clients ran DSP through [m19](https://www.m19.com), which is genuinely good at PPC, and the DSP defaults were rough. About 30% of the budget went to Alexa device ads, the kind of thing anyone with real DSP experience turns off, apart from a bit of remarketing at a sensible frequency. So I looked into who actually focuses on Amazon DSP.\n\nMost of this is from their own sites, so tell me where I've got it wrong. Alphabetical, not a ranking.\n\n**Tools**\n\n**aparagon.com:** Real tool, interface built to look like Amazon's own. Built for brands that want to buy Amazon DSP without selling on Amazon, so it runs the buy for them. Narrow by design. Product [video](https://aparagon.com/wp-content/uploads/2026/06/HomePage_Video_final-2.mp4) on the homepage and a [book a demo](https://aparagon.com/book-demo) page, but no public pricing.\n\n**doradoads.com:** Announced an MVP a few months ago, but the [YouTube channel](https://www.youtube.com/@DoradoAds) is dead and I could not tell if it is still shipping. There is a [book demo](https://www.doradoads.com/demo) page. \n\n**gigico.ai** (also gigico.tv)**:** Real, and the AMC side looks strong, which matters because good AMC and good DSP go together. They show bid modifier suggestions I have not seen elsewhere, and I understand take both Amazon sellers and non sellers. Downside: little public detail on how the tool works, just snapshots. No open walkthrough, just a [hire Gigi](https://gigico.ai/hire-gigi) flow and clips on [YouTube](https://www.youtube.com/@gigico_ai/videos). \n\n**remktr.com:** Has a [pricing](https://remktr.com/pricing/) page, more than most here and a [DSP discovery call](https://remktr.com/dsp-discovery-call/). But the last LinkedIn post is a few months old and there is no product video, only images. Feels more like an agency with reporting than a self serve tool. Could be wrong.\n\n**victor.ad:** Planning tool for Amazon DSP. Builds the plan, client deck, and push campaings into DSP. Most public info of the lot: a [product walkthrough](https://www.youtube.com/watch?v=tHHeONkcLnM) on YouTube, a [live demo](https://victor.ad/plans/new?start=1) you can open without a call, and [pricing](https://victor.ad/pricing) on the site for the tool but not consultancy. Free DSP test accounts and AMC too. It is a planning and pitching tool, not a full campaign management platform although it claims betas for that and seems to be focus on self serving. Cons smaller and newer than the most of the others.\n\n**vowmade.com:** Focus on lunch dsp campaigns and it looks like they are launching a CTV only sub brand (vowstream.tv). The only demo I found is an old [video on LinkedIn](https://www.linkedin.com/posts/in-the-know-vows-ai-audience-builder-for-ugcPost-7388138809508495360--sng/). Seems old in comparison with the others. [Discovery call](https://vowmade.com/#register) page, no public pricing i found.\n\n**Agencies (not tools)**\n\n**directavenue.com:** Mostly CTV and analytics with Amazon in the mix, big team. Good if CTV is your angle, less so for overall DSP.\n\n**weareliberty.com:** Built around activating Amazon DSP for other brands, decent size team. Not much public detail beyond the claims on the site.\n\n**plug.media:** Says DSP is the focus but runs other services too (US based). If you want a team that only does DSP, I would ask how much of theirs actually does.\n\n\n\nDo you know any other that their focus is really on Amazon DSP? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v4nczv",
+      "title": "Best tips and tricks DV360",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4nczv/best_tips_and_tricks_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4nczv/best_tips_and_tricks_dv360/",
+      "created_utc": 1784833510.0,
+      "content": "Basically what the title says, anything that helped your performance and way of working a lot? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
