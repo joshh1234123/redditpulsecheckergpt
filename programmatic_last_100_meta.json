@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u874ah",
-      "title": "When to use each deal?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u874ah/when_to_use_each_deal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u874ah/when_to_use_each_deal/",
-      "created_utc": 1781694392.0,
-      "content": "Do you agree with the below? And if yes, what would you add/how do you usually structure your campaign?\n\nPG: When client wants premium inventory and guaranteed volume goal. E.g product launches, mass awareness, takeovers etc.\n\nPMP: When client wants to go cheaper than PG, wants to test multiple publishers and find what works out best, while still buying decent inventory\n\nOMP: Lower funnel campaigns, traffic testing, low price",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1u8dajv",
-      "title": "Do Deal IDs Exist for Buying Local Linear TV Through DV360?",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u8dajv/do_deal_ids_exist_for_buying_local_linear_tv/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u8dajv/do_deal_ids_exist_for_buying_local_linear_tv/",
-      "created_utc": 1781709921.0,
-      "content": "I know this is a programmatic group, and I’m still fairly new to DV360 and Amazon Ads.\n\nDoes anyone know whether Deal IDs or marketplace deals exist that would let me add some local linear TV inventory to my DV360 campaigns—specifically traditional TV delivered through Comcast or Fios, not just streaming or CTV?\n\nI’m only looking to get onto a few channels or networks in my local market. Ideally, I’d like to manage the campaign through DV360 so I can keep control over the budget, schedule, reporting, and creative without having to work directly with a local Comcast or Fios sales rep.\n\nHas anyone done this, or know of a reseller, SSP, inventory partner, or marketplace deal that offers access to local linear TV?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u93jlk",
       "title": "Live Sports Streaming Inventory",
       "author": "CarelessObligation12",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v4cx9u/amazon_ads/",
       "created_utc": 1784810811.0,
       "content": "Those that use Amazon Ads for streaming. When you make a setting change is it immediate or take a few hours or a day to update?\n\nI added 3 new counties with over 3 million population into the targeting prior to the day part schedule going live and last night the Ad spend was the same as it was prior night when I had only 1 county in targeting.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v4j0jg",
+      "title": "Career advice: should i learn TTD?",
+      "author": "poepstinktvies",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4j0jg/career_advice_should_i_learn_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4j0jg/career_advice_should_i_learn_ttd/",
+      "created_utc": 1784824392.0,
+      "content": "Hey everyone,\n\nMy little sister is going into her final year of university and she want to specialize in programmatic advertising. Shes been looking at learning **The Trade Desk (TTD)** since it seems to be one of the leading DSPs.\n\nFor those working in the industry, is TTD still the platform you’d recommend investing time into, or has the focus shifted toward other DSPs or platforms?\n\nIf you were starting today, what would you prioritize learning alongside (or instead of) TTD?\n\nAppreciate any advice!\n\nEDIT1: Sorry for typo in the title/post",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v4j9it",
+      "title": "The Amazon DSP Mafia: the who's who of companies that only focus on Amazon DSP",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4j9it/the_amazon_dsp_mafia_the_whos_who_of_companies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4j9it/the_amazon_dsp_mafia_the_whos_who_of_companies/",
+      "created_utc": 1784824920.0,
+      "content": "Plenty of tools and agencies touch Amazon DSP now, but I feel the less they focus, the worse it gets. One of my clients ran DSP through [m19](https://www.m19.com), which is genuinely good at PPC, and the DSP defaults were rough. About 30% of the budget went to Alexa device ads, the kind of thing anyone with real DSP experience turns off, apart from a bit of remarketing at a sensible frequency. So I looked into who actually focuses on Amazon DSP.\n\nMost of this is from their own sites, so tell me where I've got it wrong. Alphabetical, not a ranking.\n\n**Tools**\n\n**aparagon.com:** Real tool, interface built to look like Amazon's own. Built for brands that want to buy Amazon DSP without selling on Amazon, so it runs the buy for them. Narrow by design. Product [video](https://aparagon.com/wp-content/uploads/2026/06/HomePage_Video_final-2.mp4) on the homepage and a [book a demo](https://aparagon.com/book-demo) page, but no public pricing.\n\n**doradoads.com:** Announced an MVP a few months ago, but the [YouTube channel](https://www.youtube.com/@DoradoAds) is dead and I could not tell if it is still shipping. There is a [book demo](https://www.doradoads.com/demo) page. \n\n**gigico.ai** (also gigico.tv)**:** Real, and the AMC side looks strong, which matters because good AMC and good DSP go together. They show bid modifier suggestions I have not seen elsewhere, and I understand take both Amazon sellers and non sellers. Downside: little public detail on how the tool works, just snapshots. No open walkthrough, just a [hire Gigi](https://gigico.ai/hire-gigi) flow and clips on [YouTube](https://www.youtube.com/@gigico_ai/videos). \n\n**remktr.com:** Has a [pricing](https://remktr.com/pricing/) page, more than most here and a [DSP discovery call](https://remktr.com/dsp-discovery-call/). But the last LinkedIn post is a few months old and there is no product video, only images. Feels more like an agency with reporting than a self serve tool. Could be wrong.\n\n**victor.ad:** Planning tool for Amazon DSP. Builds the plan, client deck, and push campaings into DSP. Most public info of the lot: a [product walkthrough](https://www.youtube.com/watch?v=tHHeONkcLnM) on YouTube, a [live demo](https://victor.ad/plans/new?start=1) you can open without a call, and [pricing](https://victor.ad/pricing) on the site for the tool but not consultancy. Free DSP test accounts and AMC too. It is a planning and pitching tool, not a full campaign management platform although it claims betas for that and seems to be focus on self serving. Cons smaller and newer than the most of the others.\n\n**vowmade.com:** Focus on lunch dsp campaigns and it looks like they are launching a CTV only sub brand (vowstream.tv). The only demo I found is an old [video on LinkedIn](https://www.linkedin.com/posts/in-the-know-vows-ai-audience-builder-for-ugcPost-7388138809508495360--sng/). Seems old in comparison with the others. [Discovery call](https://vowmade.com/#register) page, no public pricing i found.\n\n**Agencies (not tools)**\n\n**directavenue.com:** Mostly CTV and analytics with Amazon in the mix, big team. Good if CTV is your angle, less so for overall DSP.\n\n**weareliberty.com:** Built around activating Amazon DSP for other brands, decent size team. Not much public detail beyond the claims on the site.\n\n**plug.media:** Says DSP is the focus but runs other services too (US based). If you want a team that only does DSP, I would ask how much of theirs actually does.\n\n\n\nDo you know any other that their focus is really on Amazon DSP? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
