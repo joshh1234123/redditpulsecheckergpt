@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1u85n7n",
-      "title": "Jounce Media property scores flagging ESPN and Fox Sports as \"High Risk\"?",
-      "author": "slippycrook",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1u85n7n/jounce_media_property_scores_flagging_espn_and/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1u85n7n/jounce_media_property_scores_flagging_espn_and/",
-      "created_utc": 1781689522.0,
-      "content": "Hey everyone,   \nMy DSP's managed services team is looking into using **Jounce Media’s property score reports** for inventory curation. The data framework looks solid overall, but digging into the actual file, some of the CTV recommendations are just weird.\n\nWe’re seeing top-tier premium apps like **Fox Sports, ESPN, and BET+** flagged as **\"High Risk\"** with a strict **\"Do Not Buy\"** recommendation.   \nThese are massive properties that clients actually want, not long-tail MFA noise. Why are these media giants getting hit like this, and how are they not fighting it?\n\nPart of me wants to just use Jounce's \"Buy with Confidence\" list as a safe inclusion list, but we'd be missing out on massive premium scale. Is Jounce just being overly aggressive with their filtering, or is there a genuine supply path/spoofing issue with these specific apps that I'm missing?\n\nIf anyone else here is operationalizing this file, how are you actually handling it? Are you doing blanket blocks, or manually overriding the file to save your premium CTV scale?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1u874ah",
       "title": "When to use each deal?",
       "author": "TheGrandLeveler",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v4a41j/ai_usage_upskilling/",
       "created_utc": 1784802927.0,
       "content": "Everything is AI this AI that, and I understand using some of the native features in programmatic platforms in terms of helping with optimizing, pulling reports etc, but I’m curious how companies (ad tech, agencies, brands) are using AI for their teams.\n\nAre you using it for automating workflows? If so, how?  What else is it good for? Very curious to know how it’s being used so I can upskill. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v4cx9u",
+      "title": "Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4cx9u/amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4cx9u/amazon_ads/",
+      "created_utc": 1784810811.0,
+      "content": "Those that use Amazon Ads for streaming. When you make a setting change is it immediate or take a few hours or a day to update?\n\nI added 3 new counties with over 3 million population into the targeting prior to the day part schedule going live and last night the Ad spend was the same as it was prior night when I had only 1 county in targeting.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

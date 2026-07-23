@@ -839,6 +839,21 @@
       "link_flair_text": null,
       "thread_id": "1v4a41j",
       "thread_path": "1v4a41j.json"
+    },
+    {
+      "id": "1v4cx9u",
+      "title": "Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v4cx9u/amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4cx9u/amazon_ads/",
+      "created_utc": 1784810811.0,
+      "content": "Those that use Amazon Ads for streaming. When you make a setting change is it immediate or take a few hours or a day to update?\n\nI added 3 new counties with over 3 million population into the targeting prior to the day part schedule going live and last night the Ad spend was the same as it was prior night when I had only 1 county in targeting.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v4cx9u",
+      "thread_path": "1v4cx9u.json"
     }
   ]
 }
