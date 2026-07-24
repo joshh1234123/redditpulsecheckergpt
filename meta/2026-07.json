@@ -899,6 +899,21 @@
       "link_flair_text": null,
       "thread_id": "1v4nczv",
       "thread_path": "1v4nczv.json"
+    },
+    {
+      "id": "1v590tb",
+      "title": "Need Input & Advice about CBO Campaign",
+      "author": "Unusual_Living629",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v590tb/need_input_advice_about_cbo_campaign/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v590tb/need_input_advice_about_cbo_campaign/",
+      "created_utc": 1784893495.0,
+      "content": "I'm running a CBO campaign with 3 adsets, each with different interests (let's call them Adset A, B, and C). Previously, most of the budget went to Adset C and my ads were profitable with ROAS 3-4. Now, most of the budget is going to Adset B and the closing rate has become bad (even though CPR is cheap). Is it okay if I turn off Adset B and replace it with a different audience/interest? (All adsets are already out of the learning phase / have more than 50 conversions each)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v590tb",
+      "thread_path": "1v590tb.json"
     }
   ]
 }
