@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ubdqft",
-      "title": "AT&T Paid $1.6B for AppNexus. Microsoft Shut It Down. Here's the Full Wreckage.",
-      "author": "Available_Plant3712",
-      "score": 2,
-      "url": "https://left-over.lol/article/1",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ubdqft/att_paid_16b_for_appnexus_microsoft_shut_it_down/",
-      "created_utc": 1782007157.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uc10py",
       "title": "Do certifications actually help in finding a Job?",
       "author": "Mauchad",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v61f29/adtech_hiring_remote/",
       "created_utc": 1784964088.0,
       "content": "Hello everyone! \n\nI’ve been trying to get a clearer picture of the current AdTech hiring market.\n\nI’m based in India and have 2.6 years of experience as an AdOps Analyst, with hands-on experience in Google Ad Manager (GAM), PubMatic, Xandr, SpringServe, and Nexxen (formerly Unruly/Tremor). My experience has primarily been on the SSP/publisher monetization side, including ad operations, troubleshooting, reporting, and campaign optimization.\n\nI’m currently looking for remote opportunities in AdTech. If you know of any companies hiring or have any referrals or suggestions that match my experience, I’d really appreciate your help.  \nThank you in advance! 🙌",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v66m2d",
+      "title": "CTV Pause Ads",
+      "author": "errbodywangchung2nyt",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v66m2d/ctv_pause_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v66m2d/ctv_pause_ads/",
+      "created_utc": 1784981123.0,
+      "content": "Anyone care to share their experience/results/opinions on Pause Ads? Or best practices you might have gleaned already?\n\nI know Spaceback and a couple competitors launched this format many moons ago, served against PMP deals. We haven’t been able to really test this, and now that TTD has the toggle for quick/efficient creative repurposing (even if that’s not ideal for CTAs and medium, etc), I’m looking to again test these units and see if perf can justify the seemingly steep CPMs for a no-sound, static, rotating ad slot. \n\nI believe they can be impactful, as I notice them sometimes, but it still feels pretty nascent and costly. I’d appreciate any discussion, suggestions, or otherwise, thanks in advance.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

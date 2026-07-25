@@ -944,6 +944,21 @@
       "link_flair_text": null,
       "thread_id": "1v61f29",
       "thread_path": "1v61f29.json"
+    },
+    {
+      "id": "1v66m2d",
+      "title": "CTV Pause Ads",
+      "author": "errbodywangchung2nyt",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v66m2d/ctv_pause_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v66m2d/ctv_pause_ads/",
+      "created_utc": 1784981123.0,
+      "content": "Anyone care to share their experience/results/opinions on Pause Ads? Or best practices you might have gleaned already?\n\nI know Spaceback and a couple competitors launched this format many moons ago, served against PMP deals. We haven’t been able to really test this, and now that TTD has the toggle for quick/efficient creative repurposing (even if that’s not ideal for CTAs and medium, etc), I’m looking to again test these units and see if perf can justify the seemingly steep CPMs for a no-sound, static, rotating ad slot. \n\nI believe they can be impactful, as I notice them sometimes, but it still feels pretty nascent and costly. I’d appreciate any discussion, suggestions, or otherwise, thanks in advance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v66m2d",
+      "thread_path": "1v66m2d.json"
     }
   ]
 }
