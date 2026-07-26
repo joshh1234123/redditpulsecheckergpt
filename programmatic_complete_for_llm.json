@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-26T11:14:59.324584+00:00",
-    "total_posts": 1856,
+    "scrape_date": "2026-07-26T12:36:23.246567+00:00",
+    "total_posts": 1857,
     "total_comments": 10089
   },
   "discussions": [
@@ -87729,6 +87729,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v66m2d/ctv_pause_ads/",
       "created_utc": 1784981123.0,
       "content": "Anyone care to share their experience/results/opinions on Pause Ads? Or best practices you might have gleaned already?\n\nI know Spaceback and a couple competitors launched this format many moons ago, served against PMP deals. We haven’t been able to really test this, and now that TTD has the toggle for quick/efficient creative repurposing (even if that’s not ideal for CTAs and medium, etc), I’m looking to again test these units and see if perf can justify the seemingly steep CPMs for a no-sound, static, rotating ad slot. \n\nI believe they can be impactful, as I notice them sometimes, but it still feels pretty nascent and costly. I’d appreciate any discussion, suggestions, or otherwise, thanks in advance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1v71lux",
+      "title": "Netflix in Amazon DSP: the setup guide for running Amazon audiences on it",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "/r/adops/comments/1v70wpa/netflix_in_amazon_dsp_the_setup_guide_for_running/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v71lux/netflix_in_amazon_dsp_the_setup_guide_for_running/",
+      "created_utc": 1785066255.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
