@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-27T20:16:00.027405+00:00",
-    "total_posts": 1859,
-    "total_comments": 10090
+    "scrape_date": "2026-07-27T21:36:06.246384+00:00",
+    "total_posts": 1860,
+    "total_comments": 10092
   },
   "discussions": [
     {
@@ -87780,6 +87780,33 @@
           "body": "Just find an Ad Tech partner and get direct access to DV360 or Amazon Ads. As I learned via the forum and other sources when you use those other self service tools they are reselling inventory and marking it way up.",
           "score": 1,
           "created_utc": 1785154387.0
+        }
+      ]
+    },
+    {
+      "id": "1v8c9bb",
+      "title": "The Trade Desk “System Auto for Win Rate Exclusion optimization list was dissociated from the ad group” error",
+      "author": "girlygirly05",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "created_utc": 1785184190.0,
+      "content": "This “optimization” was auto applied to two of my Display campaigns last week and delivery has stopped completely since - this issue has since been escalated to TTD engineers for support but I’m curious, has anyone else seen this before?? I can’t find anything in any campaign rails that would tell me what the purpose of this optimization is and I can’t figure out how to remove it on my own. Campaigns are delivering to 3P audiences with more than enough scale on the SP500+",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jake_dasnake3",
+          "body": "This is a throttler that stops bidding when the platform sees a 0% winrate for long enough to determine that there is an issue that is completely blocking your ability to serve. For example if you’re targeting an endeavor with only US inventory but your geo tile is set to China, this will pop up after a few hours. This serve reason is not the issue it is just telling you there is an issue. ",
+          "score": 1,
+          "created_utc": 1785186138.0
+        },
+        {
+          "author": "girlygirly05",
+          "body": "Yesss totally hear you, I’m just trying to troubleshoot what happened to block all delivery ",
+          "score": 1,
+          "created_utc": 1785186634.0
         }
       ]
     }

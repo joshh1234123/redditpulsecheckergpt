@@ -1004,6 +1004,21 @@
       "link_flair_text": null,
       "thread_id": "1v7wa9n",
       "thread_path": "1v7wa9n.json"
+    },
+    {
+      "id": "1v8c9bb",
+      "title": "The Trade Desk “System Auto for Win Rate Exclusion optimization list was dissociated from the ad group” error",
+      "author": "girlygirly05",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
+      "created_utc": 1785184190.0,
+      "content": "This “optimization” was auto applied to two of my Display campaigns last week and delivery has stopped completely since - this issue has since been escalated to TTD engineers for support but I’m curious, has anyone else seen this before?? I can’t find anything in any campaign rails that would tell me what the purpose of this optimization is and I can’t figure out how to remove it on my own. Campaigns are delivering to 3P audiences with more than enough scale on the SP500+",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v8c9bb",
+      "thread_path": "1v8c9bb.json"
     }
   ]
 }
