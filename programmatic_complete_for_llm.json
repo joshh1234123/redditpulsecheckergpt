@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-27T05:05:18.500338+00:00",
-    "total_posts": 1857,
+    "scrape_date": "2026-07-27T08:52:43.951761+00:00",
+    "total_posts": 1858,
     "total_comments": 10089
   },
   "discussions": [
@@ -87743,6 +87743,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v71lux/netflix_in_amazon_dsp_the_setup_guide_for_running/",
       "created_utc": 1785066255.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1v7uig0",
+      "title": "Programmatic novice: Private deals setup in DV360",
+      "author": "Beneficial_Class4660",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
+      "created_utc": 1785141377.0,
+      "content": "Hi guys,\n\nI'm used to running only Open Auction campaigns, but when it comes to other deal types, I'm a bit lost.\n\nI'd like to test a Private Deal via DV360 for a campaign in the UK. \n\nCould someone explain what I need to do to set it up? Best practices, documentation, etc..",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

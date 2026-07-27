@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uc2udv",
-      "title": "Who Owns Your Identity Graph Now",
-      "author": "Available_Plant3712",
-      "score": 4,
-      "url": "https://left-over.lol/article/7",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uc2udv/who_owns_your_identity_graph_now/",
-      "created_utc": 1782080032.0,
-      "content": "",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ucmim1",
       "title": "Streaming audio production",
       "author": "heatherR10",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v71lux/netflix_in_amazon_dsp_the_setup_guide_for_running/",
       "created_utc": 1785066255.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v7uig0",
+      "title": "Programmatic novice: Private deals setup in DV360",
+      "author": "Beneficial_Class4660",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
+      "created_utc": 1785141377.0,
+      "content": "Hi guys,\n\nI'm used to running only Open Auction campaigns, but when it comes to other deal types, I'm a bit lost.\n\nI'd like to test a Private Deal via DV360 for a campaign in the UK. \n\nCould someone explain what I need to do to set it up? Best practices, documentation, etc..",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
