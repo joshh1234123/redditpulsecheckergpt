@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-27T08:52:43.951761+00:00",
-    "total_posts": 1858,
-    "total_comments": 10089
+    "scrape_date": "2026-07-27T12:14:03.286390+00:00",
+    "total_posts": 1859,
+    "total_comments": 10090
   },
   "discussions": [
     {
@@ -87761,6 +87761,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1v7wa9n",
+      "title": "CTV self-serve platforms, anyone actually running spend through these?",
+      "author": "Zealousideal-Hotel62",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v7wa9n/ctv_selfserve_platforms_anyone_actually_running/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v7wa9n/ctv_selfserve_platforms_anyone_actually_running/",
+      "created_utc": 1785147439.0,
+      "content": "Hi, curious to hear from people who've actually tested self-serve CTV ad managers. The UIs look nice, but I'm not sure how transparent the pricing really is and whether spots actually run on the premium apps advertised in those bundles. On the flip side, I do see the appeal of skipping the full DSP/IO process for smaller test budgets. Anyone here run real campaigns through one of these? Which platform, and would you book again? Thank you 🙏",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Enviromental1001",
+          "body": "Just find an Ad Tech partner and get direct access to DV360 or Amazon Ads. As I learned via the forum and other sources when you use those other self service tools they are reselling inventory and marking it way up.",
+          "score": 1,
+          "created_utc": 1785154387.0
+        }
+      ]
     }
   ]
 }

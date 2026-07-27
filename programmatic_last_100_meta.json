@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ucmim1",
-      "title": "Streaming audio production",
-      "author": "heatherR10",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ucmim1/streaming_audio_production/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ucmim1/streaming_audio_production/",
-      "created_utc": 1782139449.0,
-      "content": "Has anyone used any good streaming audio production services? I have a client who wants to run streaming audio programmatically but they need a spot produced. Will provide a script. Just need it read, recorded and edited to format.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ucsf1j",
       "title": "CPMs up 24% YoY while publisher traffic is softening - something's shifting in the auction layer",
       "author": "DataBeat_adtech",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785141377.0,
       "content": "Hi guys,\n\nI'm used to running only Open Auction campaigns, but when it comes to other deal types, I'm a bit lost.\n\nI'd like to test a Private Deal via DV360 for a campaign in the UK. \n\nCould someone explain what I need to do to set it up? Best practices, documentation, etc..",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v7wa9n",
+      "title": "CTV self-serve platforms, anyone actually running spend through these?",
+      "author": "Zealousideal-Hotel62",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v7wa9n/ctv_selfserve_platforms_anyone_actually_running/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v7wa9n/ctv_selfserve_platforms_anyone_actually_running/",
+      "created_utc": 1785147439.0,
+      "content": "Hi, curious to hear from people who've actually tested self-serve CTV ad managers. The UIs look nice, but I'm not sure how transparent the pricing really is and whether spots actually run on the premium apps advertised in those bundles. On the flip side, I do see the appeal of skipping the full DSP/IO process for smaller test budgets. Anyone here run real campaigns through one of these? Which platform, and would you book again? Thank you 🙏",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
