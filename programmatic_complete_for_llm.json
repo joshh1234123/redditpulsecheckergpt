@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-28T07:59:24.742311+00:00",
-    "total_posts": 1861,
+    "scrape_date": "2026-07-28T10:37:49.662471+00:00",
+    "total_posts": 1862,
     "total_comments": 10093
   },
   "discussions": [
@@ -87830,6 +87830,20 @@
           "created_utc": 1785211936.0
         }
       ]
+    },
+    {
+      "id": "1v8sa3j",
+      "title": "Adops flight simulator",
+      "author": "Lucky_Cardiologist_5",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8sa3j/adops_flight_simulator/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8sa3j/adops_flight_simulator/",
+      "created_utc": 1785227702.0,
+      "content": "Hi all,\n\nI'm Senior AdOps and ad trafficker (weird name for a legal profession).   \n  \nAnyways, when I had to become main contact point of pogrammatic info/debugging I had to learn from Confluence pages and powerpoint slides. \n\nI had some free time in the last 2 weeks so I tried building new learning tool. The tool itself is basically a AdOps flight simulator mostly based on oRTB. I tried making it as close as possible to simulate what I had to do in previous company and added some additional stuff AdOps people tend to solve on daily basis.\n\nHere is the tool, free and without login. feel free to try it out and if there is any feedback please share it with me :) (Any feedback is good feedback at such an early stage).\n\n[https://adopscore.com/](https://adopscore.com/)",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
