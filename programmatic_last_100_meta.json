@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ud1wlj",
-      "title": "Is anyone tracking how fast verification IPs get fingerprinted by the sell side?",
-      "author": "Individual-Relief131",
-      "score": 1,
-      "url": "/r/adtech/comments/1ud1vhs/is_anyone_tracking_how_fast_verification_ips_get/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ud1wlj/is_anyone_tracking_how_fast_verification_ips_get/",
-      "created_utc": 1782174260.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ud901v",
       "title": "AdForm - getting campaign ID from Meta Ads",
       "author": "IndividualGiraffe224",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785184190.0,
       "content": "This “optimization” was auto applied to two of my Display campaigns last week and delivery has stopped completely since - this issue has since been escalated to TTD engineers for support but I’m curious, has anyone else seen this before?? I can’t find anything in any campaign rails that would tell me what the purpose of this optimization is and I can’t figure out how to remove it on my own. Campaigns are delivering to 3P audiences with more than enough scale on the SP500+",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v8n9qn",
+      "title": "Why does making these ads still feel so painful in 2026?",
+      "author": "SoriffMdD1885",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "created_utc": 1785211590.0,
+      "content": "Maybe it's just me, but HTML5 ad production feels old like its frozen in like 2016🤦‍♂️.\n\nEvery campaign runs the same loop. Design looks solid, then boom, you need 10 plus sizes. Then animation tweaks. Then the files are too heavy. Then QA. Then something breaks the second you upload.\n\nTried a mix of tools and none of them feel smooth all the way through. They're either t**oo design focused** or **way too dev heavy.**\n\nSo how are you all dealing with this now? Outsourcing it, using some platform, or just suffering through it😭😭😭😭?\n\n",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

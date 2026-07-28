@@ -1019,6 +1019,21 @@
       "link_flair_text": null,
       "thread_id": "1v8c9bb",
       "thread_path": "1v8c9bb.json"
+    },
+    {
+      "id": "1v8n9qn",
+      "title": "Why does making these ads still feel so painful in 2026?",
+      "author": "SoriffMdD1885",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "created_utc": 1785211590.0,
+      "content": "Maybe it's just me, but HTML5 ad production feels old like its frozen in like 2016🤦‍♂️.\n\nEvery campaign runs the same loop. Design looks solid, then boom, you need 10 plus sizes. Then animation tweaks. Then the files are too heavy. Then QA. Then something breaks the second you upload.\n\nTried a mix of tools and none of them feel smooth all the way through. They're either t**oo design focused** or **way too dev heavy.**\n\nSo how are you all dealing with this now? Outsourcing it, using some platform, or just suffering through it😭😭😭😭?\n\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1v8n9qn",
+      "thread_path": "1v8n9qn.json"
     }
   ]
 }

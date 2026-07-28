@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-28T02:07:43.118366+00:00",
-    "total_posts": 1860,
-    "total_comments": 10092
+    "scrape_date": "2026-07-28T05:28:26.533219+00:00",
+    "total_posts": 1861,
+    "total_comments": 10093
   },
   "discussions": [
     {
@@ -87807,6 +87807,27 @@
           "body": "Yesss totally hear you, I’m just trying to troubleshoot what happened to block all delivery ",
           "score": 1,
           "created_utc": 1785186634.0
+        }
+      ]
+    },
+    {
+      "id": "1v8n9qn",
+      "title": "Why does making these ads still feel so painful in 2026?",
+      "author": "SoriffMdD1885",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8n9qn/why_does_making_these_ads_still_feel_so_painful/",
+      "created_utc": 1785211590.0,
+      "content": "Maybe it's just me, but HTML5 ad production feels old like its frozen in like 2016🤦‍♂️.\n\nEvery campaign runs the same loop. Design looks solid, then boom, you need 10 plus sizes. Then animation tweaks. Then the files are too heavy. Then QA. Then something breaks the second you upload.\n\nTried a mix of tools and none of them feel smooth all the way through. They're either t**oo design focused** or **way too dev heavy.**\n\nSo how are you all dealing with this now? Outsourcing it, using some platform, or just suffering through it😭😭😭😭?\n\n",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "smxus",
+          "body": "We work this for serveral clients. They outsource production to us. Yes gamified creatives and sizes are challenging but we also provide serving at an affordable cost as our main clients are agency’s yo reduce their backlog",
+          "score": 2,
+          "created_utc": 1785211936.0
         }
       ]
     }
