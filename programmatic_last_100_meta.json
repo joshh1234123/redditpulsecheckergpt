@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1udkfbv",
-      "title": "Walmart to Acquire Vibe.co",
-      "author": "goodgoaj",
-      "score": 9,
-      "url": "https://corporate.walmart.com/news/2026/06/23/walmart-to-acquire-vibe-co-to-expand-access-to-connected-tv-advertising",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1udkfbv/walmart_to_acquire_vibeco/",
-      "created_utc": 1782228749.0,
-      "content": "Not quite sure Walmart did their homework 👀",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uds9di",
       "title": "Nike Lebron Ad expanded from vertical to CTV",
       "author": "ItsTheWeeBabySeamus",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v9d3um/any_interview_tipsinfo_on_the_rolewhat_its_like/",
       "created_utc": 1785277063.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1v9srjs",
+      "title": "Amazon DSP question. Do you have access to ready made Netflix deals?",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
+      "created_utc": 1785322483.0,
+      "content": "Until now the path for Netflix on Amazon DSP was only proposals interface. Make one, wait, accept, and configure it properly.\n\nI can now see ready made Netflix deals in the Amazon inventory since a few days but no official announcements, and my amazon contacts are silent. Likely on holidays, not a secret they were going to lunch this.\n\nIs that live for everyone, or is my account seeing something early? (I am part of many betas)",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

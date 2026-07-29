@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-29T08:03:18.375568+00:00",
-    "total_posts": 1863,
+    "scrape_date": "2026-07-29T11:00:47.579492+00:00",
+    "total_posts": 1864,
     "total_comments": 10093
   },
   "discussions": [
@@ -87854,6 +87854,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1v9d3um/any_interview_tipsinfo_on_the_rolewhat_its_like/",
       "created_utc": 1785277063.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1v9srjs",
+      "title": "Amazon DSP question. Do you have access to ready made Netflix deals?",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
+      "created_utc": 1785322483.0,
+      "content": "Until now the path for Netflix on Amazon DSP was only proposals interface. Make one, wait, accept, and configure it properly.\n\nI can now see ready made Netflix deals in the Amazon inventory since a few days but no official announcements, and my amazon contacts are silent. Likely on holidays, not a secret they were going to lunch this.\n\nIs that live for everyone, or is my account seeing something early? (I am part of many betas)",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
