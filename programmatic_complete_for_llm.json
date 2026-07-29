@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-29T22:54:39.799559+00:00",
-    "total_posts": 1865,
+    "scrape_date": "2026-07-29T23:55:38.586010+00:00",
+    "total_posts": 1866,
     "total_comments": 10094
   },
   "discussions": [
@@ -87893,6 +87893,20 @@
           "created_utc": 1785327735.0
         }
       ]
+    },
+    {
+      "id": "1vacnbi",
+      "title": "Netflix now available Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vacnbi/netflix_now_available_amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vacnbi/netflix_now_available_amazon_ads/",
+      "created_utc": 1785367569.0,
+      "content": "Anyone running Netflix on Amazon, see that it’s now available.\n\nHow many days does take creative to be reviewed and approved.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
