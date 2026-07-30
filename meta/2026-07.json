@@ -1109,6 +1109,21 @@
       "link_flair_text": null,
       "thread_id": "1vacnbi",
       "thread_path": "1vacnbi.json"
+    },
+    {
+      "id": "1vagsu8",
+      "title": "Prisma > TTD",
+      "author": "Causel_Effect",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vagsu8/prisma_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vagsu8/prisma_ttd/",
+      "created_utc": 1785378509.0,
+      "content": "I used to think that Prisma was the worst platform to work with - WRONG! You ever try selecting adgroups to bulk update in TTD?\n\nGood luck with that! Click the box, wait 45 seconds, box selected. What the fuck are they doing over there?\n\nI thought they were the smartest guys in the room 10 years ago.\n\nJeff Green get off your boat and try doing a creative mapping in your platform. Look at what you created.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vagsu8",
+      "thread_path": "1vagsu8.json"
     }
   ]
 }
