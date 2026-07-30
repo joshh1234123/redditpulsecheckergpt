@@ -1124,6 +1124,21 @@
       "link_flair_text": null,
       "thread_id": "1vagsu8",
       "thread_path": "1vagsu8.json"
+    },
+    {
+      "id": "1vay27u",
+      "title": "Missing Ads.txt Lines",
+      "author": "Financial_Match5880",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
+      "created_utc": 1785427914.0,
+      "content": "I’m a newbie to adtech and work for a top 3 SSP, one of the largest issues I come across in terms of monetization is publishers who are sending us requests for supply that doesn’t have our ads.txt present. \n\nIt seems like a simple enough fix, just add the line to the page and it will start monetizing and stop wasting the requests. However I’ve come to learn this is not a simple fix and pubs rarely add the line when we make the request.\n\nCan someone explain why this is such an issue in the industry? ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vay27u",
+      "thread_path": "1vay27u.json"
     }
   ]
 }

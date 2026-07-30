@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ueb4rz",
-      "title": "Extended probation",
-      "author": "ImpressiveRich1466",
-      "score": 1,
-      "url": "/r/advertising/comments/1ueb4aw/extended_probation/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ueb4rz/extended_probation/",
-      "created_utc": 1782301280.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ueboe5",
       "title": "Why some impressions attract more advertiser spend than others",
       "author": "sevioadmanager",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785378509.0,
       "content": "I used to think that Prisma was the worst platform to work with - WRONG! You ever try selecting adgroups to bulk update in TTD?\n\nGood luck with that! Click the box, wait 45 seconds, box selected. What the fuck are they doing over there?\n\nI thought they were the smartest guys in the room 10 years ago.\n\nJeff Green get off your boat and try doing a creative mapping in your platform. Look at what you created.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vay27u",
+      "title": "Missing Ads.txt Lines",
+      "author": "Financial_Match5880",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
+      "created_utc": 1785427914.0,
+      "content": "I’m a newbie to adtech and work for a top 3 SSP, one of the largest issues I come across in terms of monetization is publishers who are sending us requests for supply that doesn’t have our ads.txt present. \n\nIt seems like a simple enough fix, just add the line to the page and it will start monetizing and stop wasting the requests. However I’ve come to learn this is not a simple fix and pubs rarely add the line when we make the request.\n\nCan someone explain why this is such an issue in the industry? ",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
