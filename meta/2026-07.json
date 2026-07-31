@@ -1169,6 +1169,21 @@
       "link_flair_text": null,
       "thread_id": "1vbu10z",
       "thread_path": "1vbu10z.json"
+    },
+    {
+      "id": "1vbxjln",
+      "title": "Anyone working on ARTF bidding containers? Either from the host (SSP/exchange) side or the agentic bidder side?",
+      "author": "adalphaboi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vbxjln/anyone_working_on_artf_bidding_containers_either/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbxjln/anyone_working_on_artf_bidding_containers_either/",
+      "created_utc": 1785519020.0,
+      "content": "Hi everyone,\n\nI worked in programmatic for about 5 years before quitting to start my own software company that builds AI agents and automates workflows in 2019. That company is now kind of on autopilot as a self-serve SaaS tool and I'm looking at new opportunities.\n\nWhen I recently read about the ARTF spec from IAB, I immediately got excited since it combines the two things I've been mainly focused in for my career. I put on my founder hat and started building a prototype for a product that I think should exist in the market for hosts and agentic bidders. However, what I've learned through previous experience is I can get carried away with building something where I'm the only one who thinks it should exist/work the way it does and it becomes useless to others. I'd like to avoid that mistake this time around. \n\nIf your team/company is currently looking into ARTF agents and container environments, I'd love to get a sense of your current process and workflow. If you're a bidder/curator, how are you packaging and deploying into host containers? If you're a host, how are you accepting/deploying bidders into your container?\n\nI've had a few conversations with folks in my old network at a broader level and heard \"Everyone is scrambling to get something out there and are feeling the pain right now\" so I just want to uncover what the pain actually is to validate this product idea.   \n  \nFeel free to DM me as well if you don't want to comment to remain anonymous (I completely respect that since this is such a cutthroat industry)\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vbxjln",
+      "thread_path": "1vbxjln.json"
     }
   ]
 }
