@@ -1139,6 +1139,21 @@
       "link_flair_text": null,
       "thread_id": "1vay27u",
       "thread_path": "1vay27u.json"
+    },
+    {
+      "id": "1vbf3lm",
+      "title": "I got tired of manually decoding nested URL params and JSON payloads, so I built a purely client-side visualizer.",
+      "author": "Melodic-Middle-4265",
+      "score": 1,
+      "url": "/r/advertising/comments/1vbf2la/i_got_tired_of_manually_decoding_nested_url/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbf3lm/i_got_tired_of_manually_decoding_nested_url/",
+      "created_utc": 1785468162.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vbf3lm",
+      "thread_path": "1vbf3lm.json"
     }
   ]
 }

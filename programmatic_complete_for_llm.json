@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-31T00:00:27.489123+00:00",
-    "total_posts": 1868,
+    "scrape_date": "2026-07-31T03:27:27.003851+00:00",
+    "total_posts": 1869,
     "total_comments": 10096
   },
   "discussions": [
@@ -87948,6 +87948,20 @@
           "created_utc": 1785429463.0
         }
       ]
+    },
+    {
+      "id": "1vbf3lm",
+      "title": "I got tired of manually decoding nested URL params and JSON payloads, so I built a purely client-side visualizer.",
+      "author": "Melodic-Middle-4265",
+      "score": 1,
+      "url": "/r/advertising/comments/1vbf2la/i_got_tired_of_manually_decoding_nested_url/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbf3lm/i_got_tired_of_manually_decoding_nested_url/",
+      "created_utc": 1785468162.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

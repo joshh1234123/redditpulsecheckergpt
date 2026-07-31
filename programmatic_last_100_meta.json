@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ueboe5",
-      "title": "Why some impressions attract more advertiser spend than others",
-      "author": "sevioadmanager",
-      "score": 1,
-      "url": "/r/u_sevioadmanager/comments/1udcxv0/why_some_impressions_attract_more_advertiser/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ueboe5/why_some_impressions_attract_more_advertiser/",
-      "created_utc": 1782302851.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uecmde",
       "title": "How much of CTV targeting is still snake oil.",
       "author": "RightGirl19",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785427914.0,
       "content": "I’m a newbie to adtech and work for a top 3 SSP, one of the largest issues I come across in terms of monetization is publishers who are sending us requests for supply that doesn’t have our ads.txt present. \n\nIt seems like a simple enough fix, just add the line to the page and it will start monetizing and stop wasting the requests. However I’ve come to learn this is not a simple fix and pubs rarely add the line when we make the request.\n\nCan someone explain why this is such an issue in the industry? ",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vbf3lm",
+      "title": "I got tired of manually decoding nested URL params and JSON payloads, so I built a purely client-side visualizer.",
+      "author": "Melodic-Middle-4265",
+      "score": 1,
+      "url": "/r/advertising/comments/1vbf2la/i_got_tired_of_manually_decoding_nested_url/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbf3lm/i_got_tired_of_manually_decoding_nested_url/",
+      "created_utc": 1785468162.0,
+      "content": "",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
