@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-07-31T13:46:24.200609+00:00",
-    "total_posts": 1869,
+    "scrape_date": "2026-07-31T15:57:25.506948+00:00",
+    "total_posts": 1870,
     "total_comments": 10096
   },
   "discussions": [
@@ -87959,6 +87959,20 @@
       "created_utc": 1785468162.0,
       "content": "",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vbu10z",
+      "title": "Has anyone heard from Filmzie(A Parent Media Co. Inc.) lately?",
+      "author": "MurkyWillingness7917",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vbu10z/has_anyone_heard_from_filmziea_parent_media_co/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbu10z/has_anyone_heard_from_filmziea_parent_media_co/",
+      "created_utc": 1785511450.0,
+      "content": "Has anyone worked with or communicated with Filmzie (A Parent Media Co. Inc.) recently? We've been attempting to reach them regarding a significant outstanding balance, but all of our recent efforts to make contact have been unsuccessful.\n\nIf you have any recent information or know the best way to get in touch with their team, I'd sincerely appreciate your help.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
       "comments": []
