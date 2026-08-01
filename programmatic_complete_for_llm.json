@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-01T08:07:52.362800+00:00",
-    "total_posts": 1872,
+    "scrape_date": "2026-08-01T10:14:46.640125+00:00",
+    "total_posts": 1873,
     "total_comments": 10097
   },
   "discussions": [
@@ -88011,6 +88011,20 @@
           "created_utc": 1785540893.0
         }
       ]
+    },
+    {
+      "id": "1vcjge5",
+      "title": "Dentsu Global Services Associate Manager – Programmatic Hiring Process",
+      "author": "Jirekshun",
+      "score": 1,
+      "url": "/r/advertising/comments/1vcjfkn/dentsu_global_services_associate_manager/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vcjge5/dentsu_global_services_associate_manager/",
+      "created_utc": 1785578979.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
