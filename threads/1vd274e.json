@@ -1,0 +1,76 @@
+{
+  "id": "1vd274e",
+  "thread_id": "1vd274e",
+  "title": "How do you get Netflix Ads re-verified?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vd274e/how_do_you_get_netflix_ads_reverified/",
+  "created_utc": 1785627269.0,
+  "num_comments": 14,
+  "comments": [
+    {
+      "author": "rocketeer_01",
+      "body": "Hey! Is it a VAST tag that was uploaded or the actual video creative file? If it's a VAST tag maybe there could be a possibility that Vpaid is enabled in the tag. I'd say best thing to do is upload the actual creative asset",
+      "score": 1,
+      "created_utc": 1785630315.0
+    },
+    {
+      "author": "rocketeer_01",
+      "body": "Additionally what content does that creative have?",
+      "score": 1,
+      "created_utc": 1785630610.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "I’m not using vast tags ",
+      "score": 1,
+      "created_utc": 1785630505.0
+    },
+    {
+      "author": "rocketeer_01",
+      "body": "Okay that rules out one thing. Any tracking tags added?",
+      "score": 1,
+      "created_utc": 1785630570.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Nothing. Uploaded Standard Video 30 Second Spot thats it no other settings made.",
+      "score": 1,
+      "created_utc": 1785630800.0
+    },
+    {
+      "author": "rocketeer_01",
+      "body": "Honestly using Amazon DSP is annoying. Best is DV360 as it's a more manual process for them to approve it on Netflix side",
+      "score": 1,
+      "created_utc": 1785631069.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "I guess I can do an instant deal on DV360. I use that as well. Just saw with Amazon its a floor of $25 vs DV360 its a commitment for X weeks using instant quote",
+      "score": 1,
+      "created_utc": 1785631141.0
+    },
+    {
+      "author": "rocketeer_01",
+      "body": "I'd say keep DV360 as a backup if Amazon doesn't work",
+      "score": 1,
+      "created_utc": 1785631178.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Perperxiity Ai ran another model on the video claimed my file was 30.030030 seconds lol. So it trimmed it to exactly 30 so i re-uploaded it.",
+      "score": 1,
+      "created_utc": 1785631257.0
+    },
+    {
+      "author": "rocketeer_01",
+      "body": "Haha maybe that might work",
+      "score": 1,
+      "created_utc": 1785631337.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "I was going to tell Fable it messed up but last time I did that it told me how flawed the other Ai models were.",
+      "score": 1,
+      "created_utc": 1785631384.0
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-01T23:27:03.261040+00:00",
-    "total_posts": 1873,
-    "total_comments": 10097
+    "scrape_date": "2026-08-02T01:05:12.276231+00:00",
+    "total_posts": 1874,
+    "total_comments": 10108
   },
   "discussions": [
     {
@@ -88025,6 +88025,87 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vd274e",
+      "title": "How do you get Netflix Ads re-verified?",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vd274e/how_do_you_get_netflix_ads_reverified/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vd274e/how_do_you_get_netflix_ads_reverified/",
+      "created_utc": 1785627269.0,
+      "content": "I read the Netflix ad specs and my video meets all criteria. Even had Claude Fable check the file and compare it again to their website and it met all requirements but keep getting this error. Also I emailed Netflix but no reply, I assume they only reply to Support requests for people spending $$ vs people using Netflix deal on Amazon Ads. Even Amazon Ads support had no idea how to resolve it.\n\nhttps://preview.redd.it/i72uihbmmugh1.png?width=820&format=png&auto=webp&s=4d36da3627e71d6581a3ac4095d785e20801c4bb\n\n",
+      "num_comments": 14,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "rocketeer_01",
+          "body": "Hey! Is it a VAST tag that was uploaded or the actual video creative file? If it's a VAST tag maybe there could be a possibility that Vpaid is enabled in the tag. I'd say best thing to do is upload the actual creative asset",
+          "score": 1,
+          "created_utc": 1785630315.0
+        },
+        {
+          "author": "rocketeer_01",
+          "body": "Additionally what content does that creative have?",
+          "score": 1,
+          "created_utc": 1785630610.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "I’m not using vast tags ",
+          "score": 1,
+          "created_utc": 1785630505.0
+        },
+        {
+          "author": "rocketeer_01",
+          "body": "Okay that rules out one thing. Any tracking tags added?",
+          "score": 1,
+          "created_utc": 1785630570.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Nothing. Uploaded Standard Video 30 Second Spot thats it no other settings made.",
+          "score": 1,
+          "created_utc": 1785630800.0
+        },
+        {
+          "author": "rocketeer_01",
+          "body": "Honestly using Amazon DSP is annoying. Best is DV360 as it's a more manual process for them to approve it on Netflix side",
+          "score": 1,
+          "created_utc": 1785631069.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "I guess I can do an instant deal on DV360. I use that as well. Just saw with Amazon its a floor of $25 vs DV360 its a commitment for X weeks using instant quote",
+          "score": 1,
+          "created_utc": 1785631141.0
+        },
+        {
+          "author": "rocketeer_01",
+          "body": "I'd say keep DV360 as a backup if Amazon doesn't work",
+          "score": 1,
+          "created_utc": 1785631178.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Perperxiity Ai ran another model on the video claimed my file was 30.030030 seconds lol. So it trimmed it to exactly 30 so i re-uploaded it.",
+          "score": 1,
+          "created_utc": 1785631257.0
+        },
+        {
+          "author": "rocketeer_01",
+          "body": "Haha maybe that might work",
+          "score": 1,
+          "created_utc": 1785631337.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "I was going to tell Fable it messed up but last time I did that it told me how flawed the other Ai models were.",
+          "score": 1,
+          "created_utc": 1785631384.0
+        }
+      ]
     }
   ]
 }
