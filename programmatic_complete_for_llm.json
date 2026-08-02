@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-02T14:24:33.463119+00:00",
-    "total_posts": 1874,
+    "scrape_date": "2026-08-02T15:35:58.781047+00:00",
+    "total_posts": 1875,
     "total_comments": 10108
   },
   "discussions": [
@@ -88106,6 +88106,20 @@
           "created_utc": 1785631384.0
         }
       ]
+    },
+    {
+      "id": "1vdl2sb",
+      "title": "Meta brand safety",
+      "author": "linuz14",
+      "score": 1,
+      "url": "/r/FacebookAds/comments/1vdbkly/meta_brand_safety/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vdl2sb/meta_brand_safety/",
+      "created_utc": 1785684722.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
