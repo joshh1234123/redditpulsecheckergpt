@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ufz6vg",
-      "title": "Question about maintaining frequency",
-      "author": "Pitiful_Camel6790",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ufz6vg/question_about_maintaining_frequency/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ufz6vg/question_about_maintaining_frequency/",
-      "created_utc": 1782456566.0,
-      "content": "Hey community,\n\nTldr: how to maintain a certain frequency in amazon and TTD in both pg and PMP deals.\n\nContext: I'm running a few PG and PMP-only campaigns on TTD and Amazon DSP for a client. Since we're working month-to-month, the client wants a minimum monthly frequency of 3-4. Our partners include Spotify and Amazon Prime (PG), plus a few others on PMP.\n\nProblem: I'm struggling to hit that frequency floor. I've set a max cap of 6-7/month, but when I pull reports, I'm only seeing 1.5-2 so far. I've checked in with TTD, Amazon, and the partners directly, but haven't gotten a clear answer.\n\nAmazon's response: since this is a self-service PG campaign, frequency control sits on my end via the cap I set — but a max cap only limits the ceiling, it doesn't guarantee the minimum we're targeting. TTD said something similar (and separately, for reach/frequency reporting — is the metric based on unique IDs or unique persons in TTD). The partners said they have frequency settings on their side, but I'm not seeing that reflected in my reporting.\n\nSo my question is: is there a workaround, or any way to actually maintain a target frequency across both platforms?\n\nUsed AI to rephrase.",
-      "num_comments": 14,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ufzfqg",
       "title": "starting a digitalbill board advertising brand.",
       "author": "According_Novel_3614",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vef9pt/any_predictions/",
       "created_utc": 1785767860.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vem4tc",
+      "title": "Publishers are starting to whitelist AI crawlers instead of blocking them",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
+      "created_utc": 1785782677.0,
+      "content": "Been noticing a shift lately.  \n  \nFor years, the default assumption was that crawlers were just part of the web. Now we're seeing publishers like Reuters and TIME move toward approved bot lists instead of letting every AI crawler in.  \n  \nWhat caught my attention is that this feels less like a copyright discussion and more like a value exchange discussion.  \n  \nIf an AI platform is consuming publisher content, what does the publisher actually get back? Referral traffic? Licensing revenue? Visibility? Something else?  \n  \nWe've spent years talking about which demand partners deserve access to inventory. Feels like publishers are starting to ask a similar question about AI agents and crawlers.  \n  \nCurious how people here think this plays out.  \n  \nDo most publishers eventually end up with crawler whitelists?  \n  \nOr does blocking too aggressively risk cutting yourself off from a meaningful source of future traffic?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

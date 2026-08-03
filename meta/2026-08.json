@@ -74,6 +74,21 @@
       "link_flair_text": null,
       "thread_id": "1vef9pt",
       "thread_path": "1vef9pt.json"
+    },
+    {
+      "id": "1vem4tc",
+      "title": "Publishers are starting to whitelist AI crawlers instead of blocking them",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
+      "created_utc": 1785782677.0,
+      "content": "Been noticing a shift lately.  \n  \nFor years, the default assumption was that crawlers were just part of the web. Now we're seeing publishers like Reuters and TIME move toward approved bot lists instead of letting every AI crawler in.  \n  \nWhat caught my attention is that this feels less like a copyright discussion and more like a value exchange discussion.  \n  \nIf an AI platform is consuming publisher content, what does the publisher actually get back? Referral traffic? Licensing revenue? Visibility? Something else?  \n  \nWe've spent years talking about which demand partners deserve access to inventory. Feels like publishers are starting to ask a similar question about AI agents and crawlers.  \n  \nCurious how people here think this plays out.  \n  \nDo most publishers eventually end up with crawler whitelists?  \n  \nOr does blocking too aggressively risk cutting yourself off from a meaningful source of future traffic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vem4tc",
+      "thread_path": "1vem4tc.json"
     }
   ]
 }
