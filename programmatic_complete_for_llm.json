@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-03T14:29:08.321567+00:00",
-    "total_posts": 1876,
+    "scrape_date": "2026-08-03T16:56:10.726525+00:00",
+    "total_posts": 1877,
     "total_comments": 10108
   },
   "discussions": [
@@ -88130,6 +88130,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1ve6q0d/best_way_to_calculate_reach/",
       "created_utc": 1785742898.0,
       "content": "How do you guys plan yearly reach etc when getting these requests?\n\nGoogles product are so bad that I might run the same plan 2 days later and the numbers are completely different.\n\nWhat to do in this case?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vef9pt",
+      "title": "Any predictions?",
+      "author": "u_of_digital",
+      "score": 1,
+      "url": "https://i.redd.it/ik07pg3086hh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vef9pt/any_predictions/",
+      "created_utc": 1785767860.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
