@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-03T04:58:56.031058+00:00",
-    "total_posts": 1875,
+    "scrape_date": "2026-08-03T08:29:14.005861+00:00",
+    "total_posts": 1876,
     "total_comments": 10108
   },
   "discussions": [
@@ -88116,6 +88116,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vdl2sb/meta_brand_safety/",
       "created_utc": 1785684722.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1ve6q0d",
+      "title": "Best way to calculate reach?",
+      "author": "TheGrandLeveler",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ve6q0d/best_way_to_calculate_reach/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ve6q0d/best_way_to_calculate_reach/",
+      "created_utc": 1785742898.0,
+      "content": "How do you guys plan yearly reach etc when getting these requests?\n\nGoogles product are so bad that I might run the same plan 2 days later and the numbers are completely different.\n\nWhat to do in this case?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
