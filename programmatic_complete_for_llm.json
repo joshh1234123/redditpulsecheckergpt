@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-03T18:45:26.993538+00:00",
-    "total_posts": 1878,
-    "total_comments": 10108
+    "scrape_date": "2026-08-03T20:21:48.165784+00:00",
+    "total_posts": 1879,
+    "total_comments": 10110
   },
   "discussions": [
     {
@@ -88162,6 +88162,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1venpas",
+      "title": "GroundTruth",
+      "author": "Green-Yak3585",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1venpas/groundtruth/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1venpas/groundtruth/",
+      "created_utc": 1785786114.0,
+      "content": "Anyone ever utilize GroundTruth? Was evaluating platforms and came across them",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MrSnugs",
+          "body": "What’s your goal. That can help to know ",
+          "score": 1,
+          "created_utc": 1785786523.0
+        },
+        {
+          "author": "Green-Yak3585",
+          "body": "I've got a couple of clients interested in top of funnel awareness and a few interested in more bottom funnel performance. It looks like you can buy across a number of different media channels through their platform (CTV / DOOH / OTT / direct mail) and was more so curious as to whether it makes sense to go through GroundTruth or through a provider that specializes specifically in those channels that I mentioned. Purely exploratory at the moment with them and just curious to hear whether people have had a good / negative experience.  ",
+          "score": 1,
+          "created_utc": 1785788375.0
+        }
+      ]
     }
   ]
 }
