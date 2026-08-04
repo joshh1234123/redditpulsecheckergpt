@@ -119,6 +119,21 @@
       "link_flair_text": null,
       "thread_id": "1vf1nxt",
       "thread_path": "1vf1nxt.json"
+    },
+    {
+      "id": "1vfd2jx",
+      "title": "Who actually owns the ads.txt process for your website?",
+      "author": "Sasha-programmatic",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "created_utc": 1785856157.0,
+      "content": "I’m curious about how publishers manage ads.txt internally. When a new SSP asks you to add lines, who is responsible for reviewing and publishing them in your website? Is it handled by Ad Ops, the programmatic team, IT or the site owner?\n\nIt seems like a very simple task but in larger organizations it can easily fall between teams. Or for example, how often do you update your ads.txt? Do you usually add new lines without much friction?\n\nInterested to hear how others manage it and whether ads.txt updates are a smooth process or a recurring operational headache.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vfd2jx",
+      "thread_path": "1vfd2jx.json"
     }
   ]
 }

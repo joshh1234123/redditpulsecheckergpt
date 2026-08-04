@@ -1,0 +1,16 @@
+{
+  "id": "1vfd2jx",
+  "thread_id": "1vfd2jx",
+  "title": "Who actually owns the ads.txt process for your website?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+  "created_utc": 1785856157.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "masonstorm20",
+      "body": "All over the place - I was responsible for managing ads.txt at several large publishers as the programmatic lead. Some require their engineering team to do it and that leads to it taking way longer than it should, sometimes even leading to formatting problems bc they dont know better. I never had this experience, but ive heard some also need legal approval. \n\nIf they didn’t have an easy process already, I made my teams build a backend tool so I could update it myself whenever I wanted, just a basic text field that would automate a timestamp and say who changed it when updated. Id incessantly ask them for updates until they gave in giving me a tool.",
+      "score": 1,
+      "created_utc": 1785857501.0
+    }
+  ]
+}

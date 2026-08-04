@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ug798e",
-      "title": "Media Buyer",
-      "author": "Sam-theRedditUser",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ug798e/media_buyer/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ug798e/media_buyer/",
-      "created_utc": 1782481399.0,
-      "content": "I have 5+ years of experience running Meta Ads and have managed campaigns for 200+ US dental practices, specializing in the dental implant market. I’ve worked on everything from campaign strategy and scaling to creative testing, optimization, and lead generation.\n\nDoes anyone know where can I get new Media Buyer opportunity in the UK (remote or hybrid).",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uhuc08",
       "title": "How Did You Break Out of Campaign Execution?",
       "author": "Exotic-Court-9430",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785822730.0,
       "content": "I'm planning to resign from my current job. I have close to 4 years of experience in programmatic advertising and hands on experience on DV360, CM360, Google Ads, Meta Ads, Linkedin Ads, and StackAdapt. I'm currently working at a top MNC advertising agency as a senior analyst and getting  \n9.10 LPA. The main challenge is that I work in night shift from 9PM to 6AM and after work I feel exhausted and drowsy every day. Because of this, I haven't been able to prepare properly for interviews, and I haven't received any offers yet. I'm thinking of resigning and taking a break of one or two weeks to focus entirely on interview preparation and upskilling. Do you think this is a good idea? Is it practical to resign first and then search for a job?  \nEven if I take a week's break after leaving my current organization, do you think I can still get a good offer?  \nMy target for my next role is around 13 to 14 LPA.  \nAnd looking for Day shift or EMEA shift not night shift. Considering my experience and skill set, do you think this is achievable?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vfd2jx",
+      "title": "Who actually owns the ads.txt process for your website?",
+      "author": "Sasha-programmatic",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "created_utc": 1785856157.0,
+      "content": "I’m curious about how publishers manage ads.txt internally. When a new SSP asks you to add lines, who is responsible for reviewing and publishing them in your website? Is it handled by Ad Ops, the programmatic team, IT or the site owner?\n\nIt seems like a very simple task but in larger organizations it can easily fall between teams. Or for example, how often do you update your ads.txt? Do you usually add new lines without much friction?\n\nInterested to hear how others manage it and whether ads.txt updates are a smooth process or a recurring operational headache.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

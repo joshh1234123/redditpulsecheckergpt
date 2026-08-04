@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-04T13:52:41.628169+00:00",
-    "total_posts": 1880,
-    "total_comments": 10110
+    "scrape_date": "2026-08-04T16:08:26.429742+00:00",
+    "total_posts": 1881,
+    "total_comments": 10111
   },
   "discussions": [
     {
@@ -88203,6 +88203,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vfd2jx",
+      "title": "Who actually owns the ads.txt process for your website?",
+      "author": "Sasha-programmatic",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
+      "created_utc": 1785856157.0,
+      "content": "I’m curious about how publishers manage ads.txt internally. When a new SSP asks you to add lines, who is responsible for reviewing and publishing them in your website? Is it handled by Ad Ops, the programmatic team, IT or the site owner?\n\nIt seems like a very simple task but in larger organizations it can easily fall between teams. Or for example, how often do you update your ads.txt? Do you usually add new lines without much friction?\n\nInterested to hear how others manage it and whether ads.txt updates are a smooth process or a recurring operational headache.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "masonstorm20",
+          "body": "All over the place - I was responsible for managing ads.txt at several large publishers as the programmatic lead. Some require their engineering team to do it and that leads to it taking way longer than it should, sometimes even leading to formatting problems bc they dont know better. I never had this experience, but ive heard some also need legal approval. \n\nIf they didn’t have an easy process already, I made my teams build a backend tool so I could update it myself whenever I wanted, just a basic text field that would automate a timestamp and say who changed it when updated. Id incessantly ask them for updates until they gave in giving me a tool.",
+          "score": 1,
+          "created_utc": 1785857501.0
+        }
+      ]
     }
   ]
 }
