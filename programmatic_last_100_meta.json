@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uhze8v",
-      "title": "Welche Programmatic-Plattformen sind einfach zu bedienen für Einsteiger in der Schweiz?",
-      "author": "ewasolutions",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uhze8v/welche_programmaticplattformen_sind_einfach_zu/",
-      "created_utc": 1782658585.0,
-      "content": "Viele kleine Unternehmen finden Programmatic spannend, aber der Einstieg wirkt oft kompliziert: DSPs, Targeting, TKP, Whitelists, Reporting, Brand Safety usw.\n\nUns interessiert:\n\n\\- Wie seid ihr gestartet?\n\n\\- Was war am Anfang am schwierigsten?\n\n\\- Würdet ihr Einsteigern eher Self-Service, betreute Plattform oder Agentur empfehlen?\n\n\\- Wie wichtig sind klare Preise und persönliche Unterstützung?\n\nWir freuen uns auf Erfahrungen aus der Schweiz und dem DACH-Raum.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uio8rc",
       "title": "Working at StackAdapt?",
       "author": "Away-Egg6176",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785869088.0,
       "content": "**Ist eine Completion Rate von 50 % bei einer Visibility Rate (Sichtbarkeitsrate) von 70 % besser als Video Ads mit einer ähnlichen Completion Rate?**\n\n**Wir sehen, dass die CTR (Klickrate) bei In-Banner Video Ads besser ist als bei HTML5-Bannern. Hat jemand ähnliche Tests gemacht?**",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vfqlhl",
+      "title": "Not a programmatic question but anyone using an iPad as their primary device for remote work?",
+      "author": "proj93",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vfqlhl/not_a_programmatic_question_but_anyone_using_an/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfqlhl/not_a_programmatic_question_but_anyone_using_an/",
+      "created_utc": 1785886192.0,
+      "content": "I'll be traveling for the next couple of months and I'm exploring whether I can get away with using an iPad Air M-chip (probably buying one second-hand) while on the go. I currently don't know anyone who owns an iPad air/Pro so I am unable to test in person.\n\nThe idea is to use it primarily for monitoring campaigns, checking pacing, pulling reports, and making routine campaign changes and optimizations. For heavier tasks, I can always use a MacBook.\n\nFor those who've tried it, how's the experience? Do platforms like DV360 and TTD work well enough on iPadOS for day-to-day management? Any limitations or frustrations I should know about before I pull the trigger on buying one?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
