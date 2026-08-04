@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uhuc08",
-      "title": "How Did You Break Out of Campaign Execution?",
-      "author": "Exotic-Court-9430",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uhuc08/how_did_you_break_out_of_campaign_execution/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uhuc08/how_did_you_break_out_of_campaign_execution/",
-      "created_utc": 1782644343.0,
-      "content": "Hi Folks,\n\nI've been working in programmatic at an agency for a while now, and almost all of my work is in DV360, with some exposure to Amazon DSP as well.\n\nMy day-to-day is pretty much campaign setup, QA, trafficking, optimization, pacing, troubleshooting, reporting, and working across multiple campaigns almost every single day. I enjoy programmatic, but I'm starting to wonder what the long-term career path looks like.\n\nRight now, my plan is to become platform-agnostic by learning as many DSPs as possible (Amazon DSP, Xandr, The Trade Desk, etc.) so I'm not limited to one platform and become more valuable in the job market.\n\nBut I'm wondering if that's actually the best use of my time.\n\nFor those who've been in programmatic for 5-10+ years:\n\n\\- How did you progress beyond campaign execution?\n\n\\- What skills had the biggest impact on your salary and career growth?\n\n\\- Did you stay in programmatic, move client-side, get into ad tech, measurement, data, product, or something else?\n\n\\- If you were starting again from where I am today, what would you focus on?\n\nMy goal isn't just to become a better campaign manager. I'd like to build a career that's financially rewarding, has strong long-term prospects, and isn't limited to doing campaign setups forever.\n\nI'd really appreciate hearing from people who've actually made that journey. Thanks in advance!!",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uhze8v",
       "title": "Welche Programmatic-Plattformen sind einfach zu bedienen für Einsteiger in der Schweiz?",
       "author": "ewasolutions",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785856157.0,
       "content": "I’m curious about how publishers manage ads.txt internally. When a new SSP asks you to add lines, who is responsible for reviewing and publishing them in your website? Is it handled by Ad Ops, the programmatic team, IT or the site owner?\n\nIt seems like a very simple task but in larger organizations it can easily fall between teams. Or for example, how often do you update your ads.txt? Do you usually add new lines without much friction?\n\nInterested to hear how others manage it and whether ads.txt updates are a smooth process or a recurring operational headache.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vfj5um",
+      "title": "In Banner Video Programmatic Advertising",
+      "author": "ewasolutions",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vfj5um/in_banner_video_programmatic_advertising/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfj5um/in_banner_video_programmatic_advertising/",
+      "created_utc": 1785869088.0,
+      "content": "**Ist eine Completion Rate von 50 % bei einer Visibility Rate (Sichtbarkeitsrate) von 70 % besser als Video Ads mit einer ähnlichen Completion Rate?**\n\n**Wir sehen, dass die CTR (Klickrate) bei In-Banner Video Ads besser ist als bei HTML5-Bannern. Hat jemand ähnliche Tests gemacht?**",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
