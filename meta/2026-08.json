@@ -164,6 +164,21 @@
       "link_flair_text": null,
       "thread_id": "1vfqlhl",
       "thread_path": "1vfqlhl.json"
+    },
+    {
+      "id": "1vg5vhc",
+      "title": "Need Feedback on Targeting Within DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
+      "created_utc": 1785932647.0,
+      "content": "I am trying to reach a lot of people but I also want to avoid shows that kids only would watch. I noticed I can use the Digital Content Label however when I pull last nights impressions, majority are listed as \"Not yet labeled\".\n\n  \nOne thing I did also was:\n\nExclude the following genres\n\n/Arts & Entertainment/Comics & Animation/Cartoons\n\n/Arts & Entertainment/Movies/Animated Films\n\n/Arts & Entertainment/Comics & Animation/Anime & Manga\n\n  \nIs there anything else I can try to help narrow out and improve my odds?\n\n\n\n\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vg5vhc",
+      "thread_path": "1vg5vhc.json"
     }
   ]
 }

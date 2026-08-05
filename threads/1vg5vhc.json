@@ -1,0 +1,28 @@
+{
+  "id": "1vg5vhc",
+  "thread_id": "1vg5vhc",
+  "title": "Need Feedback on Targeting Within DV360",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
+  "created_utc": 1785932647.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "lifesizeisunderrated",
+      "body": "If you’re talking about YouTube specifically, you should be excluding “content suitable for families” in the advertiser level settings. This is YouTube’s “kids content” label",
+      "score": 1,
+      "created_utc": 1785933168.0
+    },
+    {
+      "author": "adtech101",
+      "body": "Have your pubs set up 1:1 deals and do it on their end. A lot of DV360 targeting is using GAM pub data so if they aren’t using GAM it doesn’t work. Even if pubs are passing content rating and genre in the bid request, google doesn’t use it and still allows advertisers to apply incompatible targeting. ",
+      "score": 1,
+      "created_utc": 1785933744.0
+    },
+    {
+      "author": "Enviromental1001",
+      "body": "Using Deals with Hulu, Disney+, Netfix etc . Avoiding YouTube",
+      "score": 1,
+      "created_utc": 1785933341.0
+    }
+  ]
+}

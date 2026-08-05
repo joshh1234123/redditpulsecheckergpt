@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-05T10:57:45.728767+00:00",
-    "total_posts": 1883,
-    "total_comments": 10113
+    "scrape_date": "2026-08-05T12:50:23.046036+00:00",
+    "total_posts": 1884,
+    "total_comments": 10116
   },
   "discussions": [
     {
@@ -88263,6 +88263,39 @@
           "body": "Don’t even do this. It’s not worth the effort on a small iPad or even iPad Pro. Need a bigger screen to get shit done. Annoying when you have to keep flipping through tabs and resizing windows. ",
           "score": 1,
           "created_utc": 1785887609.0
+        }
+      ]
+    },
+    {
+      "id": "1vg5vhc",
+      "title": "Need Feedback on Targeting Within DV360",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
+      "created_utc": 1785932647.0,
+      "content": "I am trying to reach a lot of people but I also want to avoid shows that kids only would watch. I noticed I can use the Digital Content Label however when I pull last nights impressions, majority are listed as \"Not yet labeled\".\n\n  \nOne thing I did also was:\n\nExclude the following genres\n\n/Arts & Entertainment/Comics & Animation/Cartoons\n\n/Arts & Entertainment/Movies/Animated Films\n\n/Arts & Entertainment/Comics & Animation/Anime & Manga\n\n  \nIs there anything else I can try to help narrow out and improve my odds?\n\n\n\n\n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "lifesizeisunderrated",
+          "body": "If you’re talking about YouTube specifically, you should be excluding “content suitable for families” in the advertiser level settings. This is YouTube’s “kids content” label",
+          "score": 1,
+          "created_utc": 1785933168.0
+        },
+        {
+          "author": "adtech101",
+          "body": "Have your pubs set up 1:1 deals and do it on their end. A lot of DV360 targeting is using GAM pub data so if they aren’t using GAM it doesn’t work. Even if pubs are passing content rating and genre in the bid request, google doesn’t use it and still allows advertisers to apply incompatible targeting. ",
+          "score": 1,
+          "created_utc": 1785933744.0
+        },
+        {
+          "author": "Enviromental1001",
+          "body": "Using Deals with Hulu, Disney+, Netfix etc . Avoiding YouTube",
+          "score": 1,
+          "created_utc": 1785933341.0
         }
       ]
     }
