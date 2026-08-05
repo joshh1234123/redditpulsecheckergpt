@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uiuwtj",
-      "title": "Anyone know a DV360 reseller that actually helps you learn the platform?",
-      "author": "rayanebed",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uiuwtj/anyone_know_a_dv360_reseller_that_actually_helps/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uiuwtj/anyone_know_a_dv360_reseller_that_actually_helps/",
-      "created_utc": 1782745224.0,
-      "content": "Every partner I've talked to basically says \"here's your login, good luck\" I need someone who'll actually jump on calls and help us build campaigns and troubleshoot.",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uiw4tf",
       "title": "Programmatic vs Ad ops",
       "author": "fikerdagmelidet",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785947253.0,
       "content": "Who has the tea? 🫖 ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vgdvpe",
+      "title": "SiriusXM on Amazon DSP is three different deal groups, and only one of them really carries SiriusXM",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vgdvpe/siriusxm_on_amazon_dsp_is_three_different_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vgdvpe/siriusxm_on_amazon_dsp_is_three_different_deal/",
+      "created_utc": 1785950734.0,
+      "content": "Amazon spent about a year pulling the big US audio sellers and podcasts into their platform. It all sits in one workflow now, which is the good news.\n\nWorking out what is actually inside a deal is slow and quietly confusing sometimes. And SiriusXM has been the most confusing so far.\n\n**Three groups of deals**\n\nSiriusXM owns Pandora, and it runs AdsWizz (an ads marketplace for other radio stations and podcasts), which arrived inside Pandora when it bought it. So one search in Amazon DSP returns three different buys sitting under the SiriusXM name:\n\n1. Pandora sold with SiriusXM Audio as roughly half the sellers, through Amazon Publisher Direct. The one group that genuinely carries SiriusXM, and the cheapest of the three.\n2. Pandora on its own, with `AmazonPA.AOD.` in the deal name. Same listeners, same price most times, no SiriusXM Audio in the seller mix. (AdsWizz)\n3. A curated US podcast marketplace under the \"SiriusXMMedia\" name, across multiple genres. (AdsWizz)\n\nAll three are real inventory and I would buy any of them against the right brief. Pandora is one of the largest ad supported streaming services in the country, and its connected car reach is interesting. The podcast marketplace is a decent podcast product with seller transparency.\n\nMy only issue is buying one while believing you bought another, because the most expensive of the three is the one with the least SiriusXM in it.\n\n**How to understand an Amazon deal**\n\nGo to your Amazon DSP and on the left bar click on Inventory. Use the search option and open the deal. Then go to the **Attributes** tab, read share of deal traffic. That is the column that answers who is actually selling this.\n\nDo not overtrust the **Apps and domains** card for it. It looks promising but the % does not always add up.\n\nIf you cannot see a deal library at all, you are probably on a subseat from your tool provider. Ask them for inventory access. If that does not work, you can reach me.\n\nNone of this is concealed. It is just not in the deal name, and a deal called SiriusXM Media does not read as somewhere you need to go diving into.\n\nThis covers the basics well. If you still want to know more I made a very detailed breakdown on my website, but for 90% of you this should be plenty.\n\n[https://victor.ad/academy/siriusxm-amazon-dsp](https://victor.ad/academy/siriusxm-amazon-dsp)",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
