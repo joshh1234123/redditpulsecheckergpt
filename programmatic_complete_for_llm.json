@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-05T18:22:22.016684+00:00",
-    "total_posts": 1886,
-    "total_comments": 10117
+    "scrape_date": "2026-08-05T20:04:02.733903+00:00",
+    "total_posts": 1887,
+    "total_comments": 10118
   },
   "discussions": [
     {
@@ -88333,6 +88333,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vghnxk",
+      "title": "came across an Adexchanger piece discussing whether AI generated content is contributing to a rise in MFA ad spend",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vghnxk/came_across_an_adexchanger_piece_discussing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vghnxk/came_across_an_adexchanger_piece_discussing/",
+      "created_utc": 1785958813.0,
+      "content": "What caught my attention wasn't so much the AI part MFA has been around for a long time  \nWhat I'm wondering is why, after years of SPO efforts, curated deals, MFA blocklists and all the focus on supply quality money still seems to find its way into these environments.\n\nMaybe AI is making it easier to create low-quality content at scale OR maybe the bigger issue is that parts of the ecosystem still reward cheap reach & low-cost outcomes over actual quality..\n\nIt feels like there's a bigger conversation here than just AI. Is AI making the MFA problem worse OR is it simply exposing issues that were already there? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Buyers should be buying premium inventory and using the tools they have to not serve ads on these sketchy sites. ",
+          "score": 1,
+          "created_utc": 1785958969.0
+        }
+      ]
     }
   ]
 }

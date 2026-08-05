@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uiw4tf",
-      "title": "Programmatic vs Ad ops",
-      "author": "fikerdagmelidet",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uiw4tf/programmatic_vs_ad_ops/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uiw4tf/programmatic_vs_ad_ops/",
-      "created_utc": 1782747855.0,
-      "content": "Hey everyone, new to marketing and was looking to enter the programmatic/adtech field. I recently got sent an opening for an entry-level Ad ops role. Excited as i've spent a lot of time training to transition into this field. But i also feel conflicted, take this job and it may restrict my future growth, or i  don't take this role and find no other openings in programmatic buying in the near future\n\nI wanted to know which career path between Programmatic and Ad ops has more opportunities, better pay and progression, AI/offshoring prospects. And can i transition into one another sooner than later. \n\nThank you",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uiwgie",
       "title": "Workload",
       "author": "ImpressiveRich1466",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785950734.0,
       "content": "Amazon spent about a year pulling the big US audio sellers and podcasts into their platform. It all sits in one workflow now, which is the good news.\n\nWorking out what is actually inside a deal is slow and quietly confusing sometimes. And SiriusXM has been the most confusing so far.\n\n**Three groups of deals**\n\nSiriusXM owns Pandora, and it runs AdsWizz (an ads marketplace for other radio stations and podcasts), which arrived inside Pandora when it bought it. So one search in Amazon DSP returns three different buys sitting under the SiriusXM name:\n\n1. Pandora sold with SiriusXM Audio as roughly half the sellers, through Amazon Publisher Direct. The one group that genuinely carries SiriusXM, and the cheapest of the three.\n2. Pandora on its own, with `AmazonPA.AOD.` in the deal name. Same listeners, same price most times, no SiriusXM Audio in the seller mix. (AdsWizz)\n3. A curated US podcast marketplace under the \"SiriusXMMedia\" name, across multiple genres. (AdsWizz)\n\nAll three are real inventory and I would buy any of them against the right brief. Pandora is one of the largest ad supported streaming services in the country, and its connected car reach is interesting. The podcast marketplace is a decent podcast product with seller transparency.\n\nMy only issue is buying one while believing you bought another, because the most expensive of the three is the one with the least SiriusXM in it.\n\n**How to understand an Amazon deal**\n\nGo to your Amazon DSP and on the left bar click on Inventory. Use the search option and open the deal. Then go to the **Attributes** tab, read share of deal traffic. That is the column that answers who is actually selling this.\n\nDo not overtrust the **Apps and domains** card for it. It looks promising but the % does not always add up.\n\nIf you cannot see a deal library at all, you are probably on a subseat from your tool provider. Ask them for inventory access. If that does not work, you can reach me.\n\nNone of this is concealed. It is just not in the deal name, and a deal called SiriusXM Media does not read as somewhere you need to go diving into.\n\nThis covers the basics well. If you still want to know more I made a very detailed breakdown on my website, but for 90% of you this should be plenty.\n\n[https://victor.ad/academy/siriusxm-amazon-dsp](https://victor.ad/academy/siriusxm-amazon-dsp)",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vghnxk",
+      "title": "came across an Adexchanger piece discussing whether AI generated content is contributing to a rise in MFA ad spend",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vghnxk/came_across_an_adexchanger_piece_discussing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vghnxk/came_across_an_adexchanger_piece_discussing/",
+      "created_utc": 1785958813.0,
+      "content": "What caught my attention wasn't so much the AI part MFA has been around for a long time  \nWhat I'm wondering is why, after years of SPO efforts, curated deals, MFA blocklists and all the focus on supply quality money still seems to find its way into these environments.\n\nMaybe AI is making it easier to create low-quality content at scale OR maybe the bigger issue is that parts of the ecosystem still reward cheap reach & low-cost outcomes over actual quality..\n\nIt feels like there's a bigger conversation here than just AI. Is AI making the MFA problem worse OR is it simply exposing issues that were already there? ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
