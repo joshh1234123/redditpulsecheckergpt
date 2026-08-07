@@ -1,0 +1,16 @@
+{
+  "id": "1vhrusy",
+  "thread_id": "1vhrusy",
+  "title": "AppLovin Q2 2026: $1.9B revenue, 66% GAAP net margin — income statement visualized",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vhrusy/applovin_q2_2026_19b_revenue_66_gaap_net_margin/",
+  "created_utc": 1786080932.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Master-Cat6980",
+      "body": "Source: AppLovin’s Q2 FY26 10-Q (quarter ended June 30, 2026), via SEC EDGAR:\n\n[https://www.sec.gov/Archives/edgar/data/1751008/000175100826000059/0001751008-26-000059-index.html](https://www.sec.gov/Archives/edgar/data/1751008/000175100826000059/0001751008-26-000059-index.html)\n\nI extracted the filed figures with Python and rendered the chart with my own SVG tool. The only derived figure is the † “Other income, net” flow: $62.405M of other income less $51.156M of interest expense, or $11.249M.\n\nFrom an ad-tech perspective, what stood out to me was 53% Y/Y revenue growth alongside a 66% GAAP net margin, while non-U.S. revenue grew 56% and reached 49% of total revenue.\n\nFor people operating in the space: does that growth and margin profile line up with what you’re seeing in AppLovin’s reach, pricing, or campaign performance?",
+      "score": 2,
+      "created_utc": 1786080946.0
+    }
+  ]
+}

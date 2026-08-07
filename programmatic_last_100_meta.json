@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uj0cer",
-      "title": "What is your number one advice in programmatic?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uj0cer/what_is_your_number_one_advice_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uj0cer/what_is_your_number_one_advice_in_programmatic/",
-      "created_utc": 1782756984.0,
-      "content": "Basically what the title says, what is the most important thing of advice you could give someone on programmatic? ",
-      "num_comments": 5,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uj3xh1",
       "title": "Built a privacy-first team directory & message router (Frontdesk). It’s an MVP built on Lovable—give me your most brutal, honest feedback!",
       "author": "According_Novel_3614",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786045480.0,
       "content": "August seller data is interesting- this is probably the first time we’re seeing the market pause on expansion and move into cleanup mode.  \nads.txt growth is basically flat (net -881), but the bigger signal is underneath  \n→ Resellers turned net negative for the first time (-1,718) while direct stayed flat (+837) - publishers are cutting duplicate reseller paths and protecting the relationships that drive revenue.  \n→ TrustedStack led every SSP in lines added (+6.6k), the only one to top all three traffic tiers, while High-Traffic publishers contracted the hardest (-9.3k) as premium publishers lead the optimization wave.  \n→ 46% of Tier 1 SSP domains are now duplicated across intermediaries - nearly half of every auction an Established SSP enters is competing against itself.  \nScale alone no longer earns a slot in a publisher's ads.txt. The SSPs gaining ground are solving a specific buyer problem.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vhrusy",
+      "title": "AppLovin Q2 2026: $1.9B revenue, 66% GAAP net margin — income statement visualized",
+      "author": "Master-Cat6980",
+      "score": 1,
+      "url": "https://i.redd.it/w34q22uosvhh1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vhrusy/applovin_q2_2026_19b_revenue_66_gaap_net_margin/",
+      "created_utc": 1786080932.0,
+      "content": "",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
