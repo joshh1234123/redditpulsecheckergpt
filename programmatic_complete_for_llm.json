@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-06T15:08:54.149816+00:00",
-    "total_posts": 1887,
+    "scrape_date": "2026-08-07T00:36:47.699140+00:00",
+    "total_posts": 1888,
     "total_comments": 10118
   },
   "discussions": [
@@ -88354,6 +88354,20 @@
           "created_utc": 1785958969.0
         }
       ]
+    },
+    {
+      "id": "1vhel48",
+      "title": "Publishers are cutting reseller paths faster than they're adding new Supply Partners",
+      "author": "DataBeat_adtech",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vhel48/publishers_are_cutting_reseller_paths_faster_than/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vhel48/publishers_are_cutting_reseller_paths_faster_than/",
+      "created_utc": 1786045480.0,
+      "content": "August seller data is interesting- this is probably the first time we’re seeing the market pause on expansion and move into cleanup mode.  \nads.txt growth is basically flat (net -881), but the bigger signal is underneath  \n→ Resellers turned net negative for the first time (-1,718) while direct stayed flat (+837) - publishers are cutting duplicate reseller paths and protecting the relationships that drive revenue.  \n→ TrustedStack led every SSP in lines added (+6.6k), the only one to top all three traffic tiers, while High-Traffic publishers contracted the hardest (-9.3k) as premium publishers lead the optimization wave.  \n→ 46% of Tier 1 SSP domains are now duplicated across intermediaries - nearly half of every auction an Established SSP enters is competing against itself.  \nScale alone no longer earns a slot in a publisher's ads.txt. The SSPs gaining ground are solving a specific buyer problem.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

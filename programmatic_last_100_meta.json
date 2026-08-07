@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uiwgie",
-      "title": "Workload",
-      "author": "ImpressiveRich1466",
-      "score": 5,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uiwgie/workload/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uiwgie/workload/",
-      "created_utc": 1782748557.0,
-      "content": "I’m in a new role with what is proving to be a very disorganised and demanding client. campaigns that come through have to be set up on the day. it can be late afternoon on a FrIday when 7 are sent through. it’s getting to the point where I’m endlessly cancelling social plans with friends. is this normal as I’ve never encountered this at my previous bigger agencies?",
-      "num_comments": 13,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uj0cer",
       "title": "What is your number one advice in programmatic?",
       "author": "TheGrandLeveler",
@@ -1302,6 +1289,19 @@
       "created_utc": 1785958813.0,
       "content": "What caught my attention wasn't so much the AI part MFA has been around for a long time  \nWhat I'm wondering is why, after years of SPO efforts, curated deals, MFA blocklists and all the focus on supply quality money still seems to find its way into these environments.\n\nMaybe AI is making it easier to create low-quality content at scale OR maybe the bigger issue is that parts of the ecosystem still reward cheap reach & low-cost outcomes over actual quality..\n\nIt feels like there's a bigger conversation here than just AI. Is AI making the MFA problem worse OR is it simply exposing issues that were already there? ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vhel48",
+      "title": "Publishers are cutting reseller paths faster than they're adding new Supply Partners",
+      "author": "DataBeat_adtech",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vhel48/publishers_are_cutting_reseller_paths_faster_than/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vhel48/publishers_are_cutting_reseller_paths_faster_than/",
+      "created_utc": 1786045480.0,
+      "content": "August seller data is interesting- this is probably the first time we’re seeing the market pause on expansion and move into cleanup mode.  \nads.txt growth is basically flat (net -881), but the bigger signal is underneath  \n→ Resellers turned net negative for the first time (-1,718) while direct stayed flat (+837) - publishers are cutting duplicate reseller paths and protecting the relationships that drive revenue.  \n→ TrustedStack led every SSP in lines added (+6.6k), the only one to top all three traffic tiers, while High-Traffic publishers contracted the hardest (-9.3k) as premium publishers lead the optimization wave.  \n→ 46% of Tier 1 SSP domains are now duplicated across intermediaries - nearly half of every auction an Established SSP enters is competing against itself.  \nScale alone no longer earns a slot in a publisher's ads.txt. The SSPs gaining ground are solving a specific buyer problem.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
