@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-07T18:43:21.370743+00:00",
-    "total_posts": 1891,
+    "scrape_date": "2026-08-07T19:46:23.026976+00:00",
+    "total_posts": 1892,
     "total_comments": 10123
   },
   "discussions": [
@@ -88442,6 +88442,20 @@
           "created_utc": 1786113856.0
         }
       ]
+    },
+    {
+      "id": "1viaobq",
+      "title": "calling out corruption and bad people in our industry",
+      "author": "AngleApart4424",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1viaobq/calling_out_corruption_and_bad_people_in_our/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1viaobq/calling_out_corruption_and_bad_people_in_our/",
+      "created_utc": 1786131840.0,
+      "content": "I’d love it but I guess it’s not PC. Who’s someone you dislike? Companies that are corrupt? Can think of so many…",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
