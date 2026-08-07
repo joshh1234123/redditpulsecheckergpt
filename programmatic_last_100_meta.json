@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ukmr4t",
-      "title": "The 5 ways into Amazon DSP and what each one costs",
-      "author": "NiceRecognition9603",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ukmr4t/the_5_ways_into_amazon_dsp_and_what_each_one_costs/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ukmr4t/the_5_ways_into_amazon_dsp_and_what_each_one_costs/",
-      "created_utc": 1782914955.0,
-      "content": "exAmazon here, not selling anything. There are five ways into Amazon DSP, from a $50k a month commitment down to free. If you're coming off TTD or DV360 for the Prime CTV or other inventory, here's what each route is and what it costs. I never traded TTD, so I'll leave migration details to people who have.\n\nQuick vocabulary, it matters. A **seat** is the DSP account itself. An **advertiser** is one brand that lives inside a seat, and a single seat can hold many advertisers. So every route below is really just this: your own seat, or an advertiser inside someone else's.\n\n**1. Direct with Amazon (managed or self service).** Your own seat. Minimum around $35k to $50k a month, often a $150k commitment over the first three months. In practice Amazon only reaches out to you here if you're already spending millions on PPC. Below that, their team focuses elsewhere. And at that spend they push you upper funnel, so the fast ROAS a smaller brand expects rarely shows.\n\n**2. Through an agency that holds a seat.** They add you as an advertiser inside their seat. Skips Amazon's minimum, borrows their expertise, no specialist hire. You run on their priorities and reporting cadence. Fair deal, just ask for read access to your own advertiser so you can see your data.\n\n**3. A tech partner.** Perpetua, Pacvue, Intentwise, Quartile, (straight off Amazon Ads Partners, not my endorsement). They drop the minimums and give you tooling sometimes on top. Cost is usually a minimum fee plus 2% to 5% of spend, which gets painful as you scale.\n\n**4. Advertiser rental (hybrid).** A seat holder spins up a single advertiser instance and hands you the keys to run it yourself. Flat monthly fee instead or a cut of spend, usually 5%. \n\n**5. Official test accounts, seat or advertiser.** A real DSP account attached to your own Amazon login, capped so it can't spend, purely for testing and learning. You get the actual interface, the audience picker, and the streaming supply. My company makes Amazon DSP software, and since spinning one up costs us only a few minutes, I've been handing them out free here to new people when asked. The only conflict for any skeptics.\n\n**Full seat or just an advertiser?** It usually comes down to AMC. Amazon Marketing Cloud sits at the seat level and sees every advertiser in that seat, so a seat holder can't give it to you without exposing their other clients. Want AMC? Get your own seat.\n\nThat's every route I know. If I got a number wrong or missed one, correct me, that's half of why I'm posting. And if you moved over from TTD or DV360, curious about the pain points, training especially, and anything you learned along the way.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ukpgpt",
       "title": "I hate the Trade Desk",
       "author": "NewOrleansSpeed",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786131840.0,
       "content": "I’d love it but I guess it’s not PC. Who’s someone you dislike? Companies that are corrupt? Can think of so many…",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vifufs",
+      "title": "Yo TTD: Did you really lose $2B on stock buybacks?????????",
+      "author": "JimmyTango",
+      "score": 18,
+      "url": "https://i.redd.it/kks6t006c1ih1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vifufs/yo_ttd_did_you_really_lose_2b_on_stock_buybacks/",
+      "created_utc": 1786144410.0,
+      "content": "\"Never bet against Jeff......\"",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
