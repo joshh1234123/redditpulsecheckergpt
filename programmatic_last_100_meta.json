@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uj3xh1",
-      "title": "Built a privacy-first team directory & message router (Frontdesk). It’s an MVP built on Lovable—give me your most brutal, honest feedback!",
-      "author": "According_Novel_3614",
-      "score": 1,
-      "url": "/r/ideavalidation/comments/1uj3t0p/built_a_privacyfirst_team_directory_message/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uj3xh1/built_a_privacyfirst_team_directory_message/",
-      "created_utc": 1782764866.0,
-      "content": "Hey everyone,  \nI’ve just put together the first MVP for a concept I’m working on called **Frontdesk**, built entirely using Lovable. It’s fully interactive, and I need you guys to jump in, click around, and absolutely tear it apart.  \n**The Problem:** In sectors like schools, clinics, and local retail, staff frequently need to communicate directly with clients, parents, or patients. Giving out personal phone numbers completely destroys work-life boundaries, but hiding staff behind a generic \"info@company.com\" email makes customer service incredibly frustrating.  \n**The Solution:** Frontdesk gives teams a clean, public, searchable directory where clients can directly message specific staff members through a unified routing layer. The staff's personal contact details stay 100% private, while business owners/admins get a birds-eye overview inbox of all communications for quality and continuity.  \n**Test the live MVP here:**  \n🔗 **Landing Page:** [https://fronttdeskk.lovable.app](https://fronttdeskk.lovable.app/)\n\n🔗 **Directory Preview:** [https://fronttdeskk.lovable.app/org/frontdesk](https://fronttdeskk.lovable.app/org/frontdesk)\n\n**What I want from you:** Please actually use it, click the buttons, test the flow, and give me your unfiltered, brutal insights:  \nDoes this actually solve a real pain point, or am I building a \"nice-to-have\"?\n\nWhat features absolutely *need* to be added next to make this viable?\n\nWhat should I remove, tweak, or simplify to make onboarding flawless?\n\nAs a Lovable MVP, how does the user flow feel to you?\n\nI'm wide open to any suggestions, critiques, or ideas you have. Thanks so much for taking the time to check it out! 🙌 ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ujk0el",
       "title": "Agency we're working with sends in monthly streaming PDF's but they don't show or report what the spend accomplished.",
       "author": "Far_Argument5470",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786080932.0,
       "content": "",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vhtvrb",
+      "title": "Nielsen to Acquire DoubleVerify",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://www.nielsen.com/news-center/2026/nielsen-to-acquire-doubleverify-creating-a-leading-independent-media-intelligence/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vhtvrb/nielsen_to_acquire_doubleverify/",
+      "created_utc": 1786087887.0,
+      "content": "Damn those CPMs are going to be mad with the Nielsen tax on top.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

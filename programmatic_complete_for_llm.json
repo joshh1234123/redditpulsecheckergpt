@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-07T06:46:39.945410+00:00",
-    "total_posts": 1889,
+    "scrape_date": "2026-08-07T08:08:59.658829+00:00",
+    "total_posts": 1890,
     "total_comments": 10119
   },
   "discussions": [
@@ -88389,6 +88389,20 @@
           "created_utc": 1786080946.0
         }
       ]
+    },
+    {
+      "id": "1vhtvrb",
+      "title": "Nielsen to Acquire DoubleVerify",
+      "author": "goodgoaj",
+      "score": 1,
+      "url": "https://www.nielsen.com/news-center/2026/nielsen-to-acquire-doubleverify-creating-a-leading-independent-media-intelligence/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vhtvrb/nielsen_to_acquire_doubleverify/",
+      "created_utc": 1786087887.0,
+      "content": "Damn those CPMs are going to be mad with the Nielsen tax on top.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
