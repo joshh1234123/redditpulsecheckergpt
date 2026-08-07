@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-07T13:47:02.166219+00:00",
-    "total_posts": 1890,
-    "total_comments": 10119
+    "scrape_date": "2026-08-07T14:46:46.036325+00:00",
+    "total_posts": 1891,
+    "total_comments": 10123
   },
   "discussions": [
     {
@@ -88403,6 +88403,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vi22h0",
+      "title": "Who will acquire TTD and why? Or does it go Private?",
+      "author": "AlDenteDDS",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vi22h0/who_will_acquire_ttd_and_why_or_does_it_go_private/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vi22h0/who_will_acquire_ttd_and_why_or_does_it_go_private/",
+      "created_utc": 1786112667.0,
+      "content": "With the string of pullbacks $TTD sits at a current market cap of $6.3bil.\n\nRev 1H'26 $1.4bln\n\nNet Income 1H'26 $104mil\n\nTTD has $1.5bil in liquid cash and while it has historically been hesitant to acquire the new leadership could push in this direction... which of course carries the risk of an acquisition(s) not well received by public markers which could push the stock down even further.\n\nProgrammatically activated channels will continue to grow but TTD no longer first stop as the market is saturated with options, bidders are becoming commodities and differentiation comes down to owned assets. In this market if you are choosing yo forego asset ownership you must either win on price or performance. Performance gap seems to be closing and as for price its been well documented that TTD sophistication comes at a premium.\n\nNew leadership, among many things, needs to prioritize one of the following - \n\n1 capital deployment to acquire a moat \n\n2 go private to rebuild and take focus away from placating wall street, and prioritize clients\n\n3 sell in to weakness (opportunity to sell in to strength has passed)\n\nMuch of this action should have happened when TTD was flying at 250-600x p/e but here we are.\n\nWhich do they pursue? Who do they buy to build a moat? Are they taken private? Who acquires them?\n\nWalmart?\n\nOpenAI?\n\nMeta?\n\nApplovin?\n\nGoogle could do the funniest thing....\n\nTLDR; The current path the company is on will drive the stock to zero. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "69mayb",
+          "body": "I don’t wanna get rich anymore, I just want my money back. Jeff is you reading this",
+          "score": 1,
+          "created_utc": 1786113812.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Trust in whatever Jeff does. Whatever he decides will be best for the industry ❤️",
+          "score": 1,
+          "created_utc": 1786113868.0
+        },
+        {
+          "author": "Jake_dasnake3",
+          "body": "Nobody and nothing because jeff owns 51%+ and controls the board",
+          "score": 1,
+          "created_utc": 1786113507.0
+        },
+        {
+          "author": "AlDenteDDS",
+          "body": "RIP",
+          "score": 1,
+          "created_utc": 1786113856.0
+        }
+      ]
     }
   ]
 }
