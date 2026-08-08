@@ -314,6 +314,21 @@
       "link_flair_text": null,
       "thread_id": "1vifufs",
       "thread_path": "1vifufs.json"
+    },
+    {
+      "id": "1vj228m",
+      "title": "How Does DV360 Weight Creative vs. Targeting When Bidding?",
+      "author": "Ok_Instance1684",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vj228m/how_does_dv360_weight_creative_vs_targeting_when/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vj228m/how_does_dv360_weight_creative_vs_targeting_when/",
+      "created_utc": 1786210673.0,
+      "content": "I’m wondering how much creative quality and appearance affect bidding and serving in DV360 Display campaigns, specifically across GDN and similar display inventory, before enough real performance data comes in, like clicks and conversions.\n\nDV360 allows very precise targeting, especially when combining programmatic targeting with audiences like Custom Intent. But the system still has to decide how much to bid for each impression.\n\nBefore it has enough performance data, how much do the creative itself and the landing page influence that decision? And how much is based mainly on targeting signals, such as the user matching a Custom Intent audience?\n\nFor example, Meta is known for putting a lot of weight on the creative when deciding delivery and bidding. I’m curious how much this applies to DV360 Display as well.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vj228m",
+      "thread_path": "1vj228m.json"
     }
   ]
 }
