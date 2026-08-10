@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ule0x5",
-      "title": "DSP experience",
-      "author": "Ketela_pohu",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ule0x5/dsp_experience/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ule0x5/dsp_experience/",
-      "created_utc": 1782986688.0,
-      "content": "To give y’all a little context, I come from supply-side of the ecosystem. I have 1 year of experience in programmatic and PPC+Google Ads experience prior to that. I want to learn about DSP and gain demand side experience in Programmatic. But wherever I have applied, they all want prior hands-on DSP experience in DV360, Trade Desk. I’m doing the DV360 certification to understand the nuances of the platform but not sure if that will be enough to get me accepted. All who are already working with DSPs, can you all please guide me on how to make sure I land a job that will give me hands on DSP experience?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ulh8uv",
       "title": "TTD SP500",
       "author": "Chi-biusa2z",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786354545.0,
       "content": "A few people here have told me the same thing recently. The ready made deals are convenient and the proposals work fine for Programmatic Guaranteed, but you get better terms going direct to the publisher.\n\nI have not tested direct at all. What I can see is that just comparing the ready made deals against the proposals already gets me about 3%, and the minimums are reasonable, I would not recommend companies to spend less for a test.\n\nI only started talking to Netflix and Spotify directly recently. And I got some info like a confirmation that on Netflix you are not allowed to use Amazon Audiences with custom deal. Which could be a problem sometimes.\n\nWhat has your experience been, and which publishers have you gone direct with? Where you later able to use Amazon Audiences? ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vki9t8",
+      "title": "Anyone running ads on Amazon Prime Video?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vki9t8/anyone_running_ads_on_amazon_prime_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vki9t8/anyone_running_ads_on_amazon_prime_video/",
+      "created_utc": 1786361614.0,
+      "content": "I am using \"Prime Video | Private Auction | Video | US - 15, 30\"\n\nIn the past I would use that deal setup low bid $15 - $20 max\n\nMy daily budget is $80 but only $24 is spent.\n\nI even went from targetting 5 counties = 3 million population to targetting the entire state of New Jersey. Still the line item not getting much impressions, keeps saying on top of screen \"Location mismatch\" but i am advertising a local service so doing NY or PA makes no sense.\n\nIs there any other \"Prime\" Video auction you can suggest I try that i would get more impressions? \n\nThe other deals I see listed have less available impressions i think the one above says over a billion avg where as the category ones like Drama, Action, Top Rated are only 50-150 million.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
