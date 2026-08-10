@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-10T15:30:26.304918+00:00",
-    "total_posts": 1897,
+    "scrape_date": "2026-08-10T16:24:07.264262+00:00",
+    "total_posts": 1898,
     "total_comments": 10126
   },
   "discussions": [
@@ -88546,6 +88546,20 @@
           "created_utc": 1786361932.0
         }
       ]
+    },
+    {
+      "id": "1vkockq",
+      "title": "Can you activate Retailer Audiences on TikTok?",
+      "author": "lifesizeisunderrated",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vkockq/can_you_activate_retailer_audiences_on_tiktok/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vkockq/can_you_activate_retailer_audiences_on_tiktok/",
+      "created_utc": 1786376404.0,
+      "content": "How does this work and do I need to have existing retailer relationships to do this or is there an off the shelf solution?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
