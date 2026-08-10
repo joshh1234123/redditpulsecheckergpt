@@ -344,6 +344,21 @@
       "link_flair_text": null,
       "thread_id": "1vjjxxe",
       "thread_path": "1vjjxxe.json"
+    },
+    {
+      "id": "1vkg4pr",
+      "title": "Non standard Inventory agreements on Amazon DSP",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vkg4pr/non_standard_inventory_agreements_on_amazon_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vkg4pr/non_standard_inventory_agreements_on_amazon_dsp/",
+      "created_utc": 1786354545.0,
+      "content": "A few people here have told me the same thing recently. The ready made deals are convenient and the proposals work fine for Programmatic Guaranteed, but you get better terms going direct to the publisher.\n\nI have not tested direct at all. What I can see is that just comparing the ready made deals against the proposals already gets me about 3%, and the minimums are reasonable, I would not recommend companies to spend less for a test.\n\nI only started talking to Netflix and Spotify directly recently. And I got some info like a confirmation that on Netflix you are not allowed to use Amazon Audiences with custom deal. Which could be a problem sometimes.\n\nWhat has your experience been, and which publishers have you gone direct with? Where you later able to use Amazon Audiences? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vkg4pr",
+      "thread_path": "1vkg4pr.json"
     }
   ]
 }

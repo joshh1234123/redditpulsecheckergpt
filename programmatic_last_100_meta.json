@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ul8cae",
-      "title": "Performance marketing at DV360",
-      "author": "Ok_Instance1684",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ul8cae/performance_marketing_at_dv360/",
-      "created_utc": 1782967292.0,
-      "content": "Anybody knows a use-case of leveraging programmatic display marketing in general or just the DV360 to achieve performance (Actually positive ROAS and not just awareness)?\n\nOr if you know blogs, videos, training and other resources that focus on that.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ule0x5",
       "title": "DSP experience",
       "author": "Ketela_pohu",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786262340.0,
       "content": "TTD dropped 28% on Friday (-83 YoY) and management blamed everything but themselves and Amazon. Magnite was fine the same week.\n\nMeanwhile Amazon announces new publisher deals practically every month, but they have been quite messy with keeping the real availability and the specifics up to date.\n\nSo here is the **US catalog** instead, updated to 8 August. All self serving.\n\n\n\n**Streaming TV (53), by owner**\n\n* Amazon (6): Prime Video, Fire TV, Twitch, Fire TV Channels, Prime Video Channels, Amazon Live Events\n* Disney (6): Disney+, Hulu, Hulu + Live TV, ESPN, ABC News, Disney XP\n* Comcast and NBCU (5): Peacock, NBCUniversal, Xumo, Fandango, NBC News\n* Paramount (4): Paramount+, CBS, Pluto TV, Paramount EyeQ\n* Fox (3): Tubi, Fox News, Fox Local\n* Warner Bros. Discovery (3): HBO Max, Discovery+, WBD\n* Others (26): Netflix, Roku, AMC, A&E, Bloomberg, MLB.TV, NBA League Pass, Plex, Samsung TV, Vizio, LG, TCL, Fubo, Sling TV, DIRECTV, Spectrum, Philo, FrndlyTV, Crunchyroll, Viki, Haystack News, Future Today, Allen Media Group, Scripps, TelevisaUnivision, FanDuel Sports\n\n\n\n**Online video (22)**\n\n* Amazon (6): Amazon.com, IMDb, Alexa, Fire Tablet, Twitch, Amazon Publisher Direct\n* Others (16): Spotify, NBC Sports, Fox News, Disney XP, WBD, AMC, Fubo, LG, Samsung Gaming, TelevisaUnivision, NBA League Pass, FanDuel Sports, USA TODAY, Buzzfeed, Penske Media, Raptive\n\n\n\n**Audio (11)**\n\n* Amazon (4): Amazon Music, Alexa News, Twitch, Amazon Publisher Direct audio\n* Others (7): Spotify, iHeartMedia, Audacy, TuneIn, Odeeo, SiriusXM, Pandora\n\n\n\n**Podcast (10)**\n\n* Spotify, iHeartMedia, Art19 (Amazon), SiriusXM, AdsWizz Marketplace, Triton Marketplace, Libsyn indie creators, RedCircle, Red Seat Ventures, Katz US radio shows\n\n\n\n**Display (17)**\n\n* Amazon (9): Amazon.com, IMDb, Goodreads, Fire TV, Fire Tablet, Alexa, Twitch, Amazon Publisher Direct, Amazon digital signage\n* Others (8): NY Times, USA TODAY, Buzzfeed, Penske Media, Raptive, Samsung News, Spotify, WBD\n\n\n\n**The other 72 countries**\n\nA lot of the questions I get are a version of \"can I access Twitch in South Africa\", and the list on their public Twitch site is a perfect example of one that has gone out of date. So the other 72 markets are on [https://victor.ad/inventory](https://victor.ad/inventory) , filtered by country.\n\nIf your seat shows something my page is missing, or a publisher on the list does not show for you, tell me.",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vkg4pr",
+      "title": "Non standard Inventory agreements on Amazon DSP",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vkg4pr/non_standard_inventory_agreements_on_amazon_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vkg4pr/non_standard_inventory_agreements_on_amazon_dsp/",
+      "created_utc": 1786354545.0,
+      "content": "A few people here have told me the same thing recently. The ready made deals are convenient and the proposals work fine for Programmatic Guaranteed, but you get better terms going direct to the publisher.\n\nI have not tested direct at all. What I can see is that just comparing the ready made deals against the proposals already gets me about 3%, and the minimums are reasonable, I would not recommend companies to spend less for a test.\n\nI only started talking to Netflix and Spotify directly recently. And I got some info like a confirmation that on Netflix you are not allowed to use Amazon Audiences with custom deal. Which could be a problem sometimes.\n\nWhat has your experience been, and which publishers have you gone direct with? Where you later able to use Amazon Audiences? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
