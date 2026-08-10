@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ullf9y",
-      "title": "DV360 & DCM down?",
-      "author": "Dull-Formal-7976",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ullf9y/dv360_dcm_down/",
-      "created_utc": 1783006120.0,
-      "content": "Hi all - is anyone also seeing no stats for today 7/2 in DV360 and DCM reporting? I filed a ticket and they confirmed its impacting multiple advertisers globally but interested how widespread this is!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ulls1g",
       "title": "Do you agree with the stance that AI will highlight transparency issues in programmatic advertising?",
       "author": "Zeetoay",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vkockq/can_you_activate_retailer_audiences_on_tiktok/",
       "created_utc": 1786376404.0,
       "content": "How does this work and do I need to have existing retailer relationships to do this or is there an off the shelf solution?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vkqvy3",
+      "title": "How is the Programmatic job market right now(especially in India)? Is it a bad time to switch?",
+      "author": "Fragrant_Service_855",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vkqvy3/how_is_the_programmatic_job_market_right/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vkqvy3/how_is_the_programmatic_job_market_right/",
+      "created_utc": 1786381835.0,
+      "content": "Hey everyone, just wanted to get some perspective from people currently working in Programmatic. How is the job market right now for Programmatic / DV360 / TTD / Amazon DSP roles in India? Are there still decent openings, or is the current economic slowdown/recession affecting hiring? I’m planning to switch, but I’m stuck with a 3-month notice period, and the frustrating part is that many companies/recruiters aren’t even willing to proceed with an interview once they hear about the notice period.\n\nFor people who have recently switched or are currently hiring, is it safe to put down papers first and then search, or would that be too risky in the current market? I’m okay with waiting for another 6 months, including the 3-month notice period, if the market is expected to improve. Just trying to understand whether it makes sense to start now, resign and serve notice, or stay where I am for a few more months. Would really appreciate some honest opinions from people in Programmatic/AdTech, especially in India.",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
