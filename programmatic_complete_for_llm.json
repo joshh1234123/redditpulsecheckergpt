@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-11T11:12:38.482243+00:00",
-    "total_posts": 1901,
+    "scrape_date": "2026-08-11T12:05:55.908581+00:00",
+    "total_posts": 1902,
     "total_comments": 10127
   },
   "discussions": [
@@ -88605,6 +88605,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vlalrt/looking_to_transition_from_paid_social_to/",
       "created_utc": 1786433386.0,
       "content": "Hey everyone,\n\nI have 5+ years of experience in paid social/performance marketing, primarily working across platforms like Meta, LinkedIn, Reddit, etc.\n\nI’m now looking to transition into **programmatic advertising** and would love to hear from people who have made a similar switch.\n\nA few things I’d really appreciate advice on:  \n\\- What’s the best way to get started with programmatic?  \n\\- Are there any **paid courses or certifications** that are actually worth doing?  \n\\- Which DSPs should I focus on learning first (DV360, The Trade Desk, Amazon DSP, etc.)?  \n\\- Is there a way to get hands-on experience without currently working in a programmatic role?  \n\\- How difficult is the transition from paid social to programmatic?\n\nAlso, if anyone is hiring for a role where I could **work on programmatic alongside paid social**, I’d be very interested. \n\nI’m happy to learn and take on the programmatic side while continuing to contribute my paid social experience.\n\nWould really appreciate any advice, resources, or personal experiences.\n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vlf0nt",
+      "title": "Amazon DSP subseats can now use AMC directly (Data analyst clean room tool)",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vlf0nt/amazon_dsp_subseats_can_now_use_amc_directly_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vlf0nt/amazon_dsp_subseats_can_now_use_amc_directly_data/",
+      "created_utc": 1786448363.0,
+      "content": "I posted here in July that if you wanted AMC (Amazon Marketing Cloud, the clean room where you query your own campaign data) you had to get your own seat, because AMC sat at seat level and a seat holder could not share it without exposing their other clients. That is no longer true.\n\n**What does the owner of the DSP account have to do**\n\nAssociate your full DSP account to a manager account you have access to. If you are also running Sponsored Ads, ideally the same one. That is the whole change. [Reference](https://advertising.amazon.com/en-gb/resources/whats-new/manage-ad-products-globally-with-advertiser-account).\n\n**Where you open it if you have the right permissions.**\n\nNorth America  \n[https://advertising.amazon.com/choose-account?destination=/marketing-cloud](https://advertising.amazon.com/choose-account?destination=/marketing-cloud)?\n\nEMEA\n\n[https://advertising.amazon.co.uk/choose-account?destination=/marketing-cloud](https://advertising.amazon.co.uk/choose-account?destination=/marketing-cloud)?\n\nAPAC\n\n[https://advertising.amazon.jp/choose-account?destination=/marketing-cloud](https://advertising.amazon.jp/choose-account?destination=/marketing-cloud)?\n\nIf nothing appears there, whoever holds the seat admin needs to change your access permissions.\n\n**One warning**\n\nGet a data analyst, a real one. AMC is a different monster. Claude is great and it speeds things up, I use it on AMC and other Amazon DSP work. It will also mess it up in ways you won't see unless you have someone who does this for a living. Even with a good set of curated queries, it does not understand the context of each product or account, or which sales column is the right one.\n\nDon't trust my word, trust [Shuqing Ke](https://www.linkedin.com/feed/update/urn:li:activity:7492529780211388417/), who posts about exactly this. Not affiliated, I am just a fan of people who focus on one thing and do it well.\n\nCorrections and personal experiences welcome.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
