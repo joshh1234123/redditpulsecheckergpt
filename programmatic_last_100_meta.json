@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1umax8v",
-      "title": "Is programmatic TV advertising actually worth the budget shift?",
-      "author": "MycologistClassic837",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1umax8v/is_programmatic_tv_advertising_actually_worth_the/",
-      "created_utc": 1783075081.0,
-      "content": "CTV attribution and incrementality testing have come up enough in our channel diversification conversations that leadership is now actually asking us to test programmatic TV. As a B2B SaaS company, pipeline attribution is the metric  we judge performance by and I can't figure out if CTV can realistically tie back to that.\n\nour stack is Google and LinkedIn heavy right now. the case for connected TV ads for B2B keeps coming up framed as account-based marketing CTV, which sounds compelling until you start asking how enterprise B2B CTV campaigns are actually measured. everyone selling it points to CTV lift studies and CTV influenced pipeline but I've burned my fingers on platform-reported metrics enough times before.\n\nhas anyone here run B2B CTV campaigns at real scale and come out with actual geo holdout data? i wanna know what channel diversification actually looked like for a performance team that was Meta/Google heavy before, and whether the self-serve path has gotten to a point where this is manageable without handing it over to a managed service.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1umbcmq",
       "title": "Adform Flow seat through a partner agency",
       "author": "MayorofJamCity",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vlf0nt/amazon_dsp_subseats_can_now_use_amc_directly_data/",
       "created_utc": 1786448363.0,
       "content": "I posted here in July that if you wanted AMC (Amazon Marketing Cloud, the clean room where you query your own campaign data) you had to get your own seat, because AMC sat at seat level and a seat holder could not share it without exposing their other clients. That is no longer true.\n\n**What does the owner of the DSP account have to do**\n\nAssociate your full DSP account to a manager account you have access to. If you are also running Sponsored Ads, ideally the same one. That is the whole change. [Reference](https://advertising.amazon.com/en-gb/resources/whats-new/manage-ad-products-globally-with-advertiser-account).\n\n**Where you open it if you have the right permissions.**\n\nNorth America  \n[https://advertising.amazon.com/choose-account?destination=/marketing-cloud](https://advertising.amazon.com/choose-account?destination=/marketing-cloud)?\n\nEMEA\n\n[https://advertising.amazon.co.uk/choose-account?destination=/marketing-cloud](https://advertising.amazon.co.uk/choose-account?destination=/marketing-cloud)?\n\nAPAC\n\n[https://advertising.amazon.jp/choose-account?destination=/marketing-cloud](https://advertising.amazon.jp/choose-account?destination=/marketing-cloud)?\n\nIf nothing appears there, whoever holds the seat admin needs to change your access permissions.\n\n**One warning**\n\nGet a data analyst, a real one. AMC is a different monster. Claude is great and it speeds things up, I use it on AMC and other Amazon DSP work. It will also mess it up in ways you won't see unless you have someone who does this for a living. Even with a good set of curated queries, it does not understand the context of each product or account, or which sales column is the right one.\n\nDon't trust my word, trust [Shuqing Ke](https://www.linkedin.com/feed/update/urn:li:activity:7492529780211388417/), who posts about exactly this. Not affiliated, I am just a fan of people who focus on one thing and do it well.\n\nCorrections and personal experiences welcome.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vljk2t",
+      "title": "$150M buy, now worth $69M",
+      "author": "data_spy",
+      "score": 1,
+      "url": "https://i.redd.it/7obgpv2kdrih1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vljk2t/150m_buy_now_worth_69m/",
+      "created_utc": 1786459705.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
