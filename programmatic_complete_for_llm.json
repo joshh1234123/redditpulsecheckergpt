@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-11T18:52:01.578872+00:00",
-    "total_posts": 1903,
+    "scrape_date": "2026-08-11T19:56:36.325899+00:00",
+    "total_posts": 1904,
     "total_comments": 10127
   },
   "discussions": [
@@ -88633,6 +88633,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vljk2t/150m_buy_now_worth_69m/",
       "created_utc": 1786459705.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vlqwy5",
+      "title": "63% of LLM brand visibility comes from long-term brand equity, only 26% from current marketing. So what exactly is GEO spend buying?",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vlqwy5/63_of_llm_brand_visibility_comes_from_longterm/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vlqwy5/63_of_llm_brand_visibility_comes_from_longterm/",
+      "created_utc": 1786475484.0,
+      "content": "That number is from a warc study run by charlie oscar, and it came up in a digiday piece about time selling ads inside markdown versions of its pages, built specifically for ai agents to read. sponsored faqs, basically.\n\nthe debate in the piece was whether that inventory is worth testing. some buyers said sure, clients are desperate for anything that moves ai visibility. others called it magical thinking. and then perplexity blocked time's agent ads outright and called them deceptive, so that part answered itself pretty fast.\n\nbut the 63/26 split is the thing I keep coming back to. if most of what determines whether an llm mentions your brand is accumulated brand equity, then almost every geo tactic being sold right now, content volume, visibility tracking tools, agent-readable ad units, is competing over the smaller quarter of the equation. honestly that's not nothing, a quarter is real. it just means the pitch most of these tools are making, that you can buy your way into llm answers, is overselling by a lot.\n\nThe practical read for anyone allocating budget: geo probably belongs in a test pot funded out of display, not as a line item that pulls from brand. and if the visibility you're chasing is mostly equity-driven, the boring answer is that brand spend is the geo strategy.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
