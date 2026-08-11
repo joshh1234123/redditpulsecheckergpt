@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-11T22:34:04.197293+00:00",
-    "total_posts": 1904,
-    "total_comments": 10127
+    "scrape_date": "2026-08-11T23:32:21.270982+00:00",
+    "total_posts": 1905,
+    "total_comments": 10132
   },
   "discussions": [
     {
@@ -88651,6 +88651,51 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vlwf7o",
+      "title": "Working at TTD",
+      "author": "perry_190",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vlwf7o/working_at_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vlwf7o/working_at_ttd/",
+      "created_utc": 1786487984.0,
+      "content": "Anyone know what working at TTD is like right now? Is it worth considering roles there?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "JimmyTango",
+          "body": "Ask a current employee to read their Blind access and you’ll see. 😱",
+          "score": 4,
+          "created_utc": 1786490006.0
+        },
+        {
+          "author": "CarmeloManning",
+          "body": "If you can get a job, get the job but …\n\nWho knows if they’re going fully agentic, getting bought out by a whale , etc ",
+          "score": 2,
+          "created_utc": 1786488233.0
+        },
+        {
+          "author": "PlasticLeading",
+          "body": "What role or team",
+          "score": 2,
+          "created_utc": 1786488660.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Take the role. Lots of money and good management. ",
+          "score": 2,
+          "created_utc": 1786489179.0
+        },
+        {
+          "author": "unranked_pow",
+          "body": "LOL you want to join ttd right now when the company is going to shit? ",
+          "score": -1,
+          "created_utc": 1786489519.0
+        }
+      ]
     }
   ]
 }

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1un5n3r",
-      "title": "AdCP vs AAMP protocols",
-      "author": "WildEstablishment267",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1un5n3r/adcp_vs_aamp_protocols/",
-      "created_utc": 1783160975.0,
-      "content": "If anyone have used either, please share your experience. have come across AdCP executions but how much of actual impact its had on time, costs, transparency etc. For IAB agentic framework, has anyone used or aiming to test it. Would be good to hear on the learnings, success/failure stories",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1unhzbd",
       "title": "Is Contract based programmatic advertising worth pursuing?",
       "author": "Possible_Eggplant_79",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786475484.0,
       "content": "That number is from a warc study run by charlie oscar, and it came up in a digiday piece about time selling ads inside markdown versions of its pages, built specifically for ai agents to read. sponsored faqs, basically.\n\nthe debate in the piece was whether that inventory is worth testing. some buyers said sure, clients are desperate for anything that moves ai visibility. others called it magical thinking. and then perplexity blocked time's agent ads outright and called them deceptive, so that part answered itself pretty fast.\n\nbut the 63/26 split is the thing I keep coming back to. if most of what determines whether an llm mentions your brand is accumulated brand equity, then almost every geo tactic being sold right now, content volume, visibility tracking tools, agent-readable ad units, is competing over the smaller quarter of the equation. honestly that's not nothing, a quarter is real. it just means the pitch most of these tools are making, that you can buy your way into llm answers, is overselling by a lot.\n\nThe practical read for anyone allocating budget: geo probably belongs in a test pot funded out of display, not as a line item that pulls from brand. and if the visibility you're chasing is mostly equity-driven, the boring answer is that brand spend is the geo strategy.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vlwf7o",
+      "title": "Working at TTD",
+      "author": "perry_190",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vlwf7o/working_at_ttd/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vlwf7o/working_at_ttd/",
+      "created_utc": 1786487984.0,
+      "content": "Anyone know what working at TTD is like right now? Is it worth considering roles there?",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }
