@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-12T17:26:28.670738+00:00",
-    "total_posts": 1907,
-    "total_comments": 10134
+    "scrape_date": "2026-08-12T18:14:30.111337+00:00",
+    "total_posts": 1908,
+    "total_comments": 10135
   },
   "discussions": [
     {
@@ -88737,6 +88737,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vmlft4",
+      "title": "10 years into this industry and I feel like I’m starting from scratch",
+      "author": "Fragrant_Service_855",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
+      "created_utc": 1786557245.0,
+      "content": "I’ve been in the industry for around 10 years — roughly 6 years in backend operations and another 4 years in the agency side, mostly handling activation, optimization, and reporting.\n\nRecently, I moved into a new project that feels pretty challenging because it involves a lot more planning, strategic thinking, and advising clients on the right platforms, formats, performance approach, etc. Honestly, life felt much simpler when the job was mostly setups and reporting . Now it’s much more hectic, and there’s a LOT to learn.\n\nI’m somehow managing by reminding myself: “You got a great project. This experience can help you move into a much better company next year.” \n\nSo, looking for some advice from people who have made a similar transition. Apart from the big agency groups (Top 4), what other companies/roles should I target, and what skills or topics should I focus on learning?\n\nMy goal is to land a really good next opportunity with a strong package within the next 6 months. I’m willing to put in around 12 hours every week towards learning/upskilling.\n\nWould really appreciate suggestions on what I should prioritize — programmatic, strategy, measurement, data/analytics, AI, retail media, etc. What would actually make the biggest difference for someone with my background?\n\nThanks in advance!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Possible_Eggplant_79",
+          "body": "Honestly, I’d lean into your existing experience rather than trying to reinvent yourself.\nFocus on strategy, measurement, data/SQL and AI, and learn to connect campaign execution with actual business outcomes.\nWith 10 years behind you, DSPs, adtech, retail media and measurement platforms could be a very strong next step.",
+          "score": 2,
+          "created_utc": 1786557663.0
+        }
+      ]
     }
   ]
 }

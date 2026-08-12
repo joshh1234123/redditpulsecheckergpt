@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uosycd",
-      "title": "How to Filter Only Active Campaigns in a DV360 Report?",
-      "author": "DotNo4675",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uosycd/how_to_filter_only_active_campaigns_in_a_dv360/",
-      "created_utc": 1783332061.0,
-      "content": "Hi everyone,\n\nI'm creating a report in DV360.\n\nIn the Dimension section, I added:\n\nAdvertiser\n\nCampaign\n\nInsertion Order\n\nDate\n\nIn the Metrics section, I added:\n\nImpressions\n\nClicks\n\nCTR\n\nThe issue is that my advertisers have many campaigns, including inactive ones. I only want the report to show active campaigns.\n\nIs there a way to filter the report so that only active campaigns are included? If so, how can I do that?\n\nThanks in advance!",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1up15uz",
       "title": "Does anyone have positive CTV pause ads Performance? QR code, Send to Email, Ad to card",
       "author": "NiceRecognition9603",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786527434.0,
       "content": "Hi folks, I'm evaluating DSP vendors to run brand awareness programmatic display/audio/DOOH ads for a global B2B business. The product has an enterprise and complex tech IT skew.\n\nShould I be mainly looking at DV360? Or is TTD worth a look as well?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vmlft4",
+      "title": "10 years into this industry and I feel like I’m starting from scratch",
+      "author": "Fragrant_Service_855",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
+      "created_utc": 1786557245.0,
+      "content": "I’ve been in the industry for around 10 years — roughly 6 years in backend operations and another 4 years in the agency side, mostly handling activation, optimization, and reporting.\n\nRecently, I moved into a new project that feels pretty challenging because it involves a lot more planning, strategic thinking, and advising clients on the right platforms, formats, performance approach, etc. Honestly, life felt much simpler when the job was mostly setups and reporting . Now it’s much more hectic, and there’s a LOT to learn.\n\nI’m somehow managing by reminding myself: “You got a great project. This experience can help you move into a much better company next year.” \n\nSo, looking for some advice from people who have made a similar transition. Apart from the big agency groups (Top 4), what other companies/roles should I target, and what skills or topics should I focus on learning?\n\nMy goal is to land a really good next opportunity with a strong package within the next 6 months. I’m willing to put in around 12 hours every week towards learning/upskilling.\n\nWould really appreciate suggestions on what I should prioritize — programmatic, strategy, measurement, data/analytics, AI, retail media, etc. What would actually make the biggest difference for someone with my background?\n\nThanks in advance!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
