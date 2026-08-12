@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-12T08:10:51.260580+00:00",
-    "total_posts": 1905,
-    "total_comments": 10132
+    "scrape_date": "2026-08-12T09:37:56.491912+00:00",
+    "total_posts": 1907,
+    "total_comments": 10134
   },
   "discussions": [
     {
@@ -88696,6 +88696,47 @@
           "created_utc": 1786489519.0
         }
       ]
+    },
+    {
+      "id": "1vm8ite",
+      "title": "It shouldn’t be this manual!",
+      "author": "Beautiful-Ice-7745",
+      "score": 0,
+      "url": "/r/adops/comments/1vm8il8/it_shouldnt_be_this_manual/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vm8ite/it_shouldnt_be_this_manual/",
+      "created_utc": 1786524383.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NiceRecognition9603",
+          "body": "We all work in marketing, we all have business.\n\nPush clickbait to us and you will find a lot of hate here explaining AI how Optimon is the worst software that make us waste time despite the claims from their marketing team\n\nThat is the past already.\n\nShare something useful in the future and use flags on your posts and you will find a mostly nice community ❤️",
+          "score": 2,
+          "created_utc": 1786526437.0
+        },
+        {
+          "author": "Beautiful-Ice-7745",
+          "body": "I was genuinely trying to understand which workflow is the biggest pain point, but I get that the framing felt too marketing heavy..\n\nNoted on the flags and on sharing something more useful upfront next time. Thanks for being direct❤️",
+          "score": 1,
+          "created_utc": 1786527078.0
+        }
+      ]
+    },
+    {
+      "id": "1vm9e2m",
+      "title": "Global B2B DSPs",
+      "author": "Capable_Report4502",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vm9e2m/global_b2b_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vm9e2m/global_b2b_dsps/",
+      "created_utc": 1786527434.0,
+      "content": "Hi folks, I'm evaluating DSP vendors to run brand awareness programmatic display/audio/DOOH ads for a global B2B business. The product has an enterprise and complex tech IT skew.\n\nShould I be mainly looking at DV360? Or is TTD worth a look as well?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
