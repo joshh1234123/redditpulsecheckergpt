@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uqnjgq",
-      "title": "Migration of Exchange",
-      "author": "Narrow-Monitor-8483",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uqnjgq/migration_of_exchange/",
-      "created_utc": 1783502523.0,
-      "content": "Has anyone migrated from PLL to Adelion? What difference you observed in bid rate, fill rate and latency?  \nWhich exchange would you suggest with experience.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uqnldj",
       "title": "New Ad Exchange",
       "author": "Narrow-Monitor-8483",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vn7431/what_is_the_real_cost_of_connected_tv_ads/",
       "created_utc": 1786617517.0,
       "content": "Our first budget for streaming TV advertising came in well under what we ended up spending, and none of the gap was media. Every pricing page quotes a rate and stops there.\n\nPlatform fees sit on top as a percentage of spend. Creative was the bigger surprise, since our social cuts needed a proper TV edit first. Some self-serve CTV vendors also hold a minimum, which sets what a small test costs before you learn anything.\n\nThe rate moves too. Premium apps and tighter targeting price higher than broad inventory, so one flat number for connected TV ads is an average across very different buys.\n\nWhat comes back matters more than the rate. Cheap inventory you cannot see, with reporting that stops at completed views, costs more than a higher rate with placement level data and real conversion tracking behind it.\n\nAnyone running streaming for a D2C or ecommerce account, what does the full cost look like once fees and creative are counted?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vnemiw",
+      "title": "Is there a difference in performance across contextual?",
+      "author": "evgeny3000",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "created_utc": 1786636400.0,
+      "content": "Wondering if the contextual targeting space is a pure commodity or if folks are seeing meaningful performance differences between TTD, IAS, DV, GumGum or others. ",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

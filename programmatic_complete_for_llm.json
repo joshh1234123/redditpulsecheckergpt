@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-13T15:29:14.175374+00:00",
-    "total_posts": 1913,
-    "total_comments": 10136
+    "scrape_date": "2026-08-13T16:24:50.885835+00:00",
+    "total_posts": 1914,
+    "total_comments": 10137
   },
   "discussions": [
     {
@@ -88833,6 +88833,27 @@
           "body": "You are probably budgeting too little money to have any real measurable impact. But amazon dsp is the platform right now if you want to target premium inventory with smaller budgets.",
           "score": 1,
           "created_utc": 1786618208.0
+        }
+      ]
+    },
+    {
+      "id": "1vnemiw",
+      "title": "Is there a difference in performance across contextual?",
+      "author": "evgeny3000",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "created_utc": 1786636400.0,
+      "content": "Wondering if the contextual targeting space is a pure commodity or if folks are seeing meaningful performance differences between TTD, IAS, DV, GumGum or others. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MichaelsMotorcycle",
+          "body": "Test and learn. Let us know. ",
+          "score": 1,
+          "created_utc": 1786636887.0
         }
       ]
     }

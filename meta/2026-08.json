@@ -614,6 +614,21 @@
       "link_flair_text": null,
       "thread_id": "1vn7431",
       "thread_path": "1vn7431.json"
+    },
+    {
+      "id": "1vnemiw",
+      "title": "Is there a difference in performance across contextual?",
+      "author": "evgeny3000",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vnemiw/is_there_a_difference_in_performance_across/",
+      "created_utc": 1786636400.0,
+      "content": "Wondering if the contextual targeting space is a pure commodity or if folks are seeing meaningful performance differences between TTD, IAS, DV, GumGum or others. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vnemiw",
+      "thread_path": "1vnemiw.json"
     }
   ]
 }
