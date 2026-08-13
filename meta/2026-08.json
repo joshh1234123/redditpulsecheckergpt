@@ -554,6 +554,21 @@
       "link_flair_text": null,
       "thread_id": "1vmv7cp",
       "thread_path": "1vmv7cp.json"
+    },
+    {
+      "id": "1vn5txq",
+      "title": "DSP comparison",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "created_utc": 1786613114.0,
+      "content": "Hi all  \nHas anyone worked on a recent DSP comparison for the major ones (TTD, DV360, Amazon) with key advantages and limitations ? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vn5txq",
+      "thread_path": "1vn5txq.json"
     }
   ]
 }

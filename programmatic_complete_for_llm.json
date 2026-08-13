@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-13T08:15:17.181526+00:00",
-    "total_posts": 1909,
+    "scrape_date": "2026-08-13T09:38:50.005055+00:00",
+    "total_posts": 1910,
     "total_comments": 10135
   },
   "discussions": [
@@ -88768,6 +88768,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vmv7cp/anyone_have_a_lot_of_experience_with_hulu_deals/",
       "created_utc": 1786579982.0,
       "content": "Curious about quality of deals. I see Drax Deal around $30s for Hulu, Disney+, Espn then I see Hulu deals at $42.\n\nIs the $42 floor deal that much better in quality of access, Is it worth the premium?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vn5txq",
+      "title": "DSP comparison",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "created_utc": 1786613114.0,
+      "content": "Hi all  \nHas anyone worked on a recent DSP comparison for the major ones (TTD, DV360, Amazon) with key advantages and limitations ? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1up77hy",
-      "title": "Publisher traffic is down but CPMs are up 24% YoY, data from our publisher network",
-      "author": "DataBeat_adtech",
-      "score": 5,
-      "url": "https://www.reddit.com/r/programmatic/comments/1up77hy/publisher_traffic_is_down_but_cpms_are_up_24_yoy/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1up77hy/publisher_traffic_is_down_but_cpms_are_up_24_yoy/",
-      "created_utc": 1783365353.0,
-      "content": "May data from our publisher network tells two stories at once, 35B+ impressions, $55M+ revenue tracked across 200+ bidders, and they're moving in completely opposite directions.  \n  \nTraffic-  \nSessions per user down 6%, pageviews per user down 7%, engagement rate slipping. ChatGPT referrals jumped 130% month over month which sounds big until you see it is still only 3.4% of total referral volume. Direct traffic and email are actually the strongest performing channels right now in terms of engagement quality. Paid social is growing fast but the traffic quality is weak.  \n  \nCPMs-  \nOverall up 24% year over year. Display up 10.6% YoY, video clawing back into positive YoY territory after a rough stretch. Desktop had a particularly strong month, up 14.5% MoM and now sitting at a real premium over mobile. CTV partially recovered month over month but still down 14.7% on a yearly basis.  \n  \nIntegration-  \nPrebid dropped from 48% to 41% share while AdX expanded and TAM grew. Buyers rotating toward more controlled supply paths and away from open auction. Ad Exchange posted the strongest YoY CPM gain at 60.5%.  \n  \nBuying Behavior-  \nLooked at how AI driven buying end to end compares against traditional buying this month. The AI driven side is entering 86% fewer auctions but still hitting comparable CPMs and actually a higher fill rate. Bidding far less, converting better. Worth watching as it scales.  \nCurious what others are seeing on the traffic vs CPM split and whether the desktop premium is showing up on your end too.  \n  \nP.S. The Agentic DSP section in our previous post sparked some confusion, so we've revised the report for clarity. Our intent was to highlight agentic buying and the growing role of AI in bidding and optimization, not to suggest a new DSP category.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uq3ddf",
       "title": "Has anyone used Dandelion for a TTD seat?",
       "author": "SLIP215",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vmv7cp/anyone_have_a_lot_of_experience_with_hulu_deals/",
       "created_utc": 1786579982.0,
       "content": "Curious about quality of deals. I see Drax Deal around $30s for Hulu, Disney+, Espn then I see Hulu deals at $42.\n\nIs the $42 floor deal that much better in quality of access, Is it worth the premium?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vn5txq",
+      "title": "DSP comparison",
+      "author": "Chi-biusa2z",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn5txq/dsp_comparison/",
+      "created_utc": 1786613114.0,
+      "content": "Hi all  \nHas anyone worked on a recent DSP comparison for the major ones (TTD, DV360, Amazon) with key advantages and limitations ? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
