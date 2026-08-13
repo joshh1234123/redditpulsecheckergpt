@@ -569,6 +569,51 @@
       "link_flair_text": null,
       "thread_id": "1vn5txq",
       "thread_path": "1vn5txq.json"
+    },
+    {
+      "id": "1vn6eb2",
+      "title": "AI: Prompt for placement exclusion",
+      "author": "Beneficial_Class4660",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
+      "created_utc": 1786615121.0,
+      "content": "Hi all,\n\nDoes anyone use a strong prompt to exclude low-quality or \"trash\" placements? \n\nI'm struggling with this since I don't have access to on-site performance data (conversion rate, average session duration, etc.). So what should the AI base its judgment on to identify a good vs. bad placement?\n\nAny help is more than welcome\n\n\n\nthanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vn6eb2",
+      "thread_path": "1vn6eb2.json"
+    },
+    {
+      "id": "1vn6ffb",
+      "title": "AI: Prompt for placement exclusion",
+      "author": "Beneficial_Class4660",
+      "score": 0,
+      "url": "/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn6ffb/ai_prompt_for_placement_exclusion/",
+      "created_utc": 1786615225.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vn6ffb",
+      "thread_path": "1vn6ffb.json"
+    },
+    {
+      "id": "1vn7431",
+      "title": "What is the real cost of connected TV ads?",
+      "author": "No_Wedding_209",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vn7431/what_is_the_real_cost_of_connected_tv_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn7431/what_is_the_real_cost_of_connected_tv_ads/",
+      "created_utc": 1786617517.0,
+      "content": "Our first budget for streaming TV advertising came in well under what we ended up spending, and none of the gap was media. Every pricing page quotes a rate and stops there.\n\nPlatform fees sit on top as a percentage of spend. Creative was the bigger surprise, since our social cuts needed a proper TV edit first. Some self-serve CTV vendors also hold a minimum, which sets what a small test costs before you learn anything.\n\nThe rate moves too. Premium apps and tighter targeting price higher than broad inventory, so one flat number for connected TV ads is an average across very different buys.\n\nWhat comes back matters more than the rate. Cheap inventory you cannot see, with reporting that stops at completed views, costs more than a higher rate with placement level data and real conversion tracking behind it.\n\nAnyone running streaming for a D2C or ecommerce account, what does the full cost look like once fees and creative are counted?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vn7431",
+      "thread_path": "1vn7431.json"
     }
   ]
 }
