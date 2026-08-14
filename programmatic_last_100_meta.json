@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1usmrrq",
-      "title": "If one owned a stack with the following functions could they get hired? WordPress multisite hosting, ad server, bad bot blocker, conversion tracker, prebidserver/prebid.js",
-      "author": "eze008",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1usmrrq/if_one_owned_a_stack_with_the_following_functions/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1usmrrq/if_one_owned_a_stack_with_the_following_functions/",
-      "created_utc": 1783687802.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uswp4a",
       "title": "Vibe.co ads",
       "author": "LarryFunkhouser",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786711639.0,
       "content": "With the amount of sales people being hired just to sell PMP, would a Sales House that specializes in PMP opportunity volume be attractive to media owners and tech vendors?\n\nWe have been pitched by 2 medium/large private companies in the ad tech space who are interested in outsourcing the sales force in return for a flat monthly fee, no pension contributions or healthcare funding for the US.\n\nJust curious as to if this makes sense to anyone else in a decision making capacity and how much would be fair market value per dedicated headcount/resource?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vomhe2",
+      "title": "Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vomhe2/amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vomhe2/amazon_ads/",
+      "created_utc": 1786748894.0,
+      "content": "I have Amazon Ads from my ad tech partner but I feel like my account somehow is provisioned or limited as Private Auction deals for Prime Video with 1 bill available impressions barely get any impressions no matter how high i make my bid or expand my geo area.\n\nIs there another company that gives you access to Amazon Ads, then at least I can see if my theory is correct that something to do with my Ad tech partner provisioning of my accord.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

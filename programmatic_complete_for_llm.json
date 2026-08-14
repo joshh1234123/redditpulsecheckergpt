@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-14T22:47:20.801831+00:00",
-    "total_posts": 1917,
+    "scrape_date": "2026-08-14T23:14:35.651324+00:00",
+    "total_posts": 1918,
     "total_comments": 10140
   },
   "discussions": [
@@ -88919,6 +88919,20 @@
           "created_utc": 1786712950.0
         }
       ]
+    },
+    {
+      "id": "1vomhe2",
+      "title": "Amazon Ads",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vomhe2/amazon_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vomhe2/amazon_ads/",
+      "created_utc": 1786748894.0,
+      "content": "I have Amazon Ads from my ad tech partner but I feel like my account somehow is provisioned or limited as Private Auction deals for Prime Video with 1 bill available impressions barely get any impressions no matter how high i make my bid or expand my geo area.\n\nIs there another company that gives you access to Amazon Ads, then at least I can see if my theory is correct that something to do with my Ad tech partner provisioning of my accord.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
