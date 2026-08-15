@@ -689,6 +689,21 @@
       "link_flair_text": null,
       "thread_id": "1vomhe2",
       "thread_path": "1vomhe2.json"
+    },
+    {
+      "id": "1vpe9ud",
+      "title": "ID presence vs IDless auction values",
+      "author": "SlamDunkel",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vpe9ud/id_presence_vs_idless_auction_values/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vpe9ud/id_presence_vs_idless_auction_values/",
+      "created_utc": 1786828342.0,
+      "content": "**Sell-side folks: how many bidders actually show up when an ID is present vs. not?**\n\nTrying to get a rough cut of the distribution of bidders per auction and how that tracks with ID presence. Essentially, how many more bidders and how much higher are auctions with IDs present vs IDless auctions?\n\nThe assumption is that a deterministic ID in the bid request pulls in meaningfully more bidders and that thin auctions are mostly unrecognized traffic. Directionally that makes sense to me, but I’m curious to understand the magnitude.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vpe9ud",
+      "thread_path": "1vpe9ud.json"
     }
   ]
 }

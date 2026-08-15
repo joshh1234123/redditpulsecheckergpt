@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uswp4a",
-      "title": "Vibe.co ads",
-      "author": "LarryFunkhouser",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uswp4a/vibeco_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uswp4a/vibeco_ads/",
-      "created_utc": 1783709694.0,
-      "content": "Is anyone getting absolutely drowned in ads promoting vibe.co? CTV, social channels etc.. whoever is managing their buy and frequency settings need to be fired ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ut2o0g",
       "title": "Programmatic Best Practices - Help Needed",
       "author": "dalbroker",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vomhe2/amazon_ads/",
       "created_utc": 1786748894.0,
       "content": "I have Amazon Ads from my ad tech partner but I feel like my account somehow is provisioned or limited as Private Auction deals for Prime Video with 1 bill available impressions barely get any impressions no matter how high i make my bid or expand my geo area.\n\nIs there another company that gives you access to Amazon Ads, then at least I can see if my theory is correct that something to do with my Ad tech partner provisioning of my accord.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vpe9ud",
+      "title": "ID presence vs IDless auction values",
+      "author": "SlamDunkel",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vpe9ud/id_presence_vs_idless_auction_values/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vpe9ud/id_presence_vs_idless_auction_values/",
+      "created_utc": 1786828342.0,
+      "content": "**Sell-side folks: how many bidders actually show up when an ID is present vs. not?**\n\nTrying to get a rough cut of the distribution of bidders per auction and how that tracks with ID presence. Essentially, how many more bidders and how much higher are auctions with IDs present vs IDless auctions?\n\nThe assumption is that a deterministic ID in the bid request pulls in meaningfully more bidders and that thin auctions are mostly unrecognized traffic. Directionally that makes sense to me, but I’m curious to understand the magnitude.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
