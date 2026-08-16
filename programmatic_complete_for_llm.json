@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-16T17:42:29.090644+00:00",
-    "total_posts": 1919,
+    "scrape_date": "2026-08-16T18:18:00.135910+00:00",
+    "total_posts": 1920,
     "total_comments": 10140
   },
   "discussions": [
@@ -88943,6 +88943,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vpe9ud/id_presence_vs_idless_auction_values/",
       "created_utc": 1786828342.0,
       "content": "**Sell-side folks: how many bidders actually show up when an ID is present vs. not?**\n\nTrying to get a rough cut of the distribution of bidders per auction and how that tracks with ID presence. Essentially, how many more bidders and how much higher are auctions with IDs present vs IDless auctions?\n\nThe assumption is that a deterministic ID in the bid request pulls in meaningfully more bidders and that thin auctions are mostly unrecognized traffic. Directionally that makes sense to me, but I’m curious to understand the magnitude.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vq3g8t",
+      "title": "New DV360 Line Items, Low CPMs on Premium Publishers, why.",
+      "author": "Ok_Instance1684",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vq3g8t/new_dv360_line_items_low_cpms_on_premium/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vq3g8t/new_dv360_line_items_low_cpms_on_premium/",
+      "created_utc": 1786902251.0,
+      "content": "Assuming low CPM isn't something to be proud of when it costs conversion value and quantity.  \n  \nSomething I've noticed across most new DV360 Display Line Items I've had access to is that during their first 2 - 4 weeks, they often start buying impressions at relatively low CPMs, even when whitelisted to premium publishers. Those lower CPMs also seem to correlate with poorer conversion quality during the initial period.\n\nAs the LI starts finding conversions at an acceptable CPA or below tCPA, the average CPM tends to increase gradually day by day.\n\nI've seen this across T1–T3 GEOs, multiple niches, and LIs optimized for conversions or tCPA using Daily ASAP pacing, even when relevant conversion data already exists.\n\nI'm trying to figure out if there's a better way than Fixed Bid to bid more aggressively for higher-value impressions from day one instead of waiting weeks for the LI to get there. Let me know what you think.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
