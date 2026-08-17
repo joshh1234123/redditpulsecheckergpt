@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-17T20:17:44.904397+00:00",
-    "total_posts": 1921,
-    "total_comments": 10141
+    "scrape_date": "2026-08-17T20:51:27.275874+00:00",
+    "total_posts": 1922,
+    "total_comments": 10144
   },
   "discussions": [
     {
@@ -88980,6 +88980,39 @@
           "body": "I’m sorry",
           "score": 3,
           "created_utc": 1786947157.0
+        }
+      ]
+    },
+    {
+      "id": "1vr41ay",
+      "title": "Colgate account?",
+      "author": "mjt2014",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vr41ay/colgate_account/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vr41ay/colgate_account/",
+      "created_utc": 1786998874.0,
+      "content": "Has anyone here worked under the Colgate account? I have a callback interview for this team at WPP media, and I’m just wondering if anyone has any insights into this account and its ways of working. Was it overwhelming? Chill? \n\nI’m coming from a cpg account that has almost no work-life balance so this has been key for me in my ongoing job search. Appreciate it!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Mike-Nicholson",
+          "body": "Can’t help I’m afraid, but I wish you all the best of luck for the interview!",
+          "score": 1,
+          "created_utc": 1786999281.0
+        },
+        {
+          "author": "joeychestnutsrectum",
+          "body": "In a non programmatic role yes I have, and they were awesome people but obviously the agency itself puts a lot of pressure on performance for such a large customer.",
+          "score": 1,
+          "created_utc": 1786999519.0
+        },
+        {
+          "author": "SpecialistStore3173",
+          "body": "I'd be careful calling out specific accounts. I've worked with this team and they're good people",
+          "score": 1,
+          "created_utc": 1786999639.0
         }
       ]
     }
