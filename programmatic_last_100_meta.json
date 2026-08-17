@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1utldb2",
-      "title": "DV360 and Spotify",
-      "author": "AbroadScared6371",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1utldb2/dv360_and_spotify/",
-      "created_utc": 1783779556.0,
-      "content": "Hello,   \nI’m quite new to display and video 360  \nI want to advertise audio ads on Spotify can someone please help me on what settings should I use?  \nIt is not spending when I tried open auction and targeted Spotify iOS and android apps\n\nI also tried private deal with 5$ ( I haven’t advertised on Spotify before I just want to test the placement) - it has been viewed for now\n\nI also am trying to advertise in Georgia (country) and I don’t even know if there is Spotify ad audio inventory available via dv360\n\nThank you for your time who read this  \nI will appreciate any help ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uu9089",
       "title": "[DV360] programmatic ads in general?",
       "author": "Hefty_Bet262",
@@ -1302,6 +1289,19 @@
       "created_utc": 1786902251.0,
       "content": "Assuming low CPM isn't something to be proud of when it costs conversion value and quantity.  \n  \nSomething I've noticed across most new DV360 Display Line Items I've had access to is that during their first 2 - 4 weeks, they often start buying impressions at relatively low CPMs, even when whitelisted to premium publishers. Those lower CPMs also seem to correlate with poorer conversion quality during the initial period.\n\nAs the LI starts finding conversions at an acceptable CPA or below tCPA, the average CPM tends to increase gradually day by day.\n\nI've seen this across T1–T3 GEOs, multiple niches, and LIs optimized for conversions or tCPA using Daily ASAP pacing, even when relevant conversion data already exists.\n\nI'm trying to figure out if there's a better way than Fixed Bid to bid more aggressively for higher-value impressions from day one instead of waiting weeks for the LI to get there. Let me know what you think.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vqk0hz",
+      "title": "10 days into a Big 4 agency (took a pay cut for role) — zero onboarding, toxic vibe, work piled up. What do I do?",
+      "author": "HeyItsAmisha",
+      "score": 0,
+      "url": "/r/advertising/comments/1vqk02o/10_days_into_a_big_4_agency_took_a_pay_cut_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vqk0hz/10_days_into_a_big_4_agency_took_a_pay_cut_for/",
+      "created_utc": 1786946739.0,
+      "content": "",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-17T05:58:39.964498+00:00",
-    "total_posts": 1920,
-    "total_comments": 10140
+    "scrape_date": "2026-08-17T06:53:38.873807+00:00",
+    "total_posts": 1921,
+    "total_comments": 10141
   },
   "discussions": [
     {
@@ -88961,6 +88961,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vqk0hz",
+      "title": "10 days into a Big 4 agency (took a pay cut for role) — zero onboarding, toxic vibe, work piled up. What do I do?",
+      "author": "HeyItsAmisha",
+      "score": 0,
+      "url": "/r/advertising/comments/1vqk02o/10_days_into_a_big_4_agency_took_a_pay_cut_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vqk0hz/10_days_into_a_big_4_agency_took_a_pay_cut_for/",
+      "created_utc": 1786946739.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "I’m sorry",
+          "score": 3,
+          "created_utc": 1786947157.0
+        }
+      ]
     }
   ]
 }
