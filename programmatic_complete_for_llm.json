@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-18T14:04:36.923054+00:00",
-    "total_posts": 1922,
+    "scrape_date": "2026-08-18T15:00:17.491825+00:00",
+    "total_posts": 1923,
     "total_comments": 10144
   },
   "discussions": [
@@ -89015,6 +89015,20 @@
           "created_utc": 1786999639.0
         }
       ]
+    },
+    {
+      "id": "1vrrf0o",
+      "title": "Amazon Ads Got Rid of Base Bids",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vrrf0o/amazon_ads_got_rid_of_base_bids/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vrrf0o/amazon_ads_got_rid_of_base_bids/",
+      "created_utc": 1787064739.0,
+      "content": "Now that Amazon Ads now longer has a base bid option, how are you setting up the bids?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
