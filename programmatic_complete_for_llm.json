@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-18T19:06:44.069064+00:00",
-    "total_posts": 1923,
+    "scrape_date": "2026-08-18T19:47:39.860702+00:00",
+    "total_posts": 1924,
     "total_comments": 10144
   },
   "discussions": [
@@ -89025,6 +89025,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vrrf0o/amazon_ads_got_rid_of_base_bids/",
       "created_utc": 1787064739.0,
       "content": "Now that Amazon Ads now longer has a base bid option, how are you setting up the bids?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vrz3pl",
+      "title": "Reliable MMM tool for Programmatic",
+      "author": "Realistic-Focus-8254",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vrz3pl/reliable_mmm_tool_for_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vrz3pl/reliable_mmm_tool_for_programmatic/",
+      "created_utc": 1787080777.0,
+      "content": "Media buyer at an indie agency here! We run across a few DSPs mainly for display and video. The activity is mainly driving view-through conversions (obv), and clients are starting to catch on and pulling back spend because they're under the impression, we're not actually driving performance, just claiming credit for purchases we didn't influence. \n\nWe've previously worked with TripleWhale but they seem more geared toward lead-gen, and most of our BoB is ecommerce, so ideally something that integrates well with Shopify. I'm on a small, lean team, not super senior, and don't have a ton of internal support to figure this out on my own, so I'm trying to gauge what some practical options are.\n\nHas anyone worked with an MMM partner that actually isolates programmatic's real incremental lift (not just view-through), or has anyone built something custom, like a dashboard in Claude Code, instead of paying for a vendor? Trying to weigh different options here. Thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
