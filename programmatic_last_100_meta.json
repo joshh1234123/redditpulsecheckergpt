@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uwdyo0",
-      "title": "+64.8K net new ads.txt lines this month - but resellers are winning the growth race, not direct",
-      "author": "DataBeat_adtech",
-      "score": 4,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uwdyo0/648k_net_new_adstxt_lines_this_month_but/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uwdyo0/648k_net_new_adstxt_lines_this_month_but/",
-      "created_utc": 1784047244.0,
-      "content": "Sharing key signals from our latest Sellers Report: the market added 478.5K new ads.txt lines and removed 413.7K, producing a net of +64.8K. Resellers accounted for 56.9% of gross additions, the third consecutive month of reseller-led growth.  \n4 things that stood out:\n\n* **Reseller growth is outpacing direct** \\- Until publishers shift more onboarding to direct, auction duplication keeps climbing, adding cost for buyers and carbon overhead for everyone. \n* **Mid-Traffic publishers are leading net growth** \\- +25.6K, ahead of both High-Traffic (+20.3K) and Low-Traffic (+18.9K). First month in the series where the long tail didn't lead. The 501–2,000 rank band is in active expansion. \n* **PubMatic is the only SSP in all three publisher-tier top fives** \\- Backed by 13% YoY Q1 revenue growth, CTV up 18%, and the June 2026 Creator Marketplace launch (first programmatic CTV auction for independent creator publishers). \n* **Auction duplication is getting worse for Established SSPs** \\- 46% of Tier 1 domains are now duplicated across direct + reseller paths. That means nearly half of every auction an Established SSP enters is competing against itself. \n\nWhat this really points to: supply path complexity isn't shrinking, it's compounding. The SSPs winning direct connections in 2026 (Ozone, Wunderkind) are solving specific buyer problems, like cookieless first-party data or behavioral CTV formats, not just offering more reach.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ux5mem",
       "title": "Marketing agent fleets have the same 58%-burned-after-the-warning problem coding fleets do, nobody's watching for it on the cost side",
       "author": "MaverikSh",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787147123.0,
       "content": "Hi everyone,\n\nI'm currently working at a digital marketing agency in India and I'm transitioning from SEO into performance marketing.\n\nMy agency is currently training people for different performance-marketing teams, and I have to choose one specialization/team to enter:\n\n\\- Programmatic Advertising\n\n\\- Meta Ads / Paid Social\n\nI'm leaning toward programmatic because it seems more specialized and technical, but I'm concerned about the smaller number of entry-level opportunities compared with Meta and more ai automation.\n\nI'd love advice from people working in either field:\n\n1) Is programmatic a good career choice long-term?\n\n2) If you could choose only one today, would you pick programmatic or Meta? Why?\n\n3) How good are the salary and growth opportunities in programmatic?\n\n4) Is it difficult to enter programmatic without prior experience?\n\n5)How much of the job is actual optimization/strategy vs trafficking, reporting and operations?\n\nHow vulnerable is programmatic to AI and DSP automation?\n\n6)Are DV360/CM360/TTD skills transferable between companies?\n\n7)If I start with Meta, can I transition into programmatic later, and vice versa?\n\n8)Which one gives better opportunities to eventually move into media planning, analytics or growth marketing?\n\nI'm looking for honest opinions from people actually working in these fields, especially anyone who has experience with both.\n\nThanks!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vszxae",
+      "title": "Anyone still using a spreadsheet for pacing?",
+      "author": "satyagrahaARG",
+      "score": 2,
+      "url": "/r/adops/comments/1vspud8/anyone_still_using_a_spreadsheet_for_pacing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vszxae/anyone_still_using_a_spreadsheet_for_pacing/",
+      "created_utc": 1787175339.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

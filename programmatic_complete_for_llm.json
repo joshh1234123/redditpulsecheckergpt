@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-19T21:18:53.662997+00:00",
-    "total_posts": 1928,
+    "scrape_date": "2026-08-19T21:48:46.722851+00:00",
+    "total_posts": 1929,
     "total_comments": 10145
   },
   "discussions": [
@@ -89106,6 +89106,20 @@
           "created_utc": 1787148206.0
         }
       ]
+    },
+    {
+      "id": "1vszxae",
+      "title": "Anyone still using a spreadsheet for pacing?",
+      "author": "satyagrahaARG",
+      "score": 2,
+      "url": "/r/adops/comments/1vspud8/anyone_still_using_a_spreadsheet_for_pacing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vszxae/anyone_still_using_a_spreadsheet_for_pacing/",
+      "created_utc": 1787175339.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
