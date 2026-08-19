@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uvv5zf",
-      "title": "Canvas Worldwide",
-      "author": "Dazzling_Buyer_7746",
-      "score": 2,
-      "url": "/r/advertising/comments/1uvsd9y/canvas_worldwide/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uvv5zf/canvas_worldwide/",
-      "created_utc": 1783994034.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uvw7yq",
       "title": "Building an SSP, looking for Bidswitch alternatives",
       "author": "MissionOk889",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vsg6vn/mobile_advertising_id_maid_integration_into_ads/",
       "created_utc": 1787127203.0,
       "content": "Hi all, \n\nI'm currently exploring how to use Mobile Advertising IDs and how they can be used for retargeting  but am fairly new to using unique ids for targeting. So far I've collected MAIDs from an app that we're running and I'm looking to export those MAIDs into other social media platforms via a CSV upload. \n\nI've so far tried: \n\n\\- Meta (Facebook audiences) \n\n\\- Google ads (Audience Manager)\n\n\\- X (Audiences)\n\n\\- My go to DSP (Smarty Ads) \n\nI've used their templates and the upload procees appears to work but so far none of the MAIDs have matched with an actual user though. I've also tried another MAID list and had the same problem (zero matches). \n\nAny help would be much appreciated. Is this still possible on social media platforms? Does anyone have any DSP recommendations for me to try uploading MAIDs to? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vsjkg8",
+      "title": "What are the biggest red flags when choosing a programmatic advertising course?",
+      "author": "gvshivacharan",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vsjkg8/what_are_the_biggest_red_flags_when_choosing_a/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vsjkg8/what_are_the_biggest_red_flags_when_choosing_a/",
+      "created_utc": 1787138440.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
