@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-19T08:00:59.965769+00:00",
-    "total_posts": 1924,
+    "scrape_date": "2026-08-19T08:44:17.664824+00:00",
+    "total_posts": 1926,
     "total_comments": 10144
   },
   "discussions": [
@@ -89039,6 +89039,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vrz3pl/reliable_mmm_tool_for_programmatic/",
       "created_utc": 1787080777.0,
       "content": "Media buyer at an indie agency here! We run across a few DSPs mainly for display and video. The activity is mainly driving view-through conversions (obv), and clients are starting to catch on and pulling back spend because they're under the impression, we're not actually driving performance, just claiming credit for purchases we didn't influence. \n\nWe've previously worked with TripleWhale but they seem more geared toward lead-gen, and most of our BoB is ecommerce, so ideally something that integrates well with Shopify. I'm on a small, lean team, not super senior, and don't have a ton of internal support to figure this out on my own, so I'm trying to gauge what some practical options are.\n\nHas anyone worked with an MMM partner that actually isolates programmatic's real incremental lift (not just view-through), or has anyone built something custom, like a dashboard in Claude Code, instead of paying for a vendor? Trying to weigh different options here. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vsg3o3",
+      "title": "Programmatic jobs openings in India",
+      "author": "reach_roshan",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vsg3o3/programmatic_jobs_openings_in_india/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vsg3o3/programmatic_jobs_openings_in_india/",
+      "created_utc": 1787126889.0,
+      "content": "I've 4-5 years exp in programmatic. Started in Ad Ops, and last role was managing campaigns. Worked on many DSP including Xandr, Yahoo, TTD and many others managing good budget. I haven't managed campaigns on DV360, though i've done trafficking on it. Finding really hard to find an entry to next company. I moved on from previous night shift role and badly wanted dayshift in Bengaluru or remote. Is the market difficult now? or  can it be due to the method i use to apply. I use linkedin jobs a lot but failed to get any replies. A few referrals didnt work. Got rejected/ or no replies from agencies like wpp, publicis, dentsu etc even with referrals. Should i try more through naukri or other platforms or 3rd party agencies?  \nAlso, is it really hard getting into top tier companies like adobe, google etc later? Any advises or referrals",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vsg6vn",
+      "title": "Mobile Advertising ID/ MAID integration into Ads Platforms",
+      "author": "turpiturpii",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vsg6vn/mobile_advertising_id_maid_integration_into_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vsg6vn/mobile_advertising_id_maid_integration_into_ads/",
+      "created_utc": 1787127203.0,
+      "content": "Hi all, \n\nI'm currently exploring how to use Mobile Advertising IDs and how they can be used for retargeting  but am fairly new to using unique ids for targeting. So far I've collected MAIDs from an app that we're running and I'm looking to export those MAIDs into other social media platforms via a CSV upload. \n\nI've so far tried: \n\n\\- Meta (Facebook audiences) \n\n\\- Google ads (Audience Manager)\n\n\\- X (Audiences)\n\n\\- My go to DSP (Smarty Ads) \n\nI've used their templates and the upload procees appears to work but so far none of the MAIDs have matched with an actual user though. I've also tried another MAID list and had the same problem (zero matches). \n\nAny help would be much appreciated. Is this still possible on social media platforms? Does anyone have any DSP recommendations for me to try uploading MAIDs to? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
