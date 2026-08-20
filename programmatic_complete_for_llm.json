@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-20T02:13:06.849590+00:00",
-    "total_posts": 1929,
-    "total_comments": 10145
+    "scrape_date": "2026-08-20T03:23:21.216041+00:00",
+    "total_posts": 1930,
+    "total_comments": 10148
   },
   "discussions": [
     {
@@ -89120,6 +89120,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vt6xcl",
+      "title": "Need Guidance!",
+      "author": "DistinctHamster6092",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vt6xcl/need_guidance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vt6xcl/need_guidance/",
+      "created_utc": 1787193069.0,
+      "content": "Hi! I’ve been working in ad sales for a news organization, primarily selling digital display, newsletters, email marketing, sponsored content, and other digital advertising solutions.\n\nI’m really interested in moving into the programmatic side of advertising, particularly programmatic sales, but I honestly don’t have much knowledge or experience in programmatic yet.\n\nI’d really appreciate some guidance on how I can make that transition — where should I start, what should I learn, and what skills or knowledge would help me break into programmatic sales? The experience is around 8 years!",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "zabpremier",
+          "body": "Does your org have a programmatic setup or team? I’d start there.",
+          "score": 1,
+          "created_utc": 1787194762.0
+        },
+        {
+          "author": "DistinctHamster6092",
+          "body": "Nope!",
+          "score": 1,
+          "created_utc": 1787194836.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "I’ve seen sales with limited programmatic knowledge. They are a joke along with the company. Be careful of legacy news networks that are transitioning from print to digital offering a wide range of digital services. Commission structures can be wacky and management sets you up for failure. ",
+          "score": 1,
+          "created_utc": 1787195796.0
+        }
+      ]
     }
   ]
 }
