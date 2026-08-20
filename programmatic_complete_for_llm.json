@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-20T23:18:53.719022+00:00",
-    "total_posts": 1931,
-    "total_comments": 10149
+    "scrape_date": "2026-08-20T23:48:03.362589+00:00",
+    "total_posts": 1932,
+    "total_comments": 10150
   },
   "discussions": [
     {
@@ -89172,6 +89172,27 @@
           "body": "Publisher side, PG optimizations towards performance. It’s painful. Glad there are click monkeys for this.",
           "score": 1,
           "created_utc": 1787254501.0
+        }
+      ]
+    },
+    {
+      "id": "1vtzkf5",
+      "title": "Cookie Stuffers",
+      "author": "travislusk",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vtzkf5/cookie_stuffers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vtzkf5/cookie_stuffers/",
+      "created_utc": 1787268333.0,
+      "content": "To all the programmatic yutes, cookie stuffing is not a new phenomenon. It is actually a surprise that the market is surprised it is still happening. \n\nThe performance OG's made bank on these tricks back in the early 2000's.  It is honestly nostalgic that it is still around.\n\n[https://www.adlingo.org/could-bill-gates-daughter-face-prison-time-for-cookie-stuffing/](https://www.adlingo.org/could-bill-gates-daughter-face-prison-time-for-cookie-stuffing/) ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Famous_Baseball_8568",
+          "body": "And who’s still stuffing identifiers?!",
+          "score": 3,
+          "created_utc": 1787268560.0
         }
       ]
     }
