@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-20T19:09:58.768678+00:00",
-    "total_posts": 1930,
-    "total_comments": 10148
+    "scrape_date": "2026-08-20T19:53:52.221942+00:00",
+    "total_posts": 1931,
+    "total_comments": 10149
   },
   "discussions": [
     {
@@ -89151,6 +89151,27 @@
           "body": "I’ve seen sales with limited programmatic knowledge. They are a joke along with the company. Be careful of legacy news networks that are transitioning from print to digital offering a wide range of digital services. Commission structures can be wacky and management sets you up for failure. ",
           "score": 1,
           "created_utc": 1787195796.0
+        }
+      ]
+    },
+    {
+      "id": "1vttex3",
+      "title": "What part of programmatic media buying is still manual for you that you want automated?",
+      "author": "maryna-gc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vttex3/what_part_of_programmatic_media_buying_is_still/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vttex3/what_part_of_programmatic_media_buying_is_still/",
+      "created_utc": 1787254100.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Publisher side, PG optimizations towards performance. It’s painful. Glad there are click monkeys for this.",
+          "score": 1,
+          "created_utc": 1787254501.0
         }
       ]
     }

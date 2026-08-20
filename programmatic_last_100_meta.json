@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ux6xll",
-      "title": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15",
-      "author": "NiceRecognition9603",
-      "score": 5,
-      "url": "https://i.redd.it/8hgp6yyxeedh1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ux6xll/amazon_dsp_programmatic_deals_frequency_are/",
-      "created_utc": 1784124514.0,
-      "content": "Amazon DSP Programmatic Deals frequency are starting to get easier to managed Live worldwide on 7/15\n\n|Deal Type|Cap Counted?|Cap Enforced?|\n|:-|:-|:-|\n|Private Auction (PA)|✓ Yes|✓ Yes — full bidirectional enforcement|\n|Programmatic Guaranteed (PG)|✓ Yes — counts toward shared cap|✓ Yes for 1P, APD and ADx PGs — Conditional on deal delivery in full|\n|||✗ No for all other SSPs — publisher controls delivery|\n|Non-Guaranteed (NG)|✓ Yes|✓ Yes|\n\nThe part worth flagging: it activates automatically when a frequency cap is set. No UI changes, no opt-in. If you already run caps, this just starts working.\n\nThis is a spoiler from the Amazon lead on the project, I'm out of Amazon building Amazon DSP tooling, not an official announcement yet. I'll drop the official link here once it's public.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uxe3zi",
       "title": "B2B Proprietary data Providers",
       "author": "jmhbaseball97",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787193069.0,
       "content": "Hi! I’ve been working in ad sales for a news organization, primarily selling digital display, newsletters, email marketing, sponsored content, and other digital advertising solutions.\n\nI’m really interested in moving into the programmatic side of advertising, particularly programmatic sales, but I honestly don’t have much knowledge or experience in programmatic yet.\n\nI’d really appreciate some guidance on how I can make that transition — where should I start, what should I learn, and what skills or knowledge would help me break into programmatic sales? The experience is around 8 years!",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vttex3",
+      "title": "What part of programmatic media buying is still manual for you that you want automated?",
+      "author": "maryna-gc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vttex3/what_part_of_programmatic_media_buying_is_still/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vttex3/what_part_of_programmatic_media_buying_is_still/",
+      "created_utc": 1787254100.0,
+      "content": "",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
