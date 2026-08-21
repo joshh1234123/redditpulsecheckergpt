@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uxfr4q",
-      "title": "An opportunity to learn from industry experts and even see a live demo of ChatGPT ads platform!",
-      "author": "u_of_digital",
-      "score": 0,
-      "url": "https://i.redd.it/z4i0vjie0gdh1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxfr4q/an_opportunity_to_learn_from_industry_experts_and/",
-      "created_utc": 1784143377.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uxz8er",
       "title": "What are your favourite events to attend?",
       "author": "Ok-Disaster-6387",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787289111.0,
       "content": "I want to understand from marketers pov who started with Google Ads or Meta Ads and later moved into programmatic advertising, what was the most difficult part of the transition?\n\nWas it understanding the DSP ecosystem, campaign hierarchy, inventory buying, audience data, bidding, attribution or reporting?\n\nI’m interested in hearing because i'm planning to take up a course soon or later. So, just checking with the experts who are already into this field.",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vufgzu",
+      "title": "I spent 12 years in programmatic advertising. I built a free 52-lesson guide to explain the industry from the ground up. Looking for feedback.",
+      "author": "Soft-Video-5088",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vufgzu/i_spent_12_years_in_programmatic_advertising_i/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vufgzu/i_spent_12_years_in_programmatic_advertising_i/",
+      "created_utc": 1787316609.0,
+      "content": "I spent 12 years in programmatic advertising. I finally tried to explain it without making it confusing.\n\nDSPs. SSPs. Ad exchanges. Header bidding. RTB. Identity. Curation. Ad servers. And now AI agents buying media.\n\nIf you've ever tried to understand programmatic advertising from the outside, you probably know how overwhelming it can be.\n\nA few months ago, a colleague and I started building a tutorial to explain the whole ecosystem step by step.\n\nIt started as a small side project.\n\nIt ended up becoming 52 lessons across 9 units, covering everything from the basics of ad serving and SSPs to real-time auctions and agentic advertising.\n\nWe also added quizzes, practice exercises, spaced repetition, learning streaks and a certificate.\n\nAnd it's completely free.\n\n👉 [https://adtech.ayxos.com](https://adtech.ayxos.com/)\n\nWe're launching it publicly and I'd really like feedback from people who actually work in adtech.\n\nWhat's missing?\n\nWhat's explained badly?\n\nWhat would you have wanted to know when you first entered the industry?\n\nAnd if you're new to programmatic, I'd especially love to hear whether the learning path actually makes sense to you.\n\nHappy to answer questions about how we built it too.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
