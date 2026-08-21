@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-21T05:02:21.943685+00:00",
-    "total_posts": 1932,
-    "total_comments": 10150
+    "scrape_date": "2026-08-21T05:55:56.178602+00:00",
+    "total_posts": 1933,
+    "total_comments": 10151
   },
   "discussions": [
     {
@@ -89193,6 +89193,27 @@
           "body": "And who’s still stuffing identifiers?!",
           "score": 3,
           "created_utc": 1787268560.0
+        }
+      ]
+    },
+    {
+      "id": "1vu6ymi",
+      "title": "What is the hardest part of moving from Google Ads and Meta Ads into programmatic?",
+      "author": "gvshivacharan",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
+      "created_utc": 1787289111.0,
+      "content": "I want to understand from marketers pov who started with Google Ads or Meta Ads and later moved into programmatic advertising, what was the most difficult part of the transition?\n\nWas it understanding the DSP ecosystem, campaign hierarchy, inventory buying, audience data, bidding, attribution or reporting?\n\nI’m interested in hearing because i'm planning to take up a course soon or later. So, just checking with the experts who are already into this field.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Adorable-Corner-5307",
+          "body": "GAds and Meta is riding with training wheels on",
+          "score": 2,
+          "created_utc": 1787289923.0
         }
       ]
     }

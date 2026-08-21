@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uxe9qm",
-      "title": "Am I being expected of to much or is this normal?",
-      "author": "imGrunde",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uxe9qm/am_i_being_expected_of_to_much_or_is_this_normal/",
-      "created_utc": 1784140038.0,
-      "content": "A little context:  \nPrior to my current job I was mainly responsible for getting campaigns to deliver in full and hit all various KPIs. Optimizing using the various levers the DSPs provide + go in log level data to block poor performing and fraudulent data. While communicating with account management and client development.\n\nNow I’m at a new job and my role has me responsible for the following.  \n\\- media planning (from scratch like I’m reach out to partners)  \n\\- building the campaigns from scratch on the dsp  \n\\- trafficking  \n\\-QA  \n\\- optimizations (performance and client requests)  \n\\- various a/b tests that are just a complete mess  \n\\- pacing\n\nIs this normal in programmatic and I was just spoiled in my first job?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uxfr4q",
       "title": "An opportunity to learn from industry experts and even see a live demo of ChatGPT ads platform!",
       "author": "u_of_digital",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787268333.0,
       "content": "To all the programmatic yutes, cookie stuffing is not a new phenomenon. It is actually a surprise that the market is surprised it is still happening. \n\nThe performance OG's made bank on these tricks back in the early 2000's.  It is honestly nostalgic that it is still around.\n\n[https://www.adlingo.org/could-bill-gates-daughter-face-prison-time-for-cookie-stuffing/](https://www.adlingo.org/could-bill-gates-daughter-face-prison-time-for-cookie-stuffing/) ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vu6ymi",
+      "title": "What is the hardest part of moving from Google Ads and Meta Ads into programmatic?",
+      "author": "gvshivacharan",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
+      "created_utc": 1787289111.0,
+      "content": "I want to understand from marketers pov who started with Google Ads or Meta Ads and later moved into programmatic advertising, what was the most difficult part of the transition?\n\nWas it understanding the DSP ecosystem, campaign hierarchy, inventory buying, audience data, bidding, attribution or reporting?\n\nI’m interested in hearing because i'm planning to take up a course soon or later. So, just checking with the experts who are already into this field.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
