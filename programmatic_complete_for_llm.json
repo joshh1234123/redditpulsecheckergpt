@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-22T10:15:19.676403+00:00",
-    "total_posts": 1934,
+    "scrape_date": "2026-08-22T10:47:16.549765+00:00",
+    "total_posts": 1935,
     "total_comments": 10151
   },
   "discussions": [
@@ -89226,6 +89226,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vufgzu/i_spent_12_years_in_programmatic_advertising_i/",
       "created_utc": 1787316609.0,
       "content": "I spent 12 years in programmatic advertising. I finally tried to explain it without making it confusing.\n\nDSPs. SSPs. Ad exchanges. Header bidding. RTB. Identity. Curation. Ad servers. And now AI agents buying media.\n\nIf you've ever tried to understand programmatic advertising from the outside, you probably know how overwhelming it can be.\n\nA few months ago, a colleague and I started building a tutorial to explain the whole ecosystem step by step.\n\nIt started as a small side project.\n\nIt ended up becoming 52 lessons across 9 units, covering everything from the basics of ad serving and SSPs to real-time auctions and agentic advertising.\n\nWe also added quizzes, practice exercises, spaced repetition, learning streaks and a certificate.\n\nAnd it's completely free.\n\n👉 [https://adtech.ayxos.com](https://adtech.ayxos.com/)\n\nWe're launching it publicly and I'd really like feedback from people who actually work in adtech.\n\nWhat's missing?\n\nWhat's explained badly?\n\nWhat would you have wanted to know when you first entered the industry?\n\nAnd if you're new to programmatic, I'd especially love to hear whether the learning path actually makes sense to you.\n\nHappy to answer questions about how we built it too.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vv8te6",
+      "title": "I built a free VAST validator — here's a full report on a real tag so you can see what it gives you",
+      "author": "LionHot6641",
+      "score": 1,
+      "url": "/r/adops/comments/1vv8olg/i_built_a_free_vast_validator_heres_a_full_report/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vv8te6/i_built_a_free_vast_validator_heres_a_full_report/",
+      "created_utc": 1787394500.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
