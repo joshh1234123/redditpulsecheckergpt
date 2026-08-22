@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-22T16:15:02.070519+00:00",
-    "total_posts": 1935,
+    "scrape_date": "2026-08-22T16:47:34.206161+00:00",
+    "total_posts": 1936,
     "total_comments": 10151
   },
   "discussions": [
@@ -89240,6 +89240,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vv8te6/i_built_a_free_vast_validator_heres_a_full_report/",
       "created_utc": 1787394500.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vvgmsd",
+      "title": "LinkedIn Ads CTV",
+      "author": "IngenuityAmazing7668",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vvgmsd/linkedin_ads_ctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vvgmsd/linkedin_ads_ctv/",
+      "created_utc": 1787415530.0,
+      "content": "Thoughts on LinkedIn ads CTV capabilities for b2b? Interested to hear your opinions.. \n\nTargeting is a plus… but how does inventory/pricing stack up to other platforms? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
