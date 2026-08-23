@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uys4ok",
-      "title": "Omnichannel vs. Specialized: Which DSPs actually handle Programmatic DOOH properly?",
-      "author": "quotesweed",
-      "score": 1,
-      "url": "/r/MW_Programmatic_DOOH/comments/1uys2qp/omnichannel_vs_specialized_which_dsps_actually/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uys4ok/omnichannel_vs_specialized_which_dsps_actually/",
-      "created_utc": 1784271182.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1uz3ckl",
       "title": "Looking to buy a small to mid sized DSP",
       "author": "KarnataBala",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787452260.0,
       "content": "",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vvx6ef",
+      "title": "i spent 3 months testing AI media buying tools across DSPs and walled gardens. here's what actually helped",
+      "author": "Flat-Eggplant-9890",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vvx6ef/i_spent_3_months_testing_ai_media_buying_tools/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vvx6ef/i_spent_3_months_testing_ai_media_buying_tools/",
+      "created_utc": 1787458764.0,
+      "content": "got tired of seeing \"THIS AI LAUNCHES PROFITABLE CAMPAIGNS IN 30 SECONDS\" ads everywhere, so i decided to actually run a few of the AI tools i kept seeing through my workflow across both our programmatic and walled garden stacks.\n\ni work on a small team managing around \\~$34k/mo combined across a couple of DTC and lead gen accounts. to test these properly, i looked at operator time saved and operational friction rather than just chasing pure CPA, because cross platform attribution isn't always a clean apples to apples comparison. the hardest part of evaluating these tools is that better workflow efficiency doesn't always show up immediately in platform metrics. this wasn't a scientific benchmark, just a practical operator test based on the workflows i actually spend time on.\n\nhere is where each category actually helped (and where it didn't):\n\n**Scibids (For Open Web / Custom Bidding)**\n\nif you're running DV360 or TTD, custom bidding tools are a common choice among larger teams. it gives teams more flexibility in building custom optimization logic beyond native DSP algorithms, though it takes some engineering and significant impression volume to feed the models properly. if the data volume and signal quality aren't there, the models have less room to optimize.\n\n**Ryze AI (For Walled Gardens - Google/Meta)**\n\ni know we mostly live in DSPs here, but if you're forced to manage the search/social side too, i tested this to see if it could handle the daily operational loop. it was useful for daily tasks like pacing checks, campaign monitoring, and identifying creative fatigue. the caveat is that it still needs clean account structure and enough historical data to be useful, so thin accounts still need a much longer learning window.\n\nit also has an MCP connector so you can connect ad account data and workflows into Claude via chat, which changes the workflow if you already live in LLM environments\n\n**Creative-only AI (AdCreative / Omneky)**\n\ngenuinely useful for generating variants at volume when your creative team is the bottleneck. but they stop at the asset. somebody still has to build, launch, and watch the campaign, and that somebody is you. fewer shiny assets and more account-level execution is usually what's actually needed.\n\n**The categories that disappointed me:**\n\n* **Platform-Native AI (Google PMax / Meta Advantage+):** fine as a floor. they optimize effectively within their own platforms, so cross-channel allocation decisions still require a broader media view.\n* **Rules-based automation scripts:** the automation only exists at the exact moment you write the rule. a bad rule just becomes an automated bad decision at scale.\n* **Dashboard-only reporting platforms:** beautiful charts, zero actions. you still do all the work, just with better-looking evidence that pacing is behind.\n\n**The takeaway:**\n\nmostly, AI is just saving time at the margins and reducing operational drag. the tools that promise \"fully autonomous advertising\" usually disappoint because strategy and nuance still require a human in the loop.\n\ncurious what DSPs or automation stacks you guys are relying on right now? are AI tools actually changing how you manage campaigns, or are they mostly just making existing workflows slightly faster?",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
