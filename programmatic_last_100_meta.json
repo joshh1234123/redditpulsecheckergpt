@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1uz3ckl",
-      "title": "Looking to buy a small to mid sized DSP",
-      "author": "KarnataBala",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1uz3ckl/looking_to_buy_a_small_to_mid_sized_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1uz3ckl/looking_to_buy_a_small_to_mid_sized_dsp/",
-      "created_utc": 1784302944.0,
-      "content": "Hi, ours is an adtech company with 15+ years of history based in CA. We have recently ventured into the RTB space and are on the lookout to buy/acquire a small to mid-sized DSP to fast-track growth. If you or anyone you know has something to offer, we would be very happy to connect with you. ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v0h5ju",
       "title": "With the growing Talent of YouTubers and editors all over the world along with AI and AI with technicians does anybody feel that individuals will be their own YouTube?",
       "author": "eze008",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787458764.0,
       "content": "got tired of seeing \"THIS AI LAUNCHES PROFITABLE CAMPAIGNS IN 30 SECONDS\" ads everywhere, so i decided to actually run a few of the AI tools i kept seeing through my workflow across both our programmatic and walled garden stacks.\n\ni work on a small team managing around \\~$34k/mo combined across a couple of DTC and lead gen accounts. to test these properly, i looked at operator time saved and operational friction rather than just chasing pure CPA, because cross platform attribution isn't always a clean apples to apples comparison. the hardest part of evaluating these tools is that better workflow efficiency doesn't always show up immediately in platform metrics. this wasn't a scientific benchmark, just a practical operator test based on the workflows i actually spend time on.\n\nhere is where each category actually helped (and where it didn't):\n\n**Scibids (For Open Web / Custom Bidding)**\n\nif you're running DV360 or TTD, custom bidding tools are a common choice among larger teams. it gives teams more flexibility in building custom optimization logic beyond native DSP algorithms, though it takes some engineering and significant impression volume to feed the models properly. if the data volume and signal quality aren't there, the models have less room to optimize.\n\n**Ryze AI (For Walled Gardens - Google/Meta)**\n\ni know we mostly live in DSPs here, but if you're forced to manage the search/social side too, i tested this to see if it could handle the daily operational loop. it was useful for daily tasks like pacing checks, campaign monitoring, and identifying creative fatigue. the caveat is that it still needs clean account structure and enough historical data to be useful, so thin accounts still need a much longer learning window.\n\nit also has an MCP connector so you can connect ad account data and workflows into Claude via chat, which changes the workflow if you already live in LLM environments\n\n**Creative-only AI (AdCreative / Omneky)**\n\ngenuinely useful for generating variants at volume when your creative team is the bottleneck. but they stop at the asset. somebody still has to build, launch, and watch the campaign, and that somebody is you. fewer shiny assets and more account-level execution is usually what's actually needed.\n\n**The categories that disappointed me:**\n\n* **Platform-Native AI (Google PMax / Meta Advantage+):** fine as a floor. they optimize effectively within their own platforms, so cross-channel allocation decisions still require a broader media view.\n* **Rules-based automation scripts:** the automation only exists at the exact moment you write the rule. a bad rule just becomes an automated bad decision at scale.\n* **Dashboard-only reporting platforms:** beautiful charts, zero actions. you still do all the work, just with better-looking evidence that pacing is behind.\n\n**The takeaway:**\n\nmostly, AI is just saving time at the margins and reducing operational drag. the tools that promise \"fully autonomous advertising\" usually disappoint because strategy and nuance still require a human in the loop.\n\ncurious what DSPs or automation stacks you guys are relying on right now? are AI tools actually changing how you manage campaigns, or are they mostly just making existing workflows slightly faster?",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vwz1em",
+      "title": "Buying Spotify audio Ads on Amazon Ads by deal name alone? You're gambling at the moment.",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vwz1em/buying_spotify_audio_ads_on_amazon_ads_by_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vwz1em/buying_spotify_audio_ads_on_amazon_ads_by_deal/",
+      "created_utc": 1787567606.0,
+      "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no\\*\\*?\\*\\* Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n  \n\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n  \n\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
