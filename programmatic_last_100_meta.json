@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v0h5ju",
-      "title": "With the growing Talent of YouTubers and editors all over the world along with AI and AI with technicians does anybody feel that individuals will be their own YouTube?",
-      "author": "eze008",
-      "score": 0,
-      "url": "/r/adtech/comments/1v0h58g/with_the_growing_talent_of_youtubers_and_editors/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v0h5ju/with_the_growing_talent_of_youtubers_and_editors/",
-      "created_utc": 1784436538.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1v0unh6",
-      "title": "Netflix floor CPMs on Amazon DSP using the option deal that allows Amazon audiences, US, private auction.",
-      "author": "NiceRecognition9603",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v0unh6/netflix_floor_cpms_on_amazon_dsp_using_the_option/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v0unh6/netflix_floor_cpms_on_amazon_dsp_using_the_option/",
-      "created_utc": 1784477587.0,
-      "content": "These floors are not hidden. Each proposal returns one length at one setting, so almost nobody assembles the whole picture. Here it is for the US, on the Netflix option that allows Amazon audiences, private auction.\n\n\n\n10 seconds: $19.50\n\n15 seconds: $26.00\n\n20 seconds: $27.63\n\n30 seconds: $32.50\n\n45 seconds: $48.75\n\n60 seconds: $65.00\n\n\n\nRemember a floor is the minimum you bid, not the price you pay. You bid at the floor, set a max average CPM as a ceiling, and the auction decides what clears. Nothing is fixed, nothing is guaranteed. \n\nAmazon audience fees and your DSP fee land on top. Usual Amazon audience fee with In Market, interest, Demographics $3.00. You can use Netflix audiences instead at $2.5 using a similar deal.\n\nMinimum spend is $5,000, so around 154,000 impressions to get in.\n\nDevice does not change the price. It changes how much there is. 83% of the inventory is CTV, 14% mobile, 3% desktop. Brands that have users converting better from some devices can take advantage of this. Talk with your data team.\n\nPreroll stops at 30 seconds. Up to 30 you get the whole pool. At 45 and at 60 around 1% which in practice can't run. Long ads live in midroll.\n\nShort ads are cheap per impression and expensive per second. A 10 is $1.95 a second. A 30 is $1.08.\n\nBlocking sensitive themes adds $1.25. One theme or all seven, same $1.25. \n\nDecember CPM is the same as August, and there is more inventory in December. That was July though. Q4 sells out, so check it yourself.\n\nNetflix does run programmatic guaranteed, but it is not offered through Amazon interface workflow and cannot carry Amazon audiences.\n\nLet me know if you need other countries or have other questions",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v1ojd2",
       "title": ".NET or Springboot",
       "author": "D_AhmEdd",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vwz1em/buying_spotify_audio_ads_on_amazon_ads_by_deal/",
       "created_utc": 1787567606.0,
       "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no\\*\\*?\\*\\* Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n  \n\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n  \n\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vwzww5",
+      "title": "Buying Spotify audio Ads on Amazon DSP by deal name? You're gambling at the moment.",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
+      "created_utc": 1787570244.0,
+      "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no? Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vx0lie",
+      "title": "Omnicom offloads OMNI eng & product talent to 3P contractor",
+      "author": "broadstreetrambler",
+      "score": 1,
+      "url": "https://www.adweek.com/agencies/exclusive-omnicom-offloads-hundreds-of-staffers-who-built-its-ai-platform-to-third-party-contractor/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vx0lie/omnicom_offloads_omni_eng_product_talent_to_3p/",
+      "created_utc": 1787572257.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

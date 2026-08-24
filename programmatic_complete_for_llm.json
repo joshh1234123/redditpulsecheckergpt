@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-24T11:02:55.572247+00:00",
-    "total_posts": 1939,
+    "scrape_date": "2026-08-24T11:51:22.795513+00:00",
+    "total_posts": 1941,
     "total_comments": 10156
   },
   "discussions": [
@@ -89328,6 +89328,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vwz1em/buying_spotify_audio_ads_on_amazon_ads_by_deal/",
       "created_utc": 1787567606.0,
       "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no\\*\\*?\\*\\* Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n  \n\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n  \n\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vwzww5",
+      "title": "Buying Spotify audio Ads on Amazon DSP by deal name? You're gambling at the moment.",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
+      "created_utc": 1787570244.0,
+      "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no? Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vx0lie",
+      "title": "Omnicom offloads OMNI eng & product talent to 3P contractor",
+      "author": "broadstreetrambler",
+      "score": 1,
+      "url": "https://www.adweek.com/agencies/exclusive-omnicom-offloads-hundreds-of-staffers-who-built-its-ai-platform-to-third-party-contractor/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vx0lie/omnicom_offloads_omni_eng_product_talent_to_3p/",
+      "created_utc": 1787572257.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
