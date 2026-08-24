@@ -1034,6 +1034,21 @@
       "link_flair_text": null,
       "thread_id": "1vx0lie",
       "thread_path": "1vx0lie.json"
+    },
+    {
+      "id": "1vxgepg",
+      "title": "Amazon Ads - Prime Video",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "created_utc": 1787607580.0,
+      "content": "For Prime Auction they have a general one at $9 floor and then various categories at $18 floor like Drama, Action etc\n\nIs the categories at the higher floor better “titles” your ad will show on?\n\nTrying to understand the benefit of the higher floor vs using general auction and using exclusions.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vxgepg",
+      "thread_path": "1vxgepg.json"
     }
   ]
 }

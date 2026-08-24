@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-24T21:23:11.599077+00:00",
-    "total_posts": 1941,
+    "scrape_date": "2026-08-24T21:52:20.859111+00:00",
+    "total_posts": 1942,
     "total_comments": 10156
   },
   "discussions": [
@@ -89356,6 +89356,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vx0lie/omnicom_offloads_omni_eng_product_talent_to_3p/",
       "created_utc": 1787572257.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vxgepg",
+      "title": "Amazon Ads - Prime Video",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "created_utc": 1787607580.0,
+      "content": "For Prime Auction they have a general one at $9 floor and then various categories at $18 floor like Drama, Action etc\n\nIs the categories at the higher floor better “titles” your ad will show on?\n\nTrying to understand the benefit of the higher floor vs using general auction and using exclusions.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v1ojd2",
-      "title": ".NET or Springboot",
-      "author": "D_AhmEdd",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v1ojd2/net_or_springboot/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v1ojd2/net_or_springboot/",
-      "created_utc": 1784560844.0,
-      "content": "Hi there, I am young full stack developer in react, node and nestjs. I understand these fully and have done various projects in them for clients and in my internship. I am currently in my undergrad in Software Engineering. \n\nMy question is, what enterprise Tech Stack should I choose now ? .Net or Springboot, I have to learn one, i wanna master 1 of these, but which one, considering that I love deep learning model training, agentic Ai development. In terms of clients, job market, or maybe skills. Which one should i go for ?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v2j2x9",
       "title": "Any AI visibility tool that lets brands buy ads on the pages a chatbot cites, so you can rebut the model on its own source?",
       "author": "u_of_digital",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vx0lie/omnicom_offloads_omni_eng_product_talent_to_3p/",
       "created_utc": 1787572257.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vxgepg",
+      "title": "Amazon Ads - Prime Video",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
+      "created_utc": 1787607580.0,
+      "content": "For Prime Auction they have a general one at $9 floor and then various categories at $18 floor like Drama, Action etc\n\nIs the categories at the higher floor better “titles” your ad will show on?\n\nTrying to understand the benefit of the higher floor vs using general auction and using exclusions.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
