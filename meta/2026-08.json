@@ -1079,6 +1079,21 @@
       "link_flair_text": null,
       "thread_id": "1vxy1qe",
       "thread_path": "1vxy1qe.json"
+    },
+    {
+      "id": "1vy8isx",
+      "title": "Training grounds for AdOps / flight sim - a month later",
+      "author": "Lucky_Cardiologist_5",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "created_utc": 1787683372.0,
+      "content": "Hi all,\n\nI shared AdOps Core here about a month ago and a lot has changed since then.\n\nThe simulator has been expanded with more realistic AdOps/programmatic scenarios, better troubleshooting, and a much cleaner overall experience.\n\nThe idea is to basically make a full on Sim since I haven't found any out there and there is much you can't learn from just doing quizzes.\n\nStill free, no login needed and I still require feedback to make it better : \n\n[AdOps Core](https://adopscore.com/)\n\nWould love to hear what you think. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vy8isx",
+      "thread_path": "1vy8isx.json"
     }
   ]
 }

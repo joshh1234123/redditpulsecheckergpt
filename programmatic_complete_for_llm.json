@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-25T18:28:05.370295+00:00",
-    "total_posts": 1944,
+    "scrape_date": "2026-08-25T19:08:32.978948+00:00",
+    "total_posts": 1945,
     "total_comments": 10156
   },
   "discussions": [
@@ -89398,6 +89398,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
       "created_utc": 1787659859.0,
       "content": "Unless Amazon has a 24‑hour update rule, where if you make a targeting setting change, it takes a full 24 hours for the campaign to reflect those changes, I feel like the exclusion function in Amazon Ads doesn’t work.\n\nI want to make Amazon Ads work, but the genre exclusions don’t seem to function properly. The other day, I excluded the Documentary and Reality TV genres, and when I pulled yesterday’s impressions, I still saw shows matching those genres.\n\nI’ve filed a support ticket to ask why the ad would still show, and I’m curious to read support’s response.\n\nThe only reason I like Amazon Ads is the transparency: you can see exactly which title your ad appeared on, which DV360 reporting cannot provide.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vy8isx",
+      "title": "Training grounds for AdOps / flight sim - a month later",
+      "author": "Lucky_Cardiologist_5",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "created_utc": 1787683372.0,
+      "content": "Hi all,\n\nI shared AdOps Core here about a month ago and a lot has changed since then.\n\nThe simulator has been expanded with more realistic AdOps/programmatic scenarios, better troubleshooting, and a much cleaner overall experience.\n\nThe idea is to basically make a full on Sim since I haven't found any out there and there is much you can't learn from just doing quizzes.\n\nStill free, no login needed and I still require feedback to make it better : \n\n[AdOps Core](https://adopscore.com/)\n\nWould love to hear what you think. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

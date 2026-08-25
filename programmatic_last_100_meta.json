@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v2paem",
-      "title": "Traffic is growing. Engagement is falling. CPMs are surging.",
-      "author": "DataBeat_adtech",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v2paem/traffic_is_growing_engagement_is_falling_cpms_are/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v2paem/traffic_is_growing_engagement_is_falling_cpms_are/",
-      "created_utc": 1784655260.0,
-      "content": "July data from our publisher network tells an interesting story: more users are arriving, but they're engaging less, while CPMs are moving sharply higher.  \n  \nTraffic- New users grew 14%, but Sessions/User and Pageviews/User fell 2%, while Engaged Sessions/User dropped 29%. Social traffic grew fast, with X up 170%, Instagram 107%, and Reddit 47%. AI assistant traffic also grew 24.8%, led by ChatGPT.  \n  \nCPMs- Overall CPMs rose 16.9% MoM and 51.0% YoY. Display was up 26.9% YoY, Video 41.3%, and CTV recovered 20.7% MoM.  \n  \nIntegration- Prebid regained share at 54%, while AdX held at 34% and TAM fell to 8%.  \n  \nThe takeaway: traffic is growing, engagement quality is getting harder to maintain, but buyers are paying significantly more for the inventory they value.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v3cgbi",
       "title": "DV360 - What are your best tips/easter eggs?",
       "author": "TheGrandLeveler",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
       "created_utc": 1787659859.0,
       "content": "Unless Amazon has a 24‑hour update rule, where if you make a targeting setting change, it takes a full 24 hours for the campaign to reflect those changes, I feel like the exclusion function in Amazon Ads doesn’t work.\n\nI want to make Amazon Ads work, but the genre exclusions don’t seem to function properly. The other day, I excluded the Documentary and Reality TV genres, and when I pulled yesterday’s impressions, I still saw shows matching those genres.\n\nI’ve filed a support ticket to ask why the ad would still show, and I’m curious to read support’s response.\n\nThe only reason I like Amazon Ads is the transparency: you can see exactly which title your ad appeared on, which DV360 reporting cannot provide.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vy8isx",
+      "title": "Training grounds for AdOps / flight sim - a month later",
+      "author": "Lucky_Cardiologist_5",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
+      "created_utc": 1787683372.0,
+      "content": "Hi all,\n\nI shared AdOps Core here about a month ago and a lot has changed since then.\n\nThe simulator has been expanded with more realistic AdOps/programmatic scenarios, better troubleshooting, and a much cleaner overall experience.\n\nThe idea is to basically make a full on Sim since I haven't found any out there and there is much you can't learn from just doing quizzes.\n\nStill free, no login needed and I still require feedback to make it better : \n\n[AdOps Core](https://adopscore.com/)\n\nWould love to hear what you think. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
