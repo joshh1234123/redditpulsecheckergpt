@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-25T19:08:32.978948+00:00",
-    "total_posts": 1945,
+    "scrape_date": "2026-08-25T19:53:44.899438+00:00",
+    "total_posts": 1946,
     "total_comments": 10156
   },
   "discussions": [
@@ -89412,6 +89412,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vy8isx/training_grounds_for_adops_flight_sim_a_month/",
       "created_utc": 1787683372.0,
       "content": "Hi all,\n\nI shared AdOps Core here about a month ago and a lot has changed since then.\n\nThe simulator has been expanded with more realistic AdOps/programmatic scenarios, better troubleshooting, and a much cleaner overall experience.\n\nThe idea is to basically make a full on Sim since I haven't found any out there and there is much you can't learn from just doing quizzes.\n\nStill free, no login needed and I still require feedback to make it better : \n\n[AdOps Core](https://adopscore.com/)\n\nWould love to hear what you think. ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vya20b",
+      "title": "19% traffic growth, 20% CPM drop, 66% AI surge",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vya20b/19_traffic_growth_20_cpm_drop_66_ai_surge/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vya20b/19_traffic_growth_20_cpm_drop_66_ai_surge/",
+      "created_utc": 1787686609.0,
+      "content": "All sharing the outcomes here August data from our publisher network shows a pretty clear summer slowdown, but there are a few signals underneath it worth watching.  \n  \nTraffic - New Users grew 19% and Total Users 16%, while Sessions and Engaged Sessions both grew around 14%. At the same time, PV/session and Sessions/User softened slightly, pointing to shorter, more single‑purpose visits.  \n  \nAI - AI was the fastest‑growing channel, with Sessions up 66% and New Users up 75%. Engagement held at 62%, so the increase wasn’t coming with an obvious drop in traffic quality.  \n  \nCPMs - Overall CPMs fell 19.9% MoM but remained 25.0% higher YoY. Display was down 20.3% MoM, while Video was more resilient at ‑7.8% MoM and +40.1% YoY.  \n  \nDemand - The pullback was broad. Google Ads fell 21%, DV360 18%, and The Trade Desk 37%, pointing more toward a market‑wide summer budget pause than a shift between individual buyers.  \n  \nIntegration - Prebid held the largest share at 50%, followed by AdX at 39%. CPMs fell across the major integrations, reinforcing that the pressure was on demand and pricing rather than a simple shift between paths.  \n  \nTakeaway - Traffic is still growing and AI is becoming a much more meaningful acquisition channel, but summer demand is putting real pressure on CPMs. Video and CTV are holding up better than display, which may be worth watching as budgets start moving back into the market.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
