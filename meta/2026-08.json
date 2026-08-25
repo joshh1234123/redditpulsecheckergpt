@@ -1064,6 +1064,21 @@
       "link_flair_text": null,
       "thread_id": "1vxtqg4",
       "thread_path": "1vxtqg4.json"
+    },
+    {
+      "id": "1vxy1qe",
+      "title": "Amazon Ads Exclusion Settings",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
+      "created_utc": 1787659859.0,
+      "content": "Unless Amazon has a 24‑hour update rule, where if you make a targeting setting change, it takes a full 24 hours for the campaign to reflect those changes, I feel like the exclusion function in Amazon Ads doesn’t work.\n\nI want to make Amazon Ads work, but the genre exclusions don’t seem to function properly. The other day, I excluded the Documentary and Reality TV genres, and when I pulled yesterday’s impressions, I still saw shows matching those genres.\n\nI’ve filed a support ticket to ask why the ad would still show, and I’m curious to read support’s response.\n\nThe only reason I like Amazon Ads is the transparency: you can see exactly which title your ad appeared on, which DV360 reporting cannot provide.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vxy1qe",
+      "thread_path": "1vxy1qe.json"
     }
   ]
 }

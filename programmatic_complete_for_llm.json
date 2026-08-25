@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-25T11:52:45.959784+00:00",
-    "total_posts": 1943,
+    "scrape_date": "2026-08-25T12:32:59.814652+00:00",
+    "total_posts": 1944,
     "total_comments": 10156
   },
   "discussions": [
@@ -89384,6 +89384,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
       "created_utc": 1787645925.0,
       "content": "I constantly see traders say: *“Why would I pay a DSP fee when GDN gets me a lower CPM / CPA?”*  \n  \nBut **GDN isn't a DSP!**  \n  \nThey're fundamentally different buying environments, with different supply, inventory access, auction dynamics, targeting and optimisation.  \n  \nSo when someone says *“I tested GDN vs DSP X and GDN won,”* I'm curious what that actually proves.  \n  \nIf GDN can find cheaper conversions within Google's ecosystem, great. But does that mean it's a substitute for broader programmatic buying?  \n  \nCheap CPM ≠ better media.  \nLower CPA ≠ more incremental value.  \nHigher CTR ≠ better inventory.  \n  \nI'd be interested to hear from traders who've genuinely compared the two on incrementality, reach, inventory quality and scalability.  \n  \nIs GDN actually a substitute for a DSP, or are we comparing two fundamentally different products because the headline metrics are easier to measure?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vxy1qe",
+      "title": "Amazon Ads Exclusion Settings",
+      "author": "Enviromental1001",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
+      "created_utc": 1787659859.0,
+      "content": "Unless Amazon has a 24‑hour update rule, where if you make a targeting setting change, it takes a full 24 hours for the campaign to reflect those changes, I feel like the exclusion function in Amazon Ads doesn’t work.\n\nI want to make Amazon Ads work, but the genre exclusions don’t seem to function properly. The other day, I excluded the Documentary and Reality TV genres, and when I pulled yesterday’s impressions, I still saw shows matching those genres.\n\nI’ve filed a support ticket to ask why the ad would still show, and I’m curious to read support’s response.\n\nThe only reason I like Amazon Ads is the transparency: you can see exactly which title your ad appeared on, which DV360 reporting cannot provide.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
