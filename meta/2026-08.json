@@ -1049,6 +1049,21 @@
       "link_flair_text": null,
       "thread_id": "1vxgepg",
       "thread_path": "1vxgepg.json"
+    },
+    {
+      "id": "1vxtqg4",
+      "title": "Why are we still comparing GDN performance directly against DSP performance?",
+      "author": "Select-Election-92",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
+      "created_utc": 1787645925.0,
+      "content": "I constantly see traders say: *“Why would I pay a DSP fee when GDN gets me a lower CPM / CPA?”*  \n  \nBut **GDN isn't a DSP!**  \n  \nThey're fundamentally different buying environments, with different supply, inventory access, auction dynamics, targeting and optimisation.  \n  \nSo when someone says *“I tested GDN vs DSP X and GDN won,”* I'm curious what that actually proves.  \n  \nIf GDN can find cheaper conversions within Google's ecosystem, great. But does that mean it's a substitute for broader programmatic buying?  \n  \nCheap CPM ≠ better media.  \nLower CPA ≠ more incremental value.  \nHigher CTR ≠ better inventory.  \n  \nI'd be interested to hear from traders who've genuinely compared the two on incrementality, reach, inventory quality and scalability.  \n  \nIs GDN actually a substitute for a DSP, or are we comparing two fundamentally different products because the headline metrics are easier to measure?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vxtqg4",
+      "thread_path": "1vxtqg4.json"
     }
   ]
 }

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v2j2x9",
-      "title": "Any AI visibility tool that lets brands buy ads on the pages a chatbot cites, so you can rebut the model on its own source?",
-      "author": "u_of_digital",
-      "score": 1,
-      "url": "/r/adtech/comments/1v2j2ox/any_ai_visibility_tool_that_lets_brands_buy_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v2j2x9/any_ai_visibility_tool_that_lets_brands_buy_ads/",
-      "created_utc": 1784641916.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v2nliz",
       "title": "Best Bugs Challenge!",
       "author": "SB-Devrel",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
       "created_utc": 1787607580.0,
       "content": "For Prime Auction they have a general one at $9 floor and then various categories at $18 floor like Drama, Action etc\n\nIs the categories at the higher floor better “titles” your ad will show on?\n\nTrying to understand the benefit of the higher floor vs using general auction and using exclusions.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vxtqg4",
+      "title": "Why are we still comparing GDN performance directly against DSP performance?",
+      "author": "Select-Election-92",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
+      "created_utc": 1787645925.0,
+      "content": "I constantly see traders say: *“Why would I pay a DSP fee when GDN gets me a lower CPM / CPA?”*  \n  \nBut **GDN isn't a DSP!**  \n  \nThey're fundamentally different buying environments, with different supply, inventory access, auction dynamics, targeting and optimisation.  \n  \nSo when someone says *“I tested GDN vs DSP X and GDN won,”* I'm curious what that actually proves.  \n  \nIf GDN can find cheaper conversions within Google's ecosystem, great. But does that mean it's a substitute for broader programmatic buying?  \n  \nCheap CPM ≠ better media.  \nLower CPA ≠ more incremental value.  \nHigher CTR ≠ better inventory.  \n  \nI'd be interested to hear from traders who've genuinely compared the two on incrementality, reach, inventory quality and scalability.  \n  \nIs GDN actually a substitute for a DSP, or are we comparing two fundamentally different products because the headline metrics are easier to measure?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
