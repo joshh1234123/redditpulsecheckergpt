@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v4a41j",
-      "title": "AI usage & upskilling",
-      "author": "frequencycapped",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v4a41j/ai_usage_upskilling/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v4a41j/ai_usage_upskilling/",
-      "created_utc": 1784802927.0,
-      "content": "Everything is AI this AI that, and I understand using some of the native features in programmatic platforms in terms of helping with optimizing, pulling reports etc, but I’m curious how companies (ad tech, agencies, brands) are using AI for their teams.\n\nAre you using it for automating workflows? If so, how?  What else is it good for? Very curious to know how it’s being used so I can upskill. ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v4cx9u",
       "title": "Amazon Ads",
       "author": "Enviromental1001",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787712468.0,
       "content": "Let me start with that I am super new to Incremental testing world. \n\nI work in industry where 15-20% fluctuations in conversions(purchase) are normal for several market related reasons. \n\nI ran data  through GeoLift(meta). And basically any actual lift under 15% would be hard to tell apart from noise . \n\nHow do i setup tests in this situation when No channel(pmax or nonbrand ) is actually close to 15-20% incremental lift?  They each barely give 5-8% lift in theory.\n\nWe have been using HAUS(the platform) for this , but there results have been unreliable. Confidence Intervals are too wide , so is Power . And result reads are something we know cant be true.\n\nThought of doing this ourselves, using open source tools like GeoLift but how do we go about noise and get some reliable results . Don’t need to be right to the dot but still close enough to use it as modeling number in our in house paid media reporting . \n\nI am probably not asking the right questions here , hoping one of you guys will beat it out of me .\n\nTIA",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vyxhh4",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "lux_kid",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1787751745.0,
+      "content": "Creative approval isn't the end at MRAID—it's where a second project begins. The prototype must survive: package limits, MRAID lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

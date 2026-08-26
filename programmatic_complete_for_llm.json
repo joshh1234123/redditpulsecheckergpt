@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-26T12:36:15.093927+00:00",
-    "total_posts": 1947,
+    "scrape_date": "2026-08-26T13:47:29.744709+00:00",
+    "total_posts": 1948,
     "total_comments": 10160
   },
   "discussions": [
@@ -89469,6 +89469,20 @@
           "created_utc": 1787714495.0
         }
       ]
+    },
+    {
+      "id": "1vyxhh4",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "lux_kid",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1787751745.0,
+      "content": "Creative approval isn't the end at MRAID—it's where a second project begins. The prototype must survive: package limits, MRAID lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

@@ -1124,6 +1124,21 @@
       "link_flair_text": null,
       "thread_id": "1vykofq",
       "thread_path": "1vykofq.json"
+    },
+    {
+      "id": "1vyxhh4",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "lux_kid",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1787751745.0,
+      "content": "Creative approval isn't the end at MRAID—it's where a second project begins. The prototype must survive: package limits, MRAID lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vyxhh4",
+      "thread_path": "1vyxhh4.json"
     }
   ]
 }
