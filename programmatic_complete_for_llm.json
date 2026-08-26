@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-26T20:25:59.782638+00:00",
-    "total_posts": 1949,
+    "scrape_date": "2026-08-26T23:54:56.576369+00:00",
+    "total_posts": 1950,
     "total_comments": 10160
   },
   "discussions": [
@@ -89493,6 +89493,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vyys97/havas/",
       "created_utc": 1787754766.0,
       "content": "Recently approached by Havas and trying to understand what their differentiator are across agencies. Anyone have any insights? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vz96v2",
+      "title": "Programmatic Creative Alpha - Need 5 Testers",
+      "author": "Schruteschrute",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vz96v2/programmatic_creative_alpha_need_5_testers/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vz96v2/programmatic_creative_alpha_need_5_testers/",
+      "created_utc": 1787776969.0,
+      "content": "Opportunity: Test a new tool that validates programmatic creatives rendered completely, track a single creative for free (7 Days). \n\nPlease reach out if interested! Will DM to setup discussion. ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
