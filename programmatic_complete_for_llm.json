@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-26T13:47:29.744709+00:00",
-    "total_posts": 1948,
+    "scrape_date": "2026-08-26T14:36:48.138288+00:00",
+    "total_posts": 1949,
     "total_comments": 10160
   },
   "discussions": [
@@ -89479,6 +89479,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1vyxhh4/the_handoff_nobody_plans_approved_concept_to/",
       "created_utc": 1787751745.0,
       "content": "Creative approval isn't the end at MRAID—it's where a second project begins. The prototype must survive: package limits, MRAID lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1vyys97",
+      "title": "Havas?",
+      "author": "copper678",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vyys97/havas/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vyys97/havas/",
+      "created_utc": 1787754766.0,
+      "content": "Recently approached by Havas and trying to understand what their differentiator are across agencies. Anyone have any insights? ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
