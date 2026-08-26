@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-26T02:21:25.602921+00:00",
-    "total_posts": 1946,
-    "total_comments": 10156
+    "scrape_date": "2026-08-26T03:31:24.282078+00:00",
+    "total_posts": 1947,
+    "total_comments": 10160
   },
   "discussions": [
     {
@@ -89430,6 +89430,45 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1vykofq",
+      "title": "Struggling with Noise in Geo Holdouts Incremental Testing.",
+      "author": "shrood18",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "created_utc": 1787712468.0,
+      "content": "Let me start with that I am super new to Incremental testing world. \n\nI work in industry where 15-20% fluctuations in conversions(purchase) are normal for several market related reasons. \n\nI ran data  through GeoLift(meta). And basically any actual lift under 15% would be hard to tell apart from noise . \n\nHow do i setup tests in this situation when No channel(pmax or nonbrand ) is actually close to 15-20% incremental lift?  They each barely give 5-8% lift in theory.\n\nWe have been using HAUS(the platform) for this , but there results have been unreliable. Confidence Intervals are too wide , so is Power . And result reads are something we know cant be true.\n\nThought of doing this ourselves, using open source tools like GeoLift but how do we go about noise and get some reliable results . Don’t need to be right to the dot but still close enough to use it as modeling number in our in house paid media reporting . \n\nI am probably not asking the right questions here , hoping one of you guys will beat it out of me .\n\nTIA",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Ok_Form_134",
+          "body": "My two cents. \n\nIncrementality testing is unreliable by nature barring massive scale. Sample needs to be quite large and sustained investment over time. Short term mid budget incremental gains are statistically impossible to distinguish from noise in my experience. \n\nThe platforms are shoddy imo. They are templated mediocre math sitting in front of models you could easily build with open source and AI. They're usually selling to marketing departments with very low analytical rigor/education. \n\nSo - the basics. Small markets to test in, or very constrained audience segmentation, preferably using first party not platform segments. SOV is key. Chattanooga is my favorite example of a good market. Investment needs to be substantial enough. Time series needs to hold up over months not weeks.\n\nBuild it yourself. Build lightweight with easy open source models and Claude. If there's too much noise, it's inconclusive and unrecoverable. ",
+          "score": 3,
+          "created_utc": 1787713311.0
+        },
+        {
+          "author": "PlasticLeading",
+          "body": "I don’t think this is necessarily a HAUS vs GeoLift issue. If your business naturally swings 15–20%, the bigger question is whether your control geos explain enough of that movement to reliably detect a 5–8% effect.\n\nI’d run historical placebo tests first. Pretend the test happened at different points in the past and see how often you “detect” lift when there was none. That’ll give you a much better sense of your realistic MDE.\n\nIf MDE is still \\~15%, no platform is really going to solve that statistical problem for you. HAUS can make the setup/analysis easier, but it can’t manufacture signal that isn’t in the data.\n\nAt that point your levers are basically: concentrate more spend into treatment geos, run longer, improve geo matching/synthetic controls, or test a larger media bundle instead of individual channels.\n\nAlso wouldn’t use a +6% point estimate as a modeling input if the CI is massive. The wide CI is basically the result telling you the test was underpowered.",
+          "score": 2,
+          "created_utc": 1787714000.0
+        },
+        {
+          "author": "shrood18",
+          "body": "You are on point with mediocre math and the noise. About the solution , i assume you are suggesting longer tests with higher budgets ? ",
+          "score": 2,
+          "created_utc": 1787713968.0
+        },
+        {
+          "author": "shrood18",
+          "body": "Thankyou .  Yeah MDE is 15% , ran it geolift simulator function multiple times.  The levers you suggested is exactly what i came up with help of GPT, but thought this was too basic , and maybe there are some things that could help get close to real number with less wider CI. ",
+          "score": 1,
+          "created_utc": 1787714495.0
+        }
+      ]
     }
   ]
 }

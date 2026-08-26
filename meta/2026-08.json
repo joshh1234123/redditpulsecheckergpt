@@ -1109,6 +1109,21 @@
       "link_flair_text": null,
       "thread_id": "1vya20b",
       "thread_path": "1vya20b.json"
+    },
+    {
+      "id": "1vykofq",
+      "title": "Struggling with Noise in Geo Holdouts Incremental Testing.",
+      "author": "shrood18",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "created_utc": 1787712468.0,
+      "content": "Let me start with that I am super new to Incremental testing world. \n\nI work in industry where 15-20% fluctuations in conversions(purchase) are normal for several market related reasons. \n\nI ran data  through GeoLift(meta). And basically any actual lift under 15% would be hard to tell apart from noise . \n\nHow do i setup tests in this situation when No channel(pmax or nonbrand ) is actually close to 15-20% incremental lift?  They each barely give 5-8% lift in theory.\n\nWe have been using HAUS(the platform) for this , but there results have been unreliable. Confidence Intervals are too wide , so is Power . And result reads are something we know cant be true.\n\nThought of doing this ourselves, using open source tools like GeoLift but how do we go about noise and get some reliable results . Don’t need to be right to the dot but still close enough to use it as modeling number in our in house paid media reporting . \n\nI am probably not asking the right questions here , hoping one of you guys will beat it out of me .\n\nTIA",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1vykofq",
+      "thread_path": "1vykofq.json"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "1vykofq",
+  "thread_id": "1vykofq",
+  "title": "Struggling with Noise in Geo Holdouts Incremental Testing.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+  "created_utc": 1787712468.0,
+  "num_comments": 4,
+  "comments": [
+    {
+      "author": "Ok_Form_134",
+      "body": "My two cents. \n\nIncrementality testing is unreliable by nature barring massive scale. Sample needs to be quite large and sustained investment over time. Short term mid budget incremental gains are statistically impossible to distinguish from noise in my experience. \n\nThe platforms are shoddy imo. They are templated mediocre math sitting in front of models you could easily build with open source and AI. They're usually selling to marketing departments with very low analytical rigor/education. \n\nSo - the basics. Small markets to test in, or very constrained audience segmentation, preferably using first party not platform segments. SOV is key. Chattanooga is my favorite example of a good market. Investment needs to be substantial enough. Time series needs to hold up over months not weeks.\n\nBuild it yourself. Build lightweight with easy open source models and Claude. If there's too much noise, it's inconclusive and unrecoverable. ",
+      "score": 3,
+      "created_utc": 1787713311.0
+    },
+    {
+      "author": "PlasticLeading",
+      "body": "I don’t think this is necessarily a HAUS vs GeoLift issue. If your business naturally swings 15–20%, the bigger question is whether your control geos explain enough of that movement to reliably detect a 5–8% effect.\n\nI’d run historical placebo tests first. Pretend the test happened at different points in the past and see how often you “detect” lift when there was none. That’ll give you a much better sense of your realistic MDE.\n\nIf MDE is still \\~15%, no platform is really going to solve that statistical problem for you. HAUS can make the setup/analysis easier, but it can’t manufacture signal that isn’t in the data.\n\nAt that point your levers are basically: concentrate more spend into treatment geos, run longer, improve geo matching/synthetic controls, or test a larger media bundle instead of individual channels.\n\nAlso wouldn’t use a +6% point estimate as a modeling input if the CI is massive. The wide CI is basically the result telling you the test was underpowered.",
+      "score": 2,
+      "created_utc": 1787714000.0
+    },
+    {
+      "author": "shrood18",
+      "body": "You are on point with mediocre math and the noise. About the solution , i assume you are suggesting longer tests with higher budgets ? ",
+      "score": 2,
+      "created_utc": 1787713968.0
+    },
+    {
+      "author": "shrood18",
+      "body": "Thankyou .  Yeah MDE is 15% , ran it geolift simulator function multiple times.  The levers you suggested is exactly what i came up with help of GPT, but thought this was too basic , and maybe there are some things that could help get close to real number with less wider CI. ",
+      "score": 1,
+      "created_utc": 1787714495.0
+    }
+  ]
+}

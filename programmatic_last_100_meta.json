@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v3ilzn",
-      "title": "Agency Trading Agreements",
-      "author": "Alpha-D-Truelove",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v3ilzn/agency_trading_agreements/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v3ilzn/agency_trading_agreements/",
-      "created_utc": 1784732369.0,
-      "content": "Im approaching the end of my time at my current employer and have been thinking about where to focus my energy and leverage my existing relationships next.\n\nA major part of my current role is managing Trading Agreements for some of the largest agencies across the US spending across Display, OLV and CTV.\n\nMy question is which types of organisations and companies should I approach that have growth potential and I can obviously come in with some transferable $? \n\nAppreciate any advice and context provided here!",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v4a41j",
       "title": "AI usage & upskilling",
       "author": "frequencycapped",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787686609.0,
       "content": "All sharing the outcomes here August data from our publisher network shows a pretty clear summer slowdown, but there are a few signals underneath it worth watching.  \n  \nTraffic - New Users grew 19% and Total Users 16%, while Sessions and Engaged Sessions both grew around 14%. At the same time, PV/session and Sessions/User softened slightly, pointing to shorter, more single‑purpose visits.  \n  \nAI - AI was the fastest‑growing channel, with Sessions up 66% and New Users up 75%. Engagement held at 62%, so the increase wasn’t coming with an obvious drop in traffic quality.  \n  \nCPMs - Overall CPMs fell 19.9% MoM but remained 25.0% higher YoY. Display was down 20.3% MoM, while Video was more resilient at ‑7.8% MoM and +40.1% YoY.  \n  \nDemand - The pullback was broad. Google Ads fell 21%, DV360 18%, and The Trade Desk 37%, pointing more toward a market‑wide summer budget pause than a shift between individual buyers.  \n  \nIntegration - Prebid held the largest share at 50%, followed by AdX at 39%. CPMs fell across the major integrations, reinforcing that the pressure was on demand and pricing rather than a simple shift between paths.  \n  \nTakeaway - Traffic is still growing and AI is becoming a much more meaningful acquisition channel, but summer demand is putting real pressure on CPMs. Video and CTV are holding up better than display, which may be worth watching as budgets start moving back into the market.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1vykofq",
+      "title": "Struggling with Noise in Geo Holdouts Incremental Testing.",
+      "author": "shrood18",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1vykofq/struggling_with_noise_in_geo_holdouts_incremental/",
+      "created_utc": 1787712468.0,
+      "content": "Let me start with that I am super new to Incremental testing world. \n\nI work in industry where 15-20% fluctuations in conversions(purchase) are normal for several market related reasons. \n\nI ran data  through GeoLift(meta). And basically any actual lift under 15% would be hard to tell apart from noise . \n\nHow do i setup tests in this situation when No channel(pmax or nonbrand ) is actually close to 15-20% incremental lift?  They each barely give 5-8% lift in theory.\n\nWe have been using HAUS(the platform) for this , but there results have been unreliable. Confidence Intervals are too wide , so is Power . And result reads are something we know cant be true.\n\nThought of doing this ourselves, using open source tools like GeoLift but how do we go about noise and get some reliable results . Don’t need to be right to the dot but still close enough to use it as modeling number in our in house paid media reporting . \n\nI am probably not asking the right questions here , hoping one of you guys will beat it out of me .\n\nTIA",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }
