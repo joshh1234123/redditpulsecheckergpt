@@ -1,0 +1,100 @@
+{
+  "id": "1vzscc1",
+  "thread_id": "1vzscc1",
+  "title": "Which SSP/DSP platform would you not choose again?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1vzscc1/which_sspdsp_platform_would_you_not_choose_again/",
+  "created_utc": 1787833057.0,
+  "num_comments": 15,
+  "comments": [
+    {
+      "author": "MrSnugs",
+      "body": "TTD + Index Exchange with a Curation Platform over the top  ",
+      "score": 12,
+      "created_utc": 1787837875.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Yahoo, Nexxen, MNTN, Criteo - just move them in TTD or DV. Similar deals and audiences can be found, if not the exact ones. \n\nMy main complaints with them are -  limited available targeting/audience options, pretty useless strategy/setup from employees, unwieldy UI, lacking detailed reporting and transparency. ",
+      "score": 12,
+      "created_utc": 1787833981.0
+    },
+    {
+      "author": "Usual_Emotion7475",
+      "body": "Umm two of best in game lol",
+      "score": 4,
+      "created_utc": 1787851148.0
+    },
+    {
+      "author": "Any-Belt5994",
+      "body": "Is this a vote for this setup or against it?",
+      "score": 3,
+      "created_utc": 1787842014.0
+    },
+    {
+      "author": "Mysterious_Front_168",
+      "body": "Any specific reason why? ",
+      "score": 2,
+      "created_utc": 1787840801.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "lol whoa whoa I will take issue to you including yahoo on this list. Although I work at yahoo I can’t let you spread false info. There are zero audiences yahoo does not have access to for 3rd parties. There are however massive 1p data sets it has that no Indy DSP has access to. Data mingling and modeling is a huge differentiator. \n\nThere is also direct inventory access to o&o, and unique deals for Netflix, Spotify, and Roku. \n\nNo one has ever told me yahoo DSP has limited audiences. No one has ever said it has limited inventory. There is zero inventory ttd has that yahoo does not have for example. \n\nI never hear anything other than extremely positive things about our UI. On the contrary people used to love ttd ui and now hate it. \n\nAlso, for transparency that’s just false. There is nothing hidden- you can see all the costs you pay, you can also see where the data comes from via IAB data labels (only DSP to have this) and it costs a lot lower to use than TTD.  ",
+      "score": -3,
+      "created_utc": 1787840478.0
+    },
+    {
+      "author": "No-Guarantee1628",
+      "body": "Thanks, useful feedback. I should clarify: I mean the underlying infrastructure used to operate your own SSP/DSP or ad exchange, rather than platforms for buying media. Have you worked with any white-label programmatic platforms?",
+      "score": 0,
+      "created_utc": 1787834101.0
+    },
+    {
+      "author": "MrSnugs",
+      "body": "for",
+      "score": 4,
+      "created_utc": 1787843698.0
+    },
+    {
+      "author": "MrSnugs",
+      "body": "Yes, TTD is one of the best DSPs (even considering the challenges they face), Index is one of the best SSPs with the most fair pricing and layering a Curation Platform for Deal ID management is a seamless way to manage your Deal IDs and purchase with transparency across exactly what you want. CPs also typically provide good pricing if they aren't trying to simply layer margin on top of supply. Look for a CP that gives actual functionality around their tool.",
+      "score": 4,
+      "created_utc": 1787843684.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "It gets the pass for a few campaigns but after that I’d want something with more body. \n\nI guess I’m a DV shill cause it’s what i recommend to anyone/business with any kind of spend or complex set up. ",
+      "score": 0,
+      "created_utc": 1787840880.0
+    },
+    {
+      "author": "Ok-Flow-7670",
+      "body": "Most people go with Teqblaze to run their white label.  Limelight has a better platform but expensive.  I’ve been using Nexx360 but they have server issues.  Xe.works I’m just starting with and they look promising and cost efficient ",
+      "score": 1,
+      "created_utc": 1787840677.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Ya no experience with white label, even some of my heavy spenders just use DV360/TTD didn’t put a spin on it. Was no point with how we could implement markup in the system either",
+      "score": 1,
+      "created_utc": 1787841053.0
+    },
+    {
+      "author": "Hungry_Can_2164",
+      "body": "[https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Introduces-Kokai-Zuma-the-Latest-Release-of-Kokai/default.aspx](https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Introduces-Kokai-Zuma-the-Latest-Release-of-Kokai/default.aspx) any thoughts on this annoucement?",
+      "score": 3,
+      "created_utc": 1787845328.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "You will have to explain that a bit more...what does more \"body\" mean? \n\nThe only unique thing DV offers is YouTube - outside of that I dont know any agency that wants to use DV - most wouldnt use but they have to. Customer service is terrible (or non-existent). UI is clunky - force users into things they dont want to do...",
+      "score": 1,
+      "created_utc": 1787842317.0
+    },
+    {
+      "author": "NewOrleansSpeed",
+      "body": "Custom bidding - BLS - Full CM and GMP seamless integration for full tracking - YouTube YouTube YouTube, that’s like a huge piece you are glossing over - consistent and clear billing - Google audiences - one of the easiest dashboard and reporting tool on earth - whatever else Yahoo can do - history that goes beyond a year - consistent (albeit frustrating at times) updates - enterprise support is top notch - non-cancerous UI - the most help articles and trainings around\n\nIn my vast experience people who say DV is not a great platform don’t actually know how to use the platform/is not a power user….",
+      "score": 1,
+      "created_utc": 1787844159.0
+    }
+  ]
+}
