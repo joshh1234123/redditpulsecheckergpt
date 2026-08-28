@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v7uig0",
-      "title": "Programmatic novice: Private deals setup in DV360",
-      "author": "Beneficial_Class4660",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v7uig0/programmatic_novice_private_deals_setup_in_dv360/",
-      "created_utc": 1785141377.0,
-      "content": "Hi guys,\n\nI'm used to running only Open Auction campaigns, but when it comes to other deal types, I'm a bit lost.\n\nI'd like to test a Private Deal via DV360 for a campaign in the UK. \n\nCould someone explain what I need to do to set it up? Best practices, documentation, etc..",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v7wa9n",
       "title": "CTV self-serve platforms, anyone actually running spend through these?",
       "author": "Zealousideal-Hotel62",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787898471.0,
       "content": "Would you give them a sample campaign report to interpret, an underspending campaign to troubleshoot, or a brief to build a media plan around?",
       "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w0uvc9",
+      "title": "Do remote jobs exist in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
+      "created_utc": 1787933451.0,
+      "content": "Hi guys,\n\nHow common is it in this industry to work fully remote? Mostly interested for EU as I think in US it's already kinda common.\n\nAlso, has anyone in one of the big 4 agencies managed that?\n\nCheers",
+      "num_comments": 10,
       "over_18": false,
       "link_flair_text": null
     }

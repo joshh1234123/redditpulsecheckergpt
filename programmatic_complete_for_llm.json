@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-28T13:52:24.454104+00:00",
-    "total_posts": 1957,
-    "total_comments": 10199
+    "scrape_date": "2026-08-28T23:21:04.706787+00:00",
+    "total_posts": 1958,
+    "total_comments": 10208
   },
   "discussions": [
     {
@@ -89846,6 +89846,75 @@
           "body": "u/Shortiii Absolutely. Thanks for sharing your view on this. ",
           "score": 1,
           "created_utc": 1787915747.0
+        }
+      ]
+    },
+    {
+      "id": "1w0uvc9",
+      "title": "Do remote jobs exist in programmatic?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
+      "created_utc": 1787933451.0,
+      "content": "Hi guys,\n\nHow common is it in this industry to work fully remote? Mostly interested for EU as I think in US it's already kinda common.\n\nAlso, has anyone in one of the big 4 agencies managed that?\n\nCheers",
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SplitLongjumping2063",
+          "body": "I’d argue that the programmatic field is probably the most common to be remote in digital marketing.\n\nI consistently see remote jobs available or people reach out on linked in offering remote positions for in the US.",
+          "score": 4,
+          "created_utc": 1787937321.0
+        },
+        {
+          "author": "mikehauptman",
+          "body": "super common and increasingly so.",
+          "score": 3,
+          "created_utc": 1787939189.0
+        },
+        {
+          "author": "ContentaAI",
+          "body": "if you can deliver x10 in revenue (vs your salary) to the company - sure!! ",
+          "score": 2,
+          "created_utc": 1787936810.0
+        },
+        {
+          "author": "Hymhotep",
+          "body": "Yes, not in big agencies tho, and it's hard to find, good luck ",
+          "score": 1,
+          "created_utc": 1787934265.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "We are fully back to office but the office is too small for everyone.",
+          "score": 1,
+          "created_utc": 1787937907.0
+        },
+        {
+          "author": "Forward-Ad9349",
+          "body": "Rarely.   \nWhen I was hired right after covid most of adtech companies offered me fully remote roles.   \nSince than and looking for a new role in 2026 it seems like no one is hiring remote anymore. \n\nFeels like back to office is the standard and everything else is individually between you and your manager ",
+          "score": 1,
+          "created_utc": 1787943349.0
+        },
+        {
+          "author": "itsmesupm",
+          "body": "Yes remote job do exists everything is being offshored to GCC (Global Capability Centres) India, Philippines, Vietnam….  All agencies are doing it Omnicom, WPP, Dentsu…",
+          "score": 1,
+          "created_utc": 1787943590.0
+        },
+        {
+          "author": "itsmesupm",
+          "body": "Can you share some of the opportunities?",
+          "score": 1,
+          "created_utc": 1787943620.0
+        },
+        {
+          "author": "INPUT_INPUT",
+          "body": "Yep, offshoring is on the rise….. wait, was that not the point?",
+          "score": 1,
+          "created_utc": 1787942489.0
         }
       ]
     }
