@@ -1244,6 +1244,21 @@
       "link_flair_text": null,
       "thread_id": "1vzwemx",
       "thread_path": "1vzwemx.json"
+    },
+    {
+      "id": "1w09vr2",
+      "title": "Best DSP for growing business?",
+      "author": "Less-Selection1127",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w09vr2/best_dsp_for_growing_business/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w09vr2/best_dsp_for_growing_business/",
+      "created_utc": 1787872748.0,
+      "content": "We’re a growing mid-market brand scaling past “just run it through the agency’s login” and want our own DSP seat.\n\nNot looking for the enterprise stack that assumes $500k/month and a 12-person programmatic team. Also not looking for the two platforms everyone defaults to in this sub for SMBs. We already looked at StackAdapt and Basis. They’re off the table. Please don’t recommend them.\n\nWhat we actually need:\n\n•  Own seat, not a sub-seat under someone else’s account. We want the data, the log-level stuff, and the ability to bring this in-house later without starting from zero.  \n•  Some kind of seat credit / onboarding credit / media credit to make the first 60–90 days less painful. If the platform is going to charge a platform fee plus data plus verification, we need a little cushion while we learn the UI and figure out what actually works.  \n•  Flexible operating model. Self-serve with real support when we get stuck, not “you’re either fully managed or you’re on your own with a help center.” Hybrid is ideal.  \n•  Actually keeping up. Privacy / signal loss, CTV, retail media, identity, AI optimization — we don’t need every shiny feature, but we also don’t want a platform that still feels like 2019 with a new homepage.\n\nHope this helps!",
+      "num_comments": 13,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w09vr2",
+      "thread_path": "1w09vr2.json"
     }
   ]
 }
