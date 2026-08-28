@@ -1259,6 +1259,21 @@
       "link_flair_text": null,
       "thread_id": "1w09vr2",
       "thread_path": "1w09vr2.json"
+    },
+    {
+      "id": "1w0ipn4",
+      "title": "If you were hiring a junior programmatic advertiser, what practical task would you give them? For your context, I’m associated with a programmatic training provider and want to understand what employers expect from junior candidates.",
+      "author": "gvshivacharan",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w0ipn4/if_you_were_hiring_a_junior_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w0ipn4/if_you_were_hiring_a_junior_programmatic/",
+      "created_utc": 1787898471.0,
+      "content": "Would you give them a sample campaign report to interpret, an underspending campaign to troubleshoot, or a brief to build a media plan around?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w0ipn4",
+      "thread_path": "1w0ipn4.json"
     }
   ]
 }
