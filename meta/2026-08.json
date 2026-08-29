@@ -1334,6 +1334,36 @@
       "link_flair_text": null,
       "thread_id": "1w1q03c",
       "thread_path": "1w1q03c.json"
+    },
+    {
+      "id": "1w1ysuj",
+      "title": "H1 2026 programmatic display benchmarks: CTRs, eCPMs, and eCPCs across devices, creative sizes, and exchanges",
+      "author": "maryna-gc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w1ysuj/h1_2026_programmatic_display_benchmarks_ctrs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w1ysuj/h1_2026_programmatic_display_benchmarks_ctrs/",
+      "created_utc": 1788039412.0,
+      "content": "Our team put together consolidated benchmarks across H1 2026 media campaigns with CTRs, eCPMs, and eCPCs by device, creative size, exchange, and targeting strategy, and wanted to share some of the highlights with the community.\n\nDisclosure up front: I'm with Growth Channel, and these numbers come from campaigns that ran through the platform this year (actual delivery data, not surveys or secondhand estimates). Posting because a few of these cut against what we'd assumed, and I figured they'd be useful discussion fodder here.  \n  \n**1. Display's baseline: $4.23 eCPM, $1.78 eCPC, 0.29% CTR.** That's the all-category average. Native came in at $5.11 eCPM / $1.73 eCPC / 0.22% CTR, so roughly similar click economics on average, but in several individual categories native eCPCs ran way cheaper than display (e.g., Health & Fitness: $1.12 native vs $4.73 display for the same category and audience).\n\n**2. The 300x250 is no longer the CTR workhorse.** Top creative sizes by CTR: 480x320 at 2.12%, 1080x1920 at 1.91%, 320x480 at 1.32%. The classic 300x250 posted 0.93%, and 336x280 came in at 0.79%. All three top sizes are mobile-first interstitial formats.\n\n**3. The mobile/desktop gap is brutal.** Mobile: $3.46 CPM, 0.61% CTR, $0.57 CPC. Desktop: $4.05 CPM, 0.08% CTR, $5.11 CPC. So desktop cost more per impression and delivered roughly 1/8 the CTR. If you're still splitting display budgets evenly across devices, that's worth a hard look.\n\n**4. Exchange efficiency varies far more than exchange price.** Meta delivered the highest CTR (1.16%) and the lowest effective CPC ($0.86), but at a premium $9.99 CPM. Rubicon and Smart (Equativ) paired \\~0.5% CTRs with sub-$0.80 CPCs at \\~$3.85 CPMs. At the other end, Index Exchange ran 0.09% CTR and a $5.51 CPC. Similar CPMs, wildly different outcomes.\n\n**5. Publisher selection is a bigger lever than most optimizations.** Across our top 10 publishers, CPMs mostly sat in a narrow $4–6 band, but CTR ranged from 0.01% (Zillow) to 0.20% (MSN) — a 20x engagement spread at basically the same price.\n\n**6. Broad prospecting beat narrow targeting on engagement.** Interest targeting topped strategies at 0.63% CTR; ABM was the lowest at 0.14% (a 4.5x gap). And a retargeting click cost \\~5x more than a prospecting click ($3.56 vs $0.67). Warm audiences convert, but you pay a steep premium per click to reach them.\n\n**7. Context for the display crowd: video CTR jumped to 0.97%:** more than 5x the 0.18% it posted in 2025, making it the highest-CTR channel in the mix. Display still wins on cost per impression ($4.23 eCPM vs $11.63 for video), so the trade-off is engagement vs reach economics.\n\nCaveats: your mileage will vary by vertical, DSP, and setup. The full report has the category-level breakdowns (23 verticals across native/display/video/CTV/audio, with eCPM ranges) if you want to benchmark your own campaigns against it. We published it here for a free download: [https://www.growthchannel.com/programmatic-display-benchmarks](https://www.growthchannel.com/programmatic-display-benchmarks)\n\nCurious what others are seeing, especially whether desktop display CTRs this low match your data, and whether anyone else has watched the 300x250 slide down their performance rankings.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w1ysuj",
+      "thread_path": "1w1ysuj.json"
+    },
+    {
+      "id": "1w1ywt1",
+      "title": "Been in Ad Ops since 2021, but only on the ad server side — where do I go from here?",
+      "author": "Ok_Lavishness3797",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w1ywt1/been_in_ad_ops_since_2021_but_only_on_the_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w1ywt1/been_in_ad_ops_since_2021_but_only_on_the_ad/",
+      "created_utc": 1788039697.0,
+      "content": "I’ve been working in Ad Ops since 2021, but my experience has mostly been on the ad server / campaign management side.\n\nMost of my work has been around campaign setup, trafficking, QA, troubleshooting, tags, creatives, reporting, and coordinating with other teams/platforms as part of the campaign workflow.\n\nThe thing is, I feel like I’ve become pretty boxed into proprietary ad server platforms. I’ve spent most of my career working within the platforms my companies use, rather than getting hands-on experience with DSPs or programmatic platforms.\n\nAnd honestly, I really want to get that experience now.\n\nWhen I look at job postings, a lot of them ask for hands-on experience with DSPs, programmatic buying, DV360, The Trade Desk, etc. I do have exposure to some of these platforms through my current work, but I wouldn’t say I have enough experience to confidently call myself a DSP/programmatic specialist.\n\nThat’s also what makes job hunting frustrating. I feel like I have several years of Ad Ops experience, but when I try to move into programmatic/DSP roles, I’m competing with people who already have direct platform experience.\n\nFor those who have been in Ad Ops/AdTech for a while — is staying primarily on the ad server side a disadvantage career-wise?\n\nIf you were in my position, would you continue looking specifically for Ad Ops roles, or try to make the jump into DSP/programmatic even if it means taking a role that’s more junior or slightly different from my current experience?\n\nI really want to expand my skill set and get out of the proprietary-platform bubble, but I’m not sure what the best transition path would be.\n\nWould love to hear from anyone who started in ad serving/ad ops and eventually moved into DSP/programmatic. How did you make the transition?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w1ywt1",
+      "thread_path": "1w1ywt1.json"
     }
   ]
 }
