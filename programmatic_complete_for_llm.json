@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-29T15:43:20.680260+00:00",
-    "total_posts": 1960,
-    "total_comments": 10226
+    "scrape_date": "2026-08-29T19:03:33.264494+00:00",
+    "total_posts": 1961,
+    "total_comments": 10232
   },
   "discussions": [
     {
@@ -90054,6 +90054,57 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1w1q03c",
+      "title": "Is programmatic advertising easier/difficult compared to paid search and paid social? What even is programmatic?",
+      "author": "Fine_Extension106",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w1q03c/is_programmatic_advertising_easierdifficult/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w1q03c/is_programmatic_advertising_easierdifficult/",
+      "created_utc": 1788018525.0,
+      "content": "Explain please!",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "It’s a pretty even trade tbh - you can go down similar if not the same rabbit holes. Maybe more difficult because you are dealing with 5x “channels” vs paid social and search usually being pretty focused.\n\nIt can be a lot for a first timer especially with trafficking",
+          "score": 7,
+          "created_utc": 1788020268.0
+        },
+        {
+          "author": "cn_wizz",
+          "body": "From someone who's been hands on keys running campaigns on all of paid search, paid social, and programmatic DSP's, programmatic is absolutely more difficult.",
+          "score": 3,
+          "created_utc": 1788029755.0
+        },
+        {
+          "author": "Fine_Extension106",
+          "body": "5 channels? Isn't programmatic just google ads and TTD?",
+          "score": -9,
+          "created_utc": 1788022949.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "No lmao ",
+          "score": 7,
+          "created_utc": 1788024904.0
+        },
+        {
+          "author": "Arlitto",
+          "body": "By channels, they mean: Display, Online Video, Audio, CTV, and DOOH.\n\nGoogle Ads is a walled garden. TTD is a DSP with multiple partnerships in an attempt to encourage adoption of the \"Open Internet\".",
+          "score": 3,
+          "created_utc": 1788024741.0
+        },
+        {
+          "author": "Jackescalator",
+          "body": "TTD is not a channel ",
+          "score": 2,
+          "created_utc": 1788027722.0
+        }
+      ]
     }
   ]
 }
