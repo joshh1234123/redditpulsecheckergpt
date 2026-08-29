@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-29T04:15:32.284910+00:00",
-    "total_posts": 1959,
+    "scrape_date": "2026-08-29T11:16:16.423582+00:00",
+    "total_posts": 1960,
     "total_comments": 10226
   },
   "discussions": [
@@ -90040,6 +90040,20 @@
           "created_utc": 1787961514.0
         }
       ]
+    },
+    {
+      "id": "1w1fnu6",
+      "title": "Looking for a Creative Strategist internship at a D2C company.",
+      "author": "luke_miti",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w1fnu6/looking_for_a_creative_strategist_internship_at_a/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w1fnu6/looking_for_a_creative_strategist_internship_at_a/",
+      "created_utc": 1787987630.0,
+      "content": "Any leads, advice, or people I should talk to? Happy to share my background if useful.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

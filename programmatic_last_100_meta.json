@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v8c9bb",
-      "title": "The Trade Desk “System Auto for Win Rate Exclusion optimization list was dissociated from the ad group” error",
-      "author": "girlygirly05",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v8c9bb/the_trade_desk_system_auto_for_win_rate_exclusion/",
-      "created_utc": 1785184190.0,
-      "content": "This “optimization” was auto applied to two of my Display campaigns last week and delivery has stopped completely since - this issue has since been escalated to TTD engineers for support but I’m curious, has anyone else seen this before?? I can’t find anything in any campaign rails that would tell me what the purpose of this optimization is and I can’t figure out how to remove it on my own. Campaigns are delivering to 3P audiences with more than enough scale on the SP500+",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1v8n9qn",
       "title": "Why does making these ads still feel so painful in 2026?",
       "author": "SoriffMdD1885",
@@ -1302,6 +1289,19 @@
       "created_utc": 1787959681.0,
       "content": "I hear a lot about MNTN in the industry - mostly that clients love the simplicity, but it seems too good to be true. Worked across DSPs and understand how shady these places can be. Rumors are that they’re taking 60%+ profits but nothing I can find in the media. Thoughts on MNTN? ",
       "num_comments": 18,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w1fnu6",
+      "title": "Looking for a Creative Strategist internship at a D2C company.",
+      "author": "luke_miti",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w1fnu6/looking_for_a_creative_strategist_internship_at_a/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w1fnu6/looking_for_a_creative_strategist_internship_at_a/",
+      "created_utc": 1787987630.0,
+      "content": "Any leads, advice, or people I should talk to? Happy to share my background if useful.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
