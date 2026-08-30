@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1v9srjs",
-      "title": "Amazon DSP question. Do you have access to ready made Netflix deals?",
-      "author": "NiceRecognition9603",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v9srjs/amazon_dsp_question_do_you_have_access_to_ready/",
-      "created_utc": 1785322483.0,
-      "content": "Until now the path for Netflix on Amazon DSP was only proposals interface. Make one, wait, accept, and configure it properly.\n\nI can now see ready made Netflix deals in the Amazon inventory since a few days but no official announcements, and my amazon contacts are silent. Likely on holidays, not a secret they were going to lunch this.\n\nIs that live for everyone, or is my account seeing something early? (I am part of many betas)",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1v9ue3a",
-      "title": "Is anyone using ai powered tools to improve ctv campaign results?",
-      "author": "Mammoth-Row4460",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1v9ue3a/is_anyone_using_ai_powered_tools_to_improve_ctv/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1v9ue3a/is_anyone_using_ai_powered_tools_to_improve_ctv/",
-      "created_utc": 1785327068.0,
-      "content": "Recently I’m struggling at work in campaigns to be exact. My good friend is also in this field and his working strategy is always different from mine but i can see he’s doing good lately. He uses ai tools for his ctv campaigns and he was telling me how much easier it made things for him but i feel like i should always moderate ai so i just keep doing everything myself but i’ve started to get tired a little from this.\n\nI can say I'm still a little skeptical.  \n  \nSoo I'm wondering how much of this is actually useful in practice, it is 2026 and technology has improved a Lot lets say.  \n  \nWhat’s your story with ai powered tools for advertising?  \n\n\nI’m willing to change my mind and give it a try.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vacnbi",
       "title": "Netflix now available Amazon Ads",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1788039697.0,
       "content": "I’ve been working in Ad Ops since 2021, but my experience has mostly been on the ad server / campaign management side.\n\nMost of my work has been around campaign setup, trafficking, QA, troubleshooting, tags, creatives, reporting, and coordinating with other teams/platforms as part of the campaign workflow.\n\nThe thing is, I feel like I’ve become pretty boxed into proprietary ad server platforms. I’ve spent most of my career working within the platforms my companies use, rather than getting hands-on experience with DSPs or programmatic platforms.\n\nAnd honestly, I really want to get that experience now.\n\nWhen I look at job postings, a lot of them ask for hands-on experience with DSPs, programmatic buying, DV360, The Trade Desk, etc. I do have exposure to some of these platforms through my current work, but I wouldn’t say I have enough experience to confidently call myself a DSP/programmatic specialist.\n\nThat’s also what makes job hunting frustrating. I feel like I have several years of Ad Ops experience, but when I try to move into programmatic/DSP roles, I’m competing with people who already have direct platform experience.\n\nFor those who have been in Ad Ops/AdTech for a while — is staying primarily on the ad server side a disadvantage career-wise?\n\nIf you were in my position, would you continue looking specifically for Ad Ops roles, or try to make the jump into DSP/programmatic even if it means taking a role that’s more junior or slightly different from my current experience?\n\nI really want to expand my skill set and get out of the proprietary-platform bubble, but I’m not sure what the best transition path would be.\n\nWould love to hear from anyone who started in ad serving/ad ops and eventually moved into DSP/programmatic. How did you make the transition?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w283ba",
+      "title": "I spent years building ad attribution pipelines. Now I want to know: do any of you actually trust your measurement?",
+      "author": "Existing_As_Usual",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w283ba/i_spent_years_building_ad_attribution_pipelines/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w283ba/i_spent_years_building_ad_attribution_pipelines/",
+      "created_utc": 1788065768.0,
+      "content": "Hey all, long-time lurker. I've spent the last few years on the data engineering side of adtech by building the pipelines behind visitation/footfall attribution, impression and click attribution, revenue reporting, that kind of thing. Basically the plumbing that turns raw ad events into the \"here's what your campaign did\" numbers you see on the buying side.\n\nLately I've been sitting with a question I could never answer from inside the pipeline: do the people actually spending the money trust these numbers?\n\nI built the attribution. I know where the assumptions and the duct tape are. So I'm curious what it looks like from your seat:\n\nWhen a client or your boss asks \"did this actually drive sales?\", how confident are you in the answer?  \nHow much of your week goes into pulling numbers out of different platforms and making them agree?  \nDo you trust incrementality/lift results, or is it still mostly last-click in practice?  \nWhat's the one measurement thing that makes you roll your eyes every time?\n\nNot selling anything, not building anything yet and just trying to understand the problem from the buyer's side before I decide if it's worth solving. Happy to trade notes on how this stuff actually gets calculated under the hood if that's useful to you. Comments are great, or DM me if you'd rather vent privately.\n\nThanks for reading 🙏",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w29p1p",
+      "title": "Donation conversions, which DSP?",
+      "author": "Sea_Character7997",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w29p1p/donation_conversions_which_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w29p1p/donation_conversions_which_dsp/",
+      "created_utc": 1788070969.0,
+      "content": "I have a campaign coming soon. I have awareness line item with CTV and then retargeting display but the tricky part is that conversion actions should be donations. So, have you guys had anything similar? Do you recommend using TTD for this or maybe DV360? ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

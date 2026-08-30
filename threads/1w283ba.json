@@ -1,0 +1,22 @@
+{
+  "id": "1w283ba",
+  "thread_id": "1w283ba",
+  "title": "I spent years building ad attribution pipelines. Now I want to know: do any of you actually trust your measurement?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1w283ba/i_spent_years_building_ad_attribution_pipelines/",
+  "created_utc": 1788065768.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "PlasticLeading",
+      "body": "I’ve only been in programmatic for about seven years, and for the last four I’ve spent a lot of time around attribution across different clients. I’m not the person actually building the attribution models, but I’ve seen how a lot of clients and agencies have their measurement stacks set up.\n\nMost agencies and clients still use an ad server as some version of their source of truth, sometimes with data-driven attribution layered on top. In my opinion, that’s probably one of the worst ways to evaluate media performance on its own. A lot of the time it ends up giving the most credit to whatever can reach the most people, generate the most touchpoints, and do it at the lowest cost.\n\nIt also does a poor job of capturing brand-building activity or channels that are inherently harder to measure, like CTV, audio, OOH, etc. You end up overvaluing the channels closest to the conversion and undervaluing the things that may have actually created the demand in the first place.\n\nThe more sophisticated advertisers will usually layer in an MMM or some other form of incrementality measurement. That gets you closer, but it’s still not perfect, especially when the underlying sales or CRM data is messy. Garbage in, garbage out applies pretty heavily to measurement.\n\nThe best setups I’ve seen get down to log-level or impression-level data across their media partners and match that back to their own CRM and transaction data. Ideally you have a unique order ID or customer identifier that lets you understand which impressions and media exposures were associated with an eventual conversion.\n\nThen you can actually start looking at the customer journey instead of just asking which platform claimed the conversion.\n\nEven then, I wouldn’t treat that attribution as the final answer. You layer geo experiments, holdouts, conversion lift tests, and other incrementality testing on top to understand which channels are actually causing incremental outcomes. Attribution tells you what the journey looked like; experimentation helps tell you what actually mattered.\n\nThat’s obviously harder for CPG and other businesses where you don’t have a clean 1:1 relationship between media exposure and transaction data, but for a lot of subscription, e-commerce, financial services, app, and lead-gen businesses, it’s absolutely possible if the data infrastructure is there.",
+      "score": 2,
+      "created_utc": 1788067131.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "You can join the other millions trying to solve measurement, it is the most important thing in advertising but the most complex.\n\nSimply put, all attribution is flawed or has a technical limitation. Hence best in class measurement is not a single solution / methodology, its triangulating across multiple.\n\nNow with AI driving more BS solutions to the market alongside certain vendors who always sold the dream but in reality cannot do anything, my advice is be careful who you trust ",
+      "score": 1,
+      "created_utc": 1788078629.0
+    }
+  ]
+}
