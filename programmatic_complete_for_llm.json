@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-30T08:47:34.339139+00:00",
-    "total_posts": 1965,
-    "total_comments": 10235
+    "scrape_date": "2026-08-30T14:11:34.131992+00:00",
+    "total_posts": 1967,
+    "total_comments": 10236
   },
   "discussions": [
     {
@@ -90177,6 +90177,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w29p1p/donation_conversions_which_dsp/",
       "created_utc": 1788070969.0,
       "content": "I have a campaign coming soon. I have awareness line item with CTV and then retargeting display but the tricky part is that conversion actions should be donations. So, have you guys had anything similar? Do you recommend using TTD for this or maybe DV360? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w2cyt8",
+      "title": "Programmatic - Freelancing",
+      "author": "Fragrant_Service_855",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w2cyt8/programmatic_freelancing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2cyt8/programmatic_freelancing/",
+      "created_utc": 1788082246.0,
+      "content": "From my understanding, the clients fully rely on Top holdcos or agencies for the programmatic activation and mostly for bigger clients and some middle size clients. Anyone tried freelancing for small to medium brands or business in any freelancing platform. I have skills but wanted to check which platform suits best programmatic channel? Which platform is best for our industry ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "novixra",
+          "body": "tbh programmatic is still pretty “mystery box” to most small/medium brands, so they don’t really go on Fiverr/Upwork searching for it by name, they just look for “digital ads” or “display ads.” I’ve seen most actual programmatic gigs come through LinkedIn + networking or via Upwork but under super generic job titles, so you kinda have to fish in the broader “paid media” category rather than expect a clean “programmatic” niche.",
+          "score": 3,
+          "created_utc": 1788082283.0
+        }
+      ]
+    },
+    {
+      "id": "1w2fh15",
+      "title": "What are you still doing manually?",
+      "author": "Exotic-Court-9430",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w2fh15/what_are_you_still_doing_manually/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2fh15/what_are_you_still_doing_manually/",
+      "created_utc": 1788090576.0,
+      "content": "Hey everyone, curious to hear how other programmatic traders work.\n\nWould genuinely like to know, what have you automated in your day-to-day workflow that has genuinely made your life easier?\n\nI’m particularly interested in things like pacing/optimization, campaign QA, reporting, and creative previews/approvals. For example, do you have automated pacing alerts or recommendations? \n\nAdditionally when clients need ad previews for approval, are you still generating those manually or have you found a better way?\n\nAlso curious what tools you’re using scripts, Python, APIs, spreadsheets, etc.\n\nBasically, I’d love to know what repetitive parts of programmatic you’ve managed to eliminate, and what you’ve built that has actually saved you time.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
