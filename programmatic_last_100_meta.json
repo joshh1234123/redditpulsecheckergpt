@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vay27u",
-      "title": "Missing Ads.txt Lines",
-      "author": "Financial_Match5880",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vay27u/missing_adstxt_lines/",
-      "created_utc": 1785427914.0,
-      "content": "I’m a newbie to adtech and work for a top 3 SSP, one of the largest issues I come across in terms of monetization is publishers who are sending us requests for supply that doesn’t have our ads.txt present. \n\nIt seems like a simple enough fix, just add the line to the page and it will start monetizing and stop wasting the requests. However I’ve come to learn this is not a simple fix and pubs rarely add the line when we make the request.\n\nCan someone explain why this is such an issue in the industry? ",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vbf3lm",
       "title": "I got tired of manually decoding nested URL params and JSON payloads, so I built a purely client-side visualizer.",
       "author": "Melodic-Middle-4265",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788090576.0,
       "content": "Hey everyone, curious to hear how other programmatic traders work.\n\nWould genuinely like to know, what have you automated in your day-to-day workflow that has genuinely made your life easier?\n\nI’m particularly interested in things like pacing/optimization, campaign QA, reporting, and creative previews/approvals. For example, do you have automated pacing alerts or recommendations? \n\nAdditionally when clients need ad previews for approval, are you still generating those manually or have you found a better way?\n\nAlso curious what tools you’re using scripts, Python, APIs, spreadsheets, etc.\n\nBasically, I’d love to know what repetitive parts of programmatic you’ve managed to eliminate, and what you’ve built that has actually saved you time.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w2jkeg",
+      "title": "Which DSP's to target dating apps?",
+      "author": "Soft-Bad3807",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w2jkeg/which_dsps_to_target_dating_apps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2jkeg/which_dsps_to_target_dating_apps/",
+      "created_utc": 1788101357.0,
+      "content": "Hello everyone. Title says it all. But would need to be able to check which app names / app ID's the ads would be showing up instead of random placement codes like PropellerAds. \n\nIdeally I'd need to target ONLY dating apps and be able to see which apps are those.\n\nAny tips?",
+      "num_comments": 16,
       "over_18": false,
       "link_flair_text": null
     }

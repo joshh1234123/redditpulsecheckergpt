@@ -1424,6 +1424,21 @@
       "link_flair_text": null,
       "thread_id": "1w2fh15",
       "thread_path": "1w2fh15.json"
+    },
+    {
+      "id": "1w2jkeg",
+      "title": "Which DSP's to target dating apps?",
+      "author": "Soft-Bad3807",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w2jkeg/which_dsps_to_target_dating_apps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2jkeg/which_dsps_to_target_dating_apps/",
+      "created_utc": 1788101357.0,
+      "content": "Hello everyone. Title says it all. But would need to be able to check which app names / app ID's the ads would be showing up instead of random placement codes like PropellerAds. \n\nIdeally I'd need to target ONLY dating apps and be able to see which apps are those.\n\nAny tips?",
+      "num_comments": 16,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w2jkeg",
+      "thread_path": "1w2jkeg.json"
     }
   ]
 }

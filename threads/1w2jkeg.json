@@ -1,0 +1,106 @@
+{
+  "id": "1w2jkeg",
+  "thread_id": "1w2jkeg",
+  "title": "Which DSP's to target dating apps?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1w2jkeg/which_dsps_to_target_dating_apps/",
+  "created_utc": 1788101357.0,
+  "num_comments": 16,
+  "comments": [
+    {
+      "author": "al-j-",
+      "body": "1. If you look up the placement codes you should be able to pull the app name.  I would try doing in bulk via an AI tool. 2. Kochava used to have a functionality to target via app category/ app name. Haven’t done it in several years though.",
+      "score": 3,
+      "created_utc": 1788102375.0
+    },
+    {
+      "author": "SeniorDucklet",
+      "body": "Keep in mind that most dating apps that allow ads have extensive black lists. if you are a competitor they won’t allow you to bid on their inventory.  ",
+      "score": 3,
+      "created_utc": 1788104122.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "Out of interest, what sort of product are you advertising? If its another dating app, you may (likely will) get blocked.",
+      "score": 3,
+      "created_utc": 1788105280.0
+    },
+    {
+      "author": "mikehauptman",
+      "body": "Most DSPs support app targeting. \n\nIf you are looking to drive mobile app installs or post install behavior, the better platforms are Moloco, Liftoff, Kayzen, Applovin, and Smadex.\n\nCheck out our help center for some example lists we run. \n\nhttp://help.getadlib.com/en/articles/3101358-app-lists-site-lists",
+      "score": 3,
+      "created_utc": 1788105562.0
+    },
+    {
+      "author": "Careless-Courage-385",
+      "body": "Most DSP’s have minimum. So you can’t even get a seat unless your spend meets the threshold. ",
+      "score": 1,
+      "created_utc": 1788103433.0
+    },
+    {
+      "author": "maryna-gc",
+      "body": "We have a sample list I’m happy to share [https://docs.google.com/spreadsheets/d/1rlzaspnPVy89LbHEC0\\_ld58kMPrdoh8EcDIIw0VKo50/edit?usp=drivesdk](https://docs.google.com/spreadsheets/d/1rlzaspnPVy89LbHEC0_ld58kMPrdoh8EcDIIw0VKo50/edit?usp=drivesdk)\n\nFor activation, most DSPs will work - DV360, TTD, even Stackadapt, although inventory may be more limited there.",
+      "score": -1,
+      "created_utc": 1788102657.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "It is yeah",
+      "score": 1,
+      "created_utc": 1788108541.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "Not an issue",
+      "score": 1,
+      "created_utc": 1788103459.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "Hi there! Which company to belong to? Feel free to DM!",
+      "score": 1,
+      "created_utc": 1788103376.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "Most dsp's should be able to do what you're looking for once you have a list of the apps you want to target. I have a feeling you might run into problems with running your ads though (but could be wrong)\n\nHave you a particular niche audience you're app is targeted to?",
+      "score": 1,
+      "created_utc": 1788109882.0
+    },
+    {
+      "author": "Careless-Courage-385",
+      "body": "What kind of monthly budget are you spending? Some DSP’s have app category you can target. If you have the app/site name or code, you can whitelist those apps and only run on them. Scale may become an issue. It all depends on the dsp ",
+      "score": 1,
+      "created_utc": 1788103558.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "I work with all kinds of niches within the dating space. I assume you're saying I might face problem due to direct competition right?",
+      "score": 1,
+      "created_utc": 1788109993.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "Happy to discuss those budgets with whoever person belongs to one of these DSP's that allow me to do these targetings",
+      "score": 1,
+      "created_utc": 1788103715.0
+    },
+    {
+      "author": "Careless-Courage-385",
+      "body": "Trade desk is your best option. I do not work for a dsp though. There are multiple ways you can do this. You can purchase data segments of users that go on certain apps, app category through a dsp, maybe even credit card data of ppl that purchased dating sites. There are numerous ways to do it. Some are more cost effective than others. But it all depends on scale. ",
+      "score": 1,
+      "created_utc": 1788103857.0
+    },
+    {
+      "author": "Soft-Bad3807",
+      "body": "Noted and thanks for that! I will search for Trade Desk. Also had Unity and Kayzen on my list. Any feedback on these 2?",
+      "score": 1,
+      "created_utc": 1788103950.0
+    },
+    {
+      "author": "Careless-Courage-385",
+      "body": "I have not personally used them. They must be resellers. Trade desk has a min of $100k monthly spend to get a seat ",
+      "score": 1,
+      "created_utc": 1788104032.0
+    }
+  ]
+}
