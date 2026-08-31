@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-08-31T09:09:36.553925+00:00",
-    "total_posts": 1969,
-    "total_comments": 10257
+    "scrape_date": "2026-08-31T17:09:48.208205+00:00",
+    "total_posts": 1972,
+    "total_comments": 10263
   },
   "discussions": [
     {
@@ -90370,6 +90370,85 @@
           "body": "The tricky part is every platform wants to prove its own value Marketer is interesting to me because it looks at paid and measurement more as one system instead of separate channel stories that feels closer to the real problem here than just adding another attribution view",
           "score": 1,
           "created_utc": 1788140771.0
+        }
+      ]
+    },
+    {
+      "id": "1w3c5q3",
+      "title": "Under 1MB vs under 5MB: what are we actually buying?",
+      "author": "Narrow-Weakness-7236",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "created_utc": 1788178850.0,
+      "content": "Every extra kilobyte competes with something else at mraid io: texture resolution, animation frames, audio, analytics. We set a budget before production: runtime, essential art, feedback, audio, wrapper, safety margin. Then ask: does this asset help the user understand or enjoy the interaction? Pretty backgrounds that delay first input are rarely a bargain.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w3c9pj",
+      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
+      "author": "yeetthewheat24",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "created_utc": 1788179148.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w3d5du",
+      "title": "There needs to be a serious crackdown on the ad/promo posts in this sub.",
+      "author": "HuskyInfantry",
+      "score": 38,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "created_utc": 1788181272.0,
+      "content": "There are a crazy amount of shitty AI-written threads from small companies that are blatant ads, and it's only getting worse.  Startups recreating the wheel offering things that have been around forever, nonsense AI-tools that pretend to fix problems, you name it. Much of it is disguised in the form of, \"tell me about your biggest friction point\", because these people can't even figure out on their own what they want to sell us.\n\nThe irony isn't lost on me. But it feels like scrolling through LinkedIn rather than a community of people sharing news or having discussions. ",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "Just needs more mods imo. Outside of the AI garbage, tbf at least a few people are now at least disclaiming where they work.",
+          "score": 7,
+          "created_utc": 1788181857.0
+        },
+        {
+          "author": "klustura",
+          "body": "I share your opinion but I didn't dare posting about it because: while I believe that our contradictions are meant to make us change our perspectives, complaining about advertising while working in advertising would've pushed me to change industry.\n\n\nSo, I simply block the AI shit posters after their 3rd post. My AI Shit Post fatigue (or Frequency Capping if you will) is set at exactly 3 impressions.",
+          "score": 7,
+          "created_utc": 1788182388.0
+        },
+        {
+          "author": "SouthwestBLT",
+          "body": "Can we wait like 3 weeks i really want to share a project i have been working on. I promise its slop-free.",
+          "score": 4,
+          "created_utc": 1788183950.0
+        },
+        {
+          "author": "Schruteschrute",
+          "body": "Damn I hope this isn't me lol, I built something I am super excited about - I don't want to just harass people over email or LinkedIn. It's hard getting in front of people these days and nobody has time. ",
+          "score": 1,
+          "created_utc": 1788187099.0
+        },
+        {
+          "author": "kapt_so_krunchy",
+          "body": "I work on the sales side and it drives me nuts when my coworkers (also sales people) complain about not getting meetings, or clients not wanting to meet with them. \n\nThen you look and all of the comms are some variation of “Hey do you have time to tell me about all the challenges you’re facing?”\n\nNo one has time for that shit. You’re a goddamn professional, learn about what challenges people on the industry are facing and how you can help solve them. No one has time to sit down with every vendor and explain in detail all the problems and challenges their org is facing. \n\nIf you don’t know those basic things, how are you going to meaningfully help solve anything?",
+          "score": 0,
+          "created_utc": 1788184546.0
+        },
+        {
+          "author": "Arlitto",
+          "body": "Not the fcap 🤣",
+          "score": 2,
+          "created_utc": 1788185551.0
         }
       ]
     }

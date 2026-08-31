@@ -6,45 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vbu10z",
-      "title": "Has anyone heard from Filmzie(A Parent Media Co. Inc.) lately?",
-      "author": "MurkyWillingness7917",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vbu10z/has_anyone_heard_from_filmziea_parent_media_co/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbu10z/has_anyone_heard_from_filmziea_parent_media_co/",
-      "created_utc": 1785511450.0,
-      "content": "Has anyone worked with or communicated with Filmzie (A Parent Media Co. Inc.) recently? We've been attempting to reach them regarding a significant outstanding balance, but all of our recent efforts to make contact have been unsuccessful.\n\nIf you have any recent information or know the best way to get in touch with their team, I'd sincerely appreciate your help.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vbxjln",
-      "title": "Anyone working on ARTF bidding containers? Either from the host (SSP/exchange) side or the agentic bidder side?",
-      "author": "adalphaboi",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vbxjln/anyone_working_on_artf_bidding_containers_either/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbxjln/anyone_working_on_artf_bidding_containers_either/",
-      "created_utc": 1785519020.0,
-      "content": "Hi everyone,\n\nI worked in programmatic for about 5 years before quitting to start my own software company that builds AI agents and automates workflows in 2019. That company is now kind of on autopilot as a self-serve SaaS tool and I'm looking at new opportunities.\n\nWhen I recently read about the ARTF spec from IAB, I immediately got excited since it combines the two things I've been mainly focused in for my career. I put on my founder hat and started building a prototype for a product that I think should exist in the market for hosts and agentic bidders. However, what I've learned through previous experience is I can get carried away with building something where I'm the only one who thinks it should exist/work the way it does and it becomes useless to others. I'd like to avoid that mistake this time around. \n\nIf your team/company is currently looking into ARTF agents and container environments, I'd love to get a sense of your current process and workflow. If you're a bidder/curator, how are you packaging and deploying into host containers? If you're a host, how are you accepting/deploying bidders into your container?\n\nI've had a few conversations with folks in my old network at a broader level and heard \"Everyone is scrambling to get something out there and are feeling the pain right now\" so I just want to uncover what the pain actually is to validate this product idea.   \n  \nFeel free to DM me as well if you don't want to comment to remain anonymous (I completely respect that since this is such a cutthroat industry)\n\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vc649d",
-      "title": "What is your opinion on Roku?",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vc649d/what_is_your_opinion_on_roku/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vc649d/what_is_your_opinion_on_roku/",
-      "created_utc": 1785538670.0,
-      "content": "I've noticed Roku makes up the majority of my impressions on Disney+, Hulu, and some live TV news shows.\n\nDo you find Roku users to be a good target, or just a source of wasted spend? I see so much of my budget going to Roku compared to every other device.\n\nMy question is more about audience quality: does Roku traffic actually perform for you, or do you exclude/downweight it?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vcjge5",
       "title": "Dentsu Global Services Associate Manager – Programmatic Hiring Process",
       "author": "Jirekshun",
@@ -1302,6 +1263,45 @@
       "created_utc": 1788139763.0,
       "content": "Been running into this more as we add channels every platform can show a decent story for itself and the reports look fine but once you try to figure out what spend really moved the business it gets kind of weird search takes credit, retargeting takes credit, programmatic has view through conversions and somehow everyone looks useful at the same time.\n\nI don’t know if the answer is better attribution or just having one person look across everything instead of judging each channel separately we’ve spent way too much time trying to make every platform prove itself when the bigger problem might be that nobody owns the full picture from spend to what happened in the business after",
       "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w3c5q3",
+      "title": "Under 1MB vs under 5MB: what are we actually buying?",
+      "author": "Narrow-Weakness-7236",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "created_utc": 1788178850.0,
+      "content": "Every extra kilobyte competes with something else at mraid io: texture resolution, animation frames, audio, analytics. We set a budget before production: runtime, essential art, feedback, audio, wrapper, safety margin. Then ask: does this asset help the user understand or enjoy the interaction? Pretty backgrounds that delay first input are rarely a bargain.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w3c9pj",
+      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
+      "author": "yeetthewheat24",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "created_utc": 1788179148.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w3d5du",
+      "title": "There needs to be a serious crackdown on the ad/promo posts in this sub.",
+      "author": "HuskyInfantry",
+      "score": 38,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "created_utc": 1788181272.0,
+      "content": "There are a crazy amount of shitty AI-written threads from small companies that are blatant ads, and it's only getting worse.  Startups recreating the wheel offering things that have been around forever, nonsense AI-tools that pretend to fix problems, you name it. Much of it is disguised in the form of, \"tell me about your biggest friction point\", because these people can't even figure out on their own what they want to sell us.\n\nThe irony isn't lost on me. But it feels like scrolling through LinkedIn rather than a community of people sharing news or having discussions. ",
+      "num_comments": 6,
       "over_18": false,
       "link_flair_text": null
     }

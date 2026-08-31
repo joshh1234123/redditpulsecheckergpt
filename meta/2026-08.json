@@ -1454,6 +1454,51 @@
       "link_flair_text": null,
       "thread_id": "1w2zict",
       "thread_path": "1w2zict.json"
+    },
+    {
+      "id": "1w3c5q3",
+      "title": "Under 1MB vs under 5MB: what are we actually buying?",
+      "author": "Narrow-Weakness-7236",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
+      "created_utc": 1788178850.0,
+      "content": "Every extra kilobyte competes with something else at mraid io: texture resolution, animation frames, audio, analytics. We set a budget before production: runtime, essential art, feedback, audio, wrapper, safety margin. Then ask: does this asset help the user understand or enjoy the interaction? Pretty backgrounds that delay first input are rarely a bargain.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w3c5q3",
+      "thread_path": "1w3c5q3.json"
+    },
+    {
+      "id": "1w3c9pj",
+      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
+      "author": "yeetthewheat24",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
+      "created_utc": 1788179148.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w3c9pj",
+      "thread_path": "1w3c9pj.json"
+    },
+    {
+      "id": "1w3d5du",
+      "title": "There needs to be a serious crackdown on the ad/promo posts in this sub.",
+      "author": "HuskyInfantry",
+      "score": 38,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3d5du/there_needs_to_be_a_serious_crackdown_on_the/",
+      "created_utc": 1788181272.0,
+      "content": "There are a crazy amount of shitty AI-written threads from small companies that are blatant ads, and it's only getting worse.  Startups recreating the wheel offering things that have been around forever, nonsense AI-tools that pretend to fix problems, you name it. Much of it is disguised in the form of, \"tell me about your biggest friction point\", because these people can't even figure out on their own what they want to sell us.\n\nThe irony isn't lost on me. But it feels like scrolling through LinkedIn rather than a community of people sharing news or having discussions. ",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w3d5du",
+      "thread_path": "1w3d5du.json"
     }
   ]
 }
