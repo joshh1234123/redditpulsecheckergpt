@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vbf3lm",
-      "title": "I got tired of manually decoding nested URL params and JSON payloads, so I built a purely client-side visualizer.",
-      "author": "Melodic-Middle-4265",
-      "score": 1,
-      "url": "/r/advertising/comments/1vbf2la/i_got_tired_of_manually_decoding_nested_url/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vbf3lm/i_got_tired_of_manually_decoding_nested_url/",
-      "created_utc": 1785468162.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vbu10z",
       "title": "Has anyone heard from Filmzie(A Parent Media Co. Inc.) lately?",
       "author": "MurkyWillingness7917",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788101357.0,
       "content": "Hello everyone. Title says it all. But would need to be able to check which app names / app ID's the ads would be showing up instead of random placement codes like PropellerAds. \n\nIdeally I'd need to target ONLY dating apps and be able to see which apps are those.\n\nAny tips?",
       "num_comments": 16,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w2zict",
+      "title": "Who owns the real number",
+      "author": "FeedNatural3221",
+      "score": 8,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w2zict/who_owns_the_real_number/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2zict/who_owns_the_real_number/",
+      "created_utc": 1788139763.0,
+      "content": "Been running into this more as we add channels every platform can show a decent story for itself and the reports look fine but once you try to figure out what spend really moved the business it gets kind of weird search takes credit, retargeting takes credit, programmatic has view through conversions and somehow everyone looks useful at the same time.\n\nI don’t know if the answer is better attribution or just having one person look across everything instead of judging each channel separately we’ve spent way too much time trying to make every platform prove itself when the bigger problem might be that nobody owns the full picture from spend to what happened in the business after",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }
