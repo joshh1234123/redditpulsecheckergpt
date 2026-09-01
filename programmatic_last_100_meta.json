@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vef9pt",
-      "title": "Any predictions?",
-      "author": "u_of_digital",
-      "score": 1,
-      "url": "https://i.redd.it/ik07pg3086hh1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vef9pt/any_predictions/",
-      "created_utc": 1785767860.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vem4tc",
       "title": "Publishers are starting to whitelist AI crawlers instead of blocking them",
       "author": "DataBeat_adtech",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
       "created_utc": 1788225472.0,
       "content": "PSA:   \nCreative approval isn't the end at mraid io—it's where a second project begins. The prototype must survive: package limits, mraid io lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w4bhh7",
+      "title": "How many direct mail campaigns have stalled waiting on a dev ticket?",
+      "author": "Lob_HQ",
+      "score": 0,
+      "url": "/r/DirectMailHQ/comments/1w4bgrz/how_many_direct_mail_campaigns_have_stalled/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w4bhh7/how_many_direct_mail_campaigns_have_stalled/",
+      "created_utc": 1788268041.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

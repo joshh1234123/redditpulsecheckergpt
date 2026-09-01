@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-01T11:52:23.389247+00:00",
-    "total_posts": 1976,
+    "scrape_date": "2026-09-01T15:51:48.731604+00:00",
+    "total_posts": 1977,
     "total_comments": 10269
   },
   "discussions": [
@@ -90540,6 +90540,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
       "created_utc": 1788225472.0,
       "content": "PSA:   \nCreative approval isn't the end at mraid io—it's where a second project begins. The prototype must survive: package limits, mraid io lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w4bhh7",
+      "title": "How many direct mail campaigns have stalled waiting on a dev ticket?",
+      "author": "Lob_HQ",
+      "score": 0,
+      "url": "/r/DirectMailHQ/comments/1w4bgrz/how_many_direct_mail_campaigns_have_stalled/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w4bhh7/how_many_direct_mail_campaigns_have_stalled/",
+      "created_utc": 1788268041.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
