@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vdl2sb",
-      "title": "Meta brand safety",
-      "author": "linuz14",
-      "score": 1,
-      "url": "/r/FacebookAds/comments/1vdbkly/meta_brand_safety/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vdl2sb/meta_brand_safety/",
-      "created_utc": 1785684722.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1ve6q0d",
       "title": "Best way to calculate reach?",
       "author": "TheGrandLeveler",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788208817.0,
       "content": "Need advice — 3 years in programmatic, currently unemployed and struggling to find my next role\n\nHey everyone,\n\nI’m from India and have been working in the programmatic advertising industry since 2023. So far, I’ve mainly worked with small startups. My most recent role was contract-based, where I worked remotely with a US company and supported Crossmedia as their programmatic resource/buddy.\n\nThe project was completed in June, and I’ve been unemployed since then.\n\nI’ve been actively looking for a new job, especially with companies like WPP, Publicis, IPG, and Omnicom. But I’m honestly struggling to find suitable openings. And when I do find something, I often see people with 8+ years of experience applying for roles that ask for around 2 years.\n\nThe job market here feels extremely difficult right now, especially for someone at my experience level.\n\nI’m trying to figure out what I should do next. \n\nI also have a responsibility at home and need to start earning again, so I can’t afford to stay unemployed for too long.\n\nI already have experience working remotely with US teams, so I’m particularly interested in finding remote opportunities if that’s realistic.\n\nFor those of you working in programmatic, digital media, ad tech, or related fields:\n\nAny honest advice, suggestions, or even ideas about where I should be looking would genuinely help.\n\nThank you.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w3twx0",
+      "title": "Amazon was bidding on its auctions to inflate second price floor.",
+      "author": "BurnerAcountInnit",
+      "score": 38,
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3twx0/amazon_was_bidding_on_its_auctions_to_inflate/",
+      "created_utc": 1788216756.0,
+      "content": "\"As described in the complaint, Amazon has represented to prospective advertisers for years that Amazon runs “second price” auctions where the winner of the auction would only pay “one cent more than the next highest bidder” for each successful bid for an advertising keyword. However, in practice, the complaint alleges that Amazon has charged its Sponsored Products advertisers their own winning bid close to 80% of the time and has effectively converted its nominally “second price” auction into a first price auction.\"\n\nInteresting case about adtech, programmatic, and transparency. I don't have high hopes about anything meaningful, but we got a case. ",
+      "num_comments": 6,
       "over_18": false,
       "link_flair_text": null
     }

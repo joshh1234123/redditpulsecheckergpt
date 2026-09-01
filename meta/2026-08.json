@@ -1529,6 +1529,21 @@
       "link_flair_text": null,
       "thread_id": "1w3q9i9",
       "thread_path": "1w3q9i9.json"
+    },
+    {
+      "id": "1w3twx0",
+      "title": "Amazon was bidding on its auctions to inflate second price floor.",
+      "author": "BurnerAcountInnit",
+      "score": 38,
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3twx0/amazon_was_bidding_on_its_auctions_to_inflate/",
+      "created_utc": 1788216756.0,
+      "content": "\"As described in the complaint, Amazon has represented to prospective advertisers for years that Amazon runs “second price” auctions where the winner of the auction would only pay “one cent more than the next highest bidder” for each successful bid for an advertising keyword. However, in practice, the complaint alleges that Amazon has charged its Sponsored Products advertisers their own winning bid close to 80% of the time and has effectively converted its nominally “second price” auction into a first price auction.\"\n\nInteresting case about adtech, programmatic, and transparency. I don't have high hopes about anything meaningful, but we got a case. ",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w3twx0",
+      "thread_path": "1w3twx0.json"
     }
   ]
 }

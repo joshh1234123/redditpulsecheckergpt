@@ -1,0 +1,46 @@
+{
+  "id": "1w3twx0",
+  "thread_id": "1w3twx0",
+  "title": "Amazon was bidding on its auctions to inflate second price floor.",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1w3twx0/amazon_was_bidding_on_its_auctions_to_inflate/",
+  "created_utc": 1788216756.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "Scary-Oven8260",
+      "body": "Amazon response “With this approach, in 2024, approximately 92% of selected Sponsored Products ads were not the highest bid, often by a wide margin. The mean winning advertiser’s bid is typically about the 128th bid by amount”\n\nIt feels like the government is just dumb as always and take the word second price auction literally ",
+      "score": 9,
+      "created_utc": 1788218100.0
+    },
+    {
+      "author": "SouthwestBLT",
+      "body": "This is big news. It’s a fundamental breach of trust and if it becomes as big as it should it can really impact things downstream.\n\nI know it seems absurd but all of what we do, it’s just numbers on a website. You have no actual control and very limited ways to be sure the numbers are real.",
+      "score": 4,
+      "created_utc": 1788221310.0
+    },
+    {
+      "author": "Sniflix",
+      "body": "Govt isn't dumb, voters are. We elected a bunch of crooks who legalized fraud, rigging the system. ",
+      "score": 3,
+      "created_utc": 1788222103.0
+    },
+    {
+      "author": "magicwings",
+      "body": "I don't think that's true, I think it's a bigger deal.\n\nThat stat is about which ad wins but the TTC claim is about price (not selection).\n\nYou can run a fully relevance-weighted auction where the ad ranked 128th wins because it's more relevant, and still have a pricing problem for the ad that wins. They're two separate mechanisms. Ranking decides who wins (Amazon's 92% stat), clearing price decides what they pay (no rebuttal)\n\nThe allegation is that once an ad is picked to win, is the price it pays calculated the way GSP says it should be done (next real bid + 1 cent) or is a synthetic \"soft reserve\" pushing it up first.\n\nThe complaint says \"paying-your-own-bid\" rates went from 30-40% in 2021 to ~80% in 2024. Amazon hasn't said anything to explain or rebut this either.\n\nEdit: hilariously, Amazon also say \"you never pay more than your bid\" which is true of every first-price auction ever run. Their disclosure argument leans on the ad console stating that a bid is the maximum you could be charged, which is equally true under a second-price auction.",
+      "score": 1,
+      "created_utc": 1788223427.0
+    },
+    {
+      "author": "CornDawgy87",
+      "body": "Same difference at this point ",
+      "score": 2,
+      "created_utc": 1788223080.0
+    },
+    {
+      "author": "Scary-Oven8260",
+      "body": "Because ads are compared by bid + relevancy, then your charge should also be adjusted by relevancy score. Isn’t this ad 101? But our government think Amazon is making up some fake secondary bid lol\n\nAnd when 92% of selected Sponsored Products ads were not the highest bid, it means the claim people paying their own bid is ultimately false",
+      "score": 1,
+      "created_utc": 1788223915.0
+    }
+  ]
+}
