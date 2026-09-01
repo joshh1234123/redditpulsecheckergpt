@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1ve6q0d",
-      "title": "Best way to calculate reach?",
-      "author": "TheGrandLeveler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1ve6q0d/best_way_to_calculate_reach/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1ve6q0d/best_way_to_calculate_reach/",
-      "created_utc": 1785742898.0,
-      "content": "How do you guys plan yearly reach etc when getting these requests?\n\nGoogles product are so bad that I might run the same plan 2 days later and the numbers are completely different.\n\nWhat to do in this case?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vef9pt",
       "title": "Any predictions?",
       "author": "u_of_digital",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788216756.0,
       "content": "\"As described in the complaint, Amazon has represented to prospective advertisers for years that Amazon runs “second price” auctions where the winner of the auction would only pay “one cent more than the next highest bidder” for each successful bid for an advertising keyword. However, in practice, the complaint alleges that Amazon has charged its Sponsored Products advertisers their own winning bid close to 80% of the time and has effectively converted its nominally “second price” auction into a first price auction.\"\n\nInteresting case about adtech, programmatic, and transparency. I don't have high hopes about anything meaningful, but we got a case. ",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w3xfxf",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "His_Dudeness88",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1788225472.0,
+      "content": "PSA:   \nCreative approval isn't the end at mraid io—it's where a second project begins. The prototype must survive: package limits, mraid io lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
