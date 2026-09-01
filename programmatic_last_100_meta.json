@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vem4tc",
-      "title": "Publishers are starting to whitelist AI crawlers instead of blocking them",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vem4tc/publishers_are_starting_to_whitelist_ai_crawlers/",
-      "created_utc": 1785782677.0,
-      "content": "Been noticing a shift lately.  \n  \nFor years, the default assumption was that crawlers were just part of the web. Now we're seeing publishers like Reuters and TIME move toward approved bot lists instead of letting every AI crawler in.  \n  \nWhat caught my attention is that this feels less like a copyright discussion and more like a value exchange discussion.  \n  \nIf an AI platform is consuming publisher content, what does the publisher actually get back? Referral traffic? Licensing revenue? Visibility? Something else?  \n  \nWe've spent years talking about which demand partners deserve access to inventory. Feels like publishers are starting to ask a similar question about AI agents and crawlers.  \n  \nCurious how people here think this plays out.  \n  \nDo most publishers eventually end up with crawler whitelists?  \n  \nOr does blocking too aggressively risk cutting yourself off from a meaningful source of future traffic?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1venpas",
       "title": "GroundTruth",
       "author": "Green-Yak3585",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788268041.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w4p3m5",
+      "title": "New to Programmatic media planning and looking for some guidance",
+      "author": "madhuitachi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w4p3m5/new_to_programmatic_media_planning_and_looking/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w4p3m5/new_to_programmatic_media_planning_and_looking/",
+      "created_utc": 1788295885.0,
+      "content": "I’m fairly new to a Programmatic role, and I’m now expected to handle media planning as well, including planning budgets, deciding allocations, reaching out to vendors, building media plans, and so on.\n\nIn my previous role, I was mainly focused on campaign execution, monitoring, optimization, and reporting. I had very little exposure to the planning and strategy side of Programmatic.\n\nNow that I’m getting into this part, I find it quite confusing and honestly don’t know where to start. I understand the execution side, but I’m still trying to figure out how to approach a campaign from the planning stage, such as how to plan budgets, evaluate vendors, decide where to allocate spend, what questions to ask, and how to build a proper media plan.\n\nFor those who started out in a similar position, how did you learn media planning? Are there any frameworks, resources, courses, or practical tips that helped you understand the process?\n\nI’d really appreciate any guidance, especially from people who have made the transition from campaign execution to media planning and strategy.\n\nThanks!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

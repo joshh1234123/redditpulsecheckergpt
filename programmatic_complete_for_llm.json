@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-01T19:05:27.682882+00:00",
-    "total_posts": 1977,
-    "total_comments": 10269
+    "scrape_date": "2026-09-01T21:53:16.605787+00:00",
+    "total_posts": 1978,
+    "total_comments": 10270
   },
   "discussions": [
     {
@@ -90558,6 +90558,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1w4p3m5",
+      "title": "New to Programmatic media planning and looking for some guidance",
+      "author": "madhuitachi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w4p3m5/new_to_programmatic_media_planning_and_looking/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w4p3m5/new_to_programmatic_media_planning_and_looking/",
+      "created_utc": 1788295885.0,
+      "content": "I’m fairly new to a Programmatic role, and I’m now expected to handle media planning as well, including planning budgets, deciding allocations, reaching out to vendors, building media plans, and so on.\n\nIn my previous role, I was mainly focused on campaign execution, monitoring, optimization, and reporting. I had very little exposure to the planning and strategy side of Programmatic.\n\nNow that I’m getting into this part, I find it quite confusing and honestly don’t know where to start. I understand the execution side, but I’m still trying to figure out how to approach a campaign from the planning stage, such as how to plan budgets, evaluate vendors, decide where to allocate spend, what questions to ask, and how to build a proper media plan.\n\nFor those who started out in a similar position, how did you learn media planning? Are there any frameworks, resources, courses, or practical tips that helped you understand the process?\n\nI’d really appreciate any guidance, especially from people who have made the transition from campaign execution to media planning and strategy.\n\nThanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "maryna-gc",
+          "body": "You should review what’s currently working to help guide the strategy for new campaigns (assuming there were campaigns in place already). \n\nThere are lots of free courses offered by  vendors /ad platforms/ DSPs for various topics including media planning. Depending on the channels you’re going for, you may want to check their resources too. A few examples like Google Ads Academy, Meta Ads, etc. \n\nWe also have a few free resources at Growth Channel, media planner being one of them with a free access https://plan.growthchannel.com",
+          "score": 1,
+          "created_utc": 1788299093.0
+        }
+      ]
     }
   ]
 }
