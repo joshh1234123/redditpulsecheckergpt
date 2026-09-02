@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-02T12:11:52.701255+00:00",
-    "total_posts": 1978,
-    "total_comments": 10270
+    "scrape_date": "2026-09-02T16:44:37.530816+00:00",
+    "total_posts": 1979,
+    "total_comments": 10271
   },
   "discussions": [
     {
@@ -90577,6 +90577,27 @@
           "body": "You should review what’s currently working to help guide the strategy for new campaigns (assuming there were campaigns in place already). \n\nThere are lots of free courses offered by  vendors /ad platforms/ DSPs for various topics including media planning. Depending on the channels you’re going for, you may want to check their resources too. A few examples like Google Ads Academy, Meta Ads, etc. \n\nWe also have a few free resources at Growth Channel, media planner being one of them with a free access https://plan.growthchannel.com",
           "score": 1,
           "created_utc": 1788299093.0
+        }
+      ]
+    },
+    {
+      "id": "1w5as9e",
+      "title": "What do you look for when choosing a contextual audience provider?",
+      "author": "ConsistentFig1448",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "created_utc": 1788356640.0,
+      "content": "I’m trying to understand how media planners and programmatic teams evaluate contextual audience vendors in practice.\n\nBeyond the obvious things like price and audience scale, what actually matters most to you?\n\nAre there any questions you always ask before testing or onboarding a new provider? And what would immediately make you rule one out?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "alexgoestowork",
+          "body": "Tell me what your technology actually does, not some bullshit sales answer hidden behind your black box proprietary \"tech\". And how does it differentiate from the other 50 contextual ad tech providers?",
+          "score": 1,
+          "created_utc": 1788364192.0
         }
       ]
     }

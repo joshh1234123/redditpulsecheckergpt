@@ -44,6 +44,21 @@
       "link_flair_text": null,
       "thread_id": "1w4p3m5",
       "thread_path": "1w4p3m5.json"
+    },
+    {
+      "id": "1w5as9e",
+      "title": "What do you look for when choosing a contextual audience provider?",
+      "author": "ConsistentFig1448",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "created_utc": 1788356640.0,
+      "content": "I’m trying to understand how media planners and programmatic teams evaluate contextual audience vendors in practice.\n\nBeyond the obvious things like price and audience scale, what actually matters most to you?\n\nAre there any questions you always ask before testing or onboarding a new provider? And what would immediately make you rule one out?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w5as9e",
+      "thread_path": "1w5as9e.json"
     }
   ]
 }

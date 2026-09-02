@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1venpas",
-      "title": "GroundTruth",
-      "author": "Green-Yak3585",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1venpas/groundtruth/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1venpas/groundtruth/",
-      "created_utc": 1785786114.0,
-      "content": "Anyone ever utilize GroundTruth? Was evaluating platforms and came across them",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vf1nxt",
       "title": "Programmatic Advertising Career Advice: Should I quit my night shift job to prepare for interviews",
       "author": "Inside-Valuable2645",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w4p3m5/new_to_programmatic_media_planning_and_looking/",
       "created_utc": 1788295885.0,
       "content": "I’m fairly new to a Programmatic role, and I’m now expected to handle media planning as well, including planning budgets, deciding allocations, reaching out to vendors, building media plans, and so on.\n\nIn my previous role, I was mainly focused on campaign execution, monitoring, optimization, and reporting. I had very little exposure to the planning and strategy side of Programmatic.\n\nNow that I’m getting into this part, I find it quite confusing and honestly don’t know where to start. I understand the execution side, but I’m still trying to figure out how to approach a campaign from the planning stage, such as how to plan budgets, evaluate vendors, decide where to allocate spend, what questions to ask, and how to build a proper media plan.\n\nFor those who started out in a similar position, how did you learn media planning? Are there any frameworks, resources, courses, or practical tips that helped you understand the process?\n\nI’d really appreciate any guidance, especially from people who have made the transition from campaign execution to media planning and strategy.\n\nThanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w5as9e",
+      "title": "What do you look for when choosing a contextual audience provider?",
+      "author": "ConsistentFig1448",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w5as9e/what_do_you_look_for_when_choosing_a_contextual/",
+      "created_utc": 1788356640.0,
+      "content": "I’m trying to understand how media planners and programmatic teams evaluate contextual audience vendors in practice.\n\nBeyond the obvious things like price and audience scale, what actually matters most to you?\n\nAre there any questions you always ask before testing or onboarding a new provider? And what would immediately make you rule one out?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
