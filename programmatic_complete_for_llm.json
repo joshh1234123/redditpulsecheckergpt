@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-03T04:49:21.543848+00:00",
-    "total_posts": 1979,
+    "scrape_date": "2026-09-03T09:21:01.272314+00:00",
+    "total_posts": 1980,
     "total_comments": 10271
   },
   "discussions": [
@@ -90600,6 +90600,20 @@
           "created_utc": 1788364192.0
         }
       ]
+    },
+    {
+      "id": "1w5z7xf",
+      "title": "Anyone from the publisher side going to DMEXCO 2026?",
+      "author": "adoperations",
+      "score": 1,
+      "url": "/r/adops/comments/1w5z7h0/anyone_from_the_publisher_side_going_to_dmexco/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w5z7xf/anyone_from_the_publisher_side_going_to_dmexco/",
+      "created_utc": 1788416312.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
