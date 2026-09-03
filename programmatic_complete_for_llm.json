@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-03T09:21:01.272314+00:00",
-    "total_posts": 1980,
+    "scrape_date": "2026-09-03T13:42:52.151328+00:00",
+    "total_posts": 1982,
     "total_comments": 10271
   },
   "discussions": [
@@ -90610,6 +90610,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w5z7xf/anyone_from_the_publisher_side_going_to_dmexco/",
       "created_utc": 1788416312.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w62vwh",
+      "title": "Measuring interactive creative without worshipping engagement rate",
+      "author": "Arkupathak",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "created_utc": 1788429199.0,
+      "content": "Interactive ads create more events at MRAID, but not every event is useful. We group measurement into: \n\n\\-did it load and become usable? \n\n\\- did they understand the first action?\n\n \\-did they reach the moment expressing the campaign idea? \n\n\\- did qualified interaction improve the next step? Raw taps reward confusion. Completion rewards ease. CTR rewards misleading promises.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w66wos",
+      "title": "Programmatic Opportunities / Norms",
+      "author": "PublicProcess9379",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "created_utc": 1788440831.0,
+      "content": "Hey there I’ve been a trader for \\~3 years now. All at one company, I’m currently looking for retail media roles, strategy roles or programmatic management roles. \n\nJust curious what companies people in here actually enjoyed working at that pay fair salary, and has good work life balance. How common is weekend work in programmatic?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

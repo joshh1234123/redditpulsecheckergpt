@@ -74,6 +74,36 @@
       "link_flair_text": null,
       "thread_id": "1w5z7xf",
       "thread_path": "1w5z7xf.json"
+    },
+    {
+      "id": "1w62vwh",
+      "title": "Measuring interactive creative without worshipping engagement rate",
+      "author": "Arkupathak",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "created_utc": 1788429199.0,
+      "content": "Interactive ads create more events at MRAID, but not every event is useful. We group measurement into: \n\n\\-did it load and become usable? \n\n\\- did they understand the first action?\n\n \\-did they reach the moment expressing the campaign idea? \n\n\\- did qualified interaction improve the next step? Raw taps reward confusion. Completion rewards ease. CTR rewards misleading promises.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w62vwh",
+      "thread_path": "1w62vwh.json"
+    },
+    {
+      "id": "1w66wos",
+      "title": "Programmatic Opportunities / Norms",
+      "author": "PublicProcess9379",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "created_utc": 1788440831.0,
+      "content": "Hey there I’ve been a trader for \\~3 years now. All at one company, I’m currently looking for retail media roles, strategy roles or programmatic management roles. \n\nJust curious what companies people in here actually enjoyed working at that pay fair salary, and has good work life balance. How common is weekend work in programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w66wos",
+      "thread_path": "1w66wos.json"
     }
   ]
 }

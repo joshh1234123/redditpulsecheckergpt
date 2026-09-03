@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vfd2jx",
-      "title": "Who actually owns the ads.txt process for your website?",
-      "author": "Sasha-programmatic",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfd2jx/who_actually_owns_the_adstxt_process_for_your/",
-      "created_utc": 1785856157.0,
-      "content": "I’m curious about how publishers manage ads.txt internally. When a new SSP asks you to add lines, who is responsible for reviewing and publishing them in your website? Is it handled by Ad Ops, the programmatic team, IT or the site owner?\n\nIt seems like a very simple task but in larger organizations it can easily fall between teams. Or for example, how often do you update your ads.txt? Do you usually add new lines without much friction?\n\nInterested to hear how others manage it and whether ads.txt updates are a smooth process or a recurring operational headache.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vfj5um",
-      "title": "In Banner Video Programmatic Advertising",
-      "author": "ewasolutions",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vfj5um/in_banner_video_programmatic_advertising/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfj5um/in_banner_video_programmatic_advertising/",
-      "created_utc": 1785869088.0,
-      "content": "**Ist eine Completion Rate von 50 % bei einer Visibility Rate (Sichtbarkeitsrate) von 70 % besser als Video Ads mit einer ähnlichen Completion Rate?**\n\n**Wir sehen, dass die CTR (Klickrate) bei In-Banner Video Ads besser ist als bei HTML5-Bannern. Hat jemand ähnliche Tests gemacht?**",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vfqlhl",
       "title": "Not a programmatic question but anyone using an iPad as their primary device for remote work?",
       "author": "proj93",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w5z7xf/anyone_from_the_publisher_side_going_to_dmexco/",
       "created_utc": 1788416312.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w62vwh",
+      "title": "Measuring interactive creative without worshipping engagement rate",
+      "author": "Arkupathak",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
+      "created_utc": 1788429199.0,
+      "content": "Interactive ads create more events at MRAID, but not every event is useful. We group measurement into: \n\n\\-did it load and become usable? \n\n\\- did they understand the first action?\n\n \\-did they reach the moment expressing the campaign idea? \n\n\\- did qualified interaction improve the next step? Raw taps reward confusion. Completion rewards ease. CTR rewards misleading promises.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w66wos",
+      "title": "Programmatic Opportunities / Norms",
+      "author": "PublicProcess9379",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
+      "created_utc": 1788440831.0,
+      "content": "Hey there I’ve been a trader for \\~3 years now. All at one company, I’m currently looking for retail media roles, strategy roles or programmatic management roles. \n\nJust curious what companies people in here actually enjoyed working at that pay fair salary, and has good work life balance. How common is weekend work in programmatic?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
