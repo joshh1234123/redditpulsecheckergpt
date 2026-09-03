@@ -104,6 +104,36 @@
       "link_flair_text": null,
       "thread_id": "1w66wos",
       "thread_path": "1w66wos.json"
+    },
+    {
+      "id": "1w6e9yu",
+      "title": "True or False: In 5 years, all of CPG's programmatic media budgets will be run via retail media networks.",
+      "author": "dailybeanz",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6e9yu/true_or_false_in_5_years_all_of_cpgs_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6e9yu/true_or_false_in_5_years_all_of_cpgs_programmatic/",
+      "created_utc": 1788457108.0,
+      "content": "",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w6e9yu",
+      "thread_path": "1w6e9yu.json"
+    },
+    {
+      "id": "1w6gzty",
+      "title": "MRAID lifecycle events are where most playables actually break.",
+      "author": "iwantobehappypls",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
+      "created_utc": 1788462778.0,
+      "content": "Teams often test the creative interaction but ignore state changes.\n\nAt MRAID, we always verify the lifecycle: Does it pause when not viewable? Does it resume correctly? Does it handle background/foreground transitions? Does it clean up memory when closed?\n\nA playable that keeps running behind a store redirect or fires analytics after closing will fail trafficking.\n\nYou must test the lifecycle, not just the gameplay interaction.\n\nWhat lifecycle edge cases cause the most headaches in your programmatic campaigns?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w6gzty",
+      "thread_path": "1w6gzty.json"
     }
   ]
 }

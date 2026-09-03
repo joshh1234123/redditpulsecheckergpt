@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vfqlhl",
-      "title": "Not a programmatic question but anyone using an iPad as their primary device for remote work?",
-      "author": "proj93",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vfqlhl/not_a_programmatic_question_but_anyone_using_an/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vfqlhl/not_a_programmatic_question_but_anyone_using_an/",
-      "created_utc": 1785886192.0,
-      "content": "I'll be traveling for the next couple of months and I'm exploring whether I can get away with using an iPad Air M-chip (probably buying one second-hand) while on the go. I currently don't know anyone who owns an iPad air/Pro so I am unable to test in person.\n\nThe idea is to use it primarily for monitoring campaigns, checking pacing, pulling reports, and making routine campaign changes and optimizations. For heavier tasks, I can always use a MacBook.\n\nFor those who've tried it, how's the experience? Do platforms like DV360 and TTD work well enough on iPadOS for day-to-day management? Any limitations or frustrations I should know about before I pull the trigger on buying one?",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vg5vhc",
-      "title": "Need Feedback on Targeting Within DV360",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vg5vhc/need_feedback_on_targeting_within_dv360/",
-      "created_utc": 1785932647.0,
-      "content": "I am trying to reach a lot of people but I also want to avoid shows that kids only would watch. I noticed I can use the Digital Content Label however when I pull last nights impressions, majority are listed as \"Not yet labeled\".\n\n  \nOne thing I did also was:\n\nExclude the following genres\n\n/Arts & Entertainment/Comics & Animation/Cartoons\n\n/Arts & Entertainment/Movies/Animated Films\n\n/Arts & Entertainment/Comics & Animation/Anime & Manga\n\n  \nIs there anything else I can try to help narrow out and improve my odds?\n\n\n\n\n\n",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vgc8qc",
       "title": "Magnite Acquisition?",
       "author": "broadstreetrambler",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
       "created_utc": 1788440831.0,
       "content": "Hey there I’ve been a trader for \\~3 years now. All at one company, I’m currently looking for retail media roles, strategy roles or programmatic management roles. \n\nJust curious what companies people in here actually enjoyed working at that pay fair salary, and has good work life balance. How common is weekend work in programmatic?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w6e9yu",
+      "title": "True or False: In 5 years, all of CPG's programmatic media budgets will be run via retail media networks.",
+      "author": "dailybeanz",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6e9yu/true_or_false_in_5_years_all_of_cpgs_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6e9yu/true_or_false_in_5_years_all_of_cpgs_programmatic/",
+      "created_utc": 1788457108.0,
+      "content": "",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w6gzty",
+      "title": "MRAID lifecycle events are where most playables actually break.",
+      "author": "iwantobehappypls",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
+      "created_utc": 1788462778.0,
+      "content": "Teams often test the creative interaction but ignore state changes.\n\nAt MRAID, we always verify the lifecycle: Does it pause when not viewable? Does it resume correctly? Does it handle background/foreground transitions? Does it clean up memory when closed?\n\nA playable that keeps running behind a store redirect or fires analytics after closing will fail trafficking.\n\nYou must test the lifecycle, not just the gameplay interaction.\n\nWhat lifecycle edge cases cause the most headaches in your programmatic campaigns?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
