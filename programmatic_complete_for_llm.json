@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-04T19:45:04.389513+00:00",
-    "total_posts": 1986,
+    "scrape_date": "2026-09-04T21:59:36.454473+00:00",
+    "total_posts": 1987,
     "total_comments": 10293
   },
   "discussions": [
@@ -90828,6 +90828,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
       "created_utc": 1788504954.0,
       "content": "Disclosure: I work at a company that sells white-label DSP tech, so I have a horse in this race. The numbers below are public and sourced, so check my work or tell me where I am wrong.\n\nIf you buy programmatic through another agency's DSP seat, you are paying a whole fee stack before a single ad impression serves:\n\n- DSP platform fee\n- Reseller markup\n- Data fees\n- Feature fees\n\nANA (Association of National Advertisers) puts the total at roughly 35% of media spend.\n\nOn $100K a month, that is $420,000 a year going to intermediaries instead of ads.\n\nWhat bothers me more than the fees is that you cannot audit any of it. Log-level data on a rented seat belongs to the seat owner. So you are reporting to clients on numbers you have no way to verify yourself.\n\nThere are two ways out.\n\n**Build your own DSP.** The math only closes above $50 million in annual ad spend, which puts it off the table for most agencies.\n\n**White-label one.** Roughly 6 to 12% of ad spend, your own branding and domain, typically live in a day. Your clients log into your platform instead of a competitor's.\n\nIf you are on a sub-leased seat, do you know your all-in take rate?\n\nFull breakdown with the math: https://adster.tech/blogs/renting-dsp-seats-margin/",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w7ga4m",
+      "title": "PMP Deal Rot [Pub]",
+      "author": "dadnetwork",
+      "score": 1,
+      "url": "/r/adops/comments/1w6gdbi/pmp_deal_rot/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7ga4m/pmp_deal_rot_pub/",
+      "created_utc": 1788554583.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
