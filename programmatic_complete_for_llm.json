@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-04T04:51:23.026032+00:00",
-    "total_posts": 1984,
-    "total_comments": 10278
+    "scrape_date": "2026-09-04T09:14:37.907044+00:00",
+    "total_posts": 1986,
+    "total_comments": 10293
   },
   "discussions": [
     {
@@ -90709,6 +90709,125 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
       "created_utc": 1788462778.0,
       "content": "Teams often test the creative interaction but ignore state changes.\n\nAt MRAID, we always verify the lifecycle: Does it pause when not viewable? Does it resume correctly? Does it handle background/foreground transitions? Does it clean up memory when closed?\n\nA playable that keeps running behind a store redirect or fires analytics after closing will fail trafficking.\n\nYou must test the lifecycle, not just the gameplay interaction.\n\nWhat lifecycle edge cases cause the most headaches in your programmatic campaigns?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w6uykx",
+      "title": "TTD Laying Off 15% Of Their Workforce",
+      "author": "Select-Election-92",
+      "score": 49,
+      "url": "https://www.thecurrent.com/opinion/jeff-green-email-trade-desk-business-updates",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6uykx/ttd_laying_off_15_of_their_workforce/",
+      "created_utc": 1788498664.0,
+      "content": "TTD CEO Jeff Green announced today that the company will reduce its global headcount by around 15%, with affected employees being notified immediately and departures taking place tomorrow (Sept 4).\n\nInterestingly, the announcement stresses that the cuts are not driven by financial pressure - The Trade Desk says it has \\~$1.5B in cash, no debt, and generated more than $2.9B in revenue last year.\n\nGreen says the restructuring is intended to create smaller, more focused teams and allow TTD to move with greater agility while reinvesting in growth and innovation.\n\nGiven The Trade Desk's position as one of the largest independent DSPs, the scale of the cuts is pretty significant. Curious to hear what people in the ad tech/programmatic space think this means for TTD and the wider market.",
+      "num_comments": 17,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Acrobatic-Pay1233",
+          "body": "15% is huge. Bound to happen given the shitshow the company has been this past year, but God damn.",
+          "score": 12,
+          "created_utc": 1788499312.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "And people will literally die by TTD, funny (but in a none haha way)",
+          "score": 5,
+          "created_utc": 1788501835.0
+        },
+        {
+          "author": "Totally_a_Banana",
+          "body": "Cool, more stress and competition in this absolute shit job market.\n\nI got laid off from my DSP job in July, can barely get interviews, every role posted on Linkedin has 100 applicants within a day.\n\nSeems like everything is going down the toilet.",
+          "score": 8,
+          "created_utc": 1788502406.0
+        },
+        {
+          "author": "codalark",
+          "body": "Their share price has literally gone back to 2019 levels. All the parties and getting people to destination town halls is working against them.   \nIf they have money why not shift those people intentionally rather than layoff? Jeff Green thinks we’re stupid with thumbs up our ass ",
+          "score": 4,
+          "created_utc": 1788500290.0
+        },
+        {
+          "author": "Adorable-Corner-5307",
+          "body": "I expect this has been in the works for a while. Interesting timing though given it seems like  \nthe company was making quick progress on product.",
+          "score": 4,
+          "created_utc": 1788500795.0
+        },
+        {
+          "author": "proudzebraa",
+          "body": "“We’re laying off people who helped build the company to what it is today. But look at us. We’re rich with all this money gained off the backs of the people we laid off today!” Absolutely soulless way of writing his post ",
+          "score": 4,
+          "created_utc": 1788505355.0
+        },
+        {
+          "author": "INPUT_INPUT",
+          "body": "Expected to be honest given the share price drop and the amount of people they hired over the course of the last year.",
+          "score": 4,
+          "created_utc": 1788499577.0
+        },
+        {
+          "author": "Select-Election-92",
+          "body": "\\~700 people if LinkedIn headcounts are anything to go by...\n\nVery curious on how the market will react; seems to have lifted off the back of Kokai Zuma - although, I'm curious if they will take Jeffs word as gospel indicating a positive strategic shift, or if they view it as reactive damage control.\n\nCurious times for ad tech indeed.",
+          "score": 9,
+          "created_utc": 1788499642.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "Bound to happen given their CEO lit $2B on fire instead of investing in people to tell him he needs to fucking leave the company and hand the reigns to someone who has actually has a plan. ",
+          "score": 6,
+          "created_utc": 1788500348.0
+        },
+        {
+          "author": "Select-Election-92",
+          "body": "A lot of tech-based partnerships too - they aren't free.",
+          "score": 2,
+          "created_utc": 1788499718.0
+        },
+        {
+          "author": "MagazineImpressive79",
+          "body": "Honesty in programmatic? Doesn't exist.",
+          "score": 1,
+          "created_utc": 1788508342.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "Wall St is over Jeff. I’ve heard it from analysts directly multiple times. ",
+          "score": 7,
+          "created_utc": 1788500387.0
+        },
+        {
+          "author": "ItWillBFine69",
+          "body": "Ya that # sounds about right. Give or take about 50.",
+          "score": 4,
+          "created_utc": 1788500036.0
+        },
+        {
+          "author": "Acrobatic-Pay1233",
+          "body": "Im very curious how the market will react too. \nIf I were to put money on it, I’d say this move will be viewed as reactionary and not strategic. There hasn’t been a whole lot from that company I’ve seen lately that screams “this is a thought out, strategic move”. \nBut of course, layoffs usually bump up the stock price, which is what they want in the short term I suppose. ",
+          "score": 4,
+          "created_utc": 1788500084.0
+        },
+        {
+          "author": "Acrobatic-Pay1233",
+          "body": "Exactly. He’s not CEO material, he should have taken the founder money and ran, sold the company and GTFO.",
+          "score": 6,
+          "created_utc": 1788500737.0
+        }
+      ]
+    },
+    {
+      "id": "1w6wvq1",
+      "title": "The fee stack on a sub-leased DSP seat, and why you can't audit it",
+      "author": "weirdmadrasi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "created_utc": 1788504954.0,
+      "content": "Disclosure: I work at a company that sells white-label DSP tech, so I have a horse in this race. The numbers below are public and sourced, so check my work or tell me where I am wrong.\n\nIf you buy programmatic through another agency's DSP seat, you are paying a whole fee stack before a single ad impression serves:\n\n- DSP platform fee\n- Reseller markup\n- Data fees\n- Feature fees\n\nANA (Association of National Advertisers) puts the total at roughly 35% of media spend.\n\nOn $100K a month, that is $420,000 a year going to intermediaries instead of ads.\n\nWhat bothers me more than the fees is that you cannot audit any of it. Log-level data on a rented seat belongs to the seat owner. So you are reporting to clients on numbers you have no way to verify yourself.\n\nThere are two ways out.\n\n**Build your own DSP.** The math only closes above $50 million in annual ad spend, which puts it off the table for most agencies.\n\n**White-label one.** Roughly 6 to 12% of ad spend, your own branding and domain, typically live in a day. Your clients log into your platform instead of a competitor's.\n\nIf you are on a sub-leased seat, do you know your all-in take rate?\n\nFull breakdown with the math: https://adster.tech/blogs/renting-dsp-seats-margin/",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

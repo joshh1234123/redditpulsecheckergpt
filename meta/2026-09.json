@@ -134,6 +134,36 @@
       "link_flair_text": null,
       "thread_id": "1w6gzty",
       "thread_path": "1w6gzty.json"
+    },
+    {
+      "id": "1w6uykx",
+      "title": "TTD Laying Off 15% Of Their Workforce",
+      "author": "Select-Election-92",
+      "score": 49,
+      "url": "https://www.thecurrent.com/opinion/jeff-green-email-trade-desk-business-updates",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6uykx/ttd_laying_off_15_of_their_workforce/",
+      "created_utc": 1788498664.0,
+      "content": "TTD CEO Jeff Green announced today that the company will reduce its global headcount by around 15%, with affected employees being notified immediately and departures taking place tomorrow (Sept 4).\n\nInterestingly, the announcement stresses that the cuts are not driven by financial pressure - The Trade Desk says it has \\~$1.5B in cash, no debt, and generated more than $2.9B in revenue last year.\n\nGreen says the restructuring is intended to create smaller, more focused teams and allow TTD to move with greater agility while reinvesting in growth and innovation.\n\nGiven The Trade Desk's position as one of the largest independent DSPs, the scale of the cuts is pretty significant. Curious to hear what people in the ad tech/programmatic space think this means for TTD and the wider market.",
+      "num_comments": 17,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w6uykx",
+      "thread_path": "1w6uykx.json"
+    },
+    {
+      "id": "1w6wvq1",
+      "title": "The fee stack on a sub-leased DSP seat, and why you can't audit it",
+      "author": "weirdmadrasi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "created_utc": 1788504954.0,
+      "content": "Disclosure: I work at a company that sells white-label DSP tech, so I have a horse in this race. The numbers below are public and sourced, so check my work or tell me where I am wrong.\n\nIf you buy programmatic through another agency's DSP seat, you are paying a whole fee stack before a single ad impression serves:\n\n- DSP platform fee\n- Reseller markup\n- Data fees\n- Feature fees\n\nANA (Association of National Advertisers) puts the total at roughly 35% of media spend.\n\nOn $100K a month, that is $420,000 a year going to intermediaries instead of ads.\n\nWhat bothers me more than the fees is that you cannot audit any of it. Log-level data on a rented seat belongs to the seat owner. So you are reporting to clients on numbers you have no way to verify yourself.\n\nThere are two ways out.\n\n**Build your own DSP.** The math only closes above $50 million in annual ad spend, which puts it off the table for most agencies.\n\n**White-label one.** Roughly 6 to 12% of ad spend, your own branding and domain, typically live in a day. Your clients log into your platform instead of a competitor's.\n\nIf you are on a sub-leased seat, do you know your all-in take rate?\n\nFull breakdown with the math: https://adster.tech/blogs/renting-dsp-seats-margin/",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w6wvq1",
+      "thread_path": "1w6wvq1.json"
     }
   ]
 }

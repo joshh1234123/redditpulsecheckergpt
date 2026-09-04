@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vgc8qc",
-      "title": "Magnite Acquisition?",
-      "author": "broadstreetrambler",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vgc8qc/magnite_acquisition/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vgc8qc/magnite_acquisition/",
-      "created_utc": 1785947253.0,
-      "content": "Who has the tea? 🫖 ",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vgdvpe",
-      "title": "SiriusXM on Amazon DSP is three different deal groups, and only one of them really carries SiriusXM",
-      "author": "NiceRecognition9603",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vgdvpe/siriusxm_on_amazon_dsp_is_three_different_deal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vgdvpe/siriusxm_on_amazon_dsp_is_three_different_deal/",
-      "created_utc": 1785950734.0,
-      "content": "Amazon spent about a year pulling the big US audio sellers and podcasts into their platform. It all sits in one workflow now, which is the good news.\n\nWorking out what is actually inside a deal is slow and quietly confusing sometimes. And SiriusXM has been the most confusing so far.\n\n**Three groups of deals**\n\nSiriusXM owns Pandora, and it runs AdsWizz (an ads marketplace for other radio stations and podcasts), which arrived inside Pandora when it bought it. So one search in Amazon DSP returns three different buys sitting under the SiriusXM name:\n\n1. Pandora sold with SiriusXM Audio as roughly half the sellers, through Amazon Publisher Direct. The one group that genuinely carries SiriusXM, and the cheapest of the three.\n2. Pandora on its own, with `AmazonPA.AOD.` in the deal name. Same listeners, same price most times, no SiriusXM Audio in the seller mix. (AdsWizz)\n3. A curated US podcast marketplace under the \"SiriusXMMedia\" name, across multiple genres. (AdsWizz)\n\nAll three are real inventory and I would buy any of them against the right brief. Pandora is one of the largest ad supported streaming services in the country, and its connected car reach is interesting. The podcast marketplace is a decent podcast product with seller transparency.\n\nMy only issue is buying one while believing you bought another, because the most expensive of the three is the one with the least SiriusXM in it.\n\n**How to understand an Amazon deal**\n\nGo to your Amazon DSP and on the left bar click on Inventory. Use the search option and open the deal. Then go to the **Attributes** tab, read share of deal traffic. That is the column that answers who is actually selling this.\n\nDo not overtrust the **Apps and domains** card for it. It looks promising but the % does not always add up.\n\nIf you cannot see a deal library at all, you are probably on a subseat from your tool provider. Ask them for inventory access. If that does not work, you can reach me.\n\nNone of this is concealed. It is just not in the deal name, and a deal called SiriusXM Media does not read as somewhere you need to go diving into.\n\nThis covers the basics well. If you still want to know more I made a very detailed breakdown on my website, but for 90% of you this should be plenty.\n\n[https://victor.ad/academy/siriusxm-amazon-dsp](https://victor.ad/academy/siriusxm-amazon-dsp)",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vghnxk",
       "title": "came across an Adexchanger piece discussing whether AI generated content is contributing to a rise in MFA ad spend",
       "author": "DataBeat_adtech",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
       "created_utc": 1788462778.0,
       "content": "Teams often test the creative interaction but ignore state changes.\n\nAt MRAID, we always verify the lifecycle: Does it pause when not viewable? Does it resume correctly? Does it handle background/foreground transitions? Does it clean up memory when closed?\n\nA playable that keeps running behind a store redirect or fires analytics after closing will fail trafficking.\n\nYou must test the lifecycle, not just the gameplay interaction.\n\nWhat lifecycle edge cases cause the most headaches in your programmatic campaigns?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w6uykx",
+      "title": "TTD Laying Off 15% Of Their Workforce",
+      "author": "Select-Election-92",
+      "score": 49,
+      "url": "https://www.thecurrent.com/opinion/jeff-green-email-trade-desk-business-updates",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6uykx/ttd_laying_off_15_of_their_workforce/",
+      "created_utc": 1788498664.0,
+      "content": "TTD CEO Jeff Green announced today that the company will reduce its global headcount by around 15%, with affected employees being notified immediately and departures taking place tomorrow (Sept 4).\n\nInterestingly, the announcement stresses that the cuts are not driven by financial pressure - The Trade Desk says it has \\~$1.5B in cash, no debt, and generated more than $2.9B in revenue last year.\n\nGreen says the restructuring is intended to create smaller, more focused teams and allow TTD to move with greater agility while reinvesting in growth and innovation.\n\nGiven The Trade Desk's position as one of the largest independent DSPs, the scale of the cuts is pretty significant. Curious to hear what people in the ad tech/programmatic space think this means for TTD and the wider market.",
+      "num_comments": 17,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1w6wvq1",
+      "title": "The fee stack on a sub-leased DSP seat, and why you can't audit it",
+      "author": "weirdmadrasi",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
+      "created_utc": 1788504954.0,
+      "content": "Disclosure: I work at a company that sells white-label DSP tech, so I have a horse in this race. The numbers below are public and sourced, so check my work or tell me where I am wrong.\n\nIf you buy programmatic through another agency's DSP seat, you are paying a whole fee stack before a single ad impression serves:\n\n- DSP platform fee\n- Reseller markup\n- Data fees\n- Feature fees\n\nANA (Association of National Advertisers) puts the total at roughly 35% of media spend.\n\nOn $100K a month, that is $420,000 a year going to intermediaries instead of ads.\n\nWhat bothers me more than the fees is that you cannot audit any of it. Log-level data on a rented seat belongs to the seat owner. So you are reporting to clients on numbers you have no way to verify yourself.\n\nThere are two ways out.\n\n**Build your own DSP.** The math only closes above $50 million in annual ad spend, which puts it off the table for most agencies.\n\n**White-label one.** Roughly 6 to 12% of ad spend, your own branding and domain, typically live in a day. Your clients log into your platform instead of a competitor's.\n\nIf you are on a sub-leased seat, do you know your all-in take rate?\n\nFull breakdown with the math: https://adster.tech/blogs/renting-dsp-seats-margin/",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
