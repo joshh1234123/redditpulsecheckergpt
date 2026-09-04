@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-04T21:59:36.454473+00:00",
-    "total_posts": 1987,
+    "scrape_date": "2026-09-04T23:48:28.099704+00:00",
+    "total_posts": 1988,
     "total_comments": 10293
   },
   "discussions": [
@@ -90842,6 +90842,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w7ga4m/pmp_deal_rot_pub/",
       "created_utc": 1788554583.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w7isyr",
+      "title": "Amazon DSP dashboard bug?",
+      "author": "Enviromental1001",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w7isyr/amazon_dsp_dashboard_bug/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7isyr/amazon_dsp_dashboard_bug/",
+      "created_utc": 1788560468.0,
+      "content": "Has anyone noticed issues over the past week or so with the targeting section in Amazon DSP not showing all the settings you applied when you launched the campaign?\n\nSupport has had to escalate my case twice. I sent them a screenshot of my targeting section, and it looks like I never set anything. It seems like a dashboard issue, since spend still updates only during the daypart I actually set.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
