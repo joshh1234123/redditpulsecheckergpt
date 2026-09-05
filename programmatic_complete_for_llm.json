@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-04T23:48:28.099704+00:00",
-    "total_posts": 1988,
-    "total_comments": 10293
+    "scrape_date": "2026-09-05T02:18:40.049199+00:00",
+    "total_posts": 1989,
+    "total_comments": 10302
   },
   "discussions": [
     {
@@ -90860,6 +90860,75 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1w7kvy0",
+      "title": "Jeff thought he was the one doing the firing today........",
+      "author": "JimmyTango",
+      "score": 29,
+      "url": "https://i.redd.it/tro0w5egclnh1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7kvy0/jeff_thought_he_was_the_one_doing_the_firing_today/",
+      "created_utc": 1788565862.0,
+      "content": "",
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SeesawBeautiful5839",
+          "body": "Nothing to do with Jeff. Market conditions are tough right now. And nothing positive happening any time soon.",
+          "score": -19,
+          "created_utc": 1788566836.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "“Nothing positive….” *checks out Magnite and Viant over last 6 months* 👀",
+          "score": 8,
+          "created_utc": 1788569337.0
+        },
+        {
+          "author": "hdiggyh",
+          "body": "Guy gives zero confidence to investors. Claims Amazon isn’t a competitor? What world is he living in? Spends a shit ton of money on an OS for tvs that no one asked for or needs? Stopped focusing on agencies to go after clients, forced products on people that no one wanted….and charges huge markup for, what exactly? ",
+          "score": 4,
+          "created_utc": 1788569019.0
+        },
+        {
+          "author": "yeaboiiiiiiiiii213",
+          "body": "And Zeta ",
+          "score": 1,
+          "created_utc": 1788572539.0
+        },
+        {
+          "author": "Carsnocap",
+          "body": "Viant is a joke",
+          "score": 1,
+          "created_utc": 1788570398.0
+        },
+        {
+          "author": "SeesawBeautiful5839",
+          "body": "Amazon is a walled garden. They are cheap reach. That is why it is not a true competitor.   \nAgencies are middle man. They can not compete sharing with the middle man.   \nIf they can charge a client a huge markup why not do it? That is capitalism whole point.\n\nThe whole business and risk here is if 1) open internet has (will have) enough leverage in ads, 2) TTD can find techniques to show customers it is worth using it.",
+          "score": 2,
+          "created_utc": 1788570566.0
+        },
+        {
+          "author": "JimmyTango",
+          "body": "In 5 years Viant is down 5%. TTD is down….81%. Who would have thought your money was safer with Viant in 2021 than TTD lol ",
+          "score": 3,
+          "created_utc": 1788571210.0
+        },
+        {
+          "author": "yeaboiiiiiiiiii213",
+          "body": "Dont forget Amazon just got called out on bidding fraud. ",
+          "score": 1,
+          "created_utc": 1788572823.0
+        },
+        {
+          "author": "Memes-Tax",
+          "body": "Your initial comment doesn’t deserve the down votes .. but this one does. ",
+          "score": 1,
+          "created_utc": 1788571182.0
+        }
+      ]
     }
   ]
 }
