@@ -224,6 +224,51 @@
       "link_flair_text": null,
       "thread_id": "1w7tadr",
       "thread_path": "1w7tadr.json"
+    },
+    {
+      "id": "1w81ps8",
+      "title": "mraid io compliance isn't just about the spec, it's about the runtime",
+      "author": "erin_er",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w81ps8/mraid_io_compliance_isnt_just_about_the_spec_its/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w81ps8/mraid_io_compliance_isnt_just_about_the_spec_its/",
+      "created_utc": 1788617230.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test, does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w81ps8",
+      "thread_path": "1w81ps8.json"
+    },
+    {
+      "id": "1w8333v",
+      "title": "Meanwhile, at Zuma break",
+      "author": "moonagedaydreamstx",
+      "score": 10,
+      "url": "https://i.redd.it/fjtshmk7vpnh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w8333v/meanwhile_at_zuma_break/",
+      "created_utc": 1788620553.0,
+      "content": "Martin, it's all psychological. You yell Zuma, everybody says, \"Huh? What?\" You yell layoffs, we've got a panic on our hands on the Fourth of September.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w8333v",
+      "thread_path": "1w8333v.json"
+    },
+    {
+      "id": "1w854y4",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "Maleficent-Lie1877",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1w854y4/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w854y4/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1788625325.0,
+      "content": "Getting creative approved is sometimes where the work *actually* starts.\n\nWith MRAID creatives, there’s usually another round of things to deal with before something is truly ready to go live: package limits, MRAID lifecycle issues, orientation, compression, analytics mapping, legal copy, network previews, device QA, etc.\n\nI've seen the creative team consider the file finished while ad ops still has a list of things that need to be checked before it can actually run.\n\nCurious how other teams handle this handoff. Do you have separate owners for creative acceptance and delivery/network acceptance, or does the same person/team handle both?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1w854y4",
+      "thread_path": "1w854y4.json"
     }
   ]
 }
