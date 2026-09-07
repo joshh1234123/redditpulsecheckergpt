@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-07T20:19:21.675065+00:00",
-    "total_posts": 1998,
+    "scrape_date": "2026-09-07T22:56:08.713854+00:00",
+    "total_posts": 1999,
     "total_comments": 10307
   },
   "discussions": [
@@ -91086,6 +91086,20 @@
           "created_utc": 1788812283.0
         }
       ]
+    },
+    {
+      "id": "1wa50iu",
+      "title": "Can any brand choose direct vs. programmatic",
+      "author": "Low-Mud8861",
+      "score": 1,
+      "url": "/r/AskMarketing/comments/1wa502d/can_any_brand_choose_direct_vs_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wa50iu/can_any_brand_choose_direct_vs_programmatic/",
+      "created_utc": 1788816453.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
