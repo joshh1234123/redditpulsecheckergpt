@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vkockq",
-      "title": "Can you activate Retailer Audiences on TikTok?",
-      "author": "lifesizeisunderrated",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vkockq/can_you_activate_retailer_audiences_on_tiktok/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vkockq/can_you_activate_retailer_audiences_on_tiktok/",
-      "created_utc": 1786376404.0,
-      "content": "How does this work and do I need to have existing retailer relationships to do this or is there an off the shelf solution?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vkqvy3",
       "title": "How is the Programmatic job market right now(especially in India)? Is it a bad time to switch?",
       "author": "Fragrant_Service_855",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788798053.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wa0hp0",
+      "title": "Are “direct,” “programmatic,” and “auction-based” actually mutually exclusive in Amazon Ads/Walmart Connect/ other retail media?",
+      "author": "Low-Mud8861",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wa0hp0/are_direct_programmatic_and_auctionbased_actually/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wa0hp0/are_direct_programmatic_and_auctionbased_actually/",
+      "created_utc": 1788806317.0,
+      "content": "Hi, I’m researching retail media and trying to understand how industry practitioners distinguish **direct, programmatic, self-service, DSP-based, and auction-based buying** in Amazon Ads.\n\nMy current understanding is that these terms describe different dimensions:\n\n* Self-service vs. managed-service describes who operates the campaign.\n* DSP-based describes the technology used.\n* Auction-based vs. fixed-price describes the pricing/allocation mechanism.\n* Direct vs. programmatic may describe either the transaction relationship or the degree of automation.\n\nFor example, Sponsored Products are self-service and auction-based but are not purchased through Amazon DSP. Meanwhile, Amazon DSP supports auctions as well as preferred and programmatic-guaranteed deals.\n\nSo I’m wondering:\n\n1. Would practitioners classify Sponsored Products purchased through the Amazon Ads console as direct, programmatic, or neither?\n2. Can a buy be both direct and programmatic—for example, a programmatic-guaranteed or preferred deal?\n3. Is it inaccurate to treat “programmatic” as synonymous with “auction-based”?\n\nAny practitioner perspective would be extremely helpful. I’m interested only in general industry practices, not confidential information.",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

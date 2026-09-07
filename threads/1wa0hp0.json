@@ -1,0 +1,40 @@
+{
+  "id": "1wa0hp0",
+  "thread_id": "1wa0hp0",
+  "title": "Are “direct,” “programmatic,” and “auction-based” actually mutually exclusive in Amazon Ads/Walmart Connect/ other retail media?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wa0hp0/are_direct_programmatic_and_auctionbased_actually/",
+  "created_utc": 1788806317.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "I'll try to answer.\n1. SP thought console - self service yes but it's  not direct because you are still bidding. There is no agreement with amz about the bid. This is more like google ads. It's a different bucket.\n\n2. Direct is you and the publisher agree to a fix price, no bidding involved. Think of it as a relationship. But programmatic is a transaction mechanism(process of buying automatically).\n\n3. Programmatic - automated buying process a broad term.\nAuction based - pricing mechanism.\nProgrammatic Guaranteed and Preferred deals are still programmatic (a tech handles the transaction) but they're fixed-price, not auction-based - no bidding.\nIn short: programmatic = the delivery mechanism (tech handles it). Auction = one possible way the price gets set. Not every programmatic deal is an auction.",
+      "score": 1,
+      "created_utc": 1788808429.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "Asked claude to simplify if it helps :)\n\nThink of buying ads like ordering food.\n\n**Who's cooking? (Self-service vs. managed)**\nSelf-service = you cook it yourself in the kitchen (you run the campaign).\nManaged = you tell a chef what you want and they cook it for you.\n\n**What kitchen? (DSP-based)**\nThis is just *which* kitchen you're using — Amazon's kitchen, or someone else's kitchen. It's the tool, not a strategy.\n\n**How's the price set? (Auction vs. fixed-price)**\nAuction = it's like an eBay bid — highest bidder gets the food, price changes every time.\nFixed-price = you and the restaurant agree \"this meal costs $10\" ahead of time, no bidding.\n\n**How did you get the deal? (Direct vs. programmatic)**\nDirect = you walked up and talked to the restaurant owner yourself, worked out a deal.\nProgrammatic = a computer system handled the ordering for you, automatically.\n\n**The trick your brain is missing:** these are 4 *separate* knobs, not one knob. You can mix and match them. So:\n\n- Sponsored Products = you cook it yourself (self-service) + eBay-style bidding (auction) — but it's not even the same \"kitchen\" (DSP) as the other stuff, it's its own thing, like ordering from a totally different menu.\n- A Programmatic Guaranteed deal = you talked to the owner and agreed on a price ahead of time (direct) BUT a computer still handles placing the order (programmatic). Both at once! Not a contradiction — just two different knobs set at the same time.\n\nSo \"programmatic\" doesn't mean \"auction.\" Programmatic just means \"a computer handled it.\" Auction just means \"the price was decided by bidding.\" You can have a computer handle a fixed-price deal too — that's still programmatic, just not an auction.",
+      "score": 1,
+      "created_utc": 1788808523.0
+    },
+    {
+      "author": "Low-Mud8861",
+      "body": "Appreciate it (love the food analogy, that's going straight into my notes).",
+      "score": 1,
+      "created_utc": 1788810548.0
+    },
+    {
+      "author": "Low-Mud8861",
+      "body": "You mentioned Sponsored Products isn't even the same kitchen (DSP) as the other stuff, it's its own menu entirely. That makes sense to me now.\n\nBut just to map out the \"kitchen\" knob fully: is DSP basically the only kitchen that exists for the auction/direct + programmatic/self-service combinations you described (PMP, Preferred Deals, PG, Open Auction, etc.), or are there other kitchens/tech platforms out there that could run those same combinations, separate from a DSP?",
+      "score": 1,
+      "created_utc": 1788811494.0
+    },
+    {
+      "author": "Pitiful_Camel6790",
+      "body": "I think some publishers also have their own platform like Netflix, DPG where you can run on your own(I have very limited knowledge here) but only on their specific inventory.\n\n Imagine a there's a farmer who has a restaurant but he only serves food made from his own farms products. So as a customer you might love his salad from the menu but you are potentially missing out other good dishes that this restaurant can't make because his farm doesn't grow it even if the prices are lower. So as a customer you will ofc would want to go a restaurant that sources products from different farmers even if you have to pay a little extra. ",
+      "score": 1,
+      "created_utc": 1788812283.0
+    }
+  ]
+}
