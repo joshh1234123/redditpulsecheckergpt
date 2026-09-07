@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-07T11:13:01.895290+00:00",
-    "total_posts": 1996,
+    "scrape_date": "2026-09-07T16:35:00.743832+00:00",
+    "total_posts": 1997,
     "total_comments": 10302
   },
   "discussions": [
@@ -91023,6 +91023,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1w8xci0/any_used_arbor_app_to_lower_nj_pseg_bill/",
       "created_utc": 1788704095.0,
       "content": "Saw an app online that can help find you lower energy supply. Not sure if its a gimic or not. Anyone used it or similar with good experience?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1w9wp91",
+      "title": "Overworked and disillusioned",
+      "author": "ImpressiveRich1466",
+      "score": 1,
+      "url": "/r/advertising/comments/1w9wox1/overworked_and_disillusioned/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1w9wp91/overworked_and_disillusioned/",
+      "created_utc": 1788798053.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
