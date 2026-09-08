@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-08T05:30:31.165538+00:00",
-    "total_posts": 1999,
+    "scrape_date": "2026-09-08T10:00:56.346322+00:00",
+    "total_posts": 2001,
     "total_comments": 10307
   },
   "discussions": [
@@ -91096,6 +91096,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wa50iu/can_any_brand_choose_direct_vs_programmatic/",
       "created_utc": 1788816453.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wafwk0",
+      "title": "Pivoting to programmatic",
+      "author": "Luiara",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wafwk0/pivoting_to_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wafwk0/pivoting_to_programmatic/",
+      "created_utc": 1788846962.0,
+      "content": "Hey, \n\nI have a background in eCommerce and after the pandemic i took a break from work to study a Digital Analytics program for 2 years where I at the very end got introduced to programmatic (through an internship at Havas) and Ive been trying to get a job in programmatic ever since. \n\nDo you have any recommendations on how to get somewhere. I seem to get interviews but that is where it ends and they always pick someone with \"more experience\" even if the ad says its a junior role. \n\nWhat am I missing? ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wajgec",
+      "title": "The handoff nobody plans: approved concept to network-ready creative",
+      "author": "ChardFriendly",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wajgec/the_handoff_nobody_plans_approved_concept_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wajgec/the_handoff_nobody_plans_approved_concept_to/",
+      "created_utc": 1788859460.0,
+      "content": "I convinced my brother for  to look into those playable ads for his mobile game, so i got nod of approval from him and that wasn't the end. At mraid io—it's where a second project begins. The prototype must survive: package limits, mraid io lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
