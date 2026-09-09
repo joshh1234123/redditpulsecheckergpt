@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-09T15:41:40.516856+00:00",
-    "total_posts": 2008,
-    "total_comments": 10317
+    "scrape_date": "2026-09-09T18:58:36.417962+00:00",
+    "total_posts": 2010,
+    "total_comments": 10318
   },
   "discussions": [
     {
@@ -91286,6 +91286,41 @@
           "body": "Is water wet? Is the sky blue? \n\nI shouldn’t even be engaging ",
           "score": 1,
           "created_utc": 1788967192.0
+        }
+      ]
+    },
+    {
+      "id": "1wbqkd4",
+      "title": "What GPT-6 Astra Could Mean for Digital Marketing",
+      "author": "NKSharma7193",
+      "score": 0,
+      "url": "https://i.redd.it/kw6t1byruioh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbqkd4/what_gpt6_astra_could_mean_for_digital_marketing/",
+      "created_utc": 1788971535.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wbr2nb",
+      "title": "Struggling with YouTube Media Planning, any advice?",
+      "author": "TheGrandLeveler",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbr2nb/struggling_with_youtube_media_planning_any_advice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbr2nb/struggling_with_youtube_media_planning_any_advice/",
+      "created_utc": 1788972629.0,
+      "content": "Whenever I want to include Youtube in my media plans, there's struggle.\n\nEvery time I use reach planner, the actual numbers such as audience size, expected CPM etc are different, even when the plans are identical and have been created days apart.\n\nThis makes it hard to plan accurately and might make the client lose trust.\n\nAny advice on planning YouTube campaigns?\n\nCheers!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "I don't do planning but imo reach planning is like that because at the end it's an algorithm guessing based on historical data (I think). ",
+          "score": 1,
+          "created_utc": 1788976872.0
         }
       ]
     }
