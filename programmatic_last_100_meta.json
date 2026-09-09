@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vm9e2m",
-      "title": "Global B2B DSPs",
-      "author": "Capable_Report4502",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vm9e2m/global_b2b_dsps/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vm9e2m/global_b2b_dsps/",
-      "created_utc": 1786527434.0,
-      "content": "Hi folks, I'm evaluating DSP vendors to run brand awareness programmatic display/audio/DOOH ads for a global B2B business. The product has an enterprise and complex tech IT skew.\n\nShould I be mainly looking at DV360? Or is TTD worth a look as well?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vmlft4",
-      "title": "10 years into this industry and I feel like I’m starting from scratch",
-      "author": "Fragrant_Service_855",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vmlft4/10_years_into_this_industry_and_i_feel_like_im/",
-      "created_utc": 1786557245.0,
-      "content": "I’ve been in the industry for around 10 years — roughly 6 years in backend operations and another 4 years in the agency side, mostly handling activation, optimization, and reporting.\n\nRecently, I moved into a new project that feels pretty challenging because it involves a lot more planning, strategic thinking, and advising clients on the right platforms, formats, performance approach, etc. Honestly, life felt much simpler when the job was mostly setups and reporting . Now it’s much more hectic, and there’s a LOT to learn.\n\nI’m somehow managing by reminding myself: “You got a great project. This experience can help you move into a much better company next year.” \n\nSo, looking for some advice from people who have made a similar transition. Apart from the big agency groups (Top 4), what other companies/roles should I target, and what skills or topics should I focus on learning?\n\nMy goal is to land a really good next opportunity with a strong package within the next 6 months. I’m willing to put in around 12 hours every week towards learning/upskilling.\n\nWould really appreciate suggestions on what I should prioritize — programmatic, strategy, measurement, data/analytics, AI, retail media, etc. What would actually make the biggest difference for someone with my background?\n\nThanks in advance!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vmv7cp",
       "title": "Anyone have a lot of experience with Hulu deals on DV360?",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1788948495.0,
       "content": "If your budget is tight, do not spend most of it on a complex playable ad. First, validate your retention, monetization, and basic video hooks.\n\nAt MRAID, a $1,200 test looks like this: one country, one conversion event, a small set of materially different creatives, and a strict stop condition.\n\nA playable ad can pre-qualify users effectively. However, it needs enough budget behind each variant to gather statistically significant data.\n\nProtect your budget for the test itself, not just for building the asset.\n\nWhat is your minimum viable budget for testing a new mobile game creative?\n\n",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wblfrp",
+      "title": "Would an Open-Source IVT Solution help or damage the Ad Ecosystem more?",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "/r/adops/comments/1wbjxxj/would_an_opensource_ivt_solution_help_or_damage/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wblfrp/would_an_opensource_ivt_solution_help_or_damage/",
+      "created_utc": 1788960086.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wbmkx7",
+      "title": "Did anyone else's CAC go down during Labor Day week?",
+      "author": "WickedReports",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbmkx7/did_anyone_elses_cac_go_down_during_labor_day_week/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbmkx7/did_anyone_elses_cac_go_down_during_labor_day_week/",
+      "created_utc": 1788962769.0,
+      "content": "Everyone braces for holiday weeks to get more expensive, but mine went the other way. Conversion jumped and cost per new customer actually dropped on most channels, even where CPCs rose.\n\nThe one exception was search (Google got worse - conversion down, cost up). My read is that holiday demand is impulse / discovery, so the feed channels harvested it and search sat it out.\n\nSeeing the same pattern, or did yours behave differently?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-09T11:38:47.684022+00:00",
-    "total_posts": 2006,
-    "total_comments": 10315
+    "scrape_date": "2026-09-09T15:41:40.516856+00:00",
+    "total_posts": 2008,
+    "total_comments": 10317
   },
   "discussions": [
     {
@@ -91247,6 +91247,47 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1wblfrp",
+      "title": "Would an Open-Source IVT Solution help or damage the Ad Ecosystem more?",
+      "author": "Dependent-Use-3215",
+      "score": 1,
+      "url": "/r/adops/comments/1wbjxxj/would_an_opensource_ivt_solution_help_or_damage/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wblfrp/would_an_opensource_ivt_solution_help_or_damage/",
+      "created_utc": 1788960086.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wbmkx7",
+      "title": "Did anyone else's CAC go down during Labor Day week?",
+      "author": "WickedReports",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbmkx7/did_anyone_elses_cac_go_down_during_labor_day_week/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbmkx7/did_anyone_elses_cac_go_down_during_labor_day_week/",
+      "created_utc": 1788962769.0,
+      "content": "Everyone braces for holiday weeks to get more expensive, but mine went the other way. Conversion jumped and cost per new customer actually dropped on most channels, even where CPCs rose.\n\nThe one exception was search (Google got worse - conversion down, cost up). My read is that holiday demand is impulse / discovery, so the feed channels harvested it and search sat it out.\n\nSeeing the same pattern, or did yours behave differently?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "I speak for the sub when I say please don't ever post this AI drivel again",
+          "score": 3,
+          "created_utc": 1788965163.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Is water wet? Is the sky blue? \n\nI shouldn’t even be engaging ",
+          "score": 1,
+          "created_utc": 1788967192.0
+        }
+      ]
     }
   ]
 }
