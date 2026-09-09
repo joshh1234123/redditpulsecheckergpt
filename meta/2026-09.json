@@ -449,6 +449,21 @@
       "link_flair_text": null,
       "thread_id": "1wb2796",
       "thread_path": "1wb2796.json"
+    },
+    {
+      "id": "1wbhedl",
+      "title": "If you only have $1,200 for marketing, optimize for learning, not scale.",
+      "author": "trueharshit",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbhedl/if_you_only_have_1200_for_marketing_optimize_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbhedl/if_you_only_have_1200_for_marketing_optimize_for/",
+      "created_utc": 1788948495.0,
+      "content": "If your budget is tight, do not spend most of it on a complex playable ad. First, validate your retention, monetization, and basic video hooks.\n\nAt MRAID, a $1,200 test looks like this: one country, one conversion event, a small set of materially different creatives, and a strict stop condition.\n\nA playable ad can pre-qualify users effectively. However, it needs enough budget behind each variant to gather statistically significant data.\n\nProtect your budget for the test itself, not just for building the asset.\n\nWhat is your minimum viable budget for testing a new mobile game creative?\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wbhedl",
+      "thread_path": "1wbhedl.json"
     }
   ]
 }
