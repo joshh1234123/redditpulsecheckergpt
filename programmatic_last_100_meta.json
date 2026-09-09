@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vn6ffb",
-      "title": "AI: Prompt for placement exclusion",
-      "author": "Beneficial_Class4660",
-      "score": 0,
-      "url": "/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn6ffb/ai_prompt_for_placement_exclusion/",
-      "created_utc": 1786615225.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vn7431",
-      "title": "What is the real cost of connected TV ads?",
-      "author": "No_Wedding_209",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vn7431/what_is_the_real_cost_of_connected_tv_ads/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn7431/what_is_the_real_cost_of_connected_tv_ads/",
-      "created_utc": 1786617517.0,
-      "content": "Our first budget for streaming TV advertising came in well under what we ended up spending, and none of the gap was media. Every pricing page quotes a rate and stops there.\n\nPlatform fees sit on top as a percentage of spend. Creative was the bigger surprise, since our social cuts needed a proper TV edit first. Some self-serve CTV vendors also hold a minimum, which sets what a small test costs before you learn anything.\n\nThe rate moves too. Premium apps and tighter targeting price higher than broad inventory, so one flat number for connected TV ads is an average across very different buys.\n\nWhat comes back matters more than the rate. Cheap inventory you cannot see, with reporting that stops at completed views, costs more than a higher rate with placement level data and real conversion tracking behind it.\n\nAnyone running streaming for a D2C or ecommerce account, what does the full cost look like once fees and creative are counted?",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vnemiw",
       "title": "Is there a difference in performance across contextual?",
       "author": "evgeny3000",
@@ -1302,6 +1276,32 @@
       "created_utc": 1788986463.0,
       "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wc0p2u",
+      "title": "CTV Supply Available for DSPs & Agencies",
+      "author": "advertisingbynature",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wc0p2u/ctv_supply_available_for_dsps_agencies/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wc0p2u/ctv_supply_available_for_dsps_agencies/",
+      "created_utc": 1788993307.0,
+      "content": "I am looking to connect with DSPs and agencies that are actively buying across CTV.\n\nWe have CTV inventory across a range of channels/apps in the US, Canada and LATAM and are looking to bring on additional demand partners.\n\nWe prefer to work directly via an OpenRTB endpoint, but are also open to PMP or VAST, depending on the setup.\n\nIf you’re on the demand side and currently looking for additional CTV supply, please DM me. We can exchange details and see if there’s a fit.\n\nThanks.\n\n**Note:** If you can't DM me, leave a comment and I will send a message. My *Who can send you chat requests* setting seems to revert to *nobody* every so often.\n\n\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wc1hnj",
+      "title": "Newbie",
+      "author": "Inside_Glove1251",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wc1hnj/newbie/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wc1hnj/newbie/",
+      "created_utc": 1788995184.0,
+      "content": "Hello guys, can you please explain what are dsp platforms and how they work, im having a hard time understanding it. If i can pm someone would be great.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
