@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vn6eb2",
-      "title": "AI: Prompt for placement exclusion",
-      "author": "Beneficial_Class4660",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vn6eb2/ai_prompt_for_placement_exclusion/",
-      "created_utc": 1786615121.0,
-      "content": "Hi all,\n\nDoes anyone use a strong prompt to exclude low-quality or \"trash\" placements? \n\nI'm struggling with this since I don't have access to on-site performance data (conversion rate, average session duration, etc.). So what should the AI base its judgment on to identify a good vs. bad placement?\n\nAny help is more than welcome\n\n\n\nthanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vn6ffb",
       "title": "AI: Prompt for placement exclusion",
       "author": "Beneficial_Class4660",
@@ -1302,6 +1289,19 @@
       "created_utc": 1788972629.0,
       "content": "Whenever I want to include Youtube in my media plans, there's struggle.\n\nEvery time I use reach planner, the actual numbers such as audience size, expected CPM etc are different, even when the plans are identical and have been created days apart.\n\nThis makes it hard to plan accurately and might make the client lose trust.\n\nAny advice on planning YouTube campaigns?\n\nCheers!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wbxo26",
+      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
+      "author": "SnooSprouts7418",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbxo26/mraid_io_compliance_isnt_just_about_the_specits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbxo26/mraid_io_compliance_isnt_just_about_the_specits/",
+      "created_utc": 1788986463.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-09T18:58:36.417962+00:00",
-    "total_posts": 2010,
+    "scrape_date": "2026-09-09T21:31:35.291738+00:00",
+    "total_posts": 2011,
     "total_comments": 10318
   },
   "discussions": [
@@ -91323,6 +91323,20 @@
           "created_utc": 1788976872.0
         }
       ]
+    },
+    {
+      "id": "1wbxo26",
+      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
+      "author": "SnooSprouts7418",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wbxo26/mraid_io_compliance_isnt_just_about_the_specits/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wbxo26/mraid_io_compliance_isnt_just_about_the_specits/",
+      "created_utc": 1788986463.0,
+      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
