@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-10T12:18:41.265246+00:00",
-    "total_posts": 2013,
-    "total_comments": 10319
+    "scrape_date": "2026-09-10T16:34:32.938143+00:00",
+    "total_posts": 2014,
+    "total_comments": 10321
   },
   "discussions": [
     {
@@ -91370,6 +91370,33 @@
           "body": "Advertisers use DSPs to control who their ads get served to. They put in the video and they can set the geos it will serve in, types of devices, type of inventory, what type of content they’ll serve next to, and how much they’re willing to pay",
           "score": 1,
           "created_utc": 1788995751.0
+        }
+      ]
+    },
+    {
+      "id": "1wcni0s",
+      "title": "Looking for senior IC role, need advice",
+      "author": "Both_Simple_5111",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wcni0s/looking_for_senior_ic_role_need_advice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wcni0s/looking_for_senior_ic_role_need_advice/",
+      "created_utc": 1789056467.0,
+      "content": "I’ve worked in programmatic ad tech for over 6 years and held junior/mid level roles and is now looking to transition to a senior IC role. The feedback that I’ve gotten from all my directors have been that I am outperforming my role. I’m at the point where I’m doing director level work and taking on senior initiatives. Unfortunately, my current manager sees this as threat instead of an asset so they haven’t supported me or advocated for my promotion in the company so I’m looking elsewhere. \n\nTo those that have done it before, how do I land those senior roles when on paper, my past titles are mid level? Any advice would help.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Toughest part is breaking out from under a shit director/manager. Been there many a times, You just have to look else where, they aren’t giving it to you\n\nOh ya advice - when applying to those roles, only speak in “Is” - “I did \\[XYZ\\]” do not say we, they interpret that as you just supported not lead. \n\nThese roles are less about HOK and more about overarching channel and brand knowledge that you can pass on - how well can you speak to bottom line, how well can you conversate between different departments and VIPs. Basically how well can you schmooze and explain.\n\nIt genuinely just takes a while to find a good role and boss because those roles are eternally filled in our line of work",
+          "score": 1,
+          "created_utc": 1789057108.0
+        },
+        {
+          "author": "NewOrleansSpeed",
+          "body": "Story time: Had a programmatic boss that i had worked under a few months at a startup, did great work, moved to a consolidated DSp approach, pulled everything internal to save like 150k in fees a month. She got promoted to VP, did not promote or raise a single person under her. If anything of loaded more onto us.\n\nThey eventually fired me when I brought up poor working environment because of her attitude and thinking. I was ready anyway and just started my own firm. Now I’m my own boss and i don’t have to sugar coat anything\n\nOh oh and that same company, on the verge of bankruptcy - they eventually fired her for actual poor performance",
+          "score": 1,
+          "created_utc": 1789057253.0
         }
       ]
     }
