@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-10T19:24:12.015240+00:00",
-    "total_posts": 2014,
-    "total_comments": 10321
+    "scrape_date": "2026-09-10T21:44:00.621374+00:00",
+    "total_posts": 2015,
+    "total_comments": 10322
   },
   "discussions": [
     {
@@ -91397,6 +91397,27 @@
           "body": "Story time: Had a programmatic boss that i had worked under a few months at a startup, did great work, moved to a consolidated DSp approach, pulled everything internal to save like 150k in fees a month. She got promoted to VP, did not promote or raise a single person under her. If anything of loaded more onto us.\n\nThey eventually fired me when I brought up poor working environment because of her attitude and thinking. I was ready anyway and just started my own firm. Now I’m my own boss and i don’t have to sugar coat anything\n\nOh oh and that same company, on the verge of bankruptcy - they eventually fired her for actual poor performance",
           "score": 1,
           "created_utc": 1789057253.0
+        }
+      ]
+    },
+    {
+      "id": "1wcvrhg",
+      "title": "Hi! I need help for my college exam.",
+      "author": "Due_Team_5808",
+      "score": 0,
+      "url": "/r/cscareers/comments/1wcvpyd/hi_i_need_help_for_my_college_exam/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wcvrhg/hi_i_need_help_for_my_college_exam/",
+      "created_utc": 1789074138.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jackescalator",
+          "body": "Ask Kuma ai",
+          "score": 1,
+          "created_utc": 1789074719.0
         }
       ]
     }
