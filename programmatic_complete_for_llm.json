@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-11T16:39:32.228382+00:00",
-    "total_posts": 2015,
-    "total_comments": 10322
+    "scrape_date": "2026-09-11T19:22:45.655124+00:00",
+    "total_posts": 2016,
+    "total_comments": 10329
   },
   "discussions": [
     {
@@ -91418,6 +91418,63 @@
           "body": "Ask Kuma ai",
           "score": 1,
           "created_utc": 1789074719.0
+        }
+      ]
+    },
+    {
+      "id": "1wdoiq7",
+      "title": "Seat on DV360",
+      "author": "thread_wanderer",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wdoiq7/seat_on_dv360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wdoiq7/seat_on_dv360/",
+      "created_utc": 1789151448.0,
+      "content": "Does anyone know how to get in contact with someone at DV360 about getting a seat on the DSP? I am having a hard time getting any response from the Sales team through the form fill on site. ",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "tahadharamsi",
+          "body": "so unless you are a large enterprise (I mean millions per month) - you will need to go through a reseller. Check out either Dandellion, Goodway Group, Mogl...",
+          "score": 2,
+          "created_utc": 1789152097.0
+        },
+        {
+          "author": "Informal-Meeting2508",
+          "body": "if you have to ask on reddit your budget won't be big enough anyway.",
+          "score": 2,
+          "created_utc": 1789152237.0
+        },
+        {
+          "author": "Sweaty_Web6251",
+          "body": "Hi there can I connect with you ? I have similar thing in my mind also do you know there is a company which offer whitelabel DSP ? ",
+          "score": 1,
+          "created_utc": 1789152754.0
+        },
+        {
+          "author": "optimus_factorial",
+          "body": "go directly to Adswerve, BrainLabs, or other resellers.  You won't get your own seat unless you are someone like JPMC or an Agency",
+          "score": 1,
+          "created_utc": 1789154117.0
+        },
+        {
+          "author": "thread_wanderer",
+          "body": "Looking to explore the options as an enterprise. Do you know how to get access directly?",
+          "score": 1,
+          "created_utc": 1789152265.0
+        },
+        {
+          "author": "thread_wanderer",
+          "body": "Not concerned on spend threshold - just looking for best way to get in contact.",
+          "score": 1,
+          "created_utc": 1789152912.0
+        },
+        {
+          "author": "thread_wanderer",
+          "body": "We are an agency - even so i'm having trouble getting in touch.",
+          "score": 1,
+          "created_utc": 1789154251.0
         }
       ]
     }
