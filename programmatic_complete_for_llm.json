@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-11T23:45:25.856259+00:00",
-    "total_posts": 2016,
-    "total_comments": 10329
+    "scrape_date": "2026-09-12T02:28:19.632993+00:00",
+    "total_posts": 2017,
+    "total_comments": 10331
   },
   "discussions": [
     {
@@ -91475,6 +91475,33 @@
           "body": "We are an agency - even so i'm having trouble getting in touch.",
           "score": 1,
           "created_utc": 1789154251.0
+        }
+      ]
+    },
+    {
+      "id": "1wdwulc",
+      "title": "What do you hate and love most about DSPs",
+      "author": "maryna-gc",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wdwulc/what_do_you_hate_and_love_most_about_dsps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wdwulc/what_do_you_hate_and_love_most_about_dsps/",
+      "created_utc": 1789170871.0,
+      "content": "",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MagazineImpressive79",
+          "body": "The fact that they all sell fraudulent inventory and don't really give a crap",
+          "score": 3,
+          "created_utc": 1789171138.0
+        },
+        {
+          "author": "TheLookoutGrey",
+          "body": "Shit I used to say when I thought I understood advertising 🤡 ",
+          "score": 1,
+          "created_utc": 1789179882.0
         }
       ]
     }
