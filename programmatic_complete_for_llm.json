@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-13T07:35:21.067769+00:00",
-    "total_posts": 2017,
+    "scrape_date": "2026-09-13T13:00:55.281017+00:00",
+    "total_posts": 2019,
     "total_comments": 10331
   },
   "discussions": [
@@ -91504,6 +91504,34 @@
           "created_utc": 1789179882.0
         }
       ]
+    },
+    {
+      "id": "1wf2mr5",
+      "title": "Is the IPA Advanced Certificate in Communications Planning worth it?",
+      "author": "PablohFelix",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wf2mr5/is_the_ipa_advanced_certificate_in_communications/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wf2mr5/is_the_ipa_advanced_certificate_in_communications/",
+      "created_utc": 1789290261.0,
+      "content": "For the UK crowd, has anyone here done the IPA Advanced Certificate in Communications Planning?\n\nI’m considering doing it and would be interested to hear from people who’ve actually taken it, particularly in the last couple of years.\n\nDid you find it genuinely useful for becoming a better media planner/strategist, or is most of the value in having the qualification on your CV?\n\nAlso interested in whether you felt it was worth the time and cost.\n\nThanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wf71m3",
+      "title": "Programmatic Manager (4+ YOE, DV360/TTD) moving to NL for a 1-year Master's. How is the Amsterdam/Randstad programmatic hiring market right now?",
+      "author": "Swimming-Way3474",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wf71m3/programmatic_manager_4_yoe_dv360ttd_moving_to_nl/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wf71m3/programmatic_manager_4_yoe_dv360ttd_moving_to_nl/",
+      "created_utc": 1789304373.0,
+      "content": "Hey r/programmatic,  \nLooking for some honest ground reality from traders and programmatic leads working in the Netherlands (especially Amsterdam/Randstad).  \nA bit of context on my profile:\n\n**Experience:** 4+ years in programmatic media buying/activation at holding groups (Publicis and WPP).  \n\n**Tech Stack:** Hands-on keyboard in DV360, The Trade Desk, Amazon DSP, CM360, and Yahoo DSP.    \n   \n**Plan:** Moving to the Netherlands from India for a 1-year applied master's program (The Hague area).  \nMy primary goal after the 1-year degree is to transition straight onto a trading desk or an in-house programmatic team via the 1-year orientation year (Zoekjaar) visa.\n\nA few questions for folks on the ground:  \n1. **How is agency/trading desk hiring in Amsterdam right now?** Are holding companies (GroupM, Publicis, Omnicom, Dentsu) and independent agencies actively hiring mid/senior traders, or is it heavily frozen?\n\n2. **Language barrier reality check:** For programmatic/ad ops/trader roles managing regional EMEA campaigns, how strict are agencies on Dutch language requirements? Is English genuinely sufficient on the desk?\n\n3. **Graduate to HSM Transition:** For anyone who did the university -> Zoekjaar -> Highly Skilled Migrant (HSM) route: did employers hesitate to sponsor you once your search year was up, or is the reduced salary threshold easy enough for agencies to sponsor?\n\n4. **Networking advice:** Given that it's a fast 1-year program, what’s the best way to get on recruiters’ and media directors’ radars early?  \nAppreciate any no-nonsense insights or reality checks. Thanks!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
