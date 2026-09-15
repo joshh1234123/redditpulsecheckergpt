@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vq3g8t",
-      "title": "New DV360 Line Items, Low CPMs on Premium Publishers, why.",
-      "author": "Ok_Instance1684",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vq3g8t/new_dv360_line_items_low_cpms_on_premium/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vq3g8t/new_dv360_line_items_low_cpms_on_premium/",
-      "created_utc": 1786902251.0,
-      "content": "Assuming low CPM isn't something to be proud of when it costs conversion value and quantity.  \n  \nSomething I've noticed across most new DV360 Display Line Items I've had access to is that during their first 2 - 4 weeks, they often start buying impressions at relatively low CPMs, even when whitelisted to premium publishers. Those lower CPMs also seem to correlate with poorer conversion quality during the initial period.\n\nAs the LI starts finding conversions at an acceptable CPA or below tCPA, the average CPM tends to increase gradually day by day.\n\nI've seen this across T1–T3 GEOs, multiple niches, and LIs optimized for conversions or tCPA using Daily ASAP pacing, even when relevant conversion data already exists.\n\nI'm trying to figure out if there's a better way than Fixed Bid to bid more aggressively for higher-value impressions from day one instead of waiting weeks for the LI to get there. Let me know what you think.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vqk0hz",
       "title": "10 days into a Big 4 agency (took a pay cut for role) — zero onboarding, toxic vibe, work piled up. What do I do?",
       "author": "HeyItsAmisha",
@@ -1302,6 +1289,19 @@
       "created_utc": 1789304373.0,
       "content": "Hey r/programmatic,  \nLooking for some honest ground reality from traders and programmatic leads working in the Netherlands (especially Amsterdam/Randstad).  \nA bit of context on my profile:\n\n**Experience:** 4+ years in programmatic media buying/activation at holding groups (Publicis and WPP).  \n\n**Tech Stack:** Hands-on keyboard in DV360, The Trade Desk, Amazon DSP, CM360, and Yahoo DSP.    \n   \n**Plan:** Moving to the Netherlands from India for a 1-year applied master's program (The Hague area).  \nMy primary goal after the 1-year degree is to transition straight onto a trading desk or an in-house programmatic team via the 1-year orientation year (Zoekjaar) visa.\n\nA few questions for folks on the ground:  \n1. **How is agency/trading desk hiring in Amsterdam right now?** Are holding companies (GroupM, Publicis, Omnicom, Dentsu) and independent agencies actively hiring mid/senior traders, or is it heavily frozen?\n\n2. **Language barrier reality check:** For programmatic/ad ops/trader roles managing regional EMEA campaigns, how strict are agencies on Dutch language requirements? Is English genuinely sufficient on the desk?\n\n3. **Graduate to HSM Transition:** For anyone who did the university -> Zoekjaar -> Highly Skilled Migrant (HSM) route: did employers hesitate to sponsor you once your search year was up, or is the reduced salary threshold easy enough for agencies to sponsor?\n\n4. **Networking advice:** Given that it's a fast 1-year program, what’s the best way to get on recruiters’ and media directors’ radars early?  \nAppreciate any no-nonsense insights or reality checks. Thanks!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wh9b15",
+      "title": "OpenAI’s ad business is about to miss its forecast by 90%",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "created_utc": 1789498478.0,
+      "content": "OpenAI thought ads would be a $2.5B business by 2026, growing to $100B by 2030. But eMarketer says chatbots across the board won’t even crack $1B this year.  \n  \nThat’s not just a miss - that’s a wipeout.  \n  \nThe problem feels pretty simple: people open ChatGPT, ask a question, get an answer, and leave. There’s no natural pause where an ad fits. Google works because ads sit right next to the search results, in the same moment of intent. ChatGPT is more like: question → answer → done.  \n  \nEven if you figure out where to put an ad, how do you prove it worked? Someone sees a suggestion, leaves the chat, does their research somewhere else, and maybe buys later. Good luck attributing that conversion.  \n  \nAnd user behavior is different too. Search often has commercial intent. ChatGPT is more about information or task completion. That’s not the same funnel.",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }

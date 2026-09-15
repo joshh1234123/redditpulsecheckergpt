@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-15T16:15:30.001163+00:00",
-    "total_posts": 2019,
-    "total_comments": 10331
+    "scrape_date": "2026-09-15T19:46:05.794379+00:00",
+    "total_posts": 2020,
+    "total_comments": 10338
   },
   "discussions": [
     {
@@ -91532,6 +91532,63 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1wh9b15",
+      "title": "OpenAI’s ad business is about to miss its forecast by 90%",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "created_utc": 1789498478.0,
+      "content": "OpenAI thought ads would be a $2.5B business by 2026, growing to $100B by 2030. But eMarketer says chatbots across the board won’t even crack $1B this year.  \n  \nThat’s not just a miss - that’s a wipeout.  \n  \nThe problem feels pretty simple: people open ChatGPT, ask a question, get an answer, and leave. There’s no natural pause where an ad fits. Google works because ads sit right next to the search results, in the same moment of intent. ChatGPT is more like: question → answer → done.  \n  \nEven if you figure out where to put an ad, how do you prove it worked? Someone sees a suggestion, leaves the chat, does their research somewhere else, and maybe buys later. Good luck attributing that conversion.  \n  \nAnd user behavior is different too. Search often has commercial intent. ChatGPT is more about information or task completion. That’s not the same funnel.",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "RUFiO006",
+          "body": "The beautiful irony of you using AI to write this. \n\nThat’s not just a miss - that’s a wipeout. ",
+          "score": 9,
+          "created_utc": 1789499855.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "What does this have to do with programmatic sir LLM?",
+          "score": 7,
+          "created_utc": 1789499308.0
+        },
+        {
+          "author": "ArmySalamy",
+          "body": "Source?",
+          "score": 2,
+          "created_utc": 1789499670.0
+        },
+        {
+          "author": "BurnerAcountInnit",
+          "body": "That’s not just a miss - that’s a wipeout. That's not an opinion, that's a token output.   \nChatGPT is more like: question → answer → done. LOL  \nThat’s not the same funnel. There is only one funnel. ",
+          "score": 2,
+          "created_utc": 1789499741.0
+        },
+        {
+          "author": "SeniorDucklet",
+          "body": "I’ve clicked on ChatGPT  ads several times. It was relevant to what I was chatting about.  The ads sits at the end of the conversation and looks like a native ad. It’s labeled an ad and is straight forward. \n\nDo you remember what FB ads looked like when they first started?",
+          "score": 2,
+          "created_utc": 1789501426.0
+        },
+        {
+          "author": "BurnerAcountInnit",
+          "body": "I buy it via StackAdapt :( ",
+          "score": 5,
+          "created_utc": 1789499616.0
+        },
+        {
+          "author": "ApartInfluence4429",
+          "body": "Chat ads are programmaticish ",
+          "score": 1,
+          "created_utc": 1789501035.0
+        }
+      ]
     }
   ]
 }

@@ -659,6 +659,21 @@
       "link_flair_text": null,
       "thread_id": "1wf71m3",
       "thread_path": "1wf71m3.json"
+    },
+    {
+      "id": "1wh9b15",
+      "title": "OpenAI’s ad business is about to miss its forecast by 90%",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
+      "created_utc": 1789498478.0,
+      "content": "OpenAI thought ads would be a $2.5B business by 2026, growing to $100B by 2030. But eMarketer says chatbots across the board won’t even crack $1B this year.  \n  \nThat’s not just a miss - that’s a wipeout.  \n  \nThe problem feels pretty simple: people open ChatGPT, ask a question, get an answer, and leave. There’s no natural pause where an ad fits. Google works because ads sit right next to the search results, in the same moment of intent. ChatGPT is more like: question → answer → done.  \n  \nEven if you figure out where to put an ad, how do you prove it worked? Someone sees a suggestion, leaves the chat, does their research somewhere else, and maybe buys later. Good luck attributing that conversion.  \n  \nAnd user behavior is different too. Search often has commercial intent. ChatGPT is more about information or task completion. That’s not the same funnel.",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wh9b15",
+      "thread_path": "1wh9b15.json"
     }
   ]
 }
