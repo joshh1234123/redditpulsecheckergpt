@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vsg3o3",
-      "title": "Programmatic jobs openings in India",
-      "author": "reach_roshan",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vsg3o3/programmatic_jobs_openings_in_india/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vsg3o3/programmatic_jobs_openings_in_india/",
-      "created_utc": 1787126889.0,
-      "content": "I've 4-5 years exp in programmatic. Started in Ad Ops, and last role was managing campaigns. Worked on many DSP including Xandr, Yahoo, TTD and many others managing good budget. I haven't managed campaigns on DV360, though i've done trafficking on it. Finding really hard to find an entry to next company. I moved on from previous night shift role and badly wanted dayshift in Bengaluru or remote. Is the market difficult now? or  can it be due to the method i use to apply. I use linkedin jobs a lot but failed to get any replies. A few referrals didnt work. Got rejected/ or no replies from agencies like wpp, publicis, dentsu etc even with referrals. Should i try more through naukri or other platforms or 3rd party agencies?  \nAlso, is it really hard getting into top tier companies like adobe, google etc later? Any advises or referrals",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vsg6vn",
       "title": "Mobile Advertising ID/ MAID integration into Ads Platforms",
       "author": "turpiturpii",
@@ -1302,6 +1289,19 @@
       "created_utc": 1789553125.0,
       "content": "Hi everyone!\n\nI am looking for some feedback and advice from the freelance programmatic community.\n\nI have about 8 years of hands on experience in programmatic advertising, more focused on the buy-side (DV360, CM360, TTD, Amazon DSP, StackAdapt) across full funnel campaigns (Awareness to Conversion) for various verticals(Luxury, E-commerce, and so on).\n\nI am currently aiming to secure part time, fully remote freelance contracts, but I am running into a bit of a wall with traditional channels:\n\n* On Malt: The platform setup means waiting for clients to reach out first, which makes active outbound prospecting difficult.\n* Upwork: Offers seem mostly saturated with low-budget/low-margin projects that don't align with market rates for senior talent.\n* Direct outbound through LinkedIn: Reaching out directly to sales directors, team leads, or talent acquisition at major holding companies (Big six) has not yielded results, one contact actually mentioned they strictly go through third-party staffing agencies.\n\nI am considering targeting independent trading desks directly, but I feel like I might be missing better acquisition channels or strategies.\n\nFor those of you successfully freelancing in the programmatic space: How do you structure your prospecting?\n\nAre specialized recruitment/staffing agencies or programmatic-focused platforms the way to go for high ticket remote contracts? What channels or strategies have worked best for you to build a steady pipeline of clients?\n\nAny tips or insights would be hugely appreciated! Many thanks!",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wi8bwo",
+      "title": "Those who run programmatic display, what do you to evaluate or measure the upper funnel or awareness performance \"potential\" of your campaigns?",
+      "author": "One_Librarian_6182",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "created_utc": 1789589380.0,
+      "content": "Not talking about a brand lift study or other research stuff you do after the campaign is over, those don't show the potential but measure the outcome at the end.\n\nI want to know what you do to evaluate whether you're on the right trajectory (the leading indicator stuff) in terms of delivering the upper funnel or awareness performance so that you can do something mid-flight to maximize the outcome.\n\nOne thing most people can do today using their DSP is this (I think): you run a campaign, see impressions/clicks/frequency/reach/viewability all that good stuff DSPs give you out of the box. You know the audience segment has 100K total unique users you can potentially reach, and you see in your reach report that you served impressions across 20K unique users last 30 days. So 20% reach rate. And maybe your \"reach success\" criterion is >40%. So this has a low awareness potential right now and you want to optimize in some ways (frequency adjustment, maybe some bid factoring, etc.). But you're still using the impression count, which isn't satisfactory IMO.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

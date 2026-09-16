@@ -1,0 +1,22 @@
+{
+  "id": "1wi8bwo",
+  "thread_id": "1wi8bwo",
+  "title": "Those who run programmatic display, what do you to evaluate or measure the upper funnel or awareness performance \"potential\" of your campaigns?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+  "created_utc": 1789589380.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "AnOnmyss",
+      "body": "IMO if this was my goal I’d use a combination of inventory availability reports, unique reach reports, audience reports (incl on-target impressions if that is still a thing) and brand lift. \n\nAlternatively, you could perhaps do a geo-based hold-out testing set up whereby you look at conversion rates without any digital advertising as a baseline (measured through your analytics platform), then introduce upper funnel display and measure the uplift for that geo. Understand the complexity and considerations around seasonality, macro trends etc, but something to consider ",
+      "score": 3,
+      "created_utc": 1789590712.0
+    },
+    {
+      "author": "Responsible-Brick881",
+      "body": "And don't forget to check your delivery reports....all the reach and frequency in the world is gone to waste if all your money is going into junk inventory nobody actually sees!",
+      "score": 1,
+      "created_utc": 1789591905.0
+    }
+  ]
+}

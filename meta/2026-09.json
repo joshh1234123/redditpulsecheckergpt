@@ -734,6 +734,21 @@
       "link_flair_text": null,
       "thread_id": "1whszpw",
       "thread_path": "1whszpw.json"
+    },
+    {
+      "id": "1wi8bwo",
+      "title": "Those who run programmatic display, what do you to evaluate or measure the upper funnel or awareness performance \"potential\" of your campaigns?",
+      "author": "One_Librarian_6182",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "created_utc": 1789589380.0,
+      "content": "Not talking about a brand lift study or other research stuff you do after the campaign is over, those don't show the potential but measure the outcome at the end.\n\nI want to know what you do to evaluate whether you're on the right trajectory (the leading indicator stuff) in terms of delivering the upper funnel or awareness performance so that you can do something mid-flight to maximize the outcome.\n\nOne thing most people can do today using their DSP is this (I think): you run a campaign, see impressions/clicks/frequency/reach/viewability all that good stuff DSPs give you out of the box. You know the audience segment has 100K total unique users you can potentially reach, and you see in your reach report that you served impressions across 20K unique users last 30 days. So 20% reach rate. And maybe your \"reach success\" criterion is >40%. So this has a low awareness potential right now and you want to optimize in some ways (frequency adjustment, maybe some bid factoring, etc.). But you're still using the impression count, which isn't satisfactory IMO.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wi8bwo",
+      "thread_path": "1wi8bwo.json"
     }
   ]
 }

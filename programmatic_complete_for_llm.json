@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-16T18:59:29.160447+00:00",
-    "total_posts": 2024,
-    "total_comments": 10339
+    "scrape_date": "2026-09-16T21:57:51.721254+00:00",
+    "total_posts": 2025,
+    "total_comments": 10341
   },
   "discussions": [
     {
@@ -91652,6 +91652,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1wi8bwo",
+      "title": "Those who run programmatic display, what do you to evaluate or measure the upper funnel or awareness performance \"potential\" of your campaigns?",
+      "author": "One_Librarian_6182",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
+      "created_utc": 1789589380.0,
+      "content": "Not talking about a brand lift study or other research stuff you do after the campaign is over, those don't show the potential but measure the outcome at the end.\n\nI want to know what you do to evaluate whether you're on the right trajectory (the leading indicator stuff) in terms of delivering the upper funnel or awareness performance so that you can do something mid-flight to maximize the outcome.\n\nOne thing most people can do today using their DSP is this (I think): you run a campaign, see impressions/clicks/frequency/reach/viewability all that good stuff DSPs give you out of the box. You know the audience segment has 100K total unique users you can potentially reach, and you see in your reach report that you served impressions across 20K unique users last 30 days. So 20% reach rate. And maybe your \"reach success\" criterion is >40%. So this has a low awareness potential right now and you want to optimize in some ways (frequency adjustment, maybe some bid factoring, etc.). But you're still using the impression count, which isn't satisfactory IMO.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "AnOnmyss",
+          "body": "IMO if this was my goal I’d use a combination of inventory availability reports, unique reach reports, audience reports (incl on-target impressions if that is still a thing) and brand lift. \n\nAlternatively, you could perhaps do a geo-based hold-out testing set up whereby you look at conversion rates without any digital advertising as a baseline (measured through your analytics platform), then introduce upper funnel display and measure the uplift for that geo. Understand the complexity and considerations around seasonality, macro trends etc, but something to consider ",
+          "score": 3,
+          "created_utc": 1789590712.0
+        },
+        {
+          "author": "Responsible-Brick881",
+          "body": "And don't forget to check your delivery reports....all the reach and frequency in the world is gone to waste if all your money is going into junk inventory nobody actually sees!",
+          "score": 1,
+          "created_utc": 1789591905.0
+        }
+      ]
     }
   ]
 }
