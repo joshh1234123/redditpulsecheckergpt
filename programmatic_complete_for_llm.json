@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-16T05:33:38.111772+00:00",
-    "total_posts": 2023,
+    "scrape_date": "2026-09-16T10:35:38.175552+00:00",
+    "total_posts": 2024,
     "total_comments": 10339
   },
   "discussions": [
@@ -91634,6 +91634,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1whjt0b/how_are_onsite_retail_media_ads_actually_bought/",
       "created_utc": 1789523725.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1whszpw",
+      "title": "How are programmatic freelancers finding part-time remote clients? (Beyond Upwork/Malt)",
+      "author": "Low_Preference_6509",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1whszpw/how_are_programmatic_freelancers_finding_parttime/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1whszpw/how_are_programmatic_freelancers_finding_parttime/",
+      "created_utc": 1789553125.0,
+      "content": "Hi everyone!\n\nI am looking for some feedback and advice from the freelance programmatic community.\n\nI have about 8 years of hands on experience in programmatic advertising, more focused on the buy-side (DV360, CM360, TTD, Amazon DSP, StackAdapt) across full funnel campaigns (Awareness to Conversion) for various verticals(Luxury, E-commerce, and so on).\n\nI am currently aiming to secure part time, fully remote freelance contracts, but I am running into a bit of a wall with traditional channels:\n\n* On Malt: The platform setup means waiting for clients to reach out first, which makes active outbound prospecting difficult.\n* Upwork: Offers seem mostly saturated with low-budget/low-margin projects that don't align with market rates for senior talent.\n* Direct outbound through LinkedIn: Reaching out directly to sales directors, team leads, or talent acquisition at major holding companies (Big six) has not yielded results, one contact actually mentioned they strictly go through third-party staffing agencies.\n\nI am considering targeting independent trading desks directly, but I feel like I might be missing better acquisition channels or strategies.\n\nFor those of you successfully freelancing in the programmatic space: How do you structure your prospecting?\n\nAre specialized recruitment/staffing agencies or programmatic-focused platforms the way to go for high ticket remote contracts? What channels or strategies have worked best for you to build a steady pipeline of clients?\n\nAny tips or insights would be hugely appreciated! Many thanks!",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
