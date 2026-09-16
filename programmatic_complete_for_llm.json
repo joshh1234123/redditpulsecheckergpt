@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-15T22:35:51.898589+00:00",
-    "total_posts": 2021,
+    "scrape_date": "2026-09-16T00:56:18.386178+00:00",
+    "total_posts": 2022,
     "total_comments": 10339
   },
   "discussions": [
@@ -91610,6 +91610,20 @@
           "created_utc": 1789509790.0
         }
       ]
+    },
+    {
+      "id": "1whhvie",
+      "title": "How do brands buy onsite retail media—sponsored listings and display ads on retailer websites?",
+      "author": "Low-Mud8861",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1whhvie/how_do_brands_buy_onsite_retail_mediasponsored/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1whhvie/how_do_brands_buy_onsite_retail_mediasponsored/",
+      "created_utc": 1789518550.0,
+      "content": "I’m trying to understand how retail media is purchased in practice. I’m especially confused because several terms seem to describe different dimensions of the transaction, but industry materials sometimes use them as if they were interchangeable:  \n● Direct vs. programmatic  \n● Self-service vs. managed service  \n● Auction vs. fixed price  \n● Retailer ad console vs. DSP\n\nCould someone explain these distinctions using the actual steps an advertiser takes?  \nFor example, how would you classify each of these situations?  \n1. A brand logs into a retailer’s own self-service portal and bids in an auction for sponsored-product placements.  \n2. A brand negotiates an insertion order with the retailer’s sales team, and the retailer manages the campaign.  \n3. A brand uses Amazon DSP directly on a self-service basis.  \n4. An agency uses The Trade Desk or another third-party DSP to purchase a retailer’s audience or inventory.  \n5. A DSP is used for a programmatic-guaranteed deal with fixed pricing and reserved inventory.  \n6. A retailer employee manages a campaign for the advertiser, but impressions are purchased or delivered programmatically behind the scenes.  \nMy current understanding is that these are separate dimensions:  \n● “Self-service vs. managed service” describes who operates the campaign.  \n● “Auction vs. fixed price” describes the pricing or deal mechanism.  \n● “Direct vs. programmatic” describes the buying or transaction path.  \nIs that accurate? If so:  \n● Can a self-service purchase be either direct or programmatic?  \n● Can direct buying be auction-based?  \n● Can programmatic buying use fixed prices?  \n● Is using automated software enough to make a transaction programmatic?  \n● What is the substantive difference between using a retailer’s ad console and using its DSP?  \n● What roles do the DSP and SSP play when the retailer owns both the audience data and advertising inventory?  \n● Does “direct” necessarily mean a negotiated IO, or can an auction-based purchase made through a retailer-owned portal still be direct?  \n● Are onsite sponsored-product ads usually purchased differently from offsite display ads?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
