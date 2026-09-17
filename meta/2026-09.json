@@ -749,6 +749,36 @@
       "link_flair_text": null,
       "thread_id": "1wi8bwo",
       "thread_path": "1wi8bwo.json"
+    },
+    {
+      "id": "1wiq61f",
+      "title": "The worst time to find a broken HTML5 ad is after handoff",
+      "author": "AdPreflight-Dev",
+      "score": 0,
+      "url": "https://v.redd.it/f3n1e0ff42qh1",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wiq61f/the_worst_time_to_find_a_broken_html5_ad_is_after/",
+      "created_utc": 1789640699.0,
+      "content": "A while back I shared Ad-Preflight here as a local-first CLI for moving HTML5 validation earlier in the workflow.\n\nSince then it’s evolved into a desktop app as well, aimed at making the same checks accessible to designers and Creative QA - not just developers.\n\nThe idea is still the same: Catch runtime errors before handoff. The video shows the full workflow.\n\nEverything runs locally; the creative files aren’t uploaded.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wiq61f",
+      "thread_path": "1wiq61f.json"
+    },
+    {
+      "id": "1wiuxdo",
+      "title": "Question about DV360 access & deal setup",
+      "author": "Ok_Cantaloupe5991",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wiuxdo/question_about_dv360_access_deal_setup/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wiuxdo/question_about_dv360_access_deal_setup/",
+      "created_utc": 1789653850.0,
+      "content": "\n\nHi everyone,\n\nWe have a client who has not granted us access to their **DV360 Partner**, but has given us access only at the **Advertiser level**.\n\nOur buying team says that in this setup they can't set up deals, both **PMP and Programmatic Guaranteed**, because deal setup needs to be done at the Partner level.\n\nHowever, I was under the impression that deals can also be created/managed at the **Advertiser level**, depending on the account configuration and permissions.\n\nHas anyone run into this situation before? Are there specific **DV360 settings, permissions, or differences between Partner-level and Advertiser-level access** that would prevent us from setting up PMP/PG deals with advertiser-only access?\n\nWould be great to understand if this is actually a platform limitation or just a permissions/configuration issue.\n\nThanks!",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wiuxdo",
+      "thread_path": "1wiuxdo.json"
     }
   ]
 }

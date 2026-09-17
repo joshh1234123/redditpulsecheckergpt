@@ -1,0 +1,16 @@
+{
+  "id": "1wiuxdo",
+  "thread_id": "1wiuxdo",
+  "title": "Question about DV360 access & deal setup",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wiuxdo/question_about_dv360_access_deal_setup/",
+  "created_utc": 1789653850.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Consistent-Walrus903",
+      "body": "Hey there,   \nIt's actually not a complete platform limitation, but a configuration setting!  \nBy default, DV360 centralizes deal management at the Partner level. However, a Partner Admin can enable advertiser-level deal creation:  \nHave them go to Partner Settings > Basic Details.  \nOr  \nScroll down to Inventory Sources and check \"Allow advertisers to create inventory sources\".  \nOnce that's enabled and assuming your team has Standard or Admin user permissions at the Advertiser level you'll be able to negotiate, accept, and set up both PMP and PG deals directly within that Advertiser account.  \nPlease let me know if this clear the issue if not i will provide other solution",
+      "score": 2,
+      "created_utc": 1789654601.0
+    }
+  ]
+}
