@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-17T22:18:59.130371+00:00",
-    "total_posts": 2027,
+    "scrape_date": "2026-09-18T00:33:33.005062+00:00",
+    "total_posts": 2028,
     "total_comments": 10342
   },
   "discussions": [
@@ -91714,6 +91714,20 @@
           "created_utc": 1789654601.0
         }
       ]
+    },
+    {
+      "id": "1wj8lbm",
+      "title": "How are onsite retail media ads actually bought?",
+      "author": "Low-Mud8861",
+      "score": 0,
+      "url": "/r/adops/comments/1whi0ub/how_are_onsite_retail_media_ads_actually_bought/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wj8lbm/how_are_onsite_retail_media_ads_actually_bought/",
+      "created_utc": 1789684572.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
