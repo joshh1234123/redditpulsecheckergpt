@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vszxae",
-      "title": "Anyone still using a spreadsheet for pacing?",
-      "author": "satyagrahaARG",
-      "score": 2,
-      "url": "/r/adops/comments/1vspud8/anyone_still_using_a_spreadsheet_for_pacing/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vszxae/anyone_still_using_a_spreadsheet_for_pacing/",
-      "created_utc": 1787175339.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vt6xcl",
       "title": "Need Guidance!",
       "author": "DistinctHamster6092",
@@ -1302,6 +1289,19 @@
       "created_utc": 1789684572.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wklnkj",
+      "title": "I actually like spreadsheets and looking at data. Looking for a media buyer to take me under their wing.",
+      "author": "luke_miti",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wklnkj/i_actually_like_spreadsheets_and_looking_at_data/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wklnkj/i_actually_like_spreadsheets_and_looking_at_data/",
+      "created_utc": 1789822857.0,
+      "content": "I know a lot of people get into media buying for the flashy creative side, but I’m much more interested in the data, tracking, and reporting side of Meta ads.\n\nI understand how iOS 14+ changed things, how server-side tracking works, and how to look at blended ROAS / MER instead of just trusting the Meta dashboard blindly. \n\nWhat I lack is real-world application on live accounts.I’m looking for an internship or entry level apprenticeship where I can help with the analytical heavy lifting.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
