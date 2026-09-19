@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-19T21:34:28.239240+00:00",
-    "total_posts": 2029,
-    "total_comments": 10343
+    "scrape_date": "2026-09-19T23:49:35.662618+00:00",
+    "total_posts": 2030,
+    "total_comments": 10344
   },
   "discussions": [
     {
@@ -91747,6 +91747,27 @@
           "body": "The flashy creative side of media buying?",
           "score": 1,
           "created_utc": 1789824616.0
+        }
+      ]
+    },
+    {
+      "id": "1wkzw2l",
+      "title": "How should I prepare for the Amazon Loop Interview?",
+      "author": "Slow-Ice-2803",
+      "score": 2,
+      "url": "/r/amazonsdeprep/comments/1wkzus9/how_should_i_prepare_for_the_amazon_loop_interview/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wkzw2l/how_should_i_prepare_for_the_amazon_loop_interview/",
+      "created_utc": 1789857748.0,
+      "content": "",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Skillet-boy",
+          "body": "Google Amazon interview bank. It has a list of behavioral interview questions by Leadership principle. Plan a few examples you can speak about for each LP. All of your answers should be in STAR format. That’s basically it. ",
+          "score": 1,
+          "created_utc": 1789860710.0
         }
       ]
     }
