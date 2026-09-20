@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vu6ymi",
-      "title": "What is the hardest part of moving from Google Ads and Meta Ads into programmatic?",
-      "author": "gvshivacharan",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vu6ymi/what_is_the_hardest_part_of_moving_from_google/",
-      "created_utc": 1787289111.0,
-      "content": "I want to understand from marketers pov who started with Google Ads or Meta Ads and later moved into programmatic advertising, what was the most difficult part of the transition?\n\nWas it understanding the DSP ecosystem, campaign hierarchy, inventory buying, audience data, bidding, attribution or reporting?\n\nI’m interested in hearing because i'm planning to take up a course soon or later. So, just checking with the experts who are already into this field.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vufgzu",
       "title": "I spent 12 years in programmatic advertising. I built a free 52-lesson guide to explain the industry from the ground up. Looking for feedback.",
       "author": "Soft-Video-5088",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wlhcwv/looking_to_learn_programmatic_advertising_dv360/",
       "created_utc": 1789911548.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wlsle5",
+      "title": "What decisions should an ad platform make autonomously?",
+      "author": "Potential-Phrase-119",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wlsle5/what_decisions_should_an_ad_platform_make/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wlsle5/what_decisions_should_an_ad_platform_make/",
+      "created_utc": 1789937591.0,
+      "content": "I’m getting more comfortable with an ad platform making routine campaign decisions without waiting for approval every time, but I’m still figuring out where that boundary should sit. Pausing something that’s clearly wasting spend or making smaller optimization changes feels pretty different from letting it make a major budget move or change campaign strategy.\nI’d rather set the limits upfront and only get pulled in when a decision has real consequences, otherwise automation just turns into another queue of things to approve so giving these agents autonomy when real money is involved is something I'd wanna involve if I can get comfortable with it ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null

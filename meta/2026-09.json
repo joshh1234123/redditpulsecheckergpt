@@ -854,6 +854,21 @@
       "link_flair_text": null,
       "thread_id": "1wlhcwv",
       "thread_path": "1wlhcwv.json"
+    },
+    {
+      "id": "1wlsle5",
+      "title": "What decisions should an ad platform make autonomously?",
+      "author": "Potential-Phrase-119",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wlsle5/what_decisions_should_an_ad_platform_make/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wlsle5/what_decisions_should_an_ad_platform_make/",
+      "created_utc": 1789937591.0,
+      "content": "I’m getting more comfortable with an ad platform making routine campaign decisions without waiting for approval every time, but I’m still figuring out where that boundary should sit. Pausing something that’s clearly wasting spend or making smaller optimization changes feels pretty different from letting it make a major budget move or change campaign strategy.\nI’d rather set the limits upfront and only get pulled in when a decision has real consequences, otherwise automation just turns into another queue of things to approve so giving these agents autonomy when real money is involved is something I'd wanna involve if I can get comfortable with it ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wlsle5",
+      "thread_path": "1wlsle5.json"
     }
   ]
 }
