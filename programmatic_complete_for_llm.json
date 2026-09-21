@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-21T08:26:22.817563+00:00",
-    "total_posts": 2033,
-    "total_comments": 10344
+    "scrape_date": "2026-09-21T15:14:20.769260+00:00",
+    "total_posts": 2036,
+    "total_comments": 10348
   },
   "discussions": [
     {
@@ -91808,6 +91808,73 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wlsle5/what_decisions_should_an_ad_platform_make/",
       "created_utc": 1789937591.0,
       "content": "I’m getting more comfortable with an ad platform making routine campaign decisions without waiting for approval every time, but I’m still figuring out where that boundary should sit. Pausing something that’s clearly wasting spend or making smaller optimization changes feels pretty different from letting it make a major budget move or change campaign strategy.\nI’d rather set the limits upfront and only get pulled in when a decision has real consequences, otherwise automation just turns into another queue of things to approve so giving these agents autonomy when real money is involved is something I'd wanna involve if I can get comfortable with it ",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wm92mt",
+      "title": "How many xompanies has Infillion aquired by now?",
+      "author": "broadstreetrambler",
+      "score": 6,
+      "url": "https://www.adexchanger.com/marketers/infillion-acquires-foursquare-adding-more-location-data-to-its-ever-growing-ad-tech-stack/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wm92mt/how_many_xompanies_has_infillion_aquired_by_now/",
+      "created_utc": 1789986803.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wmbwb0",
+      "title": "Advertising professionals needed for a short MBA survey on the role of AI in agencies — 2 × €15 Amazon vouchers",
+      "author": "Shangarballz",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wmbwb0/advertising_professionals_needed_for_a_short_mba/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmbwb0/advertising_professionals_needed_for_a_short_mba/",
+      "created_utc": 1789995047.0,
+      "content": "Hi everyone! I’m conducting a short survey (5-8 min) for my MBA thesis on the role of AI in advertising agencies.\n\nI’m especially looking for advertising and marketing professionals from Germany and Austria, but everyone in the field is welcome. The survey takes only a few minutes and covers how AI is changing agency work, tasks, and responsibilities.\n\nAs a thank-you, two participants will be randomly selected to receive a **€15 Amazon voucher** each.\n\nI’d really appreciate your support. Survey-exchange communities unfortunately didn’t help much.\n\n**Survey link:** [https://survey.fh-vie.ac.at/index.php/568158?lang=en](https://survey.fh-vie.ac.at/index.php/568158?lang=en)\n\nThank you!",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "danie-l",
+          "body": "Done! From Frankfurt. Please let me know the end result/thesis results ",
+          "score": 2,
+          "created_utc": 1789998280.0
+        },
+        {
+          "author": "Sweaty_Web6251",
+          "body": "Done from my side ",
+          "score": 1,
+          "created_utc": 1790000535.0
+        },
+        {
+          "author": "Shangarballz",
+          "body": "Thank you so much! Gladly. I am conducting a mixed-research method, qualitative (survey) and quantitative (expert interviews). I am done with the expert interviews, however if you’d like to join or know anyone interested, I can still gather more insights. Also it would be huge help for me if you could share the survey in your network (agency or colleagues). Anyhow, I’ll share the end results when I’m done and thanks again for your support. ",
+          "score": 1,
+          "created_utc": 1789998555.0
+        },
+        {
+          "author": "Shangarballz",
+          "body": "Thank you!",
+          "score": 1,
+          "created_utc": 1790003034.0
+        }
+      ]
+    },
+    {
+      "id": "1wmdnn9",
+      "title": "Requesting questions for a panel",
+      "author": "DonkeyShotz",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wmdnn9/requesting_questions_for_a_panel/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmdnn9/requesting_questions_for_a_panel/",
+      "created_utc": 1789999282.0,
+      "content": "I’ll soon be hosting and moderating a panel at a retail media event, joined on stage by four industry leaders. My role will be to guide the conversation, ask questions, and create space for the panellists to share their perspectives and debate the issues.\n\nThe session will focus on how non-retail businesses are monetising their own inventory and the strategies they’re pursuing. The speakers will represent sectors such as delivery apps, travel, telecommunications, and payments.\n\nI already have a few questions in mind, but I’d love to crowdsource some more from this merry band of experts especially from anyone with insights or experience in these types of businesses.\n\n\n\n",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
