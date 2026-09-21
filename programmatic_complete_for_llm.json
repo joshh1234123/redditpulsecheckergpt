@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-21T15:14:20.769260+00:00",
-    "total_posts": 2036,
+    "scrape_date": "2026-09-21T20:04:48.832553+00:00",
+    "total_posts": 2038,
     "total_comments": 10348
   },
   "discussions": [
@@ -91875,6 +91875,34 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wmdnn9/requesting_questions_for_a_panel/",
       "created_utc": 1789999282.0,
       "content": "I’ll soon be hosting and moderating a panel at a retail media event, joined on stage by four industry leaders. My role will be to guide the conversation, ask questions, and create space for the panellists to share their perspectives and debate the issues.\n\nThe session will focus on how non-retail businesses are monetising their own inventory and the strategies they’re pursuing. The speakers will represent sectors such as delivery apps, travel, telecommunications, and payments.\n\nI already have a few questions in mind, but I’d love to crowdsource some more from this merry band of experts especially from anyone with insights or experience in these types of businesses.\n\n\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wmjcva",
+      "title": "Programmatic advertising in Dubai",
+      "author": "akashpohal12",
+      "score": 1,
+      "url": "/r/UAEjobseekers/comments/1wmjcj8/programmatic_advertising_in_dubai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmjcva/programmatic_advertising_in_dubai/",
+      "created_utc": 1790011631.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wmm8oy",
+      "title": "Reseller growth outpaced direct 4:1 this month, here's the Sept ads.txt breakdown analysis",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wmm8oy/reseller_growth_outpaced_direct_41_this_month/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmm8oy/reseller_growth_outpaced_direct_41_this_month/",
+      "created_utc": 1790017773.0,
+      "content": "Sharing our September numbers here, some interesting shifts from last month's data.\n\nTraffic - Market added 459.7k new ads.txt lines and dropped 404.8k, net +54.9k. Last month was basically flat so this is a real swing back to growth. But the split is what stood out to us, resellers drove +44.6k of that net, direct only +10.3k. Last month publishers were trimming their reseller paths and protecting direct ones, this month that discipline seems to have paused.\n\nSSPs - Nativo had its best month yet, +9.8k lines, leaning on location/household data instead of cookies. Risecodes was right behind at +6.9k. Media net, Sharethrough and InMobi filled out the top 5.\n\nPublisher tiers - All three tiers went positive this month (Low +34.7k, Mid +10.5k, High +9.7k), which fully reverses last month's High-Traffic cleanup. One thing worth flagging though, Low-Traffic's growth is mostly just Nativo, they alone added +8.8k there. So it looks broad but it's a bit more concentrated than it seems at first glance.\n\nDirect - RichAudience led Established SSPs at +126, Nativo close behind at +84. BRAVE had a huge month in Scaling, +509, tied to some server/identity upgrades they made. Global Sun Media topped Emerging at +169.\n\nDuplication - Tier 1 held steady at 46%, but Tier 2 crept up from 38% to 39%. As Scaling SSPs add direct relationships fast, some of that growth is landing on domains that already have a reseller path, which is basically how duplication builds up even in a good month.\n\nTakeaway - Growth is back after a flat month, but it's coming more through resellers than direct, and a chunk of it is riding on one or two SSPs rather than being spread evenly.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vvv2bk",
-      "title": "Mom still thinks I'm directing Super Bowl commercials.",
-      "author": "Flat-Eggplant-9890",
-      "score": 25,
-      "url": "https://i.redd.it/pnp43975d1lh1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vvv2bk/mom_still_thinks_im_directing_super_bowl/",
-      "created_utc": 1787452260.0,
-      "content": "",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vvx6ef",
-      "title": "i spent 3 months testing AI media buying tools across DSPs and walled gardens. here's what actually helped",
-      "author": "Flat-Eggplant-9890",
-      "score": 3,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vvx6ef/i_spent_3_months_testing_ai_media_buying_tools/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vvx6ef/i_spent_3_months_testing_ai_media_buying_tools/",
-      "created_utc": 1787458764.0,
-      "content": "got tired of seeing \"THIS AI LAUNCHES PROFITABLE CAMPAIGNS IN 30 SECONDS\" ads everywhere, so i decided to actually run a few of the AI tools i kept seeing through my workflow across both our programmatic and walled garden stacks.\n\ni work on a small team managing around \\~$34k/mo combined across a couple of DTC and lead gen accounts. to test these properly, i looked at operator time saved and operational friction rather than just chasing pure CPA, because cross platform attribution isn't always a clean apples to apples comparison. the hardest part of evaluating these tools is that better workflow efficiency doesn't always show up immediately in platform metrics. this wasn't a scientific benchmark, just a practical operator test based on the workflows i actually spend time on.\n\nhere is where each category actually helped (and where it didn't):\n\n**Scibids (For Open Web / Custom Bidding)**\n\nif you're running DV360 or TTD, custom bidding tools are a common choice among larger teams. it gives teams more flexibility in building custom optimization logic beyond native DSP algorithms, though it takes some engineering and significant impression volume to feed the models properly. if the data volume and signal quality aren't there, the models have less room to optimize.\n\n**Ryze AI (For Walled Gardens - Google/Meta)**\n\ni know we mostly live in DSPs here, but if you're forced to manage the search/social side too, i tested this to see if it could handle the daily operational loop. it was useful for daily tasks like pacing checks, campaign monitoring, and identifying creative fatigue. the caveat is that it still needs clean account structure and enough historical data to be useful, so thin accounts still need a much longer learning window.\n\nit also has an MCP connector so you can connect ad account data and workflows into Claude via chat, which changes the workflow if you already live in LLM environments\n\n**Creative-only AI (AdCreative / Omneky)**\n\ngenuinely useful for generating variants at volume when your creative team is the bottleneck. but they stop at the asset. somebody still has to build, launch, and watch the campaign, and that somebody is you. fewer shiny assets and more account-level execution is usually what's actually needed.\n\n**The categories that disappointed me:**\n\n* **Platform-Native AI (Google PMax / Meta Advantage+):** fine as a floor. they optimize effectively within their own platforms, so cross-channel allocation decisions still require a broader media view.\n* **Rules-based automation scripts:** the automation only exists at the exact moment you write the rule. a bad rule just becomes an automated bad decision at scale.\n* **Dashboard-only reporting platforms:** beautiful charts, zero actions. you still do all the work, just with better-looking evidence that pacing is behind.\n\n**The takeaway:**\n\nmostly, AI is just saving time at the margins and reducing operational drag. the tools that promise \"fully autonomous advertising\" usually disappoint because strategy and nuance still require a human in the loop.\n\ncurious what DSPs or automation stacks you guys are relying on right now? are AI tools actually changing how you manage campaigns, or are they mostly just making existing workflows slightly faster?",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vwz1em",
       "title": "Buying Spotify audio Ads on Amazon Ads by deal name alone? You're gambling at the moment.",
       "author": "NiceRecognition9603",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wmdnn9/requesting_questions_for_a_panel/",
       "created_utc": 1789999282.0,
       "content": "I’ll soon be hosting and moderating a panel at a retail media event, joined on stage by four industry leaders. My role will be to guide the conversation, ask questions, and create space for the panellists to share their perspectives and debate the issues.\n\nThe session will focus on how non-retail businesses are monetising their own inventory and the strategies they’re pursuing. The speakers will represent sectors such as delivery apps, travel, telecommunications, and payments.\n\nI already have a few questions in mind, but I’d love to crowdsource some more from this merry band of experts especially from anyone with insights or experience in these types of businesses.\n\n\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wmjcva",
+      "title": "Programmatic advertising in Dubai",
+      "author": "akashpohal12",
+      "score": 1,
+      "url": "/r/UAEjobseekers/comments/1wmjcj8/programmatic_advertising_in_dubai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmjcva/programmatic_advertising_in_dubai/",
+      "created_utc": 1790011631.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wmm8oy",
+      "title": "Reseller growth outpaced direct 4:1 this month, here's the Sept ads.txt breakdown analysis",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wmm8oy/reseller_growth_outpaced_direct_41_this_month/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmm8oy/reseller_growth_outpaced_direct_41_this_month/",
+      "created_utc": 1790017773.0,
+      "content": "Sharing our September numbers here, some interesting shifts from last month's data.\n\nTraffic - Market added 459.7k new ads.txt lines and dropped 404.8k, net +54.9k. Last month was basically flat so this is a real swing back to growth. But the split is what stood out to us, resellers drove +44.6k of that net, direct only +10.3k. Last month publishers were trimming their reseller paths and protecting direct ones, this month that discipline seems to have paused.\n\nSSPs - Nativo had its best month yet, +9.8k lines, leaning on location/household data instead of cookies. Risecodes was right behind at +6.9k. Media net, Sharethrough and InMobi filled out the top 5.\n\nPublisher tiers - All three tiers went positive this month (Low +34.7k, Mid +10.5k, High +9.7k), which fully reverses last month's High-Traffic cleanup. One thing worth flagging though, Low-Traffic's growth is mostly just Nativo, they alone added +8.8k there. So it looks broad but it's a bit more concentrated than it seems at first glance.\n\nDirect - RichAudience led Established SSPs at +126, Nativo close behind at +84. BRAVE had a huge month in Scaling, +509, tied to some server/identity upgrades they made. Global Sun Media topped Emerging at +169.\n\nDuplication - Tier 1 held steady at 46%, but Tier 2 crept up from 38% to 39%. As Scaling SSPs add direct relationships fast, some of that growth is landing on domains that already have a reseller path, which is basically how duplication builds up even in a good month.\n\nTakeaway - Growth is back after a flat month, but it's coming more through resellers than direct, and a chunk of it is riding on one or two SSPs rather than being spread evenly.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
