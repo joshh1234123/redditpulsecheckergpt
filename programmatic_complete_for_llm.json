@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-22T20:22:28.493046+00:00",
-    "total_posts": 2043,
-    "total_comments": 10353
+    "scrape_date": "2026-09-22T23:06:50.787195+00:00",
+    "total_posts": 2044,
+    "total_comments": 10356
   },
   "discussions": [
     {
@@ -92009,6 +92009,39 @@
           "body": "Consistent and comparable methods of collection across channels is very difficult to sustain (aka gets real expensive real fast). \n\nIf you are spending your own money for your own insights for your own optimization for your brands then go ahead and have fun building a data sciences team and platform.\n\nBut as soon as you need to defend yourself for somebody else's budget having a third party measurement platform that works with a broad variety of campaigns, metrics, complex distribution and reconciliation of campaigns and data latency AND management of PII data and data laws across different markets you need a third party partner. \n\nThe cost of being wrong or having doubt cast on your methodology is significantly larger as it compounds over time. But if you are able to shift providers or leverage a provider and apply your \"special sauce\" that's the more efficient way to manage data and measurement over the long term.",
           "score": 1,
           "created_utc": 1790086636.0
+        }
+      ]
+    },
+    {
+      "id": "1wno5sn",
+      "title": "New to Programmatic, where do I start? Would love advice",
+      "author": "Interesting-Rise-305",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
+      "created_utc": 1790116264.0,
+      "content": "Hi all, I am a Google/Meta media buyer and very fluent in both ad platforms. One of my clients wants to explore programmatic ads, and I'm struggling with where to start. \n\nThe key objective here is to get through to newer audiences via display channels, the likes of Amazon / Netflix / GPT Ads etc. The target audience will be adventure travellers across the globe. I have a budget of approximately $2500 to start with to explore programmatic. \n\nWhere should I start? What are your favourite Programmatic tools? I would love any and all advice on this. \n\n",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "clawdaddy",
+          "body": "Probably through Meta \n\nThat budget won’t make a dent on the channels you listed",
+          "score": 2,
+          "created_utc": 1790116534.0
+        },
+        {
+          "author": "skr1b",
+          "body": "Way too small of a budget for multiple channels. Pick one… display probably ( meta) to start",
+          "score": 1,
+          "created_utc": 1790116679.0
+        },
+        {
+          "author": "BurnerAcountInnit",
+          "body": "What's your main KPI? Attribution? Pick one and focus on that with that budget, but not CTV. ",
+          "score": 1,
+          "created_utc": 1790117149.0
         }
       ]
     }

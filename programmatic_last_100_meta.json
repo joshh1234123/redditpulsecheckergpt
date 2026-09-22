@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vxy1qe",
-      "title": "Amazon Ads Exclusion Settings",
-      "author": "Enviromental1001",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxy1qe/amazon_ads_exclusion_settings/",
-      "created_utc": 1787659859.0,
-      "content": "Unless Amazon has a 24‑hour update rule, where if you make a targeting setting change, it takes a full 24 hours for the campaign to reflect those changes, I feel like the exclusion function in Amazon Ads doesn’t work.\n\nI want to make Amazon Ads work, but the genre exclusions don’t seem to function properly. The other day, I excluded the Documentary and Reality TV genres, and when I pulled yesterday’s impressions, I still saw shows matching those genres.\n\nI’ve filed a support ticket to ask why the ad would still show, and I’m curious to read support’s response.\n\nThe only reason I like Amazon Ads is the transparency: you can see exactly which title your ad appeared on, which DV360 reporting cannot provide.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vy8isx",
       "title": "Training grounds for AdOps / flight sim - a month later",
       "author": "Lucky_Cardiologist_5",
@@ -1302,6 +1289,19 @@
       "created_utc": 1790084280.0,
       "content": "At a point where attribution is good enough for weekly optimization, but leadership wants stronger proof that campaigns are creating demand rather than collecting conversions.  \nWe can build geo tests and audience holdouts ourselves using warehouse data, but every test turns into a mini analytics project. The alternative is buying an incrementality product or using capabilities inside our measurement stack.  \nDIY gives us control and transparency. A platform would make tests faster and more repeatable, but we might treat another score as unquestionable truth. Our media mix includes Meta, Google, affiliates and a small CTV budget, so the test design varies a lot by channel.  \nFor teams that have bought rather than built, what justified the cost? ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wno5sn",
+      "title": "New to Programmatic, where do I start? Would love advice",
+      "author": "Interesting-Rise-305",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
+      "created_utc": 1790116264.0,
+      "content": "Hi all, I am a Google/Meta media buyer and very fluent in both ad platforms. One of my clients wants to explore programmatic ads, and I'm struggling with where to start. \n\nThe key objective here is to get through to newer audiences via display channels, the likes of Amazon / Netflix / GPT Ads etc. The target audience will be adventure travellers across the globe. I have a budget of approximately $2500 to start with to explore programmatic. \n\nWhere should I start? What are your favourite Programmatic tools? I would love any and all advice on this. \n\n",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
