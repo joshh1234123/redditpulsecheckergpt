@@ -944,6 +944,21 @@
       "link_flair_text": null,
       "thread_id": "1wmm8oy",
       "thread_path": "1wmm8oy.json"
+    },
+    {
+      "id": "1wn28hg",
+      "title": "Self-serve CTV for performance teams, anyone got ROAS measurement they'd defend next to search",
+      "author": "cali-stapley",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn28hg/selfserve_ctv_for_performance_teams_anyone_got/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn28hg/selfserve_ctv_for_performance_teams_anyone_got/",
+      "created_utc": 1790060382.0,
+      "content": "Performance TV advertising came up in planning again, self serve CTV specifically, and ROAS measurement is where it stalls every time we look at it. our CAC on search and social has drifted up for four quarters straight so the pressure to open another line is real. What I haven't seen is a CTV setup where I can defend the reported return in the same meeting where I defend the search numbers (post view windows do a lot of heavy lifting in those dashboards). \n\nI asked two people I trust and they told me to stop asking the platform and just run a holdout, make peace with the fact that the reporting is directional and judge the channel on blended CAC over a quarter. It's a harder sell internally than dashboard numbers but it's probably right.\n\nFor the perf people who did open CTV, how are you reporting it upward and did anyone push back?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wn28hg",
+      "thread_path": "1wn28hg.json"
     }
   ]
 }

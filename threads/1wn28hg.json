@@ -1,0 +1,22 @@
+{
+  "id": "1wn28hg",
+  "thread_id": "1wn28hg",
+  "title": "Self-serve CTV for performance teams, anyone got ROAS measurement they'd defend next to search",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wn28hg/selfserve_ctv_for_performance_teams_anyone_got/",
+  "created_utc": 1790060382.0,
+  "num_comments": 2,
+  "comments": [
+    {
+      "author": "Temporary_Visit4871",
+      "body": "I used to do that when I worked at an independent DSP.\n\nYou just gotta find a vendor that does CTV and connects mobile/desktop performance via IP address to track ROAS.\n\nIt's obviously not a perfect solution, and it does promote some sketchy practices by the vendor, but it puts a number on a dashboard",
+      "score": 1,
+      "created_utc": 1790060663.0
+    },
+    {
+      "author": "joeychestnutsrectum",
+      "body": "Yeah because that’s not how CTV works. You can’t just drop to the bottom of the funnel, if you only spend on search no one knows who you are. Roas is a dumb metric for dumb people to sell other dumb people. ",
+      "score": 1,
+      "created_utc": 1790060774.0
+    }
+  ]
+}
