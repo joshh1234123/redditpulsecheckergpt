@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vxgepg",
-      "title": "Amazon Ads - Prime Video",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxgepg/amazon_ads_prime_video/",
-      "created_utc": 1787607580.0,
-      "content": "For Prime Auction they have a general one at $9 floor and then various categories at $18 floor like Drama, Action etc\n\nIs the categories at the higher floor better “titles” your ad will show on?\n\nTrying to understand the benefit of the higher floor vs using general auction and using exclusions.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vxtqg4",
-      "title": "Why are we still comparing GDN performance directly against DSP performance?",
-      "author": "Select-Election-92",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vxtqg4/why_are_we_still_comparing_gdn_performance/",
-      "created_utc": 1787645925.0,
-      "content": "I constantly see traders say: *“Why would I pay a DSP fee when GDN gets me a lower CPM / CPA?”*  \n  \nBut **GDN isn't a DSP!**  \n  \nThey're fundamentally different buying environments, with different supply, inventory access, auction dynamics, targeting and optimisation.  \n  \nSo when someone says *“I tested GDN vs DSP X and GDN won,”* I'm curious what that actually proves.  \n  \nIf GDN can find cheaper conversions within Google's ecosystem, great. But does that mean it's a substitute for broader programmatic buying?  \n  \nCheap CPM ≠ better media.  \nLower CPA ≠ more incremental value.  \nHigher CTR ≠ better inventory.  \n  \nI'd be interested to hear from traders who've genuinely compared the two on incrementality, reach, inventory quality and scalability.  \n  \nIs GDN actually a substitute for a DSP, or are we comparing two fundamentally different products because the headline metrics are easier to measure?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vxy1qe",
       "title": "Amazon Ads Exclusion Settings",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1790080952.0,
       "content": "We are working with the index , pubmatic and google ad manager ssp but we don't have much to do on ssp side so how can we improve lower campaign funnel like landing and conversion because when compared to the open exchange do guide me really need help over here\n\nLet me know the best practices to make a deal to perform this for the dv360 dsp",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wn8qml",
+      "title": "Anybody heard of Active/AMS?",
+      "author": "NewOrleansSpeed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn8qml/anybody_heard_of_activeams/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn8qml/anybody_heard_of_activeams/",
+      "created_utc": 1790081741.0,
+      "content": "Recently started at a place where AMS/Active is a seat holder and trader. Apparently a barter company? Never heard of them, but judging by set ups I’m very concerned lmao. \n\nAnybody work with them before? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wn9rhv",
+      "title": "Buying an incrementality tool or building tests ourselves? Which one works",
+      "author": "Soobhee_Chukwutosin",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn9rhv/buying_an_incrementality_tool_or_building_tests/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn9rhv/buying_an_incrementality_tool_or_building_tests/",
+      "created_utc": 1790084280.0,
+      "content": "At a point where attribution is good enough for weekly optimization, but leadership wants stronger proof that campaigns are creating demand rather than collecting conversions.  \nWe can build geo tests and audience holdouts ourselves using warehouse data, but every test turns into a mini analytics project. The alternative is buying an incrementality product or using capabilities inside our measurement stack.  \nDIY gives us control and transparency. A platform would make tests faster and more repeatable, but we might treat another score as unquestionable truth. Our media mix includes Meta, Google, affiliates and a small CTV budget, so the test design varies a lot by channel.  \nFor teams that have bought rather than built, what justified the cost? ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

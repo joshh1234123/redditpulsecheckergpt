@@ -989,6 +989,36 @@
       "link_flair_text": null,
       "thread_id": "1wn8fyv",
       "thread_path": "1wn8fyv.json"
+    },
+    {
+      "id": "1wn8qml",
+      "title": "Anybody heard of Active/AMS?",
+      "author": "NewOrleansSpeed",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn8qml/anybody_heard_of_activeams/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn8qml/anybody_heard_of_activeams/",
+      "created_utc": 1790081741.0,
+      "content": "Recently started at a place where AMS/Active is a seat holder and trader. Apparently a barter company? Never heard of them, but judging by set ups I’m very concerned lmao. \n\nAnybody work with them before? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wn8qml",
+      "thread_path": "1wn8qml.json"
+    },
+    {
+      "id": "1wn9rhv",
+      "title": "Buying an incrementality tool or building tests ourselves? Which one works",
+      "author": "Soobhee_Chukwutosin",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn9rhv/buying_an_incrementality_tool_or_building_tests/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn9rhv/buying_an_incrementality_tool_or_building_tests/",
+      "created_utc": 1790084280.0,
+      "content": "At a point where attribution is good enough for weekly optimization, but leadership wants stronger proof that campaigns are creating demand rather than collecting conversions.  \nWe can build geo tests and audience holdouts ourselves using warehouse data, but every test turns into a mini analytics project. The alternative is buying an incrementality product or using capabilities inside our measurement stack.  \nDIY gives us control and transparency. A platform would make tests faster and more repeatable, but we might treat another score as unquestionable truth. Our media mix includes Meta, Google, affiliates and a small CTV budget, so the test design varies a lot by channel.  \nFor teams that have bought rather than built, what justified the cost? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wn9rhv",
+      "thread_path": "1wn9rhv.json"
     }
   ]
 }
