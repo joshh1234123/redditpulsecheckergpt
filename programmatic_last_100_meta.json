@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1vwzww5",
-      "title": "Buying Spotify audio Ads on Amazon DSP by deal name? You're gambling at the moment.",
-      "author": "NiceRecognition9603",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vwzww5/buying_spotify_audio_ads_on_amazon_dsp_by_deal/",
-      "created_utc": 1787570244.0,
-      "content": "# Danger 1: Four deals have typos and name the wrong country\n\nDeals from Spotify (SAX) have problems in their naming.\n\nTwo named United States sell Ireland. Two deals named Brazil sell Australia. Example\n\n**3PS\\_SAX\\_Spotify\\_US\\_Amazon\\_Music Audio\\_RON\\_Always On** reads **United States** no? Sadly two deals share that name, one US, one Ireland with a typo in it.\n\n**How to find the right one?** Read the currency not the name. It sits next to the price in the deals inventory list, and if a deal names one country and is priced in another country's money then the name is wrong. To see it for yourself, open the deal and read the Attributes tab, where the country breakdown is.\n\n# Danger 2: The same deals are in there twice\n\nWhen Amazon and Spotify announced their partnership on 2025, Amazon DSP was not buying from it directly. It was buying through Magnite, a reseller. On July 2026 Spotify connected its exchange straight into Amazon DSP and extra inventory podcast came with it. The Magnite deals were never removed. So you have 2 options:\n\n* **Straight from Spotify (Recommended):** search \"SAX\", which is short for Spotify Ad Exchange. It is in every one of those deals.\n* **Through Magnite:** fewer countries, and no podcast. The video costs more, sometimes close to double. And they carry their own typos too. So just stay away form them.\n\n**Where can you find the deals inventory list on Amazon DSP Interface**\n\nIn Amazon DSP, click Inventory on the left bar. The search box takes the deal name, and opening a deal gives you its Attributes tab.\n\nIf you cannot see a deals inventory list at all, you are probably on a subseat from your tool provider. Ask them for inventory access.\n\n**Where you buy what if you use Amazon's interface**\n\nIn a campaign's inventory settings:\n\n* **Banners.** Tick the Spotify box after clicking display. It buys banners and nothing else.\n\nIn the deals inventory list:\n\n* **Audio**\n* **Music video (OLV)**\n* **Podcasts**\n\n**Where it runs**\n\nIgnore the announcements and the support pages, they are behind.\n\n* **Banners, audio, OLV and podcasts:** US, UK, Canada, Germany, France, Italy, Spain, Brazil, Mexico, Australia, Japan\n* **Audio and OLV only:** Ireland, India\n* **Audio and banners only:** Netherlands\n* **Podcasts and banners only:** New Zealand\n* **Banners only:** United Arab Emirates, Saudi Arabia, Singapore, Sweden, Turkey.\n\nThis covers the basics. I put a longer breakdown on our tool [website](https://victor.ad/academy/spotify-amazon-dsp), but this is all the key information to start without problems.\n\nIf you read something differently on your seat, tell me.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1vx0lie",
-      "title": "Omnicom offloads OMNI eng & product talent to 3P contractor",
-      "author": "broadstreetrambler",
-      "score": 1,
-      "url": "https://www.adweek.com/agencies/exclusive-omnicom-offloads-hundreds-of-staffers-who-built-its-ai-platform-to-third-party-contractor/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1vx0lie/omnicom_offloads_omni_eng_product_talent_to_3p/",
-      "created_utc": 1787572257.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1vxgepg",
       "title": "Amazon Ads - Prime Video",
       "author": "Enviromental1001",
@@ -1302,6 +1276,32 @@
       "created_utc": 1790060382.0,
       "content": "Performance TV advertising came up in planning again, self serve CTV specifically, and ROAS measurement is where it stalls every time we look at it. our CAC on search and social has drifted up for four quarters straight so the pressure to open another line is real. What I haven't seen is a CTV setup where I can defend the reported return in the same meeting where I defend the search numbers (post view windows do a lot of heavy lifting in those dashboards). \n\nI asked two people I trust and they told me to stop asking the platform and just run a holdout, make peace with the fact that the reporting is directional and judge the channel on blended CAC over a quarter. It's a harder sell internally than dashboard numbers but it's probably right.\n\nFor the perf people who did open CTV, how are you reporting it upward and did anyone push back?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wn4ihc",
+      "title": "For programmatic jobs in India, should a beginner learn DV360, CM360 or The Trade Desk first?",
+      "author": "gvshivacharan",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
+      "created_utc": 1790068695.0,
+      "content": "I’m trying to understand the most useful learning order for someone aiming for a junior programmatic role in India.\n\nDV360 and The Trade Desk are buying platforms, while CM360 is used for ad serving and measurement. If a beginner has limited time, where would you suggest they start?\n\nI’d especially like to hear from people involved in hiring or training junior traders: which skills do new joiners actually use first, and which can they learn on the job?\n\nFor context, I’m already associated with a programmatic training provider in India. Now, I want to know about skill priorities and i'm not looking for course recommendations.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wn8fyv",
+      "title": "Ssp performance",
+      "author": "Blasterblade_09",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn8fyv/ssp_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn8fyv/ssp_performance/",
+      "created_utc": 1790080952.0,
+      "content": "We are working with the index , pubmatic and google ad manager ssp but we don't have much to do on ssp side so how can we improve lower campaign funnel like landing and conversion because when compared to the open exchange do guide me really need help over here\n\nLet me know the best practices to make a deal to perform this for the dv360 dsp",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }

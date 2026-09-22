@@ -959,6 +959,36 @@
       "link_flair_text": null,
       "thread_id": "1wn28hg",
       "thread_path": "1wn28hg.json"
+    },
+    {
+      "id": "1wn4ihc",
+      "title": "For programmatic jobs in India, should a beginner learn DV360, CM360 or The Trade Desk first?",
+      "author": "gvshivacharan",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
+      "created_utc": 1790068695.0,
+      "content": "I’m trying to understand the most useful learning order for someone aiming for a junior programmatic role in India.\n\nDV360 and The Trade Desk are buying platforms, while CM360 is used for ad serving and measurement. If a beginner has limited time, where would you suggest they start?\n\nI’d especially like to hear from people involved in hiring or training junior traders: which skills do new joiners actually use first, and which can they learn on the job?\n\nFor context, I’m already associated with a programmatic training provider in India. Now, I want to know about skill priorities and i'm not looking for course recommendations.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wn4ihc",
+      "thread_path": "1wn4ihc.json"
+    },
+    {
+      "id": "1wn8fyv",
+      "title": "Ssp performance",
+      "author": "Blasterblade_09",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wn8fyv/ssp_performance/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn8fyv/ssp_performance/",
+      "created_utc": 1790080952.0,
+      "content": "We are working with the index , pubmatic and google ad manager ssp but we don't have much to do on ssp side so how can we improve lower campaign funnel like landing and conversion because when compared to the open exchange do guide me really need help over here\n\nLet me know the best practices to make a deal to perform this for the dv360 dsp",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wn8fyv",
+      "thread_path": "1wn8fyv.json"
     }
   ]
 }
