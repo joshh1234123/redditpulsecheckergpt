@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-23T23:23:14.930950+00:00",
-    "total_posts": 2045,
+    "scrape_date": "2026-09-24T01:34:05.253978+00:00",
+    "total_posts": 2046,
     "total_comments": 10368
   },
   "discussions": [
@@ -92131,6 +92131,20 @@
           "created_utc": 1790180565.0
         }
       ]
+    },
+    {
+      "id": "1woo22k",
+      "title": "Holiday programmatic data from 1B+ Q4 impressions",
+      "author": "maryna-gc",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1woo22k/holiday_programmatic_data_from_1b_q4_impressions/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1woo22k/holiday_programmatic_data_from_1b_q4_impressions/",
+      "created_utc": 1790212502.0,
+      "content": "We analyzed 1B+ Q4 impressions across our platform and put together a 2026 holiday guide. Here are the patterns that seemed most useful for anyone planning Q4 right now.\n\n**Each month shows a different signal:**\n\n* September: build audiences before purchase intent peaks.\n* October: CPMs rise, so optimization and audience quality matter more.\n* November: this is where conversion intent really shows up.\n* December: CPMs come back down while available volume goes up.\n\n**You don't build a Black Friday audience on Black Friday.**\n\nAverage results by tactic for DTC advertisers:\n\n* Prospecting: 2.5x ROAS\n* Interest targeting: 4.1x ROAS\n* Site remarketing: 10.2x ROAS\n\nRemarketing only hit 10.2x because the audience pool had already been built earlier in the season.\n\n**Creative timing matters as much as targeting.**\n\nWe compared messaging inside a single remarketing campaign. The audience, campaign structure and CPMs were essentially the same.\n\n* Generic messaging: 5.4–5.8x ROAS\n* Holiday-specific creative: 10.8–26.7x ROAS\n\n\n\nCurious what others are seeing. Are you starting prospecting earlier this year, or still going heavy in November?\n\nThe full guide is free if you want the rest of the data: [https://www.growthchannel.com/holiday-advertising-guide](https://www.growthchannel.com/holiday-advertising-guide)\n\n*Disclaimer: I work at a programmatic ad platform.*",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
