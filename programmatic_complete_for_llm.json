@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-27T14:28:59.623161+00:00",
-    "total_posts": 2051,
-    "total_comments": 10368
+    "scrape_date": "2026-09-27T18:36:05.110998+00:00",
+    "total_posts": 2053,
+    "total_comments": 10369
   },
   "discussions": [
     {
@@ -92211,6 +92211,41 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1wqrgyo/is_ad_tech_would_be_s_great_choice/",
       "created_utc": 1790431730.0,
       "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wrpuvf",
+      "title": "What are the best AI ads ​​​​t​​​​o​​​​o​​​​l​​​​s​​​ in 2026? I tested them all so you don't need to",
+      "author": "Outside-Coconut-9637",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wrpuvf/what_are_the_best_ai_ads_tools_in_2026_i_tested/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wrpuvf/what_are_the_best_ai_ads_tools_in_2026_i_tested/",
+      "created_utc": 1790529489.0,
+      "content": "\n\nI keep seeing ​​​​r​​​​e​​​​c​​​​o​​​​m​​​​m​​​​e​​​​n​​​​d​​​​a​​​​t​​​​i​​​​o​​​​n​​​​s​​​ for AI tools that run paid ads, but every time I try one I find it fails at something. Some don't connect to the accounts at all, others produce slop. Some only see one platform, while others will happily tell you what's wrong and then leave the actual fixing to you.\n\n\n\nWith so many tools out there, how can you find the best one? Well here's what I found after four months and about $60k in spend across Google and Meta.\n\n\n\nTHE BEST:\n\n\n\nRyze AI— the clear number one and it isn't close. Google and Meta connected to one brain, a plain-English brief in and a real build out, and then it keeps managing: budget shifts, bid changes, pausing losers, scaling winners, and a weekly report that explains what it changed and why. Blended CPA went from $44.20 to $28.90 over four months and my hands-on time dropped from nine hours a week to about ninety minutes. Plans start at $129/mo. The only knock is that week one is a trust ramp where you'll want to read every change before approving it.\n\n\n\nPlatform-native AI — the automated campaign types inside each ad platform. Convenient because it's right there, and genuinely fine for a simple prospecting push. The limitation is structural: it only ever sees its own platform, so nothing it decides accounts for what the other channel is doing with the same budget.\n\n\n\nA rules-and-alerts dashboard — this is great if you mostly want a safety net. Set your thresholds, get told when something breaks, sleep slightly better. It's not really AI and it doesn't act, but for a small account where you're already in the UI daily, it's often enough.\n\n\n\nA generic AI copy writer — really useful if your bottleneck is creative volume rather than management. Headlines, primary text, angle variants, endlessly and quickly. It sits completely outside the account though, so someone still has to take the output and go run it.\n\n\n\nA freelance media buyer — this one is built more for businesses who want a human owning the strategy. For that specific use-case it's excellent, and a good one will catch things software won't. Cost is the catch: roughly eleven times what the tools run, and they're asleep when your CPA spikes at 3am.\n\n\n\nAn agency — best for companies who need the whole function outsourced, including the parts that aren't ads. It works particularly well when there's nobody in-house to own the channel, but it's the slowest to change direction and by far the most expensive option here.\n\n\n\nA spreadsheet and a calendar — can't talk about running ads without a nod to just doing it yourself properly. It's especially strong when you care about understanding your own account, and honestly beats a badly-configured tool. It just doesn't scale past one person's attention span.\n\n\n\nNOT WORTH IT:\n\n\n\nBrowser automation scripts: useful for clicking through repetitive setup inside the ad platforms, but it feels more like a fragile macro than a differentiated system. Any UI change breaks it, and I'd keep it well away from anything with real budget attached.\n\n\n\nRank-and-report style tools rebranded as 'AI ads': these mostly repackage reporting you already get for free in the platforms, with a summary paragraph on top. There's no build step, no optimization step, and nothing that touches the account. I'd omit them entirely when you're testing tools that are supposed to do the work.",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "goodgoaj",
+          "body": "The gig is up Ryze employee. \nAnd with the greatest of respect, any AI tool without good measurement is snake oil central ",
+          "score": 2,
+          "created_utc": 1790531638.0
+        }
+      ]
+    },
+    {
+      "id": "1wrqkq1",
+      "title": "Is ad tech would be s great choice?",
+      "author": "MammothDisastrous978",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wrqkq1/is_ad_tech_would_be_s_great_choice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wrqkq1/is_ad_tech_would_be_s_great_choice/",
+      "created_utc": 1790531206.0,
+      "content": "Hi guys, I am working in ops department at saas company, where I work on ad data, brands advertisers classifying them, creating products in system, multiple markets, bilngual ads, types and providers, as this is my first job, bit confused what to learn, how to evolve, will adtech suits me? Guide me ",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
