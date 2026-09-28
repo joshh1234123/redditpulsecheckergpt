@@ -1169,6 +1169,21 @@
       "link_flair_text": null,
       "thread_id": "1wrqkq1",
       "thread_path": "1wrqkq1.json"
+    },
+    {
+      "id": "1wshnko",
+      "title": "Programmatic Pause Ads launch on Netflix from **28 September 2026** (Open Beta).",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://i.redd.it/18zfn5ph4ash1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wshnko/programmatic_pause_ads_launch_on_netflix_from_28/",
+      "created_utc": 1790609242.0,
+      "content": "Pause Ads are being introduced as a programmatic open-beta product, designed to sit alongside existing programmatic video buys.\n\n* **Buying model:** Pause Ads are available via **PMP (non-guaranteed) only**.[ Manual deals with Netflix](https://airtable.com/appgR3zCfmlwU2F1e/pagZbcjiMIAkROgrx/form), not ready made or automate deals. They can be later activated on a variety of DSPs like Amazon DSP, Google and TTD.\n* **How the ad works:** When a Netflix member pauses content and remains inactive for **5 seconds**, a full-screen Pause Ad appears. The ad disappears when viewing resumes.\n* **Better together:** Netflix reports stronger performance across upper- and lower-funnel metrics when Video + Pause Ads are used together, including purchase intent, ad recall and brand recommendation. I will exclude their numbers but an uplift makes sense\n* **Creative format:** Pause Ads use a **transparent PNG or JPEG**, with recommended dimensions between **1728×1440 and 2592×2160**; the minimum size is **1728×1440**.\n* **Creative process:** Netflix reviews the asset, creates a Pause Ad mock-up for client approval, then traffics and quality-checks the campaign.\n* **Lead time:** Netflix states an overall **10-business-day timeline** from receipt of creative assets to going live.\n* **Interactive features:** **QR codes/interactive features are not available at programmatic launch**.\n* **UK minimum spend:** UK Pause Ad minimum is approximately **£10k**. However, Netflix recommends combining Pause Ads with standard video and increasing spend to the general minimum.\n* **CPM:** Early tests CPM suggests on planning on approximately **£21–£25**.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wshnko",
+      "thread_path": "1wshnko.json"
     }
   ]
 }
