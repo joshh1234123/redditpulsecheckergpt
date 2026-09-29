@@ -1,0 +1,16 @@
+{
+  "id": "1wtjywu",
+  "thread_id": "1wtjywu",
+  "title": "Just wrapped this month's programmatic trends analysis, sharing below. Overall CPMs rebounded 19.3% while  video CPMs fell by 3.4%",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wtjywu/just_wrapped_this_months_programmatic_trends/",
+  "created_utc": 1790710940.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "ZestycloseShake8498",
+      "body": "The video vs. CTV divergence is the most interesting line here to me. On the publisher side, I've seen this split play out as basically two different demand pools reacting differently to the same macro recovery: open-web video (pre-roll/mid-roll on regular web pages) is competing against a much wider pool of format alternatives for the same budget, so it's slower to reprice upward even when overall demand comes back. CTV inventory doesn't have that competition — there's no display/native alternative sitting next to it — so when buyers come back, the CPM recovery shows up faster and cleaner there.\n\nThe AdX vs. Prebid gap closing to 41/42 is worth watching too. That's usually less about AdX losing demand and more about publishers adding more header bidding partners into the mix over time, which mechanically shrinks AdX's relative share even if its absolute revenue is flat or growing. Would be interesting to see that broken out by AdX's own CPM trend in isolation rather than just its share of the pie.",
+      "score": 1,
+      "created_utc": 1790716776.0
+    }
+  ]
+}

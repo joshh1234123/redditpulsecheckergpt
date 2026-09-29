@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w09vr2",
-      "title": "Best DSP for growing business?",
-      "author": "Less-Selection1127",
-      "score": 6,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w09vr2/best_dsp_for_growing_business/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w09vr2/best_dsp_for_growing_business/",
-      "created_utc": 1787872748.0,
-      "content": "We’re a growing mid-market brand scaling past “just run it through the agency’s login” and want our own DSP seat.\n\nNot looking for the enterprise stack that assumes $500k/month and a 12-person programmatic team. Also not looking for the two platforms everyone defaults to in this sub for SMBs. We already looked at StackAdapt and Basis. They’re off the table. Please don’t recommend them.\n\nWhat we actually need:\n\n•  Own seat, not a sub-seat under someone else’s account. We want the data, the log-level stuff, and the ability to bring this in-house later without starting from zero.  \n•  Some kind of seat credit / onboarding credit / media credit to make the first 60–90 days less painful. If the platform is going to charge a platform fee plus data plus verification, we need a little cushion while we learn the UI and figure out what actually works.  \n•  Flexible operating model. Self-serve with real support when we get stuck, not “you’re either fully managed or you’re on your own with a help center.” Hybrid is ideal.  \n•  Actually keeping up. Privacy / signal loss, CTV, retail media, identity, AI optimization — we don’t need every shiny feature, but we also don’t want a platform that still feels like 2019 with a new homepage.\n\nHope this helps!",
-      "num_comments": 13,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1w0ipn4",
-      "title": "If you were hiring a junior programmatic advertiser, what practical task would you give them? For your context, I’m associated with a programmatic training provider and want to understand what employers expect from junior candidates.",
-      "author": "gvshivacharan",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w0ipn4/if_you_were_hiring_a_junior_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w0ipn4/if_you_were_hiring_a_junior_programmatic/",
-      "created_utc": 1787898471.0,
-      "content": "Would you give them a sample campaign report to interpret, an underspending campaign to troubleshoot, or a brief to build a media plan around?",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w0uvc9",
       "title": "Do remote jobs exist in programmatic?",
       "author": "TheGrandLeveler",
@@ -1302,6 +1276,32 @@
       "created_utc": 1790638781.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wtib20",
+      "title": "Programmatic Optimization Interview Questions",
+      "author": "Ill-Zucchini7313",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wtib20/programmatic_optimization_interview_questions/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtib20/programmatic_optimization_interview_questions/",
+      "created_utc": 1790707140.0,
+      "content": "Hi! I would like to know what kind of complex optimization questions get asked in Programmatic Advertising- technical questions. Please share examples.",
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wtjywu",
+      "title": "Just wrapped this month's programmatic trends analysis, sharing below. Overall CPMs rebounded 19.3% while  video CPMs fell by 3.4%",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wtjywu/just_wrapped_this_months_programmatic_trends/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtjywu/just_wrapped_this_months_programmatic_trends/",
+      "created_utc": 1790710940.0,
+      "content": "We analyzed 35B+ impressions, $55M+ in monthly publisher revenue across 200+ demand partners for our latest US programmatic trends.  \n   \nfew things we stood out:\n\n* Overall CPMs bounced back to 19.3% MoM and 43.0% YoY but the recovery wasn’t even across all the formats - Display CPMs was up 14.9% MoM, while Video CPMs are actually fell 3.4%, even though it’s still up 14.3% YoY.\n* Desktop and Mobile device formats were almost at parity - $1.62 and $1.61.  CTV also rebounded up 16.4% MoM to $6.39.\n* On the integration side, AdX is now at 41% share vs. 42% for Prebid (That gap is getting pretty small)\n* TTD was another interesting one.. its share of DSP revenue fell from 18.9% in March to 10.8% in August, while impression share edged up from 14.8% to 15.5%. Its CPM also fell 43% from $3.08 to $1.74.\n* Traffic pulled back too, with sessions down by 8.9% but page views per session was up to 3.0%.\n\nThe big takeaway for us: programmatic demand is back, but the recovery looks very different depending on the format and buyer.\n\n",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

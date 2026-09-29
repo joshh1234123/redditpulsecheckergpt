@@ -1,0 +1,82 @@
+{
+  "id": "1wtib20",
+  "thread_id": "1wtib20",
+  "title": "Programmatic Optimization Interview Questions",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wtib20/programmatic_optimization_interview_questions/",
+  "created_utc": 1790707140.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "Jake_dasnake3",
+      "body": "Completely depends on what kind of company and what kind of role. ",
+      "score": 3,
+      "created_utc": 1790708201.0
+    },
+    {
+      "author": "Jackescalator",
+      "body": "Your PMP isnt working how do you troubleshoot ",
+      "score": 2,
+      "created_utc": 1790710680.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Have you worked in these platforms?",
+      "score": 1,
+      "created_utc": 1790711476.0
+    },
+    {
+      "author": "champt1000",
+      "body": "Campaign is underperforming X goal, what is everything you might look at in platform in order to optimize said campaign and what actions would you specifically take as a result.",
+      "score": 1,
+      "created_utc": 1790715000.0
+    },
+    {
+      "author": "Sonic-the-seattle411",
+      "body": "What is your experience buying in solimar, kokai, and zuma? What rails are you looking at first? What is your experience adjusting bid factors? What audience forecasting are you giving- \n\nYou have 20k of incremental spend- where is it going and what are you looking for- ",
+      "score": 1,
+      "created_utc": 1790715163.0
+    },
+    {
+      "author": "akornato",
+      "body": "Technical programmatic interview questions usually come as scenario based troubleshooting or live dataset analysis. Interviewers frequently ask what you would do if a campaign is severely underpacing, forcing you to walk through floor prices, bid shading rules, strict frequency caps, inventory availability, and pre-bid verification blocks. Another classic prompt tests your handling of performance issues, such as a line item hitting a high clickthrough rate with zero conversions, which pushes you to diagnose click fraud, accidental mobile app clicks, attribution discrepancies between the ad server and the DSP, or pixel firing errors. You should also expect questions around auction dynamics, like adjusting bid density in first price auctions, eliminating redundant supply paths through supply path optimization, and managing frequency when third party cookies or mobile device identifiers are missing.\n\n  \nIn senior rounds, hiring managers often hand you a raw spreadsheet and give you twenty minutes to spot media waste, assess viewability thresholds, and reallocate budget across high performing exchanges. They do not just care about platform settings, they want to hear how you prioritize trade offs between delivery volume and client performance targets. Walking through these multi layered scenarios out loud helps you structure your reasoning under pressure, which is why my team built [interviews.chat](http://interviews.chat) so media traders can present clean solutions and land senior roles.",
+      "score": 1,
+      "created_utc": 1790718301.0
+    },
+    {
+      "author": "Ill-Zucchini7313",
+      "body": "Could you give me some examples from your previous experience with any company ",
+      "score": 1,
+      "created_utc": 1790708323.0
+    },
+    {
+      "author": "Ill-Zucchini7313",
+      "body": "For a Programmatic Manager position working with Dv360 and TTD",
+      "score": 1,
+      "created_utc": 1790708536.0
+    },
+    {
+      "author": "Ill-Zucchini7313",
+      "body": "Yes ",
+      "score": 1,
+      "created_utc": 1790712042.0
+    },
+    {
+      "author": "Jirekshun",
+      "body": "Is it for WPP? ",
+      "score": 2,
+      "created_utc": 1790708897.0
+    },
+    {
+      "author": "EarthPrimer",
+      "body": "Well, do you have examples of optimizations you’ve made helping campaign performance from your experience in these platforms?",
+      "score": 1,
+      "created_utc": 1790720859.0
+    },
+    {
+      "author": "Ill-Zucchini7313",
+      "body": "Yes ",
+      "score": 1,
+      "created_utc": 1790709847.0
+    }
+  ]
+}
