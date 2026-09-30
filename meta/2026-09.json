@@ -1229,6 +1229,21 @@
       "link_flair_text": null,
       "thread_id": "1wtjywu",
       "thread_path": "1wtjywu.json"
+    },
+    {
+      "id": "1wtu0i9",
+      "title": "Apple’s Latest Operating System Blocks The Trade Desk From Serving Ads On Safari",
+      "author": "Select-Election-92",
+      "score": 38,
+      "url": "https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtu0i9/apples_latest_operating_system_blocks_the_trade/",
+      "created_utc": 1790737432.0,
+      "content": "This is kind of a big deal; the domain being blocked is part of how TTD fundamentally serve their ads which if kept in place could cause huge issues and some timely development work.\n\nInterestingly, Google and other DSP's are unaffected - it could be a mistake, but it seems unlikely. ",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wtu0i9",
+      "thread_path": "1wtu0i9.json"
     }
   ]
 }

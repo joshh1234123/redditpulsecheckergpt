@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w0uvc9",
-      "title": "Do remote jobs exist in programmatic?",
-      "author": "TheGrandLeveler",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w0uvc9/do_remote_jobs_exist_in_programmatic/",
-      "created_utc": 1787933451.0,
-      "content": "Hi guys,\n\nHow common is it in this industry to work fully remote? Mostly interested for EU as I think in US it's already kinda common.\n\nAlso, has anyone in one of the big 4 agencies managed that?\n\nCheers",
-      "num_comments": 10,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w16cam",
       "title": "Is MNTN actually bad?",
       "author": "One-Carpenter-1545",
@@ -1302,6 +1289,19 @@
       "created_utc": 1790710940.0,
       "content": "We analyzed 35B+ impressions, $55M+ in monthly publisher revenue across 200+ demand partners for our latest US programmatic trends.  \n   \nfew things we stood out:\n\n* Overall CPMs bounced back to 19.3% MoM and 43.0% YoY but the recovery wasn’t even across all the formats - Display CPMs was up 14.9% MoM, while Video CPMs are actually fell 3.4%, even though it’s still up 14.3% YoY.\n* Desktop and Mobile device formats were almost at parity - $1.62 and $1.61.  CTV also rebounded up 16.4% MoM to $6.39.\n* On the integration side, AdX is now at 41% share vs. 42% for Prebid (That gap is getting pretty small)\n* TTD was another interesting one.. its share of DSP revenue fell from 18.9% in March to 10.8% in August, while impression share edged up from 14.8% to 15.5%. Its CPM also fell 43% from $3.08 to $1.74.\n* Traffic pulled back too, with sessions down by 8.9% but page views per session was up to 3.0%.\n\nThe big takeaway for us: programmatic demand is back, but the recovery looks very different depending on the format and buyer.\n\n",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wtu0i9",
+      "title": "Apple’s Latest Operating System Blocks The Trade Desk From Serving Ads On Safari",
+      "author": "Select-Election-92",
+      "score": 38,
+      "url": "https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtu0i9/apples_latest_operating_system_blocks_the_trade/",
+      "created_utc": 1790737432.0,
+      "content": "This is kind of a big deal; the domain being blocked is part of how TTD fundamentally serve their ads which if kept in place could cause huge issues and some timely development work.\n\nInterestingly, Google and other DSP's are unaffected - it could be a mistake, but it seems unlikely. ",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-30T01:25:17.837289+00:00",
-    "total_posts": 2057,
-    "total_comments": 10382
+    "scrape_date": "2026-09-30T06:59:54.304687+00:00",
+    "total_posts": 2058,
+    "total_comments": 10388
   },
   "discussions": [
     {
@@ -92384,6 +92384,57 @@
           "body": "The video vs. CTV divergence is the most interesting line here to me. On the publisher side, I've seen this split play out as basically two different demand pools reacting differently to the same macro recovery: open-web video (pre-roll/mid-roll on regular web pages) is competing against a much wider pool of format alternatives for the same budget, so it's slower to reprice upward even when overall demand comes back. CTV inventory doesn't have that competition — there's no display/native alternative sitting next to it — so when buyers come back, the CPM recovery shows up faster and cleaner there.\n\nThe AdX vs. Prebid gap closing to 41/42 is worth watching too. That's usually less about AdX losing demand and more about publishers adding more header bidding partners into the mix over time, which mechanically shrinks AdX's relative share even if its absolute revenue is flat or growing. Would be interesting to see that broken out by AdX's own CPM trend in isolation rather than just its share of the pie.",
           "score": 1,
           "created_utc": 1790716776.0
+        }
+      ]
+    },
+    {
+      "id": "1wtu0i9",
+      "title": "Apple’s Latest Operating System Blocks The Trade Desk From Serving Ads On Safari",
+      "author": "Select-Election-92",
+      "score": 38,
+      "url": "https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtu0i9/apples_latest_operating_system_blocks_the_trade/",
+      "created_utc": 1790737432.0,
+      "content": "This is kind of a big deal; the domain being blocked is part of how TTD fundamentally serve their ads which if kept in place could cause huge issues and some timely development work.\n\nInterestingly, Google and other DSP's are unaffected - it could be a mistake, but it seems unlikely. ",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "prose4jose",
+          "body": "Crazy they did this to TTD. Maybe they were specifically annoyed by UID2? Otherwise not sure why they would target TTD over any other ad platform. ",
+          "score": 12,
+          "created_utc": 1790740240.0
+        },
+        {
+          "author": "Uday23",
+          "body": "Damn another big L for TTD",
+          "score": 8,
+          "created_utc": 1790739577.0
+        },
+        {
+          "author": "Realistic-Focus-8254",
+          "body": "Ain’t no rest for TTD this year. They better fix this or I’ll have to start migrating campaigns to another DSP soon.",
+          "score": 8,
+          "created_utc": 1790741070.0
+        },
+        {
+          "author": "foosgottaeat",
+          "body": "Couldn’t have happened to a nicer group of people ",
+          "score": 6,
+          "created_utc": 1790741750.0
+        },
+        {
+          "author": "Gonzofox89",
+          "body": "Does this include epsilon aswell then? Given liveramp is listed? ",
+          "score": 3,
+          "created_utc": 1790744517.0
+        },
+        {
+          "author": "warmtunaswamp",
+          "body": "Audigent too",
+          "score": 3,
+          "created_utc": 1790745241.0
         }
       ]
     }
