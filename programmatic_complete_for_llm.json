@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-30T18:30:31.272528+00:00",
-    "total_posts": 2059,
-    "total_comments": 10392
+    "scrape_date": "2026-09-30T22:30:37.553901+00:00",
+    "total_posts": 2060,
+    "total_comments": 10399
   },
   "discussions": [
     {
@@ -92474,6 +92474,63 @@
           "body": "Same thing",
           "score": 1,
           "created_utc": 1790774393.0
+        }
+      ]
+    },
+    {
+      "id": "1wuctu3",
+      "title": "For people currently working in Programmatic Advertising: What should a fresher focus on during the first 6–12 months to become good at the job?",
+      "author": "Practical-Space-0",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wuctu3/for_people_currently_working_in_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wuctu3/for_people_currently_working_in_programmatic/",
+      "created_utc": 1790793095.0,
+      "content": "Hey everyone,\n\nI’m about to start working in Programmatic Advertising, and I’m currently learning the fundamentals of DV360, CM360, Floodlight, DSPs, SSPs, RTB, targeting, bidding, deals, pacing, optimization, etc.\n\nBut I want to hear from people who are actually working hands-on in Programmatic.\n\nFor someone starting out, what should I focus on the most during the first 6–12 months?\n\nI’m especially interested in knowing:\n\n* What skills are actually important in day-to-day work?\n* What do you wish you had learned before starting your first Programmatic job?\n* How much importance should I give to DV360 vs CM360 vs analytics/measurement?\n* How important are troubleshooting and campaign optimization compared to just knowing the platforms?\n* Which concepts should a fresher understand really well?\n* How does the role usually evolve after 1, 2, 3+ years?\n* What skills helped you most to level up in roles?\n* Are there any tools, certifications, or concepts that you think are genuinely worth learning?\n\nI’m not looking for a generic roadmap from Google. I’d really like to hear from people who have actually worked on live campaigns and can share what the job is really like.\n\nAny advice, mistakes to avoid, or lessons from your own experience would be really helpful.\n\nThanks!",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "arandomnewyorker",
+          "body": "From my personal experience, what separates people who get good fast from people who stay junior for years is diagnostic thinking and asking a lot of questions. The job is mostly pattern recognition. The people who actually get it are the ones who can close the loop, diagnose, adjust, etc.\n\nNobody has ever asked me about a certification in an interview past entry level. What they do ask about is all situational/behaviorial.  Name a specific problem you solved and how you found the root cause.",
+          "score": 5,
+          "created_utc": 1790795620.0
+        },
+        {
+          "author": "EarthPrimer",
+          "body": "Ask questions and have opinions ",
+          "score": 2,
+          "created_utc": 1790793948.0
+        },
+        {
+          "author": "Dnnk69",
+          "body": "Depends on what are you doing",
+          "score": 2,
+          "created_utc": 1790795408.0
+        },
+        {
+          "author": "SpecialistStore3173",
+          "body": "dont spend the entire holiday budget in one day ",
+          "score": 1,
+          "created_utc": 1790796251.0
+        },
+        {
+          "author": "Illustrious-Trash915",
+          "body": "Probably wading into dangerous territory here, but at least if you're in the US, be careful about describing yourself as a \"fresher\" -- it carries cultural connotations that may be communicating something you'd rather not communicate in your job search.",
+          "score": 1,
+          "created_utc": 1790796474.0
+        },
+        {
+          "author": "ASDFzxcvTaken",
+          "body": "Keep a clear mental picture of the overall campaign goals and objectives.\n\nTrust but verify everything. Check reports often, but understand what the platform does to adjust automatically vs when to step in and ask people with experience to provide help. \n\nCommunication regularly good,  bad, or just plodding along... Bad doesn't mean you need to resolve it or have an answer but you do need to communicate and then get to work on resolution.\n\nAfter 1 year you should be very comfortable knowing all that can happen big and small and you know how to handle stress and people and deadlines. \n\nYear two you are aiming to hit stretch goals to grow to the next position. \n\nYear three if you aren't already at a new job, go find a new job unless you are making double your starting rate or more (or generally *very* successful). Your ambition or lack thereof at this juncture will determine your earnings path, stay hungry humble and smart.\n\nYear three you should have a good sense of what you want to be doing by year 5. By year 5 you should be well on your path to knowing a rough guide for where you want to go or at least what you don't want to do.",
+          "score": 1,
+          "created_utc": 1790806568.0
+        },
+        {
+          "author": "ASDFzxcvTaken",
+          "body": "And be willing to adapt your opinion.",
+          "score": 1,
+          "created_utc": 1790805745.0
         }
       ]
     }
