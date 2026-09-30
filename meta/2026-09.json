@@ -1244,6 +1244,21 @@
       "link_flair_text": null,
       "thread_id": "1wtu0i9",
       "thread_path": "1wtu0i9.json"
+    },
+    {
+      "id": "1wu41as",
+      "title": "Is it possible to access premium CTV inventory when buying programmatically?",
+      "author": "Defiant-Cucumber-795",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "created_utc": 1790772462.0,
+      "content": "ive been running ctv buys through our dsp for about a year now its been workng fine overall but ive noticed that the quality of the inventory can be all over the place sometimes\n\nfigured Id ask if anyone here has experience wth ctv and can speak to if the premium stuff (like the big streaming networks, anything sports-adjacent ) ever flows through the open marketplace the way display or even pre-roll does? Or amI just doing somethiing wrong on the deal setup side?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wu41as",
+      "thread_path": "1wu41as.json"
     }
   ]
 }

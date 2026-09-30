@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-09-30T06:59:54.304687+00:00",
-    "total_posts": 2058,
-    "total_comments": 10388
+    "scrape_date": "2026-09-30T13:26:24.947698+00:00",
+    "total_posts": 2059,
+    "total_comments": 10392
   },
   "discussions": [
     {
@@ -92435,6 +92435,45 @@
           "body": "Audigent too",
           "score": 3,
           "created_utc": 1790745241.0
+        }
+      ]
+    },
+    {
+      "id": "1wu41as",
+      "title": "Is it possible to access premium CTV inventory when buying programmatically?",
+      "author": "Defiant-Cucumber-795",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "created_utc": 1790772462.0,
+      "content": "ive been running ctv buys through our dsp for about a year now its been workng fine overall but ive noticed that the quality of the inventory can be all over the place sometimes\n\nfigured Id ask if anyone here has experience wth ctv and can speak to if the premium stuff (like the big streaming networks, anything sports-adjacent ) ever flows through the open marketplace the way display or even pre-roll does? Or amI just doing somethiing wrong on the deal setup side?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "MichaelsMotorcycle",
+          "body": "If you want the main streaming platforms. Your best bet is through a PMP or PG deal ",
+          "score": 2,
+          "created_utc": 1790772939.0
+        },
+        {
+          "author": "mrgoobmanager",
+          "body": "All CTV worth a damn should be done via deal/PMP or PG.With PMPs you can then pick off the networks or channels from different providers. That’s how you keep it ultra premium or you reach live sports or control where you run, etc",
+          "score": 2,
+          "created_utc": 1790773737.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Why not preferred deal?",
+          "score": 0,
+          "created_utc": 1790774084.0
+        },
+        {
+          "author": "Jackescalator",
+          "body": "Same thing",
+          "score": 1,
+          "created_utc": 1790774393.0
         }
       ]
     }

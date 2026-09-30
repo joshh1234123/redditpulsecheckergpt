@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w16cam",
-      "title": "Is MNTN actually bad?",
-      "author": "One-Carpenter-1545",
-      "score": 9,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w16cam/is_mntn_actually_bad/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w16cam/is_mntn_actually_bad/",
-      "created_utc": 1787959681.0,
-      "content": "I hear a lot about MNTN in the industry - mostly that clients love the simplicity, but it seems too good to be true. Worked across DSPs and understand how shady these places can be. Rumors are that they’re taking 60%+ profits but nothing I can find in the media. Thoughts on MNTN? ",
-      "num_comments": 18,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w1fnu6",
       "title": "Looking for a Creative Strategist internship at a D2C company.",
       "author": "luke_miti",
@@ -1302,6 +1289,19 @@
       "created_utc": 1790737432.0,
       "content": "This is kind of a big deal; the domain being blocked is part of how TTD fundamentally serve their ads which if kept in place could cause huge issues and some timely development work.\n\nInterestingly, Google and other DSP's are unaffected - it could be a mistake, but it seems unlikely. ",
       "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wu41as",
+      "title": "Is it possible to access premium CTV inventory when buying programmatically?",
+      "author": "Defiant-Cucumber-795",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wu41as/is_it_possible_to_access_premium_ctv_inventory/",
+      "created_utc": 1790772462.0,
+      "content": "ive been running ctv buys through our dsp for about a year now its been workng fine overall but ive noticed that the quality of the inventory can be all over the place sometimes\n\nfigured Id ask if anyone here has experience wth ctv and can speak to if the premium stuff (like the big streaming networks, anything sports-adjacent ) ever flows through the open marketplace the way display or even pre-roll does? Or amI just doing somethiing wrong on the deal setup side?",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }
