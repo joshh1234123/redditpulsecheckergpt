@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-02T16:27:01.718321+00:00",
-    "total_posts": 2063,
-    "total_comments": 10410
+    "scrape_date": "2026-10-02T20:52:03.669724+00:00",
+    "total_posts": 2064,
+    "total_comments": 10414
   },
   "discussions": [
     {
@@ -92641,6 +92641,45 @@
           "body": "Never heard of them. But also, sometimes people need to get hired",
           "score": 1,
           "created_utc": 1790877857.0
+        }
+      ]
+    },
+    {
+      "id": "1ww3dzo",
+      "title": "Brand-side: Am I crazy to combine paid search and programmatic into one role?",
+      "author": "Desperate-Eye-2830",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ww3dzo/brandside_am_i_crazy_to_combine_paid_search_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ww3dzo/brandside_am_i_crazy_to_combine_paid_search_and/",
+      "created_utc": 1790970654.0,
+      "content": "For background, I worked agency side for 11 years. I spent 6 years in paid search and 5 years in programmatic. I know the nuances of both channels. I now work for a brand, and we are in the process of in-housing our media. \n\nI have not been at an agency in years, so I am out of touch with modern skillsets and team structures. I am used to the one-channel silos, but I have heard more agencies have cross-channel specialists. Is this true? And is it unrealistic to combine paid search and programmatic into one role? Reasons why I am considering this are - \n\n1) Google Ads is more automated than ever. We have under 20 campaigns and do utilize AI Max and Pmax. I am worried this is not enough work for one person. \n\n2) YouTube in GAds has exposed search experts to video buying \n\n3) Our programmatic buys are relatively simple. We only buy CTV and audio. Again, it is not enough for one person. \n\nWould love any and all thoughts! ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "kapt_so_krunchy",
+          "body": "I would do both for now if you can, learn the nuance and build a play book for the brand, learn where the ineeficiencies lie, so when/if you hire you know what that person needs to come in the door with, and what can be learned. ",
+          "score": 2,
+          "created_utc": 1790970929.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "I’ve run meta and programmatic for the same client during the same campaign. Tbh if I only had one brand I would like to buy all channels for them. If I do ctv, inapp, display and olv then adding search there would be no stress.",
+          "score": 1,
+          "created_utc": 1790973748.0
+        },
+        {
+          "author": "Jackescalator",
+          "body": "Yes, there's still a lot of nuance, if you combine the role even for those channels it means there is only surface level depth of analysis, optimization or setup. It's like saying you can one click setup a CTV campaign. Then you'll wonder why it's not working ",
+          "score": 1,
+          "created_utc": 1790973792.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "A single person for omnichannel allows much more effective optimisation between channels and ultimately better overall performance. But really depends if its purely executional / activation or whether you are looking at doing wider analysis / measurement on top as well.\n\nMost of the smart indies have moved to cross-channel individuals whilst the holdcos still go down the silo route for both planning & buying, which boggles my mind how inefficient that is.\n\nIf your programmatic is just CTV / Audio and largely publisher buys on a PG / PMP basis, very doable for 1 person. If you start to go beyond that & the budgets jump, then it is a question mark.",
+          "score": 0,
+          "created_utc": 1790972831.0
         }
       ]
     }

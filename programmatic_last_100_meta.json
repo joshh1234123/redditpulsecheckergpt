@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w283ba",
-      "title": "I spent years building ad attribution pipelines. Now I want to know: do any of you actually trust your measurement?",
-      "author": "Existing_As_Usual",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w283ba/i_spent_years_building_ad_attribution_pipelines/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w283ba/i_spent_years_building_ad_attribution_pipelines/",
-      "created_utc": 1788065768.0,
-      "content": "Hey all, long-time lurker. I've spent the last few years on the data engineering side of adtech by building the pipelines behind visitation/footfall attribution, impression and click attribution, revenue reporting, that kind of thing. Basically the plumbing that turns raw ad events into the \"here's what your campaign did\" numbers you see on the buying side.\n\nLately I've been sitting with a question I could never answer from inside the pipeline: do the people actually spending the money trust these numbers?\n\nI built the attribution. I know where the assumptions and the duct tape are. So I'm curious what it looks like from your seat:\n\nWhen a client or your boss asks \"did this actually drive sales?\", how confident are you in the answer?  \nHow much of your week goes into pulling numbers out of different platforms and making them agree?  \nDo you trust incrementality/lift results, or is it still mostly last-click in practice?  \nWhat's the one measurement thing that makes you roll your eyes every time?\n\nNot selling anything, not building anything yet and just trying to understand the problem from the buyer's side before I decide if it's worth solving. Happy to trade notes on how this stuff actually gets calculated under the hood if that's useful to you. Comments are great, or DM me if you'd rather vent privately.\n\nThanks for reading 🙏",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w29p1p",
       "title": "Donation conversions, which DSP?",
       "author": "Sea_Character7997",
@@ -1302,6 +1289,19 @@
       "created_utc": 1790877156.0,
       "content": "I have an upcoming interview for Revx which is a mobile DSP, have anyone heard or worked or have any feedback to share ?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1ww3dzo",
+      "title": "Brand-side: Am I crazy to combine paid search and programmatic into one role?",
+      "author": "Desperate-Eye-2830",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1ww3dzo/brandside_am_i_crazy_to_combine_paid_search_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1ww3dzo/brandside_am_i_crazy_to_combine_paid_search_and/",
+      "created_utc": 1790970654.0,
+      "content": "For background, I worked agency side for 11 years. I spent 6 years in paid search and 5 years in programmatic. I know the nuances of both channels. I now work for a brand, and we are in the process of in-housing our media. \n\nI have not been at an agency in years, so I am out of touch with modern skillsets and team structures. I am used to the one-channel silos, but I have heard more agencies have cross-channel specialists. Is this true? And is it unrealistic to combine paid search and programmatic into one role? Reasons why I am considering this are - \n\n1) Google Ads is more automated than ever. We have under 20 campaigns and do utilize AI Max and Pmax. I am worried this is not enough work for one person. \n\n2) YouTube in GAds has exposed search experts to video buying \n\n3) Our programmatic buys are relatively simple. We only buy CTV and audio. Again, it is not enough for one person. \n\nWould love any and all thoughts! ",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }
