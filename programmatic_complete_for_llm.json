@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-05T09:21:32.686524+00:00",
-    "total_posts": 2066,
-    "total_comments": 10424
+    "scrape_date": "2026-10-05T18:40:39.216190+00:00",
+    "total_posts": 2067,
+    "total_comments": 10428
   },
   "discussions": [
     {
@@ -92770,6 +92770,45 @@
           "body": "I did two years at WPP, then moved to full funnel ad tech for two years, then did a stint at a CTV publisher, and back to ad tech but in measurement. Each jump had a significant pay bump and title bump and you get a full view of the industry ",
           "score": 1,
           "created_utc": 1791117104.0
+        }
+      ]
+    },
+    {
+      "id": "1wy8m60",
+      "title": "What would it actually take for you to let an AI set campaign budgets autonomously? Where's your red line?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "created_utc": 1791207012.0,
+      "content": "I'm asking this because I've seen two camps:\n\nCamp 1/ People who say they'd never hand over budget control.\n\nCamp 2/  People already running fully automated spend with zero daily oversight. \n\nThe gap between these camps seem to be less about the technology and more about who gets blamed when it goes wrong.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "randidlio",
+          "body": "I’d lean more to camp 1 but I’d have to be constantly checking spend and delivery, to your point that it can’t go wrong. It would cut the time it takes to physically set up campaigns, but definitely can’t allow it without the ability to review it. ",
+          "score": 2,
+          "created_utc": 1791208059.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Campaign level not a chance. We have campaign per funnel step per enviroment. And client expectations tied to branding or rtg spend",
+          "score": 2,
+          "created_utc": 1791213949.0
+        },
+        {
+          "author": "ML_Felix",
+          "body": "Most people I have asked this IRL have leaned into camp 1. Was really interested in what reddit had to say(I'm new here). Thank you 😊",
+          "score": 1,
+          "created_utc": 1791208340.0
+        },
+        {
+          "author": "ML_Felix",
+          "body": "Fair enough answer! Thanks. ",
+          "score": 1,
+          "created_utc": 1791216529.0
         }
       ]
     }

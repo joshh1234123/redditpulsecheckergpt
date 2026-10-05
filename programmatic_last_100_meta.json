@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w2fh15",
-      "title": "What are you still doing manually?",
-      "author": "Exotic-Court-9430",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w2fh15/what_are_you_still_doing_manually/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w2fh15/what_are_you_still_doing_manually/",
-      "created_utc": 1788090576.0,
-      "content": "Hey everyone, curious to hear how other programmatic traders work.\n\nWould genuinely like to know, what have you automated in your day-to-day workflow that has genuinely made your life easier?\n\nI’m particularly interested in things like pacing/optimization, campaign QA, reporting, and creative previews/approvals. For example, do you have automated pacing alerts or recommendations? \n\nAdditionally when clients need ad previews for approval, are you still generating those manually or have you found a better way?\n\nAlso curious what tools you’re using scripts, Python, APIs, spreadsheets, etc.\n\nBasically, I’d love to know what repetitive parts of programmatic you’ve managed to eliminate, and what you’ve built that has actually saved you time.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w2jkeg",
       "title": "Which DSP's to target dating apps?",
       "author": "Soft-Bad3807",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791107882.0,
       "content": "I’ve been working with Publicis since 2022. Over the last few years, I’ve received roughly 16–20% increments annually, so financially things were moving in the right direction.\n\nHowever, I’m now at a point where I feel quite stuck.\n\nThe biggest issue is that my day-to-day work has become very repetitive. I don’t feel like I’m learning much anymore, and there isn’t much new exposure or a clear career path within my current role/account.\n\nThis year, the appraisal process has also been stopped, which has made me rethink my situation even more.\n\nAt the same time, I’m seeing a lot of uncertainty across the media/advertising industry — agencies losing clients, restructuring, and people being asked to leave. That makes me hesitant about simply resigning and moving to another agency without being sure about the stability of the next company.\n\nInterestingly, even my manager has basically told me that I need to think about whether I want to stay stuck here or move to another company.\n\nI have around 6+ years of experience in performance marketing, mainly across paid search and programmatic/QA, so I feel I should be moving toward more responsibility and learning rather than continuing with the same work.\n\nWhat would you do in my situation?\n\nStay at Publicis until the market becomes more stable?\n\nStart interviewing while continuing the current job?\n\nMove to another agency?\n\nTry to move toward an in-house/client-side role?\n\nUpskill first and then make the switch?\n\nWould especially appreciate advice from people who have worked in agencies for 5–10+ years and have gone through a similar situation.",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wy8m60",
+      "title": "What would it actually take for you to let an AI set campaign budgets autonomously? Where's your red line?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "created_utc": 1791207012.0,
+      "content": "I'm asking this because I've seen two camps:\n\nCamp 1/ People who say they'd never hand over budget control.\n\nCamp 2/  People already running fully automated spend with zero daily oversight. \n\nThe gap between these camps seem to be less about the technology and more about who gets blamed when it goes wrong.",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }

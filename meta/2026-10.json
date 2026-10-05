@@ -89,6 +89,21 @@
       "link_flair_text": null,
       "thread_id": "1wxbxlu",
       "thread_path": "1wxbxlu.json"
+    },
+    {
+      "id": "1wy8m60",
+      "title": "What would it actually take for you to let an AI set campaign budgets autonomously? Where's your red line?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wy8m60/what_would_it_actually_take_for_you_to_let_an_ai/",
+      "created_utc": 1791207012.0,
+      "content": "I'm asking this because I've seen two camps:\n\nCamp 1/ People who say they'd never hand over budget control.\n\nCamp 2/  People already running fully automated spend with zero daily oversight. \n\nThe gap between these camps seem to be less about the technology and more about who gets blamed when it goes wrong.",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wy8m60",
+      "thread_path": "1wy8m60.json"
     }
   ]
 }
