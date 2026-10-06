@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w3c5q3",
-      "title": "Under 1MB vs under 5MB: what are we actually buying?",
-      "author": "Narrow-Weakness-7236",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c5q3/under_1mb_vs_under_5mb_what_are_we_actually_buying/",
-      "created_utc": 1788178850.0,
-      "content": "Every extra kilobyte competes with something else at mraid io: texture resolution, animation frames, audio, analytics. We set a budget before production: runtime, essential art, feedback, audio, wrapper, safety margin. Then ask: does this asset help the user understand or enjoy the interaction? Pretty backgrounds that delay first input are rarely a bargain.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1w3c9pj",
-      "title": "mraid io compliance isn't just about the spec—it's about the runtime",
-      "author": "yeetthewheat24",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3c9pj/mraid_io_compliance_isnt_just_about_the_specits/",
-      "created_utc": 1788179148.0,
-      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test: does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w3d5du",
       "title": "There needs to be a serious crackdown on the ad/promo posts in this sub.",
       "author": "HuskyInfantry",
@@ -1302,6 +1276,32 @@
       "created_utc": 1791238097.0,
       "content": "Once our paid media budget got into the million I expected automation to make the whole thing feel safer so it made execution faster a DSP can pace perfectly bids can look efficient and reporting can stay green while the signal underneath is a little off at that level a small mistake in attribution, audience quality or what the system is optimizing toward can quietly turn into a lot of wasted spend before anyone notices.\n\nMarketer is one of the things we’ve been using on the broader paid side and it’s made me think differently about where automation should stop so I’m fine letting systems handle more of the repetitive execution testing and reporting but I still want people looking across the channels before meaningful budget moves and checking whether the spend is turning into the business outcome we care about. Once the budget gets large enough the bigger issue isn’t whether the machine can do the work, it’s whether someone is still accountable for what it’s doing.",
       "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wyycfz",
+      "title": "Adops new learnings",
+      "author": "Alarmed-War-8859",
+      "score": 0,
+      "url": "/r/adops/comments/1wyyc77/adops_new_learnings/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wyycfz/adops_new_learnings/",
+      "created_utc": 1791279631.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wz0qml",
+      "title": "Freelancing Advise (UK)",
+      "author": "rjhandles",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wz0qml/freelancing_advise_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wz0qml/freelancing_advise_uk/",
+      "created_utc": 1791288017.0,
+      "content": "Hi team,\n\n  \nI'm soon to be leaving my current agency in a search for my next move and was just wondering on some advise of those of you who have tried your hand/currently working as a freelancer across prog.\n\n  \nMy current experience (10+ years) has all been agency side, a mix of delivery/activation, strategy and planning. I'm looking to move over to the ad-tech side of things, but have also had a few people suggest looking into freelancing. Leaving my current role has, unfortunately, come against my decision due to budget cuts across the agency, so it's not something I've thought too much about up until now.\n\n  \nI guess my question for you guys (who are UK based) is, how do you *begin* to become a freelancer? How do you find the work balance? The pay looks like it could be great, but is the security a worry?\n\n  \nA very broad discussion, I guess I'm just looking for some advise and reassurance!\n\n  \nThanks so much.",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
