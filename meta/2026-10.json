@@ -164,6 +164,51 @@
       "link_flair_text": null,
       "thread_id": "1wz0qml",
       "thread_path": "1wz0qml.json"
+    },
+    {
+      "id": "1wz4wk0",
+      "title": "Guys working in advertising in Canada: what is considered too expensive or too cheap for a quality PMP CPM?",
+      "author": "Dianacmartin",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wz4wk0/guys_working_in_advertising_in_canada_what_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wz4wk0/guys_working_in_advertising_in_canada_what_is/",
+      "created_utc": 1791299016.0,
+      "content": "Hey everyone, quick question for those in the Canadian programmatic space: what price ranges do you consider too expensive or suspiciously cheap when buying high quality CPMs through a private marketplace (PMP) here in Canada? I’m curious! ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wz4wk0",
+      "thread_path": "1wz4wk0.json"
+    },
+    {
+      "id": "1wz9hui",
+      "title": "Apples Update",
+      "author": "mass_mike47",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wz9hui/apples_update/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wz9hui/apples_update/",
+      "created_utc": 1791309665.0,
+      "content": "I’m not at a programmatic company anymore so maybe I’ve missed posts or haven’t heard all the conversations you may be having…\n\nBut isn’t this Apple update going to completely change programmatic? They seem to want to block all targeting and attribution on safari which is 50% of mobile traffic. \n\nAre people panicking on your teams or rapidly changing strategy because of this?",
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wz9hui",
+      "thread_path": "1wz9hui.json"
+    },
+    {
+      "id": "1wzb7zr",
+      "title": "57% of open CTV programmatic spend went to large screens, So What are we actually calling CTV?",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzb7zr/57_of_open_ctv_programmatic_spend_went_to_large/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzb7zr/57_of_open_ctv_programmatic_spend_went_to_large/",
+      "created_utc": 1791313585.0,
+      "content": "Came across a piece on Pixalate’s latest CTV programmatic data and the 57% figure stood out.  \n57% of US open CTV programmatic spend went to large-screen devices like smart TVs. The remaining 43% went to mobile, tablets, and other smaller screens. What’s interesting is that all of this is still being grouped under CTV programmatic. If the device mix is this different, Are buyers getting enough transparency into what they’re actually buying and measuring? or Does the broader CTV label still make sense?  \nOpen RTB also represents only around 18-19% of total CTV spend. So there’s another question around how much of the market buyers can actually see through programmatic?  \nThere’s a measurement issue here too. An ad being served doesn’t necessarily mean it was viewed and a viewed ad doesn’t necessarily mean it got attention.  \nHow are agencies/DSPs and Pubs handling the CTV vs. OTT distinction in actual buys?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wzb7zr",
+      "thread_path": "1wzb7zr.json"
     }
   ]
 }

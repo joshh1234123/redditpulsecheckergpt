@@ -1,0 +1,70 @@
+{
+  "id": "1wz9hui",
+  "thread_id": "1wz9hui",
+  "title": "Apples Update",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wz9hui/apples_update/",
+  "created_utc": 1791309665.0,
+  "num_comments": 10,
+  "comments": [
+    {
+      "author": "Emotional_Waltz_6542",
+      "body": "We were heading this way anyway…3P data doesn’t cut it anymore.",
+      "score": 6,
+      "created_utc": 1791309861.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "1p data and 1p identity has been the answer ",
+      "score": 5,
+      "created_utc": 1791309961.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Relying on user IDs has been irrelevant for a long time, whether its targeting or measurement. If you adopt a different mindset, you can absolutely succeed on Safari/iOS. \nThe problem is that this digital era has made everyone zone in on touch points / attribution, which even the walled gardens have gaps with no matter what sales pitch they put out.",
+      "score": 5,
+      "created_utc": 1791311902.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "I haven’t seen people panicking yet at least in Canada with my clients. ",
+      "score": 2,
+      "created_utc": 1791309854.0
+    },
+    {
+      "author": "SaltPathOptimization",
+      "body": "No one but media people are talking about it. Clients don't know enough to ask the right questions and every agency dsp whatever is more than happy to keep optimizing to ctr cause its fucking easy\n\nmost clients have no idea that you couldn't target with alt ids in the first place so this is nothing to them",
+      "score": 1,
+      "created_utc": 1791312954.0
+    },
+    {
+      "author": "cheerycherry2501",
+      "body": "They have fixed it. It was a mistake [https://bugs.webkit.org/show\\_bug.cgi?id=324771](https://bugs.webkit.org/show_bug.cgi?id=324771)",
+      "score": 0,
+      "created_utc": 1791310120.0
+    },
+    {
+      "author": "High_Violet92",
+      "body": "And how's that going? Easier said than done and walked gardens have been doing this too",
+      "score": 2,
+      "created_utc": 1791312089.0
+    },
+    {
+      "author": "mass_mike47",
+      "body": "My understanding is that they are preventing the serving of ads. It doesn’t matter if you have 1p data if TTDs domain where they serve ads is blocked as an example. I could be misinterpreting it.",
+      "score": 1,
+      "created_utc": 1791314980.0
+    },
+    {
+      "author": "AlanWegrzyn",
+      "body": "dragging people out of that frame of mind takes a lot of time and building trust. It's really hard because a lot of top level folks staked their name on performance and when you show them that CPA doesn't actually drive sales they have every incentive to keep status quo. \"it's not media, it's the creative/offer/something else\"",
+      "score": 2,
+      "created_utc": 1791313094.0
+    },
+    {
+      "author": "mcpapaya",
+      "body": "I think that only saved adsrvr.org but not the identity providers including UID - anyone had the chance to test that Beta yet to see what is still blocked and what not?",
+      "score": 1,
+      "created_utc": 1791314075.0
+    }
+  ]
+}

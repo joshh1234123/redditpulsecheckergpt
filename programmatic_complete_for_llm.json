@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-06T14:19:20.380515+00:00",
-    "total_posts": 2071,
-    "total_comments": 10441
+    "scrape_date": "2026-10-06T19:38:32.172896+00:00",
+    "total_posts": 2074,
+    "total_comments": 10458
   },
   "discussions": [
     {
@@ -92945,6 +92945,153 @@
           "body": "I've not done freelance myself but have hired contractors occasionally. I've hired through an agency in the past. It might have been Sphere or certainly an agency I would have also associated with hiring my regular employees.\n\n\nI'd suggest have a look at what recruiters offer it and ask them\n\n\nIt may also just be a case in talking to recruiters you want to move into AdTech but you'll take short term contracting for agencies to keep options open. ",
           "score": 1,
           "created_utc": 1791291700.0
+        }
+      ]
+    },
+    {
+      "id": "1wz4wk0",
+      "title": "Guys working in advertising in Canada: what is considered too expensive or too cheap for a quality PMP CPM?",
+      "author": "Dianacmartin",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wz4wk0/guys_working_in_advertising_in_canada_what_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wz4wk0/guys_working_in_advertising_in_canada_what_is/",
+      "created_utc": 1791299016.0,
+      "content": "Hey everyone, quick question for those in the Canadian programmatic space: what price ranges do you consider too expensive or suspiciously cheap when buying high quality CPMs through a private marketplace (PMP) here in Canada? I’m curious! ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "PlasticLeading",
+          "body": "What channel? What publishers? \n\nJust my guesstimate for PMPs \n\nDisplay : $2-3  \nVideo olv: 8-12  \nAudio: 10-15  \nCTV: 25-40 (variance is high cuz it really depends) ",
+          "score": 2,
+          "created_utc": 1791303902.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "Anything above $3 floor for display is wild. I’ve seen some publishers with $12 pmp floors and can buy the same inventory on open cheaper.",
+          "score": 1,
+          "created_utc": 1791299267.0
+        },
+        {
+          "author": "achakez",
+          "body": "$2 and $12 both make sense depending on the inventory. A cheap CPM gets expensive pretty quickly if the impressions are not actually useful.",
+          "score": 1,
+          "created_utc": 1791304042.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Depends on sites and audiences",
+          "score": 2,
+          "created_utc": 1791306036.0
+        }
+      ]
+    },
+    {
+      "id": "1wz9hui",
+      "title": "Apples Update",
+      "author": "mass_mike47",
+      "score": 5,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wz9hui/apples_update/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wz9hui/apples_update/",
+      "created_utc": 1791309665.0,
+      "content": "I’m not at a programmatic company anymore so maybe I’ve missed posts or haven’t heard all the conversations you may be having…\n\nBut isn’t this Apple update going to completely change programmatic? They seem to want to block all targeting and attribution on safari which is 50% of mobile traffic. \n\nAre people panicking on your teams or rapidly changing strategy because of this?",
+      "num_comments": 10,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Emotional_Waltz_6542",
+          "body": "We were heading this way anyway…3P data doesn’t cut it anymore.",
+          "score": 6,
+          "created_utc": 1791309861.0
+        },
+        {
+          "author": "hdiggyh",
+          "body": "1p data and 1p identity has been the answer ",
+          "score": 5,
+          "created_utc": 1791309961.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Relying on user IDs has been irrelevant for a long time, whether its targeting or measurement. If you adopt a different mindset, you can absolutely succeed on Safari/iOS. \nThe problem is that this digital era has made everyone zone in on touch points / attribution, which even the walled gardens have gaps with no matter what sales pitch they put out.",
+          "score": 5,
+          "created_utc": 1791311902.0
+        },
+        {
+          "author": "Crazy_Cat_Dude2",
+          "body": "I haven’t seen people panicking yet at least in Canada with my clients. ",
+          "score": 2,
+          "created_utc": 1791309854.0
+        },
+        {
+          "author": "SaltPathOptimization",
+          "body": "No one but media people are talking about it. Clients don't know enough to ask the right questions and every agency dsp whatever is more than happy to keep optimizing to ctr cause its fucking easy\n\nmost clients have no idea that you couldn't target with alt ids in the first place so this is nothing to them",
+          "score": 1,
+          "created_utc": 1791312954.0
+        },
+        {
+          "author": "cheerycherry2501",
+          "body": "They have fixed it. It was a mistake [https://bugs.webkit.org/show\\_bug.cgi?id=324771](https://bugs.webkit.org/show_bug.cgi?id=324771)",
+          "score": 0,
+          "created_utc": 1791310120.0
+        },
+        {
+          "author": "High_Violet92",
+          "body": "And how's that going? Easier said than done and walked gardens have been doing this too",
+          "score": 2,
+          "created_utc": 1791312089.0
+        },
+        {
+          "author": "mass_mike47",
+          "body": "My understanding is that they are preventing the serving of ads. It doesn’t matter if you have 1p data if TTDs domain where they serve ads is blocked as an example. I could be misinterpreting it.",
+          "score": 1,
+          "created_utc": 1791314980.0
+        },
+        {
+          "author": "AlanWegrzyn",
+          "body": "dragging people out of that frame of mind takes a lot of time and building trust. It's really hard because a lot of top level folks staked their name on performance and when you show them that CPA doesn't actually drive sales they have every incentive to keep status quo. \"it's not media, it's the creative/offer/something else\"",
+          "score": 2,
+          "created_utc": 1791313094.0
+        },
+        {
+          "author": "mcpapaya",
+          "body": "I think that only saved adsrvr.org but not the identity providers including UID - anyone had the chance to test that Beta yet to see what is still blocked and what not?",
+          "score": 1,
+          "created_utc": 1791314075.0
+        }
+      ]
+    },
+    {
+      "id": "1wzb7zr",
+      "title": "57% of open CTV programmatic spend went to large screens, So What are we actually calling CTV?",
+      "author": "DataBeat_adtech",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzb7zr/57_of_open_ctv_programmatic_spend_went_to_large/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzb7zr/57_of_open_ctv_programmatic_spend_went_to_large/",
+      "created_utc": 1791313585.0,
+      "content": "Came across a piece on Pixalate’s latest CTV programmatic data and the 57% figure stood out.  \n57% of US open CTV programmatic spend went to large-screen devices like smart TVs. The remaining 43% went to mobile, tablets, and other smaller screens. What’s interesting is that all of this is still being grouped under CTV programmatic. If the device mix is this different, Are buyers getting enough transparency into what they’re actually buying and measuring? or Does the broader CTV label still make sense?  \nOpen RTB also represents only around 18-19% of total CTV spend. So there’s another question around how much of the market buyers can actually see through programmatic?  \nThere’s a measurement issue here too. An ad being served doesn’t necessarily mean it was viewed and a viewed ad doesn’t necessarily mean it got attention.  \nHow are agencies/DSPs and Pubs handling the CTV vs. OTT distinction in actual buys?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Lumiafan",
+          "body": "Some agencies understand they're buying CTV and OTT together. Other agencies do not.\n\nSome agencies don't care what devices they're buying on and simply want to serve ads alongside high-quality content. Other agencies do care about the device.\n\nThat's really all this comes down to.",
+          "score": 2,
+          "created_utc": 1791314514.0
+        },
+        {
+          "author": "Jake_dasnake3",
+          "body": "If you're concerned about not buying real CTV, be more specific in your targeting. ",
+          "score": 2,
+          "created_utc": 1791315312.0
+        },
+        {
+          "author": "Jamesatwork16",
+          "body": "How do the KPIs compare between CTV and OTT?  CPMs?",
+          "score": 1,
+          "created_utc": 1791314970.0
         }
       ]
     }
