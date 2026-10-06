@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w3twx0",
-      "title": "Amazon was bidding on its auctions to inflate second price floor.",
-      "author": "BurnerAcountInnit",
-      "score": 38,
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3twx0/amazon_was_bidding_on_its_auctions_to_inflate/",
-      "created_utc": 1788216756.0,
-      "content": "\"As described in the complaint, Amazon has represented to prospective advertisers for years that Amazon runs “second price” auctions where the winner of the auction would only pay “one cent more than the next highest bidder” for each successful bid for an advertising keyword. However, in practice, the complaint alleges that Amazon has charged its Sponsored Products advertisers their own winning bid close to 80% of the time and has effectively converted its nominally “second price” auction into a first price auction.\"\n\nInteresting case about adtech, programmatic, and transparency. I don't have high hopes about anything meaningful, but we got a case. ",
-      "num_comments": 6,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w3xfxf",
       "title": "The handoff nobody plans: approved concept to network-ready creative",
       "author": "His_Dudeness88",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791313585.0,
       "content": "Came across a piece on Pixalate’s latest CTV programmatic data and the 57% figure stood out.  \n57% of US open CTV programmatic spend went to large-screen devices like smart TVs. The remaining 43% went to mobile, tablets, and other smaller screens. What’s interesting is that all of this is still being grouped under CTV programmatic. If the device mix is this different, Are buyers getting enough transparency into what they’re actually buying and measuring? or Does the broader CTV label still make sense?  \nOpen RTB also represents only around 18-19% of total CTV spend. So there’s another question around how much of the market buyers can actually see through programmatic?  \nThere’s a measurement issue here too. An ad being served doesn’t necessarily mean it was viewed and a viewed ad doesn’t necessarily mean it got attention.  \nHow are agencies/DSPs and Pubs handling the CTV vs. OTT distinction in actual buys?",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wzgymq",
+      "title": "Pro search & social buyer... newbie programtic/ctv buyer - need help",
+      "author": "Ok_Formal3117",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzgymq/pro_search_social_buyer_newbie_programticctv/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzgymq/pro_search_social_buyer_newbie_programticctv/",
+      "created_utc": 1791327662.0,
+      "content": "Howdy - quite versed in social and search buying, with 10 years of experience, currently managing a little over $1 million a month on social alone. \n\nI own and run a business in the telehealth space, and a close competitor has posted articles on how successful they've been on CTV, which has certainly piqued my interest, given how successful we've been thus far on social. We don't have massive budgets yet for other platforms outside of social (maybe $50K a month to start). I've heard mixed reviews about self-serve platforms like Vibe and MNTN. \n\nGiven we're not dropping millions a month and ultimately need both strong attribution and decent ROAS / direct response, (not just brand awareness) are there any platforms or avenues you guys would suggest? Appreciate all the help and guidance. ",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
