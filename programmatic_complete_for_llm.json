@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-05T18:40:39.216190+00:00",
-    "total_posts": 2067,
-    "total_comments": 10428
+    "scrape_date": "2026-10-06T00:31:29.844813+00:00",
+    "total_posts": 2069,
+    "total_comments": 10439
   },
   "discussions": [
     {
@@ -92809,6 +92809,101 @@
           "body": "Fair enough answer! Thanks. ",
           "score": 1,
           "created_utc": 1791216529.0
+        }
+      ]
+    },
+    {
+      "id": "1wyi7bm",
+      "title": "Jump 450",
+      "author": "Schruteschrute",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wyi7bm/jump_450/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wyi7bm/jump_450/",
+      "created_utc": 1791229428.0,
+      "content": "Not super familiar but obviously they’re an OMG agency so … I am a little apprehensive. Applied for a programmatic role and within less than 30 minutes got a request to complete a 30 minute assessment.\n\n\\- Anyone have experience with JUMP 450 and what are your general thoughts?  \n\\- Does this assessment go out to every applicant or is this a good sign they engaged so quickly?  \n\\- Is this assessment a scam? Email was from recruiting@mail.jump450.com and the email felt a little AI",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1wylsxe",
+      "title": "The bigger the media budget got, the more oversight mattered",
+      "author": "Anxious_Call_1472",
+      "score": 16,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wylsxe/the_bigger_the_media_budget_got_the_more/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wylsxe/the_bigger_the_media_budget_got_the_more/",
+      "created_utc": 1791238097.0,
+      "content": "Once our paid media budget got into the million I expected automation to make the whole thing feel safer so it made execution faster a DSP can pace perfectly bids can look efficient and reporting can stay green while the signal underneath is a little off at that level a small mistake in attribution, audience quality or what the system is optimizing toward can quietly turn into a lot of wasted spend before anyone notices.\n\nMarketer is one of the things we’ve been using on the broader paid side and it’s made me think differently about where automation should stop so I’m fine letting systems handle more of the repetitive execution testing and reporting but I still want people looking across the channels before meaningful budget moves and checking whether the spend is turning into the business outcome we care about. Once the budget gets large enough the bigger issue isn’t whether the machine can do the work, it’s whether someone is still accountable for what it’s doing.",
+      "num_comments": 11,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "LoudlyShadyTaylor",
+          "body": "Creative is another piece people underestimate you can automate buying and optimization pretty heavily but if the same few concepts are carrying millions in spend, eventually the media side runs out of room to help.",
+          "score": 3,
+          "created_utc": 1791238504.0
+        },
+        {
+          "author": "NicelyFrozenBacklash",
+          "body": "One bad signal feeding an automated system can do more damage than someone manually making a few bad optimizations. The speed works both ways.",
+          "score": 3,
+          "created_utc": 1791238597.0
+        },
+        {
+          "author": "naamtosunahoga2",
+          "body": "I feel even the fear of AI taking over on execution side is overblown. Atleast at the budget and creative level there won’t be complete autonomy. These two being most sensitive and things can go south if handled incorrectly ",
+          "score": 2,
+          "created_utc": 1791242632.0
+        },
+        {
+          "author": "TheAdoredYoungster",
+          "body": "More automation probably makes good inputs more important not less.",
+          "score": 1,
+          "created_utc": 1791239032.0
+        },
+        {
+          "author": "BravelyRegular",
+          "body": "Accountability gets lost pretty easily when there are multiple platforms agencies and internal teams involved everyone can execute their piece correctly while nobody really owns whether the overall spend produced the result the business expected.",
+          "score": 1,
+          "created_utc": 1791239357.0
+        },
+        {
+          "author": "tobias10",
+          "body": "The struggle of programmatic, all of your settings can be correct but the DSP can still blindly optimize towards one spammy site and spend all your budget there if you’re not paying attention.",
+          "score": 1,
+          "created_utc": 1791239802.0
+        },
+        {
+          "author": "cuteman",
+          "body": "automation only works if you give it the right signals \n\nnever mind you still need humans involved daily",
+          "score": 1,
+          "created_utc": 1791241740.0
+        },
+        {
+          "author": "InconclusiveBonding",
+          "body": "Creative fatigue can hide for a while when the buying side is still efficient and once performance starts slipping adding more budget usually just exposes how few fresh ideas were really being tested.",
+          "score": 1,
+          "created_utc": 1791240280.0
+        },
+        {
+          "author": "CharmingShine2128",
+          "body": "The guardrails matter more as automation gets faster. I’d rather slow down a big budget move for an extra review than let a bad signal keep scaling unchecked.",
+          "score": 2,
+          "created_utc": 1791240312.0
+        },
+        {
+          "author": "hungryspoiler7",
+          "body": "Measurement is the scary part for me",
+          "score": 1,
+          "created_utc": 1791241278.0
+        },
+        {
+          "author": "Anxious_Call_1472",
+          "body": "Pretty much where I landed too. \n\n\n\nAutomation can handle a lot but once the signals are off it can just make the wrong decision faster I’d rather keep a person checking the bigger moves than try to automate every last part.",
+          "score": 1,
+          "created_utc": 1791242601.0
         }
       ]
     }
