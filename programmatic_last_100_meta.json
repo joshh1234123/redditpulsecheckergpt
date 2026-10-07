@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w3xfxf",
-      "title": "The handoff nobody plans: approved concept to network-ready creative",
-      "author": "His_Dudeness88",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w3xfxf/the_handoff_nobody_plans_approved_concept_to/",
-      "created_utc": 1788225472.0,
-      "content": "PSA:   \nCreative approval isn't the end at mraid io—it's where a second project begins. The prototype must survive: package limits, mraid io lifecycle, orientation, compression, analytics mapping, legal copy, network previews, device QA. Creative thinks the file is finished. Ad ops thinks it's not yet valid. Name one owner for creative acceptance, one for delivery acceptance.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w4bhh7",
       "title": "How many direct mail campaigns have stalled waiting on a dev ticket?",
       "author": "Lob_HQ",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791327662.0,
       "content": "Howdy - quite versed in social and search buying, with 10 years of experience, currently managing a little over $1 million a month on social alone. \n\nI own and run a business in the telehealth space, and a close competitor has posted articles on how successful they've been on CTV, which has certainly piqued my interest, given how successful we've been thus far on social. We don't have massive budgets yet for other platforms outside of social (maybe $50K a month to start). I've heard mixed reviews about self-serve platforms like Vibe and MNTN. \n\nGiven we're not dropping millions a month and ultimately need both strong attribution and decent ROAS / direct response, (not just brand awareness) are there any platforms or avenues you guys would suggest? Appreciate all the help and guidance. ",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1wzwa36",
+      "title": "Spent my summer building the opposite of content marketing for our industry: Dayparter.com",
+      "author": "SouthwestBLT",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "created_utc": 1791379024.0,
+      "content": "Most resources in our industry are content marketing for someone's SaaS product or agency. For the last few months I've been building the opposite: [dayparter.com](http://dayparter.com). It's still new, but I think it can genuinely make your job easier, and I'm adding to it every week.\n\n* **Vendor directory:** figure out who's who in the zoo, get in touch with them, and grab their logo for your deck without wading through made-for-advertising nonsense. Every logo is verified by hand.\n* **Calculators:** CPM, CPCV, VTR and more, built for planning rather than one quick sum. Probably more features than a CPM calculator needs.\n* **Templates:** media plans, briefs, pacing tools. Stick your logo on and have at it.\n* **Articles:** mostly junior-focused for now: 101s, what agencies do, what programmatic actually is.\n\nTotally free, no signup, no email capture, not tied to any agency or ad tech company. AI helped with the code; the design, writing is mine ([AI statement](https://dayparter.com/ai-statement)). It'll hopefully carry a light amount of programmatic display down the track but at the moment its just something i am doing to be helpful.\n\nI really hope you give it a look, would love any feedback or missing features you'd like to see.",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

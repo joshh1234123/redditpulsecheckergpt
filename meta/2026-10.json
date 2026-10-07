@@ -224,6 +224,21 @@
       "link_flair_text": null,
       "thread_id": "1wzgymq",
       "thread_path": "1wzgymq.json"
+    },
+    {
+      "id": "1wzwa36",
+      "title": "Spent my summer building the opposite of content marketing for our industry: Dayparter.com",
+      "author": "SouthwestBLT",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "created_utc": 1791379024.0,
+      "content": "Most resources in our industry are content marketing for someone's SaaS product or agency. For the last few months I've been building the opposite: [dayparter.com](http://dayparter.com). It's still new, but I think it can genuinely make your job easier, and I'm adding to it every week.\n\n* **Vendor directory:** figure out who's who in the zoo, get in touch with them, and grab their logo for your deck without wading through made-for-advertising nonsense. Every logo is verified by hand.\n* **Calculators:** CPM, CPCV, VTR and more, built for planning rather than one quick sum. Probably more features than a CPM calculator needs.\n* **Templates:** media plans, briefs, pacing tools. Stick your logo on and have at it.\n* **Articles:** mostly junior-focused for now: 101s, what agencies do, what programmatic actually is.\n\nTotally free, no signup, no email capture, not tied to any agency or ad tech company. AI helped with the code; the design, writing is mine ([AI statement](https://dayparter.com/ai-statement)). It'll hopefully carry a light amount of programmatic display down the track but at the moment its just something i am doing to be helpful.\n\nI really hope you give it a look, would love any feedback or missing features you'd like to see.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1wzwa36",
+      "thread_path": "1wzwa36.json"
     }
   ]
 }

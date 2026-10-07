@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-07T09:36:54.306769+00:00",
-    "total_posts": 2075,
-    "total_comments": 10458
+    "scrape_date": "2026-10-07T17:08:54.205417+00:00",
+    "total_posts": 2076,
+    "total_comments": 10461
   },
   "discussions": [
     {
@@ -93108,6 +93108,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1wzwa36",
+      "title": "Spent my summer building the opposite of content marketing for our industry: Dayparter.com",
+      "author": "SouthwestBLT",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+      "created_utc": 1791379024.0,
+      "content": "Most resources in our industry are content marketing for someone's SaaS product or agency. For the last few months I've been building the opposite: [dayparter.com](http://dayparter.com). It's still new, but I think it can genuinely make your job easier, and I'm adding to it every week.\n\n* **Vendor directory:** figure out who's who in the zoo, get in touch with them, and grab their logo for your deck without wading through made-for-advertising nonsense. Every logo is verified by hand.\n* **Calculators:** CPM, CPCV, VTR and more, built for planning rather than one quick sum. Probably more features than a CPM calculator needs.\n* **Templates:** media plans, briefs, pacing tools. Stick your logo on and have at it.\n* **Articles:** mostly junior-focused for now: 101s, what agencies do, what programmatic actually is.\n\nTotally free, no signup, no email capture, not tied to any agency or ad tech company. AI helped with the code; the design, writing is mine ([AI statement](https://dayparter.com/ai-statement)). It'll hopefully carry a light amount of programmatic display down the track but at the moment its just something i am doing to be helpful.\n\nI really hope you give it a look, would love any feedback or missing features you'd like to see.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "investigatormaker",
+          "body": "Dayparter.com’s planning calculators and media-plan templates could be more useful together: let someone carry a calculator’s inputs and result into the matching template, with the assumptions included. That would turn a quick calculation into something they can actually use in a planning document.\n\n  \nBy the way, I make ThreadFox for AI-run Reddit outreach from your Chrome; its free plan finds Reddit communities whose rules allow a post about Dayparter.com. https://threadfox.vip/p/d62zu\n\n  \nCan the calculators currently export their inputs as well as the result?",
+          "score": 2,
+          "created_utc": 1791380171.0
+        },
+        {
+          "author": "SouthwestBLT",
+          "body": "Thanks for the response; at the moment the save result function on the calculator just stores it in the browser session, but i think printing it as a PDF or excel download is fairly easy to do, so i will look at adding that thank you!",
+          "score": 1,
+          "created_utc": 1791380627.0
+        },
+        {
+          "author": "investigatormaker",
+          "body": "An Excel download would let planners reuse the numbers, while a PDF would preserve a shareable snapshot. Include the inputs, units and assumptions alongside the result so it makes sense outside the browser session.\n\n  \nThe earlier plan is there whenever you need it.",
+          "score": 2,
+          "created_utc": 1791380866.0
+        }
+      ]
     }
   ]
 }

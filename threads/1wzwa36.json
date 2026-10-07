@@ -1,0 +1,28 @@
+{
+  "id": "1wzwa36",
+  "thread_id": "1wzwa36",
+  "title": "Spent my summer building the opposite of content marketing for our industry: Dayparter.com",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1wzwa36/spent_my_summer_building_the_opposite_of_content/",
+  "created_utc": 1791379024.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "investigatormaker",
+      "body": "Dayparter.com’s planning calculators and media-plan templates could be more useful together: let someone carry a calculator’s inputs and result into the matching template, with the assumptions included. That would turn a quick calculation into something they can actually use in a planning document.\n\n  \nBy the way, I make ThreadFox for AI-run Reddit outreach from your Chrome; its free plan finds Reddit communities whose rules allow a post about Dayparter.com. https://threadfox.vip/p/d62zu\n\n  \nCan the calculators currently export their inputs as well as the result?",
+      "score": 2,
+      "created_utc": 1791380171.0
+    },
+    {
+      "author": "SouthwestBLT",
+      "body": "Thanks for the response; at the moment the save result function on the calculator just stores it in the browser session, but i think printing it as a PDF or excel download is fairly easy to do, so i will look at adding that thank you!",
+      "score": 1,
+      "created_utc": 1791380627.0
+    },
+    {
+      "author": "investigatormaker",
+      "body": "An Excel download would let planners reuse the numbers, while a PDF would preserve a shareable snapshot. Include the inputs, units and assumptions alongside the result so it makes sense outside the browser session.\n\n  \nThe earlier plan is there whenever you need it.",
+      "score": 2,
+      "created_utc": 1791380866.0
+    }
+  ]
+}
