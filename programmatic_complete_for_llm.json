@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-07T17:08:54.205417+00:00",
-    "total_posts": 2076,
-    "total_comments": 10461
+    "scrape_date": "2026-10-07T22:09:08.847848+00:00",
+    "total_posts": 2077,
+    "total_comments": 10462
   },
   "discussions": [
     {
@@ -93139,6 +93139,27 @@
           "body": "An Excel download would let planners reuse the numbers, while a PDF would preserve a shareable snapshot. Include the inputs, units and assumptions alongside the result so it makes sense outside the browser session.\n\n  \nThe earlier plan is there whenever you need it.",
           "score": 2,
           "created_utc": 1791380866.0
+        }
+      ]
+    },
+    {
+      "id": "1x0759e",
+      "title": "Dooh for eoy?",
+      "author": "Specialist_Plenty440",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x0759e/dooh_for_eoy/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x0759e/dooh_for_eoy/",
+      "created_utc": 1791404496.0,
+      "content": "Classic client reached out with a bit of incremental budget for q4 and asked for fun/new ideas even though they seemingly hate evrytime we offer new/fun ideas usually…anyway I’d rather quit but can’t before the holidays & can expense a trip to New York for a market ride to see the campaign. \n\nIs it even worth trying to pitch something dooh here as the new/fun idea?? Client is a cpg brand we tried pitching painted murals once but too much chaos lol so what is going on in the space other than LinkedIn posts of random activations going viral sometimes & how do people argue the measurement piece for clients I know they’re gonna be annoying lol any ideas?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "maryna-gc",
+          "body": "DOOH can work here, but the clock is your biggest problem. Q4 inventory is already getting snapped up, especially anything in NYC that's worth a market ride. If you go this route, get a deal set up with the bigger publishers (Outfront, Clear Channel) earlier rather than later. You may still land decent placements…\n\nOn measurement, platforms like AdQuick can help a lot. They'll give you proof of play and can run lift/attribution studies (foot traffic, brand lift, mobile exposure matching), which gives you something more defensible than \"it looked cool on LinkedIn.\"\n\nThat said, since it's CPG, I'd push back a bit on whether DOOH is the best \"new\" idea. Have you looked at CTV or retail media? With an RMN you're targeting off actual purchase data and can tie spend to in-store and online sales. That's a much easier conversation with a client who's going to nitpick measurement. CTV pairs much better than DOOH too, and you can usually run it with retailer audiences and get closed-loop sales reporting with a decent platform. \n\nIf they really want the \"fun\" factor, you could do a smaller DOOH flight near key retail locations and run CTV + RMN alongside it. The client gets the shiny thing to see in person, and you get the sales data to justify the budget. And yes, you still get your NYC trip 🙂",
+          "score": 1,
+          "created_utc": 1791408865.0
         }
       ]
     }

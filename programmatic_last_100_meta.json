@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w4bhh7",
-      "title": "How many direct mail campaigns have stalled waiting on a dev ticket?",
-      "author": "Lob_HQ",
-      "score": 0,
-      "url": "/r/DirectMailHQ/comments/1w4bgrz/how_many_direct_mail_campaigns_have_stalled/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w4bhh7/how_many_direct_mail_campaigns_have_stalled/",
-      "created_utc": 1788268041.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w4p3m5",
       "title": "New to Programmatic media planning and looking for some guidance",
       "author": "madhuitachi",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791379024.0,
       "content": "Most resources in our industry are content marketing for someone's SaaS product or agency. For the last few months I've been building the opposite: [dayparter.com](http://dayparter.com). It's still new, but I think it can genuinely make your job easier, and I'm adding to it every week.\n\n* **Vendor directory:** figure out who's who in the zoo, get in touch with them, and grab their logo for your deck without wading through made-for-advertising nonsense. Every logo is verified by hand.\n* **Calculators:** CPM, CPCV, VTR and more, built for planning rather than one quick sum. Probably more features than a CPM calculator needs.\n* **Templates:** media plans, briefs, pacing tools. Stick your logo on and have at it.\n* **Articles:** mostly junior-focused for now: 101s, what agencies do, what programmatic actually is.\n\nTotally free, no signup, no email capture, not tied to any agency or ad tech company. AI helped with the code; the design, writing is mine ([AI statement](https://dayparter.com/ai-statement)). It'll hopefully carry a light amount of programmatic display down the track but at the moment its just something i am doing to be helpful.\n\nI really hope you give it a look, would love any feedback or missing features you'd like to see.",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x0759e",
+      "title": "Dooh for eoy?",
+      "author": "Specialist_Plenty440",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x0759e/dooh_for_eoy/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x0759e/dooh_for_eoy/",
+      "created_utc": 1791404496.0,
+      "content": "Classic client reached out with a bit of incremental budget for q4 and asked for fun/new ideas even though they seemingly hate evrytime we offer new/fun ideas usually…anyway I’d rather quit but can’t before the holidays & can expense a trip to New York for a market ride to see the campaign. \n\nIs it even worth trying to pitch something dooh here as the new/fun idea?? Client is a cpg brand we tried pitching painted murals once but too much chaos lol so what is going on in the space other than LinkedIn posts of random activations going viral sometimes & how do people argue the measurement piece for clients I know they’re gonna be annoying lol any ideas?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
