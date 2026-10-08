@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-08T16:42:21.394564+00:00",
-    "total_posts": 2078,
-    "total_comments": 10465
+    "scrape_date": "2026-10-08T21:41:46.764478+00:00",
+    "total_posts": 2080,
+    "total_comments": 10468
   },
   "discussions": [
     {
@@ -93195,6 +93195,53 @@
           "created_utc": 1791430018.0
         }
       ]
+    },
+    {
+      "id": "1x11o98",
+      "title": "Why was Jeff Green not at Advertising Week?",
+      "author": "Madhops90s",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x11o98/why_was_jeff_green_not_at_advertising_week/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x11o98/why_was_jeff_green_not_at_advertising_week/",
+      "created_utc": 1791490907.0,
+      "content": "I keep hearing speculation but does anyone have actual intel on what's happening with TTD leadership?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Any-Belt5994",
+          "body": "Who actually wants to hear what he has to say right now? Jeff is probably trying to let his new leadership shine for a bit. They’re all more relatable since they arent billionaires.",
+          "score": 11,
+          "created_utc": 1791491410.0
+        },
+        {
+          "author": "R3miel7",
+          "body": "Apparently Green is on a six week vacation in Greece. ",
+          "score": 7,
+          "created_utc": 1791491079.0
+        },
+        {
+          "author": "Madhops90s",
+          "body": "Jeff wanting to step out of the spotlight is certainly a new approach.",
+          "score": 5,
+          "created_utc": 1791492033.0
+        }
+      ]
+    },
+    {
+      "id": "1x11xyo",
+      "title": "Apple's blatant abuse of its dominant position (and a note about IAB Techlab's reaction)",
+      "author": "passani",
+      "score": 1,
+      "url": "https://medium.com/@luca.passani/oxygen-tanks-and-clean-air-lets-not-take-apple-s-power-as-a-given-0cfe7dfe3de2",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x11xyo/apples_blatant_abuse_of_its_dominant_position_and/",
+      "created_utc": 1791491526.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
