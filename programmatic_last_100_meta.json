@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w62vwh",
-      "title": "Measuring interactive creative without worshipping engagement rate",
-      "author": "Arkupathak",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w62vwh/measuring_interactive_creative_without/",
-      "created_utc": 1788429199.0,
-      "content": "Interactive ads create more events at MRAID, but not every event is useful. We group measurement into: \n\n\\-did it load and become usable? \n\n\\- did they understand the first action?\n\n \\-did they reach the moment expressing the campaign idea? \n\n\\- did qualified interaction improve the next step? Raw taps reward confusion. Completion rewards ease. CTR rewards misleading promises.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1w66wos",
-      "title": "Programmatic Opportunities / Norms",
-      "author": "PublicProcess9379",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w66wos/programmatic_opportunities_norms/",
-      "created_utc": 1788440831.0,
-      "content": "Hey there I’ve been a trader for \\~3 years now. All at one company, I’m currently looking for retail media roles, strategy roles or programmatic management roles. \n\nJust curious what companies people in here actually enjoyed working at that pay fair salary, and has good work life balance. How common is weekend work in programmatic?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w6e9yu",
       "title": "True or False: In 5 years, all of CPG's programmatic media budgets will be run via retail media networks.",
       "author": "dailybeanz",
@@ -1302,6 +1276,32 @@
       "created_utc": 1791491526.0,
       "content": "",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x1qp89",
+      "title": "CPM of YouTube CTV inventory in Canada",
+      "author": "DonSalaam",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x1qp89/cpm_of_youtube_ctv_inventory_in_canada/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x1qp89/cpm_of_youtube_ctv_inventory_in_canada/",
+      "created_utc": 1791565149.0,
+      "content": "For those who are running YouTube CTV campaigns on DV360, what is the CPM you are seeing when targeting Canadian audiences?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x1snju",
+      "title": "Beeswax display not starting",
+      "author": "Sea_Character7997",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x1snju/beeswax_display_not_starting/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x1snju/beeswax_display_not_starting/",
+      "created_utc": 1791569658.0,
+      "content": "Do. you guys know what could be the reason why Beeswax display campaign is not spending? Everything seems to be set up correctly. Ever happened to you? ",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }
