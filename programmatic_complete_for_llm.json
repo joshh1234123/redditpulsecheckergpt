@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-10T17:34:35.131825+00:00",
-    "total_posts": 2082,
-    "total_comments": 10474
+    "scrape_date": "2026-10-10T20:58:24.145581+00:00",
+    "total_posts": 2083,
+    "total_comments": 10476
   },
   "discussions": [
     {
@@ -93306,6 +93306,33 @@
           "body": "If I had a dollar every-time I heard this. I would be retired by now. 😆",
           "score": 1,
           "created_utc": 1791570504.0
+        }
+      ]
+    },
+    {
+      "id": "1x2l5j0",
+      "title": "Affiliate Marketing or Programmatic",
+      "author": "AbdullahS_",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x2l5j0/affiliate_marketing_or_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x2l5j0/affiliate_marketing_or_programmatic/",
+      "created_utc": 1791653828.0,
+      "content": "Why do people call programmatic user acquisition affiliate marketing ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SeaMycologist5941",
+          "body": "hah, probably because both feel like black boxes where you throw money in and hope something comes out the other side",
+          "score": 1,
+          "created_utc": 1791654452.0
+        },
+        {
+          "author": "copper678",
+          "body": "Curious what you think the better investment is? ",
+          "score": 1,
+          "created_utc": 1791654869.0
         }
       ]
     }
