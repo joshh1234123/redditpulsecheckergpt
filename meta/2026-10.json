@@ -359,6 +359,36 @@
       "link_flair_text": null,
       "thread_id": "1x2qznl",
       "thread_path": "1x2qznl.json"
+    },
+    {
+      "id": "1x31jxq",
+      "title": "I Wanted to Know More Than Just How Much My Blog Ads Were Earning",
+      "author": "pknerd",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x31jxq/i_wanted_to_know_more_than_just_how_much_my_blog/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x31jxq/i_wanted_to_know_more_than_just_how_much_my_blog/",
+      "created_utc": 1791702453.0,
+      "content": "I use **BuySellAds** on my blog.\n\nWhile I could see how much the ads were earning, I wanted a bit more insight into their actual performance:\n\n\\- Which pages generate the most ad impressions and clicks?  \n\\- Which placements perform better?  \n\\- Which creatives are getting clicked?  \n\\- What does the CTR look like over time?  \n\\- So I decided to track these things myself.\n\nI used Google Tag Manager aka GTM to track ad impressions and clicks, GA4 to collect the data, and Looker Studio to build a dashboard around it.\n\nNow I can see ad performance by page, placement, and creative instead of looking at revenue alone.\n\nI wrote a short post about why I built it and the steps involved. Click here to [read](https://blog.adnansiddiqi.me/building-a-buysellads-performance-dashboard-with-ga4-and-looker-studio/).",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1x31jxq",
+      "thread_path": "1x31jxq.json"
+    },
+    {
+      "id": "1x367kj",
+      "title": "Do Small and Mid-Sized Agencies Outsource Programmatic Operations?",
+      "author": "Possible_Eggplant_79",
+      "score": 2,
+      "url": "https://i.redd.it/os0nr1ddttuh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x367kj/do_small_and_midsized_agencies_outsource/",
+      "created_utc": 1791719301.0,
+      "content": "Hey everyone! I'm curious about how small and mid-sized agencies manage programmatic campaigns across platform like DV360.\n\nDo agencies with limited in-house teams outsource campaign setup, trafficking, optimization, pacing, and reporting to third-party programmatic ops providers?\n\nFor those with experience:\n\n\\- Is outsourcing common among agencies with fewer than 50 employees?\n\n\\- What are the biggest challenges with in-house execution?\n\n\\- Would agencies consider external ops support for overflow or cost efficiency?\n\nWould love to hear insights from agency owners and programmatic traders. Is there a genuine demand for third-party programmatic operations?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1x367kj",
+      "thread_path": "1x367kj.json"
     }
   ]
 }

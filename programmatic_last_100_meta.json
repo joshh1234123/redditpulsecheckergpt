@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w6uykx",
-      "title": "TTD Laying Off 15% Of Their Workforce",
-      "author": "Select-Election-92",
-      "score": 49,
-      "url": "https://www.thecurrent.com/opinion/jeff-green-email-trade-desk-business-updates",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6uykx/ttd_laying_off_15_of_their_workforce/",
-      "created_utc": 1788498664.0,
-      "content": "TTD CEO Jeff Green announced today that the company will reduce its global headcount by around 15%, with affected employees being notified immediately and departures taking place tomorrow (Sept 4).\n\nInterestingly, the announcement stresses that the cuts are not driven by financial pressure - The Trade Desk says it has \\~$1.5B in cash, no debt, and generated more than $2.9B in revenue last year.\n\nGreen says the restructuring is intended to create smaller, more focused teams and allow TTD to move with greater agility while reinvesting in growth and innovation.\n\nGiven The Trade Desk's position as one of the largest independent DSPs, the scale of the cuts is pretty significant. Curious to hear what people in the ad tech/programmatic space think this means for TTD and the wider market.",
-      "num_comments": 17,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1w6wvq1",
-      "title": "The fee stack on a sub-leased DSP seat, and why you can't audit it",
-      "author": "weirdmadrasi",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6wvq1/the_fee_stack_on_a_subleased_dsp_seat_and_why_you/",
-      "created_utc": 1788504954.0,
-      "content": "Disclosure: I work at a company that sells white-label DSP tech, so I have a horse in this race. The numbers below are public and sourced, so check my work or tell me where I am wrong.\n\nIf you buy programmatic through another agency's DSP seat, you are paying a whole fee stack before a single ad impression serves:\n\n- DSP platform fee\n- Reseller markup\n- Data fees\n- Feature fees\n\nANA (Association of National Advertisers) puts the total at roughly 35% of media spend.\n\nOn $100K a month, that is $420,000 a year going to intermediaries instead of ads.\n\nWhat bothers me more than the fees is that you cannot audit any of it. Log-level data on a rented seat belongs to the seat owner. So you are reporting to clients on numbers you have no way to verify yourself.\n\nThere are two ways out.\n\n**Build your own DSP.** The math only closes above $50 million in annual ad spend, which puts it off the table for most agencies.\n\n**White-label one.** Roughly 6 to 12% of ad spend, your own branding and domain, typically live in a day. Your clients log into your platform instead of a competitor's.\n\nIf you are on a sub-leased seat, do you know your all-in take rate?\n\nFull breakdown with the math: https://adster.tech/blogs/renting-dsp-seats-margin/",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w7ga4m",
       "title": "PMP Deal Rot [Pub]",
       "author": "dadnetwork",
@@ -1302,6 +1276,32 @@
       "created_utc": 1791668789.0,
       "content": "Hey everyone,\n\nQuick thought experiment.\n\nWe all know the pain of domain allowlists.\n\nEvery agency and advertiser seems to maintain its own isolated spreadsheets. People regularly ask for (local) allowlists here, while others don't use proper allowlists at all or rely on blocklists only.\n\nSome proprietary solutions exist, but what about an open-source approach to help advertisers identify quality inventory, support local publishers, and reduce exposure to MFA sites?\n\nThe idea\n\nAn open-source GitHub repository containing local and quality domains, along with useful metadata (ads.txt status, verified publisher/entity, quality indicators, etc.).\n\nContribution\n\nStandard PRs (pull requests), with transparent review and approval processes.\n\nTransparency\n\nFull commit history, a public issue tracker, and a way to flag potentially problematic domains or MFA sites.\n\nConsumption\n\nHuman-readable data, machine-readable formats, and integrations with scripts, AI agents, or DSP workflows.\n\nA few questions for the community:\n\n1. Would you actually use a community-maintained GitHub feed in your DSP workflows, or would you only use it as an input for your own allowlists?\n\n2. What metadata would you consider essential? What would make you trust (or distrust) a domain entry?\n\n3. How would you approach governance and gatekeeping to prevent bad actors from approving their own domains?\n\n4. Is anyone already doing something similar in a lightweight, non-proprietary way?\n\nI'm particularly interested in the practical limitations and reasons why this wouldn't work.\n\nCurious to hear your thoughts!",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x31jxq",
+      "title": "I Wanted to Know More Than Just How Much My Blog Ads Were Earning",
+      "author": "pknerd",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x31jxq/i_wanted_to_know_more_than_just_how_much_my_blog/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x31jxq/i_wanted_to_know_more_than_just_how_much_my_blog/",
+      "created_utc": 1791702453.0,
+      "content": "I use **BuySellAds** on my blog.\n\nWhile I could see how much the ads were earning, I wanted a bit more insight into their actual performance:\n\n\\- Which pages generate the most ad impressions and clicks?  \n\\- Which placements perform better?  \n\\- Which creatives are getting clicked?  \n\\- What does the CTR look like over time?  \n\\- So I decided to track these things myself.\n\nI used Google Tag Manager aka GTM to track ad impressions and clicks, GA4 to collect the data, and Looker Studio to build a dashboard around it.\n\nNow I can see ad performance by page, placement, and creative instead of looking at revenue alone.\n\nI wrote a short post about why I built it and the steps involved. Click here to [read](https://blog.adnansiddiqi.me/building-a-buysellads-performance-dashboard-with-ga4-and-looker-studio/).",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x367kj",
+      "title": "Do Small and Mid-Sized Agencies Outsource Programmatic Operations?",
+      "author": "Possible_Eggplant_79",
+      "score": 2,
+      "url": "https://i.redd.it/os0nr1ddttuh1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x367kj/do_small_and_midsized_agencies_outsource/",
+      "created_utc": 1791719301.0,
+      "content": "Hey everyone! I'm curious about how small and mid-sized agencies manage programmatic campaigns across platform like DV360.\n\nDo agencies with limited in-house teams outsource campaign setup, trafficking, optimization, pacing, and reporting to third-party programmatic ops providers?\n\nFor those with experience:\n\n\\- Is outsourcing common among agencies with fewer than 50 employees?\n\n\\- What are the biggest challenges with in-house execution?\n\n\\- Would agencies consider external ops support for overflow or cost efficiency?\n\nWould love to hear insights from agency owners and programmatic traders. Is there a genuine demand for third-party programmatic operations?",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }
