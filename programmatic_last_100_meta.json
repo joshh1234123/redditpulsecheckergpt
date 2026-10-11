@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w6gzty",
-      "title": "MRAID lifecycle events are where most playables actually break.",
-      "author": "iwantobehappypls",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w6gzty/mraid_lifecycle_events_are_where_most_playables/",
-      "created_utc": 1788462778.0,
-      "content": "Teams often test the creative interaction but ignore state changes.\n\nAt MRAID, we always verify the lifecycle: Does it pause when not viewable? Does it resume correctly? Does it handle background/foreground transitions? Does it clean up memory when closed?\n\nA playable that keeps running behind a store redirect or fires analytics after closing will fail trafficking.\n\nYou must test the lifecycle, not just the gameplay interaction.\n\nWhat lifecycle edge cases cause the most headaches in your programmatic campaigns?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w6uykx",
       "title": "TTD Laying Off 15% Of Their Workforce",
       "author": "Select-Election-92",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791653828.0,
       "content": "Why do people call programmatic user acquisition affiliate marketing ",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x2qznl",
+      "title": "A crowdsourced \"Open Allowlist\" on GitHub for local/quality publishers?",
+      "author": "mcpapaya",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x2qznl/a_crowdsourced_open_allowlist_on_github_for/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x2qznl/a_crowdsourced_open_allowlist_on_github_for/",
+      "created_utc": 1791668789.0,
+      "content": "Hey everyone,\n\nQuick thought experiment.\n\nWe all know the pain of domain allowlists.\n\nEvery agency and advertiser seems to maintain its own isolated spreadsheets. People regularly ask for (local) allowlists here, while others don't use proper allowlists at all or rely on blocklists only.\n\nSome proprietary solutions exist, but what about an open-source approach to help advertisers identify quality inventory, support local publishers, and reduce exposure to MFA sites?\n\nThe idea\n\nAn open-source GitHub repository containing local and quality domains, along with useful metadata (ads.txt status, verified publisher/entity, quality indicators, etc.).\n\nContribution\n\nStandard PRs (pull requests), with transparent review and approval processes.\n\nTransparency\n\nFull commit history, a public issue tracker, and a way to flag potentially problematic domains or MFA sites.\n\nConsumption\n\nHuman-readable data, machine-readable formats, and integrations with scripts, AI agents, or DSP workflows.\n\nA few questions for the community:\n\n1. Would you actually use a community-maintained GitHub feed in your DSP workflows, or would you only use it as an input for your own allowlists?\n\n2. What metadata would you consider essential? What would make you trust (or distrust) a domain entry?\n\n3. How would you approach governance and gatekeeping to prevent bad actors from approving their own domains?\n\n4. Is anyone already doing something similar in a lightweight, non-proprietary way?\n\nI'm particularly interested in the practical limitations and reasons why this wouldn't work.\n\nCurious to hear your thoughts!",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
