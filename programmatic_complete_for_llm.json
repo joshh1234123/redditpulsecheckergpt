@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-13T12:23:54.720682+00:00",
-    "total_posts": 2089,
-    "total_comments": 10483
+    "scrape_date": "2026-10-13T19:25:24.000859+00:00",
+    "total_posts": 2091,
+    "total_comments": 10489
   },
   "discussions": [
     {
@@ -93466,6 +93466,71 @@
           "created_utc": 1791890378.0
         }
       ]
+    },
+    {
+      "id": "1x4zkt4",
+      "title": "Recommendation",
+      "author": "Queasy_Swimmer7914",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4zkt4/recommendation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4zkt4/recommendation/",
+      "created_utc": 1791905019.0,
+      "content": " I’m running ads  for a client  on taboola , but we’re searching for other platforms that have the same traffic as taboola or better . Geo USA . Vertical : finance ",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "elysium13",
+          "body": "This one trick will have you never looking back at Taboola again...",
+          "score": 3,
+          "created_utc": 1791910026.0
+        },
+        {
+          "author": "hdiggyh",
+          "body": "Native only?",
+          "score": 1,
+          "created_utc": 1791907734.0
+        },
+        {
+          "author": "Lower_Cell_634",
+          "body": "affic check out outbrain it is basically same thing with different name",
+          "score": 1,
+          "created_utc": 1791905091.0
+        },
+        {
+          "author": "describe_one",
+          "body": "Triplelift ",
+          "score": 1,
+          "created_utc": 1791905115.0
+        },
+        {
+          "author": "Queasy_Swimmer7914",
+          "body": "Wich trick hh",
+          "score": 1,
+          "created_utc": 1791913057.0
+        },
+        {
+          "author": "fieldgrass",
+          "body": "Also came here to ask this! Personally haven’t ran native ads since like 2017.",
+          "score": 2,
+          "created_utc": 1791910776.0
+        }
+      ]
+    },
+    {
+      "id": "1x55nc2",
+      "title": "Programmatic Ad Sales",
+      "author": "coyotetex",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x55nc2/programmatic_ad_sales/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x55nc2/programmatic_ad_sales/",
+      "created_utc": 1791918395.0,
+      "content": "We run a walled garden ad network that reaches 400,000 real estate agents inside the software they must use to transact homes. I have about 5M ad impressions a month that are unsold and we've had a couple of national advertisers run banners and get really strong results. \n\nAll of my ad sales team is focused on local advertisers and I'm trying to figure out how reach more national B2B brands who would be interested in our inventory. It's 100% above the fold, no bots, validated identity ad inventory. Would appreciate any advice.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

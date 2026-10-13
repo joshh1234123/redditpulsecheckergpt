@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w7tadr",
-      "title": "Has anyone taken a programmatic advertising course in India that provided genuine hands-on DSP experience?",
-      "author": "gvshivacharan",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w7tadr/has_anyone_taken_a_programmatic_advertising/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7tadr/has_anyone_taken_a_programmatic_advertising/",
-      "created_utc": 1788591118.0,
-      "content": "I’ve noticed that most programmatic courses cover similar topics: DV360, CM360, The Trade Desk, media planning, reporting and optimisation.\n\nHowever, it is difficult to understand what “hands-on training” actually means before joining.\n\nFor anyone who has completed a programmatic advertising course in India:\n\n* Which course did you take?\n* Did you receive actual DSP access or only platform demonstrations?\n* Were you allowed to build campaigns?\n* Did the course include media-planning, reporting and optimisation assignments?\n* Did it genuinely help you during interviews or in your first programmatic role?\n* What would you verify before paying for the course?\n\nPlease mention your personal experience or whether you are associated with the course provider.\n\nFor transparency, I’m associated with a programmatic training provider in Hyderabad, India and want to understand how practitioners and past learners evaluate structured courses.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1w81ps8",
-      "title": "mraid io compliance isn't just about the spec, it's about the runtime",
-      "author": "erin_er",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w81ps8/mraid_io_compliance_isnt_just_about_the_spec_its/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w81ps8/mraid_io_compliance_isnt_just_about_the_spec_its/",
-      "created_utc": 1788617230.0,
-      "content": "At mraid io, we see teams pass the upload check but fail in the WebView. The real test, does it handle viewability state, orientation changes, and CTA rules correctly across networks? A compliant file that breaks in production isn't compliant.\n\n",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w8333v",
       "title": "Meanwhile, at Zuma break",
       "author": "moonagedaydreamstx",
@@ -1302,6 +1276,32 @@
       "created_utc": 1791889995.0,
       "content": "When we swap out creative for our clients, we see a high increase in sessions for that day which is most likely a result of platform /SSP QA.  Is there anyway to mitigate this so it does not skew data in analytics?",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x4zkt4",
+      "title": "Recommendation",
+      "author": "Queasy_Swimmer7914",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4zkt4/recommendation/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4zkt4/recommendation/",
+      "created_utc": 1791905019.0,
+      "content": " I’m running ads  for a client  on taboola , but we’re searching for other platforms that have the same traffic as taboola or better . Geo USA . Vertical : finance ",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x55nc2",
+      "title": "Programmatic Ad Sales",
+      "author": "coyotetex",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x55nc2/programmatic_ad_sales/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x55nc2/programmatic_ad_sales/",
+      "created_utc": 1791918395.0,
+      "content": "We run a walled garden ad network that reaches 400,000 real estate agents inside the software they must use to transact homes. I have about 5M ad impressions a month that are unsold and we've had a couple of national advertisers run banners and get really strong results. \n\nAll of my ad sales team is focused on local advertisers and I'm trying to figure out how reach more national B2B brands who would be interested in our inventory. It's 100% above the fold, no bots, validated identity ad inventory. Would appreciate any advice.",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
