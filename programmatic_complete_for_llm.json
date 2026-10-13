@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-12T23:42:14.119762+00:00",
-    "total_posts": 2087,
-    "total_comments": 10481
+    "scrape_date": "2026-10-13T04:50:53.603191+00:00",
+    "total_posts": 2088,
+    "total_comments": 10482
   },
   "discussions": [
     {
@@ -93422,6 +93422,27 @@
           "body": "Sent you a message. Please check!",
           "score": 1,
           "created_utc": 1791808242.0
+        }
+      ]
+    },
+    {
+      "id": "1x4hx1g",
+      "title": "How do programmatic / UA agencies actually get their clients? Curious about real numbers",
+      "author": "AbdullahS_",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4hx1g/how_do_programmatic_ua_agencies_actually_get/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4hx1g/how_do_programmatic_ua_agencies_actually_get/",
+      "created_utc": 1791849602.0,
+      "content": "I'm getting deeper into the performance UA and programmatic space sale side, and I'm trying to understand how agencies here actually find clients. \n\nWould love to hear from anyone who's run this side of the business.\n\nWhere do most of your clients come from: inbound, outbound, partnerships, or referrals?\n\nIf you outsource outbound (cold email, LinkedIn), what does it cost? Per booked call, monthly retainer, or per lead? Rough ranges are fine.\n\nWhat benchmarks have you seen in practice? Reply rate on cold outreach, reply-to-meeting, meeting-to-closed deal?\n\nNo names or exact figures needed, ranges and gut feel are great.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Ok-Athlete-8196",
+          "body": "Most of the decent agencies I've seen grow through referrals once they hit a certain size, but early on it's almost all founder-led outbound on LinkedIn. The cold email route works but you need a really tight offer or you're just burning cash\n\n  \nFor outsourced outbound I've seen anywhere from $150-400 per booked call, monthly retainers around $2-5k for a steady flow. Reply rates on cold stuff tend to sit around 1-3% if the list is actually good, and meeting-to-close is maybe 15-25% depending on how qualified the calls are",
+          "score": 1,
+          "created_utc": 1791850158.0
         }
       ]
     }

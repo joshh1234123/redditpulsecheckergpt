@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w7isyr",
-      "title": "Amazon DSP dashboard bug?",
-      "author": "Enviromental1001",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w7isyr/amazon_dsp_dashboard_bug/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7isyr/amazon_dsp_dashboard_bug/",
-      "created_utc": 1788560468.0,
-      "content": "Has anyone noticed issues over the past week or so with the targeting section in Amazon DSP not showing all the settings you applied when you launched the campaign?\n\nSupport has had to escalate my case twice. I sent them a screenshot of my targeting section, and it looks like I never set anything. It seems like a dashboard issue, since spend still updates only during the daypart I actually set.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w7kvy0",
       "title": "Jeff thought he was the one doing the firing today........",
       "author": "JimmyTango",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791805516.0,
       "content": "If there is any requirement of a Full-Time Programmatic Campaign Manager, Kindly DM.",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x4hx1g",
+      "title": "How do programmatic / UA agencies actually get their clients? Curious about real numbers",
+      "author": "AbdullahS_",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4hx1g/how_do_programmatic_ua_agencies_actually_get/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4hx1g/how_do_programmatic_ua_agencies_actually_get/",
+      "created_utc": 1791849602.0,
+      "content": "I'm getting deeper into the performance UA and programmatic space sale side, and I'm trying to understand how agencies here actually find clients. \n\nWould love to hear from anyone who's run this side of the business.\n\nWhere do most of your clients come from: inbound, outbound, partnerships, or referrals?\n\nIf you outsource outbound (cold email, LinkedIn), what does it cost? Per booked call, monthly retainer, or per lead? Rough ranges are fine.\n\nWhat benchmarks have you seen in practice? Reply rate on cold outreach, reply-to-meeting, meeting-to-closed deal?\n\nNo names or exact figures needed, ranges and gut feel are great.",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
