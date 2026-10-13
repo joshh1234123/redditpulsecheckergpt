@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w7kvy0",
-      "title": "Jeff thought he was the one doing the firing today........",
-      "author": "JimmyTango",
-      "score": 29,
-      "url": "https://i.redd.it/tro0w5egclnh1.png",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w7kvy0/jeff_thought_he_was_the_one_doing_the_firing_today/",
-      "created_utc": 1788565862.0,
-      "content": "",
-      "num_comments": 9,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w7tadr",
       "title": "Has anyone taken a programmatic advertising course in India that provided genuine hands-on DSP experience?",
       "author": "gvshivacharan",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1x4hx1g/how_do_programmatic_ua_agencies_actually_get/",
       "created_utc": 1791849602.0,
       "content": "I'm getting deeper into the performance UA and programmatic space sale side, and I'm trying to understand how agencies here actually find clients. \n\nWould love to hear from anyone who's run this side of the business.\n\nWhere do most of your clients come from: inbound, outbound, partnerships, or referrals?\n\nIf you outsource outbound (cold email, LinkedIn), what does it cost? Per booked call, monthly retainer, or per lead? Rough ranges are fine.\n\nWhat benchmarks have you seen in practice? Reply rate on cold outreach, reply-to-meeting, meeting-to-closed deal?\n\nNo names or exact figures needed, ranges and gut feel are great.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x4tuco",
+      "title": "Increase in sessions from creative swaps",
+      "author": "NMDigitaNinja",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4tuco/increase_in_sessions_from_creative_swaps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4tuco/increase_in_sessions_from_creative_swaps/",
+      "created_utc": 1791889995.0,
+      "content": "When we swap out creative for our clients, we see a high increase in sessions for that day which is most likely a result of platform /SSP QA.  Is there anyway to mitigate this so it does not skew data in analytics?",
       "num_comments": 1,
       "over_18": false,
       "link_flair_text": null

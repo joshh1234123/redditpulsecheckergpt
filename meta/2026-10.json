@@ -419,6 +419,21 @@
       "link_flair_text": null,
       "thread_id": "1x4hx1g",
       "thread_path": "1x4hx1g.json"
+    },
+    {
+      "id": "1x4tuco",
+      "title": "Increase in sessions from creative swaps",
+      "author": "NMDigitaNinja",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x4tuco/increase_in_sessions_from_creative_swaps/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x4tuco/increase_in_sessions_from_creative_swaps/",
+      "created_utc": 1791889995.0,
+      "content": "When we swap out creative for our clients, we see a high increase in sessions for that day which is most likely a result of platform /SSP QA.  Is there anyway to mitigate this so it does not skew data in analytics?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1x4tuco",
+      "thread_path": "1x4tuco.json"
     }
   ]
 }

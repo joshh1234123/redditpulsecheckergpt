@@ -1,0 +1,16 @@
+{
+  "id": "1x4tuco",
+  "thread_id": "1x4tuco",
+  "title": "Increase in sessions from creative swaps",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1x4tuco/increase_in_sessions_from_creative_swaps/",
+  "created_utc": 1791889995.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "FaithlessnessKey6134",
+      "body": "It's just crawler traffic pinging the new creative to confirm it renders properly, pretty standard\n\n  \nyou could filter sessions from known QA IP ranges or set up a separate tracking parameter for test traffic, but most people just build a custom segment in analytics that excludes data from the swap date",
+      "score": 2,
+      "created_utc": 1791890378.0
+    }
+  ]
+}
