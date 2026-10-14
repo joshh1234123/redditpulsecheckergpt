@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-13T23:21:39.016439+00:00",
-    "total_posts": 2091,
+    "scrape_date": "2026-10-14T02:02:33.557839+00:00",
+    "total_posts": 2092,
     "total_comments": 10489
   },
   "discussions": [
@@ -93527,6 +93527,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1x55nc2/programmatic_ad_sales/",
       "created_utc": 1791918395.0,
       "content": "We run a walled garden ad network that reaches 400,000 real estate agents inside the software they must use to transact homes. I have about 5M ad impressions a month that are unsold and we've had a couple of national advertisers run banners and get really strong results. \n\nAll of my ad sales team is focused on local advertisers and I'm trying to figure out how reach more national B2B brands who would be interested in our inventory. It's 100% above the fold, no bots, validated identity ad inventory. Would appreciate any advice.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1x5f40v",
+      "title": "What does the affiliate model and programmatic advertising difference",
+      "author": "AbdullahS_",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x5f40v/what_does_the_affiliate_model_and_programmatic/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x5f40v/what_does_the_affiliate_model_and_programmatic/",
+      "created_utc": 1791942986.0,
+      "content": "I have heard the programmatic is not that much accepted in market so reseller (of agency who owns DSP) use the word affiliate to market it. Is it right?",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
