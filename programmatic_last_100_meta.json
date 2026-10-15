@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1w854y4",
-      "title": "The handoff nobody plans: approved concept to network-ready creative",
-      "author": "Maleficent-Lie1877",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1w854y4/the_handoff_nobody_plans_approved_concept_to/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1w854y4/the_handoff_nobody_plans_approved_concept_to/",
-      "created_utc": 1788625325.0,
-      "content": "Getting creative approved is sometimes where the work *actually* starts.\n\nWith MRAID creatives, there’s usually another round of things to deal with before something is truly ready to go live: package limits, MRAID lifecycle issues, orientation, compression, analytics mapping, legal copy, network previews, device QA, etc.\n\nI've seen the creative team consider the file finished while ad ops still has a list of things that need to be checked before it can actually run.\n\nCurious how other teams handle this handoff. Do you have separate owners for creative acceptance and delivery/network acceptance, or does the same person/team handle both?",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1w8cnom",
       "title": "(For Hire) - Seeking Freelance Opportunities in Programmatic or Meta Marketing.",
       "author": "Excellent_Airline782",
@@ -1302,6 +1289,19 @@
       "created_utc": 1791942986.0,
       "content": "I have heard the programmatic is not that much accepted in market so reseller (of agency who owns DSP) use the word affiliate to market it. Is it right?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x6iuyu",
+      "title": "Diagnose Before You Optimize: Smarter Revenue Decisions with Insights and AI",
+      "author": "TechyRuben",
+      "score": 1,
+      "url": "https://share.vidyard.com/watch/2gH8ir2w4sArNtFjUyoBkA",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x6iuyu/diagnose_before_you_optimize_smarter_revenue/",
+      "created_utc": 1792062754.0,
+      "content": "\n\nOpti Digital we recently had a webinar with Olly Aulakh, CRO, and Rob Beeler, CEO & founder of [Beeler.Tech](http://Beeler.Tech), about how publishers can better understand what is driving revenue changes before jumping into optimization.\n\nThey got into something I think a lot of publisher teams deal with: revenue moves, everyone starts looking for a quick fix, but the reason is not always obvious.\n\nSometimes it is demand. Sometimes traffic mix, content, UX or user behaviour are part of it too. The useful bit was seeing how those signals can be looked at together, so you can understand what is actually changing before making a call.\n\nThey also talked about spotting those shifts earlier, using AI to speed up the investigation, and testing changes rather than assuming that adding more ads or tweaking one lever will solve the problem.\n\nIn case anyone here finds this interesting, leaving the replay here: [https://lp.optidigital.com/diagnose-before-you-optimize-publisher-revenue](https://lp.optidigital.com/diagnose-before-you-optimize-publisher-revenue)\n\n😄 ",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }
