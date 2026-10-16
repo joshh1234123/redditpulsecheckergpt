@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-16T20:21:08.453759+00:00",
-    "total_posts": 2095,
-    "total_comments": 10500
+    "scrape_date": "2026-10-16T22:55:58.073434+00:00",
+    "total_posts": 2096,
+    "total_comments": 10501
   },
   "discussions": [
     {
@@ -93653,6 +93653,27 @@
           "body": "I’m curious to hear from the op as well",
           "score": 2,
           "created_utc": 1792117238.0
+        }
+      ]
+    },
+    {
+      "id": "1x7t5up",
+      "title": "Do you still use media planning tools, or mainly rely on features within CM360 and DSPs?",
+      "author": "maryna-gc",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x7t5up/do_you_still_use_media_planning_tools_or_mainly/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x7t5up/do_you_still_use_media_planning_tools_or_mainly/",
+      "created_utc": 1792187654.0,
+      "content": "Or are you using sophisticated spreadsheets for all planning work? Looking for research insight here",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Late_Woodpecker9089",
+          "body": "our team mostly lives inside cm360 and dv360 for planning now, spreadsheet only for when client wants some weird custom breakdown that the platforms don't spit out easy\n\n  \nused to have separate planning tool but it was just double work, pulling same numbers from different places and then they don't match and you spend half meeting explaining why\n\n  \nsometimes i think we overcomplicate this stuff when the basic reach and freq curves in the platform already tell you 90% of what you need, rest is just making the powerpoint look nice for the brand manager\n\n  \ncurious what others say though, maybe im missing some secret sauce",
+          "score": 2,
+          "created_utc": 1792188288.0
         }
       ]
     }
