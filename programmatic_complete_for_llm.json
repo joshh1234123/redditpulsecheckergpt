@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-17T21:14:27.274128+00:00",
-    "total_posts": 2096,
-    "total_comments": 10501
+    "scrape_date": "2026-10-17T23:16:35.891969+00:00",
+    "total_posts": 2097,
+    "total_comments": 10502
   },
   "discussions": [
     {
@@ -93674,6 +93674,27 @@
           "body": "our team mostly lives inside cm360 and dv360 for planning now, spreadsheet only for when client wants some weird custom breakdown that the platforms don't spit out easy\n\n  \nused to have separate planning tool but it was just double work, pulling same numbers from different places and then they don't match and you spend half meeting explaining why\n\n  \nsometimes i think we overcomplicate this stuff when the basic reach and freq curves in the platform already tell you 90% of what you need, rest is just making the powerpoint look nice for the brand manager\n\n  \ncurious what others say though, maybe im missing some secret sauce",
           "score": 2,
           "created_utc": 1792188288.0
+        }
+      ]
+    },
+    {
+      "id": "1x8mb8j",
+      "title": "Sa 360",
+      "author": "Queasy_Swimmer7914",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x8mb8j/sa_360/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x8mb8j/sa_360/",
+      "created_utc": 1792274033.0,
+      "content": "Anyone here run “flight” ads on SA360 or DV360 for USA market ?  \nAnd does it work or not ? ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Capable_Stress_2410",
+          "body": "depends what you mean by work. used to run flights on sa360 for a client selling mattress toppers, the ctr was fine but the attribution was a mess cause the platform counts view throughs like they are clicks\n\n  \ndv360 give you more control for creative but the learning phase takes forever if your budget is small",
+          "score": 1,
+          "created_utc": 1792274722.0
         }
       ]
     }
