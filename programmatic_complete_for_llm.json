@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-18T06:13:34.318037+00:00",
-    "total_posts": 2097,
-    "total_comments": 10502
+    "scrape_date": "2026-10-18T11:29:34.894880+00:00",
+    "total_posts": 2098,
+    "total_comments": 10504
   },
   "discussions": [
     {
@@ -93695,6 +93695,33 @@
           "body": "depends what you mean by work. used to run flights on sa360 for a client selling mattress toppers, the ctr was fine but the attribution was a mess cause the platform counts view throughs like they are clicks\n\n  \ndv360 give you more control for creative but the learning phase takes forever if your budget is small",
           "score": 1,
           "created_utc": 1792274722.0
+        }
+      ]
+    },
+    {
+      "id": "1x8ydd1",
+      "title": "What's the best spy tool for connected TVs",
+      "author": "boldkingcole",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x8ydd1/whats_the_best_spy_tool_for_connected_tvs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x8ydd1/whats_the_best_spy_tool_for_connected_tvs/",
+      "created_utc": 1792313496.0,
+      "content": "About to launch some CTV campaigns and I'm on the creative side. What spy tool do people use to follow competitors as I'd like to get a good idea of the common structures at the moment. ",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Impressive-Lake8130",
+          "body": "If you're just looking at creative formats and how they structure the spots, you might not even need a full \"spy tool\", pulling up their YouTube channels or checking ad libraries can give you a decent chunk of what's out there already\n\n  \nA lot of the programmatic CTV stuff is sequenced differently across platforms though, so what you see on one device might not match the full campaign flow",
+          "score": 2,
+          "created_utc": 1792313903.0
+        },
+        {
+          "author": "boldkingcole",
+          "body": "I have specific tools for most other platforms so I'd rather have a tool designed for this, the cost will be worth it, at least to get the ball rolling. I'll worry about sequencing etc after we get some data",
+          "score": 0,
+          "created_utc": 1792314111.0
         }
       ]
     }
