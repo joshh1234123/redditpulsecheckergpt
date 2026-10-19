@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wa50iu",
-      "title": "Can any brand choose direct vs. programmatic",
-      "author": "Low-Mud8861",
-      "score": 1,
-      "url": "/r/AskMarketing/comments/1wa502d/can_any_brand_choose_direct_vs_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wa50iu/can_any_brand_choose_direct_vs_programmatic/",
-      "created_utc": 1788816453.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wafwk0",
       "title": "Pivoting to programmatic",
       "author": "Luiara",
@@ -1302,6 +1289,19 @@
       "created_utc": 1792313496.0,
       "content": "About to launch some CTV campaigns and I'm on the creative side. What spy tool do people use to follow competitors as I'd like to get a good idea of the common structures at the moment. ",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1x9vp9w",
+      "title": "Trying to understand Epsilon (UK)",
+      "author": "NormanShoelaces",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x9vp9w/trying_to_understand_epsilon_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x9vp9w/trying_to_understand_epsilon_uk/",
+      "created_utc": 1792413317.0,
+      "content": "I’m relatively new to advertising and trying to understand Epsilon’s (ideally UK) data proposition.\n\nPublicis is heavily invested in Epsilon, both for its capabilities (…and the wider commercial relationship). It’s clearly a major part of the ecosystem, so I’m keen to understand what it genuinely delivers.\n\nA few questions for anyone with hands-on experience:\n\n**What data does it actually have?** How much comes from real purchase transactions, such as loyalty card data, versus browsing behaviour, third-party data etc.\n\n**How does it identify purchase intent?** If building an audience for a high value car like an Alfa Romeo, for example, could it identify affluent consumers from spending data and then determine who is actually in-market for a car? What signals would it use?\n\n**How strong is its browsing data?** Can it identify people actively researching products, including anonymous browsers, or is the proposition more about identity resolution and predictive modelling?\n\n**Where does it fall down?** Are there gaps in data coverage, recency, anonymous browsing or the ability to distinguish someone who fits a profile from someone genuinely ready to buy.\n\nInterested in real-world experiences from agency, client or activation-side people, including where the proposition is genuinely strong and where the marketing might overstate things.",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

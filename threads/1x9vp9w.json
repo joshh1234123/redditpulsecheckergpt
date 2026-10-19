@@ -1,0 +1,28 @@
+{
+  "id": "1x9vp9w",
+  "thread_id": "1x9vp9w",
+  "title": "Trying to understand Epsilon (UK)",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1x9vp9w/trying_to_understand_epsilon_uk/",
+  "created_utc": 1792413317.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "hdiggyh",
+      "body": "The data is decent, comes from lots of direct information like census, addresses, credit info, etc. I would never run it directly with epsilon though since their platform is a black box. If you use it run it via another DSP that allows flexibility with what you do with it ",
+      "score": 2,
+      "created_utc": 1792413834.0
+    },
+    {
+      "author": "Gonzofox89",
+      "body": "It's strong in the US but elsewhere due to data protections it's not great. They are selling it in extremely hard across clients at the moment. \n\nMake sure to test stringently otherwise it will be on every plan moving forward.",
+      "score": 2,
+      "created_utc": 1792415175.0
+    },
+    {
+      "author": "Independent-Use8022",
+      "body": "credit data plus gov records and a mountain of loyalty card stuff from like 4 major UK chains, it's not just browsing signals cobbled together. the car example is tricky though cause they'll flag someone buying premium whiskey and booking first class flights but that doesn't mean they're shopping for an alfa\n\n  \nthe browsing piece is where it gets weird, they can tie anonymous sessions to households through IP matching and device graphs but it's probabilistic not deterministic so you'll get some noise. the real gap is recency, a lot of their financial and property data updates quarterly at best so someone who looked wealthy 6 months ago might've had a lifestyle change\n\n  \nran it through a different DSP last year for a luxury travel client and the retargeting pools were cleaner than expected but the prospecting audiences kept serving ads to my cousin who's a broke PhD student living in a nice postcode",
+      "score": 2,
+      "created_utc": 1792414200.0
+    }
+  ]
+}

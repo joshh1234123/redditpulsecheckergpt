@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-19T11:01:45.702838+00:00",
-    "total_posts": 2098,
-    "total_comments": 10504
+    "scrape_date": "2026-10-19T17:37:43.327711+00:00",
+    "total_posts": 2099,
+    "total_comments": 10507
   },
   "discussions": [
     {
@@ -93722,6 +93722,39 @@
           "body": "I have specific tools for most other platforms so I'd rather have a tool designed for this, the cost will be worth it, at least to get the ball rolling. I'll worry about sequencing etc after we get some data",
           "score": 0,
           "created_utc": 1792314111.0
+        }
+      ]
+    },
+    {
+      "id": "1x9vp9w",
+      "title": "Trying to understand Epsilon (UK)",
+      "author": "NormanShoelaces",
+      "score": 4,
+      "url": "https://www.reddit.com/r/programmatic/comments/1x9vp9w/trying_to_understand_epsilon_uk/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1x9vp9w/trying_to_understand_epsilon_uk/",
+      "created_utc": 1792413317.0,
+      "content": "I’m relatively new to advertising and trying to understand Epsilon’s (ideally UK) data proposition.\n\nPublicis is heavily invested in Epsilon, both for its capabilities (…and the wider commercial relationship). It’s clearly a major part of the ecosystem, so I’m keen to understand what it genuinely delivers.\n\nA few questions for anyone with hands-on experience:\n\n**What data does it actually have?** How much comes from real purchase transactions, such as loyalty card data, versus browsing behaviour, third-party data etc.\n\n**How does it identify purchase intent?** If building an audience for a high value car like an Alfa Romeo, for example, could it identify affluent consumers from spending data and then determine who is actually in-market for a car? What signals would it use?\n\n**How strong is its browsing data?** Can it identify people actively researching products, including anonymous browsers, or is the proposition more about identity resolution and predictive modelling?\n\n**Where does it fall down?** Are there gaps in data coverage, recency, anonymous browsing or the ability to distinguish someone who fits a profile from someone genuinely ready to buy.\n\nInterested in real-world experiences from agency, client or activation-side people, including where the proposition is genuinely strong and where the marketing might overstate things.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "hdiggyh",
+          "body": "The data is decent, comes from lots of direct information like census, addresses, credit info, etc. I would never run it directly with epsilon though since their platform is a black box. If you use it run it via another DSP that allows flexibility with what you do with it ",
+          "score": 2,
+          "created_utc": 1792413834.0
+        },
+        {
+          "author": "Gonzofox89",
+          "body": "It's strong in the US but elsewhere due to data protections it's not great. They are selling it in extremely hard across clients at the moment. \n\nMake sure to test stringently otherwise it will be on every plan moving forward.",
+          "score": 2,
+          "created_utc": 1792415175.0
+        },
+        {
+          "author": "Independent-Use8022",
+          "body": "credit data plus gov records and a mountain of loyalty card stuff from like 4 major UK chains, it's not just browsing signals cobbled together. the car example is tricky though cause they'll flag someone buying premium whiskey and booking first class flights but that doesn't mean they're shopping for an alfa\n\n  \nthe browsing piece is where it gets weird, they can tie anonymous sessions to households through IP matching and device graphs but it's probabilistic not deterministic so you'll get some noise. the real gap is recency, a lot of their financial and property data updates quarterly at best so someone who looked wealthy 6 months ago might've had a lifestyle change\n\n  \nran it through a different DSP last year for a luxury travel client and the retargeting pools were cleaner than expected but the prospecting audiences kept serving ads to my cousin who's a broke PhD student living in a nice postcode",
+          "score": 2,
+          "created_utc": 1792414200.0
         }
       ]
     }
