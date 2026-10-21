@@ -629,6 +629,21 @@
       "link_flair_text": null,
       "thread_id": "1xb7lg3",
       "thread_path": "1xb7lg3.json"
+    },
+    {
+      "id": "1xbgq35",
+      "title": "What's the worst automation mistake you've seen in ad ops, and would an AI agent have caught it or made it worse?",
+      "author": "ML_Felix",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "created_utc": 1792568148.0,
+      "content": "Everyone has one. The decimal in the wrong place, the campaign that ran on the wrong dates, the floor price nobody updated.\n\nWhat's yours? And would an AI agent have saved you, or would it have done the same thing faster?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xbgq35",
+      "thread_path": "1xbgq35.json"
     }
   ]
 }

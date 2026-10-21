@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wavjmp",
-      "title": "Amazon Programmatic Solutions Analyst interview prep",
-      "author": "Slow-Ice-2803",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wavjmp/amazon_programmatic_solutions_analyst_interview/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wavjmp/amazon_programmatic_solutions_analyst_interview/",
-      "created_utc": 1788889730.0,
-      "content": "Hi everyone! I have an interview with Amazon for the Programmatic Solutions Analyst position next Wednesday. This is an L4 role. I have 2+ years of experience in programmatic advertising. My recruiter call is already done and this is the Phone Screening round. It is going to be 1hr long.\n\nThey have already given me an extensive list of topics that I need to prepare for the interview. And trust me it is A LOT. Plus also need to come up with examples from my own experience that align with the LP's and have been told to use the STAR method.\n\nThis all seems pretty clear but I wanted to know if someone has or if you know someone who has given interview for similar role and how was their experience? What kind of Q's were asked? Were they more straightforward Q's when it comes to functional knowledge or more like case studies where I have to debug the outcome or propose a solution?\n\nI am giving Amazon interview for the first time so a little nervous. There are so many LP's as well. The recruiter told me they have no strict consideration for this role. It is a pretty straightforward role. \n\nThanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wb1wiv",
       "title": "TTD and Jeff Green - Does it Again...",
       "author": "Ok-Grocery7508",
@@ -1302,6 +1289,19 @@
       "created_utc": 1792539149.0,
       "content": "Hi, I'm new to advertising, so if anyone has a lot of experience with Viant DSP, please help me out. \n\nI recently set up a few PMP deals, but I'm seeing an extremely low bid rate. I made sure targeting is broad, viewability is low, budget is good, CPM is high above the floor price and Geo is national. I mainly keep things really open. \n\nAnyone knows if there are anything in the DSP that might limit my spend that I'm not aware of? Thanks! ",
       "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xbgq35",
+      "title": "What's the worst automation mistake you've seen in ad ops, and would an AI agent have caught it or made it worse?",
+      "author": "ML_Felix",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "created_utc": 1792568148.0,
+      "content": "Everyone has one. The decimal in the wrong place, the campaign that ran on the wrong dates, the floor price nobody updated.\n\nWhat's yours? And would an AI agent have saved you, or would it have done the same thing faster?",
+      "num_comments": 1,
       "over_18": false,
       "link_flair_text": null
     }

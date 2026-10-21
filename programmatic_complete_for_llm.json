@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-21T06:13:58.072687+00:00",
-    "total_posts": 2102,
-    "total_comments": 10514
+    "scrape_date": "2026-10-21T12:08:26.756503+00:00",
+    "total_posts": 2103,
+    "total_comments": 10515
   },
   "discussions": [
     {
@@ -93841,6 +93841,27 @@
           "body": "Viant has a few hidden levers that catch people out early on. Their supply paths sometimes default to a weird mix of inventory that doesnt line up with your PMP IDs, so half your bids are just evaporating into empty pipes\n\n  \nCheck the deal health tab and look at the actual QPS you're sending versus what the seller is receiving. Sometimes the DSP throttles you if your account is new and hasnt built up much of a bid history with that exchange\n\n  \nAlso make sure your seat isnt capped at the account level, that one trips up loads of people who only tweak campaign budgets",
           "score": 1,
           "created_utc": 1792540224.0
+        }
+      ]
+    },
+    {
+      "id": "1xbgq35",
+      "title": "What's the worst automation mistake you've seen in ad ops, and would an AI agent have caught it or made it worse?",
+      "author": "ML_Felix",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+      "created_utc": 1792568148.0,
+      "content": "Everyone has one. The decimal in the wrong place, the campaign that ran on the wrong dates, the floor price nobody updated.\n\nWhat's yours? And would an AI agent have saved you, or would it have done the same thing faster?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Slow_Rich_9940",
+          "body": "Mine was a CPM bid set at $50 instead of $5.00. It spent the entire monthly budget by 11am. I noticed when the client called asking why they had 3 million impressions and zero conversions.\n\n  \nAn AI agent might’ve caught the anomaly faster than I did, but I can also see it just optimizing toward that disaster at lightning speed if nobody bothered to set guardrails.",
+          "score": 3,
+          "created_utc": 1792568921.0
         }
       ]
     }

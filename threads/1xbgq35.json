@@ -1,0 +1,16 @@
+{
+  "id": "1xbgq35",
+  "thread_id": "1xbgq35",
+  "title": "What's the worst automation mistake you've seen in ad ops, and would an AI agent have caught it or made it worse?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xbgq35/whats_the_worst_automation_mistake_youve_seen_in/",
+  "created_utc": 1792568148.0,
+  "num_comments": 1,
+  "comments": [
+    {
+      "author": "Slow_Rich_9940",
+      "body": "Mine was a CPM bid set at $50 instead of $5.00. It spent the entire monthly budget by 11am. I noticed when the client called asking why they had 3 million impressions and zero conversions.\n\n  \nAn AI agent might’ve caught the anomaly faster than I did, but I can also see it just optimizing toward that disaster at lightning speed if nobody bothered to set guardrails.",
+      "score": 3,
+      "created_utc": 1792568921.0
+    }
+  ]
+}
