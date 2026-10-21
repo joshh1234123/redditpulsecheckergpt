@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wavhna",
-      "title": "Amazon Programmatic Solutions Analyst Interview tips",
-      "author": "Slow-Ice-2803",
-      "score": 1,
-      "url": "/r/interviewpreparations/comments/1wavh8b/amazon_programmatic_solutions_analyst_interview/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wavhna/amazon_programmatic_solutions_analyst_interview/",
-      "created_utc": 1788889615.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wavjmp",
       "title": "Amazon Programmatic Solutions Analyst interview prep",
       "author": "Slow-Ice-2803",
@@ -1302,6 +1289,19 @@
       "created_utc": 1792517865.0,
       "content": "Trying to use Instant Deals for skippable 15 second video. Tried to attach categories just any to be honest like technology but CPM is like $32. I was expecting that high for non-skip.\n\nAre there any settings that get the CPM down a lot lower?\n\n",
       "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xb7lg3",
+      "title": "PMP on Viant DSP",
+      "author": "DukieMonster123",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "created_utc": 1792539149.0,
+      "content": "Hi, I'm new to advertising, so if anyone has a lot of experience with Viant DSP, please help me out. \n\nI recently set up a few PMP deals, but I'm seeing an extremely low bid rate. I made sure targeting is broad, viewability is low, budget is good, CPM is high above the floor price and Geo is national. I mainly keep things really open. \n\nAnyone knows if there are anything in the DSP that might limit my spend that I'm not aware of? Thanks! ",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }

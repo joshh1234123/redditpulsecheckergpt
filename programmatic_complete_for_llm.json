@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-20T22:52:09.264011+00:00",
-    "total_posts": 2101,
-    "total_comments": 10511
+    "scrape_date": "2026-10-21T01:10:45.170319+00:00",
+    "total_posts": 2102,
+    "total_comments": 10514
   },
   "discussions": [
     {
@@ -93808,6 +93808,39 @@
           "body": "Yeah i tried Adwords for YouTube but this week no matter what narrow target for topics/content etc. It keeps showing to places clearly I defined it not to. So I give up on Adwords for YouTube so trying to see if i can select a \"line up\" in DV360 and force it on better places there but not at 32 CPM i would just do TV at that point.",
           "score": 1,
           "created_utc": 1792518610.0
+        }
+      ]
+    },
+    {
+      "id": "1xb7lg3",
+      "title": "PMP on Viant DSP",
+      "author": "DukieMonster123",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "created_utc": 1792539149.0,
+      "content": "Hi, I'm new to advertising, so if anyone has a lot of experience with Viant DSP, please help me out. \n\nI recently set up a few PMP deals, but I'm seeing an extremely low bid rate. I made sure targeting is broad, viewability is low, budget is good, CPM is high above the floor price and Geo is national. I mainly keep things really open. \n\nAnyone knows if there are anything in the DSP that might limit my spend that I'm not aware of? Thanks! ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Upset_Collar9364",
+          "body": "Here’s what I’d check or what questions I have\n\n\\- what audiences are you targeting?  \n\\- is there an inclusion/exclusion list? If so, can you cross reference the avails?  \n\\- are the avails being sent in geo?   \n\\- what are you frequency caps set to?   \n\\- you mentioned “low viewability”, could you elaborate? What exactly is that and what partner is measuring that for you?  \n\\- what SSP(s) are you using?   \n\\- are there any device, language, browser, etc.:. Targets? \n\nAlso feel free to DM me",
+          "score": 2,
+          "created_utc": 1792539909.0
+        },
+        {
+          "author": "Sharp-Cress-7595",
+          "body": "\\- Make sure you have no inclusion list set at the DSP level if you are running on one via deals.   \n\\- do you have pre-bid viewability on - if so take it off and see if that helps",
+          "score": 1,
+          "created_utc": 1792540964.0
+        },
+        {
+          "author": "Such-Brilliant8041",
+          "body": "Viant has a few hidden levers that catch people out early on. Their supply paths sometimes default to a weird mix of inventory that doesnt line up with your PMP IDs, so half your bids are just evaporating into empty pipes\n\n  \nCheck the deal health tab and look at the actual QPS you're sending versus what the seller is receiving. Sometimes the DSP throttles you if your account is new and hasnt built up much of a bid history with that exchange\n\n  \nAlso make sure your seat isnt capped at the account level, that one trips up loads of people who only tweak campaign budgets",
+          "score": 1,
+          "created_utc": 1792540224.0
         }
       ]
     }

@@ -1,0 +1,28 @@
+{
+  "id": "1xb7lg3",
+  "thread_id": "1xb7lg3",
+  "title": "PMP on Viant DSP",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+  "created_utc": 1792539149.0,
+  "num_comments": 3,
+  "comments": [
+    {
+      "author": "Upset_Collar9364",
+      "body": "Here’s what I’d check or what questions I have\n\n\\- what audiences are you targeting?  \n\\- is there an inclusion/exclusion list? If so, can you cross reference the avails?  \n\\- are the avails being sent in geo?   \n\\- what are you frequency caps set to?   \n\\- you mentioned “low viewability”, could you elaborate? What exactly is that and what partner is measuring that for you?  \n\\- what SSP(s) are you using?   \n\\- are there any device, language, browser, etc.:. Targets? \n\nAlso feel free to DM me",
+      "score": 2,
+      "created_utc": 1792539909.0
+    },
+    {
+      "author": "Sharp-Cress-7595",
+      "body": "\\- Make sure you have no inclusion list set at the DSP level if you are running on one via deals.   \n\\- do you have pre-bid viewability on - if so take it off and see if that helps",
+      "score": 1,
+      "created_utc": 1792540964.0
+    },
+    {
+      "author": "Such-Brilliant8041",
+      "body": "Viant has a few hidden levers that catch people out early on. Their supply paths sometimes default to a weird mix of inventory that doesnt line up with your PMP IDs, so half your bids are just evaporating into empty pipes\n\n  \nCheck the deal health tab and look at the actual QPS you're sending versus what the seller is receiving. Sometimes the DSP throttles you if your account is new and hasnt built up much of a bid history with that exchange\n\n  \nAlso make sure your seat isnt capped at the account level, that one trips up loads of people who only tweak campaign budgets",
+      "score": 1,
+      "created_utc": 1792540224.0
+    }
+  ]
+}

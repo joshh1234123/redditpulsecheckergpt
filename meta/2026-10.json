@@ -614,6 +614,21 @@
       "link_flair_text": null,
       "thread_id": "1xayo33",
       "thread_path": "1xayo33.json"
+    },
+    {
+      "id": "1xb7lg3",
+      "title": "PMP on Viant DSP",
+      "author": "DukieMonster123",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xb7lg3/pmp_on_viant_dsp/",
+      "created_utc": 1792539149.0,
+      "content": "Hi, I'm new to advertising, so if anyone has a lot of experience with Viant DSP, please help me out. \n\nI recently set up a few PMP deals, but I'm seeing an extremely low bid rate. I made sure targeting is broad, viewability is low, budget is good, CPM is high above the floor price and Geo is national. I mainly keep things really open. \n\nAnyone knows if there are anything in the DSP that might limit my spend that I'm not aware of? Thanks! ",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xb7lg3",
+      "thread_path": "1xb7lg3.json"
     }
   ]
 }
