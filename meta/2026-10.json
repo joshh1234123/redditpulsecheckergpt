@@ -644,6 +644,21 @@
       "link_flair_text": null,
       "thread_id": "1xbgq35",
       "thread_path": "1xbgq35.json"
+    },
+    {
+      "id": "1xbosah",
+      "title": "Search Console shows positions 6–7, but I can’t find my pages on Google. Is this normal?",
+      "author": "One_Philosopher_8347",
+      "score": 0,
+      "url": "https://i.redd.it/z6edyuwmztwh1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xbosah/search_console_shows_positions_67_but_i_cant_find/",
+      "created_utc": 1792593131.0,
+      "content": "Hi everyone, I’d appreciate a second opinion on whether I’m heading in the right direction.\n\nI originally built an interactive tool for lead generation, but it wasn’t getting much traction. There were also some policy considerations around keeping it as a B2B tool, so I shifted toward programmatic SEO in September and worked on the technical SEO and other basics.\n\nThe screenshot shows the last three months in Search Console:\n\n* 37 clicks\n* 4.26K impressions\n* 0.9% CTR\n* 42.5 average position\n\nMost of the activity started after the September changes, and impressions have been climbing recently. That feels encouraging, but I’m still trying to understand the rankings.\n\nSome individual pages show average positions between 5 and 20, including a couple around 6 and 7. But when I search Google for the queries associated with those pages, I can’t find them.\n\nIs this normal at this stage? Am I misunderstanding how average position works, or should I be checking something else?\n\nBased on the chart, would you consider this a promising start? What would you focus on next?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xbosah",
+      "thread_path": "1xbosah.json"
     }
   ]
 }

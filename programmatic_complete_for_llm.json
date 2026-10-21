@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-21T12:08:26.756503+00:00",
-    "total_posts": 2103,
-    "total_comments": 10515
+    "scrape_date": "2026-10-21T17:28:53.929573+00:00",
+    "total_posts": 2104,
+    "total_comments": 10522
   },
   "discussions": [
     {
@@ -93862,6 +93862,63 @@
           "body": "Mine was a CPM bid set at $50 instead of $5.00. It spent the entire monthly budget by 11am. I noticed when the client called asking why they had 3 million impressions and zero conversions.\n\n  \nAn AI agent might’ve caught the anomaly faster than I did, but I can also see it just optimizing toward that disaster at lightning speed if nobody bothered to set guardrails.",
           "score": 3,
           "created_utc": 1792568921.0
+        }
+      ]
+    },
+    {
+      "id": "1xbosah",
+      "title": "Search Console shows positions 6–7, but I can’t find my pages on Google. Is this normal?",
+      "author": "One_Philosopher_8347",
+      "score": 0,
+      "url": "https://i.redd.it/z6edyuwmztwh1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xbosah/search_console_shows_positions_67_but_i_cant_find/",
+      "created_utc": 1792593131.0,
+      "content": "Hi everyone, I’d appreciate a second opinion on whether I’m heading in the right direction.\n\nI originally built an interactive tool for lead generation, but it wasn’t getting much traction. There were also some policy considerations around keeping it as a B2B tool, so I shifted toward programmatic SEO in September and worked on the technical SEO and other basics.\n\nThe screenshot shows the last three months in Search Console:\n\n* 37 clicks\n* 4.26K impressions\n* 0.9% CTR\n* 42.5 average position\n\nMost of the activity started after the September changes, and impressions have been climbing recently. That feels encouraging, but I’m still trying to understand the rankings.\n\nSome individual pages show average positions between 5 and 20, including a couple around 6 and 7. But when I search Google for the queries associated with those pages, I can’t find them.\n\nIs this normal at this stage? Am I misunderstanding how average position works, or should I be checking something else?\n\nBased on the chart, would you consider this a promising start? What would you focus on next?",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "BurnerAcountInnit",
+          "body": "Senator, this is programmatic. But aside from that, what do countries and devices say? It's promising for an AI generated page :)",
+          "score": 10,
+          "created_utc": 1792593530.0
+        },
+        {
+          "author": "justlikeearth",
+          "body": "yes. this is the most classic google search question. it’s an average. google judges all sorts of behavior and interaction metrics. you probably overindex as someone who has been served your company’s content more than most and also not engaged (since you aren’t actually a customer) so to google you have shown you are not interested in that content. It works a bit differently for organic/paid, but suffice to say that “googling yourself” is not great evidence for reality. ",
+          "score": 4,
+          "created_utc": 1792593690.0
+        },
+        {
+          "author": "Adguy69420",
+          "body": "Yes, it is normal, google take into user data into consideration for their search engine results page.",
+          "score": 3,
+          "created_utc": 1792593892.0
+        },
+        {
+          "author": "One_Philosopher_8347",
+          "body": "what makes you think this is ai generated pages? the niche is specially for US audience and on devices this is what it says\n\nDesktop Impressions: 3,508 Clicks: 25  \nMobile Impressions: 748 Clicks: 12",
+          "score": 0,
+          "created_utc": 1792594073.0
+        },
+        {
+          "author": "One_Philosopher_8347",
+          "body": "and including the ones showing position 6 and 7 respectively and couldn't even find them on the search page and you input the search intent for which they are holding that position?\n\n",
+          "score": 1,
+          "created_utc": 1792594303.0
+        },
+        {
+          "author": "BurnerAcountInnit",
+          "body": "Been there, done that. ",
+          "score": 1,
+          "created_utc": 1792596882.0
+        },
+        {
+          "author": "One_Philosopher_8347",
+          "body": "So do you have any 2cent you want to give if you think this needs some effort. I'm new to this anyways",
+          "score": 1,
+          "created_utc": 1792599407.0
         }
       ]
     }
