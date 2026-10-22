@@ -659,6 +659,21 @@
       "link_flair_text": null,
       "thread_id": "1xbosah",
       "thread_path": "1xbosah.json"
+    },
+    {
+      "id": "1xcm3in",
+      "title": "A few things that stood out in our October ads.txt pull, publishers cut 65.2k lines and direct is down too",
+      "author": "DataBeat_adtech",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xcm3in/a_few_things_that_stood_out_in_our_october_adstxt/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xcm3in/a_few_things_that_stood_out_in_our_october_adstxt/",
+      "created_utc": 1792683761.0,
+      "content": "The direct ads.txt entries went negative for the first time this month since we started tracking.\n\nFull picture- 397k ads.txt lines were added, 462.1k got remove leading to a net -65.2k.For the first time in the series, Publishers are not only trimming resellers but letting the direct partners go too. Resellers made up about 3 quarters of it at -47.8K, direct slipped to -17.4K. Every SSP is being asked to justify its slot now,not just the ones which are sitting behind an intermediary.\n\nNow a caveat upfront before reading too much into the direction- We can’t cleanly separate partner cuts from housekeeping. If a publisher consolidates inventory-sharing declarations under a partner domain, one entry can replace a long list of individually declared sellers. That shows up as removals even though nothing changed commercially Some share of the 65.2K is probably just that which is why we won't rely on the “publishers are dropping direct partners” claim too strongly even though that’s what the headline number says.\n\nTier breakdown was unremarkable, all three negative, low-traffic took the worst of it at -44.3k, high-traffic barely moved at -462.The long tail that drove growth in recent months is now leading the decline.\n\nSSP side, top gainer was Amperwave at 922 lines. Next four within 270 of that. Usually somebody pulls away in a given month & nobody did here. Top gain of under a 1k against a market shedding 65k is the part worth sitting with, because it means this wasn’t supply reallocating between SSPs.\n\nThe bit which is actually useful is the duplication split, as it doesn’t line up with the story the top-line numbers tell. Direct-only share went up a bit in every tier and reseller-only came down, which is what you’d expect if publishers are cutting reseller paths. Fine. But direct plus reseller, which is the bucket where the same SSP sits on a domain through both a direct deal and a reseller path and can end up bidding against itself, didn’t move. Tier 1 still 46% duplicated, tier 2 at 39%, same as last month. So the supply chain is shorter & exactly as it was. Makes sense when you think about which lines are easiest to pull, nobody’s going to start with the ones that require actually auditing their overlap, they’re going to start with the obvious reseller entries. But it does mean “we cleaned up our supply chain” and “we have fewer partners” are not the same claim.\n\n*Processing img aw1pe5uih1xh1...*\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xcm3in",
+      "thread_path": "1xcm3in.json"
     }
   ]
 }
