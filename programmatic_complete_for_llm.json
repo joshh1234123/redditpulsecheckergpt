@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-24T13:45:56.013061+00:00",
-    "total_posts": 2105,
-    "total_comments": 10522
+    "scrape_date": "2026-10-24T17:07:58.860682+00:00",
+    "total_posts": 2106,
+    "total_comments": 10525
   },
   "discussions": [
     {
@@ -93935,6 +93935,39 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1xecdlw",
+      "title": "Anyone tried Scope3/Apostra or another form of agentic media buying?",
+      "author": "maryna-gc",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xecdlw/anyone_tried_scope3apostra_or_another_form_of/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xecdlw/anyone_tried_scope3apostra_or_another_form_of/",
+      "created_utc": 1792857713.0,
+      "content": "Curious to hear if anyone started media buying via AI agents and what’s been your experience so far. ",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Ballytrea",
+          "body": "Ahh...Scope3 let's save the bloody World Brian and then start doing AI. He makes everyone in AdTech laugh. No plans to test his newest endeavor with plenty of far better options out there.",
+          "score": 8,
+          "created_utc": 1792858221.0
+        },
+        {
+          "author": "DifferentWater4905",
+          "body": "tried apostra for a few campaigns last quarter, the setup was kind of a pain but once it learned the account it did fine. kept trying to push everything to display though which was annoying, had to keep an eye on it\n\n  \nnot sure if it actually saved me time or just shifted the work around. reporting took longer than usual cause the ai would make these weird choices and i'd have to explain them to client\n\n  \ncurious what others are seeing, maybe scope3 handles video better",
+          "score": 3,
+          "created_utc": 1792857956.0
+        },
+        {
+          "author": "anita_punch",
+          "body": "All crap ",
+          "score": 1,
+          "created_utc": 1792860823.0
+        }
+      ]
     }
   ]
 }
