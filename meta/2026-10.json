@@ -734,6 +734,36 @@
       "link_flair_text": null,
       "thread_id": "1xgl5aw",
       "thread_path": "1xgl5aw.json"
+    },
+    {
+      "id": "1xh2h27",
+      "title": "A few things that stood out in our October programmatic report where overall CPMs are up +24.8% YoY, but traffic is down and web volume is decoupling from price",
+      "author": "DataBeat_adtech",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xh2h27/a_few_things_that_stood_out_in_our_october/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xh2h27/a_few_things_that_stood_out_in_our_october/",
+      "created_utc": 1793129933.0,
+      "content": "CPMs rose +1.7% MoM (+24.8% YoY) across our network, but headline pricing doesn't tell the full story without looking at impression volume. Traffic pulled back across the board, sessions fell 4.9% and page views dropped 5.9%, so the specific channel & inventory mix matters far more than overall price gains right now.\n\nFull picture, Display CPMs gained +0.8% MoM while Video bounced back +4.2% (though still -20.1% YoY). Mobile (1.64)andDesktop(1.66) sit at near-parity, while CTV eased -5.0% MoM to $6.07 as streaming supply outpaces demand.\n\nThe inventory split is key. App was the only inventory type to grow Q3 revenue YoY, pushing its share to \\~35% as CPMs climbed from $1.22 to $1.65. Web share dropped from 71% to 61%, dragged down by a \\~40% drop in search referrals to top-earning sites.\n\nPartner side, supply is concentrating. Ad Exchange (59%) and Amazon (20%) now control nearly 80% of display volume. Prebid leads integrations at 40% share (1.92CPM),whileAdXfellto36%(1.27 CPM), down -15.9% YoY on CPM as the only integration path in annual decline. TAM CPM jumped +81.2% YoY to $2.12, though 94% of that volume remains tied to Amazon.\n\nWhat this means for Q4: October's CPM gains were driven by studio and entertainment buyers ramping up for fall programming, offsetting a temporary drop in retail spend after back-to-school. Because vertical-level budget shifts are moving faster than overall market spend, publishers should adjust floor rates based on active advertiser categories rather than expecting a broad baseline lift across all inventory.\n\nhttps://preview.redd.it/srb0uy5tb2yh1.png?width=887&format=png&auto=webp&s=eb9967dbe46a49b8e7f07bdd184e8448e4b0c2eb",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xh2h27",
+      "thread_path": "1xh2h27.json"
+    },
+    {
+      "id": "1xh69nt",
+      "title": "Opinions on Jeff’s New Article ?",
+      "author": "Annual-Wash8171",
+      "score": 1,
+      "url": "https://www.thecurrent.com/opinion/op-ed-jeff-green-open-internet-more-important-than-ever-ai",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xh69nt/opinions_on_jeffs_new_article/",
+      "created_utc": 1793138581.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xh69nt",
+      "thread_path": "1xh69nt.json"
     }
   ]
 }
