@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-28T14:45:02.189025+00:00",
-    "total_posts": 2111,
-    "total_comments": 10548
+    "scrape_date": "2026-10-28T20:00:42.459294+00:00",
+    "total_posts": 2113,
+    "total_comments": 10549
   },
   "discussions": [
     {
@@ -94174,6 +94174,41 @@
       "url": "https://www.thecurrent.com/opinion/op-ed-jeff-green-open-internet-more-important-than-ever-ai",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1xh69nt/opinions_on_jeffs_new_article/",
       "created_utc": 1793138581.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1xhw5kr",
+      "title": "Amazon Ads Agent. Not ready yet.",
+      "author": "NiceRecognition9603",
+      "score": 3,
+      "url": "https://i.redd.it/d7azq50f29yh1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xhw5kr/amazon_ads_agent_not_ready_yet/",
+      "created_utc": 1793211863.0,
+      "content": "I’ve been testing Amazon’s AI agent inside the DSP. The good news: it doesn’t make things up. Ask about a deal it has no info on and it says so.\n\nTHE BAD NEWS? It answers only from the help docs 😅 , and those are well behind what’s actually buyable 😞. It also used to suggest Prime Video as the alternative to everything, and only recently stopped.\n\nI keep an updated list of what inventory is actually ready to buy across Amazon’s interfaces, split by country and ad type. If you want it, DM me.",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Key-Competition7411",
+          "body": "that “available in US/Canada only” line is basically the DSP agent’s entire personality at this point",
+          "score": 1,
+          "created_utc": 1793212338.0
+        }
+      ]
+    },
+    {
+      "id": "1xhwlk6",
+      "title": "We saw holiday-specific creative roughly double ROAS on the same remarketing campaign. Built a tool to make refreshes easier. Roast it?",
+      "author": "maryna-gc",
+      "score": 1,
+      "url": "/r/marketingagency/comments/1xhwkfh/we_saw_holidayspecific_creative_roughly_double/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xhwlk6/we_saw_holidayspecific_creative_roughly_double/",
+      "created_utc": 1793212835.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
