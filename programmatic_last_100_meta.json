@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wcvrhg",
-      "title": "Hi! I need help for my college exam.",
-      "author": "Due_Team_5808",
-      "score": 0,
-      "url": "/r/cscareers/comments/1wcvpyd/hi_i_need_help_for_my_college_exam/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wcvrhg/hi_i_need_help_for_my_college_exam/",
-      "created_utc": 1789074138.0,
-      "content": "",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wdoiq7",
       "title": "Seat on DV360",
       "author": "thread_wanderer",
@@ -1302,6 +1289,19 @@
       "created_utc": 1793259947.0,
       "content": "Say you've got $10k to split across display, native and video.\n\nDo you give each format a fixed testing budget upfront or put everything into one campaign and shift spend based on results?\n\nThe second approach sounds more efficient until you realise video, native and display aren't necessarily chasing the same outcomes.\n\nHow are people structuring their initial tests, especially when there's barely enough budget to get meaningful data from all three?",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xilh0f",
+      "title": "New role, misaligned expectations",
+      "author": "kliller1",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xilh0f/new_role_misaligned_expectations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xilh0f/new_role_misaligned_expectations/",
+      "created_utc": 1793283967.0,
+      "content": "Curious of people's thoughts here. I started a new role barely two months ago, launching a data company's audience business. It's a differentiated dataset but a very crowded competitive set. The company has had audiences live on TTD for about 18 months but never had anyone managing it, selling it, or ever even talk to buyers, they just let it run. Some big brands found the audiences and revenue took off when they launched in Q3/Q4 2025 but revenue/usage has consistently gone down since then. \n\nTwo months in and that trend has continued but I'm getting pressured to explain why and I get the feeling they hold me responsible for that. My position is that the revenue decrease is to very much be expected considering nobody at the company ever attempted to contact these agencies, upsell, or anything. I've built up a very strong pipeline so far, but it's also mid-Q4 so a large majority of it is for Q1.\n\nIf it were 5/6 months in and revenue dropped I would be OK taking some responsibility, but this early in my time here, seems like expectations were wildly off. \n\nThoughts?",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

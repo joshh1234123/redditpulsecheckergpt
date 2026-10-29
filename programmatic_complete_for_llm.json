@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-29T10:59:59.431241+00:00",
-    "total_posts": 2114,
-    "total_comments": 10551
+    "scrape_date": "2026-10-29T17:21:26.599028+00:00",
+    "total_posts": 2115,
+    "total_comments": 10556
   },
   "discussions": [
     {
@@ -94239,6 +94239,51 @@
           "body": "With 10K budget I would run video as little as possible. Basically only because am says I have to. I can get triple the amount of imps with display. If I can get video tied off from acq performance I think around 20% of budget is okay for that to drive upper funnel.",
           "score": 1,
           "created_utc": 1793264023.0
+        }
+      ]
+    },
+    {
+      "id": "1xilh0f",
+      "title": "New role, misaligned expectations",
+      "author": "kliller1",
+      "score": 6,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xilh0f/new_role_misaligned_expectations/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xilh0f/new_role_misaligned_expectations/",
+      "created_utc": 1793283967.0,
+      "content": "Curious of people's thoughts here. I started a new role barely two months ago, launching a data company's audience business. It's a differentiated dataset but a very crowded competitive set. The company has had audiences live on TTD for about 18 months but never had anyone managing it, selling it, or ever even talk to buyers, they just let it run. Some big brands found the audiences and revenue took off when they launched in Q3/Q4 2025 but revenue/usage has consistently gone down since then. \n\nTwo months in and that trend has continued but I'm getting pressured to explain why and I get the feeling they hold me responsible for that. My position is that the revenue decrease is to very much be expected considering nobody at the company ever attempted to contact these agencies, upsell, or anything. I've built up a very strong pipeline so far, but it's also mid-Q4 so a large majority of it is for Q1.\n\nIf it were 5/6 months in and revenue dropped I would be OK taking some responsibility, but this early in my time here, seems like expectations were wildly off. \n\nThoughts?",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Neither_Water210",
+          "body": "That's the classic hire-someone-and-expect-magic move. You've walked into a situation where the previous \"growth\" was just luck plus timing, and now the market's doing its thing while you're still getting your feet under the desk\n\n  \nTwo months is nothing for building an actual sales process from scratch. The pipeline for Q1 is what matters, that's where your work shows up. If they can't see the difference between organic discovery and managed growth then you've got a bigger conversation coming about how this role actually functions\n\n  \nI'd put together a quick timeline of what realistic ramp looks like, maybe six months minimum before the revenue line starts bending the right way. If they're already breathing down your neck at eight weeks that's a red flag the size of a barn door",
+          "score": 7,
+          "created_utc": 1793285177.0
+        },
+        {
+          "author": "Any-Belt5994",
+          "body": "Having segments on the shelf at TTD isnt going to help you. There’s two main ways you can sell data on TTD. First, smaller segments that when viewed by TTD, all the users fit into the same category. You dont know how TTD is judging them, so it’s kinda a game of knowing how they classify a device. That’s how you end up getting inclusion in their auto optimization. Second, talk to brands directly, they’re the ones that control what data is used, not the agency. \n\nIf your audiences have scale right now, you should be spending every second selling into the brands now. As the year ends and budgets need to go, it’s going to be about if they can spend it. A new audience could be the key.",
+          "score": 1,
+          "created_utc": 1793285145.0
+        },
+        {
+          "author": "kliller1",
+          "body": "100%. And I've launched audience GTMs at other places before with a lot of success. The team here has had zero agency/audience experience until I came on board and so a lot of it is continuous education, expectation setting, building pipeline, etc. ",
+          "score": 1,
+          "created_utc": 1793286229.0
+        },
+        {
+          "author": "kliller1",
+          "body": "Spoke with TTD recently, they don't even know how audiences are judged or included in auto-optimizations.",
+          "score": 3,
+          "created_utc": 1793286296.0
+        },
+        {
+          "author": "Any-Belt5994",
+          "body": "It’s based on your data segment alignment with a client seed. It is not 1 size fits all, and is intentionally hard to game.",
+          "score": 1,
+          "created_utc": 1793286943.0
         }
       ]
     }
