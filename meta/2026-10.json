@@ -794,6 +794,21 @@
       "link_flair_text": null,
       "thread_id": "1xhwlk6",
       "thread_path": "1xhwlk6.json"
+    },
+    {
+      "id": "1xidmee",
+      "title": "Are you allocating programmatic budgets by format or just letting performance decide?",
+      "author": "soupsipaficionado",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xidmee/are_you_allocating_programmatic_budgets_by_format/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xidmee/are_you_allocating_programmatic_budgets_by_format/",
+      "created_utc": 1793259947.0,
+      "content": "Say you've got $10k to split across display, native and video.\n\nDo you give each format a fixed testing budget upfront or put everything into one campaign and shift spend based on results?\n\nThe second approach sounds more efficient until you realise video, native and display aren't necessarily chasing the same outcomes.\n\nHow are people structuring their initial tests, especially when there's barely enough budget to get meaningful data from all three?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xidmee",
+      "thread_path": "1xidmee.json"
     }
   ]
 }
