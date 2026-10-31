@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-10-31T09:08:49.285003+00:00",
-    "total_posts": 2115,
-    "total_comments": 10556
+    "scrape_date": "2026-10-31T15:26:49.795894+00:00",
+    "total_posts": 2116,
+    "total_comments": 10557
   },
   "discussions": [
     {
@@ -94284,6 +94284,27 @@
           "body": "It’s based on your data segment alignment with a client seed. It is not 1 size fits all, and is intentionally hard to game.",
           "score": 1,
           "created_utc": 1793286943.0
+        }
+      ]
+    },
+    {
+      "id": "1xkarrm",
+      "title": "Looking for CPL Agency",
+      "author": "AbdullahS_",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xkarrm/looking_for_cpl_agency/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xkarrm/looking_for_cpl_agency/",
+      "created_utc": 1793454691.0,
+      "content": "Hey all,\n\nI’m looking for an agency or publisher that can deliver **opted-in leads** on a pay-per-lead basis. Not scraped lists.\n\n**Quick question too:** does anyone run programmatic campaigns on a CPL model for B2B, or is it always CPM/CPC? If you’ve done it, how did lead quality hold up?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "UsedCobra",
+          "body": "CPL for B2B programmatic is a tightrope walk. You can do it, but you're constantly chasing the floor on CPMs to make the math work, which usually drags quality through the mud. Most of what I've seen that actually converts is just remarketing pools masquerading as cold prospecting.",
+          "score": 3,
+          "created_utc": 1793456840.0
         }
       ]
     }
