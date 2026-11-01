@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-01T15:25:06.479936+00:00",
-    "total_posts": 2116,
+    "scrape_date": "2026-11-01T19:51:03.572538+00:00",
+    "total_posts": 2117,
     "total_comments": 10557
   },
   "discussions": [
@@ -94307,6 +94307,20 @@
           "created_utc": 1793456840.0
         }
       ]
+    },
+    {
+      "id": "1xl6sr6",
+      "title": "Ad Measurement Career Advise",
+      "author": "Business_Budget_9706",
+      "score": 3,
+      "url": "/r/AskMarketing/comments/1xl6rw0/ad_measurement_career_advise/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xl6sr6/ad_measurement_career_advise/",
+      "created_utc": 1793549102.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
