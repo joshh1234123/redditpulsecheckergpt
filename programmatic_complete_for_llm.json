@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-02T10:23:25.461168+00:00",
-    "total_posts": 2118,
-    "total_comments": 10557
+    "scrape_date": "2026-11-02T20:27:46.614275+00:00",
+    "total_posts": 2120,
+    "total_comments": 10563
   },
   "discussions": [
     {
@@ -94333,6 +94333,71 @@
       "content": "",
       "num_comments": 0,
       "over_18": true,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1xm2krk",
+      "title": "Placement Jail",
+      "author": "thenight817",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xm2krk/placement_jail/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xm2krk/placement_jail/",
+      "created_utc": 1793638513.0,
+      "content": "I'm making up the term a bit, but it feels like my new campaign is in \"placement jail\" or aka dumpster-level impressions on what would otherwise be fantastic quality sources (big brand news sites).\n\nI'm very experienced in performance marketing, but my sources are not display/programmatic and hoping you guys could share insights on my problem.\n\nI feel like my placements within GDN are hot garbage. I am getting total dogshit CTRs on my ads like .02% and the results are like $7.00 CPCs which just has no chance in hell to work out for the campaign.\n\nTricky part is I've ran this SAME approach on GDN before (many years ago) and was getting like 1% CTRs and the campaign backed out as profitable.\n\nI am using what I know to be proven creatives, as I see many, many competitors running the same things, and I just put my own twist onto them. Lots of experience reverse-engineering working creatives. I don't think I have a creative problem.\n\nI just feel like I'm in some kinda placement jail. I am whitelisting a variety of large news publishers as placements and using standard image ads. Just the CTR feels so broken.\n\nAm I just not bidding enough for \"premium\" placements and am being served dumpster impressions that never work for anyone but brand advertisers looking for impressions? \n\nIf the above were the case, should I be jacking up CPMs hard to force myself into clickable placements? What's the problem here? How do you diagnose?\n\nLooking forward to hearing thoughts!",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Adguy69420",
+          "body": "GDN in general is very low quality, since there is very little level of control from buyer side to tune the placement and inventory.\n\nThe better route would be to onboard a proper DSP platform to execute display media.",
+          "score": 1,
+          "created_utc": 1793639497.0
+        },
+        {
+          "author": "azdak",
+          "body": "> Tricky part is I've ran this SAME approach on GDN before (many years ago) and was getting like 1% CTRs and the campaign backed out as profitable.\n\nNot a valid data point. Everything changes (and broadly gets worse) too fast for anything that happened many years ago to be salient",
+          "score": 1,
+          "created_utc": 1793641213.0
+        },
+        {
+          "author": "MashMeister",
+          "body": "Find a new KPI. CTR isn't the way for Display",
+          "score": 1,
+          "created_utc": 1793642286.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "In dsp I use deals to get the top spots. Or limit by placements/viewability",
+          "score": 1,
+          "created_utc": 1793644899.0
+        },
+        {
+          "author": "thenight817",
+          "body": "Yeah I understand that. Just I see many competitors making it work nonetheless. So I am trying. \n\nDoes this problem ever happen in DSPs too? Like your price point just puts you into a bullshit placement that gets no clicks and your CPCs jack up and its this circle-jerk of money burning? I could see this issue happening regardless of platform.",
+          "score": 1,
+          "created_utc": 1793639897.0
+        },
+        {
+          "author": "Adguy69420",
+          "body": "In DSP, yes and no, it depends on setting. Generally when we aim for a very low CPM bid, we would have to loosen brand suitability, viewability, inventory and frequency setting to wider level, which allows for lower quality placement and inventory to be part of the bidding.\n\nWhen we tighten up those settings, we would have to raise the CPM as well, because the inventory get more expensive, otherwise, we would expect to have very small volume of delivery.",
+          "score": 1,
+          "created_utc": 1793641687.0
+        }
+      ]
+    },
+    {
+      "id": "1xm89c3",
+      "title": "Recommended certificate programs?",
+      "author": "Both_Simple_5111",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xm89c3/recommended_certificate_programs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xm89c3/recommended_certificate_programs/",
+      "created_utc": 1793650702.0,
+      "content": "I have pretty good programmatic advertising experience from working in the industry over 6 years, however, I’m looking to appear a bit more competitive on paper. \n\nWhat programmatic certification courses do you all recommend? I’m not really looking for platform specific courses like (dv360, and trade desk academy) more general programmatic courses. Also anything focused on strategy would be helpful too. \n\nEnd goal is to be more on the strategic side than execution side if that makes sense. \n\nThanks!  ",
+      "num_comments": 0,
+      "over_18": false,
       "link_flair_text": null,
       "comments": []
     }

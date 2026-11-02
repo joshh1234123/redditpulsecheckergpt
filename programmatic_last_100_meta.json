@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wf71m3",
-      "title": "Programmatic Manager (4+ YOE, DV360/TTD) moving to NL for a 1-year Master's. How is the Amsterdam/Randstad programmatic hiring market right now?",
-      "author": "Swimming-Way3474",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wf71m3/programmatic_manager_4_yoe_dv360ttd_moving_to_nl/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wf71m3/programmatic_manager_4_yoe_dv360ttd_moving_to_nl/",
-      "created_utc": 1789304373.0,
-      "content": "Hey r/programmatic,  \nLooking for some honest ground reality from traders and programmatic leads working in the Netherlands (especially Amsterdam/Randstad).  \nA bit of context on my profile:\n\n**Experience:** 4+ years in programmatic media buying/activation at holding groups (Publicis and WPP).  \n\n**Tech Stack:** Hands-on keyboard in DV360, The Trade Desk, Amazon DSP, CM360, and Yahoo DSP.    \n   \n**Plan:** Moving to the Netherlands from India for a 1-year applied master's program (The Hague area).  \nMy primary goal after the 1-year degree is to transition straight onto a trading desk or an in-house programmatic team via the 1-year orientation year (Zoekjaar) visa.\n\nA few questions for folks on the ground:  \n1. **How is agency/trading desk hiring in Amsterdam right now?** Are holding companies (GroupM, Publicis, Omnicom, Dentsu) and independent agencies actively hiring mid/senior traders, or is it heavily frozen?\n\n2. **Language barrier reality check:** For programmatic/ad ops/trader roles managing regional EMEA campaigns, how strict are agencies on Dutch language requirements? Is English genuinely sufficient on the desk?\n\n3. **Graduate to HSM Transition:** For anyone who did the university -> Zoekjaar -> Highly Skilled Migrant (HSM) route: did employers hesitate to sponsor you once your search year was up, or is the reduced salary threshold easy enough for agencies to sponsor?\n\n4. **Networking advice:** Given that it's a fast 1-year program, what’s the best way to get on recruiters’ and media directors’ radars early?  \nAppreciate any no-nonsense insights or reality checks. Thanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1wh9b15",
-      "title": "OpenAI’s ad business is about to miss its forecast by 90%",
-      "author": "DataBeat_adtech",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wh9b15/openais_ad_business_is_about_to_miss_its_forecast/",
-      "created_utc": 1789498478.0,
-      "content": "OpenAI thought ads would be a $2.5B business by 2026, growing to $100B by 2030. But eMarketer says chatbots across the board won’t even crack $1B this year.  \n  \nThat’s not just a miss - that’s a wipeout.  \n  \nThe problem feels pretty simple: people open ChatGPT, ask a question, get an answer, and leave. There’s no natural pause where an ad fits. Google works because ads sit right next to the search results, in the same moment of intent. ChatGPT is more like: question → answer → done.  \n  \nEven if you figure out where to put an ad, how do you prove it worked? Someone sees a suggestion, leaves the chat, does their research somewhere else, and maybe buys later. Good luck attributing that conversion.  \n  \nAnd user behavior is different too. Search often has commercial intent. ChatGPT is more about information or task completion. That’s not the same funnel.",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1whe4ci",
       "title": "Career Advice",
       "author": "YaHeardtheWord",
@@ -1303,6 +1277,32 @@
       "content": "",
       "num_comments": 0,
       "over_18": true,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xm2krk",
+      "title": "Placement Jail",
+      "author": "thenight817",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xm2krk/placement_jail/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xm2krk/placement_jail/",
+      "created_utc": 1793638513.0,
+      "content": "I'm making up the term a bit, but it feels like my new campaign is in \"placement jail\" or aka dumpster-level impressions on what would otherwise be fantastic quality sources (big brand news sites).\n\nI'm very experienced in performance marketing, but my sources are not display/programmatic and hoping you guys could share insights on my problem.\n\nI feel like my placements within GDN are hot garbage. I am getting total dogshit CTRs on my ads like .02% and the results are like $7.00 CPCs which just has no chance in hell to work out for the campaign.\n\nTricky part is I've ran this SAME approach on GDN before (many years ago) and was getting like 1% CTRs and the campaign backed out as profitable.\n\nI am using what I know to be proven creatives, as I see many, many competitors running the same things, and I just put my own twist onto them. Lots of experience reverse-engineering working creatives. I don't think I have a creative problem.\n\nI just feel like I'm in some kinda placement jail. I am whitelisting a variety of large news publishers as placements and using standard image ads. Just the CTR feels so broken.\n\nAm I just not bidding enough for \"premium\" placements and am being served dumpster impressions that never work for anyone but brand advertisers looking for impressions? \n\nIf the above were the case, should I be jacking up CPMs hard to force myself into clickable placements? What's the problem here? How do you diagnose?\n\nLooking forward to hearing thoughts!",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xm89c3",
+      "title": "Recommended certificate programs?",
+      "author": "Both_Simple_5111",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xm89c3/recommended_certificate_programs/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xm89c3/recommended_certificate_programs/",
+      "created_utc": 1793650702.0,
+      "content": "I have pretty good programmatic advertising experience from working in the industry over 6 years, however, I’m looking to appear a bit more competitive on paper. \n\nWhat programmatic certification courses do you all recommend? I’m not really looking for platform specific courses like (dv360, and trade desk academy) more general programmatic courses. Also anything focused on strategy would be helpful too. \n\nEnd goal is to be more on the strategic side than execution side if that makes sense. \n\nThanks!  ",
+      "num_comments": 0,
+      "over_18": false,
       "link_flair_text": null
     }
   ]

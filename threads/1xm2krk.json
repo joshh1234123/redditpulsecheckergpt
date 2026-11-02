@@ -1,0 +1,46 @@
+{
+  "id": "1xm2krk",
+  "thread_id": "1xm2krk",
+  "title": "Placement Jail",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xm2krk/placement_jail/",
+  "created_utc": 1793638513.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "Adguy69420",
+      "body": "GDN in general is very low quality, since there is very little level of control from buyer side to tune the placement and inventory.\n\nThe better route would be to onboard a proper DSP platform to execute display media.",
+      "score": 1,
+      "created_utc": 1793639497.0
+    },
+    {
+      "author": "azdak",
+      "body": "> Tricky part is I've ran this SAME approach on GDN before (many years ago) and was getting like 1% CTRs and the campaign backed out as profitable.\n\nNot a valid data point. Everything changes (and broadly gets worse) too fast for anything that happened many years ago to be salient",
+      "score": 1,
+      "created_utc": 1793641213.0
+    },
+    {
+      "author": "MashMeister",
+      "body": "Find a new KPI. CTR isn't the way for Display",
+      "score": 1,
+      "created_utc": 1793642286.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "In dsp I use deals to get the top spots. Or limit by placements/viewability",
+      "score": 1,
+      "created_utc": 1793644899.0
+    },
+    {
+      "author": "thenight817",
+      "body": "Yeah I understand that. Just I see many competitors making it work nonetheless. So I am trying. \n\nDoes this problem ever happen in DSPs too? Like your price point just puts you into a bullshit placement that gets no clicks and your CPCs jack up and its this circle-jerk of money burning? I could see this issue happening regardless of platform.",
+      "score": 1,
+      "created_utc": 1793639897.0
+    },
+    {
+      "author": "Adguy69420",
+      "body": "In DSP, yes and no, it depends on setting. Generally when we aim for a very low CPM bid, we would have to loosen brand suitability, viewability, inventory and frequency setting to wider level, which allows for lower quality placement and inventory to be part of the bidding.\n\nWhen we tighten up those settings, we would have to raise the CPM as well, because the inventory get more expensive, otherwise, we would expect to have very small volume of delivery.",
+      "score": 1,
+      "created_utc": 1793641687.0
+    }
+  ]
+}
