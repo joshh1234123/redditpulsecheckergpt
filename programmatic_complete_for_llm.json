@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-03T02:31:36.985074+00:00",
-    "total_posts": 2121,
+    "scrape_date": "2026-11-03T10:21:18.502953+00:00",
+    "total_posts": 2122,
     "total_comments": 10564
   },
   "discussions": [
@@ -94421,6 +94421,20 @@
           "created_utc": 1793656292.0
         }
       ]
+    },
+    {
+      "id": "1xmp12y",
+      "title": "Do advertisers still use CPC and CPM bidding in 2026, or has CPA largely replaced them?",
+      "author": "The_Man_of_Words0112",
+      "score": 1,
+      "url": "/r/adops/comments/1xmp0ym/do_advertisers_still_use_cpc_and_cpm_bidding_in/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xmp12y/do_advertisers_still_use_cpc_and_cpm_bidding_in/",
+      "created_utc": 1793700069.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
