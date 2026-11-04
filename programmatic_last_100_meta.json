@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1whszpw",
-      "title": "How are programmatic freelancers finding part-time remote clients? (Beyond Upwork/Malt)",
-      "author": "Low_Preference_6509",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1whszpw/how_are_programmatic_freelancers_finding_parttime/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1whszpw/how_are_programmatic_freelancers_finding_parttime/",
-      "created_utc": 1789553125.0,
-      "content": "Hi everyone!\n\nI am looking for some feedback and advice from the freelance programmatic community.\n\nI have about 8 years of hands on experience in programmatic advertising, more focused on the buy-side (DV360, CM360, TTD, Amazon DSP, StackAdapt) across full funnel campaigns (Awareness to Conversion) for various verticals(Luxury, E-commerce, and so on).\n\nI am currently aiming to secure part time, fully remote freelance contracts, but I am running into a bit of a wall with traditional channels:\n\n* On Malt: The platform setup means waiting for clients to reach out first, which makes active outbound prospecting difficult.\n* Upwork: Offers seem mostly saturated with low-budget/low-margin projects that don't align with market rates for senior talent.\n* Direct outbound through LinkedIn: Reaching out directly to sales directors, team leads, or talent acquisition at major holding companies (Big six) has not yielded results, one contact actually mentioned they strictly go through third-party staffing agencies.\n\nI am considering targeting independent trading desks directly, but I feel like I might be missing better acquisition channels or strategies.\n\nFor those of you successfully freelancing in the programmatic space: How do you structure your prospecting?\n\nAre specialized recruitment/staffing agencies or programmatic-focused platforms the way to go for high ticket remote contracts? What channels or strategies have worked best for you to build a steady pipeline of clients?\n\nAny tips or insights would be hugely appreciated! Many thanks!",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1wi8bwo",
-      "title": "Those who run programmatic display, what do you to evaluate or measure the upper funnel or awareness performance \"potential\" of your campaigns?",
-      "author": "One_Librarian_6182",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wi8bwo/those_who_run_programmatic_display_what_do_you_to/",
-      "created_utc": 1789589380.0,
-      "content": "Not talking about a brand lift study or other research stuff you do after the campaign is over, those don't show the potential but measure the outcome at the end.\n\nI want to know what you do to evaluate whether you're on the right trajectory (the leading indicator stuff) in terms of delivering the upper funnel or awareness performance so that you can do something mid-flight to maximize the outcome.\n\nOne thing most people can do today using their DSP is this (I think): you run a campaign, see impressions/clicks/frequency/reach/viewability all that good stuff DSPs give you out of the box. You know the audience segment has 100K total unique users you can potentially reach, and you see in your reach report that you served impressions across 20K unique users last 30 days. So 20% reach rate. And maybe your \"reach success\" criterion is >40%. So this has a low awareness potential right now and you want to optimize in some ways (frequency adjustment, maybe some bid factoring, etc.). But you're still using the impression count, which isn't satisfactory IMO.",
-      "num_comments": 2,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wiq61f",
       "title": "The worst time to find a broken HTML5 ad is after handoff",
       "author": "AdPreflight-Dev",
@@ -1301,6 +1275,32 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1xn8fio/dave_pickles_to_return_to_the_trade_desk_post/",
       "created_utc": 1793747858.0,
       "content": "",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xnm8cx",
+      "title": "I finally watched how one of our playables gets made",
+      "author": "NotFrancesco",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xnm8cx/i_finally_watched_how_one_of_our_playables_gets/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xnm8cx/i_finally_watched_how_one_of_our_playables_gets/",
+      "created_utc": 1793793046.0,
+      "content": "I'd been briefing playables for years without really knowing what happens after I send the doc. I asked the team at soralexgames to walk me through one from concept to final build. Watching the storyboard turn into a rough prototype, then into the playable, then into a stack of variants with a QA pass for every network made me a little sheepish about all the small tweaks I've casually asked for over the years.\n\nFor those of you on the UA side, how much of the production process do you actually see, and did knowing more change the way you write briefs?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xnsk6w",
+      "title": "Account Manager at StackAdapt or Trading Specialist at TTD?",
+      "author": "mr_bombo",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xnsk6w/account_manager_at_stackadapt_or_trading/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xnsk6w/account_manager_at_stackadapt_or_trading/",
+      "created_utc": 1793809526.0,
+      "content": "I’m currently interviewing for a Senior AM role at StackAdapt (remote w/local travel) and a Senior Trading Specialist role at TTD (hybrid w/3 days in-office).\n\nMy #1 priority is work-life balance as compensation is similar ($130-140K).\n\nI'd love to hear from folks who have experience working in similar roles at either company.\n\nThanks!",
       "num_comments": 7,
       "over_18": false,
       "link_flair_text": null

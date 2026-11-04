@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-04T02:51:23.050989+00:00",
-    "total_posts": 2123,
-    "total_comments": 10571
+    "scrape_date": "2026-11-04T18:08:08.705995+00:00",
+    "total_posts": 2125,
+    "total_comments": 10578
   },
   "discussions": [
     {
@@ -94490,6 +94490,77 @@
           "body": "Has more than 2 brain cells to rub together",
           "score": 1,
           "created_utc": 1793759801.0
+        }
+      ]
+    },
+    {
+      "id": "1xnm8cx",
+      "title": "I finally watched how one of our playables gets made",
+      "author": "NotFrancesco",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xnm8cx/i_finally_watched_how_one_of_our_playables_gets/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xnm8cx/i_finally_watched_how_one_of_our_playables_gets/",
+      "created_utc": 1793793046.0,
+      "content": "I'd been briefing playables for years without really knowing what happens after I send the doc. I asked the team at soralexgames to walk me through one from concept to final build. Watching the storyboard turn into a rough prototype, then into the playable, then into a stack of variants with a QA pass for every network made me a little sheepish about all the small tweaks I've casually asked for over the years.\n\nFor those of you on the UA side, how much of the production process do you actually see, and did knowing more change the way you write briefs?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1xnsk6w",
+      "title": "Account Manager at StackAdapt or Trading Specialist at TTD?",
+      "author": "mr_bombo",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xnsk6w/account_manager_at_stackadapt_or_trading/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xnsk6w/account_manager_at_stackadapt_or_trading/",
+      "created_utc": 1793809526.0,
+      "content": "I’m currently interviewing for a Senior AM role at StackAdapt (remote w/local travel) and a Senior Trading Specialist role at TTD (hybrid w/3 days in-office).\n\nMy #1 priority is work-life balance as compensation is similar ($130-140K).\n\nI'd love to hear from folks who have experience working in similar roles at either company.\n\nThanks!",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "zeeqaahx",
+          "body": "i would go for stackadapt.  \nthey have better culture for people and benefits\n\n  \nalso the yearly party they have is quite famous for being crazy lol enjoy\n\n  \nmeanwhile ttd is struggling on the market and will probably have some toxicity lingering at senior levels",
+          "score": 10,
+          "created_utc": 1793810664.0
+        },
+        {
+          "author": "PsychologyUnique7099",
+          "body": "I work at one and have worked at the other in my last role. I’d say for culture and company trajectory Stackadapt is better but you would learn more about the ins and outs of programmatic and closer to the product in the trading role at TTD. That said, if you prefer talking to people more, I would take the AM role. If it’s simply work life balance take the role at SA 100%",
+          "score": 4,
+          "created_utc": 1793813087.0
+        },
+        {
+          "author": "Skepticalasian",
+          "body": "Former TTDer - no experience at StackAdapt, but make sure you can live on the cash salary at TTD, about 40% of my pay was RSUs that really spiraled out in the past few years. Also, with TS roles, their pay package includes on-target (or whatever sales goal is called now) so they may say a TC of $140 thats like $70 salary, $35 incentive, $35 stock.",
+          "score": 2,
+          "created_utc": 1793814909.0
+        },
+        {
+          "author": "Tdnrabelac",
+          "body": "Having been at both places, I can say the Senior AM role is not too dissimilar to a STS role at TTD. Potentially a little more salesy, but HOK work is the bulk of it. Both are good places to be, the remote benefit of SA is tough to beat (depending on how long your commute would be)",
+          "score": 1,
+          "created_utc": 1793814934.0
+        },
+        {
+          "author": "mr_bombo",
+          "body": "Thanks! Can you elaborate on what you mean by them having a better culture for people? Have you worked there yourself or do you know anyone in an AM position at the company?",
+          "score": 2,
+          "created_utc": 1793810915.0
+        },
+        {
+          "author": "mr_bombo",
+          "body": "I’d prefer to be more behind the scenes and less client facing (I don’t love in-person plans/reports and sales-y work) but I have lots of experience with both. Work life balance is truly the #1 priority though. Thank you!",
+          "score": 1,
+          "created_utc": 1793814311.0
+        },
+        {
+          "author": "Skepticalasian",
+          "body": "Also - Like all things advertising and advertising adjacent, your experience and work life balance will rest entirely on your team and clients. Make sure to poke around on that in your process.",
+          "score": 2,
+          "created_utc": 1793814969.0
         }
       ]
     }
