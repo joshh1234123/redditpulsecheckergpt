@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-03T22:54:03.981833+00:00",
-    "total_posts": 2122,
-    "total_comments": 10564
+    "scrape_date": "2026-11-04T02:51:23.050989+00:00",
+    "total_posts": 2123,
+    "total_comments": 10571
   },
   "discussions": [
     {
@@ -94435,6 +94435,63 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1xn8fio",
+      "title": "Dave Pickles to return to The Trade Desk post retirement",
+      "author": "knights_of_jim",
+      "score": 19,
+      "url": "https://www.adweek.com/programmatic/the-trade-desk-brings-back-dave-pickles-amid-growing-pains/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xn8fio/dave_pickles_to_return_to_the_trade_desk_post/",
+      "created_utc": 1793747858.0,
+      "content": "",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "SkyKing8008",
+          "body": "The turd desk is still going under $10 after earnings. Company is a sinking ship. Sub $5 eventually.",
+          "score": 12,
+          "created_utc": 1793748160.0
+        },
+        {
+          "author": "codalark",
+          "body": "Damage control ",
+          "score": 2,
+          "created_utc": 1793753546.0
+        },
+        {
+          "author": "anita_punch",
+          "body": "TTD is headed to $4",
+          "score": 4,
+          "created_utc": 1793750117.0
+        },
+        {
+          "author": "Any-Belt5994",
+          "body": "I hope this is good for him. He’s such a good dude, I’m shocked he’s coming out of retirement. ",
+          "score": 1,
+          "created_utc": 1793760175.0
+        },
+        {
+          "author": "ItWillBFine69",
+          "body": "Former employee? In the industry?",
+          "score": 4,
+          "created_utc": 1793748519.0
+        },
+        {
+          "author": "cuteman",
+          "body": "Sounds more like sour grapes but TTD could use something",
+          "score": 2,
+          "created_utc": 1793750499.0
+        },
+        {
+          "author": "SaltPathOptimization",
+          "body": "Has more than 2 brain cells to rub together",
+          "score": 1,
+          "created_utc": 1793759801.0
+        }
+      ]
     }
   ]
 }
