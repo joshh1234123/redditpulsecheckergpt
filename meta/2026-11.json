@@ -164,6 +164,36 @@
       "link_flair_text": null,
       "thread_id": "1xo8ru0",
       "thread_path": "1xo8ru0.json"
+    },
+    {
+      "id": "1xoalt7",
+      "title": "Curation platforms- do they add value or unnecessary noise",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "created_utc": 1793856454.0,
+      "content": "Looking for arguments for/ against using a self service curation platform to have more control over inventory quality and ability to put my audience decisioning as close to the supply as possible via curated PMP deals.\n\nVs leveraging the audience targeting in the DSP and maintaining a whitelist methodology to control inventory via open exchange \n\nWhat have others done to test and generate data points to understand where the benefits exist?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xoalt7",
+      "thread_path": "1xoalt7.json"
+    },
+    {
+      "id": "1xof874",
+      "title": "Agency owners, would you rather work with one DSP or use a platform that connects to multiple?",
+      "author": "New_Formal_6674",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "created_utc": 1793874215.0,
+      "content": "We're evaluating programmatic platforms for managing campaigns across multiple clients, and I'm trying to figure out how much flexibility we actually need.\n\nThe options I'm looking at are pretty different. StackAdapt seems to offer a more direct DSP experience, The Trade Desk is a bigger enterprise-oriented option, and Growth Channel takes the multi-DSP approach.\n\nHaving access to multiple DSPs seems pretty useful but is it worth if the agency isnt spending millions? Would you prioritize inventory access, transparency around fees, reporting, or how easy it is to manage multiple client accounts?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xof874",
+      "thread_path": "1xof874.json"
     }
   ]
 }

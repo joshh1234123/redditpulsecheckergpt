@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-05T04:32:20.797155+00:00",
-    "total_posts": 2127,
-    "total_comments": 10580
+    "scrape_date": "2026-11-05T12:52:46.002607+00:00",
+    "total_posts": 2129,
+    "total_comments": 10585
   },
   "discussions": [
     {
@@ -94602,6 +94602,66 @@
           "body": "if you've got real money to spend the trade desk is basically the default answer, especially when compliance matters",
           "score": 2,
           "created_utc": 1793852196.0
+        }
+      ]
+    },
+    {
+      "id": "1xoalt7",
+      "title": "Curation platforms- do they add value or unnecessary noise",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "created_utc": 1793856454.0,
+      "content": "Looking for arguments for/ against using a self service curation platform to have more control over inventory quality and ability to put my audience decisioning as close to the supply as possible via curated PMP deals.\n\nVs leveraging the audience targeting in the DSP and maintaining a whitelist methodology to control inventory via open exchange \n\nWhat have others done to test and generate data points to understand where the benefits exist?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Broad-Tooth218",
+          "body": "tried this exact thing last year, ran a split test across two campaigns with the same creative and spend\n\n  \ncurated pmp actually cleaned up the inventory way more than i expected, less mfa stuff slipping through and the ctr was noticeably better. the dsp whitelist approach worked fine but i was constantly tweaking the list and still catching random garbage placements\n\n  \nif youre already comfortable with deal ids its worth a shot, just keep a close eye on scale cause those curated pools sometimes run dry faster than you think",
+          "score": 1,
+          "created_utc": 1793857074.0
+        },
+        {
+          "author": "Strange_Paint8586",
+          "body": "Yeah we use curators all the time. Have a list of my top 5 vendors if you want it. Dm me",
+          "score": 1,
+          "created_utc": 1793871057.0
+        }
+      ]
+    },
+    {
+      "id": "1xof874",
+      "title": "Agency owners, would you rather work with one DSP or use a platform that connects to multiple?",
+      "author": "New_Formal_6674",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "created_utc": 1793874215.0,
+      "content": "We're evaluating programmatic platforms for managing campaigns across multiple clients, and I'm trying to figure out how much flexibility we actually need.\n\nThe options I'm looking at are pretty different. StackAdapt seems to offer a more direct DSP experience, The Trade Desk is a bigger enterprise-oriented option, and Growth Channel takes the multi-DSP approach.\n\nHaving access to multiple DSPs seems pretty useful but is it worth if the agency isnt spending millions? Would you prioritize inventory access, transparency around fees, reporting, or how easy it is to manage multiple client accounts?",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Gullible-Way7449",
+          "body": "Most of the agencies I know start small and realize later they didn't need all that complexity early on, just one good setup with clear reporting saves so many headaches in the beginning.",
+          "score": 2,
+          "created_utc": 1793874970.0
+        },
+        {
+          "author": "Fickle_Occasion_1412",
+          "body": "The agency I worked with was using multiple dsps, each for their strength.  \nDV - YT and static inv on Google audience, spotify  \nTTD - OOH  \nOutbrain - Native ads",
+          "score": 1,
+          "created_utc": 1793880292.0
+        },
+        {
+          "author": "glock_lesnar",
+          "body": "Never the multi DSP approach. Why play a middle man? Also you’re one step further away from the tech. May as well just hire a media agency to handle the buy if going that route as Growth Channel has no real tech ",
+          "score": 1,
+          "created_utc": 1793882879.0
         }
       ]
     }

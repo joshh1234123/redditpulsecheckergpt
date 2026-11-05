@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wj8lbm",
-      "title": "How are onsite retail media ads actually bought?",
-      "author": "Low-Mud8861",
-      "score": 0,
-      "url": "/r/adops/comments/1whi0ub/how_are_onsite_retail_media_ads_actually_bought/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wj8lbm/how_are_onsite_retail_media_ads_actually_bought/",
-      "created_utc": 1789684572.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1wklnkj",
-      "title": "I actually like spreadsheets and looking at data. Looking for a media buyer to take me under their wing.",
-      "author": "luke_miti",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wklnkj/i_actually_like_spreadsheets_and_looking_at_data/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wklnkj/i_actually_like_spreadsheets_and_looking_at_data/",
-      "created_utc": 1789822857.0,
-      "content": "I know a lot of people get into media buying for the flashy creative side, but I’m much more interested in the data, tracking, and reporting side of Meta ads.\n\nI understand how iOS 14+ changed things, how server-side tracking works, and how to look at blended ROAS / MER instead of just trusting the Meta dashboard blindly. \n\nWhat I lack is real-world application on live accounts.I’m looking for an internship or entry level apprenticeship where I can help with the analytical heavy lifting.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wkzw2l",
       "title": "How should I prepare for the Amazon Loop Interview?",
       "author": "Slow-Ice-2803",
@@ -1302,6 +1276,32 @@
       "created_utc": 1793850449.0,
       "content": "Not looking for biased answers, but what are the best DSPs for clients across all industries- Healthcare, finance, home services. Compliance is critical with steing customer service. Partners that sign BAA's are ideal",
       "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xoalt7",
+      "title": "Curation platforms- do they add value or unnecessary noise",
+      "author": "ProblemNo161",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xoalt7/curation_platforms_do_they_add_value_or/",
+      "created_utc": 1793856454.0,
+      "content": "Looking for arguments for/ against using a self service curation platform to have more control over inventory quality and ability to put my audience decisioning as close to the supply as possible via curated PMP deals.\n\nVs leveraging the audience targeting in the DSP and maintaining a whitelist methodology to control inventory via open exchange \n\nWhat have others done to test and generate data points to understand where the benefits exist?",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xof874",
+      "title": "Agency owners, would you rather work with one DSP or use a platform that connects to multiple?",
+      "author": "New_Formal_6674",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xof874/agency_owners_would_you_rather_work_with_one_dsp/",
+      "created_utc": 1793874215.0,
+      "content": "We're evaluating programmatic platforms for managing campaigns across multiple clients, and I'm trying to figure out how much flexibility we actually need.\n\nThe options I'm looking at are pretty different. StackAdapt seems to offer a more direct DSP experience, The Trade Desk is a bigger enterprise-oriented option, and Growth Channel takes the multi-DSP approach.\n\nHaving access to multiple DSPs seems pretty useful but is it worth if the agency isnt spending millions? Would you prioritize inventory access, transparency around fees, reporting, or how easy it is to manage multiple client accounts?",
+      "num_comments": 3,
       "over_18": false,
       "link_flair_text": null
     }
