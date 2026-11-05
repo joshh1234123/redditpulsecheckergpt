@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wiuxdo",
-      "title": "Question about DV360 access & deal setup",
-      "author": "Ok_Cantaloupe5991",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wiuxdo/question_about_dv360_access_deal_setup/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wiuxdo/question_about_dv360_access_deal_setup/",
-      "created_utc": 1789653850.0,
-      "content": "\n\nHi everyone,\n\nWe have a client who has not granted us access to their **DV360 Partner**, but has given us access only at the **Advertiser level**.\n\nOur buying team says that in this setup they can't set up deals, both **PMP and Programmatic Guaranteed**, because deal setup needs to be done at the Partner level.\n\nHowever, I was under the impression that deals can also be created/managed at the **Advertiser level**, depending on the account configuration and permissions.\n\nHas anyone run into this situation before? Are there specific **DV360 settings, permissions, or differences between Partner-level and Advertiser-level access** that would prevent us from setting up PMP/PG deals with advertiser-only access?\n\nWould be great to understand if this is actually a platform limitation or just a permissions/configuration issue.\n\nThanks!",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wj8lbm",
       "title": "How are onsite retail media ads actually bought?",
       "author": "Low-Mud8861",
@@ -1302,6 +1289,19 @@
       "created_utc": 1793816343.0,
       "content": "Does anybody know of a forum for SSPs to share knowledge about the quality of sellers' (publishers/networks) supply? There are problematic sellers sending IVT into the open internet ecosystem and it is like a game of whack-a-mole to track them down. It seems like we could all benefit from knowledge sharing and Reddit could be a good place to do so?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xo8ru0",
+      "title": "Top DSP",
+      "author": "NMDigitaNinja",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xo8ru0/top_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xo8ru0/top_dsp/",
+      "created_utc": 1793850449.0,
+      "content": "Not looking for biased answers, but what are the best DSPs for clients across all industries- Healthcare, finance, home services. Compliance is critical with steing customer service. Partners that sign BAA's are ideal",
+      "num_comments": 2,
       "over_18": false,
       "link_flair_text": null
     }

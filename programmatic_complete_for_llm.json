@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-04T23:50:25.943805+00:00",
-    "total_posts": 2126,
-    "total_comments": 10578
+    "scrape_date": "2026-11-05T04:32:20.797155+00:00",
+    "total_posts": 2127,
+    "total_comments": 10580
   },
   "discussions": [
     {
@@ -94577,6 +94577,33 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1xo8ru0",
+      "title": "Top DSP",
+      "author": "NMDigitaNinja",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xo8ru0/top_dsp/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xo8ru0/top_dsp/",
+      "created_utc": 1793850449.0,
+      "content": "Not looking for biased answers, but what are the best DSPs for clients across all industries- Healthcare, finance, home services. Compliance is critical with steing customer service. Partners that sign BAA's are ideal",
+      "num_comments": 2,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Jake_dasnake3",
+          "body": "depends on budget",
+          "score": 4,
+          "created_utc": 1793850628.0
+        },
+        {
+          "author": "Worried_Profile2884",
+          "body": "if you've got real money to spend the trade desk is basically the default answer, especially when compliance matters",
+          "score": 2,
+          "created_utc": 1793852196.0
+        }
+      ]
     }
   ]
 }
