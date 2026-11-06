@@ -1,0 +1,46 @@
+{
+  "id": "1xp0glb",
+  "thread_id": "1xp0glb",
+  "title": "Supply side decisioning",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xp0glb/supply_side_decisioning/",
+  "created_utc": 1793929153.0,
+  "num_comments": 6,
+  "comments": [
+    {
+      "author": "magicwings",
+      "body": "I don't know about taking share away from DSPs - I think more supply-side decisioning would go hand-in-hand with DSP usage.\n\nDSPs can only handle so much traffic. Billions of impressions come through but they're only capable of responding to a small percentage of the traffic.\n\nIf you have geo + inclusion list + brand safety etc. then you're filtering that even more and ultimately you're competing for a fraction of a fraction of available inventory.\n\nIf you instead are able to apply that at the SSP level - curating the inventory coming through to the DSP before it reaches it - you bypass the DSP's listening bottleneck and therefore your campaign has a much larger pool of qualified impressions to evaluate. \n\nThis gives you a broader access to inventory and can bid far more strategically. In this way alone, the performance benefits can be very strong\n\nEdit: clarity",
+      "score": 8,
+      "created_utc": 1793930865.0
+    },
+    {
+      "author": "VFL2015",
+      "body": "It’s a black box for the buyer. No way to verify the audience or the CPM mark up on sale side decisioning ",
+      "score": 4,
+      "created_utc": 1793931004.0
+    },
+    {
+      "author": "MicroSofty88",
+      "body": "The question is who is going to buy it? All the customers are in the DSPs already ",
+      "score": 4,
+      "created_utc": 1793932261.0
+    },
+    {
+      "author": "Crazy_Cat_Dude2",
+      "body": "I doubt it. ",
+      "score": 2,
+      "created_utc": 1793929844.0
+    },
+    {
+      "author": "postyyyym",
+      "body": "I don't think it can take market share away from DSPs, as I think the largest agencies and advertisers will always be wedded to a form of a DSP to buy as much as they can in 1 place. However, I do think sell-side decisioning is going to grow even more, especially as more people start to learn how shaping the supply the DSP will see benefits your performance and media quality.\n\nI think the main hurdle to overcome is that a lot of these solutions currently require technical resources that not every buyer, or buying team has access to meaning the alternative is outsourcing it or working with an adtech partner. This is where people raise suspicion about fees, like the old ad network days and is why there's still a fair amount of skepticism\n\n",
+      "score": 1,
+      "created_utc": 1793950457.0
+    },
+    {
+      "author": "Daddy_Biggins",
+      "body": "Exactly. The biggest value prop DSPs have is alignment with the buyers. If the buyer says jump, DSPs say how high.",
+      "score": 1,
+      "created_utc": 1793939443.0
+    }
+  ]
+}

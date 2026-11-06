@@ -194,6 +194,21 @@
       "link_flair_text": null,
       "thread_id": "1xof874",
       "thread_path": "1xof874.json"
+    },
+    {
+      "id": "1xp0glb",
+      "title": "Supply side decisioning",
+      "author": "Usual_Emotion7475",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xp0glb/supply_side_decisioning/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xp0glb/supply_side_decisioning/",
+      "created_utc": 1793929153.0,
+      "content": "Do you think supply side decisioning can gain traction and take market share away from DSPs? IMO if you have the right data,  an ad server its more advantageous to be closer to the supply side. Curious on everybody's takes",
+      "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xp0glb",
+      "thread_path": "1xp0glb.json"
     }
   ]
 }
