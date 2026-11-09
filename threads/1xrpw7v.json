@@ -1,0 +1,40 @@
+{
+  "id": "1xrpw7v",
+  "thread_id": "1xrpw7v",
+  "title": "Recommended app attribution analytics platforms for ctv to app: which would you trust before scaling a streaming fitness campaign?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xrpw7v/recommended_app_attribution_analytics_platforms/",
+  "created_utc": 1794225719.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "tomrnh",
+      "body": "The only way to do it correct is running an incrementality test. Alongside that if you have some sort of attribution in place, you can get impression logs from TTD and add that to the user path. I can run all that for you, let me know if you need help.\n\nWho are you running it through with TTD?",
+      "score": 3,
+      "created_utc": 1794225920.0
+    },
+    {
+      "author": "cuteman",
+      "body": "I'd argue attribution methodology is more important than \"picking the right partner or measurement\" since what you mention is basically just different pixels/tags but essentially the same data even with different device graphs. The signal loss, not the device graph is the issue on CTV> \n\nPeople assume tracking just needs to be shored up and attribution is maxed but in reality CTV is notoriously hard to track with just a pixel. Signal loss is high due to the nature of CTV.\n\nWhat we do, some direct with TTD but mostly through an agency partner is use a combination of Pixel + Offline upload after the conversion to close signal gaps. For CTV it's something like a 90% improvement. \n\nThe challenge is that the max time horizon is 28 days so if a paid subscription occurs after that you'd still have to track trial/installs as the main KPI but then tag it in CRM as being touched by CTV/Programmatic and then generate a report 30/60/90 days later if it does convert to paid.",
+      "score": 1,
+      "created_utc": 1794257027.0
+    },
+    {
+      "author": "Zeballos_Nadin",
+      "body": "Your 6 week window needs room for trials to convert. Otherwise, the last acquisition cohorts look worse simply from having fewer days to pay. Lock the cohort cutoff before launch and show incomplete cohorts separately when comparing vendors and campaign results",
+      "score": 1,
+      "created_utc": 1794227222.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "\\+ 1 for incrementality test. \n\nThere are plenty free CTV incrementality testing tools online if you look for them. Some are even open source so you can look under the hood.\n\nAny mmp or even ttd cross device pixel can be be your optimization lens for the initial stages but only an incrementality/ hold out / mmm setup will complete the picture to answer the branded search lift question.",
+      "score": 1,
+      "created_utc": 1794249739.0
+    },
+    {
+      "author": "Soobhee_Chukwutosin",
+      "body": "You can check appsflyer’s documented ctv measurement. Can your trial hold markets out cleanly or does the dsp buying setup spread impressions across every market?",
+      "score": 0,
+      "created_utc": 1794226918.0
+    }
+  ]
+}

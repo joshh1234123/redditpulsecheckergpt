@@ -209,6 +209,21 @@
       "link_flair_text": null,
       "thread_id": "1xp0glb",
       "thread_path": "1xp0glb.json"
+    },
+    {
+      "id": "1xrpw7v",
+      "title": "Recommended app attribution analytics platforms for ctv to app: which would you trust before scaling a streaming fitness campaign?",
+      "author": "Sayuri_Feasby",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xrpw7v/recommended_app_attribution_analytics_platforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xrpw7v/recommended_app_attribution_analytics_platforms/",
+      "created_utc": 1794225719.0,
+      "content": "Putting together a 6 week US CTV test for a fitness app. Roughly $35k through The Trade Desk, alongside existing paid search and Meta campaigns. The conversion we care about is a paid subscription after the trial, not the install.\n\nI'm choosing the measurement partner before the campaign goes live. Every demo seems happy to show installs after an impression. My concern is how much credit goes to someone who would've signed up through branded search anyway.\n\nWe can supply subscription events and keep a few comparable markets out of the test. We can't identify the person on the couch, and I don't want the report pretending otherwise.\n\nWhich CTV to app attribution platforms make their matching method, lookback windows and overlap with other paid channels easy to inspect? Also interested in the export you get when finance asks for evidence.\n\nA small pilot is fine. Signing an annual contract before seeing how the results change under a shorter view-through window feels backwards.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xrpw7v",
+      "thread_path": "1xrpw7v.json"
     }
   ]
 }

@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wlgf65",
-      "title": "Any recommendations on streaming deals that I can utilize on Amazon Ads DSP?",
-      "author": "Enviromental1001",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wlgf65/any_recommendations_on_streaming_deals_that_i_can/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wlgf65/any_recommendations_on_streaming_deals_that_i_can/",
-      "created_utc": 1789909048.0,
-      "content": "Curious the deals available for streaming on Amazon Ads platform, are there any deals someone can recommend based on prior experience that you felt was priced right and contained inventory that in your experience was effective?\n\nAlready tried the Prime Auction deals but looking to change it up\n\nI am just going for \"reach\" trying to get impressions from people in a large section of New Jersey but trying to avoid Pluto etc, looking for ads to appear on Ad Tiered Paid subscription services.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wlhcwv",
       "title": "Looking to learn Programmatic Advertising (DV360 / CM360) by working on real client accounts",
       "author": "PerceptionKooky3220",
@@ -1302,6 +1289,19 @@
       "created_utc": 1793929153.0,
       "content": "Do you think supply side decisioning can gain traction and take market share away from DSPs? IMO if you have the right data,  an ad server its more advantageous to be closer to the supply side. Curious on everybody's takes",
       "num_comments": 6,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xrpw7v",
+      "title": "Recommended app attribution analytics platforms for ctv to app: which would you trust before scaling a streaming fitness campaign?",
+      "author": "Sayuri_Feasby",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xrpw7v/recommended_app_attribution_analytics_platforms/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xrpw7v/recommended_app_attribution_analytics_platforms/",
+      "created_utc": 1794225719.0,
+      "content": "Putting together a 6 week US CTV test for a fitness app. Roughly $35k through The Trade Desk, alongside existing paid search and Meta campaigns. The conversion we care about is a paid subscription after the trial, not the install.\n\nI'm choosing the measurement partner before the campaign goes live. Every demo seems happy to show installs after an impression. My concern is how much credit goes to someone who would've signed up through branded search anyway.\n\nWe can supply subscription events and keep a few comparable markets out of the test. We can't identify the person on the couch, and I don't want the report pretending otherwise.\n\nWhich CTV to app attribution platforms make their matching method, lookback windows and overlap with other paid channels easy to inspect? Also interested in the export you get when finance asks for evidence.\n\nA small pilot is fine. Signing an annual contract before seeing how the results change under a shorter view-through window feels backwards.",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }
