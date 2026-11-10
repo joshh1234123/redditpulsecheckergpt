@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-09T21:14:15.527731+00:00",
-    "total_posts": 2131,
+    "scrape_date": "2026-11-10T03:41:30.702218+00:00",
+    "total_posts": 2132,
     "total_comments": 10596
   },
   "discussions": [
@@ -94760,6 +94760,20 @@
           "created_utc": 1794226918.0
         }
       ]
+    },
+    {
+      "id": "1xs57c6",
+      "title": "Online CPM calculator and other useful agency tools without annoying ads",
+      "author": "DonSalaam",
+      "score": 0,
+      "url": "https://bidspend.com",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xs57c6/online_cpm_calculator_and_other_useful_agency/",
+      "created_utc": 1794261747.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

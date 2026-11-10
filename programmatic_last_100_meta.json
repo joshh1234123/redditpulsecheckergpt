@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wlhcwv",
-      "title": "Looking to learn Programmatic Advertising (DV360 / CM360) by working on real client accounts",
-      "author": "PerceptionKooky3220",
-      "score": 1,
-      "url": "/r/Google_Ads/comments/1wlhc6q/looking_to_learn_programmatic_advertising_dv360/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wlhcwv/looking_to_learn_programmatic_advertising_dv360/",
-      "created_utc": 1789911548.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wlsle5",
       "title": "What decisions should an ad platform make autonomously?",
       "author": "Potential-Phrase-119",
@@ -1302,6 +1289,19 @@
       "created_utc": 1794225719.0,
       "content": "Putting together a 6 week US CTV test for a fitness app. Roughly $35k through The Trade Desk, alongside existing paid search and Meta campaigns. The conversion we care about is a paid subscription after the trial, not the install.\n\nI'm choosing the measurement partner before the campaign goes live. Every demo seems happy to show installs after an impression. My concern is how much credit goes to someone who would've signed up through branded search anyway.\n\nWe can supply subscription events and keep a few comparable markets out of the test. We can't identify the person on the couch, and I don't want the report pretending otherwise.\n\nWhich CTV to app attribution platforms make their matching method, lookback windows and overlap with other paid channels easy to inspect? Also interested in the export you get when finance asks for evidence.\n\nA small pilot is fine. Signing an annual contract before seeing how the results change under a shorter view-through window feels backwards.",
       "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xs57c6",
+      "title": "Online CPM calculator and other useful agency tools without annoying ads",
+      "author": "DonSalaam",
+      "score": 0,
+      "url": "https://bidspend.com",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xs57c6/online_cpm_calculator_and_other_useful_agency/",
+      "created_utc": 1794261747.0,
+      "content": "",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
