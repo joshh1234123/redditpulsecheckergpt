@@ -239,6 +239,36 @@
       "link_flair_text": null,
       "thread_id": "1xs57c6",
       "thread_path": "1xs57c6.json"
+    },
+    {
+      "id": "1xtjzsb",
+      "title": "Started a new job and struggling to connect with people",
+      "author": "Dianacmartin",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xtjzsb/started_a_new_job_and_struggling_to_connect_with/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xtjzsb/started_a_new_job_and_struggling_to_connect_with/",
+      "created_utc": 1794409368.0,
+      "content": "I recently started a new role where I need to reach out to people I’ve never spoken with before, like potential clients and partners. Getting that first conversation going has been tough. What’s worked for you when contacting someone for the first time? Cold messages, LinkedIn, intros, events? Any tips are appreciated.",
+      "num_comments": 3,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xtjzsb",
+      "thread_path": "1xtjzsb.json"
+    },
+    {
+      "id": "1xto2l3",
+      "title": "Why I skip Amazon Publisher Services when I start an Amazon DSP audio campaign",
+      "author": "NiceRecognition9603",
+      "score": 2,
+      "url": "https://i.redd.it/7itkfyo2r01i1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xto2l3/why_i_skip_amazon_publisher_services_when_i_start/",
+      "created_utc": 1794418500.0,
+      "content": "Just pulled the Amazon DSP audio inventory across the accounts I have access to.\n\nI went through every publisher behind it and found a few surprises:\n\nPeople keep picking Amazon Publisher Services (APS), one of the inventory options inside Amazon DSP audio. Advertisers see the \"restrict music genre\" option, unselect rock, and assume audio campaigns mean music.\n\nNot everything behind audio is music, radio or podcasts. There are also mobile games, some Alexa voice, and supply I could not identify despite years on the platform.\n\nBehind APS sit seven sources: AdsWizz, Amazon Music, DAX, Magnite DV+, Spotify, Triton and Twitch.\n\nYou know Amazon Music, Spotify and Twitch. The other four:\n\n• AdsWizz is a tech reseller with mostly good quality supply: lots of radio and podcasts, plus Pandora and SiriusXM. Most of the podcasts only show up through the podcast ad type or through deals.\n\n• DAX (Global's Digital Audio Exchange) is mostly radio, but it also carries deals with Odeeo (audio ads inside mobile games) and other game monetisation.\n\n• Magnite DV+ is the same picture as DAX: radio, plus game supply.\n\n• Triton (Triton Digital) is mostly iHeartMedia, plus a lot of inventory I could not trace.\n\nThe waste sits in the game and untraced supply inside DAX, Magnite DV+ and Triton. Unless your targeting, frequency caps and all the smaller settings are right from day one, the spend lands on placements that teach you nothing for the next campaign.\n\nAudio also has fewer targeting options than display or video on Amazon DSP, so some strategies you use there are not available here.\n\nMy suggestion: skip APS at the start and buy through deals, where the inventory is narrower. Once you have data and a list of Amazon audiences that convert further down the funnel, APS becomes a good source of reach, especially for small target populations.\n\nIf you have questions about Amazon DSP let me know. I helped a few people here already.\n\n**Source**: pulled from the Amazon DSP audio inventory on 9 Nov",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xto2l3",
+      "thread_path": "1xto2l3.json"
     }
   ]
 }
