@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wmbwb0",
-      "title": "Advertising professionals needed for a short MBA survey on the role of AI in agencies — 2 × €15 Amazon vouchers",
-      "author": "Shangarballz",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wmbwb0/advertising_professionals_needed_for_a_short_mba/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wmbwb0/advertising_professionals_needed_for_a_short_mba/",
-      "created_utc": 1789995047.0,
-      "content": "Hi everyone! I’m conducting a short survey (5-8 min) for my MBA thesis on the role of AI in advertising agencies.\n\nI’m especially looking for advertising and marketing professionals from Germany and Austria, but everyone in the field is welcome. The survey takes only a few minutes and covers how AI is changing agency work, tasks, and responsibilities.\n\nAs a thank-you, two participants will be randomly selected to receive a **€15 Amazon voucher** each.\n\nI’d really appreciate your support. Survey-exchange communities unfortunately didn’t help much.\n\n**Survey link:** [https://survey.fh-vie.ac.at/index.php/568158?lang=en](https://survey.fh-vie.ac.at/index.php/568158?lang=en)\n\nThank you!",
-      "num_comments": 4,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wmdnn9",
       "title": "Requesting questions for a panel",
       "author": "DonkeyShotz",
@@ -1302,6 +1289,19 @@
       "created_utc": 1794418500.0,
       "content": "Just pulled the Amazon DSP audio inventory across the accounts I have access to.\n\nI went through every publisher behind it and found a few surprises:\n\nPeople keep picking Amazon Publisher Services (APS), one of the inventory options inside Amazon DSP audio. Advertisers see the \"restrict music genre\" option, unselect rock, and assume audio campaigns mean music.\n\nNot everything behind audio is music, radio or podcasts. There are also mobile games, some Alexa voice, and supply I could not identify despite years on the platform.\n\nBehind APS sit seven sources: AdsWizz, Amazon Music, DAX, Magnite DV+, Spotify, Triton and Twitch.\n\nYou know Amazon Music, Spotify and Twitch. The other four:\n\n• AdsWizz is a tech reseller with mostly good quality supply: lots of radio and podcasts, plus Pandora and SiriusXM. Most of the podcasts only show up through the podcast ad type or through deals.\n\n• DAX (Global's Digital Audio Exchange) is mostly radio, but it also carries deals with Odeeo (audio ads inside mobile games) and other game monetisation.\n\n• Magnite DV+ is the same picture as DAX: radio, plus game supply.\n\n• Triton (Triton Digital) is mostly iHeartMedia, plus a lot of inventory I could not trace.\n\nThe waste sits in the game and untraced supply inside DAX, Magnite DV+ and Triton. Unless your targeting, frequency caps and all the smaller settings are right from day one, the spend lands on placements that teach you nothing for the next campaign.\n\nAudio also has fewer targeting options than display or video on Amazon DSP, so some strategies you use there are not available here.\n\nMy suggestion: skip APS at the start and buy through deals, where the inventory is narrower. Once you have data and a list of Amazon audiences that convert further down the funnel, APS becomes a good source of reach, especially for small target populations.\n\nIf you have questions about Amazon DSP let me know. I helped a few people here already.\n\n**Source**: pulled from the Amazon DSP audio inventory on 9 Nov",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xu3vme",
+      "title": "Thinking of taking a short career break due to agency burnout—how hard is it to bounce back in India?",
+      "author": "HeyItsAmisha",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xu3vme/thinking_of_taking_a_short_career_break_due_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xu3vme/thinking_of_taking_a_short_career_break_due_to/",
+      "created_utc": 1794459375.0,
+      "content": "Hi everyone,\n\nI work in programmatic advertising with \\~5 years of experience. I switched to one of the Big 4/agency networks in India back in August, and honestly, the work culture and pace are burning me out fast.\n\nI’m seriously considering taking a short break to reset, but I’m terrified of how recruiters will view a gap—especially in an industry that values continuous hands-on experience over certifications.\n\nHas anyone here taken a short career break (a few weeks to a couple of months)? How tough was it to land interviews and get back in? Would love to hear your honest experiences.",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

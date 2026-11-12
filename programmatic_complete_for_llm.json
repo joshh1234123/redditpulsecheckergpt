@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-12T02:38:18.228548+00:00",
-    "total_posts": 2134,
-    "total_comments": 10599
+    "scrape_date": "2026-11-12T10:30:49.786299+00:00",
+    "total_posts": 2135,
+    "total_comments": 10604
   },
   "discussions": [
     {
@@ -94821,6 +94821,51 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1xu3vme",
+      "title": "Thinking of taking a short career break due to agency burnout—how hard is it to bounce back in India?",
+      "author": "HeyItsAmisha",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xu3vme/thinking_of_taking_a_short_career_break_due_to/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xu3vme/thinking_of_taking_a_short_career_break_due_to/",
+      "created_utc": 1794459375.0,
+      "content": "Hi everyone,\n\nI work in programmatic advertising with \\~5 years of experience. I switched to one of the Big 4/agency networks in India back in August, and honestly, the work culture and pace are burning me out fast.\n\nI’m seriously considering taking a short break to reset, but I’m terrified of how recruiters will view a gap—especially in an industry that values continuous hands-on experience over certifications.\n\nHas anyone here taken a short career break (a few weeks to a couple of months)? How tough was it to land interviews and get back in? Would love to hear your honest experiences.",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Hiya_works",
+          "body": "In current time, its horrible. Took a break last year for similar reasons and yet to get a job. Hate to say this but hold on till you can.. its uglier on the other side",
+          "score": 7,
+          "created_utc": 1794459895.0
+        },
+        {
+          "author": "Hemano_",
+          "body": "I have a friend who left Annalecr w/o any job offer, took some time off like 2 weeks and then bagged 3 offers - MediaMint, WPP, and one more comp I don't remember - he is pretty good w the product tho (only buying sidd exp so far but understands the whole ecosystem well). This was last year December exactly",
+          "score": 2,
+          "created_utc": 1794460699.0
+        },
+        {
+          "author": "HeyItsAmisha",
+          "body": "This sounds really bad.. sorry you had to go through this",
+          "score": 5,
+          "created_utc": 1794460071.0
+        },
+        {
+          "author": "HeyItsAmisha",
+          "body": "Have Dm'ed you. ",
+          "score": 1,
+          "created_utc": 1794461691.0
+        },
+        {
+          "author": "Hiya_works",
+          "body": "Thank you.. Hoping for something good to happen soon :) ",
+          "score": 3,
+          "created_utc": 1794460593.0
+        }
+      ]
     }
   ]
 }
