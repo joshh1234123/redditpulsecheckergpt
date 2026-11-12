@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-12T10:30:49.786299+00:00",
-    "total_posts": 2135,
-    "total_comments": 10604
+    "scrape_date": "2026-11-12T18:32:05.231468+00:00",
+    "total_posts": 2136,
+    "total_comments": 10605
   },
   "discussions": [
     {
@@ -94864,6 +94864,27 @@
           "body": "Thank you.. Hoping for something good to happen soon :) ",
           "score": 3,
           "created_utc": 1794460593.0
+        }
+      ]
+    },
+    {
+      "id": "1xu9zpo",
+      "title": "I finally watched how one of our playables gets made",
+      "author": "Farmerofwooooshes",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xu9zpo/i_finally_watched_how_one_of_our_playables_gets/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xu9zpo/i_finally_watched_how_one_of_our_playables_gets/",
+      "created_utc": 1794481510.0,
+      "content": "I'd been briefing playables for years without really knowing what happens after I send the doc. I asked the team at soralexgames to walk me through one from concept to final build. Watching the storyboard turn into a rough prototype, then into the playable, then into a stack of variants with a QA pass for every network made me a little sheepish about all the small tweaks I've casually asked for over the years.\n\n\n\nFor those of you on the UA side, how much of the production process do you actually see, and did knowing more change the way you write briefs?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Misanope",
+          "body": "don't you work for sorasslexgames though? since you keep posting things referencing this company no one has heard of as if you were a client of theirs, and you have your post history hidden.",
+          "score": 1,
+          "created_utc": 1794495720.0
         }
       ]
     }

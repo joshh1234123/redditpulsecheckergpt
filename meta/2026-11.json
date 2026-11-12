@@ -284,6 +284,21 @@
       "link_flair_text": null,
       "thread_id": "1xu3vme",
       "thread_path": "1xu3vme.json"
+    },
+    {
+      "id": "1xu9zpo",
+      "title": "I finally watched how one of our playables gets made",
+      "author": "Farmerofwooooshes",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xu9zpo/i_finally_watched_how_one_of_our_playables_gets/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xu9zpo/i_finally_watched_how_one_of_our_playables_gets/",
+      "created_utc": 1794481510.0,
+      "content": "I'd been briefing playables for years without really knowing what happens after I send the doc. I asked the team at soralexgames to walk me through one from concept to final build. Watching the storyboard turn into a rough prototype, then into the playable, then into a stack of variants with a QA pass for every network made me a little sheepish about all the small tweaks I've casually asked for over the years.\n\n\n\nFor those of you on the UA side, how much of the production process do you actually see, and did knowing more change the way you write briefs?",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xu9zpo",
+      "thread_path": "1xu9zpo.json"
     }
   ]
 }
