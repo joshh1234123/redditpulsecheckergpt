@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-13T04:44:43.032259+00:00",
-    "total_posts": 2136,
+    "scrape_date": "2026-11-13T12:45:37.112362+00:00",
+    "total_posts": 2137,
     "total_comments": 10605
   },
   "discussions": [
@@ -94887,6 +94887,20 @@
           "created_utc": 1794495720.0
         }
       ]
+    },
+    {
+      "id": "1xv0bqp",
+      "title": "13 years on the publisher side of ad tech, where should I be looking next?",
+      "author": "Hiya_works",
+      "score": 1,
+      "url": "/r/adtech/comments/1xv0ad5/13_years_on_the_publisher_side_of_ad_tech_where/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xv0bqp/13_years_on_the_publisher_side_of_ad_tech_where/",
+      "created_utc": 1794550457.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
