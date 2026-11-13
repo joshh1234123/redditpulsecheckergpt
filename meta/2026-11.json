@@ -314,6 +314,36 @@
       "link_flair_text": null,
       "thread_id": "1xv0bqp",
       "thread_path": "1xv0bqp.json"
+    },
+    {
+      "id": "1xvcyfj",
+      "title": "Performance marketers in India: how painful is cross-platform reporting across Amazon, Flipkart,Blinkit,Instamart, Zepto?",
+      "author": "MethodSilent5127",
+      "score": 1,
+      "url": "/r/DigitalMarketing/comments/1xvcxzi/performance_marketers_in_india_how_painful_is/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xvcyfj/performance_marketers_in_india_how_painful_is/",
+      "created_utc": 1794588596.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xvcyfj",
+      "thread_path": "1xvcyfj.json"
+    },
+    {
+      "id": "1xvh43w",
+      "title": "Data from our November sellers report shows a 291.7k net increase in ads.txt, but it's where that supply came from & what it means for supply quality",
+      "author": "DataBeat_adtech",
+      "score": 2,
+      "url": "https://i.redd.it/m96rivnokf1i1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xvh43w/data_from_our_november_sellers_report_shows_a/",
+      "created_utc": 1794597822.0,
+      "content": "At first glance, that looks like a sharp reversal from October's decline. But this month also marks the first time we've included app-ads.txt alongside ads.txt, bringing mobile & connected app inventory into the same view.\n\nThat means November is less about supply rebounding & more about seeing a larger part of the market for the first time.\n\n* Across the combined dataset, 591.9k lines were added and 300.2k removed, resulting in a net increase of 291.7k. A significant part of this increase comes from app inventory entering the dataset for the first time. That makes Nov a new baseline rather than a like for like comparison with October's -65.2k. The consolidation we've been tracking across web inventory hasn't necessarily stopped. It's now being measured alongside a much larger pool of app supply.\n* Another area worth looking at is how direct & reseller entries changed. Pubs added 226.9k direct lines & removed 92.1k. Reseller additions were higher at 365k, against 208.1k removals. While resellers contributed more additions in absolute terms, direct entries saw fewer removals relative to their additions. For every direct line removed nearly 2.5 were added. The corresponding ratio for reseller lines was around 1.75.\n* The growth was also concentrated among mid traffic publishers. They contributed +219.9k net lines, accounting for roughly three-quarters of the total increase. low traffic publishers added another 75.4k, while high traffic publishers were slightly negative at -3.7k. The top 1,000 publishers remained essentially flat to negative with most of the growth coming from the next 9,000.\n* On the SSP side, Rubicon (Magnite) led overall net line gains with 1,882, followed by OpenX at 1,517 and AppNexus at 1,105. OpenX is particularly worth watching here. It appeared in the top five across all three publisher tiers and also led established SSPs in direct domain gains at 532. Minute Media led the scaling tier at 126, while Prismriot topped emerging at 75. Prismriot also recorded the largest rank increase in its tier, moving up 289 positions. It's worth noting that these rank changes are measured within each SSP tier, so a significant jump in ranking doesn't necessarily translate into a similar increase in domain volume.\n\nThe duplication numbers add another layer to the picture. Established SSPs recorded 32% duplicated domains, compared with 30% for both scaling & emerging. Their direct plus reseller share was also higher at 34.78%, against 29.45% for Tier 2 & 28.01% for Tier 3. This overlap matters because it points to domains where an SSP has both a direct connection & a reseller path. Established SSPs also recorded the highest average intermediary count at 0.98, compared with 0.92 for the other two tiers.\n\nThe bigger question isn't how much supply was added this month. It's where that supply came from & what it means for supply quality. App inventory expands the view of the market but adding more supply isn't always the same as adding more unique inventory.\n\n",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xvh43w",
+      "thread_path": "1xvh43w.json"
     }
   ]
 }
