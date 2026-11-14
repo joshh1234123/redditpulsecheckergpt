@@ -1,0 +1,52 @@
+{
+  "id": "1xvxw3s",
+  "thread_id": "1xvxw3s",
+  "title": "where does a $10 CPM actually go?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1xvxw3s/where_does_a_10_cpm_actually_go/",
+  "created_utc": 1794646987.0,
+  "num_comments": 7,
+  "comments": [
+    {
+      "author": "RelationArtistic1076",
+      "body": "The breakout of the CPM will never shown to clients/Customers",
+      "score": 5,
+      "created_utc": 1794649909.0
+    },
+    {
+      "author": "CarmeloManning",
+      "body": "Most of it goes into undeserving pockets ",
+      "score": 3,
+      "created_utc": 1794653226.0
+    },
+    {
+      "author": "hdiggyh",
+      "body": "You can see all costs associated with your budget in reporting in yahoo DSP. Just select the fields in reporting and it will break it out. Platform fee, data, any 3p partner like ias or whatever, etc etc. the  majority will be inventory cost. ",
+      "score": 3,
+      "created_utc": 1794655433.0
+    },
+    {
+      "author": "EssayerX",
+      "body": "The platform fees, data fees and targeting fees are usually baked into the CPM. The ad serving and verification fees are separated out. The agency fees are usually separate as well. Almost none of the advertisers I speak to know hoe much of their media spend is actually going towards assorted costs vs working media. They don’t know, most don’t know they don’t know and most don’t seem to care. It’s odd. ",
+      "score": 2,
+      "created_utc": 1794650362.0
+    },
+    {
+      "author": "describe_one",
+      "body": "There are some fees buried into media before they hit the DSP, especially if using PMPs. You can see most with reporting that looks at media costs vs total costs/fees. Unless you've got a SSP seat you're plugging directly into your DSP, you won't see everything.",
+      "score": 1,
+      "created_utc": 1794662086.0
+    },
+    {
+      "author": "ApartInfluence4429",
+      "body": "Which is what they should be",
+      "score": 1,
+      "created_utc": 1794662348.0
+    },
+    {
+      "author": "ladipn",
+      "body": "If they know and it’s incredibly low, they are obligated to do something about it. Thats more work and also more risk in signing new contracts for more transparent supply paths. Which are more often higher CPMs.\n\nDon’t ask, don’t tell",
+      "score": 3,
+      "created_utc": 1794650692.0
+    }
+  ]
+}

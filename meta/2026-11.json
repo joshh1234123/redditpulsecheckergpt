@@ -344,6 +344,21 @@
       "link_flair_text": null,
       "thread_id": "1xvh43w",
       "thread_path": "1xvh43w.json"
+    },
+    {
+      "id": "1xvxw3s",
+      "title": "where does a $10 CPM actually go?",
+      "author": "s0ggyfries_777",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xvxw3s/where_does_a_10_cpm_actually_go/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xvxw3s/where_does_a_10_cpm_actually_go/",
+      "created_utc": 1794646987.0,
+      "content": "everyone argues about working vs non-working media, and the fee lines are always the same suspects: platform fee, data fee, ad serving, verification, measurement. between the dsp, the data providers and the verification vendors the stack adds up fast - and none of it shows in the cpm you bid. \n\ni only saw the full stack itemized because growth channel (the platform i work with) breaks the lines out in the ui. no idea how visible this is on a ttd or dv360 seat.\n\nso a question for buyers at holdco scale or on reseller seats: what's your real working-media ratio once every line is itemized? and which line surprised you most the first time you saw it broken out? not vendor-bashing - i honestly don't know what normal looks like.",
+      "num_comments": 7,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xvxw3s",
+      "thread_path": "1xvxw3s.json"
     }
   ]
 }

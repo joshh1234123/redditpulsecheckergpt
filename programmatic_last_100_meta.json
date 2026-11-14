@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wn4ihc",
-      "title": "For programmatic jobs in India, should a beginner learn DV360, CM360 or The Trade Desk first?",
-      "author": "gvshivacharan",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wn4ihc/for_programmatic_jobs_in_india_should_a_beginner/",
-      "created_utc": 1790068695.0,
-      "content": "I’m trying to understand the most useful learning order for someone aiming for a junior programmatic role in India.\n\nDV360 and The Trade Desk are buying platforms, while CM360 is used for ad serving and measurement. If a beginner has limited time, where would you suggest they start?\n\nI’d especially like to hear from people involved in hiring or training junior traders: which skills do new joiners actually use first, and which can they learn on the job?\n\nFor context, I’m already associated with a programmatic training provider in India. Now, I want to know about skill priorities and i'm not looking for course recommendations.",
-      "num_comments": 1,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wn8fyv",
       "title": "Ssp performance",
       "author": "Blasterblade_09",
@@ -1302,6 +1289,19 @@
       "created_utc": 1794597822.0,
       "content": "At first glance, that looks like a sharp reversal from October's decline. But this month also marks the first time we've included app-ads.txt alongside ads.txt, bringing mobile & connected app inventory into the same view.\n\nThat means November is less about supply rebounding & more about seeing a larger part of the market for the first time.\n\n* Across the combined dataset, 591.9k lines were added and 300.2k removed, resulting in a net increase of 291.7k. A significant part of this increase comes from app inventory entering the dataset for the first time. That makes Nov a new baseline rather than a like for like comparison with October's -65.2k. The consolidation we've been tracking across web inventory hasn't necessarily stopped. It's now being measured alongside a much larger pool of app supply.\n* Another area worth looking at is how direct & reseller entries changed. Pubs added 226.9k direct lines & removed 92.1k. Reseller additions were higher at 365k, against 208.1k removals. While resellers contributed more additions in absolute terms, direct entries saw fewer removals relative to their additions. For every direct line removed nearly 2.5 were added. The corresponding ratio for reseller lines was around 1.75.\n* The growth was also concentrated among mid traffic publishers. They contributed +219.9k net lines, accounting for roughly three-quarters of the total increase. low traffic publishers added another 75.4k, while high traffic publishers were slightly negative at -3.7k. The top 1,000 publishers remained essentially flat to negative with most of the growth coming from the next 9,000.\n* On the SSP side, Rubicon (Magnite) led overall net line gains with 1,882, followed by OpenX at 1,517 and AppNexus at 1,105. OpenX is particularly worth watching here. It appeared in the top five across all three publisher tiers and also led established SSPs in direct domain gains at 532. Minute Media led the scaling tier at 126, while Prismriot topped emerging at 75. Prismriot also recorded the largest rank increase in its tier, moving up 289 positions. It's worth noting that these rank changes are measured within each SSP tier, so a significant jump in ranking doesn't necessarily translate into a similar increase in domain volume.\n\nThe duplication numbers add another layer to the picture. Established SSPs recorded 32% duplicated domains, compared with 30% for both scaling & emerging. Their direct plus reseller share was also higher at 34.78%, against 29.45% for Tier 2 & 28.01% for Tier 3. This overlap matters because it points to domains where an SSP has both a direct connection & a reseller path. Established SSPs also recorded the highest average intermediary count at 0.98, compared with 0.92 for the other two tiers.\n\nThe bigger question isn't how much supply was added this month. It's where that supply came from & what it means for supply quality. App inventory expands the view of the market but adding more supply isn't always the same as adding more unique inventory.\n\n",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xvxw3s",
+      "title": "where does a $10 CPM actually go?",
+      "author": "s0ggyfries_777",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xvxw3s/where_does_a_10_cpm_actually_go/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xvxw3s/where_does_a_10_cpm_actually_go/",
+      "created_utc": 1794646987.0,
+      "content": "everyone argues about working vs non-working media, and the fee lines are always the same suspects: platform fee, data fee, ad serving, verification, measurement. between the dsp, the data providers and the verification vendors the stack adds up fast - and none of it shows in the cpm you bid. \n\ni only saw the full stack itemized because growth channel (the platform i work with) breaks the lines out in the ui. no idea how visible this is on a ttd or dv360 seat.\n\nso a question for buyers at holdco scale or on reseller seats: what's your real working-media ratio once every line is itemized? and which line surprised you most the first time you saw it broken out? not vendor-bashing - i honestly don't know what normal looks like.",
+      "num_comments": 7,
       "over_18": false,
       "link_flair_text": null
     }
