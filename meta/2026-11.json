@@ -374,6 +374,21 @@
       "link_flair_text": null,
       "thread_id": "1xwod0s",
       "thread_path": "1xwod0s.json"
+    },
+    {
+      "id": "1xxh7f7",
+      "title": "When should you add programmatic prospecting to a niche B2B lead generation campaign?",
+      "author": "Toby_Markham",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xxh7f7/when_should_you_add_programmatic_prospecting_to_a/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xxh7f7/when_should_you_add_programmatic_prospecting_to_a/",
+      "created_utc": 1794806831.0,
+      "content": "I recently reviewed a paid-media project for a laboratory information management system, or LIMS. What interested me was the order the team did things in. They fixed conversion tracking, rebuilt paid search, then started retargeting. Broader demand generation came later, once the campaigns aimed at people already looking for the product were performing better.\n\nThe tracking work mattered because the team needed a baseline before expanding beyond paid search. They built audience segments in Google Analytics for retargeting and spent time improving the bottom of the funnel. Once they were seeing better conversion rates, they used additional budget to reach people earlier in the buying process. The published write-up doesn’t specify the DSP, geography, or audience rules, so I’d be careful about drawing conclusions about the media setup itself.\n\nThe case reports twice as many leads with a 37% increase in budget and a 39% lower average CPC after the team took over the campaigns. Those are reported results for the wider paid-media work. Search, conversion tracking, retargeting, and budget all changed. There’s no channel-level lead breakdown or holdout, and the write-up doesn’t define which leads qualified. I’d use this as a case about sequencing the work. The numbers leave open how much demand programmatic added.\n\nWhat I’d measure on the next account\n\nBefore adding prospecting, I’d agree with sales on what counts as a qualified enquiry and check whether those outcomes can be tied back to the original lead records. I’d report prospecting and retargeting separately, with post-click and view-through conversions in separate columns. That would show where the platform is assigning credit and whether those leads are progressing in the CRM.\n\nIf there were enough qualified enquiries to run a holdout, I’d use that to test whether prospecting increased the total. With lower volume, I’d keep the initial test small and treat the first read as directional. A few view-through conversions would give me something to investigate before asking for more budget.\n\nFor those buying programmatic for niche B2B accounts, what would you need to see before moving budget from retargeting into prospecting when qualified lead volume is too low for a useful holdout?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xxh7f7",
+      "thread_path": "1xxh7f7.json"
     }
   ]
 }
