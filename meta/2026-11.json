@@ -389,6 +389,21 @@
       "link_flair_text": null,
       "thread_id": "1xxh7f7",
       "thread_path": "1xxh7f7.json"
+    },
+    {
+      "id": "1xyxris",
+      "title": "Is applovin available programmatically?",
+      "author": "ryans91",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xyxris/is_applovin_available_programmatically/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xyxris/is_applovin_available_programmatically/",
+      "created_utc": 1794953187.0,
+      "content": "We bought applovin via kayzen last year but looks like they no longer have it as an inventory source. Is there any similar DSP where we can manage our own ads and buy on applovin without a ton of fees?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xyxris",
+      "thread_path": "1xyxris.json"
     }
   ]
 }
