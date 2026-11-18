@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wno5sn",
-      "title": "New to Programmatic, where do I start? Would love advice",
-      "author": "Interesting-Rise-305",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wno5sn/new_to_programmatic_where_do_i_start_would_love/",
-      "created_utc": 1790116264.0,
-      "content": "Hi all, I am a Google/Meta media buyer and very fluent in both ad platforms. One of my clients wants to explore programmatic ads, and I'm struggling with where to start. \n\nThe key objective here is to get through to newer audiences via display channels, the likes of Amazon / Netflix / GPT Ads etc. The target audience will be adventure travellers across the globe. I have a budget of approximately $2500 to start with to explore programmatic. \n\nWhere should I start? What are your favourite Programmatic tools? I would love any and all advice on this. \n\n",
-      "num_comments": 3,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wo6seo",
       "title": "Thoughts? Scope3 pivots into Apostra",
       "author": "broadstreetrambler",
@@ -1302,6 +1289,19 @@
       "created_utc": 1794953187.0,
       "content": "We bought applovin via kayzen last year but looks like they no longer have it as an inventory source. Is there any similar DSP where we can manage our own ads and buy on applovin without a ton of fees?",
       "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xz7bbx",
+      "title": "Fixed PMP deal issue. Has anyone faced this before?",
+      "author": "Sea-Bunch-6507",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "created_utc": 1794980293.0,
+      "content": "I work on the publisher side where I have set up a pmp deal and we have received a budget from the client. When I'm checking the pacing of the deal it's showing under pacing with around 15% and when  I checked the pacing with the client they said they are pacing to dif. Has anyone faced this issue before? I think the 10-15% difference is due to the dsp platform fee on the client end. ",
+      "num_comments": 8,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-18T02:07:42.314896+00:00",
-    "total_posts": 2143,
-    "total_comments": 10614
+    "scrape_date": "2026-11-18T10:27:30.611251+00:00",
+    "total_posts": 2144,
+    "total_comments": 10621
   },
   "discussions": [
     {
@@ -95041,6 +95041,63 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1xz7bbx",
+      "title": "Fixed PMP deal issue. Has anyone faced this before?",
+      "author": "Sea-Bunch-6507",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "created_utc": 1794980293.0,
+      "content": "I work on the publisher side where I have set up a pmp deal and we have received a budget from the client. When I'm checking the pacing of the deal it's showing under pacing with around 15% and when  I checked the pacing with the client they said they are pacing to dif. Has anyone faced this issue before? I think the 10-15% difference is due to the dsp platform fee on the client end. ",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Is the client using an agency? That difference is agencies margin then together with an inexperienced media buyer.",
+          "score": 3,
+          "created_utc": 1794981129.0
+        },
+        {
+          "author": "Pitiful_Camel6790",
+          "body": "I have seen ~5% different. 15% seems a bit much. I work in an agency. ",
+          "score": 1,
+          "created_utc": 1794987554.0
+        },
+        {
+          "author": "DonSalaam",
+          "body": "Is this CTV inventory?",
+          "score": 1,
+          "created_utc": 1794994363.0
+        },
+        {
+          "author": "Sea-Bunch-6507",
+          "body": "My client is an agency and they are advertising for McD",
+          "score": 1,
+          "created_utc": 1794981288.0
+        },
+        {
+          "author": "Lanwel",
+          "body": "Are you comparing impressions or revenue?  Tbh I've never seen that much disrepancy between ssp imp. and dsp imp. Through peogrammatic delivery",
+          "score": 1,
+          "created_utc": 1794983080.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Hmm they may still be comparing media spend/platform spend with total spend",
+          "score": 1,
+          "created_utc": 1794988846.0
+        },
+        {
+          "author": "rickybobinski",
+          "body": "Must be revenue",
+          "score": 1,
+          "created_utc": 1794984728.0
+        }
+      ]
     }
   ]
 }

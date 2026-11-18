@@ -404,6 +404,21 @@
       "link_flair_text": null,
       "thread_id": "1xyxris",
       "thread_path": "1xyxris.json"
+    },
+    {
+      "id": "1xz7bbx",
+      "title": "Fixed PMP deal issue. Has anyone faced this before?",
+      "author": "Sea-Bunch-6507",
+      "score": 3,
+      "url": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xz7bbx/fixed_pmp_deal_issue_has_anyone_faced_this_before/",
+      "created_utc": 1794980293.0,
+      "content": "I work on the publisher side where I have set up a pmp deal and we have received a budget from the client. When I'm checking the pacing of the deal it's showing under pacing with around 15% and when  I checked the pacing with the client they said they are pacing to dif. Has anyone faced this issue before? I think the 10-15% difference is due to the dsp platform fee on the client end. ",
+      "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1xz7bbx",
+      "thread_path": "1xz7bbx.json"
     }
   ]
 }
