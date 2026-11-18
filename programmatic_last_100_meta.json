@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wo6seo",
-      "title": "Thoughts? Scope3 pivots into Apostra",
-      "author": "broadstreetrambler",
-      "score": 10,
-      "url": "https://www.adweek.com/programmatic/scope3s-rebrand-to-apostra-solidifies-shift-from-sustainability-to-ai/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wo6seo/thoughts_scope3_pivots_into_apostra/",
-      "created_utc": 1790171943.0,
-      "content": "Apostra (no fee). Get it???\n\nI just hear “A pasta”🍝 ",
-      "num_comments": 12,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1woo22k",
-      "title": "Holiday programmatic data from 1B+ Q4 impressions",
-      "author": "maryna-gc",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1woo22k/holiday_programmatic_data_from_1b_q4_impressions/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1woo22k/holiday_programmatic_data_from_1b_q4_impressions/",
-      "created_utc": 1790212502.0,
-      "content": "We analyzed 1B+ Q4 impressions across our platform and put together a 2026 holiday guide. Here are the patterns that seemed most useful for anyone planning Q4 right now.\n\n**Each month shows a different signal:**\n\n* September: build audiences before purchase intent peaks.\n* October: CPMs rise, so optimization and audience quality matter more.\n* November: this is where conversion intent really shows up.\n* December: CPMs come back down while available volume goes up.\n\n**You don't build a Black Friday audience on Black Friday.**\n\nAverage results by tactic for DTC advertisers:\n\n* Prospecting: 2.5x ROAS\n* Interest targeting: 4.1x ROAS\n* Site remarketing: 10.2x ROAS\n\nRemarketing only hit 10.2x because the audience pool had already been built earlier in the season.\n\n**Creative timing matters as much as targeting.**\n\nWe compared messaging inside a single remarketing campaign. The audience, campaign structure and CPMs were essentially the same.\n\n* Generic messaging: 5.4–5.8x ROAS\n* Holiday-specific creative: 10.8–26.7x ROAS\n\n\n\nCurious what others are seeing. Are you starting prospecting earlier this year, or still going heavy in November?\n\nThe full guide is free if you want the rest of the data: [https://www.growthchannel.com/holiday-advertising-guide](https://www.growthchannel.com/holiday-advertising-guide)\n\n*Disclaimer: I work at a programmatic ad platform.*",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wpjucr",
       "title": "AMC and Amazon dsp",
       "author": "Sonic-the-seattle411",
@@ -1302,6 +1276,32 @@
       "created_utc": 1794980293.0,
       "content": "I work on the publisher side where I have set up a pmp deal and we have received a budget from the client. When I'm checking the pacing of the deal it's showing under pacing with around 15% and when  I checked the pacing with the client they said they are pacing to dif. Has anyone faced this issue before? I think the 10-15% difference is due to the dsp platform fee on the client end. ",
       "num_comments": 8,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xzhbcd",
+      "title": "Testing new ad formats on Amazon DSP before Black Friday? I have a tip.",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://i.redd.it/radbuz90yd2i1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xzhbcd/testing_new_ad_formats_on_amazon_dsp_before_black/",
+      "created_utc": 1795013999.0,
+      "content": "Last week I went through the latest proposal deals (the Preferred and guaranteed deals you can request yourself in Amazon DSP). This is one of the best I found:\n\nTwitch Vertical Video is one of the most recent ad formats on Amazon, and a new batch of proposal deals came with it, in 12 countries. Global brands should look at this and be clever about where they test.\n\nThe same test budget buys about 17% more impressions in Canada than in the US, and about 40% more than in the UK. In my experience, that is cheap for what Canada can deliver.\n\nOther countries are cheaper still, but most of them need video translations you might not have readily available.\n\nIf you have run Twitch Vertical Video, I would like to hear how delivery compared with standard horizontal Twitch video.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1xzkvha",
+      "title": "How are native networks (Taboola / Teads-Outbrain) performing for you in 2026?",
+      "author": "Own-Switch-3895",
+      "score": 1,
+      "url": "https://i.redd.it/b6w8cxmjg82i1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xzkvha/how_are_native_networks_taboola_teadsoutbrain/",
+      "created_utc": 1795022272.0,
+      "content": "`I came across the shortlist for the Programmatic Spain Awards 26 (screenshot in Spanish above), where Taboola and Teads (post-Outbrain merger) and local native ad network Addoor were highlighted again under the Performance Marketing category.`It's interesting to see traditional native networks standing out in a performance category typically dominated by larger DSPs and tech platforms`.`\n\n`With the market shifting heavily toward retail media, CTV, and social, I'm curious about your current experience with native ad networks:`\n\n* `Are they still delivering solid ROAS/CPA for lower-funnel performance campaigns?`\n* `Or are you mostly seeing them used for upper-funnel reach and traffic arbitrage nowadays?`",
+      "num_comments": 5,
       "over_18": false,
       "link_flair_text": null
     }

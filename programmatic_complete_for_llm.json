@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-18T10:27:30.611251+00:00",
-    "total_posts": 2144,
-    "total_comments": 10621
+    "scrape_date": "2026-11-18T18:57:52.532747+00:00",
+    "total_posts": 2146,
+    "total_comments": 10626
   },
   "discussions": [
     {
@@ -95096,6 +95096,65 @@
           "body": "Must be revenue",
           "score": 1,
           "created_utc": 1794984728.0
+        }
+      ]
+    },
+    {
+      "id": "1xzhbcd",
+      "title": "Testing new ad formats on Amazon DSP before Black Friday? I have a tip.",
+      "author": "NiceRecognition9603",
+      "score": 1,
+      "url": "https://i.redd.it/radbuz90yd2i1.png",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xzhbcd/testing_new_ad_formats_on_amazon_dsp_before_black/",
+      "created_utc": 1795013999.0,
+      "content": "Last week I went through the latest proposal deals (the Preferred and guaranteed deals you can request yourself in Amazon DSP). This is one of the best I found:\n\nTwitch Vertical Video is one of the most recent ad formats on Amazon, and a new batch of proposal deals came with it, in 12 countries. Global brands should look at this and be clever about where they test.\n\nThe same test budget buys about 17% more impressions in Canada than in the US, and about 40% more than in the UK. In my experience, that is cheap for what Canada can deliver.\n\nOther countries are cheaper still, but most of them need video translations you might not have readily available.\n\nIf you have run Twitch Vertical Video, I would like to hear how delivery compared with standard horizontal Twitch video.",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1xzkvha",
+      "title": "How are native networks (Taboola / Teads-Outbrain) performing for you in 2026?",
+      "author": "Own-Switch-3895",
+      "score": 1,
+      "url": "https://i.redd.it/b6w8cxmjg82i1.jpeg",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1xzkvha/how_are_native_networks_taboola_teadsoutbrain/",
+      "created_utc": 1795022272.0,
+      "content": "`I came across the shortlist for the Programmatic Spain Awards 26 (screenshot in Spanish above), where Taboola and Teads (post-Outbrain merger) and local native ad network Addoor were highlighted again under the Performance Marketing category.`It's interesting to see traditional native networks standing out in a performance category typically dominated by larger DSPs and tech platforms`.`\n\n`With the market shifting heavily toward retail media, CTV, and social, I'm curious about your current experience with native ad networks:`\n\n* `Are they still delivering solid ROAS/CPA for lower-funnel performance campaigns?`\n* `Or are you mostly seeing them used for upper-funnel reach and traffic arbitrage nowadays?`",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Temporary_Visit4871",
+          "body": "Question is: Would you spend any of YOUR money in this?\n\nThese awards only exists for big agencies to form contracts with tech partners, zero value added imo",
+          "score": 2,
+          "created_utc": 1795022825.0
+        },
+        {
+          "author": "SlimSloane",
+          "body": "It’s all gamed attribution BS",
+          "score": 1,
+          "created_utc": 1795026877.0
+        },
+        {
+          "author": "Own-Switch-3895",
+          "body": "`Hi! I probably would, if the ROI of that action was easier to calculate. I agree about the awards; they are definitely mostly PR and networking. What caught my eye, though, is that those same agencies could have highlighted any other type of tech partner or a much broader mix in that category, yet they specifically chose to link \"performance\" with native ad networks.`\n\n`But I'm still curious: if you had to allocate real performance budget today, would native networks get even 5% of it, or a flat zero?`",
+          "score": 1,
+          "created_utc": 1795024021.0
+        },
+        {
+          "author": "Fartingpig-Patja",
+          "body": "100%, nobody is putting their own cash into native unless its pure arbitrage.",
+          "score": 1,
+          "created_utc": 1795024897.0
+        },
+        {
+          "author": "Own-Switch-3895",
+          "body": "That’s definitely true in a lot of markets, though Spain, where the awards will be voted, is a bit different. If you ever spoof a Spanish IP and check out any major local newspaper (simple VPN, real news publishers, not MFA viral/arbitrage sites), it’s still heavily backed by direct brand spend. Car brands, IKEA, traditional banks. Depending on the GEO, still nutra and parapharmacy are still strong. Curious to see if the Spanish market eventually shifts toward what you're seeing elsewhere, or if it ends up going the other way around.",
+          "score": 1,
+          "created_utc": 1795025964.0
         }
       ]
     }
