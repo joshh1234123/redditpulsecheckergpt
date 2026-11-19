@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-19T17:30:47.899527+00:00",
-    "total_posts": 2146,
+    "scrape_date": "2026-11-19T23:44:20.035906+00:00",
+    "total_posts": 2147,
     "total_comments": 10626
   },
   "discussions": [
@@ -95157,6 +95157,20 @@
           "created_utc": 1795025964.0
         }
       ]
+    },
+    {
+      "id": "1y0ljd7",
+      "title": "Should agentic media buying look like DV360 and other DSPs, or have its own flows?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y0ljd7/should_agentic_media_buying_look_like_dv360_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y0ljd7/should_agentic_media_buying_look_like_dv360_and/",
+      "created_utc": 1795124084.0,
+      "content": "Should agentic media buying have the same flows and designs as DV360 or the major DSPs, or its own workflows?\n\nIf an AI agent is doing the buying, would you be more comfortable with an interface that looks and works like the tools you already know, or one built around the agent?\n\nWhat would you want to see on screen, and what would put you off?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }

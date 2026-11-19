@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wpjucr",
-      "title": "AMC and Amazon dsp",
-      "author": "Sonic-the-seattle411",
-      "score": 1,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wpjucr/amc_and_amazon_dsp/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wpjucr/amc_and_amazon_dsp/",
-      "created_utc": 1790300952.0,
-      "content": "Who here is running Amazon dsp, direct buy, prog Amazon, and Amazon offsite? How are you building your audiences and what are your key triggers to pay attention to? \n\nWhat’s your split of endemic search vs dsp? Not a ton of skus on this one but don’t want to blow through the budget- ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wppmw6",
       "title": "Looking out for a Full-time role in Programmatic (Demand Side). Let me know if there is any requirement. I am available to join immediately!",
       "author": "Vaibs651",
@@ -1302,6 +1289,19 @@
       "created_utc": 1795022272.0,
       "content": "`I came across the shortlist for the Programmatic Spain Awards 26 (screenshot in Spanish above), where Taboola and Teads (post-Outbrain merger) and local native ad network Addoor were highlighted again under the Performance Marketing category.`It's interesting to see traditional native networks standing out in a performance category typically dominated by larger DSPs and tech platforms`.`\n\n`With the market shifting heavily toward retail media, CTV, and social, I'm curious about your current experience with native ad networks:`\n\n* `Are they still delivering solid ROAS/CPA for lower-funnel performance campaigns?`\n* `Or are you mostly seeing them used for upper-funnel reach and traffic arbitrage nowadays?`",
       "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1y0ljd7",
+      "title": "Should agentic media buying look like DV360 and other DSPs, or have its own flows?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y0ljd7/should_agentic_media_buying_look_like_dv360_and/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y0ljd7/should_agentic_media_buying_look_like_dv360_and/",
+      "created_utc": 1795124084.0,
+      "content": "Should agentic media buying have the same flows and designs as DV360 or the major DSPs, or its own workflows?\n\nIf an AI agent is doing the buying, would you be more comfortable with an interface that looks and works like the tools you already know, or one built around the agent?\n\nWhat would you want to see on screen, and what would put you off?",
+      "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
     }
