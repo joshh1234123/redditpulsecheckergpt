@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-20T14:13:53.684297+00:00",
-    "total_posts": 2151,
-    "total_comments": 10635
+    "scrape_date": "2026-11-20T21:54:47.771508+00:00",
+    "total_posts": 2152,
+    "total_comments": 10636
   },
   "discussions": [
     {
@@ -95282,6 +95282,27 @@
       "over_18": false,
       "link_flair_text": null,
       "comments": []
+    },
+    {
+      "id": "1y18e7b",
+      "title": "Programmatic Specialist (DV360 & Amazon DSP) | Ad Agency | $60k - $75k | US Remote (CST Preferred)",
+      "author": "bparkerSW",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y18e7b/programmatic_specialist_dv360_amazon_dsp_ad/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y18e7b/programmatic_specialist_dv360_amazon_dsp_ad/",
+      "created_utc": 1795193407.0,
+      "content": "We are an independent ad agency and are looking for a highly capable, hands-on Programmatic Specialist. We need someone who has moved well past the basics and feels completely comfortable executing advanced campaigns independently.\n\n* **Salary Range:** $60,000 - $75,000\n* **Location:** Remote-Eligible. You must be US-based, and we strongly prefer candidates in the Central Time Zone.\n* **Experience Required:** 4+ years of hands-on experience, specifically requiring moderate-to-advanced expertise in DV360 and Amazon DSP with large budgets. We need real DSP mastery and independent decision-making, not just occasional campaign management.\n\n**Core Responsibilities:**\n\n* Plan, build, launch, and optimize programmatic campaigns in enterprise DSPs across CTV, DOOH, online video, streaming audio, display, and native.\n* Own complex multi-market and multi-location buys with numerous campaigns, line items, budgets, flights, audiences, and creative versions.\n* QA campaign setup and measurement, including pixels, conversion events, ad servers, DSP integrations, and tracking partners.\n* Diagnose underdelivery, overspend, attribution gaps, inventory quality, viewability, invalid traffic, brand safety, and cross-device frequency issues and know how to correct them.\n\n**A Few Agency Perks:**\n\n* 100% Employer-Paid Health Insurance.\n* Generous Parental Leave: 8 weeks for primary, 1 week for non-primary caregivers.\n* Ample Time Off: Accrued PTO, full holiday closures, and \"Fourth Fridays\" (office closes at 2 p.m. monthly).\n\n**How to Apply:** Drop me a DM if you have specific questions about the role, the agency, or the day-to-day, thanks. ",
+      "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "coolular",
+          "body": "4 years experience, 60-75k. Good luck",
+          "score": 1,
+          "created_utc": 1795209118.0
+        }
+      ]
     }
   ]
 }
