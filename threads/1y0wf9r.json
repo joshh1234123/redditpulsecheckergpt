@@ -1,0 +1,64 @@
+{
+  "id": "1y0wf9r",
+  "thread_id": "1y0wf9r",
+  "title": "a $10k CTV test : where does the math stop mathing?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1y0wf9r/a_10k_ctv_test_where_does_the_math_stop_mathing/",
+  "created_utc": 1795156478.0,
+  "num_comments": 9,
+  "comments": [
+    {
+      "author": "Fearless_Parking_436",
+      "body": "You need 1M imps to measure any lift in USA. CTV is not a conversion channel.",
+      "score": 15,
+      "created_utc": 1795157412.0
+    },
+    {
+      "author": "ladipn",
+      "body": "Try FAST and AVOD CPMs, less engaged audience but makes those acquisition costs a lil better ",
+      "score": 6,
+      "created_utc": 1795158320.0
+    },
+    {
+      "author": "slippycrook",
+      "body": "Upper-funnel lift is built into the product. Evaluating CTV through a bottom-funnel lens usually only works when you look at it through multi-touch attribution alongside branded search and social, paired with lift studies or holdout tests to see actual contribution.\n\n\\+1 for the lower-funnel math to work, you need AVOD and FAST inventory in the $10 CPM range.\n\nSource: The CTV platform I run product for offers select brands pay-per-CPA, CTV-first campaigns (with geo tests included) , so we really need to know what we're doing or we bleed money.",
+      "score": 5,
+      "created_utc": 1795159189.0
+    },
+    {
+      "author": "CallMeCouchPotato",
+      "body": "This is why big brands evaluate via geo lifts and/or MMM to capture the more complex effect of TV advertising.\n\nTV is not a lower funnel channel.\nBut it does synergize with lower funnel channels - making THEM more effective (eg. lower CPA on search when alongside TV).\n\nMoreover - TV works more long term - making the brand more known, entering considerations sets of more ppl, more preferred. This does translate to sales EVENTUALLY - but is much harder to track. Brands usually establish a good organizational belief that a certain brand metric is a sales driver (driver analysis) and then measure such activities on brand impact (brand lift studies), not immediate attribution to short term sales.",
+      "score": 3,
+      "created_utc": 1795165472.0
+    },
+    {
+      "author": "danie-l",
+      "body": "What about the msg. The ad itself? And what time are you displaying your ad.. and the audience, etc. if it was that simple…",
+      "score": 2,
+      "created_utc": 1795162777.0
+    },
+    {
+      "author": "Decent-Ad3972",
+      "body": "I’ve always recommended brands go direct with CTV.  \n\nAvoid these programmatic vendors, you’re paying them a large sum as the middle man just to burn your campaign by at least 35%+ of your budget just on fees, ad servers &  managed services baked in.  \n\nMy CTV cpms on average are 40% less than this for multi million direct response brands. ",
+      "score": 2,
+      "created_utc": 1795159910.0
+    },
+    {
+      "author": "SevereAddition8147",
+      "body": "As a media buying agency I sell ctv for $30 cpm. Which means it’s available for me to buy for less than that. So not sure what you are buying for $33, but it better be Disney and Netflix. Because even peacock and paramount and Hulu shouldn’t be that high",
+      "score": 1,
+      "created_utc": 1795179026.0
+    },
+    {
+      "author": "Slow-Equipment1003",
+      "body": "This is basically marketing 101. If you want great ROAS numbers, just run search.  Still need to build a brand. ",
+      "score": 1,
+      "created_utc": 1795180038.0
+    },
+    {
+      "author": "mardonius88",
+      "body": "Those CPMs are way too high, unless you’re getting very specific channel level or show level inventory. You can find a CTV platform that doesn’t charge you fees (sure baked into CPM but at least the dollars still go towards media), gets you on premium inventory, reports on performance (yes grain of salt), all with CPMs under $27. I wouldn’t do a spray and pray approach with a test budget, I’d want as much control over targeting as possible. ",
+      "score": 1,
+      "created_utc": 1795182883.0
+    }
+  ]
+}

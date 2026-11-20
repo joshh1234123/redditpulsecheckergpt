@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-20T05:07:43.411521+00:00",
-    "total_posts": 2147,
-    "total_comments": 10626
+    "scrape_date": "2026-11-20T14:13:53.684297+00:00",
+    "total_posts": 2151,
+    "total_comments": 10635
   },
   "discussions": [
     {
@@ -95167,6 +95167,117 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y0ljd7/should_agentic_media_buying_look_like_dv360_and/",
       "created_utc": 1795124084.0,
       "content": "Should agentic media buying have the same flows and designs as DV360 or the major DSPs, or its own workflows?\n\nIf an AI agent is doing the buying, would you be more comfortable with an interface that looks and works like the tools you already know, or one built around the agent?\n\nWhat would you want to see on screen, and what would put you off?",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y0wf9r",
+      "title": "a $10k CTV test : where does the math stop mathing?",
+      "author": "Chance_Mission_6923",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y0wf9r/a_10k_ctv_test_where_does_the_math_stop_mathing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y0wf9r/a_10k_ctv_test_where_does_the_math_stop_mathing/",
+      "created_utc": 1795156478.0,
+      "content": "runnnig the math on a hypothetical $10k connected-tv test. at a $33 cpm that's \\~300k impressions . stack the assumptions : if 1% of impressions turn into a site visit (impressions , not unique people) that's \\~3k  visits , and at 2% conversation \\~60 customers . so ctv 'works' at \\~$165 per customer or not at all , depending on assumptions i just made up . and the ad usually isn't even clickable , so everything rides on view-through. \n\nran this math while poking at the ctv option on growth channel( a platform i work with) - curious whether the same math changes on the bigger seats like ttd or dv360 , or whether the assumptions are identical everywhere .\n\nwhere does this math break first-attribution , the assumed visit rate, the cpm?if you've actually run ctv at any budget: what did your numbers look like?\n\n",
+      "num_comments": 9,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "Fearless_Parking_436",
+          "body": "You need 1M imps to measure any lift in USA. CTV is not a conversion channel.",
+          "score": 15,
+          "created_utc": 1795157412.0
+        },
+        {
+          "author": "ladipn",
+          "body": "Try FAST and AVOD CPMs, less engaged audience but makes those acquisition costs a lil better ",
+          "score": 6,
+          "created_utc": 1795158320.0
+        },
+        {
+          "author": "slippycrook",
+          "body": "Upper-funnel lift is built into the product. Evaluating CTV through a bottom-funnel lens usually only works when you look at it through multi-touch attribution alongside branded search and social, paired with lift studies or holdout tests to see actual contribution.\n\n\\+1 for the lower-funnel math to work, you need AVOD and FAST inventory in the $10 CPM range.\n\nSource: The CTV platform I run product for offers select brands pay-per-CPA, CTV-first campaigns (with geo tests included) , so we really need to know what we're doing or we bleed money.",
+          "score": 5,
+          "created_utc": 1795159189.0
+        },
+        {
+          "author": "CallMeCouchPotato",
+          "body": "This is why big brands evaluate via geo lifts and/or MMM to capture the more complex effect of TV advertising.\n\nTV is not a lower funnel channel.\nBut it does synergize with lower funnel channels - making THEM more effective (eg. lower CPA on search when alongside TV).\n\nMoreover - TV works more long term - making the brand more known, entering considerations sets of more ppl, more preferred. This does translate to sales EVENTUALLY - but is much harder to track. Brands usually establish a good organizational belief that a certain brand metric is a sales driver (driver analysis) and then measure such activities on brand impact (brand lift studies), not immediate attribution to short term sales.",
+          "score": 3,
+          "created_utc": 1795165472.0
+        },
+        {
+          "author": "danie-l",
+          "body": "What about the msg. The ad itself? And what time are you displaying your ad.. and the audience, etc. if it was that simple…",
+          "score": 2,
+          "created_utc": 1795162777.0
+        },
+        {
+          "author": "Decent-Ad3972",
+          "body": "I’ve always recommended brands go direct with CTV.  \n\nAvoid these programmatic vendors, you’re paying them a large sum as the middle man just to burn your campaign by at least 35%+ of your budget just on fees, ad servers &  managed services baked in.  \n\nMy CTV cpms on average are 40% less than this for multi million direct response brands. ",
+          "score": 2,
+          "created_utc": 1795159910.0
+        },
+        {
+          "author": "SevereAddition8147",
+          "body": "As a media buying agency I sell ctv for $30 cpm. Which means it’s available for me to buy for less than that. So not sure what you are buying for $33, but it better be Disney and Netflix. Because even peacock and paramount and Hulu shouldn’t be that high",
+          "score": 1,
+          "created_utc": 1795179026.0
+        },
+        {
+          "author": "Slow-Equipment1003",
+          "body": "This is basically marketing 101. If you want great ROAS numbers, just run search.  Still need to build a brand. ",
+          "score": 1,
+          "created_utc": 1795180038.0
+        },
+        {
+          "author": "mardonius88",
+          "body": "Those CPMs are way too high, unless you’re getting very specific channel level or show level inventory. You can find a CTV platform that doesn’t charge you fees (sure baked into CPM but at least the dollars still go towards media), gets you on premium inventory, reports on performance (yes grain of salt), all with CPMs under $27. I wouldn’t do a spray and pray approach with a test budget, I’d want as much control over targeting as possible. ",
+          "score": 1,
+          "created_utc": 1795182883.0
+        }
+      ]
+    },
+    {
+      "id": "1y0yj4a",
+      "title": "What is agentic advertising? “The dummy edition”",
+      "author": "ML_Felix",
+      "score": 1,
+      "url": "/r/AgenticAdsHQ/comments/1y0yifo/what_is_agentic_advertising_the_dummy_edition/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y0yj4a/what_is_agentic_advertising_the_dummy_edition/",
+      "created_utc": 1795164604.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y13p50",
+      "title": "Remote hiring for Sell side roles",
+      "author": "Parking-Expression37",
+      "score": 0,
+      "url": "/r/adtech/comments/1y13ouf/remote_hiring_for_sell_side_roles/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y13p50/remote_hiring_for_sell_side_roles/",
+      "created_utc": 1795181936.0,
+      "content": "Hi guys, I am based in India I’m currently looking for a role on the sell/publisher side. I have 6 years of experience working with publishers and SSPs as an account manager and briefly as a Team Lead as well across websites, in app and CTV.  \nMy day to day platforms would include GAM 360, GA, Data Studio all SSP platforms ( pubmatic, OpenX, Xandr, Magnite etc ), Traffic Vetting and brand safety, yield optimisation. Also Google Adsense, Header Bidding, Prebid and oRTB would be some key words that align with my role.\n\nThe issue I’m facing : I CAN NOT FIND OPENINGS for sell side open to indian candidates.\n\nI have switched jobs in the past but this time around Im noticing a trend. Open remote roles that I’d like to apply to are hiring from US, UK, Tel Aviv, China, Japan etc but not India. This is posing as a roadblock for me as sell side openings were more easily found in companies based abroad, while buy side roles and agency roles are easily available in India as per my experience.  \nI did find a select few sell side roles in India and applied and interviewed. They were either hybrid/required 5 days office or couldn’t match my last pay ( I have been working in USD payments for most of my career ).\n\nI’m quite unsure about my next step now to be honest.  \nI’m thinking on multiple tangents : do I need to go to office and give up on the remote model idea or do I need to switch to buy side, switch the industry altogether.. or is this role unavailability temporary. I do have a CAPM certification so Project Management with Adtech is a side I can explore but I’ve never switched lanes before.  \nI started my career in Adtech as account manager itself and have been working in and around it till now.\n\nIf anyone knows of any remote openings for India based candidates or if you have any tips I’d be very happy to hear from you!",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y141rr",
+      "title": "Title: Custom event tracking from HTML5 ads — allowed by DSPs?",
+      "author": "UnfairMatch5246",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y141rr/title_custom_event_tracking_from_html5_ads/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y141rr/title_custom_event_tracking_from_html5_ads/",
+      "created_utc": 1795182903.0,
+      "content": "Hi everyone,\n\nWe're building interactive HTML5 ads (conversational ads, quizzes, product finders) and have implemented our own event tracking.\n\nOur JavaScript SDK is embedded in the HTML5 ZIP and sends interaction events (answer selections, conversation completions, CTA clicks, etc.) to our own server via HTTPS POST requests.\n\nEverything works in local Chrome tests, but we haven't tested it through a live DSP yet.\n\nHas anyone done something similar with Adform, DV360 or CM360? Do these platforms allow HTML5 creatives to send custom interaction data to an external server? I'd be interested to hear about your experience.",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,
