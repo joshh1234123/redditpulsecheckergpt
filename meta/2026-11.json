@@ -554,6 +554,36 @@
       "link_flair_text": null,
       "thread_id": "1y2iws4",
       "thread_path": "1y2iws4.json"
+    },
+    {
+      "id": "1y2mzad",
+      "title": "Whitelisted apps DV360 what I missing?",
+      "author": "Sea_Character7997",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "created_utc": 1795345969.0,
+      "content": "I'm trying to run display on DV360 on 2 pair of apps (LGBT dating apps). When I say 2 pair of apps I mean 2 apps, both Android and iOS version. So, I'm aware it's really narrow, and geo is only 3 DMA regions, but it's a little weird that I'm not getting any impressions. I checked the CPM for the last few days set the bid to be above it and yesterday I had 1 impression for this 1 out of 2 line items.\n\nHave you had similar problems? What could be the soulution?\n\nI moved budget on LI level, set to spend ASAP, optimizes towards max viewable impr., turned off viewability, demographics, environment set to Apps ofc so really wondering what it could be. ",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1y2mzad",
+      "thread_path": "1y2mzad.json"
+    },
+    {
+      "id": "1y2opvo",
+      "title": "B2B Niche/ABM Targeting with Video",
+      "author": "Capable_Report4502",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "created_utc": 1795352185.0,
+      "content": "Hi folks, I've been asked to support a B2B client with video strategies to target Fortune 100 / niche technology audience segments. \n\n\n\nWe're currently running StackAdapt - what strategies and tactics have worked well for people?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1y2opvo",
+      "thread_path": "1y2opvo.json"
     }
   ]
 }

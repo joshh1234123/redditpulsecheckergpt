@@ -6,32 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wshnko",
-      "title": "Programmatic Pause Ads launch on Netflix from **28 September 2026** (Open Beta).",
-      "author": "NiceRecognition9603",
-      "score": 1,
-      "url": "https://i.redd.it/18zfn5ph4ash1.jpeg",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wshnko/programmatic_pause_ads_launch_on_netflix_from_28/",
-      "created_utc": 1790609242.0,
-      "content": "Pause Ads are being introduced as a programmatic open-beta product, designed to sit alongside existing programmatic video buys.\n\n* **Buying model:** Pause Ads are available via **PMP (non-guaranteed) only**.[ Manual deals with Netflix](https://airtable.com/appgR3zCfmlwU2F1e/pagZbcjiMIAkROgrx/form), not ready made or automate deals. They can be later activated on a variety of DSPs like Amazon DSP, Google and TTD.\n* **How the ad works:** When a Netflix member pauses content and remains inactive for **5 seconds**, a full-screen Pause Ad appears. The ad disappears when viewing resumes.\n* **Better together:** Netflix reports stronger performance across upper- and lower-funnel metrics when Video + Pause Ads are used together, including purchase intent, ad recall and brand recommendation. I will exclude their numbers but an uplift makes sense\n* **Creative format:** Pause Ads use a **transparent PNG or JPEG**, with recommended dimensions between **1728×1440 and 2592×2160**; the minimum size is **1728×1440**.\n* **Creative process:** Netflix reviews the asset, creates a Pause Ad mock-up for client approval, then traffics and quality-checks the campaign.\n* **Lead time:** Netflix states an overall **10-business-day timeline** from receipt of creative assets to going live.\n* **Interactive features:** **QR codes/interactive features are not available at programmatic launch**.\n* **UK minimum spend:** UK Pause Ad minimum is approximately **£10k**. However, Netflix recommends combining Pause Ads with standard video and increasing spend to the general minimum.\n* **CPM:** Early tests CPM suggests on planning on approximately **£21–£25**.",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
-      "id": "1wsulwa",
-      "title": "What is the biggest difference in Programmatic pre AI vs after AI came on the scene?",
-      "author": "D_Adman",
-      "score": 2,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wsulwa/what_is_the_biggest_difference_in_programmatic/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wsulwa/what_is_the_biggest_difference_in_programmatic/",
-      "created_utc": 1790638781.0,
-      "content": "",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wtib20",
       "title": "Programmatic Optimization Interview Questions",
       "author": "Ill-Zucchini7313",
@@ -1302,6 +1276,32 @@
       "created_utc": 1795330423.0,
       "content": "Who I am:\n\nI've been a bot detection researcher for 13 years. I'm doing a doctorate in cybersecurity specializing in bot detection. I advise the EU on click fraud and bots. I'm an expert witness for class actions lawsuits involving click fraud. I work for a leading bot detection company.\n\nI tell you all of the above so you know I'm not some random 13 year old.\n\nThe problem:\n\nI've been looking at IAS's invalid traffic rates for programmatic and they don't make sense. They're saying < 1% of the traffic is bots, but I can see on average > 37% of programmatic traffic is bots.\n\nMy numbers are conservative as they're from a rule-based system which only counts objectively provable bot traffic. No silly things like looking at IPs or making guesses based on session length or anything like that.\n\nIs the simple explanation IAS is terrible at bot detection?\n\nAny insights appreciated.\n\nThanks.",
       "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1y2mzad",
+      "title": "Whitelisted apps DV360 what I missing?",
+      "author": "Sea_Character7997",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "created_utc": 1795345969.0,
+      "content": "I'm trying to run display on DV360 on 2 pair of apps (LGBT dating apps). When I say 2 pair of apps I mean 2 apps, both Android and iOS version. So, I'm aware it's really narrow, and geo is only 3 DMA regions, but it's a little weird that I'm not getting any impressions. I checked the CPM for the last few days set the bid to be above it and yesterday I had 1 impression for this 1 out of 2 line items.\n\nHave you had similar problems? What could be the soulution?\n\nI moved budget on LI level, set to spend ASAP, optimizes towards max viewable impr., turned off viewability, demographics, environment set to Apps ofc so really wondering what it could be. ",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1y2opvo",
+      "title": "B2B Niche/ABM Targeting with Video",
+      "author": "Capable_Report4502",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "created_utc": 1795352185.0,
+      "content": "Hi folks, I've been asked to support a B2B client with video strategies to target Fortune 100 / niche technology audience segments. \n\n\n\nWe're currently running StackAdapt - what strategies and tactics have worked well for people?",
+      "num_comments": 4,
       "over_18": false,
       "link_flair_text": null
     }

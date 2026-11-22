@@ -1,0 +1,40 @@
+{
+  "id": "1y2mzad",
+  "thread_id": "1y2mzad",
+  "title": "Whitelisted apps DV360 what I missing?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+  "created_utc": 1795345969.0,
+  "num_comments": 5,
+  "comments": [
+    {
+      "author": "monumental_skate",
+      "body": "Sounds like you’re basically targeting a handful of zip codes inside a shoebox, and the apps might not even be serving ads in those DMAs at the volume you’d need. I’ve seen stuff like this with hyper-niche app lists where the inventory just doesn’t exist, no matter how high you crank the bid. DV360 will happily take your budget and do nothing with it if there’s no match.\n\n  \nOne thing that’s bitten me before is default deal or exchange settings filtering out sensitive-category apps without any warning. Double check you’re not accidentally excluding anything on the inventory source side, and maybe toss in a couple broader app bundles or a channel list just to see if anything moves. Also worth pulling a report on where that one impression came from, sometimes it’s a phantom ad request from a test device and the real supply is basically zero.",
+      "score": 1,
+      "created_utc": 1795346647.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Are your creatives the ones the apps support? Are you sure the apps are in open market? Do the pubs require approval? Do you have pmp’s? What audiences are you running?   \nDo you see reasons why you are not winning any? Are the bids going out even?",
+      "score": 1,
+      "created_utc": 1795346730.0
+    },
+    {
+      "author": "Tea-o-kosong",
+      "body": "Do check your loss reasons in the line item troubleshooter. Its a bit difficult to say without seeing what the troubleshooter might have filtered out ",
+      "score": 1,
+      "created_utc": 1795348802.0
+    },
+    {
+      "author": "Sea_Character7997",
+      "body": "I saw that there can be some impressions for these apps in these DMAs let's say around 2-3k per day and what I need is a few hundred at least. The thing is that the lines are not spending at all since I set this up (the day before yesterday it had 1 impr. and yesterday 0 on both lines). I believe that the one impr. is totally accidental. ",
+      "score": 1,
+      "created_utc": 1795347397.0
+    },
+    {
+      "author": "Sea_Character7997",
+      "body": "Yeah, checked that as well, and seems like the apps support the standard display creatives.\n\nAm I sure the apps are in open market? That's a good one. Can you please tell me if I can check that? Cause when I think about it maybe they're not.\n\nPMPs nope, audiences none, basically all the app users. Nope, I see the spend was 0 yesterday so I can't even see the reasons in the troubleshooter. ",
+      "score": 1,
+      "created_utc": 1795347571.0
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-22T10:35:04.019595+00:00",
-    "total_posts": 2153,
-    "total_comments": 10648
+    "scrape_date": "2026-11-22T18:10:14.193157+00:00",
+    "total_posts": 2155,
+    "total_comments": 10657
   },
   "discussions": [
     {
@@ -95388,6 +95388,90 @@
           "body": "My understanding is this is extremely basic, like looking at IP addresses. But looking at IP addresses has been ineffective for at least 10 years, since all modern bots are routed through residential and cellphone proxies, and typically only use an IP address once.",
           "score": 1,
           "created_utc": 1795334286.0
+        }
+      ]
+    },
+    {
+      "id": "1y2mzad",
+      "title": "Whitelisted apps DV360 what I missing?",
+      "author": "Sea_Character7997",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2mzad/whitelisted_apps_dv360_what_i_missing/",
+      "created_utc": 1795345969.0,
+      "content": "I'm trying to run display on DV360 on 2 pair of apps (LGBT dating apps). When I say 2 pair of apps I mean 2 apps, both Android and iOS version. So, I'm aware it's really narrow, and geo is only 3 DMA regions, but it's a little weird that I'm not getting any impressions. I checked the CPM for the last few days set the bid to be above it and yesterday I had 1 impression for this 1 out of 2 line items.\n\nHave you had similar problems? What could be the soulution?\n\nI moved budget on LI level, set to spend ASAP, optimizes towards max viewable impr., turned off viewability, demographics, environment set to Apps ofc so really wondering what it could be. ",
+      "num_comments": 5,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "monumental_skate",
+          "body": "Sounds like you’re basically targeting a handful of zip codes inside a shoebox, and the apps might not even be serving ads in those DMAs at the volume you’d need. I’ve seen stuff like this with hyper-niche app lists where the inventory just doesn’t exist, no matter how high you crank the bid. DV360 will happily take your budget and do nothing with it if there’s no match.\n\n  \nOne thing that’s bitten me before is default deal or exchange settings filtering out sensitive-category apps without any warning. Double check you’re not accidentally excluding anything on the inventory source side, and maybe toss in a couple broader app bundles or a channel list just to see if anything moves. Also worth pulling a report on where that one impression came from, sometimes it’s a phantom ad request from a test device and the real supply is basically zero.",
+          "score": 1,
+          "created_utc": 1795346647.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Are your creatives the ones the apps support? Are you sure the apps are in open market? Do the pubs require approval? Do you have pmp’s? What audiences are you running?   \nDo you see reasons why you are not winning any? Are the bids going out even?",
+          "score": 1,
+          "created_utc": 1795346730.0
+        },
+        {
+          "author": "Tea-o-kosong",
+          "body": "Do check your loss reasons in the line item troubleshooter. Its a bit difficult to say without seeing what the troubleshooter might have filtered out ",
+          "score": 1,
+          "created_utc": 1795348802.0
+        },
+        {
+          "author": "Sea_Character7997",
+          "body": "I saw that there can be some impressions for these apps in these DMAs let's say around 2-3k per day and what I need is a few hundred at least. The thing is that the lines are not spending at all since I set this up (the day before yesterday it had 1 impr. and yesterday 0 on both lines). I believe that the one impr. is totally accidental. ",
+          "score": 1,
+          "created_utc": 1795347397.0
+        },
+        {
+          "author": "Sea_Character7997",
+          "body": "Yeah, checked that as well, and seems like the apps support the standard display creatives.\n\nAm I sure the apps are in open market? That's a good one. Can you please tell me if I can check that? Cause when I think about it maybe they're not.\n\nPMPs nope, audiences none, basically all the app users. Nope, I see the spend was 0 yesterday so I can't even see the reasons in the troubleshooter. ",
+          "score": 1,
+          "created_utc": 1795347571.0
+        }
+      ]
+    },
+    {
+      "id": "1y2opvo",
+      "title": "B2B Niche/ABM Targeting with Video",
+      "author": "Capable_Report4502",
+      "score": 2,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2opvo/b2b_nicheabm_targeting_with_video/",
+      "created_utc": 1795352185.0,
+      "content": "Hi folks, I've been asked to support a B2B client with video strategies to target Fortune 100 / niche technology audience segments. \n\n\n\nWe're currently running StackAdapt - what strategies and tactics have worked well for people?",
+      "num_comments": 4,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "ovenmittfighter",
+          "body": "StackAdapt is fine for this but don't sleep on layering in firmographic data sources alongside your 3rd party segments. Most of the niche tech audiences fall apart because the segments are too broad, you gotta tighten them with job function filters and company size caps otherwise you're just spraying video at interns.",
+          "score": 1,
+          "created_utc": 1795352972.0
+        },
+        {
+          "author": "SevereAddition8147",
+          "body": "I have never gotten the stack adapt abm product to work well. But also haven’t really kept trying. If you want to target fortune 100, LinkedIn ads manger and or  ctv targeting LinkedIn audiences",
+          "score": 1,
+          "created_utc": 1795354619.0
+        },
+        {
+          "author": "ladipn",
+          "body": "I’ll lean on contextual too if it’s OLV. 3P audiences are always so so. The more niche, the harder the audiences need to work.",
+          "score": 1,
+          "created_utc": 1795355247.0
+        },
+        {
+          "author": "mosvelit",
+          "body": "I’d definitely do a mix between Linkedin + programmatic ABM. The main trouble you’ll find is that because these companies are so large, controlling budget between how much each company gets is going to prove challenging. \n\nContextual/content targeting will certainly help to make sure you dont push your video creatives alongside irrelevant and low quality content. \n\nHappy to discuss in dm ",
+          "score": 1,
+          "created_utc": 1795361733.0
         }
       ]
     }
