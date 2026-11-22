@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-22T18:10:14.193157+00:00",
-    "total_posts": 2155,
+    "scrape_date": "2026-11-22T23:42:42.619201+00:00",
+    "total_posts": 2157,
     "total_comments": 10657
   },
   "discussions": [
@@ -95474,6 +95474,34 @@
           "created_utc": 1795361733.0
         }
       ]
+    },
+    {
+      "id": "1y2yum5",
+      "title": "Recent grad trying to break into media/marketing analytics in Toronto. Am I going about this the right way?",
+      "author": "sparkle287",
+      "score": 2,
+      "url": "/r/advertising/comments/1y2yuer/recent_grad_trying_to_break_into_mediamarketing/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2yum5/recent_grad_trying_to_break_into_mediamarketing/",
+      "created_utc": 1795378703.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y338nn",
+      "title": "Programmatic optimization",
+      "author": "AssociationSouth124",
+      "score": 1,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y338nn/programmatic_optimization/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y338nn/programmatic_optimization/",
+      "created_utc": 1795390543.0,
+      "content": "Tell me about one programmatic optimization that had high impact on your campaign",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
     }
   ]
 }
