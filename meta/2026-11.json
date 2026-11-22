@@ -539,6 +539,21 @@
       "link_flair_text": null,
       "thread_id": "1y18e7b",
       "thread_path": "1y18e7b.json"
+    },
+    {
+      "id": "1y2iws4",
+      "title": "IAS's invalid traffic numbers are really low. What am I missing here?",
+      "author": "polygraph-net",
+      "score": 23,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "created_utc": 1795330423.0,
+      "content": "Who I am:\n\nI've been a bot detection researcher for 13 years. I'm doing a doctorate in cybersecurity specializing in bot detection. I advise the EU on click fraud and bots. I'm an expert witness for class actions lawsuits involving click fraud. I work for a leading bot detection company.\n\nI tell you all of the above so you know I'm not some random 13 year old.\n\nThe problem:\n\nI've been looking at IAS's invalid traffic rates for programmatic and they don't make sense. They're saying < 1% of the traffic is bots, but I can see on average > 37% of programmatic traffic is bots.\n\nMy numbers are conservative as they're from a rule-based system which only counts objectively provable bot traffic. No silly things like looking at IPs or making guesses based on session length or anything like that.\n\nIs the simple explanation IAS is terrible at bot detection?\n\nAny insights appreciated.\n\nThanks.",
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null,
+      "thread_id": "1y2iws4",
+      "thread_path": "1y2iws4.json"
     }
   ]
 }

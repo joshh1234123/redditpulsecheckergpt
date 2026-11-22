@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-22T02:46:21.274584+00:00",
-    "total_posts": 2152,
-    "total_comments": 10636
+    "scrape_date": "2026-11-22T10:35:04.019595+00:00",
+    "total_posts": 2153,
+    "total_comments": 10648
   },
   "discussions": [
     {
@@ -95301,6 +95301,93 @@
           "body": "4 years experience, 60-75k. Good luck",
           "score": 1,
           "created_utc": 1795209118.0
+        }
+      ]
+    },
+    {
+      "id": "1y2iws4",
+      "title": "IAS's invalid traffic numbers are really low. What am I missing here?",
+      "author": "polygraph-net",
+      "score": 23,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "created_utc": 1795330423.0,
+      "content": "Who I am:\n\nI've been a bot detection researcher for 13 years. I'm doing a doctorate in cybersecurity specializing in bot detection. I advise the EU on click fraud and bots. I'm an expert witness for class actions lawsuits involving click fraud. I work for a leading bot detection company.\n\nI tell you all of the above so you know I'm not some random 13 year old.\n\nThe problem:\n\nI've been looking at IAS's invalid traffic rates for programmatic and they don't make sense. They're saying < 1% of the traffic is bots, but I can see on average > 37% of programmatic traffic is bots.\n\nMy numbers are conservative as they're from a rule-based system which only counts objectively provable bot traffic. No silly things like looking at IPs or making guesses based on session length or anything like that.\n\nIs the simple explanation IAS is terrible at bot detection?\n\nAny insights appreciated.\n\nThanks.",
+      "num_comments": 12,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": [
+        {
+          "author": "EssayerX",
+          "body": "Think of IAS as like Moody’s ratings before the sub prime crisis ",
+          "score": 8,
+          "created_utc": 1795331220.0
+        },
+        {
+          "author": "Tet-Love-Throwaway",
+          "body": "Dr fou is that you ",
+          "score": 8,
+          "created_utc": 1795331672.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "Follow up question. If it's true IAS's numbers are nonsense, then why do so many marketers use them? Is it because (1) they don't understand this topic and have no idea the numbers are bad, or is it because (2) they know the numbers are fake but they see that as a good thing as it helps them pretend they're not wasting their clients' money? Basically gaming their KPIs.",
+          "score": 3,
+          "created_utc": 1795330651.0
+        },
+        {
+          "author": "goodgoaj",
+          "body": "Keep in mind they are primarily trying to measure on the ad impression itself whereas a click / land is a whole other story.",
+          "score": 2,
+          "created_utc": 1795333622.0
+        },
+        {
+          "author": "Fearless_Parking_436",
+          "body": "Most run some sort of pre-bid/post bid",
+          "score": 1,
+          "created_utc": 1795336899.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "No, his doctorate is in chemistry (materials science), mine is in cybersecurity (bot detection).",
+          "score": 3,
+          "created_utc": 1795332319.0
+        },
+        {
+          "author": "Capable_Report4502",
+          "body": "2",
+          "score": 7,
+          "created_utc": 1795333632.0
+        },
+        {
+          "author": "Tet-Love-Throwaway",
+          "body": "Is it IASs numbers across the open web?  What is your frame of reference? ",
+          "score": 1,
+          "created_utc": 1795331837.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "If they are bad at detecting bots, how can they accurately measure how many of the impressions are being shown to humans?\n\nFor example, if I can see an average of 37% of the clicks are from bots, that means the fake impressions must be at least 37% (since bots need to see an ad before they can click on it). So, the real number must be way worse, since bots don't always click on the ads.\n\nIf they're just measuring how many of the ads were displayed, that will mislead advertisers if half the impressions were shown to bots.",
+          "score": 1,
+          "created_utc": 1795334181.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "Very broad campaigns. Imagine McDonalds wanting the public to know they have a new hamburger.",
+          "score": 1,
+          "created_utc": 1795332214.0
+        },
+        {
+          "author": "Tet-Love-Throwaway",
+          "body": "Maybe they’re just… targeting supply with IAS pre bid bot filtering???",
+          "score": 3,
+          "created_utc": 1795333860.0
+        },
+        {
+          "author": "polygraph-net",
+          "body": "My understanding is this is extremely basic, like looking at IP addresses. But looking at IP addresses has been ineffective for at least 10 years, since all modern bots are routed through residential and cellphone proxies, and typically only use an IP address once.",
+          "score": 1,
+          "created_utc": 1795334286.0
         }
       ]
     }

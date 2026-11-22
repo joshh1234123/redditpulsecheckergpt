@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wrqkq1",
-      "title": "Is ad tech would be s great choice?",
-      "author": "MammothDisastrous978",
-      "score": 0,
-      "url": "https://www.reddit.com/r/programmatic/comments/1wrqkq1/is_ad_tech_would_be_s_great_choice/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wrqkq1/is_ad_tech_would_be_s_great_choice/",
-      "created_utc": 1790531206.0,
-      "content": "Hi guys, I am working in ops department at saas company, where I work on ad data, brands advertisers classifying them, creating products in system, multiple markets, bilngual ads, types and providers, as this is my first job, bit confused what to learn, how to evolve, will adtech suits me? Guide me ",
-      "num_comments": 0,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wshnko",
       "title": "Programmatic Pause Ads launch on Netflix from **28 September 2026** (Open Beta).",
       "author": "NiceRecognition9603",
@@ -1302,6 +1289,19 @@
       "created_utc": 1795193407.0,
       "content": "We are an independent ad agency and are looking for a highly capable, hands-on Programmatic Specialist. We need someone who has moved well past the basics and feels completely comfortable executing advanced campaigns independently.\n\n* **Salary Range:** $60,000 - $75,000\n* **Location:** Remote-Eligible. You must be US-based, and we strongly prefer candidates in the Central Time Zone.\n* **Experience Required:** 4+ years of hands-on experience, specifically requiring moderate-to-advanced expertise in DV360 and Amazon DSP with large budgets. We need real DSP mastery and independent decision-making, not just occasional campaign management.\n\n**Core Responsibilities:**\n\n* Plan, build, launch, and optimize programmatic campaigns in enterprise DSPs across CTV, DOOH, online video, streaming audio, display, and native.\n* Own complex multi-market and multi-location buys with numerous campaigns, line items, budgets, flights, audiences, and creative versions.\n* QA campaign setup and measurement, including pixels, conversion events, ad servers, DSP integrations, and tracking partners.\n* Diagnose underdelivery, overspend, attribution gaps, inventory quality, viewability, invalid traffic, brand safety, and cross-device frequency issues and know how to correct them.\n\n**A Few Agency Perks:**\n\n* 100% Employer-Paid Health Insurance.\n* Generous Parental Leave: 8 weeks for primary, 1 week for non-primary caregivers.\n* Ample Time Off: Accrued PTO, full holiday closures, and \"Fourth Fridays\" (office closes at 2 p.m. monthly).\n\n**How to Apply:** Drop me a DM if you have specific questions about the role, the agency, or the day-to-day, thanks. ",
       "num_comments": 1,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1y2iws4",
+      "title": "IAS's invalid traffic numbers are really low. What am I missing here?",
+      "author": "polygraph-net",
+      "score": 23,
+      "url": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+      "created_utc": 1795330423.0,
+      "content": "Who I am:\n\nI've been a bot detection researcher for 13 years. I'm doing a doctorate in cybersecurity specializing in bot detection. I advise the EU on click fraud and bots. I'm an expert witness for class actions lawsuits involving click fraud. I work for a leading bot detection company.\n\nI tell you all of the above so you know I'm not some random 13 year old.\n\nThe problem:\n\nI've been looking at IAS's invalid traffic rates for programmatic and they don't make sense. They're saying < 1% of the traffic is bots, but I can see on average > 37% of programmatic traffic is bots.\n\nMy numbers are conservative as they're from a rule-based system which only counts objectively provable bot traffic. No silly things like looking at IPs or making guesses based on session length or anything like that.\n\nIs the simple explanation IAS is terrible at bot detection?\n\nAny insights appreciated.\n\nThanks.",
+      "num_comments": 12,
       "over_18": false,
       "link_flair_text": null
     }

@@ -1,0 +1,82 @@
+{
+  "id": "1y2iws4",
+  "thread_id": "1y2iws4",
+  "title": "IAS's invalid traffic numbers are really low. What am I missing here?",
+  "permalink": "https://www.reddit.com/r/programmatic/comments/1y2iws4/iass_invalid_traffic_numbers_are_really_low_what/",
+  "created_utc": 1795330423.0,
+  "num_comments": 12,
+  "comments": [
+    {
+      "author": "EssayerX",
+      "body": "Think of IAS as like Moody’s ratings before the sub prime crisis ",
+      "score": 8,
+      "created_utc": 1795331220.0
+    },
+    {
+      "author": "Tet-Love-Throwaway",
+      "body": "Dr fou is that you ",
+      "score": 8,
+      "created_utc": 1795331672.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "Follow up question. If it's true IAS's numbers are nonsense, then why do so many marketers use them? Is it because (1) they don't understand this topic and have no idea the numbers are bad, or is it because (2) they know the numbers are fake but they see that as a good thing as it helps them pretend they're not wasting their clients' money? Basically gaming their KPIs.",
+      "score": 3,
+      "created_utc": 1795330651.0
+    },
+    {
+      "author": "goodgoaj",
+      "body": "Keep in mind they are primarily trying to measure on the ad impression itself whereas a click / land is a whole other story.",
+      "score": 2,
+      "created_utc": 1795333622.0
+    },
+    {
+      "author": "Fearless_Parking_436",
+      "body": "Most run some sort of pre-bid/post bid",
+      "score": 1,
+      "created_utc": 1795336899.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "No, his doctorate is in chemistry (materials science), mine is in cybersecurity (bot detection).",
+      "score": 3,
+      "created_utc": 1795332319.0
+    },
+    {
+      "author": "Capable_Report4502",
+      "body": "2",
+      "score": 7,
+      "created_utc": 1795333632.0
+    },
+    {
+      "author": "Tet-Love-Throwaway",
+      "body": "Is it IASs numbers across the open web?  What is your frame of reference? ",
+      "score": 1,
+      "created_utc": 1795331837.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "If they are bad at detecting bots, how can they accurately measure how many of the impressions are being shown to humans?\n\nFor example, if I can see an average of 37% of the clicks are from bots, that means the fake impressions must be at least 37% (since bots need to see an ad before they can click on it). So, the real number must be way worse, since bots don't always click on the ads.\n\nIf they're just measuring how many of the ads were displayed, that will mislead advertisers if half the impressions were shown to bots.",
+      "score": 1,
+      "created_utc": 1795334181.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "Very broad campaigns. Imagine McDonalds wanting the public to know they have a new hamburger.",
+      "score": 1,
+      "created_utc": 1795332214.0
+    },
+    {
+      "author": "Tet-Love-Throwaway",
+      "body": "Maybe they’re just… targeting supply with IAS pre bid bot filtering???",
+      "score": 3,
+      "created_utc": 1795333860.0
+    },
+    {
+      "author": "polygraph-net",
+      "body": "My understanding is this is extremely basic, like looking at IP addresses. But looking at IP addresses has been ineffective for at least 10 years, since all modern bots are routed through residential and cellphone proxies, and typically only use an IP address once.",
+      "score": 1,
+      "created_utc": 1795334286.0
+    }
+  ]
+}
