@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-22T23:42:42.619201+00:00",
-    "total_posts": 2157,
+    "scrape_date": "2026-11-23T05:00:49.984587+00:00",
+    "total_posts": 2158,
     "total_comments": 10657
   },
   "discussions": [
@@ -95498,6 +95498,20 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y338nn/programmatic_optimization/",
       "created_utc": 1795390543.0,
       "content": "Tell me about one programmatic optimization that had high impact on your campaign",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y34w4w",
+      "title": "The last size 8 and the last ad impression have something in common.",
+      "author": "C-levelgeek",
+      "score": 2,
+      "url": "https://www.retailgazette.co.uk/blog/2026/11/boden-accelerates-us-expansion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y34w4w/the_last_size_8_and_the_last_ad_impression_have/",
+      "created_utc": 1795395243.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null,

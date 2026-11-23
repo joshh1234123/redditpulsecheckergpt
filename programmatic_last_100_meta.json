@@ -6,19 +6,6 @@
   },
   "discussions": [
     {
-      "id": "1wtu0i9",
-      "title": "Apple’s Latest Operating System Blocks The Trade Desk From Serving Ads On Safari",
-      "author": "Select-Election-92",
-      "score": 38,
-      "url": "https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/",
-      "permalink": "https://www.reddit.com/r/programmatic/comments/1wtu0i9/apples_latest_operating_system_blocks_the_trade/",
-      "created_utc": 1790737432.0,
-      "content": "This is kind of a big deal; the domain being blocked is part of how TTD fundamentally serve their ads which if kept in place could cause huge issues and some timely development work.\n\nInterestingly, Google and other DSP's are unaffected - it could be a mistake, but it seems unlikely. ",
-      "num_comments": 7,
-      "over_18": false,
-      "link_flair_text": null
-    },
-    {
       "id": "1wu41as",
       "title": "Is it possible to access premium CTV inventory when buying programmatically?",
       "author": "Defiant-Cucumber-795",
@@ -1301,6 +1288,19 @@
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y338nn/programmatic_optimization/",
       "created_utc": 1795390543.0,
       "content": "Tell me about one programmatic optimization that had high impact on your campaign",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null
+    },
+    {
+      "id": "1y34w4w",
+      "title": "The last size 8 and the last ad impression have something in common.",
+      "author": "C-levelgeek",
+      "score": 2,
+      "url": "https://www.retailgazette.co.uk/blog/2026/11/boden-accelerates-us-expansion/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y34w4w/the_last_size_8_and_the_last_ad_impression_have/",
+      "created_utc": 1795395243.0,
+      "content": "",
       "num_comments": 0,
       "over_18": false,
       "link_flair_text": null
