@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-24T13:08:44.065750+00:00",
-    "total_posts": 2161,
+    "scrape_date": "2026-11-24T23:10:17.981040+00:00",
+    "total_posts": 2162,
     "total_comments": 10665
   },
   "discussions": [
@@ -95602,6 +95602,20 @@
       "url": "/r/AgenticAdsHQ/comments/1y49zik/what_would_make_you_trust_an_agent_to_negotiate/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y49zuv/what_would_make_you_trust_an_agent_to_negotiate/",
       "created_utc": 1795516366.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y4mw2w",
+      "title": "Ad Tracker RedTrack Breached: Attacker Reached Logs Holding API Keys, Ad Tokens and Certificate Keys",
+      "author": "apc4455",
+      "score": 1,
+      "url": "/r/FacebookAds/comments/1y4mvhp/ad_tracker_redtrack_breached_attacker_reached/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y4mw2w/ad_tracker_redtrack_breached_attacker_reached/",
+      "created_utc": 1795549789.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
