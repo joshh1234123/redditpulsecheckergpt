@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-24T02:42:47.240168+00:00",
-    "total_posts": 2160,
+    "scrape_date": "2026-11-24T13:08:44.065750+00:00",
+    "total_posts": 2161,
     "total_comments": 10665
   },
   "discussions": [
@@ -95588,6 +95588,20 @@
       "url": "/r/adtech/comments/1y3zl8v/podcast_for_folks_needing_ad_tech_explained_like/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y3zlfe/podcast_for_folks_needing_ad_tech_explained_like/",
       "created_utc": 1795481678.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y49zuv",
+      "title": "What would make you trust an agent to negotiate on your behalf?",
+      "author": "ML_Felix",
+      "score": 0,
+      "url": "/r/AgenticAdsHQ/comments/1y49zik/what_would_make_you_trust_an_agent_to_negotiate/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y49zuv/what_would_make_you_trust_an_agent_to_negotiate/",
+      "created_utc": 1795516366.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
