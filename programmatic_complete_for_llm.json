@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-26T09:04:06.623351+00:00",
-    "total_posts": 2162,
+    "scrape_date": "2026-11-26T19:11:44.043046+00:00",
+    "total_posts": 2163,
     "total_comments": 10665
   },
   "discussions": [
@@ -95616,6 +95616,20 @@
       "url": "/r/FacebookAds/comments/1y4mvhp/ad_tracker_redtrack_breached_attacker_reached/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y4mw2w/ad_tracker_redtrack_breached_attacker_reached/",
       "created_utc": 1795549789.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y5y3oo",
+      "title": "Need your genuine advice",
+      "author": "morphy39",
+      "score": 0,
+      "url": "/r/DigitalMarketingIndia/comments/1y5y3jt/need_your_genuine_advice/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y5y3oo/need_your_genuine_advice/",
+      "created_utc": 1795689321.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
