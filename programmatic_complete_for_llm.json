@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "Reddit r/programmatic",
-    "scrape_date": "2026-11-26T19:11:44.043046+00:00",
-    "total_posts": 2163,
+    "scrape_date": "2026-11-27T02:20:16.392383+00:00",
+    "total_posts": 2164,
     "total_comments": 10665
   },
   "discussions": [
@@ -95630,6 +95630,20 @@
       "url": "/r/DigitalMarketingIndia/comments/1y5y3jt/need_your_genuine_advice/",
       "permalink": "https://www.reddit.com/r/programmatic/comments/1y5y3oo/need_your_genuine_advice/",
       "created_utc": 1795689321.0,
+      "content": "",
+      "num_comments": 0,
+      "over_18": false,
+      "link_flair_text": null,
+      "comments": []
+    },
+    {
+      "id": "1y6ev5w",
+      "title": "I love mathematics, vibe coded a codec after an idea struck me, and it outperforms leading competitors in my tests. How do I validate and license it?",
+      "author": "klanews",
+      "score": 0,
+      "url": "/r/SideProject/comments/1y697pw/i_love_mathematics_vibe_coded_a_codec_after_an/",
+      "permalink": "https://www.reddit.com/r/programmatic/comments/1y6ev5w/i_love_mathematics_vibe_coded_a_codec_after_an/",
+      "created_utc": 1795736441.0,
       "content": "",
       "num_comments": 0,
       "over_18": false,
